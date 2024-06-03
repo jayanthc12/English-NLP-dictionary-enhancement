@@ -1,0 +1,28 @@
+<page>
+<title>yerel</title>
+<ns>0</ns>
+<id>2127592</id>
+<revision>
+<id>63926481</id>
+<parentid>62336855</parentid>
+<timestamp>2021-09-14T16:19:08Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="260" xml:space="preserve">==Turkish==
+===Etymology===
+Coined from {{m|tr|yer}} to replace the Arabic borrowing {{m|tr|mevzii}}.
+===Adjective===
+{{tr-adj}}
+# [[local]] (of a nearby location)
+# [[regional]], [[territorial]]
+===Further reading===
+* {{R:TDK}}
+* {{R:tr:Nishanyan|yerel}}</text>
+<sha1>3ozrrzrqwjw7d6xk0hdhxg65zjiui86</sha1>
+</revision>
+</page>

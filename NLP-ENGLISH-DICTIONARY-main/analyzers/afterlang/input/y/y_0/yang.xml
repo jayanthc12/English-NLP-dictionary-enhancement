@@ -1,0 +1,246 @@
+<page>
+<title>yang</title>
+<ns>0</ns>
+<id>41636</id>
+<revision>
+<id>69322891</id>
+<parentid>69321395</parentid>
+<timestamp>2022-09-19T02:36:22Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/Yaquilet|Yaquilet]]. If you think this rollback is in error, please leave a message on my talk page.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="8398" xml:space="preserve">{{also|Yang|yáng|yàng|Yáng|yāng|yǎng}}
+==English==
+{{wikipedia|yin and yang|yang}}
+===Etymology 1===
+From early romanizations of Chinese {{zh-l|陽}}, originally in reference to the sunny side of areas such as mountains and dwellings.
+====Alternative forms====
+* {{l|en|Yang}}
+====Pronunciation====
+* {{enPR|yăng}}, {{IPA|en|/jæŋ/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-yang.wav|Audio (UK)}}
+* {{rhymes|en|æŋ|s=1}}
+====Noun====
+{{en-noun|-}}
+# {{lb|en|philosophy}} A [[principle]] in [[Chinese]] and [[related]] [[East Asia]]n [[philosophies]] [[associate]]d with [[bright]], [[hot]], [[masculine]], [[etc.]] [[element]]s of the [[natural]] [[world]].
+#* {{quote-book|1=en|year=1956|year_published=1972|author=Anthony Burgess|authorlink=Anthony Burgess|title=Time for a Tiger|series=The Malayan Trilogy|page=187|passage=&quot;Steamed fish and chicken and vegetable soup and even mushrooms are considered cooling foods, edible materializations of the '''''yang''''', the pure primal air. The ''yin'', or earth element, inheres in fried dishes and especially in shark's fin soup. Am I right, Mr Lee?&quot;}}
+=====Related terms=====
+* {{sense|complement}} {{l|en|yin}}
+* {{sense|unity}} {{l|en|yin-yang}}
+* MONOGRAM FOR YANG [[⚊]]
+=====Translations=====
+{{trans-top|essential male principle}}
+* Chinese:
+*: Dungan: {{t|dng|ён}}
+*: Mandarin: {{t+|cmn|陽|sc=Hani}}, {{t+|cmn|阳|tr=yáng|sc=Hani}}
+* German: {{t+|de|Yang|n}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|jang}}
+* Japanese: {{t+|ja|陽|tr=よう, yō}}
+* Korean: {{t+|ko|양(陽)}}
+* Persian: {{t|fa|یانگ|tr=yāng}}
+* Russian: {{t+|ru|ян|m|n}}
+* Vietnamese: {{t+|vi|dương}} ({{t|vi|陽|sc=Hani}})
+{{trans-bottom}}
+===Etymology 2===
+From {{uder|en|ko|-}} {{ko-inline|양|yang|yang, tael|兩}}. {{doublet|en|liang}}.
+====Noun====
+{{en-noun}}
+# The [[currency|monetary unit]] of [[Korea]] from 1892 to 1902, divided into 100 [[pun]].
+===Etymology 3===
+Imitative.
+====Pronunciation====
+* {{rhymes|en|æŋ|s=1}}
+====Verb====
+{{en-verb}}
+# {{lb|en|rare}} To make the cry of the [[wild goose]].
+#* {{quote-book|en|year=1902|author=Eleanor Gates|title=The biography of a prairie girl|passage=Away they went, the colt in the lead and the pinto after, until they reached the bunch of cottonwoods far up the stream where the '''yanging''' wild geese had their nests.}}
+#* {{quote-book|en|year=1957|author=Adelbert Ames|title=Chronicles from the Nineteenth Century: 1874-1899|passage=Last night we were awakened by the barking of dogs and '''yanging''' of a goose, and investigated to find that the man had neglected to house the geese and the dogs were killing them.}}
+====Noun====
+{{en-noun}}
+# The cry of the wild goose; a [[honk]].
+#* {{quote-book
+|en
+|year=1867
+|year_published=
+|author=Gail Hamilton
+|by=
+|title=Wool-gathering
+|url=http://books.google.com/books?id=jPEOAAAAIAAJ&amp;pg=PA185
+|original=
+|chapter=
+|section=
+|isbn=
+|edition=
+|publisher=Ticknor and Fields
+|location=Boston
+|editor=
+|volume=
+|page=185
+|passage=''Hangs'' is a false word, — a Northern corruption of the negro dialect '''''yang''''', — an onomatopœian word, representing the &quot;far heard clang&quot; of the wild goose.
+}}
+===Anagrams===
+* {{anagrams|en|a=agny|Nagy}}
+[[Category:en:Currency]]
+----
+==French==
+===Etymology===
+{{bor+|fr|cmn|-}} {{zh-l|陽}}.
+===Pronunciation===
+* {{fr-IPA|yangue}}
+===Noun===
+{{fr-noun|m|-}}
+# {{l|en|yang}}
+===Further reading===
+* {{R:TLFi}}
+----
+==Indonesian==
+===Pronunciation===
+* {{IPA|id|/ˈjaŋ/}}
+* {{audio|id|ID-yang.ogg|Audio:}}
+* {{rhymes|id|jaŋ|aŋ|ŋ|s=1}}
+* {{hyphenation|id|yang}}
+===Etymology 1===
+From {{inh|id|ms|yang}}, from {{inh|id|ms-cla|يڠ|tr=yang}}, from {{inh|id|ms-old|yaṃ}}.
+====Conjunction====
+{{head|id|conjunction}}
+# [[which]] {{gloss|(relative) who, whom, what}}
+#: {{ux|id|Satu-satunya ranah dimana kita bisa setuju dengan mereka adalah posisi mereka '''yang''' menentang administrasi Joseph.|The only field in which we can agree with them is their stance, '''which''' opposes Joseph's administration.}}
+====Pronoun====
+{{head|id|pronoun}}
+# [[one]] {{gloss|impersonal pronoun}}
+====Alternative forms====
+* {{alter|id|yg||abbreviation}}
+* {{alter|id|jg||superseded|abbreviation}}
+====Derived terms====
+{{der4|id|
+| beryang-yang
+|}}
+{{der4|id|
+| yang dipertuan
+| yang mana
+|}}
+===Etymology 2===
+From {{inh|id|ms|yang}}, from {{inh|id|poz-mly-pro|*hiaŋ}}, from {{inh|id|poz-mcm-pro|*hiaŋ}}, from {{inh|id|poz-msa-pro|*hiaŋ}}, from {{inh|id|poz-pro|*qiaŋ}}.
+====Noun====
+{{id-noun|pl=duplication}}
+# {{lb|id|Hinduism}} {{l|en|hyang}}: An [[unseen]] [[spirit]] with [[supernatural]] [[power]]s, in [[ancient]] [[Indonesian]] [[mythology]].
+====Alternative forms====
+* {{l|ms|hiang}} {{q|Standard Malay}}
+* {{l|id|hyang}}
+===Etymology 3===
+From {{bor|id|zh|-}} {{zh-l|陽}}.
+====Noun====
+{{id-noun|pl=duplication}}
+# {{lb|id|philosophy}} {{l|en|yang}}: A [[principle]] in [[Chinese]] and [[related]] [[East Asia]]n [[philosophies]] [[associate]]d with [[bright]], [[hot]], [[masculine]], [[etc.]] [[element]]s of the [[natural]] [[world]].
+#: {{ant|id|yin}}
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Lashi==
+===Etymology===
+From {{inh|lsi|sit-pro|*g-jak ~ g-jaŋ||sheep, yak}}. Cognates include {{cog|zh|羊|tr=yáng||sheep, goat, antelope}} and {{cog|en|yak}}.
+===Pronunciation===
+* {{IPA|lsi|[jaŋ]}}
+===Noun===
+{{head|lsi|noun}}
+# [[sheep]]
+===References===
+* {{R:lsi:Luk:2017}}
+----
+==Malay==
+===Pronunciation===
+* {{IPA|ms|/iaŋ/}}
+* {{rhymes|ms|iaŋ|jaŋ|aŋ}}
+* {{audio|ms|Ms-MY-yang.ogg|Audio (MY)}}
+===Etymology 1===
+From {{m|ms|hiang}}, from {{uder|ms|poz-mly-pro|*hiaŋ}}, from {{uder|ms|poz-mcm-pro|*hiaŋ}}, from {{uder|ms|poz-msa-pro|*hiaŋ}}, from {{uder|ms|poz-pro|*qiaŋ}}.
+====Alternative forms====
+* {{l|ms|hiang}}
+* {{l|ms|yang-yang}}
+* {{l|ms|هياڠ|sc=Arab}}
+* {{l|ms|يڠ|sc=Arab}}
+* {{l|ms|يڠ٢|sc=Arab}}
+====Noun====
+{{head|ms|noun|Jawi spelling|يڠ|used only in the form|yang-yang}}
+# {{alternative form of|ms|hiang}}
+=====Synonyms=====
+* {{l|ms|tuhan}} / {{l|ms|توهن|sc=Arab}}
+* {{l|ms|dewa|g=m}} / {{l|ms|ديوا|sc=Arab|g=m}}, {{l|ms|dewi|g=f}} / {{l|ms|ديوي|sc=Arab|g=f}}
+* {{l|ms|ilah}} / {{l|ms|اله|sc=Arab}}
+===Etymology 2===
+====Alternative forms====
+* {{l|ms|yg}} (SMS slang)
+====Conjunction====
+{{ms-conj|j=يڠ}}
+# [[which]] {{gloss|(relative) who, whom, what}}
+====Pronoun====
+{{ms-pronoun|j=يڠ}}
+# [[one]] {{gloss|impersonal pronoun}}
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|yāng}}
+# {{nonstandard spelling of|cmn|sc=Latn|yáng}}
+# {{nonstandard spelling of|cmn|sc=Latn|yǎng}}
+# {{nonstandard spelling of|cmn|sc=Latn|yàng}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Mato==
+===Pronunciation===
+* {{IPA|met|[ˈjɑŋ]}}
+===Noun===
+{{head|met|noun}}
+# [[wind]]
+===References===
+* ''Phonological Descriptions of Papua New Guinea Languages'' (2005, SIL, edited by Steve Parker), section ''Mato (Nenaya, Nengaya, Nineia) Language'', page 28: yang [ˈjɑŋ] 'wind'
+----
+==Miskito==
+===Pronunciation===
+* {{IPA|miq|/jaŋ/}}
+===Pronoun===
+{{head|miq|pronoun}}
+# [[I]]
+====See also====
+{{miq-pers-pron}}
+----
+==Ternate==
+===Etymology===
+From {{der|tft|ms|yang}}, from {{der|tft|ms-old|yaṃ}}.
+===Pronunciation===
+* {{IPA|tft|[jaŋ]}}
+===Conjunction===
+{{tft-con|j=يڠ}}
+# {{n-g|relative clause introducer}}; [[which]], [[that]]
+#: {{syn|tft|ma}}
+#: {{uxi|tft|pangkat '''yang''' gaku|t=a high position|lit=a position '''which is''' high}}
+#: {{uxi|tft|ngofa halal '''yang''' manyirah|t=the legitimate eldest son|lit=the legitimate son '''who is''' eldest}}
+#: {{uxi|tft|oto '''yang''' ikuraci ngori ri die|t=the yellow car is mine|lit=the car '''which is''' yellow is my property}}
+====Usage notes====
+In older texts, as de Clercq mentions, ''yang'' was only used together with other Malay borrowings; in more recent usage, ''yang'' can follow non-Malay words as well.
+===References===
+* {{R:tft:Clercq:1890}}
+* {{R:tft:Hayami-Allen:2001}}
+----
+==Wutunhua==
+===Etymology===
+From {{der|wuh|cmn|-}} {{zh-l|羊}}.
+===Pronunciation===
+* {{IPA|wuh|[jɑ̃]}}
+===Noun===
+{{head|wuh|noun}}
+# [[sheep]]
+#: {{usex|wuh|je nga-n-de mize-de '''yang''' hai-li.|t=This is our little sister's '''sheep'''.|footer=(Quoted in Sandman, p. 99)}}
+===References===
+{{R:wuh:Sandman}}
+{{C|wuh|Animals}}</text>
+<sha1>lbqgsmmu9wkz34lhkccdeco6izrsyj3</sha1>
+</revision>
+</page>

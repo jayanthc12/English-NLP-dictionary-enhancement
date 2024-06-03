@@ -1,0 +1,23 @@
+<page>
+<title>xylanolyticum</title>
+<ns>0</ns>
+<id>3748982</id>
+<revision>
+<id>66995320</id>
+<parentid>57330582</parentid>
+<timestamp>2022-05-15T09:47:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xylanolyticus}} (3); combine {{inflection of|la|xylanolyticus}} tag sets nom|n|s and acc|n|s into nom//acc|n|s; combine {{inflection of|la|xylanolyticus}} tag sets nom//acc|n|s and voc|n|s into nom//acc//voc|n|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="123" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xylanolyticum}}
+# {{inflection of|la|xylanolyticus||nom//acc//voc|n|s|;|acc|m|s}}</text>
+<sha1>29nybhv9sistog8rfp1lf24diq7qvwu</sha1>
+</revision>
+</page>

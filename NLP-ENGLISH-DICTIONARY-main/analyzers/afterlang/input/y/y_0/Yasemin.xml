@@ -1,0 +1,26 @@
+<page>
+<title>Yasemin</title>
+<ns>0</ns>
+<id>1108417</id>
+<revision>
+<id>68725055</id>
+<parentid>57939468</parentid>
+<timestamp>2022-08-26T05:22:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|tr}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">{{also|yasemin}}
+==Turkish==
+===Etymology===
+From {{m|tr|yasemin||jasmine}}, from {{derived|tr|fa|یاسمن|tr=yâsaman}}.
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|female|from=Persian|eq=Jasmine}}</text>
+<sha1>3kpr8g08ywxri2ni58jcsjgziwzmen0</sha1>
+</revision>
+</page>

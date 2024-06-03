@@ -1,0 +1,34 @@
+<page>
+<title>xah</title>
+<ns>0</ns>
+<id>6553847</id>
+<revision>
+<id>64983971</id>
+<parentid>48992068</parentid>
+<timestamp>2021-12-18T01:07:03Z</timestamp>
+<contributor>
+<username>Thadh</username>
+<id>3494157</id>
+</contributor>
+<comment>Added South Slavey</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="316" xml:space="preserve">==Dogrib==
+===Noun===
+{{head|dgr|noun}}
+# [[goose]]
+----
+==South Slavey==
+===Etymology===
+From {{inh|xsl|ath-pro|*x̣αx̣}}. Cognates include {{cog|dgr|xah}}.
+===Pronunciation===
+* {{IPA|xsl|/xàh/}}
+===Noun===
+{{head|xsl|noun}}
+# [[goose]]
+===References===
+* {{R:xsl:Rice:1989|page=95}}
+{{C|xsl|Anatids}}</text>
+<sha1>jm67ora60d95b2nz4er350ig84medm1</sha1>
+</revision>
+</page>

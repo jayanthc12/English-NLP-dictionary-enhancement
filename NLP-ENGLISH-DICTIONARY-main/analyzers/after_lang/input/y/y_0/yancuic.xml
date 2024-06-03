@@ -1,0 +1,62 @@
+<page>
+<title>yancuic</title>
+<ns>0</ns>
+<id>768523</id>
+<revision>
+<id>68783168</id>
+<parentid>64115660</parentid>
+<timestamp>2022-08-27T10:55:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1203" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Tlaxcala}} {{l|nhn|yankuik}}
+===Etymology===
+From {{der|nhn|nci|yancuic}}.
+===Pronunciation===
+* {{IPA|nhn|/jankʷik/}}
+===Adjective===
+{{head|nhn|adjective}}
+# [[new]]
+===References===
+* Aguilar Carrera, Sergio (2012); ''Método práctico de lengua náhuatl del Altiplano Mexicano''; Amecameca variant, Dirección de Casa de Cultura de Tecámac, State of Mexico, Mexico. ISBN 03-2012-030812540200-01.
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+[[Category:Milpa Alta Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/jankʷik/}}
+===Adjective===
+{{head|nci|adjectives}}
+# [[new|New]].
+====Derived terms====
+* {{l|nci|Yancuic Mexihco}}
+* {{l|nci|yancuic mexico}}
+* {{l|nci|yancuican}}
+[[Category:Classical Nahuatl terms using regularized orthography]]
+----
+==Eastern Huasteca Nahuatl==
+===Etymology===
+Cognate to {{cog|nci|yancuic}}
+===Adjective===
+{{head|nhe|adjective}}
+# [[new]].
+----
+==Northern Puebla Nahuatl==
+===Etymology===
+Cf. {{cog|nci|yancuic}}.
+===Adjective===
+{{head|ncj|adjective}}
+# {{l|en|new}}
+===References===
+* {{R:Brockway et al. 2018|page=249}}</text>
+<sha1>9up3gqt4t6hmtd4cwnomass6rdy4xrx</sha1>
+</revision>
+</page>

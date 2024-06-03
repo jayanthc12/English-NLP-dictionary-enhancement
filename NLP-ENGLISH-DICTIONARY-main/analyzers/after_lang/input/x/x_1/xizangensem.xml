@@ -1,0 +1,23 @@
+<page>
+<title>xizangensem</title>
+<ns>0</ns>
+<id>3401493</id>
+<revision>
+<id>66995287</id>
+<parentid>57044764</parentid>
+<timestamp>2022-05-15T09:47:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xizangēnsis}}; combine {{inflection of|la|xizangēnsis}} tag sets acc|m|s and acc|f|s into acc|m//f|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xizangēnsem}}
+# {{inflection of|la|xizangēnsis||acc|m//f|s}}</text>
+<sha1>miswgjkdyh3pux5cvrifptjt3byv27c</sha1>
+</revision>
+</page>

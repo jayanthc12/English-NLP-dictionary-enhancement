@@ -1,0 +1,33 @@
+<page>
+<title>xarrupar</title>
+<ns>0</ns>
+<id>1331639</id>
+<revision>
+<id>67062719</id>
+<parentid>64460130</parentid>
+<timestamp>2022-05-18T21:10:29Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="365" xml:space="preserve">==Catalan==
+===Etymology===
+Probably ultimately from {{der|ca|la|sorbeō||I suck in}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=3}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|transitive}} to [[sip]]
+====Conjugation====
+{{ca-conj-ar|xarrup}}
+====Derived terms====
+{{der3|ca|xarrup|xarrupada|xarrupejar|xarrupallànties}}
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>3cj4b73z54gdgva569g4jzecck9l5ht</sha1>
+</revision>
+</page>

@@ -1,0 +1,121 @@
+<page>
+<title>Xerxes</title>
+<ns>0</ns>
+<id>205527</id>
+<revision>
+<id>69114398</id>
+<parentid>66481482</parentid>
+<timestamp>2022-09-04T16:53:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3802" xml:space="preserve">==English==
+{{wikipedia|Xerxes|Xerxes (disambiguation)}}
+===Etymology===
+From {{der|en|grc|Ξέρξης}}, from {{der|en|peo|𐎧𐏁𐎹𐎠𐎼𐏁𐎠||ruler among kings|ts=Xšayāršā}}. {{doublet|en|Ahasuerus}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈzɜːk.siːz/}}
+* {{a|US}} {{enPR|zûrk'sēz}}, {{IPA|en|/ˈzɝksiːz/}}
+===Proper noun===
+{{en-proper noun|es}}
+# {{lb|en|historical}} [[w:Xerxes_I_of_Persia|Xerxes I]], a Persian king of the Achaemenid dynasty who reigned 485-465 BC.
+# {{lb|en|historical}} [[w:Xerxes_II_of_Persia|Xerxes II]], a Persian king who ruled for 45 days in 424 BC before being assassinated.
+# {{non-gloss definition|{{given name|en|male|from=Old Persian}} mainly applied to historical and fictional characters.}}
+====Translations====
+{{trans-top|Xerxes I of Persia}}
+* Arabic: {{t|ar|خْشَايَارْشَا|m}}, {{t|ar|خَرْخَس|m}}
+* Armenian: {{t|hy|Քսերքսես}}
+* Czech: {{t|cs|Xerxes|m}}, {{t|cs|Xerxés|m}}
+* Finnish: {{t|fi|Kserkses|alt=Kserkses I}}
+* French: {{t+|fr|Xerxès|m}}
+* Georgian: {{t|ka|ქსერქსე I}}
+* German: {{t+|de|Xerxes|m}}
+* Greek: {{t+|el|Ξέρξης|m}}, {{t|el|Ξέρξης Α΄|m}}
+*: Ancient: {{t|grc|Ξέρξης|m}}
+* Hebrew: {{t+|he|אֲחַשְׁוֵרוֹשׁ|tr=akhashverósh}}
+* Hindi: {{t|hi|क्षयार्षा}}
+* Indonesian: {{t|id|Ahasyweros}}
+{{trans-mid}}
+* Italian: {{t+|it|Serse|m}}
+* Kurdish:
+*: Northern Kurdish: {{t|kmr|Xeşeyerşa I}}
+* Latin: {{t|la|Xerxes|m}}
+* Marathi: {{t|mr|खशायर शाह|sc=Deva}}
+* Persian: {{t+|fa|خشایارشا|tr=Xašâyâršâ|sc=fa-Arab}}, {{t+|fa|خشایار|tr=xašâyâr|sc=fa-Arab}}
+*: Old Persian: {{t|peo|𐎧𐏁𐎹𐎠𐎼𐏁𐎠|ts=xšayāršā|sc=Xpeo}}
+* Polish: {{t+|pl|Kserkses|m|alt=Kserkses I}}
+* Portuguese: {{t|pt|Xerxes|m}}
+* Russian: {{t|ru|Ксеркс|m}}
+* Spanish: {{t|es|Jerjes|alt=Jerjes I|m}}
+* Ukrainian: {{t|uk|Ксеркс|m}}
+{{trans-bottom}}
+{{trans-top|Xerxes II of Persia}}
+* Armenian: {{t|hy|Քսերքսես}}
+* Czech: {{t|cs|Xerxes|m}}, {{t|cs|Xerxés|m}}
+* Finnish: {{t|fi|Kserkses|alt=Kserkses II}}
+* Greek: {{t|el|Ξέρξης Β΄|m}}
+{{trans-mid}}
+* Polish: {{t+|pl|Kserkses|m|alt=Kserkses II}}
+* Russian: {{t|ru|Ксеркс|m}}
+* Spanish: {{t|es|Jerjes|alt=Jerjes II|m}}
+* Ukrainian: {{t|uk|Ксеркс|m}}
+{{trans-bottom}}
+{{trans-top|given name}}
+* Polish: {{t+|pl|Kserkses|m}}
+{{trans-mid}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Arabic: {{t-check|ar|خْشَايَارْشَا|m}}, {{t-check|ar|خَرْخَس|m}}
+* Esperanto: {{t-check|eo|Kserkso}}
+* Hebrew: {{t+check|he|אחשורוש|m|tr=akhashwerosh|sc=Hebr}}
+* Hungarian: {{t+check|hu|Xerxész}}
+* Kurdish:
+*: Northern Kurdish: {{t-check|kmr|Xeşeyerşa}}
+* Persian: {{t+check|fa|خشایارشا|tr=khšāyāršā}}, {{t+check|fa|خشایارشاه|tr=khšāyāršāh}}
+{{trans-mid}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-check|sh|Ксеркс|m|sc=Cyrl}}
+*: Latin: {{t-check|sh|Kserks|m}}
+* Slovene: {{t-check|sl|Kserkses|m}}
+* Turkish: {{t-check|tr|Serhas}}
+{{trans-bottom}}
+===See also===
+* {{l|en|Ahasuerus}}
+* {{l|en|Artaxerxes}}
+[[Category:en:Ancient Near East]]
+[[Category:en:Individuals]]
+----
+==Catalan==
+===Proper noun===
+{{ca-proper noun|m}}
+# {{l|en|Xerxes}}
+----
+==Latin==
+===Etymology===
+From {{bor|la|grc|Ξέρξης}}.
+===Pronunciation===
+* {{la-IPA|Xerxēs}}
+===Noun===
+{{la-proper noun|((Xerxēs&lt;1.Greek&gt;,Xerxēs&lt;3&gt;))|g=m}}
+# {{l|en|Xerxes}} (specifically {{w|Xerxes I}})
+====Declension====
+Both first- and third-declension forms are found:
+{{la-ndecl|Xerxēs&lt;1.Greek&gt;}}
+{{la-ndecl|Xerxēs&lt;3&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|m}}
+# {{l|en|Xerxes}} {{gloss|name of various Persian emperors}}
+{{C|pt|Individuals}}</text>
+<sha1>n24a51vo29q7i8s0kabiaivyiggy8hb</sha1>
+</revision>
+</page>

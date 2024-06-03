@@ -1,0 +1,27 @@
+<page>
+<title>xanthodont</title>
+<ns>0</ns>
+<id>3730938</id>
+<revision>
+<id>68812745</id>
+<parentid>51983504</parentid>
+<timestamp>2022-08-27T19:58:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xanth|odont}}.
+===Noun===
+{{en-noun|!}}
+# {{lb|en|rare|formal|or|humorous}} A person who has [[yellow]] [[tooth|teeth]].
+[[Category:English 3-syllable words]]
+[[Category:en:People]]</text>
+<sha1>68iafuciuduvy6mtxs9wapusicgsn4l</sha1>
+</revision>
+</page>

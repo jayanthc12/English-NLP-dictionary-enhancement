@@ -1,0 +1,35 @@
+<page>
+<title>xutar</title>
+<ns>0</ns>
+<id>6568630</id>
+<revision>
+<id>65630590</id>
+<parentid>64460259</parentid>
+<timestamp>2022-02-03T20:48:58Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="401" xml:space="preserve">==Catalan==
+===Etymology===
+From {{m|ca|xut}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|sports|intransitive|transitive}} to [[kick]] (a ball)
+# {{lb|ca|pronominal|slang}} to [[shoot up]] {{gloss|inject a drug}}
+====Conjugation====
+{{ca-conj-ar|xut}}
+====Derived terms====
+* {{l|ca|xutada}}
+* {{l|ca|xutador}}
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>ri307nnoj0u0abnhqrw6pcg9qzwiakj</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xilofone</title>
+<ns>0</ns>
+<id>814069</id>
+<revision>
+<id>69114414</id>
+<parentid>62983100</parentid>
+<timestamp>2022-09-04T16:54:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="283" xml:space="preserve">==Afrikaans==
+===Noun===
+{{head|af|noun form}}
+# {{plural of|af|xilofoon}}
+----
+==Portuguese==
+===Etymology===
+From {{affix|pt|xilo-|-fone}}.
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|musical instrument}} [[xylophone]] {{gloss|instrument consisting of wooden bars struck by mallets}}</text>
+<sha1>hci1uuwd0tpe6ttkgs75445gddpwn6o</sha1>
+</revision>
+</page>

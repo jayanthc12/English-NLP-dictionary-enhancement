@@ -1,0 +1,32 @@
+<page>
+<title>xemxi</title>
+<ns>0</ns>
+<id>3620483</id>
+<revision>
+<id>67314910</id>
+<parentid>64993662</parentid>
+<timestamp>2022-06-08T05:13:11Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="540" xml:space="preserve">==Maltese==
+{{mt-root|x-m-x}}
+===Etymology===
+From {{af|mt|xemx|t1=sun|-i|id2=adjectival}}. As such perhaps inherited from {{inh|mt|ar|شَمْسِيّ||solar}}, but in the grammatical sense a calque of the {{cal|mt|ar|-|notext=1}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛm.ʃɪ/}}
+===Adjective===
+{{mt-adjective|f=xemxija|p=xemxin}}
+# [[sunny]]
+# {{lb|mt|rare}} [[solar]]
+#: {{syn|mt|solari}}
+#: {{ant|mt|lunari|qamri}}
+# {{lb|mt|grammar|of a consonant}} assimilating to the definite article {{m|mt|il-}} (which see)
+#: {{ant|mt|qamri}}</text>
+<sha1>f9jl5uvrz6b7yuqejskgktimireyws0</sha1>
+</revision>
+</page>

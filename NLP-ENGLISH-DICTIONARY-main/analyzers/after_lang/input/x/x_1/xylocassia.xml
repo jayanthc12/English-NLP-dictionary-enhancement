@@ -1,0 +1,28 @@
+<page>
+<title>xylocassia</title>
+<ns>0</ns>
+<id>4151354</id>
+<revision>
+<id>53816482</id>
+<parentid>53646665</parentid>
+<timestamp>2019-08-04T12:09:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun|xylocassia&lt;1&gt;}}
+# [[cassia]] [[wood]]
+====Declension====
+{{la-ndecl|xylocassia&lt;1&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>325uv55fvlt51g7l5dm2oqc0kd50mkb</sha1>
+</revision>
+</page>

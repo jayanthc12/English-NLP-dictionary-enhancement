@@ -1,0 +1,34 @@
+<page>
+<title>yawu</title>
+<ns>0</ns>
+<id>325753</id>
+<revision>
+<id>63712850</id>
+<parentid>60227564</parentid>
+<timestamp>2021-08-21T12:45:01Z</timestamp>
+<contributor>
+<username>Actia Nicopolis</username>
+<id>1331179</id>
+</contributor>
+<minor />
+<comment>([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Kld.yawu.wav]] → [[File:Kld-yawu.wav]] [[c:COM:FR#FR4|Criterion 4]] (harmonizing names of file set)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="628" xml:space="preserve">==Gamilaraay==
+[[File:Kld-yawu.wav|thumb|yawu]]
+===Alternative forms===
+* {{l|kld|yo}}
+===Particle===
+{{head|kld|particles}}
+# [[yes]]
+#* '''1856''', William Ridley, ''On the Kamilaroi Tribe of Australians and Their Dialect,'' in ''Journal of the Ethnological Society of London'', volume 4:
+#*: Affirmitive . . . '''yo''' . . yes.
+#* '''1903''', R. H. Mathews, ''Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales'', in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 33:
+#*: Yes, '''''yo'''''.
+===See also===
+* {{l|kld|ngaa}}
+===References===
+* {{R:kld:Austin}}</text>
+<sha1>f68ob2q59p8j6k1iteuy22xkjy4h6l5</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yeyuka</title>
+<ns>0</ns>
+<id>6390299</id>
+<revision>
+<id>66137109</id>
+<parentid>61882356</parentid>
+<timestamp>2022-03-13T15:01:29Z</timestamp>
+<contributor>
+<username>MartinMichlmayr</username>
+<id>1081677</id>
+</contributor>
+<minor />
+<comment>/* Swahili */ Fix typo</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==Swahili==
+===Pronunciation===
+* {{audio|sw|Sw-ke-yeyuka.flac|Audio (Kenya)}}
+===Verb===
+{{sw-verb}}
+# to [[dissolve]], [[melt]], [[liquefy]]
+====Conjugation====
+{{sw-conj}}
+====Derived terms====
+{{sw-der|pass|caus=yeyusha}}</text>
+<sha1>krjv8iuwxupmoikjq33dx45680gpam9</sha1>
+</revision>
+</page>

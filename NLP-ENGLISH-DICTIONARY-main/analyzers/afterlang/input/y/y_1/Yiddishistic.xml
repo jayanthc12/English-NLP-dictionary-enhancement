@@ -1,0 +1,33 @@
+<page>
+<title>Yiddishistic</title>
+<ns>0</ns>
+<id>4099144</id>
+<revision>
+<id>62712589</id>
+<parentid>41981859</parentid>
+<timestamp>2021-06-11T03:53:15Z</timestamp>
+<contributor>
+<username>Hans-Friedrich Tamke</username>
+<id>13400</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="381" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|Yiddish|istic}}.
+===Adjective===
+{{en-adj|-}}
+# [[Yiddishist]]
+====Synonyms====
+* {{l|en|Yiddishist}} {{q|adjective}}
+====Related terms====
+* {{l|en|Yiddishist}} {{q|noun}}
+====Translations====
+{{trans-top|Yiddishistic}}
+* German: {{t+|de|jiddischistisch}}
+{{trans-mid}}
+* Yiddish: {{t|yi|ייִדישיסטיש}}
+{{trans-bottom}}</text>
+<sha1>lyb2ew0lwnsj4f0bcfgk8r5touqhehy</sha1>
+</revision>
+</page>

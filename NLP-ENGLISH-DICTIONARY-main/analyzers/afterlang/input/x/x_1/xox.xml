@@ -1,0 +1,53 @@
+<page>
+<title>xox</title>
+<ns>0</ns>
+<id>944468</id>
+<revision>
+<id>69503959</id>
+<parentid>69503954</parentid>
+<timestamp>2022-10-12T21:47:39Z</timestamp>
+<contributor>
+<username>ZazaLejyoner</username>
+<id>3924276</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="710" xml:space="preserve">{{also|хох}}
+==Northern Kurdish==
+===Etymology===
+From {{bor|kmr|ar|خَوْخ}}.
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# [[peach]]
+====Derived terms====
+* {{l|kmr|darxox}}
+{{cln|kmr|three-letter words}}
+----
+==Phalura==
+===Etymology===
+From {{bor|phl|ps|tr=xwax}}.
+===Pronunciation===
+* {{IPA|phl|/xox/}}
+===Adjective===
+{{head|phl|adjective|invariable||Perso-Arabic spelling|خوۡخ}}
+# liked
+# choice
+====Alternative forms====
+* {{alter|phl|xoš||Biori}}
+===References===
+* {{R:phl:Liljegren:Vocab}}
+----
+==Zazaki==
+===Etymology===
+From Arabic {{bor|zza|ar|خَوْخ}}.
+===Noun===
+{{head|zza|noun|g=f}}
+# [[peach]]
+====Derived terms====
+* [[xoxêr]]
+* [[xewx]]</text>
+<sha1>hekybqhifrkwesfnu9iv6yv45fnwam8</sha1>
+</revision>
+</page>

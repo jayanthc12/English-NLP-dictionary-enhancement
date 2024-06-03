@@ -1,0 +1,26 @@
+<page>
+<title>xenophorid</title>
+<ns>0</ns>
+<id>3728972</id>
+<revision>
+<id>63771257</id>
+<parentid>59080076</parentid>
+<timestamp>2021-08-28T01:25:12Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Gastropods]]; added [[Category:en:Littorinimorphs]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="216" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any [[gastropod]] in the [[family]] {{taxlink|Xenophoridae|family}}.
+===Anagrams===
+* {{anagrams|en|a=dehinooprx|xenorophid}}
+[[Category:en:Littorinimorphs]]</text>
+<sha1>03x986qnskmsdk2ce126xp7qydydeeu</sha1>
+</revision>
+</page>

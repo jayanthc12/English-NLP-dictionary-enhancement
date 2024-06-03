@@ -1,0 +1,23 @@
+<page>
+<title>xintada</title>
+<ns>0</ns>
+<id>4329532</id>
+<revision>
+<id>54627336</id>
+<parentid>33490899</parentid>
+<timestamp>2019-10-03T12:05:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine singular past participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==Asturian==
+===Verb===
+{{head|ast|past participle form|g=f}}
+# {{feminine singular past participle of|ast|xintar|nocat=1}}</text>
+<sha1>3nr1tqc04k9h1u2x5qw48qhsf45dlvs</sha1>
+</revision>
+</page>

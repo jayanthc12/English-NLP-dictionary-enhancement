@@ -1,0 +1,33 @@
+<page>
+<title>yhteiskuntafilosofia</title>
+<ns>0</ns>
+<id>7096378</id>
+<revision>
+<id>59509563</id>
+<parentid>58620591</parentid>
+<timestamp>2020-06-10T21:05:25Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) split lemma and nonlemma etymologies</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Finnish==
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunta/filosofia}}
+===Etymology 1===
+{{affix|fi|yhteiskunta|filosofia}}
+====Noun====
+{{fi-noun}}
+# [[social]] [[philosophy]]
+=====Declension=====
+{{fi-decl-kulkija|yhteiskuntafilosofi|a}}
+===Etymology 2===
+====Noun====
+{{head|fi|noun form}}
+# {{fi-form of|case=partitive|pl=singular|yhteiskuntafilosofi}}</text>
+<sha1>7aegn1jy1ize5u9ua23hi6lu05tpuw6</sha1>
+</revision>
+</page>

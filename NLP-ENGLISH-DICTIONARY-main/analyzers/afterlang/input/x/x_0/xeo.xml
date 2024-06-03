@@ -1,0 +1,41 @@
+<page>
+<title>xeo</title>
+<ns>0</ns>
+<id>1585903</id>
+<revision>
+<id>68862070</id>
+<parentid>68861382</parentid>
+<timestamp>2022-08-28T05:11:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="554" xml:space="preserve">{{also|xe'o|xèo|xéo|xẹo}}
+==Galician==
+===Etymology===
+Inherited from Old Galician and {{inh|gl|roa-opt|geo}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|gelū}}. Compare {{cog|pt|gelo}}, {{cog|es|hielo}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃe.ʊ]}}
+===Noun===
+{{gl-noun|m}}
+# [[ice]]
+#: {{syn|gl|lazo|xelo}}
+====Related terms====
+* {{l|gl|axear}}
+* {{l|gl|xeada}}
+* {{l|gl|xeado}}
+* {{l|gl|xear}}
+* {{l|gl|xieiro}}
+===References===
+* {{R:gl:DDGM|geo}}
+* {{R:gl:CX|geo}}
+* {{R:gl:DDLG|xio}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>79jfwx9pdn3z9eewrlhn7jukdp711n2</sha1>
+</revision>
+</page>

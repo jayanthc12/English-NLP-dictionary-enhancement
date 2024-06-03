@@ -1,0 +1,32 @@
+<page>
+<title>YAML</title>
+<ns>0</ns>
+<id>2850408</id>
+<revision>
+<id>64245224</id>
+<parentid>54721314</parentid>
+<timestamp>2021-10-16T17:57:46Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="567" xml:space="preserve">==English==
+===Etymology===
+A [[retronym]]: originally ''Yet Another Markup Language'', now reinterpreted as ''YAML Ain't Markup Language''.
+===Pronunciation===
+* {{IPA|en|/ˈjæməl/}}
+* {{rhymes|en|æməl|s=2}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|computer languages}} A [[human-readable]] [[data]] [[serialization]] [[format]] that takes concepts from [[XML]] and from various [[programming language]]s.
+#: {{coordinate terms|en|XML|JSON}}
+===Further reading===
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=almy|Almy|Lamy|Maly|Myla|amyl|lyam|myal}}</text>
+<sha1>sj1db7oycxtl8psldr7qiwixeyfpaax</sha1>
+</revision>
+</page>

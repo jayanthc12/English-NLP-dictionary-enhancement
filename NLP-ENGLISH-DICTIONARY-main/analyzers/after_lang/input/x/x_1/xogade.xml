@@ -1,0 +1,23 @@
+<page>
+<title>xogade</title>
+<ns>0</ns>
+<id>1232194</id>
+<revision>
+<id>56625953</id>
+<parentid>35000386</parentid>
+<timestamp>2019-10-18T09:44:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xogar||2|p|impr}}</text>
+<sha1>tmg73jotgo9n0tlzew7xjkut39tpfcg</sha1>
+</revision>
+</page>

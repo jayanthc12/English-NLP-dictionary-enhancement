@@ -1,0 +1,28 @@
+<page>
+<title>yersinioses</title>
+<ns>0</ns>
+<id>4936510</id>
+<revision>
+<id>62863636</id>
+<parentid>55786018</parentid>
+<timestamp>2021-06-17T07:25:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yersiniosis}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=f-p}}
+# {{plural of|fr|yersiniose}}</text>
+<sha1>1sxt6gf6si3z42319vp8904qzfv7fgy</sha1>
+</revision>
+</page>

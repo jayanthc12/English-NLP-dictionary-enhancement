@@ -1,0 +1,30 @@
+<page>
+<title>yarnover</title>
+<ns>0</ns>
+<id>3777506</id>
+<revision>
+<id>68656075</id>
+<parentid>65230626</parentid>
+<timestamp>2022-08-17T07:34:26Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yarn-over}}
+* {{l|en|yarn over}}
+===Etymology===
+{{compound|en|yarn|over}}
+===Noun===
+{{en-noun}}
+{{wikipedia|Yarn over}}
+# {{lb|en|knitting}} A [[technique]] in which the [[yarn]] is passed over the right-hand [[needle]]. In general, the new loop is knitted on the next row, either by itself (producing a hole) or together with an adjacent [[stitch]].
+====Synonyms====
+* {{l|en|y/o}}</text>
+<sha1>idp30hm10m4l3nx5n67rqznw991d3wk</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xenotransplantatie</title>
+<ns>0</ns>
+<id>7243297</id>
+<revision>
+<id>59233466</id>
+<parentid>54919230</parentid>
+<timestamp>2020-04-29T01:58:49Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Nl-xenotransplantatie.ogg</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==Dutch==
+===Etymology===
+Likely borrowed. Equivalent to {{pre|nl|xeno|transplantatie}}.
+===Pronunciation===
+* {{IPA|nl|/ˈkseː.noː.trɑns.plɑnˌtaː.(t)si/}}
+* {{audio|nl|Nl-xenotransplantatie.ogg|Audio}}
+* {{hyphenation|nl|xe|no|trans|plan|ta|tie}}
+===Noun===
+{{nl-noun|f|-s|-}}
+# [[xenotransplantation]] {{defdate|from 1970s}}
+#: {{syn|nl|heterotransplantatie}}</text>
+<sha1>imf0s03wv2ilpd0tcz691y8azimivth</sha1>
+</revision>
+</page>

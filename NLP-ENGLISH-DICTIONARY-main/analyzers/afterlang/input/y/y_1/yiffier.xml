@@ -1,0 +1,25 @@
+<page>
+<title>yiffier</title>
+<ns>0</ns>
+<id>1769334</id>
+<revision>
+<id>51223251</id>
+<parentid>28384744</parentid>
+<timestamp>2019-01-08T18:36:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:en) change comparative &amp; superlative adjective &amp; adverb categorization</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==English==
+===Etymology===
+[[yiffy]] + [[-er]]
+===Adjective===
+{{head|en|comparative adjective}}
+# {{en-comparative of|yiffy}}</text>
+<sha1>tilxrxxj3cebltcu1h5m00fwq0nxep3</sha1>
+</revision>
+</page>

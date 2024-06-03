@@ -1,0 +1,26 @@
+<page>
+<title>yiebdaeuz</title>
+<ns>0</ns>
+<id>7273380</id>
+<revision>
+<id>53655503</id>
+<parentid>53655198</parentid>
+<timestamp>2019-07-14T02:47:13Z</timestamp>
+<contributor>
+<username>Justinrleung</username>
+<id>1298227</id>
+</contributor>
+<comment>/* Proper noun */ I doubt Sawndip is attestable for such a new word</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="323" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{com|za|yieb|t1=page|pos1=from {{der|za|zh|頁}}|daeuz|t2=first|pos2=from {{der|za|zh|頭}} “head; first”}}. Compare {{cog|zh|-}} {{zh-l|首頁}}, from {{zh-l|首|head; first}} + {{zh-l|頁|page}}.
+===Pronunciation===
+* {{za-pron}}
+===Proper noun===
+{{za-head|noun}}
+# [[home page]]</text>
+<sha1>cey8njibg15wmqlyujc7oi0jeads0z9</sha1>
+</revision>
+</page>

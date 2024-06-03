@@ -1,0 +1,25 @@
+<page>
+<title>xanthoprotein</title>
+<ns>0</ns>
+<id>2139493</id>
+<revision>
+<id>51768230</id>
+<parentid>45485827</parentid>
+<timestamp>2019-03-13T12:05:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xantho|protein}}
+===Noun===
+{{en-noun}}
+# A [[protein]] formed when [[xanthoproteic acid]] contacts [[epithelial]] [[cell]]s, indicative of inadequate safety precautions when handling [[nitric acid]].</text>
+<sha1>pi2j2cex4m2x0x75pzl15gzhwci47oe</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>Yaou</title>
+<ns>0</ns>
+<id>1960580</id>
+<revision>
+<id>61918114</id>
+<parentid>61918109</parentid>
+<timestamp>2021-03-02T04:37:40Z</timestamp>
+<contributor>
+<username>Word dewd544</username>
+<id>533603</id>
+</contributor>
+<minor />
+<comment>/* Breton */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="573" xml:space="preserve">{{also|Yà'Ōu}}
+==Breton==
+===Etymology===
+From {{inh|br|cel-bry-pro}}, borrowed through {{bor|br|VL.|-}} from {{bor|br|la|Iuppiter|Iūppiter, Iovis|Jupiter}}. Compare {{cog|cy|Iau}}, {{cog|kw|de Yow|Yow}}.
+===Pronunciation===
+* {{IPA|br|/jaʊ/}}
+===Proper noun===
+{{head|br|proper noun|g=m}}
+# [[Thursday]]
+# {{lb|br|astronomy|Roman mythology}} [[Jupiter]]
+====Synonyms====
+* {{l|br|diriaou}}
+====See also====
+* {{sense|day of the week}} Previous: {{l|br|Merc'her}}. Next: {{l|br|Gwener}}
+[[Category:Breton proper nouns|yaou]]
+[[Category:br:Days of the week|yaou]]</text>
+<sha1>10s7n4agax22xi43a3nvgjy6f359lmm</sha1>
+</revision>
+</page>

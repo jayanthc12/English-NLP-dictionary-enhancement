@@ -1,0 +1,32 @@
+<page>
+<title>yhteenveto</title>
+<ns>0</ns>
+<id>712950</id>
+<revision>
+<id>69318424</id>
+<parentid>61741982</parentid>
+<timestamp>2022-09-18T17:17:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteen|t1=into one|veto|t2=pull|id2=pull}}
+===Pronunciation===
+{{fi-p|yhteen-veto}}
+===Noun===
+{{fi-noun}}
+# [[summary]], [[synopsis]], [[overview]]
+# [[wrap-up]]
+#: ''tehdä ~'': to sum up
+====Declension====
+{{fi-decl-valo|yhteenve|t|d|o|a}}
+====Synonyms====
+* {{sense|synopsis}} {{l|fi|synopsis}}, {{l|fi|tiivistelmä}}</text>
+<sha1>nnjii3dh1pxxnkcg5blyq1qf8pkgq05</sha1>
+</revision>
+</page>

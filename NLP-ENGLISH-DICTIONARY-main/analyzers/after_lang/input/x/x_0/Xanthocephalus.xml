@@ -1,0 +1,34 @@
+<page>
+<title>Xanthocephalus</title>
+<ns>0</ns>
+<id>3075350</id>
+<revision>
+<id>60255368</id>
+<parentid>51982135</parentid>
+<timestamp>2020-09-05T00:16:42Z</timestamp>
+<contributor>
+<username>Fringilla</username>
+<id>163840</id>
+</contributor>
+<minor />
+<comment>added [[Category:mul:Icterids]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==Translingual==
+===Etymology===
+{{confix|mul|xantho|cephalus}}
+===Proper noun===
+{{taxoninfl|i=1|g=n}}
+# {{taxon|genus|family|Icteridae}}
+====Hypernyms====
+* {{sense|genus}} {{Icteridae Hypernyms}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]
+[[Category:mul:Icterids]]</text>
+<sha1>rry8gm3rxzg2f3vqv68mkrr9up3jahk</sha1>
+</revision>
+</page>

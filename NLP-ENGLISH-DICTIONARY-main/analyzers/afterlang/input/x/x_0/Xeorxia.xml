@@ -1,0 +1,30 @@
+<page>
+<title>Xeorxia</title>
+<ns>0</ns>
+<id>1623408</id>
+<revision>
+<id>58557016</id>
+<parentid>58360205</parentid>
+<timestamp>2020-01-26T22:09:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: gl:Countries</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="700" xml:space="preserve">==Galician==
+===Proper noun===
+{{gl-proper noun|f}}
+# {{place|gl|country|r/Eastern Europe|t1=Georgia}}
+# {{place|gl|state|c/USA|t1=Georgia}}
+#* {{quote-journal|gl|journal=TVG|title=O Furacán Dorian chegará á costa da Florida con menos forza|date=September 3 2019
+|passage=Dorian segue a súa traxectoria cara a Florida con ventos de 175 km por hora. Despois chegará a '''Xeorxia''' e Carolina do sur.
+|t=Dorian follows its trajectory toward Florida with 175 km per hour winds. Afterward it will arrive at '''Georgia''' and South Carolina.
+|url=http://www.crtvg.es/informativos/o-furacan-dorian-pasa-a-categoria-3-e-desprazase-cara-a-florida-4178351}}
+====Related terms====
+* {{l|gl|xeorxiano}}</text>
+<sha1>2oqntu88kt0in8z4xg2g17bsinac11f</sha1>
+</revision>
+</page>

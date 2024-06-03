@@ -1,0 +1,31 @@
+<page>
+<title>Yamanoue</title>
+<ns>0</ns>
+<id>7183161</id>
+<revision>
+<id>67966457</id>
+<parentid>67794540</parentid>
+<timestamp>2022-07-16T04:54:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>eliminate dab= in {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==English==
+{{wikipedia|lang=en}}
+===Etymology===
+{{bor|en|ja|やまのうえ|tr=Yamanoue}}
+===Proper noun===
+{{en-proper-noun}}
+# {{surname|en|from=Japanese}}.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{romanization of|ja|やまのうえ}}</text>
+<sha1>c801ukts6nyytqro4xhy3bun0ys191x</sha1>
+</revision>
+</page>

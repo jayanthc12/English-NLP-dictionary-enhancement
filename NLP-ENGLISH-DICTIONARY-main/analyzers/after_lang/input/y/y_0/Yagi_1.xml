@@ -1,0 +1,35 @@
+<page>
+<title>Yagi</title>
+<ns>0</ns>
+<id>3717121</id>
+<revision>
+<id>67835974</id>
+<parentid>67743045</parentid>
+<timestamp>2022-07-09T22:05:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="527" xml:space="preserve">{{also|yagi}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|ja|八木}}.
+===Proper noun===
+{{en-proper noun|Yagis}}
+# {{surname|en|from=Japanese}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yagi'' is the 33941&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 670 individuals. ''Yagi'' is most common among Asian/Pacific Islander (80.75%) individuals.
+===Further reading===
+* {{R:en:DAFN}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やぎ}}</text>
+<sha1>lvgob7ibu6k8a6ho4mnoe0h9ed8knk9</sha1>
+</revision>
+</page>

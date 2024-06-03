@@ -1,0 +1,23 @@
+<page>
+<title>xardineres</title>
+<ns>0</ns>
+<id>4352190</id>
+<revision>
+<id>56342350</id>
+<parentid>25807914</parentid>
+<timestamp>2019-10-17T13:47:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xardinera}}</text>
+<sha1>7wj9aeo7rc5mwgqhqysso4hqql6ve6k</sha1>
+</revision>
+</page>

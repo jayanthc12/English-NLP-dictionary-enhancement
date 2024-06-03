@@ -1,0 +1,105 @@
+<page>
+<title>yarda</title>
+<ns>0</ns>
+<id>92036</id>
+<revision>
+<id>68889318</id>
+<parentid>68428541</parentid>
+<timestamp>2022-08-28T08:54:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2254" xml:space="preserve">==Barngarla==
+===Pronunciation===
+* {{IPA|bjb|/ˈjaɖa/}}
+===Noun===
+{{head|bjb|noun}}
+# [[land]], [[country]]
+===References===
+* Page 17 of [[w:Ghil'ad Zuckermann|Zuckermann, Ghil'ad]], Emmalene Richards and the Barngarla (2021), [https://www.adelaide.edu.au/directory/ghilad.zuckermann?dsn=directory.file;field=data;id=43276;m=view ''Mangiri Yarda (Healthy Country: Barngarla Wellbeing and Nature)''], Adelaide: Revivalistics Press.
+----
+==Basque==
+===Etymology===
+Borrowed from {{bor|eu|es|yarda||yard}}.
+===Pronunciation===
+{{eu-IPA}}
+===Noun===
+{{eu-noun|in}}
+# [[yard]] {{gloss|distance}}
+====Declension====
+{{eu-decl-inanim}}
+===Further reading===
+* {{R:EH}}
+* {{R:OEH}}
+----
+==Bikol Central==
+===Etymology===
+Borrowed from {{bor|bcl|es|yarda}}, from {{der|bcl|en|yard}}.
+===Pronunciation===
+* {{bcl-IPA}}
+===Noun===
+{{head|bcl|noun}}
+# [[yard]] {{gloss|distance}}
+----
+==Cebuano==
+===Etymology===
+Spanish-influenced borrowing from {{bor|ceb|en|yard}}.
+===Pronunciation===
+* {{hyph|ceb|yar|da}}
+* {{ceb-IPA}}
+===Noun===
+{{head|ceb|noun}}
+# [[yard]] {{gloss|unit of length equal to 3 feet}}
+# [[yard]] {{gloss|small, usually uncultivated area adjoining or within the precincts of a house or other building}}
+{{topics|ceb|Units of measure}}
+----
+==Masbatenyo==
+===Etymology===
+Spanish-influenced borrowing from {{bor|msb|en|yard}}.
+===Noun===
+{{head|msb|noun}}
+# [[yard]] {{gloss|distance}}
+----
+==Spanish==
+===Etymology===
+From {{bor|es|en|yard}}.
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-AdrianAbdulBaha-yarda.wav|Audio (Colombia)}}
+===Noun===
+{{es-noun|f}}
+# [[yard]] {{gloss|distance}}
+# {{lb|es|US Spanish}} [[yard sale]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Units of measure}}
+----
+==Tagalog==
+===Etymology===
+Spanish-influenced borrowing from {{bor|tl|en|yard}}.
+===Pronunciation===
+* {{hyph|tl|yar|da}}
+* {{tl-IPA}}
+===Noun===
+{{tl-noun}}
+# [[yard]] {{gloss|distance}}
+====Related terms====
+{{rel3|tl|iyarda|ipagyarda|pagyarda|pangyarda|yardahan}}
+[[Category:tl:Units of measure]]
+----
+==Waray-Waray==
+===Etymology===
+Borrowed from {{bor|war|es|yarda||yard}}.
+===Pronunciation===
+* {{IPA|war|/ˈjaɾ.da/}}
+===Noun===
+{{head|war|noun}}
+# [[yard]] {{gloss|distance}}</text>
+<sha1>fbs2bliawo4p195ddkxeap944wwgmax</sha1>
+</revision>
+</page>

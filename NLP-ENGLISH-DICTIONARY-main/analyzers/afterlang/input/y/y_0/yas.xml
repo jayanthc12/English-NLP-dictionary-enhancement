@@ -1,0 +1,79 @@
+<page>
+<title>yas</title>
+<ns>0</ns>
+<id>1907751</id>
+<revision>
+<id>68796649</id>
+<parentid>66049198</parentid>
+<timestamp>2022-08-27T15:17:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2387" xml:space="preserve">{{also|yaş|þas}}
+==English==
+===Interjection===
+{{en-interj}}
+# {{lb|en|often|AAVE}} {{nonstandard spelling of|en|yes}}
+#* {{quote-book|en|year=1862|author=Various|title=The Continental Monthly, Vol. 2 No 4, October, 1862|chapter=|edition=|url=http://www.gutenberg.org/etext/24531
+|passage='Oh! '''yas''', I smokes; but I durned sight d'ruther chaw.'}}
+#* {{RQ:Henry Cabbages|page=175|passage=&quot;'''Yas''', '''yas'''!&quot; they cried, with broader grins and many nods.}}
+#* {{quote-book|en|year=1913|author=Horace Annesley Vachell|title=Bunch Grass|chapter=|edition=|url=http://www.gutenberg.org/etext/10372
+|passage=It's nice, '''yas''', and it's paid for.}}
+===Pronoun===
+{{en-pronoun}}
+# {{nonstandard spelling of|en|yous}}
+===Derived terms===
+* [[yas'm]]
+===Further reading===
+* &quot;[https://www.bustle.com/articles/73878-where-does-yaaas-come-from-heres-the-story-behind-the-internets-favorite-expression-of-excitement Where Does &quot;YAAAS&quot; Come From?]&quot; in ''Bustle''
+===Anagrams===
+* {{anagrams|en|a=asy|AYs|ays|say}}
+----
+==Aleut==
+===Pronunciation===
+* {{a|Western}} {{IPA|ale|/ˈjas/}}
+===Noun===
+{{head|ale|noun}}
+# {{lb|ale|Western}} [[reef]] {{gloss|rocks at or near surface of water}}
+===References===
+* 2007. [http://archive.phonetics.ucla.edu/Language/ALE_WESTERN/ale_western_word-list_1996_01.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+----
+==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|*yās||damage, loss; shame}}. Compare, however, also {{m+|ar|يَأْس||despair}}.
+===Noun===
+{{az-head-noun|a|s}}
+# [[mourning]]
+#: {{uxi|az|'''yas''' [[saxlamaq]]|to mourn}}
+# [[wake]], [[funeral]] [[repast]] {{C|az|Burial}}
+#: {{uxi|az|'''yas''' [[mərasim]]i|'''wake''' ceremony}}
+====Declension====
+{{az-decl-noun|a|s}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Navajo==
+{{wikipedia|lang=nv}}
+===Alternative forms===
+* {{alter|nv|zas||Eastern Navajo}}
+===Etymology===
+From {{inh|nv|ath-pro|*yəx̣s}}. Cognate with {{cog|srs|zas}}, {{cog|chp|yaθ}}, {{cog|bea|yas}}, {{cog|crx|yvθ}}, {{cog|sek|yas}}, {{cog|aht|yaas}}.
+===Pronunciation===
+* {{IPA|nv|/jɑ̀s/}}
+* {{audio|nv|Nv-yas.ogg|Audio (NV)}}
+===Noun===
+{{head|nv|noun}}
+# {{lb|nv|Western Navajo}} [[snow]]
+====Derived terms====
+* {{l|nv|yas ditłéʼé|t=wet snow}}
+* {{l|nv|Yas Niłtʼees}}
+* {{l|nv|yaskááʼ}}
+{{C|nv|Atmospheric phenomena}}</text>
+<sha1>5qj4v76hgpias5bcofsxftk9fpa4yds</sha1>
+</revision>
+</page>

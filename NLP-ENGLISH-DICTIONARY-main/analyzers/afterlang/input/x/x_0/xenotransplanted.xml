@@ -1,0 +1,25 @@
+<page>
+<title>xenotransplanted</title>
+<ns>0</ns>
+<id>2184098</id>
+<revision>
+<id>51769665</id>
+<parentid>42686317</parentid>
+<timestamp>2019-03-13T12:28:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|transplanted}}
+===Adjective===
+{{en-adj|-}}
+# [[transplanted]] by [[xenotransplantation]]</text>
+<sha1>ia3a6y3ek138bujei564qglzs6rdj8z</sha1>
+</revision>
+</page>

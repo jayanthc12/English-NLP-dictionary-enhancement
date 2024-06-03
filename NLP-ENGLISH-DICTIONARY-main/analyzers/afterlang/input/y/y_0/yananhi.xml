@@ -1,0 +1,29 @@
+<page>
+<title>yananhi</title>
+<ns>0</ns>
+<id>5948335</id>
+<revision>
+<id>54464064</id>
+<parentid>47277790</parentid>
+<timestamp>2019-09-30T11:07:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{past tense of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/ˈjanan̪i/}}
+===Verb===
+{{head|kld|verb}}
+# {{past tense of|kld|yanay}}: [[went]], [[came]], [[walked]]
+===References===
+* Dhiirrala Gamilaraay Yuwaalaraay Language Program St Joseph School Po Box 125 Walgett NSW 2368 Australia
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary
+* (2015) Ma Gamilaraay</text>
+<sha1>bq0ounyvpgv5iusv59if5ecufwivevs</sha1>
+</revision>
+</page>

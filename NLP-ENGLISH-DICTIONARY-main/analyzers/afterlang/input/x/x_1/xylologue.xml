@@ -1,0 +1,27 @@
+<page>
+<title>xylologue</title>
+<ns>0</ns>
+<id>6368677</id>
+<revision>
+<id>67148634</id>
+<parentid>67052986</parentid>
+<timestamp>2022-05-24T09:03:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xylo-|-logue}}
+===Noun===
+{{fr-noun|mfbysense}}
+# [[xylologist]]
+====Related terms====
+* {{l|fr|xylologie}}</text>
+<sha1>kmbrpwnar2k78py1u0c8me6beq2yyeh</sha1>
+</revision>
+</page>

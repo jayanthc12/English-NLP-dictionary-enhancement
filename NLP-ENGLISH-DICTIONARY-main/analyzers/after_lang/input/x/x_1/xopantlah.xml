@@ -1,0 +1,37 @@
+<page>
+<title>xopantlah</title>
+<ns>0</ns>
+<id>562221</id>
+<revision>
+<id>55434505</id>
+<parentid>51840384</parentid>
+<timestamp>2019-10-15T00:49:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1474" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xōpantlà}}
+===Etymology===
+'''[[xo-|xō-]]''' &quot;green&quot; + '''[[-pan]]''' &quot;at&quot; + {{suffix|nci||tlah}}.
+===Pronunciation===
+* {{IPA|nci|/ʃoːpantɬaʔ/}}
+===Noun===
+{{nci-noun|loc|xōpantlah}}
+# [[rainy season]]; [[summer]]
+#* '''1645''', [[w:Horacio Carochi|Horacio Carochi]], ''[[w:Arte de la lengua mexicana con la declaración de los adverbios della|Arte de la lengua mexicana con la declaración de los adverbios della]]''
+#*: ''intlā āxcān '''xōpantlà''' ticecmiqui, quēn ocyè'', vel ''quēnçan yè ticecmiquiz izcéhuetzilizpan''? si aora en verano tienes frio, quãto mas le t{{lang|und|sc=Latinx|ẽ}}dras en ti{{lang|und|sc=Latinx|ẽ}}po de frios, y yelos?
+#*: (If you are cold now in summer, how much colder will you be in the time of cold and ice?)
+===References===
+* {{cite-book|author=Andrews, J. Richard|year=2003|title=Workbook for Introduction to Classical Nahuatl|location=Norman|publisher=University of Oklahoma Press|page=265}}
+* {{cite-book|author=Carochi, Horacio|year=2001|title=Grammar of the Mexican Language, with an Explanation of its Adverbs (1645)|others=translated and edited with commentary by James Lockhart|location=Stanford, California|publisher=Stanford University Press|pages=326–327}}
+* {{cite-book|author=Karttunen, Frances|year=1983|title=An Analytical Dictionary of Nahuatl|location=Austin|publisher=University of Texas Press|page=331}}
+[[Category:nci:Seasons]]</text>
+<sha1>qqlsvcnvs40hxghuv3pb2jtfaaifel4</sha1>
+</revision>
+</page>

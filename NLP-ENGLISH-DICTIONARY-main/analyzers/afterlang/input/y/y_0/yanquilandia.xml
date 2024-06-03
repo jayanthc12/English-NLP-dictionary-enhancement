@@ -1,0 +1,27 @@
+<page>
+<title>yanquilandia</title>
+<ns>0</ns>
+<id>6343025</id>
+<revision>
+<id>62085148</id>
+<parentid>61998059</parentid>
+<timestamp>2021-03-14T03:06:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="513" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f|-}}
+# {{lb|es|informal}} [[Yankeeland]], the [[United States]]
+#*{{quote-journal|es|year=|date=August 12 2017|author=|title=Irán al Mundial de hip hop|work=Crónica|url=http://www.cronica.com.py/2017/08/05/iran-al-mundial-hip-hop/
+|passage=El grupo de bailarines llamado “Step Crew” es el encargado de representar a Paraguay este año en el campeonato mundial de baile hip hop que se realizará en Phoenix, Arizona de '''yanquilandia'''.}}</text>
+<sha1>ez6gpvayxr8ji28ghyaym813346wg00</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>Xorvatiya</title>
+<ns>0</ns>
+<id>1507840</id>
+<revision>
+<id>67887752</id>
+<parentid>59019081</parentid>
+<timestamp>2022-07-12T01:24:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">==Azerbaijani==
+===Proper noun===
+{{head|az|proper noun}}
+# [[Croatia]]
+====Declension====
+{{az-latin-noun-decl|v|a}}
+{{c|az|Countries}}
+----
+==Uzbek==
+{{wikipedia|lang=uz}}
+===Noun===
+{{uz-proper noun}}
+# [[Croatia]]
+====Declension====
+{{uz-decl-noun}}
+{{c|uz|Countries}}</text>
+<sha1>pcxvlvqmi8reyp0bbodlfhdabi0cm88</sha1>
+</revision>
+</page>

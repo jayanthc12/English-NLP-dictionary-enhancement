@@ -1,0 +1,23 @@
+<page>
+<title>xenologists</title>
+<ns>0</ns>
+<id>6025906</id>
+<revision>
+<id>56089409</id>
+<parentid>53092244</parentid>
+<timestamp>2019-10-17T03:11:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenologist}}</text>
+<sha1>e6db82adbz6kwpb8bb7g8e8fy35ulkg</sha1>
+</revision>
+</page>

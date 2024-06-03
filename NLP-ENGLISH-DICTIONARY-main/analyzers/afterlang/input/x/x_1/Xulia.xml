@@ -1,0 +1,23 @@
+<page>
+<title>Xulia</title>
+<ns>0</ns>
+<id>3490022</id>
+<revision>
+<id>57939642</id>
+<parentid>54949124</parentid>
+<timestamp>2019-11-04T05:54:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize English equivalent name(s) Julia into {{given name}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Asturian==
+===Proper noun===
+{{ast-proper noun|f}}
+# {{given name|ast|female|eq=Julia}}</text>
+<sha1>aa0pbfi3f2glmdwise8yjncuzi2lk75</sha1>
+</revision>
+</page>

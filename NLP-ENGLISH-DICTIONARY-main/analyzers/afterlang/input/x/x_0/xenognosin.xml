@@ -1,0 +1,27 @@
+<page>
+<title>xenognosin</title>
+<ns>0</ns>
+<id>4455593</id>
+<revision>
+<id>69055075</id>
+<parentid>67299352</parentid>
+<timestamp>2022-09-03T06:14:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="285" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|-}} roots.
+===Noun===
+{{en-noun}}
+# {{lb|en|biochemistry}} Any [[organic compound]] that [[stimulate]]s the [[formation]] of a [[haustorium]].
+[[Category:English terms prefixed with xeno-]]
+[[Category:English terms suffixed with -in]]</text>
+<sha1>0doaaubwnq6jtytfox8cpa6lmb9yckl</sha1>
+</revision>
+</page>

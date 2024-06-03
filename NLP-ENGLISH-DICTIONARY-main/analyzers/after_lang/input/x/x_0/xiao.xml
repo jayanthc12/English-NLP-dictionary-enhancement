@@ -1,0 +1,56 @@
+<page>
+<title>xiao</title>
+<ns>0</ns>
+<id>537048</id>
+<revision>
+<id>68597354</id>
+<parentid>67965485</parentid>
+<timestamp>2022-08-12T10:33:05Z</timestamp>
+<contributor>
+<ip>86.145.59.120</ip>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1571" xml:space="preserve">{{also|Xiao|xiāo|xiáo|xiǎo|xiào}}
+==English==
+{{wikipedia|lang=en}}
+===Etymology===
+{{wikipedia|lang=en|Xiao (flute)}}
+[[File:Dongxiaophoto.jpg|thumb|a type of xiao flute]]
+Borrowed the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|簫|tr=xiāo}}.
+===Pronunciation===
+* {{IPA|en|/ʃjaʊ/}}
+===Noun===
+{{en-noun}}
+# A type of Chinese [[flute]].
+#* {{quote-book|en|title=Chou Wen-Chung: The Life and Work of a Contemporary Chinese-born American Composer|author=Peter M. Chang|year=2006|passage=Chou studied violin and ''erhu'' (a two-stringed Chinese fiddle) and tried to emulate his second brother by dabbling in the harmonica, mandolin, '''''xiao''''' (a vertical Chinese flute), and the musical saw.}}
+====Translations====
+{{trans-top|Chinese flute}}
+* Chinese:
+*: Mandarin: {{t+|cmn|簫|sc=Hani}}, {{t+|cmn|箫|tr=xiāo|sc=Hani}}, {{t+|cmn|洞簫|sc=Hani}}, {{t+|cmn|洞箫|tr=dòngxiāo|sc=Hani}}
+* Japanese: {{t+|ja|簫|tr=しょう, shō}}
+* Korean: {{t+|ko|소}}
+{{trans-mid}}
+* Manchu: {{t|mnc|ᡶᡳᠴᠠᡴᡡ|tr=ficakū}}
+* Russian: {{t-needed|ru}}
+* Thai: {{t-needed|th}}
+* Vietnamese: {{t-needed|vi}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aiox|oxia}}
+[[Category:en:Musical instruments]]
+[[Category:en:Woodwind instruments]]
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiāo}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiáo}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiǎo}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiào}}
+====Usage notes====
+* {{cmn-toneless-note}}</text>
+<sha1>0jjxs4yxjeu2h7lld7c2bda4zq9dl9o</sha1>
+</revision>
+</page>

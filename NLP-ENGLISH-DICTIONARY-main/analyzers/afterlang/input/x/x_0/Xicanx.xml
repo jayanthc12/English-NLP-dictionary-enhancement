@@ -1,0 +1,28 @@
+<page>
+<title>Xicanx</title>
+<ns>0</ns>
+<id>7216356</id>
+<revision>
+<id>68873704</id>
+<parentid>68704708</parentid>
+<timestamp>2022-08-28T06:21:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="264" xml:space="preserve">==English==
+===Etymology===
+From {{m|en|Xicano}}. {{-a-o-x|en|en}}.
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|neologism}} [[Chicano]] or [[Chicana]] (and of any gender).
+===Noun===
+{{en-noun|s}}
+# {{lb|en|neologism}} A [[Chicano]] or [[Chicana]] (of any gender).</text>
+<sha1>43ij6fkzhgmhgfpsk4oa0xrriqdx6nc</sha1>
+</revision>
+</page>

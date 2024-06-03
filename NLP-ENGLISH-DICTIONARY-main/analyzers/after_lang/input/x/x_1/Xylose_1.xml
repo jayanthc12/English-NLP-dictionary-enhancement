@@ -1,0 +1,33 @@
+<page>
+<title>Xylose</title>
+<ns>0</ns>
+<id>170710</id>
+<revision>
+<id>65754858</id>
+<parentid>65672329</parentid>
+<timestamp>2022-02-07T15:52:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-noun|f||-}} to new-format {{de-noun|f.sg}}; convert {{de-decl-noun-f|n=sg}} to {{de-ndecl|f.sg}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="308" xml:space="preserve">{{also|xylose}}
+==German==
+{{wikipedia|lang=de}}
+===Pronunciation===
+* {{IPA|de|/ksyˈloːzə/}}
+* {{audio|de|De-Xylose.ogg|Audio}}
+===Noun===
+{{de-noun|f.sg}}
+# {{lb|de|chemistry}} [[xylose]] (wood sugar)
+#: {{syn|de|Holzzucker}}
+====Declension====
+{{de-ndecl|f.sg}}
+===Further reading===
+* {{R:Duden}}</text>
+<sha1>81d6s5ny6m0u4sv6fcawzkyz981nimi</sha1>
+</revision>
+</page>

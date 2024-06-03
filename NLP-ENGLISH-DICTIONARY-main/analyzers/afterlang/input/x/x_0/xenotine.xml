@@ -1,0 +1,23 @@
+<page>
+<title>xenotine</title>
+<ns>0</ns>
+<id>6379604</id>
+<revision>
+<id>54458465</id>
+<parentid>47485146</parentid>
+<timestamp>2019-09-30T09:32:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{dated form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="70" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{dated form of|en|xenotime}}</text>
+<sha1>k9cwbi7cdswecn5bttekj41quyid8lz</sha1>
+</revision>
+</page>

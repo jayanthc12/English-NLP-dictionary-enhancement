@@ -1,0 +1,50 @@
+<page>
+<title>yawe</title>
+<ns>0</ns>
+<id>5064008</id>
+<revision>
+<id>69330030</id>
+<parentid>69330022</parentid>
+<timestamp>2022-09-19T12:36:09Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="988" xml:space="preserve">==Cebuano==
+===Etymology===
+From {{der|ceb|es|llave||key}}, from {{der|ceb|la|clāvis||key}}. This and [[yabe]] seem to be more recent developments as they seem to be affected by [[w:Yeísmo|yeísmo]]. ''Yawe'' seems to be the most recent out of the two as the [b] lenited to [w]. If the word was borrowed earlier, it might have been *lyabe or *liyabe.
+===Noun===
+{{head|ceb|noun}}
+# [[key]]
+----
+==Swahili==
+===Verb===
+{{head|sw|verb form}}
+# {{inflection of|sw|wa|-wa|ji-ma|plural|subjunctive|affirmative}}
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|es|llave||key}}, from {{der|tl|la|clāvis||key}}. {{doublet|tl|liyabe}}.
+===Noun===
+{{tl-noun}}
+# [[key]]
+#: {{syn|tl|susi|liyabe}}
+====Derived terms====
+* {{l|tl|yawihan}}
+----
+==Wandala==
+===Alternative forms===
+* {{l|mfi|jawe}}
+===Etymology===
+Ultimately from {{inh|mfi|cdc-pro|*ymn}}.
+===Noun===
+{{head|mfi|noun|head=yàwè}}
+# [[water]]
+===References===
+* ''Topics in Chadic linguistics 3'', volume 3 (2007)</text>
+<sha1>nzezfdtmkgqhtwknh9bvfuy21p9o378</sha1>
+</revision>
+</page>

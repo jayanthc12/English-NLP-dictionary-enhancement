@@ -1,0 +1,29 @@
+<page>
+<title>yarco</title>
+<ns>0</ns>
+<id>221560</id>
+<revision>
+<id>64460316</id>
+<parentid>64029195</parentid>
+<timestamp>2021-10-28T12:23:10Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="404" xml:space="preserve">==English==
+===Etymology===
+Probably related to {{m|en|Great Yarmouth}}.
+===Pronunciation===
+* {{audio|en|En-au-yarco.ogg|Audio (AU)}}
+* {{rhymes|en|ɑː(ɹ)kəʊ|s=2}}
+===Noun===
+{{en-noun}}
+# {{lb|en|slang|derogatory|subcultural stereotype}} Someone from, or living in the area of Great Yarmouth in Norfolk, England, stereotypically a [[chav]].
+===Anagrams===
+* {{anagrams|en|a=acory|Cayor|oracy}}</text>
+<sha1>bk04mwzlw1if1bkkbwlqykfz1anahp3</sha1>
+</revision>
+</page>

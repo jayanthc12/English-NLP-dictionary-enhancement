@@ -1,0 +1,9 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentAnalyzer": "/home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/after_lang"
+        }
+    ]
+}

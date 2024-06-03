@@ -1,0 +1,26 @@
+<page>
+<title>Xanthogenate</title>
+<ns>0</ns>
+<id>3894971</id>
+<revision>
+<id>66244991</id>
+<parentid>65721868</parentid>
+<timestamp>2022-03-27T17:32:59Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xanthogenate.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="185" xml:space="preserve">{{also|xanthogenate}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xanthogenate.ogg|Audio}}
+===Noun===
+{{head|de|noun form|g=n}}
+# {{inflection of|de|Xanthogenat||nom//acc//gen|p}}</text>
+<sha1>7p6rqiky2o1i4yk7p1x5xg3l34fndh9</sha1>
+</revision>
+</page>

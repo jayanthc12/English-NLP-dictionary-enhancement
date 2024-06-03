@@ -1,0 +1,28 @@
+<page>
+<title>xocar</title>
+<ns>0</ns>
+<id>3067129</id>
+<revision>
+<id>64460237</id>
+<parentid>54722273</parentid>
+<timestamp>2021-10-28T12:19:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="176" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# to [[shock]]
+====Conjugation====
+{{ca-conj-ar|xoc}}
+====Related terms====
+* {{l|ca|xoc}}</text>
+<sha1>hy1wlz1vvtmdzzev6lg5255kefvgohh</sha1>
+</revision>
+</page>

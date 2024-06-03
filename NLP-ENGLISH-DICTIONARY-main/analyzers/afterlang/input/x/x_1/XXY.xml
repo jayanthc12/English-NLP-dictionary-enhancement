@@ -1,0 +1,27 @@
+<page>
+<title>XXY</title>
+<ns>0</ns>
+<id>4837297</id>
+<revision>
+<id>60257530</id>
+<parentid>48606325</parentid>
+<timestamp>2020-09-05T01:56:06Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="285" xml:space="preserve">==English==
+{{wikipedia|Klinefelter syndrome}}
+===Etymology===
+From two [[X chromosome|X chromosomes]] + [[Y chromosome]].
+===Adjective===
+{{head|en|adjective}}
+# Having an aneuploidy in the configuration of [[chromosome]]s by having an extra Y chromosome.
+[[Category:en:Intersex]]</text>
+<sha1>41swkc5hhbi7qrcc2bb2zxsk2sgo5ss</sha1>
+</revision>
+</page>

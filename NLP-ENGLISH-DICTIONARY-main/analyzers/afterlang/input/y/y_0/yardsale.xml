@@ -1,0 +1,31 @@
+<page>
+<title>yardsale</title>
+<ns>0</ns>
+<id>2075935</id>
+<revision>
+<id>55249231</id>
+<parentid>52010334</parentid>
+<timestamp>2019-10-14T06:00:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="522" xml:space="preserve">{{also|yard-sale|yard sale}}
+==English==
+===Etymology===
+{{compound|en|yard|sale}}
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yard sale}}
+# {{lb|en|skateboarding|snowboarding|skiing}} The state that the participant and their equipment is in after a nasty crash, whereupon they and their equipment is laid out across the ground like pieces of a yard sale.
+====See also====
+* {{sense|skateboarding|snowboarding|skiing}} {{l|en|ragdoll}}
+===Anagrams===
+* {{anagrams|en|a=aadelrsy|adlayers|sale yard|saleyard}}</text>
+<sha1>1x9u9ustt3rri9eols8i28er9wkqdrw</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>Yernisheyr</title>
+<ns>0</ns>
+<id>1912866</id>
+<revision>
+<id>51874421</id>
+<parentid>21704855</parentid>
+<timestamp>2019-03-15T07:19:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==Manx==
+===Etymology===
+{{suffix|gv|Yernish|eyr}}
+===Noun===
+{{gv-noun|m|Yernisheyryn|Yernisheyr}}
+# [[Irish]]-speaker
+====See also====
+* {{l|gv|Baarleyr}}
+* {{l|gv|Gaelgeyr}}
+[[Category:gv:Ireland]]</text>
+<sha1>339mobxt1941kgoi1n6ellr27bmg1n9</sha1>
+</revision>
+</page>

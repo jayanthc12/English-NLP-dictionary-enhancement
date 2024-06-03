@@ -1,0 +1,40 @@
+<page>
+<title>yaotlatquichihchiuhqui</title>
+<ns>0</ns>
+<id>3777640</id>
+<revision>
+<id>56188737</id>
+<parentid>51927270</parentid>
+<timestamp>2019-10-17T07:39:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1667" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{suffix|nci|yāōtlatquichihchīhua|qui|t1=to craft weapons}}.
+===Pronunciation===
+* {{IPA|nci|/jaː.oːt͡ɬatkiˈt͡ʃiʔt͡ʃiːwki/}}
+===Noun===
+{{head|head=yāōtlatquichihchīuhqui|nci|noun|animate}}
+# [[armorer]] {{gloss|maker of weapons}}
+#* '''1555:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 23v.
+#*: Armero que haze armas. '''yaotlatquichichiuhqui'''.
+#*: (Armorer who makes weapons. '''yaotlatquichichiuhqui'''.
+#* '''1571:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 13v. col. 1.
+#*: Armero que haze armas. '''yaotlatquichichiuhqui'''.
+#*: (Armorer who makes weapons. '''yaotlatquichichiuhqui'''.
+#* '''1571:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 31r col2.-31v. col. 1.
+#*: '''Yaotlatquichichiuhqui'''. armero que haze armas
+#*: para ſoldados.
+#*: ('''Yaotlatquichichiuhqui'''. armorer who makes weapons for soldiers.)
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=2008|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]] (1571)|others=|location=Mexico|publisher=Editorial Porrúa|page=32}}
+[[Category:nci:Occupations]]</text>
+<sha1>d27h27yt2v0bqxwuzbk7gbhfhkn2lcb</sha1>
+</revision>
+</page>

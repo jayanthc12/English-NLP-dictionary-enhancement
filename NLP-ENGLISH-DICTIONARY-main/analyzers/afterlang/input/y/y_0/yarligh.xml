@@ -1,0 +1,59 @@
+<page>
+<title>yarligh</title>
+<ns>0</ns>
+<id>4831826</id>
+<revision>
+<id>69601072</id>
+<parentid>67244639</parentid>
+<timestamp>2022-10-27T01:00:56Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>t-balance ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1349" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alter|en|jarlig|yarlyk|yarlyg|jarliq}}
+===Etymology===
+Borrowed from {{bor|en|xng}} (compare {{cog|mn|зарлиг}}).
+===Pronunciation===
+{{rfp|en}}
+===Noun===
+{{en-noun}}
+# {{lb|en|historical}} A [[khan]]'s [[decree]] in the [[Mongol Empire]].
+====Translations====
+{{trans-top|khan's decree}}
+* Aramaic:
+*: Classical Syriac: {{t|syc|ܝܪܠܝܟ|m|tr=yarlīḵ}}
+* Armenian: {{t+|hy|յառլիկ}}
+* Azerbaijani: {{t|az|yarlıq}}
+* Belarusian: {{t|be|ярлы́к|m-in}}
+* Czech: {{t|cs|jarlyk|m-in}}
+* German: {{t|de|Jarlyk|m}}, {{t|de|Jarlyġ|m}}, {{t|de|Jarlik|m}}
+* Hebrew: {{t|he|יארליק|m|tr=yarlik}}
+* Hungarian: {{t|hu|jarlik}}
+* Japanese: {{t|ja|ジャルリグ|tr=jarurigu}}
+* Kazakh: {{t|kk|ярлық}}, {{t|kk|жарлық}}
+* Persian: {{t+|fa|یرلیغ|tr=yarliġ}}
+* Polish: {{t+|pl|jarłyk|m-in}}
+{{trans-mid}}
+* Russian: {{t+|ru|ярлы́к|m-in}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ја̀рлик|m-in}}
+*: Latin: {{t+|sh|jàrlik|m-in}}
+* Tajik: {{t|tg|ярлиқ}}, {{t|tg|ярлиғ}}
+* Tamil: {{t|ta|ஜர்லிக்}}
+* Tatar:
+*: Arabic: {{t|tt|یرلغ|sc=Arab|tr=-}}
+*: Cyrillic: {{t|tt|ярлыг}}
+*: Latin: {{t|tt|yarlığ}}
+* Turkish: {{t+|tr|yarlık}}
+* Ukrainian: {{t+|uk|ярли́к|m-in}}
+* Yakut: {{t|sah|дьаралык}}
+{{trans-bottom}}</text>
+<sha1>7uec7whvtp4tkhrhp1y4sts4jpgus7v</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>Yabim</title>
+<ns>0</ns>
+<id>1062169</id>
+<revision>
+<id>50819415</id>
+<parentid>46829249</parentid>
+<timestamp>2018-11-26T19:11:48Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="402" xml:space="preserve">==English==
+{{wikipedia|Yabem language}}
+===Alternative forms===
+* [[Yabem]]
+===Noun===
+{{en-noun|s|Yabim}}
+# A member of a [[Melanesian]] people of [[Morobe]], [[Papua New Guinea]].
+===Proper noun===
+{{en-proper noun}}
+# The Malayo-Polynesian language of the Yabim people.
+===Further reading===
+* {{ethnologue|code=jae}}
+===Anagrams===
+* {{anagrams|en|a=abimy|imbay}}
+[[Category:en:Languages]]</text>
+<sha1>njsbgtaqh2rtyc7keitv8ev7pz2wnww</sha1>
+</revision>
+</page>

@@ -1,0 +1,90 @@
+<page>
+<title>Yicheng</title>
+<ns>0</ns>
+<id>6883679</id>
+<revision>
+<id>67890508</id>
+<parentid>67881348</parentid>
+<timestamp>2022-07-12T01:47:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2789" xml:space="preserve">{{also|yīchéng|yìchéng|Yìchéng}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|I-ch'eng}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From {{bor|en|cmn|-}} {{zh-l|宜城}}.
+====Alternative forms====
+* {{qualifier|{{w|postal romanization}}}} {{l|en|Icheng}}
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|county-level city|prefecture-level city/Xiangyang|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=2013
+|author=Wenling Jiang
+|author2=Yu He
+|chapter=Space Distribution Pattern Research and Optimization Analysis of Rural Settlements in Yicheng City
+|title=Sustainable Cities Development and Environment Protection
+|url=https://books.google.com/books?id=-tOyDwAAQBAJ
+|ISSN=1660-9336
+|DOI=10.4028/www.scientific.net/AMM.361-363.50
+|OCLC=56604803
+|page=50
+|pageurl=https://books.google.com/books?id=-tOyDwAAQBAJ&amp;pg=PA50
+|text='''Yicheng''' City which is located within 31°27'N-31°54&quot;N and 111°57'E-112°45'E in the Middle of Hubei Province [''and''] covers an area of 2,045 square kilometers.}}
+# {{place|en|economic and technological development zone|county-level city/Yicheng|prefecture-level city/Xiangyang|p/Hubei|c/China}}.
+=====Translations=====
+{{trans-top|a county-level city and an economic and technological development zone in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|宜城|tr=Yíchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 2===
+From {{bor|en|cmn|-}} {{zh-l|翼城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|county|prefecture-level city/Linfen|province/Shanxi|c/China}}.
+#* {{quote-web
+|en
+|date=17 December 2020
+|last=Leng
+|first=Sidney
+|title=China trades rainwater for first time, but analysts say unstable trading system is far from being market-driven
+|archiveurl=https://web.archive.org/web/20201217113228/https://www.scmp.com/economy/china-economy/article/3114375/china-trades-rainwater-first-time-analysts-say-unstable
+|archivedate=17 December 2020
+|work={{w|South China Morning Post}}
+|text=At least a dozen provinces in China are suffering from water scarcity. A villager in '''Yicheng''' county, Shanxi province, is seen here collecting rainwater.}}
+=====Translations=====
+{{trans-top|county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|翼城|tr=Yìchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 3===
+{{commonscat|Yicheng District, Zhumadian}}
+From {{bor|en|cmn|-}} {{zh-l|驛城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Zhumadian|province/Henan|c/China}}.
+=====Translations=====
+{{trans-top|district}}
+* Chinese:
+*: Mandarin: {{t+|cmn|驛城|sc=Hani}}, {{t+|cmn|驿城|sc=Hani|tr=Yìchéng}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>0tx8qep5mjwi0bttvqvpyikhyqpibsn</sha1>
+</revision>
+</page>

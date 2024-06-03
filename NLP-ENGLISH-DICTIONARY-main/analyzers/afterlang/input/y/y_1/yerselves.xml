@@ -1,0 +1,27 @@
+<page>
+<title>yerselves</title>
+<ns>0</ns>
+<id>796193</id>
+<revision>
+<id>54954298</id>
+<parentid>47663703</parentid>
+<timestamp>2019-10-10T06:25:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==English==
+===Pronoun===
+{{en-pron}}
+# {{lb|en|nonstandard|or|dialectal}} {{alternative form of|en|yourselves}}
+====Related terms====
+* {{l|en|yer}}
+* {{l|en|yerself}}
+[[Category:English plural pronouns]]</text>
+<sha1>qddksn2u1sly6pmt8k5t9gi8shk4te1</sha1>
+</revision>
+</page>

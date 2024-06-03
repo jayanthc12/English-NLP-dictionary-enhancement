@@ -1,0 +1,60 @@
+<page>
+<title>yataq</title>
+<ns>0</ns>
+<id>6848183</id>
+<revision>
+<id>67245381</id>
+<parentid>67208443</parentid>
+<timestamp>2022-06-04T22:08:02Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1391" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јатаг|a=یاتاق}}
+===Pronunciation===
+* {{IPA|az|[jɑˈtɑχ]}}
+* {{hyphenation|az|ya|taq}}
+===Etymology 1===
+From {{suf|az|yatmaq|alt1=yat-|-aq|gloss1=to sleep; to lie down}}. Cognate with {{cog|tr|yatak}}.
+[[File:Vrba postelja.jpg|thumb|right|Yataq [1]]]
+[[File:Bearing_render.png|thumb|right|Yataq [7]]]
+====Noun====
+{{az-noun}}
+# [[bed]]
+#: {{syn|az|çarpayı}}
+# [[bedding]] {{C|az|Bedding}}
+# {{lb|az|hydrology}} [[bed]] {{gl|the bottom of a body of water}}
+#: {{uxi|az|[[çay]] '''yatağı'''|riverbed}}
+#: {{uxi|az|[[okean]] '''yatağı'''|ocean '''bed'''}}
+# {{lb|az|archaic|figurative}} [[abode]], [[nest]] {{gl|a place where something or someones are to be found aplenty}}
+#: {{syn|az|yığınaq|yuva}}
+# {{lb|az|geology}} [[deposit]]
+#: {{syn|az|mədən}}
+# [[rookery]] {{gl|a colony of breeding sea animals}}
+# [[bearing]]
+#: {{syn|az|yastıq}}
+# [[barn]] {{q|for storing crops}}, [[drying]] [[barn]]
+# [[sheepfold]]
+#: {{syn|az|arxac|ağıl}}
+# {{lb|az|anatomy}} [[vagina]]
+=====Declension=====
+{{az-decl-noun|a|q}}
+=====Derived terms=====
+* {{l|az|yataq otağı||bedroom}}
+* {{l|az|yataqxana||dormitory}}
+=====Descendants=====
+* {{desc|lez|ятах|tr=yataχ|bor=1}}
+====Further reading====
+* {{r:obastan}}
+===Etymology 2===
+====Verb====
+{{head|az|verb form}}
+# {{inflection of|az|yatmaq||1|p|imp}}
+[[Category:az:Furniture]]</text>
+<sha1>rd93uenn1grzelkzh1j5v32rqtdnvz1</sha1>
+</revision>
+</page>

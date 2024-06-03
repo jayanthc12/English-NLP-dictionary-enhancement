@@ -1,0 +1,46 @@
+<page>
+<title>yest</title>
+<ns>0</ns>
+<id>3001684</id>
+<revision>
+<id>64460434</id>
+<parentid>63033415</parentid>
+<timestamp>2021-10-28T12:27:30Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="818" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{obsolete spelling of|en|yeast}}
+===Anagrams===
+* {{anagrams|en|a=esty|Tyes|etys|stey|stye|teys|tyes|yet's|yets}}
+----
+==Middle English==
+===Etymology 1===
+====Noun====
+{{head|enm|noun}}
+# {{alternative form of|enm|geste|t=tale|id=tale}}
+===Etymology 2===
+From {{inh|enm|ang|ġist}}, {{m|ang|ġyst}}, from {{inh|enm|gem-pro|*jestuz}}.
+====Alternative forms====
+* {{alter|enm|yeste|ȝeest|ȝest|yeaste|gyst|gest|yeest}}
+====Pronunciation====
+* {{IPA|enm|/jɛst/|/jɛːst/}}
+* {{rhymes|enm|ɛst|ɛːst|s=1}}
+====Noun====
+{{enm-noun|-}}
+# The [[broth]] or [[foam]] created by [[beer]].
+=====Descendants=====
+* {{desc|en|yeast}}
+* {{desc|sco|yest}}
+=====References=====
+* {{R:MED Online|entry=yē̆st |pos=n  |id=MED53923 |accessdate=2018-04-25}}
+[[Category:enm:Beer]]</text>
+<sha1>ii2oiyh2me3otpptj2jhbo9do053bdb</sha1>
+</revision>
+</page>

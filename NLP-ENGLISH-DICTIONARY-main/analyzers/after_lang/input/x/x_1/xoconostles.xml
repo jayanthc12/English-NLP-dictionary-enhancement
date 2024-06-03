@@ -1,0 +1,28 @@
+<page>
+<title>xoconostles</title>
+<ns>0</ns>
+<id>3699310</id>
+<revision>
+<id>62205817</id>
+<parentid>56138425</parentid>
+<timestamp>2021-03-20T15:53:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Spanish 'noun plural form' -&gt; 'noun form' (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="173" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xoconostle}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{inflection of|es|xoconostle||p}}</text>
+<sha1>d86g0677qi35hjgisdfbpxjlkmc9rmn</sha1>
+</revision>
+</page>

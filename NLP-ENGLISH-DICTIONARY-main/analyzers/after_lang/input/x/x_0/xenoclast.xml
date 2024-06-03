@@ -1,0 +1,25 @@
+<page>
+<title>xenoclast</title>
+<ns>0</ns>
+<id>6547417</id>
+<revision>
+<id>60274264</id>
+<parentid>48881405</parentid>
+<timestamp>2020-09-05T11:12:30Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==English==
+===Etymology===
+From {{af|en|xeno-|clast}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|geology}} A [[clast]] having a different origin from the clasts around it.</text>
+<sha1>tfkr5p6sdduxm23dt0dgu1af80atnu7</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yeged</title>
+<ns>0</ns>
+<id>6075418</id>
+<revision>
+<id>56445372</id>
+<parentid>44612824</parentid>
+<timestamp>2019-10-18T02:46:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="194" xml:space="preserve">==Volapük==
+===Etymology===
+From {{suf|vo|yeg|ed}}.
+===Pronunciation===
+* {{IPA|vo|/jeɡed/}}
+===Noun===
+{{vo-noun}}
+# {{l|en|article}}, {{l|en|report}}
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>pfhlea1fadvnp13mmct3h69ticws0re</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xaponesa</title>
+<ns>0</ns>
+<id>2459977</id>
+<revision>
+<id>60775104</id>
+<parentid>55526670</parentid>
+<timestamp>2020-10-09T02:00:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>{{feminine singular of}} -&gt; {{female equivalent of}} and clean up (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{feminine singular of|ast|xaponés}}
+===Noun===
+{{ast-noun|f}}
+# {{female equivalent of|ast|xaponés}}</text>
+<sha1>e95vyivqnn68101az9a5qu1gbtfv97j</sha1>
+</revision>
+</page>

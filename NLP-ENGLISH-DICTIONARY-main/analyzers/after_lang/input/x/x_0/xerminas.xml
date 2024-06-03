@@ -1,0 +1,23 @@
+<page>
+<title>xerminas</title>
+<ns>0</ns>
+<id>1211480</id>
+<revision>
+<id>56575293</id>
+<parentid>34989099</parentid>
+<timestamp>2019-10-18T07:53:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerminar||2|s|pres|indc}}</text>
+<sha1>4pr1bbl66lo8u8308fjm16kmlpq4wxh</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>xoloitzcuintli</title>
+<ns>0</ns>
+<id>4763584</id>
+<revision>
+<id>69044889</id>
+<parentid>67618268</parentid>
+<timestamp>2022-09-03T04:29:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'compound words' -&gt; 'compound terms' in manually-specified categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1594" xml:space="preserve">{{also|Xoloitzcuintli}}
+==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[Mexican hairless]] dog.
+[[Category:Amecameca Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Etymology===
+From {{m|nci|xolotl|Xolotl}} (“[[w:Xolotl|Xolotl]],” a god associated with death) + {{m|nci|itzcuintli}} (“dog”).
+===Pronunciation===
+* {{IPA|nci|[ʃo.lot͡sˈkʷin.t͡ɬi]}}
+===Noun===
+{{nci-noun|a}}
+# The [[Mexican hairless]]; a [[landrace]] [[dog]] with both [[coat]]ed and [[hairless]] varieties.
+#* '''16th c.:''' [[w:Bernardino de Sahagún|Bernardino de Sahagún]], [[w:Florentine Codex|Florentine Codex]], book 11, f. 17r. col. 1.
+#*: ¶ Otros perrillos •criauan, que / llamauan '''xoloitzcujntli''' que pe / njtas njngun pelo tenjan, ydenoche abrigauan los, cõ mantas para dor / mjr. Eſtos perros, no, nacen aſsi: sino / que de pequeños los vntan con reſina, / que se llama oxitl y con esto seles ca / ye el pelo, quedando el cuerpo / muy liso.
+#*:: ¶ They bred another dog, which they called '''xoloitzcujntli''', that barely had any hair. At night the covered them with blankets to sleep. These dogs are not born this way, rather, they cover them with a resin called ''oxitl'' when they are young, causing their hair to all off, and thus exposing their tender body.
+====Descendants====
+* {{desc|bor=1|es|xoloitzcuintle|xoloscuintle}}
+===References===
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|}}
+[[Category:Classical Nahuatl compound terms]]
+[[Category:nci:Dogs]]</text>
+<sha1>b7ap2y13x797eqhl7w5rvqeqvl42oh2</sha1>
+</revision>
+</page>

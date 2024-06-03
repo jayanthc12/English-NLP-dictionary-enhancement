@@ -1,0 +1,29 @@
+<page>
+<title>xafkem</title>
+<ns>0</ns>
+<id>1452927</id>
+<revision>
+<id>63426928</id>
+<parentid>44969914</parentid>
+<timestamp>2021-07-26T03:19:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="210" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[autumn]],[[fall]]
+====Synonyms====
+* {{l|arn|rvmv}}
+* {{l|arn|remvgen}}
+===References===
+* {{R:Wixaleyiñ 2008}}
+[[Category:arn:Calendar terms]]</text>
+<sha1>eapmp9lt6sxx7spa2tt61bjpmtaioot</sha1>
+</revision>
+</page>

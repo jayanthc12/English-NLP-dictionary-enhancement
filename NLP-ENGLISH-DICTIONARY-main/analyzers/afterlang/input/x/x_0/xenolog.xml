@@ -1,0 +1,31 @@
+<page>
+<title>xenolog</title>
+<ns>0</ns>
+<id>520568</id>
+<revision>
+<id>39235759</id>
+<parentid>38107740</parentid>
+<timestamp>2016-07-23T17:18:02Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Renamed label &gt; lb</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="513" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|xenologue}}
+===Noun===
+{{en-noun}}
+# {{lb|en|genetics}} A type of [[ortholog]] where the [[homologous]] sequences are found in different [[species]] because of [[horizontal gene transfer]].
+====Derived terms====
+* {{l|en|xenologous}}
+====Related terms====
+* {{l|en|ortholog}}
+===References===
+E.V. Koonin, K.S. Makarova, and L. Aravind. (2001) Horizontal Gene Transfer in Prokaryotes: Quantification and Classification. Annual Review of Microbiology 55: 709-742.</text>
+<sha1>5wd505t2csqyxuv29tx94tirmhwjpuj</sha1>
+</revision>
+</page>

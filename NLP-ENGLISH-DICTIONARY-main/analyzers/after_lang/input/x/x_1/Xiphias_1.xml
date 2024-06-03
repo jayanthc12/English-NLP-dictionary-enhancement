@@ -1,0 +1,36 @@
+<page>
+<title>Xiphias</title>
+<ns>0</ns>
+<id>170682</id>
+<revision>
+<id>67890846</id>
+<parentid>65808259</parentid>
+<timestamp>2022-07-12T01:49:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="536" xml:space="preserve">{{also|xiphias}}
+==Translingual==
+===Etymology===
+From {{der|mul|la|xiphiās||swordfish}}, from {{der|mul|grc|ξιφίας}}, from {{m|grc|ξίφος||sword}}. {{doublet|mul|Ziphius}}.
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Xiphiidae|the [[swordfish]]}}
+====Hyponyms====
+* {{sense|genus}} ''[[Xiphias gladius]]'' - species
+===See also===
+* {{pedia}}
+* {{specieslite}}
+----
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|constellation}} {{syn of|en|Dorado||constellation of the southern sky}}</text>
+<sha1>ijg0g265h1i51gf4rd7kdssye8j53db</sha1>
+</revision>
+</page>

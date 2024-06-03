@@ -1,0 +1,31 @@
+<page>
+<title>xinomavro</title>
+<ns>0</ns>
+<id>4894337</id>
+<revision>
+<id>67299983</id>
+<parentid>59187562</parentid>
+<timestamp>2022-06-06T12:47:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|el}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="534" xml:space="preserve">==English==
+===Etymology===
+{{uder|en|el|Ξινόμαυρο}}, literally &quot;sour black&quot;.
+===Noun===
+{{en-noun}}
+# A [[red wine]] [[grape]] [[variety]] from [[Macedonia]] in [[Greece]].
+#* {{quote-journal|en|oclc=14145399|work=Wine &amp; spirits|publisher=Winestate Publications|passage=And as for the Naoussa wines, the '''xinomavros''' on which the company built its name?|page=92|year=2009}}
+====Translations====
+{{trans-top|grape}}
+* Japanese: {{t|ja|クシノマヴロ|tr=kushinomavuro}}
+{{trans-bottom}}
+[[Category:en:Grapevines]]</text>
+<sha1>lklasyazki4e33m792mh08zqry8rwqm</sha1>
+</revision>
+</page>

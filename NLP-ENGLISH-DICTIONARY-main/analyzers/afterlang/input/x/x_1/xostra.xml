@@ -1,0 +1,49 @@
+<page>
+<title>xostra</title>
+<ns>0</ns>
+<id>6401337</id>
+<revision>
+<id>68866901</id>
+<parentid>68864776</parentid>
+<timestamp>2022-08-28T05:44:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1064" xml:space="preserve">==Galician==
+===Etymology 1===
+Probably from {{der|gl|pro|jostar||to joust}}.&lt;ref&gt;Cf. {{R:gl:DDGM|justar}}.&lt;/ref&gt;
+====Pronunciation====
+* {{IPA|gl|/ˈʃɔstɾa̝/|/ˈʃostɾa̝/}}
+====Noun====
+{{gl-noun|f}}
+# [[flexible]] [[twig]] or [[stick]]
+# [[strap]], [[twisted]] stick used for binding
+=====Synonyms=====
+* {{sense|twig}} {{l|gl|bestrega}}, {{l|gl|fustriga}}, {{l|gl|verga}}
+=====Derived terms=====
+* {{l|gl|xóstrega||flexible twig}}
+===Etymology 2===
+From {{der|gl|VL.|*substrare||to set a layer}}, from {{m|la|substratus}}.&lt;ref&gt;{{R:es:DCECH|jostra}}.&lt;/ref&gt; Cognate of {{cog|es|jostra}} and {{cog|fro|sostre}}.
+====Pronunciation====
+* {{IPA|gl|/ˈʃɔstɾa̝/|/ˈʃostɾa̝/}}
+====Noun====
+{{gl-noun|f}}
+# leather [[sole]]
+# animal [[sickness]]
+#* '''1409''', José Luis Pensado Tomé (ed.), ''Tratado de Albeitaria'', Santiago de Compostela: Centro Ramón Piñeiro, page 119:
+#*: ''Remedio contra a '''sostra'''''
+#*:: Cure for the '''sostra'''
+===References===
+* {{R:gl:DDGM|sostra}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>aqrtz5wfl497yzxeit44bppbivjxllj</sha1>
+</revision>
+</page>

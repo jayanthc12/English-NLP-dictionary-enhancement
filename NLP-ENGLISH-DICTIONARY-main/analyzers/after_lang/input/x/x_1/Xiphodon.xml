@@ -1,0 +1,29 @@
+<page>
+<title>Xiphodon</title>
+<ns>0</ns>
+<id>569798</id>
+<revision>
+<id>50188029</id>
+<parentid>49862033</parentid>
+<timestamp>2018-08-23T21:40:55Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>Adding image from [[wikidata:Q8044739]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="436" xml:space="preserve">{{also|xiphodon}}
+==Translingual==
+[[File:Xiphodon.jpg|thumb]]
+===Etymology===
+{{der|mul|grc|ξίφος||sword}} + {{m|grc|δόντι||tooth}}
+===Proper noun===
+{{taxoninfl|i=1|g=n}}
+# {{taxon|genus|family|Xiphodontidae|extinct mammals related to camels found in the European Tertiary formations, with slender legs, [[didactyl]]ous feet, and small [[canine]] teeth; [[xiphodon]]s}}
+===Further reading===
+* {{pedia}}
+* {{comcatlite}}</text>
+<sha1>dplxcyl6xkzp7q0gdajl7yq0rvv7i1u</sha1>
+</revision>
+</page>

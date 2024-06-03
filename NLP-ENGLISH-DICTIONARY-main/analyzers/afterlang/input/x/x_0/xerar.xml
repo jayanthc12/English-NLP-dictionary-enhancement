@@ -1,0 +1,48 @@
+<page>
+<title>xerar</title>
+<ns>0</ns>
+<id>1852706</id>
+<revision>
+<id>68862514</id>
+<parentid>68862100</parentid>
+<timestamp>2022-08-28T05:14:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1516" xml:space="preserve">==Galician==
+===Etymology===
+{{root|gl|ine-pro|*ǵenh₁-}}
+From Old Galician and {{inh|gl|roa-opt|gẽerar}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|generāre}}, present active infinitive of {{m|la|generō||I produce}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeˈɾaɾ/}}
+===Verb===
+{{gl-verb|xer|ar}}
+# to [[beget]], [[conceive]], generate by [[procreation]]
+#* '''1409''', J. L. Pensado Tomé (ed.), ''Tratado de Albeitaria''. Santiago de Compostela: Centro Ramón Piñeiro, page 57:
+#*: ''o Cauallo que ha de '''geerar''' deue Seer esforçado et bem gouernado et non deuen en el caualgar nen traballar con el.''
+#*:: the horse who shall '''procreate''' must be hardworking and well behaved, and they should not ride him nor work with him
+#: {{syn|gl|concibir|procrear}}
+# to [[produce]], [[originate]]
+#* '''1409''', J. L. Pensado Tomé (ed.), ''Tratado de Albeitaria''. Santiago de Compostela: Centro Ramón Piñeiro, page 93:
+#*: '''''geerase''' ajnda outra door dentro no corpo do Cauallo que uen de rretimento da vrina et faz jnchar a uixiga''
+#*:: and yet another pain '''is produced''' inside the body of the horse which comes from the retention of the urine, and it makes the bladder to swell
+#: {{syn|gl|orixinar|producir}}
+# {{inflection of|gl|xerar||1//3|s|futr|subj}}
+# {{inflection of|gl|xerar||1//3|s|pr|inf}}
+====Conjugation====
+{{gl-conj-ar|xer}}
+====Related terms====
+* {{l|gl|xeración}}
+===References===
+* {{R:gl:DDGM}}
+* {{R:gl:CX}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}</text>
+<sha1>t506bs6pxotlqiz4qp1tii5151i7we1</sha1>
+</revision>
+</page>

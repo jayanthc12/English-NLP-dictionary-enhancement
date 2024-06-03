@@ -1,0 +1,27 @@
+<page>
+<title>xotar</title>
+<ns>0</ns>
+<id>4716585</id>
+<revision>
+<id>68823588</id>
+<parentid>64053014</parentid>
+<timestamp>2022-08-27T21:47:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:Priberam}} to {{R:pt:Priberam}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="238" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{af|pt|xô|-t-|-ar}}.&lt;ref&gt;{{R:pt:Infopédia}}&lt;/ref&gt;&lt;ref&gt;{{R:pt:Priberam}}&lt;/ref&gt;
+===Verb===
+{{head|pt|verb form}}
+# {{lb|pt|Trás-os-Montes}} {{synonym of|pt|enxotar}}
+===References===
+&lt;references/&gt;</text>
+<sha1>3vm8h3nbm6djnnvvp99pro21b1cswdd</sha1>
+</revision>
+</page>

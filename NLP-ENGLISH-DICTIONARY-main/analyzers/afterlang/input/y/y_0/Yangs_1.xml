@@ -1,0 +1,24 @@
+<page>
+<title>Yangs</title>
+<ns>0</ns>
+<id>3828354</id>
+<revision>
+<id>57408800</id>
+<parentid>46479594</parentid>
+<timestamp>2019-10-19T22:29:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">{{also|yangs}}
+==German==
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Yang||gen|s}}</text>
+<sha1>kegxh8d5n6r75xqj6oi0wdeyhls1jgl</sha1>
+</revision>
+</page>

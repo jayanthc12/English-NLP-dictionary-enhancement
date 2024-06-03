@@ -1,0 +1,25 @@
+<page>
+<title>yarovization</title>
+<ns>0</ns>
+<id>4565934</id>
+<revision>
+<id>67299551</id>
+<parentid>44124883</parentid>
+<timestamp>2022-06-06T12:39:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|ru}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|ru|-}}.
+===Noun===
+{{en-noun|-}}
+# [[vernalization]]</text>
+<sha1>ku7upjen59yprdpujio75jt2uu30sgh</sha1>
+</revision>
+</page>

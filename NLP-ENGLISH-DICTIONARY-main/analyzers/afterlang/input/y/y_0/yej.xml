@@ -1,0 +1,32 @@
+<page>
+<title>yej</title>
+<ns>0</ns>
+<id>4196212</id>
+<revision>
+<id>64073232</id>
+<parentid>60748190</parentid>
+<timestamp>2021-09-30T12:33:56Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>[[User:CrowleyBot/task/1|Fix]] L5 after L3. L5 -&gt; L4: Related terms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="225" xml:space="preserve">==Albanian==
+===Etymology===
+Derivative of {{l|sq|yll}}.
+===Verb===
+{{sq-verb|yejta|yejtë}}
+# I [[stay]] [[awake]]
+====Related terms====
+* {{l|sq|yll}}
+----
+==Tabaa Zapotec==
+===Noun===
+{{head|zat|noun}}
+# [[flower]]</text>
+<sha1>498ueqn6ywzyi5x02xi3ml7big2eurw</sha1>
+</revision>
+</page>

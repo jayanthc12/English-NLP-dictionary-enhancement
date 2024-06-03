@@ -1,0 +1,55 @@
+<page>
+<title>xala</title>
+<ns>0</ns>
+<id>4140129</id>
+<revision>
+<id>67335079</id>
+<parentid>67201189</parentid>
+<timestamp>2022-06-10T17:22:06Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1161" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=хала|r=хала|a=خالا}}
+===Etymology===
+From {{bor|az|fa|خاله|tr=xâle}}, ultimately from {{der|az|ar|خالة}}.
+===Pronunciation===
+* {{IPA|az|[χɑˈɫɑ]}}
+* {{hyphenation|az|xa|la}}
+===Noun===
+{{az-head-noun|a}}
+# [[maternal aunt]] (one's mother's sister) {{topics|az|Family members}}
+#: {{cot|az|bibi|əmi|dayı|t1=paternal aunt|t2=paternal uncle|t3=maternal uncle}}
+====Declension====
+{{az-latin-noun-decl|v|a}}
+====See also====
+*{{l|az|əmioğlu|t=male paternal cousin}}
+*{{l|az|əmiqızı|t=female paternal cousin}}
+*{{l|az|dayıoğlu|t=male maternal cousin}}
+*{{l|az|dayıqızı|t=female paternal cousin}}
+*{{l|az|bacıqızı|t=sororal niece}}
+*{{l|az|bacıoğlu|t=sororal nephew}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Catalan==
+===Noun===
+{{ca-noun|f}}
+# A pleasure [[outing]] or [[excursion]], especially a noisy one.
+#: {{syn|ca|forada}}
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=sg|m=ind|t=pres|xalar}}
+# {{ca-verb form of|p=2|n=sg|m=impr|xalar}}
+----
+==Classical Nahuatl==
+===Noun===
+{{nci-noun}} (''locative'')
+# {{obsolete spelling of|nci|xallah|xāllah}}</text>
+<sha1>jfym5zplprlkeezp4vs3i25u4aet72f</sha1>
+</revision>
+</page>

@@ -1,0 +1,45 @@
+<page>
+<title>yhteistoiminta</title>
+<ns>0</ns>
+<id>3643313</id>
+<revision>
+<id>69318466</id>
+<parentid>52022940</parentid>
+<timestamp>2022-09-18T17:19:39Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1966" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteinen|toiminta|alt1=yhteis-|gloss1=joint|gloss2=action}}
+===Pronunciation===
+{{fi-p|yhteis-toiminta}}
+===Noun===
+{{fi-noun}}
+# [[cooperation]] {{gloss|act of cooperating or being cooperative}}
+# cooperation {{gloss|orderly sharing of space or resources}}
+# {{lb|fi|legal}} [[co-operation]], cooperation {{gloss|organized co-operation between the management and the employees as regulated in a number of acts, see list under Usage notes}}
+====Usage notes====
+* The acts regulating co-operation between management and employees include (as of Dec. 2014, English name provided for the laws of which an English translation exists):
+** ''laki yhteistoiminnasta yrityksissä'' a.k.a. ''[[yhteistoimintalaki]]'' - Act on Co-operation within Undertakings, decree nr. 334/2007
+** ''laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä'' - Act on Co-operation within Finnish and Community-wide Groups of Undertakings, 335/2007
+** ''laki yhteistoiminnasta [[valtion]] [[virastoissa]] [[ja]] [[laitoksissa]]'' a.k.a. ''valtion yhteistoimintalaki'', 1233/2013
+** ''laki työnantajan ja henkilöstön välisestä yhteistoiminnasta kunnissa''
+** ''laki työsuojelun valvonnasta ja työpaikan [[työsuojeluyhteistoiminta|työsuojeluyhteistoiminnasta]]'' - Act on Occupational Safety and Health Enforcement and Cooperation on Occupational Safety and Health at Workplaces, 44/2006
+** ''työterveyshuoltolaki'' - Occupational Health Care Act, 1383/2001
+** ''laki yhteistoiminta-asiamiehestä'' - Act on Cooperation Ombudsman, 216/2010
+====Declension====
+{{fi-decl-kala|yhteistoimi|nt|nn|a}}
+====Synonyms====
+* {{sense|act of cooperating}} {{l|fi|yhteistyö}}
+* {{sense|orderly sharing}} {{l|fi|yhteiselo}}
+====Derived terms====
+* {{l|fi|yhteistoiminnallinen}}
+* {{sense|legal}} {{l|fi|yhteistoiminta-asiamies}}, {{l|fi|yhteistoimintalaki}}, {{l|fi|yhteistoimintamenettely}}, {{l|fi|yhteistoimintaneuvottelu}}</text>
+<sha1>23282mtbij1xvks8ddl20snp4y121zn</sha1>
+</revision>
+</page>

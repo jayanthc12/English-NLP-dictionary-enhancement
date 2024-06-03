@@ -1,0 +1,23 @@
+<page>
+<title>xerocada</title>
+<ns>0</ns>
+<id>4638099</id>
+<revision>
+<id>69178327</id>
+<parentid>50175012</parentid>
+<timestamp>2022-09-08T06:00:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{pt-pp}} for participle form to {{head|pt|past participle form}}; replace ==Verb== with ==Participle== for participles and participle forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Portuguese==
+===Participle===
+{{head|pt|past participle form}}
+# {{pt-verb-form-of|xerocar}}</text>
+<sha1>hncr3z78nq2tdsbm9oqgvs2d6rsxdfa</sha1>
+</revision>
+</page>

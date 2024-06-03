@@ -1,0 +1,37 @@
+<page>
+<title>xoconochtli</title>
+<ns>0</ns>
+<id>3703992</id>
+<revision>
+<id>63076127</id>
+<parentid>56178243</parentid>
+<timestamp>2021-07-04T20:32:36Z</timestamp>
+<contributor>
+<ip>2806:105E:F:50DF:787D:B6D5:ED93:975E</ip>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="532" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[xoconochtle]].
+[[Category:Amecameca Central Nahuatl]]
+{{c|nhn|Fruits}}
+----
+==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|xococ|nōchtli|t1=something sour|t2=prickly pear}}.
+===Pronunciation===
+* {{IPA|nci|[ʃo.koˈnoːt͡ʃ.t͡ɬi]}}
+===Noun===
+{{head|head=xoconōchtli|nci|noun}}
+# A type of sour [[prickly pear]].
+====Derived terms====
+* {{l|nci|xoconochnohpalli|xoconōchnohpalli}}
+====Descendants====
+* {{desc|es|xoconostle}}
+[[Category:nci:Fruits]]</text>
+<sha1>3ii5fbe604wcssnd95tfjzuo4whe6yb</sha1>
+</revision>
+</page>

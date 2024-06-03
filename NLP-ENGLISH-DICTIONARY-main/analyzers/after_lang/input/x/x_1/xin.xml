@@ -1,0 +1,56 @@
+<page>
+<title>xin</title>
+<ns>0</ns>
+<id>544885</id>
+<revision>
+<id>69450668</id>
+<parentid>67521701</parentid>
+<timestamp>2022-10-05T08:56:39Z</timestamp>
+<contributor>
+<username>PhanAnh123</username>
+<id>1959647</id>
+</contributor>
+<comment>/* Vietnamese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1836" xml:space="preserve">{{also|Xin|xīn|xín|xǐn|xìn}}
+==Afar==
+===Pronunciation===
+* {{aa-IPA|xin}}
+===Noun===
+{{aa-noun|xin|g=m}}
+# [[sleep]]
+====References====
+* {{R:aa:Hassan Kamil:2015}}
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|xīn}}
+# {{nonstandard spelling of|cmn|sc=Latn|xín}}
+# {{nonstandard spelling of|cmn|sc=Latn|xǐn}}
+# {{nonstandard spelling of|cmn|sc=Latn|xìn}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Vietnamese==
+===Etymology===
+Contratry to some proposals (such as Ishihara (2014)&lt;ref&gt;Ishihara, Yoshihito 石原, 嘉人 (2014), [https://cir.nii.ac.jp/crid/1050855676747884928 ベトナム語話者に対する漢字語彙の指導について (Native Speakers of Vietnamese and the Acquisition of Japanese KANJI Compounds)]&lt;/ref&gt;), this term is unrelated to {{ltc-l|請|id=2}}, which contains both an unmatching velar coda and an unmatching tone.
+===Pronunciation===
+{{vi-pron}}
+===Verb===
+{{vi-verb|[[嗔]], [[吀]]}}
+# to [[ask]] for; to [[beg]] for; to [[request]]
+#:{{uxi|vi|'''xin''' tiền|to ask for an allowance; to beg for money; to request a budget}}
+#:{{ux|vi|{{lb|vi|honorific}} '''Xin''' anh vui lòng cởi giày trước khi vào nhà ạ.|Please take off your shoes before coming in.|lit=I beg you to take off your shoes before entering my house.}}
+# {{lb|vi|honorific|humble}} to [[humbly]] ask to do something
+#:{{ux|vi|'''Xin''' chân thành cảm ơn mọi người đã tụ họp đông đủ tại đây.|I'd like to thank everyone for attending this meeting, with no one being absent.}}
+====Derived terms====
+{{vi-der|ăn xin|cầu xin|cưới xin|nài xin|van xin|xin âm dương|xin đểu|xin đi đằng đầu|xin đủ|xin lỗi|xin quẻ|xin xỏ}}
+====See also====
+* {{l|vi|làm ơn}}
+====References====
+&lt;references/&gt;</text>
+<sha1>jieqebcmaluncszop8fgxh1q5kkuoq9</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xylografisches</title>
+<ns>0</ns>
+<id>6345510</id>
+<revision>
+<id>60597356</id>
+<parentid>58424002</parentid>
+<timestamp>2020-09-27T13:19:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xylografisches.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xylografisch}}</text>
+<sha1>o4kfizn2chdmu16jtats5wqk41ukew4</sha1>
+</revision>
+</page>

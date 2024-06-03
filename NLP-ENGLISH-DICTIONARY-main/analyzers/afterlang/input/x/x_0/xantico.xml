@@ -1,0 +1,26 @@
+<page>
+<title>xantico</title>
+<ns>0</ns>
+<id>1625327</id>
+<revision>
+<id>62883470</id>
+<parentid>62769340</parentid>
+<timestamp>2021-06-18T01:20:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>fix brokenness in Italian adjectives (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">{{also|xántico}}
+==Italian==
+===Adjective===
+{{it-adj}}
+# [[xanthic]]
+====Derived terms====
+* {{l|it|acido xantico}}</text>
+<sha1>85btc8oypwf9yt40ak14xd85nk8h7pg</sha1>
+</revision>
+</page>

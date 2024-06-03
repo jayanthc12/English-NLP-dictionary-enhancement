@@ -1,0 +1,40 @@
+<page>
+<title>yasi</title>
+<ns>0</ns>
+<id>3733097</id>
+<revision>
+<id>68657351</id>
+<parentid>68636650</parentid>
+<timestamp>2022-08-17T12:07:45Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="953" xml:space="preserve">{{also|Yǎsī}}
+==Apatani==
+===Etymology===
+From {{inh|apt|sit-tan-pro|*si||water}}, from {{inh|apt|sit-pro|*si||water}}. Cognate with {{cog|adi|asi}}, {{cog|sit-bok|iɕi}}.
+===Pronunciation===
+* {{IPA|apt|[ˈjasi]}}
+===Noun===
+{{head|apt|noun}}
+# [[water]]
+===References===
+* Ivan Martin Simon, ''An introduction to Apatani'' (1973), page 191
+* Tasso Sai, ''A Guide to Apatani Language'' (1983), page 11: &quot;Air — alyi | Rain — ni'do | Water — yasi | Fire — yamu | Fire wood — yasang | Lightning — dolya | Thunder — yapung | Stone — yalang&quot;
+* P. T. Abraham, ''Apatani grammar'' (1985), page 35
+* Tianshin Jackson Sun, ''A Historical-Comparative Study of the Tani (Mirish) Branch in Tibeto-Burman'': Apatani S ''ja-si''
+----
+==Sekar==
+===Etymology===
+From {{inh|skz|poz-cet-pro|*asu}}, from {{inh|skz|poz-pro|*asu}}, from {{inh|skz|map-pro|*(w)asu}}.
+===Noun===
+{{head|skz|noun}}
+# [[dog]] {{gloss|animal}}
+[[Category:skz:Dogs]]</text>
+<sha1>9anzph2ldglx0cyh1a4tsapv4whsdh0</sha1>
+</revision>
+</page>

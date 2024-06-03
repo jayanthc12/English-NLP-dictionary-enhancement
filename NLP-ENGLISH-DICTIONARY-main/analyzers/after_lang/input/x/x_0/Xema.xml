@@ -1,0 +1,33 @@
+<page>
+<title>Xema</title>
+<ns>0</ns>
+<id>3071593</id>
+<revision>
+<id>38632833</id>
+<parentid>38616228</parentid>
+<timestamp>2016-06-02T17:51:05Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Hypernyms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="444" xml:space="preserve">==Translingual==
+{{wikipedia}}
+{{wikispecies}}
+===Etymology===
+Coined by {{w|William Elford Leach}}.
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Laridae|the {{vern|fork-tailed gull}}, an Arctic species}}
+====Hypernyms====
+* {{sense|genus}} {{Laridae Hypernyms}}; [[Larinae]]&amp;nbsp;- subfamily
+====Hyponyms====
+* {{sense|genus}} ''[[Xema sabini]]''&amp;nbsp;- species
+===References===
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>g60lwf6e9etdzc7ao81g15dqc3341g5</sha1>
+</revision>
+</page>

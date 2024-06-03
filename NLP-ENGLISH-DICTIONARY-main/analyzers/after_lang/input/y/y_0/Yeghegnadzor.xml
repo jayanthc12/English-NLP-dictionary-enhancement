@@ -1,0 +1,33 @@
+<page>
+<title>Yeghegnadzor</title>
+<ns>0</ns>
+<id>6021284</id>
+<revision>
+<id>54138776</id>
+<parentid>46712868</parentid>
+<timestamp>2019-09-15T07:10:24Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="408" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{der|en|hy|Եղեգնաձոր}}.
+===Proper noun===
+{{en-proper noun}}
+# a town in [[Armenia]] and the administrative centre of the [[Vayots Dzor]] Province
+====Translations====
+{{trans-top|town in Armenia}}
+* Armenian: {{t+|hy|Եղեգնաձոր}}
+{{trans-mid}}
+* Russian: {{t|ru|Ехегнадзо́р}}
+{{trans-bottom}}
+[[Category:en:Cities in Armenia]]</text>
+<sha1>ebtceenolq78pa71r2gw1g58un9v1x4</sha1>
+</revision>
+</page>

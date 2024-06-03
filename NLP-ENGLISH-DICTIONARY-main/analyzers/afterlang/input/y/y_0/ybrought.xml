@@ -1,0 +1,25 @@
+<page>
+<title>ybrought</title>
+<ns>0</ns>
+<id>615091</id>
+<revision>
+<id>58051692</id>
+<parentid>54535677</parentid>
+<timestamp>2019-11-24T06:16:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|bring|nocat=1}}
+====Synonyms====
+* {{l|en|brought}}</text>
+<sha1>ex1n87jpene4ix1zzx6vm51pcnyuwur</sha1>
+</revision>
+</page>

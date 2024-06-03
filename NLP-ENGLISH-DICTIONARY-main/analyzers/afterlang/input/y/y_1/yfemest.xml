@@ -1,0 +1,31 @@
+<page>
+<title>yfemest</title>
+<ns>0</ns>
+<id>1644535</id>
+<revision>
+<id>58042659</id>
+<parentid>57925054</parentid>
+<timestamp>2019-11-23T04:51:50Z</timestamp>
+<contributor>
+<username>Benwing2</username>
+<id>2754475</id>
+</contributor>
+<comment>/* Old English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="368" xml:space="preserve">==Old English==
+===Alternative forms===
+* {{l|ang|ufemest}}
+===Etymology===
+Per Köbler, from {{der|ang|gem-pro|*ubamaz}} + superlative ending {{m|ang|-est}}.
+===Pronunciation===
+* {{IPA|ang|/ˈyfemest/}}
+===Adjective===
+{{ang-adj-sup|yfemest|comp=yferra}}
+# [[uppermost]], [[highest]]
+# in the highest degree or position
+====Declension====
+{{ang-adecl|yfemest}}</text>
+<sha1>oiqmkpxanbjzb2r1s6fckwda6bt0612</sha1>
+</revision>
+</page>

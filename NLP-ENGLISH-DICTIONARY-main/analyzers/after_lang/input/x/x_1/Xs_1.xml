@@ -1,0 +1,28 @@
+<page>
+<title>Xs</title>
+<ns>0</ns>
+<id>3205748</id>
+<revision>
+<id>55988681</id>
+<parentid>53092423</parentid>
+<timestamp>2019-10-16T12:47:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="184" xml:space="preserve">{{also|xs|XS|x's|X's}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|X}}
+====Usage notes====
+{{U:en:plurals of letters}}
+===Anagrams===
+* {{anagrams|en|a=sx|SX|Sx}}</text>
+<sha1>64g1e1q70wk2yci9v11yyj9l2yhkrwf</sha1>
+</revision>
+</page>

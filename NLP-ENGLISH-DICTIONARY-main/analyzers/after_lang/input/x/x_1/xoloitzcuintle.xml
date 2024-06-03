@@ -1,0 +1,32 @@
+<page>
+<title>xoloitzcuintle</title>
+<ns>0</ns>
+<id>3168906</id>
+<revision>
+<id>62085096</id>
+<parentid>61998024</parentid>
+<timestamp>2021-03-14T03:05:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="385" xml:space="preserve">{{also|Xoloitzcuintle}}
+==Spanish==
+===Etymology===
+From {{bor|es|nci|xoloitzcuintli||Mexican hairless}}.
+===Pronunciation===
+{{es-IPA|sholoitzcuintle|pre={{a|careful pronunciation}}}}
+{{es-IPA|choloscuincle|pre={{a|fully Hispanized}}}}
+* {{audio|es|es-mx-xoloitzcuintle.ogg|Audio (Mexico)}}
+===Noun===
+{{es-noun|m}}
+# [[Xoloitzcuintli]]
+====Related terms====
+* {{l|es|escuincle}}</text>
+<sha1>elhct7jipjh2e61vp8z06p4keakav7i</sha1>
+</revision>
+</page>

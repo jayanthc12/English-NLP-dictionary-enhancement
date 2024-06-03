@@ -1,0 +1,33 @@
+<page>
+<title>yidis</title>
+<ns>0</ns>
+<id>4213982</id>
+<revision>
+<id>68956023</id>
+<parentid>64220605</parentid>
+<timestamp>2022-08-28T21:42:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="297" xml:space="preserve">==Spanish==
+{{wikipedia|lang=es}}
+===Alternative forms===
+* {{alter|es|yiddish|yíddish|yídish|ídish|ídisch}}
+===Etymology===
+From {{bor|es|yi|ייִדיש}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m|-}}
+# [[Yiddish]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Languages}}</text>
+<sha1>him092wm9kvc1ev01svbcl27qc9ui5b</sha1>
+</revision>
+</page>

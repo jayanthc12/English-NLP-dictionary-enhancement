@@ -1,0 +1,69 @@
+<page>
+<title>Xiangshui</title>
+<ns>0</ns>
+<id>7159128</id>
+<revision>
+<id>68502713</id>
+<parentid>67891122</parentid>
+<timestamp>2022-07-31T19:55:29Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1971 report</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1941" xml:space="preserve">{{also|xiāngshuǐ}}
+==English==
+{{wikipedia}}
+{{commonscat|Xiangshui County}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiang-shui}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|响水}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|county|prefecture-level city/Yancheng|province/Jiangsu|c/China}}.
+#* {{quote-book
+|en
+|year=1971
+|title=Summary of World Broadcasts: The Far East
+|url=https://books.google.com/books?id=7kLRAAAAMAAJ
+|publisher={{w|British Broadcasting Corporation}}
+|OCLC=53864202
+|page=A-4
+|text=Kiangsu Leading members of the '''Hsiangshui''' County CCP Committee have linked the study and application of Marxism-Leninism-Mao Tsetung thought with invest-{{...}}
+|brackets=on}}
+#* {{quote-book
+|en
+|year=1996
+|last=White
+|first=Gordon
+|last2=Howell
+|first2=Jude
+|last3=Shang
+|first3=Xiaoyuan
+|chapter=Urban Women and the Women's Federation
+|title=In Search of Civil Society: Market Reform and Social Change in Contemporary China
+|url=https://archive.org/details/insearchofcivils0000whit/
+|publisher={{w|Clarendon Press}}
+|ISBN=0-19-828956-1
+|LCCN=95-46909
+|OCLC=925291458
+|OL=810070M
+|page=79
+|pageurl=https://archive.org/details/insearchofcivils0000whit/page/79/
+|text= In many rural areas of China women cadres have virtually disappeared. For example in '''Xiangshui''' County in Jiangsu Province, the number of women serving as secretaries/ deputy secretaries or heads/deputy heads of basic level collective organizations fell from 93 in late 1979 to 12 in 1990 (Zhang Yaofang 1993).}}
+# {{place|en|town|county/Xiangshui|prefecture-level city/Yancheng|province/Jiangsu|c/China}}.
+====Translations====
+{{trans-top|county in eastern China; town in eastern China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|响水|tr=Xiǎngshuǐ|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>7rrfihz6z65aujf7pn0evyg3h6h47ow</sha1>
+</revision>
+</page>

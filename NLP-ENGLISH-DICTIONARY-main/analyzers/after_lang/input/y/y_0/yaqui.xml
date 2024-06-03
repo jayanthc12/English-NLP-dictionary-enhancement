@@ -1,0 +1,31 @@
+<page>
+<title>yaqui</title>
+<ns>0</ns>
+<id>6516506</id>
+<revision>
+<id>68969059</id>
+<parentid>64220565</parentid>
+<timestamp>2022-08-29T01:43:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="178" xml:space="preserve">{{also|Yaqui}}
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[Yaqui]]
+===Noun===
+{{es-noun|mf}}
+# [[Yaqui]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>dj5olkavb7i2ahc958sw3ssgv9ibry2</sha1>
+</revision>
+</page>

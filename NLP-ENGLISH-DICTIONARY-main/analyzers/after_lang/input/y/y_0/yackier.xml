@@ -1,0 +1,26 @@
+<page>
+<title>yackier</title>
+<ns>0</ns>
+<id>6361450</id>
+<revision>
+<id>67264043</id>
+<parentid>56125448</parentid>
+<timestamp>2022-06-05T22:50:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[yackière]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="168" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lepticed7-yackier.wav|Audio}}
+===Noun===
+{{fr-noun|m|f=+}}
+# [[yakherd]], [[yak]] [[herdsman]]</text>
+<sha1>eqx9qn6hdetmlyl5eyn5c2plxnq7az6</sha1>
+</revision>
+</page>

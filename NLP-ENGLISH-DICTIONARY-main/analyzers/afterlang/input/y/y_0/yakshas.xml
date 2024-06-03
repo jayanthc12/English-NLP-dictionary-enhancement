@@ -1,0 +1,25 @@
+<page>
+<title>yakshas</title>
+<ns>0</ns>
+<id>3038995</id>
+<revision>
+<id>55946902</id>
+<parentid>53092634</parentid>
+<timestamp>2019-10-16T10:44:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yaksha}}
+===Anagrams===
+* {{anagrams|en|a=aahkssy|shayaks}}</text>
+<sha1>cdljqykoaozu81n9s1r86m2lncysncj</sha1>
+</revision>
+</page>

@@ -1,0 +1,70 @@
+<page>
+<title>yasa</title>
+<ns>0</ns>
+<id>534043</id>
+<revision>
+<id>65238055</id>
+<parentid>61740774</parentid>
+<timestamp>2022-01-08T02:31:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Turkish: correct whitespace of section 0; Turkish: correct indentation of section 5 (Synonyms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1279" xml:space="preserve">{{also|Yasa|Yaşa}}
+==Fulniô==
+===Noun===
+{{head|fun|noun}}
+# {{l|en|people}}
+===References===
+* '''2009''' (originally '''1968'''), Douglas Meland, Doris Meland, ''Fulniô (Yahthe) Syntax Structure: Preliminary Version'', Associação Internacional de Linguística - SIL Brasil, page 19.
+----
+==Manchu==
+===Romanization===
+{{head|mnc|romanization|sc=Latn}}
+# {{romanization of|mnc|ᠶᠠᠰᠠ}}
+----
+==Northern Kurdish==
+===Etymology===
+From {{bor|kmr|tr|yasa}}.
+===Noun===
+{{kmr-noun|f}}
+# [[law]] (body of rules from the legislative authority)
+----
+==Pali==
+===Alternative forms===
+{{pi-alt|Latn=yasa|Laoo=ຍສ|Laoo2=ຍະສະ|Laoo3=ຢສ|Laoo4=ຢະສະ}}
+===Noun===
+{{head|pi|noun form}}
+# {{inflection of|pi|yasas||voc|s|t=success}}
+# {{form of|pi|alternative stem|yasas|t=success}}
+----
+==Tocharian B==
+===Etymology===
+{{rfe|txb}}
+===Noun===
+{{txb-noun||?}}
+# [[gold]]
+----
+==Turkish==
+===Etymology===
+From {{m|tr|yasamak}}.
+===Pronunciation===
+* {{IPA|tr|[jɑ.ˈsɑ]}}
+* {{hyphenation|tr|ya|sa}}
+===Noun===
+{{tr-noun|yı|lar}}
+# {{lb|tr|law}} [[law]], [[statute]], [[code]], written set of [[rule]]s
+====Declension====
+{{tr-infl-noun-v|a|poss=1}}
+====Synonyms====
+* {{l|tr|kanun}}
+===See also===
+* {{l|tr|hukuk}}
+* {{l|tr|ilke}}</text>
+<sha1>c4ykr2rieacgve9xp8hlf8eslwndw3l</sha1>
+</revision>
+</page>

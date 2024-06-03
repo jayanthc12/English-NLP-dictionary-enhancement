@@ -1,0 +1,36 @@
+<page>
+<title>yaotenhuah</title>
+<ns>0</ns>
+<id>831520</id>
+<revision>
+<id>55476868</id>
+<parentid>51997050</parentid>
+<timestamp>2019-10-15T02:52:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1064" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+{{compound|nci|yāōtl|gloss1=enemy; war|tēntli|gloss2=lip; edge|-huah|gloss3=possessor}}.
+===Pronunciation===
+* {{IPA|nci|/jaː.oːteːnwaʔ/}}
+===Noun===
+{{head|nci|noun|plural|yāōtēnhuahqueh|head=yāōtēnhuah}}
+# those near the enemy border; those on the [[front line]]
+#* '''16C''', [[w:Bernardino de Sahagún|Bernardino de Sahagún]], &quot;[[w:Florentine Codex|Florentine Codex]]&quot;, book 1
+#*: yn jxqujch techiaoalotoc, yn '''iautenoaque''', yn iaotenco onoque, qujnoalcaoaia yn jnmalhoan, yn jntlaaxioan
+#*: (All who lay surrounding, those who held the enemy borders, those who dwelt on the enemy borders brought their captives, their prisoners here.)
+====Related terms====
+* {{l|nci|yaotenco}}
+===References===
+* {{cite-book|author=Sahagún, Bernardino de|year=1981|title=Florentine Codex: Book 1 - The Gods|others=ed. and trans. by Arthur J. O. Anderson and Charles E. Dibble|edition=2nd ed., rev.|location=Salt Lake City|publisher=University of Utah Press|page=32}}
+[[Category:nci:People]]
+[[Category:nci:War]]</text>
+<sha1>3k8txuswauk84q7a0luwjor1uuumogy</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>xenolith</title>
+<ns>0</ns>
+<id>269327</id>
+<revision>
+<id>68534696</id>
+<parentid>52609682</parentid>
+<timestamp>2022-08-04T12:14:40Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="665" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{confix|en|xeno|lith}}
+===Noun===
+{{en-noun}}
+# {{lb|en|geology}} any piece of [[rock]] having a different [[origin]] to that of the [[igneous]] rock in which it is found
+====Translations====
+{{trans-top|geology: any piece of rock having a different origin to that of the igneous rock in which it is found}}
+* Finnish: {{t+|fi|ksenoliitti}}
+* French: {{t+|fr|xénolithe|m}}
+* German: {{t+|de|Xenolith|m}}
+* Hungarian: {{t+|hu|zárvány}}
+* Irish: {{t|ga|xéinilit|f}}
+{{trans-mid}}
+* Italian: {{t|it|xenolite|m}}
+* Portuguese: {{t|pt|xenólito|m}}
+* Spanish: {{t|es|xenolito|m}}
+{{trans-bottom}}
+[[Category:en:Rocks]]</text>
+<sha1>314rfvivn9gdtegxu4iyrsjlnx6aeup</sha1>
+</revision>
+</page>

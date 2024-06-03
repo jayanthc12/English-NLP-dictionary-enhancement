@@ -1,0 +1,68 @@
+<page>
+<title>xiringar</title>
+<ns>0</ns>
+<id>5574001</id>
+<revision>
+<id>68866189</id>
+<parentid>68842580</parentid>
+<timestamp>2022-08-28T05:39:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1754" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb}}
+# To [[move]], [[sway]], [[shake]]
+====Conjugation====
+{{ast-conj-gar|xirin}}
+====Derived terms====
+* {{l|ast|xiringüelu}}
+----
+==Galician==
+===Etymology===
+From {{m|gl|xiringa|t=syringe}}.
+===Pronunciation===
+* {{IPA|gl|/ʃiɾiŋˈɡaɾ/}}
+===Verb===
+{{gl-verb|xiring|ar|pret=xiringuei}}
+# {{lb|gl|transitive}} to [[inject]] with a [[syringe]]
+# {{lb|gl|transitive}} to [[splash]]
+# {{lb|gl|transitive}} to [[squirt]]
+#: {{syn|gl|cichar}}
+# {{lb|gl|transitive|figurative}} to [[disturb]], [[bother]], [[harm]]
+#* '''1813''', anonymous, ''Decima constitucional'':
+#*: ''bufe o escribano ladrón, que o pelexo me sacou, e breme o que me acabou con trabucos, e liortas: gráceas dan as miñas portas a quen así os xiringou.''
+#*:: let him hiss, the thief scribe who took my hide; and let him fret, who finished me with tributes and struggles: thanks are given by my doors to whom that so '''disturbed''' them
+#* '''c1840''', Ramón Varela Vahamonde, ''Conversa entre os arrieiros'':
+#*: ''Váian ao inferno a beber,''
+#*: ''Que a min ben me '''xiringaron'''''
+#*: ''E, entre mangas e riostras,''
+#*: ''Trecentos reás vöaron.''
+#*: ''Débenme, Dios sabe canto,''
+#*: ''O menos trint’e set’olas''
+#*: ''E coidaban os larpeiros''
+#*: ''De pagarmas con parolas.''
+#*:: Let them go to Hell to drink,
+#*:: because they '''harmed''' me very much
+#*:: and, among other things,
+#*:: three hundred reals flew away.
+#*:: They owe me God knows how much,
+#*:: at least seventy-four gallons,
+#*:: and the gluttons thought of
+#*:: paying me with banter.
+#: {{syn|gl|amolar|enfastidiar}}
+====Conjugation====
+{{gl-conj-car|xiring|xiringu}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>7lwc1omchyd6y9ray1g50z6n009zqe3</sha1>
+</revision>
+</page>

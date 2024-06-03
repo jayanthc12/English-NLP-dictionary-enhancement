@@ -1,0 +1,39 @@
+<page>
+<title>yif</title>
+<ns>0</ns>
+<id>1507250</id>
+<revision>
+<id>65540797</id>
+<parentid>63256585</parentid>
+<timestamp>2022-01-28T04:58:54Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="902" xml:space="preserve">==English==
+===Etymology===
+Inherited from {{inh|en|enm|yif}}, from {{inh|en|ang|ġif}}, from {{inh|en|gem-pro|*jabai}}.
+===Pronunciation===
+* {{IPA|en|/jɪf/}}
+* {{rhymes|en|ɪf|s=1}}
+===Conjunction===
+{{en-con}}
+# {{lb|en|West Country}} [[if|If]].
+===Anagrams===
+* {{anagrams|en|a=fiy|-ify|FYI}}
+----
+==Middle English==
+===Conjunction===
+{{head|enm|conjunction}}
+# [[if|If]].
+#* '''12??''', Thomas of Erceldoune, ''Sir Tristrem''
+#*: &quot;Wite thou wele his wille; / Know well what he intends / To wende with him thou say, / And '''yif''' he loveth the stille, / &quot;Thou do Tristrem away&quot; / Biseche him he se thertille, / Thi fo is Tristrem ay.
+#* '''13??''', Geoffrey Chaucer, ''Boethius and Troilus''
+#*: And at the laste, '''yif''' that any wight wene a thing to ben other weyes thanne it is, it is nat only unscience, but it is deceivable opinioun ful diverse and fer fro the sothe of science.</text>
+<sha1>dbe5q1zeig8b7zazob47y5jayykj592</sha1>
+</revision>
+</page>

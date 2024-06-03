@@ -1,0 +1,30 @@
+<page>
+<title>yashiki</title>
+<ns>0</ns>
+<id>1214551</id>
+<revision>
+<id>48071487</id>
+<parentid>47279249</parentid>
+<timestamp>2017-11-12T18:11:19Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed notext=1</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|屋敷}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|Japanese history}} A residence or [[estate]] of a [[daimyo]]
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やしき}}</text>
+<sha1>42xib0zw57aq11yxk49nq8awig0q0si</sha1>
+</revision>
+</page>

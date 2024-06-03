@@ -1,0 +1,56 @@
+<page>
+<title>yaon</title>
+<ns>0</ns>
+<id>4127105</id>
+<revision>
+<id>69529022</id>
+<parentid>69491337</parentid>
+<timestamp>2022-10-16T09:26:35Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1028" xml:space="preserve">==Bikol Central==
+===Pronunciation===
+* {{hyph|bcl|ya|on}}
+* {{bcl-IPA|yá7on}}
+===Adjective===
+{{head|bcl|adjective|head=yáon}}
+# [[present]]
+#: {{ant|bcl|mayo|wara|awsente}}
+===Adverb===
+{{head|bcl|adverb|head=yáon}}
+# {{lb|bcl|location}} [[over here]]; [[over there]]
+#: {{syn|bcl|niyaon}}
+====See also====
+{{col3|bcl|anion|itoon}}
+----
+==Tagalog==
+===Alternative forms===
+* {{alter|tl|yao}} {{sense|departure; death}}
+===Pronunciation 1===
+* {{hyph|tl|ya|on}}
+* {{tl-IPA|ya7ón}}
+====Pronoun====
+{{tl-head|pos=pronoun|yaón|b={{tl-bay sc}}}}
+# [[yonder]]
+#: {{syn|tl|iyon|niyaon|niyon|noon}}
+===Pronunciation 2===
+* {{hyph|tl|ya|on}}
+* {{tl-IPA|ya7on}}
+====Noun====
+{{tl-noun|b={{tl-bay sc}}}}
+# [[departure]]; act of going away or [[leave|leaving]]
+#: {{syn|tl|alis|lisan|lakad}}
+# {{lb|tl|euphemistic}} [[die|dying]]
+#: {{syn|tl|panaw|patay|salangit}}
+=====Derived terms=====
+{{der3|tl|yao't ito|nayaon|yumaon|magyaon|payao't dito|magyao't dito|pagyaon}}
+===References===
+* {{R:Pambansang Diksiyonaryo}}</text>
+<sha1>hlbg46536log20v2fesm79yin81g6n8</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yelling</title>
+<ns>0</ns>
+<id>464081</id>
+<revision>
+<id>55029465</id>
+<parentid>52485327</parentid>
+<timestamp>2019-10-11T15:27:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="278" xml:space="preserve">==English==
+{{wikipedia|Screaming}}
+===Etymology===
+From {{inh|en|enm|ȝellynge}}, {{m|enm|ȝollynge}}; equivalent to {{af|en|yell|-ing}}.
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yell|nocat=1}}
+===Noun===
+{{en-noun}}
+# The act of producing a [[yell]].</text>
+<sha1>3k6jb8o7e2dh59n0m3yc75helcqeklf</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yawps</title>
+<ns>0</ns>
+<id>717526</id>
+<revision>
+<id>55423512</id>
+<parentid>53092822</parentid>
+<timestamp>2019-10-15T00:14:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yawp}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yawp}}
+===Anagrams===
+* {{anagrams|en|a=apswy|WASPy|waspy}}</text>
+<sha1>52rz94o0i8pxdc50uztkjzc592rd34g</sha1>
+</revision>
+</page>

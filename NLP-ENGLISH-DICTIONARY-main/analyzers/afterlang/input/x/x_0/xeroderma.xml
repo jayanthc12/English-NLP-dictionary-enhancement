@@ -1,0 +1,47 @@
+<page>
+<title>xeroderma</title>
+<ns>0</ns>
+<id>255068</id>
+<revision>
+<id>62731377</id>
+<parentid>51737826</parentid>
+<timestamp>2021-06-12T07:44:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Convert synonyms in Italian subsection 4 to inline synonyms in subsection 3 based on synonyms with only one definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="786" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{confix|en|xero|derma}}
+===Noun===
+{{en-noun|s|xerodermata}}
+# {{lb|en|pathology}} Any of various [[skin]] [[disease]]s characterised by dry hard scaly skin, especially [[ichthyosis]].
+====Synonyms====
+* {{l|en|xerodermia}}
+====Derived terms====
+* {{l|en|xeroderma pigmentosum}}
+* {{l|en|xerodermatic}}
+* {{l|en|xerodermatous}}
+====Translations====
+{{trans-top|pathology: any of various skin diseases characterised by dry hard scaly skin}}
+* Irish: {{t|ga|xéirideirme|f}}
+* Italian: {{t|it|xeroderma|m}}
+{{trans-mid}}
+* Vietnamese: {{t|vi|chứng khô da}}, {{t|vi|bệnh khô da}}
+{{trans-bottom}}
+----
+==Italian==
+===Etymology===
+{{prefix|it|xero|derma}}
+===Noun===
+{{it-noun|m}}
+# [[#English|xeroderma]]
+#: {{syn|it|xerodermia}}</text>
+<sha1>tcpmiajl52nbeb3rl2ydgu9e31n6m3z</sha1>
+</revision>
+</page>

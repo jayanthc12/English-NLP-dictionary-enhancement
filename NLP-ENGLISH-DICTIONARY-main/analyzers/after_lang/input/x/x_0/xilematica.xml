@@ -1,0 +1,24 @@
+<page>
+<title>xilematica</title>
+<ns>0</ns>
+<id>1625569</id>
+<revision>
+<id>55504031</id>
+<parentid>40332507</parentid>
+<timestamp>2019-10-15T04:11:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine singular of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="118" xml:space="preserve">{{also|xilemática}}
+==Italian==
+===Adjective===
+{{head|it|adjective form}}
+# {{feminine singular of|it|xilematico}}</text>
+<sha1>pwh5v2e1dkvv3n7xa42wcu6bjgs3okj</sha1>
+</revision>
+</page>

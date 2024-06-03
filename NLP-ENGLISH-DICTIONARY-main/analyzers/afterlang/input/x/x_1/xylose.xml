@@ -1,0 +1,50 @@
+<page>
+<title>xylose</title>
+<ns>0</ns>
+<id>43918</id>
+<revision>
+<id>62922150</id>
+<parentid>59645163</parentid>
+<timestamp>2021-06-19T18:03:49Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1027" xml:space="preserve">{{also|Xylose}}
+==English==
+[[File:Xylose.svg|right|thumb|Structure diagram of xylose]]
+[[File:Xylose linear.png|right|thumb|Linear form]]
+{{wikipedia}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|carbohydrate}} One of the [[pentose]]s, C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;, a [[white]] [[crystalline]] [[sugar]], [[derived]] from [[wood]].
+#: {{syn|en|wood sugar}}
+====Related terms====
+* {{l|en|xylosyl}}
+* {{l|en|xylosylglucoside}}
+====Translations====
+{{trans-top|wood sugar}}
+* Catalan: {{t|ca|xilosa|f}}
+* Czech: {{t+|cs|xylóza|f}}
+* Finnish: {{t|fi|ksyloosi}}
+* French: {{t+|fr|xylose|m}}
+* German: {{t+|de|Xylose|f}}
+* Hindi: {{t|hi|काष्ठशर्करा|f}}
+* Hungarian: {{t+|hu|xilóz}}
+{{trans-mid}}
+* Irish: {{t|ga|xileos|m}}, {{t|ga|xiolós|m}}
+* Italian: {{t|it|xilosio|m}}
+* Polish: {{t|pl|ksyloza|f}}
+* Portuguese: {{t|pt|xilose|f}}
+* Russian: {{t+|ru|ксило́за|f}}
+* Slovak: {{t+|sk|xylóza|f}}
+* Spanish: {{t+|es|xilosa|f}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=elosxy|lyxose}}</text>
+<sha1>f0g1yrvhn21eqsb8bma6xpl4zk5vfk2</sha1>
+</revision>
+</page>

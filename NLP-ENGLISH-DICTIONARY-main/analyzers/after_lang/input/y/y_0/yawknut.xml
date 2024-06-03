@@ -1,0 +1,21 @@
+<page>
+<title>yawknut</title>
+<ns>0</ns>
+<id>3744991</id>
+<revision>
+<id>54535304</id>
+<parentid>26690501</parentid>
+<timestamp>2019-10-02T00:36:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{no entry}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==English==
+{{no entry|en|[[Appendix:English dictionary-only terms of Native American origin]]}}</text>
+<sha1>81a96szbf4to4jwzma7btblyvey7dot</sha1>
+</revision>
+</page>

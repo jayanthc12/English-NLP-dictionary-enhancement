@@ -1,0 +1,33 @@
+<page>
+<title>yetki</title>
+<ns>0</ns>
+<id>3669166</id>
+<revision>
+<id>67180262</id>
+<parentid>67180259</parentid>
+<timestamp>2022-05-28T23:55:28Z</timestamp>
+<contributor>
+<username>MhmtÖ</username>
+<id>3714419</id>
+</contributor>
+<minor />
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="310" xml:space="preserve">==Turkish==
+===Etymology===
+From {{suf|tr|yetmek|gi|alt1=yet-|alt2=ki}}.
+===Pronunciation===
+* {{IPA|tr|/jet.ci/}}
+===Noun===
+{{tr-noun|yi|ler}}
+# [[authority]]
+# [[authorization]], [[permission]]
+====Declension====
+{{tr-infl-noun-v|i|poss=1}}
+====Derived terms====
+* {{l|tr|yetkili}}
+* {{l|tr|yetkisiz}}</text>
+<sha1>4wqpy1wsumgwf187nnfd07vtu21loxo</sha1>
+</revision>
+</page>

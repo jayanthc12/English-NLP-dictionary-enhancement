@@ -1,0 +1,100 @@
+<page>
+<title>Xinzhu</title>
+<ns>0</ns>
+<id>1735477</id>
+<revision>
+<id>68699214</id>
+<parentid>68418403</parentid>
+<timestamp>2022-08-23T13:03:00Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>2015 book; ===References=== &lt;references/&gt;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3541" xml:space="preserve">{{also|Xīnzhú}}
+==English==
+===Etymology===
+From {{bor|en|cmn-pinyin|-}} romanization of {{uder|en|cmn|-}} {{zh-l|新竹}}&lt;ref&gt;&lt;small&gt;{{cite-book|en|url=https://archive.org/details/newillustratedhi0000zhou/|chapter=Transliteration Tables|title=A New Illustrated History of Taiwan|author=Wan-yao Chou ({{w|:zh:周婉窈|周婉窈}})|publisher=SMC Publishing|translator=Carole Plackitt, Tim Casey|year=2015|page=431|pageurl=https://archive.org/details/newillustratedhi0000zhou/page/431/|ISBN=978-957-638-784-5|OCLC=934736311|location=[[Taipei]]|text=Hanyu pinyin{{...}}&lt;br&gt;Xinzhu}}&lt;/small&gt;&lt;/ref&gt;
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|subdistrict|district/Qingxiu|prefecture-level city/Nanning|Zhuang autonomous region/Guangxi|c/China}}.
+#* {{quote-book
+|en
+|year=2009
+|editor=Margaret Kelly
+|title=China
+|series={{w|Fodor's}}
+|url=https://archive.org/details/fodorschina6thed00fodo/
+|url2=https://books.google.com/books?id=J86nwY9sWTEC
+|edition=6th
+|ISBN=978-1-4000-0825-4
+|ISSN=1070-6895
+|OCLC=251205606
+|OL=26328137M
+|page=494
+|pageurl=https://archive.org/details/fodorschina6thed00fodo/page/494/
+|text=Although the restaurant's official address is in the back of the labyrinthine '''Xinzhu''' residential area, save yourself the hassle and take the street entrance just west of the northwest corner of Minzu Dadao and Chahuayuan Lu.}}
+# {{alternative form of|en|Hsinchu}} ([[Taiwan]])
+#* {{quote-book
+|en
+|year=1982
+|editor={{w|Bai Shouyi}} ({{lang|zh|[[:zh:白寿彝|白寿彝]]}})
+|title=中国通史纲要
+|trans-title=An Outline History of China
+|url=https://archive.org/details/outlinehistoryof0000unse/
+|location=[[Beijing]]
+|publisher=Foreign Language Press
+|ISBN=0-8351-1000-1
+|OCLC=10851017
+|page=473
+|pageurl=https://archive.org/details/outlinehistoryof0000unse/page/473/
+|text=Together with the Black Flag Army led by Liu Yongfu who now commanded the Taiwan garrison, they put up a defence at '''Xinzhu''', Taizhong and Zhanghua.}}
+#* {{quote-book
+|en
+|year=1982
+|last=Mackerras
+|first=Colin
+|authorlink=Colin Mackerras
+|title=Modern China: A Chronology from 1842 to the present
+|url=https://archive.org/details/modernchinachron0000mack/
+|location=[[San Francisco]], CA
+|publisher={{w|W. H. Freeman and Company}}
+|ISBN=0-7167-1411-6
+|LCCN=81-19458
+|OCLC=925305947
+|OL=4273180M
+|page=173
+|pageurl=https://archive.org/details/modernchinachron0000mack/page/173/
+|text=[''1894 April''] '''5''' (''2/30''). Shao Youlian sends in a memorial announcing completion of work on the Taiwan railway from Taibei to '''Xinzhu'''.}}
+#* {{quote-book
+|en
+|year=2006
+|author=Qunyang Sun, Larry D. Qiu, Jie Li
+|editor=Kevin Honglin Zhang
+|chapter=The Pearl River Delta: A World Workshop
+|title=China as the World Factory
+|url=https://archive.org/details/chinaasworldfact0000unse/
+|publisher={{w|Routledge}}
+|ISBN=0-415-70126-0
+|OCLC=757394954
+|page=49
+|pageurl=https://archive.org/details/chinaasworldfact0000unse/page/49/
+|passage=The most obvious consequence of this trend is that in the middle of the 1990s, America’s Silicon Valley, which originates innovations in information products, and Taiwan’s '''Xinzhu''', with a large-scale production base, established a direct link. '''Xinzhu''' has the capacity for synchronous large- scale production.}}
+#* {{seemoreCites|en}}
+====Translations====
+{{trans-top|subdistrict}}
+* Chinese:
+*: Mandarin: {{t+|cmn|新竹|tr=Xīnzhú|sc=Hani}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-see|Hsinchu}}
+===References===
+&lt;references/&gt;
+[[Category:en:Cities]]</text>
+<sha1>173r8ah84rzxjoiqa771360yrdn3pqq</sha1>
+</revision>
+</page>

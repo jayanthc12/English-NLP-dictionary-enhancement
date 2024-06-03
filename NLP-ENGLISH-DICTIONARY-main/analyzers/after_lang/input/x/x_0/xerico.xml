@@ -1,0 +1,32 @@
+<page>
+<title>xerico</title>
+<ns>0</ns>
+<id>7201253</id>
+<revision>
+<id>65779419</id>
+<parentid>64552941</parentid>
+<timestamp>2022-02-08T17:56:58Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Italian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="336" xml:space="preserve">{{also|xérico}}
+==Italian==
+===Etymology===
+Derived from {{af|it|lang1=grc|ξηρός|t1=dry|-ico}}, on the example of {{cog|en|xeric}}.
+===Pronunciation===
+{{it-pr|xèrico}}
+===Adjective===
+{{it-adj}}
+# {{lb|it|geography|biology}} [[xeric]]
+====Related terms====
+* {{l|it|xero}}
+* {{l|it|xero-}}
+===References===
+* {{R:it:Trec}}</text>
+<sha1>ch0p6694xc4v6r7r7tjr7shc5246mtj</sha1>
+</revision>
+</page>

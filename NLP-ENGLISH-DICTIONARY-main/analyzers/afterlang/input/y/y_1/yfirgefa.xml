@@ -1,0 +1,42 @@
+<page>
+<title>yfirgefa</title>
+<ns>0</ns>
+<id>3573554</id>
+<revision>
+<id>67615226</id>
+<parentid>56150253</parentid>
+<timestamp>2022-07-03T10:57:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 3 {{l}} links into {{desc|nn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="669" xml:space="preserve">==Icelandic==
+===Pronunciation===
+* {{IPA|is|/ˈɪːvɪrˌcɛːva/}}
+===Verb===
+{{is-verb|yfirgaf|yfirgáfu|yfirgefið}}
+# {{lb|is|transitive|with accusative}} to [[abandon]], to [[leave]], to [[forsake]]
+====Conjugation====
+{{is-conj-s5|yfirg|e|f}}
+----
+==Old Norse==
+===Etymology===
+From {{prefix|non|yfir|gefa}}.
+===Verb===
+{{non-verb|yfirgaf|yfirgáfu|yfirgefinn}}
+# {{lb|non|transitive}} to [[forsake]], [[abandon]]
+====Conjugation====
+{{non-conj-strong|class=5|yfirgef|yfirgaf|yfirgáf|3i=yfirgæf|yfirgef}}
+====Descendants====
+* {{desc|is|yfirgefa}}
+* {{desc|nn|overgi|overgje|overgjeva|overgjeve}}
+* {{desc|nb|overgi}}
+===References===
+* {{R:Zoega}}</text>
+<sha1>ol4y1k3bu112cha9xd2h7p3tby6qihf</sha1>
+</revision>
+</page>

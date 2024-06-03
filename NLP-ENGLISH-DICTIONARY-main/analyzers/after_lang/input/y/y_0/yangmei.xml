@@ -1,0 +1,47 @@
+<page>
+<title>yangmei</title>
+<ns>0</ns>
+<id>1319500</id>
+<revision>
+<id>64628868</id>
+<parentid>64628733</parentid>
+<timestamp>2021-11-11T13:05:17Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>ko: update tl fmt: {{t|ko|양매(楊梅)}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1136" xml:space="preserve">{{also|yángméi}}
+==English==
+{{wikipedia|Myrica rubra|Yangmei}}
+===Etymology===
+Borrowed from {{bor|en|cmn|楊梅|tr=yángméi}}.
+===Noun===
+{{en-noun}}
+# The [[edible]] [[crimson]] [[fruit]] of the [[subtropical]] [[tree]] ''[[Myrica rubra]]''.
+# The tree itself.
+====Synonyms====
+* {{sense|fruit}} {{l|en|yumberry}}, {{l|en|Chinese bayberry}}, {{l|en|Japanese bayberry}}, {{l|en|red bayberry}}, {{l|en|yamamomo}}, {{l|en|waxberry}}
+* {{sense|tree}} {{vern|Chinese strawberry}} (not to be confused with the [[Chinese strawberry tree]])
+====Translations====
+{{trans-top|fruit}}
+* Chinese:
+*: Cantonese: {{t|yue|楊梅|sc=Hani}}, {{t|yue|杨梅|tr=yeung4 mui4|sc=Hani}}
+*: Mandarin: {{t+|cmn|楊梅|sc=Hani}}, {{t+|cmn|杨梅|tr=yángméi|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t|ja|山桃|tr=ヤマモモ, yamamomo|sc=Jpan}}
+* Korean: {{t|ko|소귀|sc=Kore}}, {{t|ko|양매(楊梅)}}
+* Tagalog: {{t|tl|tsampoy}}, {{t|tl|sampoy}}, {{t|tl|sampuy}}
+{{trans-bottom}}
+{{trans-top|tree}}
+* Swedish: {{t|sv|bärpors}}, {{t|sv|kinesisk arbutus}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:en:Fagales order plants]]
+[[Category:en:Fruits]]</text>
+<sha1>3287v0rfscesispqyewg4m4dlt9m7kz</sha1>
+</revision>
+</page>

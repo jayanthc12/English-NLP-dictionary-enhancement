@@ -1,0 +1,32 @@
+<page>
+<title>xeraphim</title>
+<ns>0</ns>
+<id>1604294</id>
+<revision>
+<id>67547729</id>
+<parentid>67292290</parentid>
+<timestamp>2022-06-26T06:50:33Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<comment>/* Alternative forms */ +1</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="532" xml:space="preserve">==English==
+===Alternative forms===
+* {{alt|en|serafin|seraphin|xerafine|xeraphin|xerapheen}}
+===Etymology===
+From {{der|en|pt|xarafin}}, from {{uder|en|ar|اَشْرَاف}}, plural form of {{m|ar|شَرِيف||highborn}}. {{root|en|ar|ش ر ف‎}}
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete}} An old [[monetary unit]] of [[Bombay]], equal to three fifths of a [[rupee]].
+====References====
+* Webster's Revised Unabridged Dictionary (1913).
+====Further reading====
+* {{R:Hobson-Jobson|974|xerafine}}
+[[Category:en:Currency]]</text>
+<sha1>9c17kcjry2moawq14ce4gk8lu80b1p2</sha1>
+</revision>
+</page>

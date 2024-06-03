@@ -1,0 +1,49 @@
+<page>
+<title>yetti</title>
+<ns>0</ns>
+<id>2560965</id>
+<revision>
+<id>61492416</id>
+<parentid>61492414</parentid>
+<timestamp>2021-01-05T15:39:16Z</timestamp>
+<contributor>
+<username>Zhnka</username>
+<id>3646035</id>
+</contributor>
+<comment>/* Pronunciation */ The pronunciation has been corrected.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="975" xml:space="preserve">==Czech==
+===Alternative forms===
+* {{alter|cs|yeti}}
+===Pronunciation===
+* {{cs-IPA|jety}}
+* {{hyphenation|cs|ye|t|ti}}
+===Noun===
+{{cs-noun|g=m-an}}
+# {{lb|cs|cryptozoology}} {{l|en|yeti}}
+====Declension====
+{{cs-decl-noun|yetti|yettiho|yettimu|yettiho|yetti|yettim|yettim|[[yettiové]], [[yetti]]|[[yettiů]], [[yettich]]|[[yettiům]], [[yettim]]|[[yettie]], [[yetti]]|[[yettiové]], [[yetti]]|[[yettiích]], [[yettich]]|[[yettii]], [[yettimi]]}}
+====Synonyms====
+* {{l|cs|sněžný muž}}
+===Further reading===
+* {{R:KNLA}}
+----
+==Ili Turki==
+===Etymology===
+From {{inh|ili|trk-pro|*yẹt(t)i|t=seven}}.
+===Numeral===
+{{cardinalbox|ili|6|7|8|altı|sekkiz}}
+{{head|ili|numeral}}
+# {{cln|ili|cardinal numbers}} [[seven]]
+----
+==Uzbek==
+===Etymology===
+From {{inh|uz|chg|يتى|tr=yätti}}, from {{inh|uz|trk-pro|*yẹt(t)i|t=seven}}.
+===Numeral===
+{{cardinalbox|uz|6|7|8|olti|sakkiz|ord=yettinchi}}
+{{head|uz|numeral}}
+# {{cln|uz|cardinal numbers}} [[seven]]</text>
+<sha1>is4v8akrhugt4rbuhca9sv0tfn7ti15</sha1>
+</revision>
+</page>

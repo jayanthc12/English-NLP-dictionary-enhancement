@@ -1,0 +1,59 @@
+<page>
+<title>xalat</title>
+<ns>0</ns>
+<id>7124555</id>
+<revision>
+<id>65820128</id>
+<parentid>65819604</parentid>
+<timestamp>2022-02-13T19:53:08Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="949" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From earlier {{m|az|xələt}}. Current pronunciation reflects the influence of {{m+|ru|хала́т}}.
+===Pronunciation===
+* {{IPA|az|[χɑˈɫɑt]}}
+* {{audio|az|LL-Q9292 (aze)-Allahverdi Verdizade-{{PAGENAME}}.wav|Audio}}
+* {{hyph|az|xa|lat}}
+===Noun===
+{{az-head-noun|a|t}}
+# [[dressing gown]], [[bathrobe]] (for men or women)  {{C|az|Clothing}}
+# [[surgical gown]]
+# [[khalat]]
+====Declension====
+{{az-decl-noun|a|t}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|at|s=2}}
+===Etymology 1===
+From {{bor|ca|es|chalado}}.
+====Adjective====
+{{ca-adj|xalada}}
+# [[crazy]], [[mad]]
+#: {{syn|ca|boig}}
+===Etymology 2===
+From {{m|ca|xalat}}.
+====Adjective====
+{{ca-adj|xalada}}
+# [[fun]]
+#: {{syn|ca|divertit}}
+====Verb====
+{{ca-pp|xala}}
+# {{ca-verb form of|m=ptc|t=past|xalar}}
+----
+==Uzbek==
+===Noun===
+{{head|uz|noun}}
+# [[dressing gown]]</text>
+<sha1>tsenjf1mpk2ih976499wbvv2wz2y82p</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>ximiere</title>
+<ns>0</ns>
+<id>4342262</id>
+<revision>
+<id>53117261</id>
+<parentid>25765944</parentid>
+<timestamp>2019-05-19T05:20:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (4); combined adjacent calls to {{inflection of}} (3); canonicalized multiword inflection tag 'first-person singular pluperfect indicative' to 1|s|plup|ind; canonicalized multiword inflection tag 'third-person singular pluperfect indicative' to 3|s|plup|ind; canonicalized multiword inflection tag 'first-person singular imperfect preterite subjunctive' to 1|s|impf|pret|sub; canonicalized multiword inflection tag 'third-pers...</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="113" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|ximir||1//3|s|plup|ind|;|1//3|s|impf|pret|sub}}</text>
+<sha1>tt7ao8ba7r5ux1ab22m51eno2ecy7td</sha1>
+</revision>
+</page>

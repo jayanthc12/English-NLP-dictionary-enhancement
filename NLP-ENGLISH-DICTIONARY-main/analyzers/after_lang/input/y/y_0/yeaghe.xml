@@ -1,0 +1,25 @@
+<page>
+<title>yeaghe</title>
+<ns>0</ns>
+<id>3080023</id>
+<revision>
+<id>67294503</id>
+<parentid>39430968</parentid>
+<timestamp>2022-06-06T11:12:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|no}}; absorb {{etyl|...}} {{m|...}} into {{uder|en|gml}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|no|jaght}}, from {{uder|en|gml|jacht}}, short for {{m|gml|jachtschip||fast pirate vessel}}. More at {{l|en|yacht}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete}} [[yacht|Yacht]].</text>
+<sha1>5s0x6w7p8t24l0nldb5qo7nne2orfw5</sha1>
+</revision>
+</page>

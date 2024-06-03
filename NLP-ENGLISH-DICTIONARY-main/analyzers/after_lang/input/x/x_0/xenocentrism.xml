@@ -1,0 +1,36 @@
+<page>
+<title>xenocentrism</title>
+<ns>0</ns>
+<id>3777672</id>
+<revision>
+<id>51983593</id>
+<parentid>47672139</parentid>
+<timestamp>2019-03-18T01:04:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="484" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|centrism}}
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+# A [[preference]] for the [[product]]s, [[style]]s, or [[idea]]s of a different [[culture]].
+====Antonyms====
+* {{l|en|ethnocentrism}}
+====Translations====
+{{trans-top|preference}}
+* Chinese:
+*: Mandarin: {{t|cmn|外族中心主義}}, {{t|cmn|外族中心主义|tr=wàizúzhōngxīnzhǔyì}}
+{{trans-mid}}
+* Finnish: {{t|fi|ksenofilia}}
+* Portuguese: {{t-needed|pt}}
+{{trans-bottom}}</text>
+<sha1>k2dst0f1wsoaf4iy2vtq07wpi2rqeif</sha1>
+</revision>
+</page>

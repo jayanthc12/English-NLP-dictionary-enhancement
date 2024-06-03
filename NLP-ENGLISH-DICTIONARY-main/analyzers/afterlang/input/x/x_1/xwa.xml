@@ -1,0 +1,38 @@
+<page>
+<title>xwa</title>
+<ns>0</ns>
+<id>6581649</id>
+<revision>
+<id>66555773</id>
+<parentid>66555771</parentid>
+<timestamp>2022-05-02T03:47:50Z</timestamp>
+<contributor>
+<username>Prahlad balaji</username>
+<id>3199519</id>
+</contributor>
+<comment>/* Noun */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="746" xml:space="preserve">==Bassa==
+===Pronunciation===
+* {{IPA|bsq|[xʷā]}}
+===Noun===
+{{head|bsq|noun}}
+# {{lb|bsq|anatomy}} [[hand]]
+===References===
+* [https://cefliberia.org/bassa/bassa-dictionary/ Bassa-English Dictionary]
+* 2007. [http://archive.phonetics.ucla.edu/Language/BSQ/bsq.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+----
+==Canela==
+===Pronunciation===
+* {{ram-IPA}}
+===Etymology===
+From {{inh|ram|sai-nje-pro|*ĵwa||tooth}} &lt; {{inh|ram|sai-cer-pro|*jwa||tooth}} &lt; {{inh|ram|sai-jee-pro|*jô||tooth}}.
+===Noun===
+{{head|ram|noun}}
+# [[tooth]]
+#: {{ux|ram|Wa apu '''[[ixwa]]''' gyj.|I grind my '''teeth'''.}}
+#: {{ux|ram|Rop '''[[wa]]''' japrãr to mõ.|The dog is going along showing its '''teeth'''.}}</text>
+<sha1>40f0lyedpksnw1pm12069tkufqxdodc</sha1>
+</revision>
+</page>

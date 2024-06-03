@@ -1,0 +1,27 @@
+<page>
+<title>xairel</title>
+<ns>0</ns>
+<id>4647579</id>
+<revision>
+<id>69114358</id>
+<parentid>61332250</parentid>
+<timestamp>2022-09-04T16:53:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ar|جِلَال}}.
+===Noun===
+{{pt-noun|m}}
+# [[saddlecloth]] {{gloss|blanket placed under a saddle}}
+#: {{syn|pt|sobreanca}}
+{{C|pt|Horse tack}}</text>
+<sha1>pvtxvoal67ikzoxhijux2b9cvz1o9gk</sha1>
+</revision>
+</page>

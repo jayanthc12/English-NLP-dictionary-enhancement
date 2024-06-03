@@ -1,0 +1,39 @@
+<page>
+<title>yaud</title>
+<ns>0</ns>
+<id>4207528</id>
+<revision>
+<id>60187901</id>
+<parentid>51206731</parentid>
+<timestamp>2020-08-31T03:20:01Z</timestamp>
+<contributor>
+<username>OR AlexMC</username>
+<id>3683083</id>
+</contributor>
+<comment>t:etyl cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3245" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|}}. Originally used to mean &quot;mare&quot;, then &quot;old mare&quot;. From {{der|en|non|jalda||mare}}, from a {{der|en|urj|-}} language, such as {{der|en|mdf|эльде}} or {{der|en|myv|эльде}}.&lt;ref name=&quot;Thorson&quot;&gt;Per Thorson, ''Anglo-Norse studies: an inquiry into the Scandinavian elements in the modern English dialects'', volume 1 (1936), page 52: &quot;Yad sb. Sc Nhb Lakel Yks Lan, also in forms ''yaad'', ''yaud'', ''yawd'', ''yoad'', ''yod(e)''.... [jad, o] 'a work-horse, a mare' etc. ON ''jalda'' 'made', Sw. dial. ''jäldä'', from Finnish ''elde'' (FT p. 319, Torp p. 156 fol.). Eng. ''jade'' is not related.&quot;&lt;/ref&gt;&lt;ref name=&quot;Saga-Book&quot;&gt;''Saga Book of the Viking Society for Northern Research'', page 18: &quot;There is thus no etymological connection between ME. ''jāde'' MnE. ''jade'' and ME. ''jald'' MnE. dial. ''yaud'' etc. But the two words have influenced each other mutually, both formally and semantically.&quot;&lt;/ref&gt;
+This term influenced and was influenced by {{m|en|jade}}, but is considered etymologically distinct by some references,&lt;ref name=&quot;Thorson&quot;/&gt;&lt;ref name=&quot;Saga-Book&quot;/&gt; while others consider the two terms to be variants of one another.&lt;ref&gt;Eric Partridge, ''Origins: A Short Etymological Dictionary of Modern English'' {{ISBN|1134942168}}, 2006)&lt;/ref&gt;
+===Noun===
+{{en-noun}}
+# {{lb|en|Scotland|Northern England}} A [[workhorse]]; an old or worn-out [[mare]].
+#* '''1814''', [[w:Walter Scott|Walter Scott]], ''[[w:Waverley (novel)|Waverley, Or 'tis Sixty Years Since]]'', '''1821''', Volume 2, [http://books.google.com.au/books?id=15NDAAAAcAAJ&amp;pg=PA98&amp;dq=%22yaud%22%7C%22yauds%22&amp;hl=en&amp;sa=X&amp;ei=SgmOUqb_OcKVkwWM-YCYBg&amp;ved=0CJEDEOgBMEA#v=onepage&amp;q=%22yaud%22%7C%22yauds%22&amp;f=false page 98],
+#*: &quot;{{...}}Nay by my faith, if you be so heavy, I will content me with the best of you, and that's the haunch and the nombles, and e'en heave up the rest on the old oak-tree yonder, and come for it with one of the '''yauds'''.&quot;
+#* {{ante|1835}} [[w:James Hogg|James Hogg]], ''Seeking the Houdy'', '''2006''', ''The Collected Works of James Hogg: Contributions to Annuals and Gift-books'', [http://books.google.com.au/books?id=Ddd_pwfFcIAC&amp;pg=PA60&amp;dq=%22yaud%22%7C%22yauds%22&amp;hl=en&amp;sa=X&amp;ei=SgmOUqb_OcKVkwWM-YCYBg&amp;ved=0CNoCEOgBMDY#v=onepage&amp;q=%22yaud%22%7C%22yauds%22&amp;f=false page 60],
+#*: &quot;{{...}}Get on, my fine '''yaud''', get on! There is nothing uncanny there.&quot;
+#*: Robin coaxed thus, as well to keep up his own spirits, as to encourage his mare; for the truth is, that his hair began to stand on end with affright.
+#* '''1846''', Moses Aaron Richardson, ''The Local Historian's Table Book, of Remarkable Occurrences'', [http://books.google.com.au/books?id=HhgHAAAAQAAJ&amp;pg=PA106&amp;dq=%22yaud%22%7C%22yauds%22&amp;hl=en&amp;sa=X&amp;ei=SgmOUqb_OcKVkwWM-YCYBg&amp;ved=0CIYEEOgBMFc#v=onepage&amp;q=%22yaud%22%7C%22yauds%22&amp;f=false page 106],
+#*: {{...}}he threw it overboard, subjecting it to a spell, that it never should be removed save by the co-operation of &quot;Two twin '''''yauds''''', two twin oxen, two twin lads, and a chain forged by a ''smith of kind''.&quot;
+====Synonyms====
+* {{sense|old horse}} {{l|en|jade}}
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=aduy|yadu}}
+[[Category:en:Horses]]</text>
+<sha1>a7bnsg82j568ky8af9efhib0rsetsmt</sha1>
+</revision>
+</page>

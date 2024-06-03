@@ -1,0 +1,23 @@
+<page>
+<title>xocolatines</title>
+<ns>0</ns>
+<id>3907411</id>
+<revision>
+<id>56216488</id>
+<parentid>40714502</parentid>
+<timestamp>2019-10-17T08:50:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xocolatina}}</text>
+<sha1>epxxfup2g9r3k8sdaj8xt14ib9j91iv</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>yieldco</title>
+<ns>0</ns>
+<id>5589352</id>
+<revision>
+<id>54405833</id>
+<parentid>51578579</parentid>
+<timestamp>2019-09-29T09:16:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}; move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="407" xml:space="preserve">{{also|yield co}}
+==English==
+===Noun===
+{{en-noun}}
+# {{alt form|en|yield co}}
+#* {{quote-journal|en|date=Oct. 11, 2015|author=Diane Cardwell|title=Renewable Energy Financing Hits a Snag|work=New York Times|url=http://www.nytimes.com/2015/10/12/business/energy-environment/renewable-energy-financing-hits-a-snag.html
+|passage=It also said it would pursue a more limited strategy with its '''yieldco'''.}}</text>
+<sha1>1pq42phtq3foz782zal8ofzez6gylwn</sha1>
+</revision>
+</page>

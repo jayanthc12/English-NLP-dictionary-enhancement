@@ -1,0 +1,25 @@
+<page>
+<title>yesss</title>
+<ns>0</ns>
+<id>1412192</id>
+<revision>
+<id>54384172</id>
+<parentid>51578555</parentid>
+<timestamp>2019-09-29T03:20:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{elongated form of}}; move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="372" xml:space="preserve">==English==
+===Interjection===
+{{en-interj}}
+# {{elongated form of|en|yes}}
+#* {{quote-journal|en|2009|January 8|Ben Sisario|Addicted to Peter Lorre (That Voice, Those Eyes)|New York Times|url=http://www.nytimes.com/2009/01/08/arts/music/08worl.html
+|passage=&quot;Oh, '''yesss''',&quot; he muttered in a mousy Germanic accent, hunching over and twiddling his fingers anxiously.}}</text>
+<sha1>jhje5txex3cua4bvjc6j8x8z1lxi2cy</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>xoxoctic</title>
+<ns>0</ns>
+<id>7041316</id>
+<revision>
+<id>68866645</id>
+<parentid>64115651</parentid>
+<timestamp>2022-08-28T05:42:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="845" xml:space="preserve">==Central Nahuatl==
+[[File:Color icon green.svg|thumb|Xoxoctic]]
+===Alternative forms===
+* {{sense|Amecameca}} {{l|nhn|xoxohuic}}
+===Etymology===
+From {{der|nhn|nci|xoxoctic}}.
+===Adjective===
+{{head|nhn|adjective}}
+# [[green]].
+[[Category:Milpa Alta Central Nahuatl]]
+[[Category:nhn:Colors]]
+----
+==Classical Nahuatl==
+===Adjective===
+{{head|nci|adjective|head=xoxoctic}}
+# [[green]].
+====Descendants====
+* {{desc|nhn|xoxoctic}}
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press.
+[[Category:Classical Nahuatl terms using regularized orthography]]
+{{c|nci|Colors}}</text>
+<sha1>pcmq2ryx7fz2keryzvvpyushhh89h2o</sha1>
+</revision>
+</page>

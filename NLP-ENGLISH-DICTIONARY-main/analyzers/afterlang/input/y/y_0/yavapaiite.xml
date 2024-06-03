@@ -1,0 +1,28 @@
+<page>
+<title>yavapaiite</title>
+<ns>0</ns>
+<id>3106031</id>
+<revision>
+<id>49620627</id>
+<parentid>40552599</parentid>
+<timestamp>2018-06-01T19:06:49Z</timestamp>
+<contributor>
+<username>TheDaveRoss</username>
+<id>4492</id>
+</contributor>
+<minor />
+<comment>mineralogy -&gt; mineral</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==English==
+===Etymology===
+{{etystub|en}}
+? + {{af|en|-ite}}
+===Noun===
+{{en-noun|?}}
+# {{lb|en|mineral}} A monoclinic-prismatic light pink [[mineral]] containing [[iron]], [[oxygen]], [[potassium]], and [[sulfur]].
+====References====
+* {{R:WebMineral}}</text>
+<sha1>0wqe385s7qro76ifc1jrw9t5gkten1s</sha1>
+</revision>
+</page>

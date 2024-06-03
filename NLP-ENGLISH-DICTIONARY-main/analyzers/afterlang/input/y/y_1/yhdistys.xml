@@ -1,0 +1,65 @@
+<page>
+<title>yhdistys</title>
+<ns>0</ns>
+<id>613613</id>
+<revision>
+<id>69196931</id>
+<parentid>63747666</parentid>
+<timestamp>2022-09-10T14:47:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2061" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdistää|us|alt2=ys|t1=to unite|id2=action or event}}
+===Pronunciation===
+{{fi-p}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[association]] {{gloss|organized group of persons associated for a common purpose}}
+====Usage notes====
+* '''''Yhdistys''''' is principally a legal term and an '''''yhdistys''''' is a [[legal person]] represented by its {{m|fi|hallitus||board}}. {{m|fi|yhdistyslaki|Yhdistyslaki|Associations act}} states that an association may be founded for the common realisation of a non-profit purpose. The purpose may not be contrary to law or proper behaviour.
+* For many purposes {{m|fi|järjestö||organization}} and '''''yhdistys''''' are used synonymously, but ''järjestö'' is a slightly wider concept covering also organizations which are not associations in legal sense. A prime example is {{m|fi|rikollisjärjestö||criminal organization}}. Also international associations or similar organizations such as the [[UN]], [[OECD]], [[Red Cross]] or [[UEFA]] are often called ''järjestö''.
+* There is a number of terms for different types of associations, see &quot;Hyponyms&quot; -section below for partial listing. Some of them, notably ''kerho'', ''klubi'' and ''seura'' may also be used of organizations which are only groups of people and not associations from legal perspective.
+====Declension====
+{{fi-decl-vastaus|yhdisty|ä}}
+====Hyponyms====
+{{top4}}
+* {{l|fi|ammattiliitto}}
+* {{l|fi|ammattiosasto}}
+* {{l|fi|kerho}}
+{{mid4}}
+* {{l|fi|keskusliitto}}
+* {{l|fi|klubi}}
+* {{l|fi|liitto}}
+{{mid4}}
+* {{l|fi|oppilaskunta}}
+* {{l|fi|osakunta}}
+* {{l|fi|partiolippukunta}}
+{{mid4}}
+* {{l|fi|seura}}
+* {{l|fi|ylioppilaskunta}}
+{{bottom}}
+====Derived terms====
+{{top4}}
+* {{l|fi|ammattiyhdistys}}
+* {{l|fi|asukasyhdistys}}
+* {{l|fi|metsänhoitoyhdistys}}
+{{mid4}}
+* {{l|fi|paikallisyhdistys}}
+* {{l|fi|rekisteröity yhdistys}}
+* {{l|fi|riistanhoitoyhdistys}}
+{{mid4}}
+* {{l|fi|työväenyhdistys}}
+* {{l|fi|yhdistyslaki}}
+{{mid4}}
+* {{l|fi|yhdistysrekisteri}}
+* {{l|fi|yhdistystoiminta}}
+{{bottom}}</text>
+<sha1>i5c97v2uz1ja6tnncveor5a2btmdnay</sha1>
+</revision>
+</page>

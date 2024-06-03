@@ -1,0 +1,43 @@
+<page>
+<title>xoxotla</title>
+<ns>0</ns>
+<id>4578267</id>
+<revision>
+<id>56322193</id>
+<parentid>48433988</parentid>
+<timestamp>2019-10-17T12:59:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1314" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+An apocopic form based on {{m|nci|xoxōtla||to glow, glisten}}.
+===Pronunciation===
+* {{IPA|nci|[ʃoˈʃoː.t͡ɬa]}}
+===Noun===
+{{nci-noun|a|xoxōtla|pl=xoxōtlameh}}
+# [[firefly]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 78v. col. 2.
+#*: Luciernaga. ycpitl. copitl. '''xoxotla'''. xoxotlato.
+#*:: A firefly. ycpitl. copitl. '''xoxotla'''. xoxotlato.
+#* ''Idem'', f. 161v. col. 1.
+#*: '''Xoxotla'''. carmeſi,ſeda texida, o luciernaga.
+#*:: '''Xoxotla'''. crimson, woven silk or a firefly.
+====Synonyms====
+* {{sense|firely}} {{l|nci|copitl}}, {{l|nci|icpitl}}, {{l|nci|xoxōtlani}}
+====Derived terms====
+* {{l|nci|xoxōtlatōn}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=78v, 161v}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=782}}
+[[Category:Classical Nahuatl apocopic forms]]
+[[Category:nci:Insects]]
+[[Category:nci:Light sources]]</text>
+<sha1>6zbh8z85wb2zydcvsbx4kdkvnf8cxz6</sha1>
+</revision>
+</page>

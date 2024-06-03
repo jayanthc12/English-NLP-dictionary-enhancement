@@ -1,0 +1,31 @@
+<page>
+<title>xotin</title>
+<ns>0</ns>
+<id>1764301</id>
+<revision>
+<id>69282799</id>
+<parentid>69282791</parentid>
+<timestamp>2022-09-16T13:51:24Z</timestamp>
+<contributor>
+<username>Rd1978</username>
+<id>3663272</id>
+</contributor>
+<comment>/* Uzbek */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="263" xml:space="preserve">==Uzbek==
+{{uz-variant|c=хотин}}
+===Etymology===
+{{inh+|uz|trk-cmn|*xātun}}.
+===Noun===
+{{uz-noun}}
+# [[woman]] {{c|uz|Human}}
+#: {{syn|uz|ayol}}
+# [[wife]] {{c|uz|Marriage}}
+#: {{syn|uz|zavja}}
+#: {{ant|uz|er}}
+====Derived terms====
+* {{l|uz|er-xotin}}</text>
+<sha1>0j65tuxh2phu632js8xgxkq6idvz5pw</sha1>
+</revision>
+</page>

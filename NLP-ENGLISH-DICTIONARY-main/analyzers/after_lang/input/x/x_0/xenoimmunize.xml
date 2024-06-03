@@ -1,0 +1,25 @@
+<page>
+<title>xenoimmunize</title>
+<ns>0</ns>
+<id>7251905</id>
+<revision>
+<id>61026868</id>
+<parentid>53309325</parentid>
+<timestamp>2020-11-03T10:59:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|immunize}}
+===Verb===
+{{en-verb}}
+# {{lb|en|immunology}} To [[immunize]] via [[xenoimmunization]]</text>
+<sha1>9wmt8h3p28cr8fszni6jl9jblx8ev3j</sha1>
+</revision>
+</page>

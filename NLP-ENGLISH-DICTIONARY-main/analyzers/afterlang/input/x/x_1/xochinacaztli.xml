@@ -1,0 +1,27 @@
+<page>
+<title>xochinacaztli</title>
+<ns>0</ns>
+<id>3495013</id>
+<revision>
+<id>67296978</id>
+<parentid>42228124</parentid>
+<timestamp>2022-06-06T11:55:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|nah}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="350" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|nah|xochinacaztli|xōchinacaztli|ear-flower}}, from {{m|nah|xochitl|xōchitl|flower}}. So called because it somewhat resembles an ear.
+===Noun===
+{{en-noun|-}}
+# The [[earflower]], ''Cymbopetalum penduliflorum'', sometimes used by the Aztecs to flavour cocoa.
+===See also===
+* {{l|en|Mexican hand tree}}</text>
+<sha1>stx22vd12wajhn2j9mlkzk7ogftmr73</sha1>
+</revision>
+</page>

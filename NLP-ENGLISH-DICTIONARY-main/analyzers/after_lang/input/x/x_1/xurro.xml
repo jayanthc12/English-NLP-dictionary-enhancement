@@ -1,0 +1,68 @@
+<page>
+<title>xurro</title>
+<ns>0</ns>
+<id>3731654</id>
+<revision>
+<id>68863504</id>
+<parentid>68855251</parentid>
+<timestamp>2022-08-28T05:22:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1453" xml:space="preserve">==Catalan==
+===Etymology===
+From {{bor|ca|es|churro}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# [[churro]] {{gloss|pastry}}
+# [[fluke]]
+#: {{syn|ca|xamba}}
+# {{lb|ca|colloquial|figurative|Castilianism}} [[botch]], [[mess]]
+#: {{syn|ca|bunyol}}
+===Noun===
+{{ca-noun|m|f=xurra}}
+# {{lb|ca|often|_|derogatory|Valencian}} A person who speaks [[Valencian]] [[Castilian]] instead of Valencian [[Catalan]].
+# {{lb|ca|colloquial}} [[stubborn]] person
+#: {{syn|ca|tossut}}
+====See also====
+* {{l|ca|xarnego}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+----
+==Galician==
+===Alternative forms===
+* {{l|gl|zudre}}
+* {{l|gl|zurro}}
+===Etymology===
+{{unk|gl|title=Unknown}}, but probably from {{bor|gl|qfa-sub-ibe}}/{{bor|gl|xib|-}}&lt;ref&gt;{{R:es:Roberts:2014}}&lt;/ref&gt;;&lt;ref&gt;{{R:es:DCECH|churre}}&lt;/ref&gt; related to {{cog|pt|enxurro}} and {{cog|pt|enxurrada||flash flood}}, {{cog|pt|surro||dirt}}, and {{cog|es|churre||grime}}. Also related to several current places named {{l|gl|Xudres}} and {{l|gl|Zudres}}, in local {{cog|ML.|Scudris}}, {{m|la|Sudris}} and {{m|la|Xudris}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃuro̝/}}
+===Noun===
+{{gl-noun|m}}
+# liquid [[manure]]
+# [[surface runoff]]
+# Sheep wool [[grease]]
+====Synonyms====
+* {{l|gl|ludre}}
+====Derived terms====
+* {{l|gl|surrullar}}
+* {{l|gl|xurreira}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+* {{R:TLPGP|zurro}}
+&lt;references /&gt;</text>
+<sha1>p45r0u5muf0nhp5e9k5fwmuko3tqwt8</sha1>
+</revision>
+</page>

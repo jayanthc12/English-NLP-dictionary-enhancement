@@ -1,0 +1,24 @@
+<page>
+<title>xiphocentronid</title>
+<ns>0</ns>
+<id>3728981</id>
+<revision>
+<id>61636336</id>
+<parentid>61636037</parentid>
+<timestamp>2021-01-23T21:30:30Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Caddis flies]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any [[caddis fly]] in the [[family]] {{taxlink|Xiphocentronidae|family}}.
+[[Category:en:Caddis flies]]</text>
+<sha1>3xf9lli70aj34lvyd4sbn3eb1fixr6k</sha1>
+</revision>
+</page>

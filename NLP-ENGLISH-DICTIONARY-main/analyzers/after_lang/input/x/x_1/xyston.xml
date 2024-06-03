@@ -1,0 +1,29 @@
+<page>
+<title>xyston</title>
+<ns>0</ns>
+<id>814427</id>
+<revision>
+<id>65561869</id>
+<parentid>65557792</parentid>
+<timestamp>2022-01-29T22:02:23Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="600" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|grc|ξυστόν||[[spear]], [[javelin]]}} Potentially from {{der|en|ine-pro|-}} *ǵʰasto- or *ǵʰasdʰo- (“branch ~ spear, sharp spine”).
+===Noun===
+{{en-noun|s|xysta}}
+# A type of long thrusting [[lance]], used in ancient [[Greece]].
+#* '''2004''', J. F. C. Fuller, ''The Generalship of Alexander the Great'', page 47:
+#*: The Companions, like the Thessalian cavalry, were a well-mounted force armed with cuirass and the short thrusting spear ('''xyston''') for close combat.
+[[Category:en:Spears]]
+[[Category:en:Polearms]]</text>
+<sha1>e60e6wtpne4vekwc70aji3xlycbcvo1</sha1>
+</revision>
+</page>

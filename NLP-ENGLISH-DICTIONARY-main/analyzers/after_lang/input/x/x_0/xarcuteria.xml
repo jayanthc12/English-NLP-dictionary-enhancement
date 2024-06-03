@@ -1,0 +1,31 @@
+<page>
+<title>xarcuteria</title>
+<ns>0</ns>
+<id>3335222</id>
+<revision>
+<id>49640064</id>
+<parentid>48016710</parentid>
+<timestamp>2018-06-04T04:38:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Remove withtext= from {{bor}}/{{borrowed}}/{{borrowing}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|fr|charcuterie}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[charcuterie]] {{gloss|meat product}}
+# [[charcuterie]] {{gloss|vendor of meat products}}
+===Further reading===
+* {{R:IEC2}}
+[[Category:ca:Meats]]</text>
+<sha1>bvrfdht69o8s24rg0hzk9752hk6meei</sha1>
+</revision>
+</page>

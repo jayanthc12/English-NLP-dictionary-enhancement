@@ -1,0 +1,31 @@
+<page>
+<title>yerto</title>
+<ns>0</ns>
+<id>92063</id>
+<revision>
+<id>68889359</id>
+<parentid>68770395</parentid>
+<timestamp>2022-08-28T08:54:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="408" xml:space="preserve">==Spanish==
+===Etymology===
+From a {{inh|es|VL.|*erctus}}, past participle of {{m|VL.|*ergo|*ergere}}, corresponding to Latin {{m|la|ērēctus}} &lt; {{m|la|erigo|ērigere}}. Compare {{cog|it|erto}}. {{doublet|es|erecto}}, a borrowing from Latin.
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[stiff]]; [[rigid]]
+====Related terms====
+* {{l|es|erecto}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>r9ttwhyuw9bzt6auzn2ajd5fn5wlxft</sha1>
+</revision>
+</page>

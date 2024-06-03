@@ -1,0 +1,40 @@
+<page>
+<title>xui</title>
+<ns>0</ns>
+<id>2568430</id>
+<revision>
+<id>50203614</id>
+<parentid>49935991</parentid>
+<timestamp>2018-08-26T07:23:09Z</timestamp>
+<contributor>
+<username>Wyang</username>
+<id>477179</id>
+</contributor>
+<comment>/* Vietnamese */ ===Etymology 2=== {{vi-etym-sino|催||hv=n|thôi}}. Compare {{m|vi|xúi}}.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="577" xml:space="preserve">{{also|xu'i}}
+==Vietnamese==
+===Pronunciation===
+{{vi-pron}}
+===Etymology 1===
+{{vi-etym-sino|衰||hv=n|suy}}, probably via a Southern Chinese dialect.
+====Adjective====
+{{vi-adj|[[𠺼]], [[𫤄]]}}
+# {{lb|vi|central Vietnam|southern Vietnam}} [[unlucky]]
+=====Derived terms=====
+{{vi-der|xui xẻo:tl}}
+=====See also=====
+* {{l|vi|rủi}}
+===Etymology 2===
+{{vi-etym-sino|催||hv=n|thôi}}. Compare {{m|vi|xúi}}.
+====Alternative forms====
+* {{l|vi|xúi}}
+====Verb====
+{{vi-verb}}
+# {{lb|vi|colloquial}} to [[induce]]
+=====Derived terms=====
+{{vi-der|xui khiến}}</text>
+<sha1>ektmqko5mkugeehjjhtlpu1f8iajub2</sha1>
+</revision>
+</page>

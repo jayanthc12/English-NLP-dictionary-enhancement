@@ -1,0 +1,25 @@
+<page>
+<title>xanthan</title>
+<ns>0</ns>
+<id>1044121</id>
+<revision>
+<id>44656062</id>
+<parentid>39285516</parentid>
+<timestamp>2017-05-25T14:28:16Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="260" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|carbohydrate}} A [[polysaccharide]], consisting of [[galactose]] and [[mannose]] residues, produced by the [[bacterium]] {{taxlink|Xanthomonas campestris|species|noshow=1}}
+====Derived terms====
+* [[xanthan gum]]</text>
+<sha1>aaa25mq413br96r3jo7e6uatot652p0</sha1>
+</revision>
+</page>

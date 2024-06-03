@@ -1,0 +1,61 @@
+<page>
+<title>yclept</title>
+<ns>0</ns>
+<id>264443</id>
+<revision>
+<id>69042686</id>
+<parentid>64701254</parentid>
+<timestamp>2022-09-03T03:52:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="8011" xml:space="preserve">==English==
+{{was wotd|2022|November|7}}
+===Etymology===
+{{PIE word|en|ḱóm}}
+From {{inh|en|enm|yclept}}, {{m|enm|ycleped}}, {{m|enm|iclept}}{{nb...|clēped, clept, icleped, iclepyd, icliped, iclipet, icluped, yclepid, yclepud, ycluped, ȝecleped|otherforms=1}} ({{m|enm|i-}}, {{m|enm|y-|pos={{glossary|prefix}} forming {{glossary|past}} {{glossary|participle}}s}}&lt;ref&gt;{{R:MED Online|entry=i-|pos=pref|id=MED21576}}&lt;/ref&gt; + {{m|enm|clepen|t=to say, speak, utter; to call, shout; to name; to address; to appeal to, beg, pray; to ask, request; to appear; to send for, summon; to convene; to call forth, induce; to lay claim}}&lt;ref&gt;{{R:MED Online|entry=clēpen|pos=v|id=MED7971}}&lt;/ref&gt; + {{m|enm|-ed}}, {{m|enm|-t|pos={{glossary|suffix}} forming past participles of {{glossary|weak verb}}s}}),&lt;ref&gt;{{R:MED Online|entry=-(e)d|pos=''suf.''(2)|noformat=1|id=MED12958}}&lt;/ref&gt; from {{inh|en|ang|ġeclypod}}, {{m|ang|ġeclipod}} ({{m|ang|ġe-|pos=suffix forming past participles or participle {{glossary|adjective}}s}} + {{m|ang|clypian}}, {{m|ang|clipian|t=to call out, cry; to appeal}} {{qualifier|West Saxon}}{{nb...|(Anglian) cleopian, cliopian|otherforms=1}} + {{m|ang|-d|pos=suffix forming past participles}}).&lt;ref&gt;Compare {{R:OED Online|entry=yclept {{!}} ycleped|pos=adj|id=231389|date=December 2020|nodot=1}}; {{R:Lexico|pos=adj}}&lt;/ref&gt; {{m|ang||Clipian}} is derived from {{inh|en|gem-pro|*klipjaną}}, {{m|gem-pro|*klapjaną|t=to be noisy; to chatter}}, probably related to {{m|gem-pro|*klappōną|t=to clap, pound, or strike (especially two things against each other); to make loud noises, especially breathing or pulsating; to chatter}}, and ultimately {{glossary|onomatopoeic}}. {{doublet|en|clap}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ɪˈklɛpt/|/-ˈkliːpt/|qual3=poetic|/ɪˈkliːpɪd/}}
+* {{a|GA}} {{IPA|en|/ɪˈklɛpt/}}
+* {{rhymes|en|ɛpt|s=2}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|archaic|poetic|or|humorous}} [[called#Adjective|Called]] (by a certain [[name#Noun|name]]), [[named#Adjective|named]].
+#: {{synonyms|en|hight}}
+#* {{RQ:Shakespeare Love's Labour's Lost Q1|act=I|scene=i|lines=236–237 and 240–241|page=8|passage=And as I am a Gentleman, betooke my ſelfe to walke: the time When? about the ſixt houre, {{...}} Now for the ground Which? which I meane I walkt vpon, it is '''ycliped''' Thy Park.}}
+#* {{RQ:Milton Poems|poem=L'Allegro|page=31|passage=But com thou Goddes fair and free, / In Heav'n '''ycleap'd''' ''{{w|Euphrosyne}}'', {{...}}}}
+#* {{RQ:Butler Hudibras|part=2|canto=I|page=106|passage=There is a tall long-sided Dame, / (But wondrous light) '''ycleped''' ''Fame'', / That like a thin ''Camelion'' Bourds / He[r] self on Air, and eats her words: {{...}}}}
+#* {{RQ:Behn Emperor of the Moon|scene=ii|page=21|passage=Upon a winged Horſe, '''Icliped''' ''[[w:Pegasus|Pegaſus]]'', / Swift as the fiery Racers of the Sun, / ——I fly——I fly—— / See how I mount, and cut the liquid Sky.}}
+#* {{RQ:Fielding Tom Jones|volume=IV|book=XI|chapter=A Dreadful Alarm in the Inn, with the Arrival of an Unexpected Friend of Mrs. Fitzpatrick|page=160|passage=[T]here arrived in the Room where the two Ladies were ſitting, a Noiſe, {{...}} more like (for what Animal can reſemble a human Voice) to thoſe Sounds, which, in the pleaſant Manſions of that Gate, which ſeems to derive its Name from a Duplicity of Tongues, iſſue from the Mouths, and ſometimes from the Noſtrils of thoſe fair River Nymphs, '''ycleped''' of old the ''[[w:Napaeae|Napææ]]'', or the ''[[naiad|Naïades]]''; {{...}}}}
+#* {{RQ:Irving History of New York|volume=II|chapter=Shewing How Profound Secrets are Strangely Brought to Light;{{nb...|with the Proceedings of Peter the Headstrong when He Heard of the Misfortune of General Von Poffenburgh}}|page=86|passage=Sometimes in consequence of some flagrant villany, he would abscond from the garrison, {{...}} squatting himself down on the edge of a pond catching fish for hours together, and bearing no little resemblance to that notable bird '''ycleped''' the Mud-poke.}}
+#* {{RQ:Charlotte Bronte Shirley|volume=I|chapter=Fieldhead|page=276|passage=The shortest path from the Hollow to the Rectory wound near a certain mansion, {{...}} the old and tenantless dwelling '''yclept''' Fieldhead.}}
+#* {{quote-book|en|author=Frances Anne Kemble|authorlink=Fanny Kemble|chapter=|title=Journal of a Residence on a Georgian Plantation in 1838–1839|location=London|publisher=[[w:Longman|Longman, Green, Longman, Roberts, &amp; Green]]|year=1863|page=176|pageurl=https://books.google.com/books?id=SV5EAQAAMAAJ&amp;pg=PA176|oclc=367550253|passage=The damsel, '''ycleped''' Louisa, made rather a shame-faced obeisance, and her old grandmother went on to inform me that she had only lately been forgiven by the overseer for an attempt to run away from the plantation.}}
+#* {{quote-book|en|author=Barbara Baynton|authorlink=Barbara Baynton|editors=Sally Krimmer and Alan Lawson|chapter=Human Toll|title=Barbara Baynton: Bush Studies, Other Stories, Human Toll, Verse, Essays and Letters|series=Portable Australian Authors; UQP Australian Authors|location=St. Lucia, Qld.|publisher={{w|University of Queensland Press}}|year=1907|year_published=1980|page=147|isbn=978-0-7022-1469-1|issn=0156-6636|passage=No schoolboys lingered round Bob Robertson's ('''yclept''' Roberson's) blacksmith's shop, for this sleepy day no lusty throat bellowed attention to the flaming tongues fanned from its bloodily blazing teeth; no luminous stars flinted from the clanking anvil.}}
+#* {{RQ:Joyce Ulysses|page=369|passage=And there came against the place as they stood a young learning knight '''yclept''' Dixon.}}
+#* {{quote-journal|en|author=Roy Thomas|authorlink=Roy Thomas|magazine=[[w:The Avengers (comic book)|The Avengers]]|location=New York, N.Y.|publisher={{w|Marvel Comics}}|month=July|year=1967|volume=1|issue=42|page=6|oclc=1079804707|passage=In sooth, I care but little for the glory of closing in combat with the one '''yclept''' Dragon Man.}}
+#* {{quote-book|en|author=Kurt Vonnegut|authorlink=Kurt Vonnegut|title=[[w:Bluebeard (Vonnegut novel)|Bluebeard:{{nb...|A Novel}}]]|location=New York, N.Y.|publisher=[[w:Dell Publishing|Delacorte Press]]|year=1987|page=229|isbn=978-0-385-29590-1|passage=The second puzzle was this: why were the vast rectangles between the encircling columns at ground level blank? How could any art patron have left them bare? When I saw them, they were painted the palest rose-orange, not unlike the Sateen Dura-Luxe shade '''yclept''' &quot;Maui Eventide.&quot;}}
+#* {{quote-book|en|author=Glen David Gold|authorlink=Glen David Gold|chapter=3|title=[[w:Carter Beats the Devil|Carter Beats the Devil{{nb...|A Novel}}]]|location=New York, N.Y.|publisher=[[w:Hachette Books|Hyperion]]|year=2001|page=174|pageurl=https://archive.org/details/carterbeatsdevil0000gold_t7o4/page/174/mode/1up|isbn=978-0-7868-6734-9|passage=World traveling sorcerer supreme Charles Carter, '''yclept''' Carter the Mysterious, has made a startling discovery that makes the news from Europe seem mild indeed. The Japanese have a horrifying secret weapon: a means of propelling their infantry through solid matter.}}
+====Usage notes====
+While most forms of the verb {{m|en|clepe}} are obsolete, ''yclept'' is still occasionally used as an adjective or verb for humorous or archaic effect; as in the set phrase ''aptly yclept''.
+====Alternative forms====
+* {{l|en|ycleped}}
+====Translations====
+{{trans-see|called (by a certain name), named|called|named}}
+====Trivia====
+A holdover from [[Middle English]], ''yclept'' is one of a small number of English words where ''y'' figures as a {{glossary|vowel}} at the beginning of a word. Others include {{m|en|Yngling}}, {{m|en|ytterbium}}, and {{m|en|yttrium}}.
+===Verb===
+{{head|en|verb form}}
+# {{past participle of|en|clepe|nocat=1}}
+===References===
+&lt;references/&gt;
+[[Category:English irregular past participles]]
+[[Category:English terms prefixed with y-|clept]]
+[[Category:English terms suffixed with -t]]</text>
+<sha1>41halfxn6p84fbfmf85apnohx9lvtok</sha1>
+</revision>
+</page>

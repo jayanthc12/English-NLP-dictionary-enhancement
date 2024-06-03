@@ -1,0 +1,30 @@
+<page>
+<title>Yarrington</title>
+<ns>0</ns>
+<id>6244272</id>
+<revision>
+<id>67764315</id>
+<parentid>67759470</parentid>
+<timestamp>2022-07-09T17:37:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="426" xml:space="preserve">==English==
+{{wp}}
+===Etymology===
+Perhaps a variant of {{m|en|Yarnton}}.
+===Proper noun===
+{{en-proper noun|Yarringtons}}
+# {{surname|en}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yarrington'' is the 20099&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1329 individuals. ''Yarrington'' is most common among White (89.16%) individuals.
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>ttyqxuprpwjir1l3zbdox7x8t1xd1hp</sha1>
+</revision>
+</page>

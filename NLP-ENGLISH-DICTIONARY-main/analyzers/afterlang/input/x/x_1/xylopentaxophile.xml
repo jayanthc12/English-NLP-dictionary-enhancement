@@ -1,0 +1,27 @@
+<page>
+<title>xylopentaxophile</title>
+<ns>0</ns>
+<id>6368686</id>
+<revision>
+<id>67148635</id>
+<parentid>67127413</parentid>
+<timestamp>2022-05-24T09:03:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}&lt;!-- /pɑ̃t/ not #/pɛ̃t/ --&gt;
+* {{audio|fr|LL-Q150 (fra)-Lepticed7-xylopentaxophile.wav|Audio}}
+===Noun===
+{{fr-noun|mfbysense}}
+# a [[collector]] of [[gallows]] and [[wooden]] [[instrument]]s of [[torture]]
+{{C|fr|Torture|Violence}}</text>
+<sha1>b6d76kza8zz43rvwh6zf3lzsjkz4y6i</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yhteydenotto</title>
+<ns>0</ns>
+<id>3055139</id>
+<revision>
+<id>69318502</id>
+<parentid>52016810</parentid>
+<timestamp>2022-09-18T17:21:54Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteys|otto}}.
+===Pronunciation===
+{{fi-p|yhteyden-otto}}
+===Noun===
+{{fi-noun}}
+# [[contact]] {{gloss|act of contacting}}
+====Declension====
+{{fi-decl-valo|yhteydeno|tt|t|o|a}}
+====Related terms====
+* {{m|fi|ottaa yhteyttä||to contact}}</text>
+<sha1>1n7575t5hvhzq7ets56cy6ujlfiqi1i</sha1>
+</revision>
+</page>

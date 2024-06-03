@@ -1,0 +1,65 @@
+<page>
+<title>Xiamen</title>
+<ns>0</ns>
+<id>508024</id>
+<revision>
+<id>69606368</id>
+<parentid>69447226</parentid>
+<timestamp>2022-10-27T23:20:39Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Alternative forms */ * {{l|en|Siamen}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2317" xml:space="preserve">{{also|Xiàmén}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade-Giles|Wade–Giles]]}} {{l|en|Hsiamen}}, {{l|en|Hsia-men}}
+* {{l|en|Siamen}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}}&lt;ref&gt;{{cite-book|en|url=https://archive.org/details/newillustratedhi0000zhou/|chapter=Transliteration Tables|title=A New Illustrated History of Taiwan|author=Wan-yao Chou ({{w|:zh:周婉窈|周婉窈}})|publisher=SMC Publishing|translator=Carole Plackitt, Tim Casey|year=2015|page=428|pageurl=https://archive.org/details/newillustratedhi0000zhou/page/428/|ISBN=978-957-638-784-5|OCLC=934736311|location=[[Taipei]]|text=Transliterations used in the text / Hanyu pinyin / Chinese characters or Japanese ''kanji''{{...}}Amoy (Hsiamen) / Xiamen / {{lang|zh|廈門}}}}&lt;/ref&gt;  romanization of the {{bor|en|cmn|-}} pronunciation for {{zh-l|廈門|tr=Xiàmén}}.
+===Pronunciation===
+* {{IPA|en|/ʃjɑːˈmɛn/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city/and/sub-provincial city|p/Fujian|in southeastern|c/China}}.
+====Synonyms====
+* {{q|from [[Hokkien]]}} {{l|en|Amoy}}
+====Translations====
+{{trans-top|a sub-provincial city in southeastern China}}
+* Arabic: {{t|ar|شْيَامِن|m}}
+* Chinese:
+*: Cantonese: {{t|yue|廈門}}, {{t|yue|厦门|tr=haa6 mun4}}
+*: Hakka: {{t|hak|廈門}}, {{t|hak|厦门|tr=Ha-mùn}}
+*: Mandarin: {{t+|cmn|廈門}}, {{t+|cmn|厦门|tr=Xiàmén}}
+*: Min Nan: {{t+|nan|廈門}}, {{t+|nan|厦门|tr=Ē-mn̂g, Ēe-mûi}}
+* Finnish: {{t|fi|Xiamen}}
+{{trans-mid}}
+* French: {{t+|fr|Xiamen}}, {{t+|fr|Amoy|m}} {{qualifier|dated}}
+* Hungarian: {{t|hu|Hsziamen}}
+* Japanese: {{t|ja|廈門|tr=アモイ, Amoi, シャーメン, Shāmen}}, {{t|ja|アモイ|tr=Amoi}}
+* Korean: {{t|ko|샤먼}}
+* Macedonian: {{t|mk|Шјиамен|m}}
+* Portuguese: {{t|pt|Xiamen|f}}
+* Russian: {{t|ru|Сямэ́нь|m}}, {{t+|ru|Сямы́нь|m}}
+* Spanish: {{t|es|Xiamen}}
+* Vietnamese: {{t|vi|Hạ Môn}}
+{{trans-bottom}}
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=aeimnx|Manxie|Maxine|Mixean|examin}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|cmn|廈門|tr=Xiàmén}}.
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|prefecture-level city/and/sub-provincial city|p/Fujian|in southeastern|c/China|t1=Xiamen}}</text>
+<sha1>sdza3zctzkv45g3aps778wy5cxipdtc</sha1>
+</revision>
+</page>

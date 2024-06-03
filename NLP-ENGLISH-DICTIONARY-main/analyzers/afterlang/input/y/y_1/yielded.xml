@@ -1,0 +1,26 @@
+<page>
+<title>yielded</title>
+<ns>0</ns>
+<id>191404</id>
+<revision>
+<id>63706623</id>
+<parentid>54744245</parentid>
+<timestamp>2021-08-20T15:55:42Z</timestamp>
+<contributor>
+<username>Minorax</username>
+<id>3568082</id>
+</contributor>
+<comment>/* Pronunciation */ sort</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="184" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/ˈjiːldɪd/}}
+* {{audio|en|en-us-yielded.ogg|Audio (US)}}
+* {{hyph|en|yield|ed}}
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|yield}}</text>
+<sha1>6oqmaqy7uey9u644ozwisq9qdmmcknj</sha1>
+</revision>
+</page>

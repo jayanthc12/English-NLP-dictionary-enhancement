@@ -1,0 +1,34 @@
+<page>
+<title>xebh</title>
+<ns>0</ns>
+<id>7265730</id>
+<revision>
+<id>61409867</id>
+<parentid>60174069</parentid>
+<timestamp>2020-12-28T18:31:28Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>replaced {{[[T:mt-rootbox|mt-rootbox]]}} with {{[[T:mt-root|mt-root]]}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="388" xml:space="preserve">==Maltese==
+{{mt-root|x-b-h}}
+===Alternative forms===
+* {{l|mt|xebħ}} {{q|common, but unofficial}}
+===Etymology===
+From {{inh|mt|ar|شَبَه|t=similarity}}, perhaps merged with {{m|ar|شِبْه|t=something similar}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɛpħ/}}
+===Noun===
+{{mt-noun|g=m}}
+# [[similarity]]
+====Related terms====
+* {{l|mt|xebah}}
+* {{l|mt|xebbah}}
+* {{l|mt|xbieha}}</text>
+<sha1>rbko5o6qcox1swyy6mlvnhgt1ivu1iy</sha1>
+</revision>
+</page>

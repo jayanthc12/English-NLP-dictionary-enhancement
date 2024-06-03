@@ -1,0 +1,30 @@
+<page>
+<title>yamua</title>
+<ns>0</ns>
+<id>7320913</id>
+<revision>
+<id>54006109</id>
+<parentid>53946427</parentid>
+<timestamp>2019-08-28T04:28:24Z</timestamp>
+<contributor>
+<username>Erutuon</username>
+<id>156858</id>
+</contributor>
+<minor />
+<comment>header correction: variations on &quot;Related terms&quot;; [[WT:NORM|normalize]] if necessary (via JWB)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==Hadza==
+===Pronunciation===
+* {{IPA|hts|/ʔiamuʔa/}}
+===Noun===
+{{hts-noun|g=m}}
+# matter, concern
+===Etymology===
+* Cushitic. Cf. Iraqw ''[[yaamu]]'' 'earth, ground, world'
+===Related terms===
+* [[yamuako]]
+* [[yamuabee]]</text>
+<sha1>slt3o4016c0dbxmw4g7skv5c80akk4w</sha1>
+</revision>
+</page>

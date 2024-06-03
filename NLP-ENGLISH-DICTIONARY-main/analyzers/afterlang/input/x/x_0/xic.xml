@@ -1,0 +1,37 @@
+<page>
+<title>xic</title>
+<ns>0</ns>
+<id>6578502</id>
+<revision>
+<id>58231414</id>
+<parentid>58231404</parentid>
+<timestamp>2019-12-25T22:59:51Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="355" xml:space="preserve">==Catalan==
+===Etymology===
+From {{inh|ca|la|ciccum}}. Compare {{cog|es|chico}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{ca-adj}}
+# [[small]]
+#: {{syn|ca|petit}}
+====Derived terms====
+* {{l|ca|un xic}}
+===Noun===
+{{ca-noun|m|f=xica}}
+# [[boy]]
+#: {{syn|ca|noi}}
+====Derived terms====
+* {{l|ca|xicot}}
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>ffswm1ekisjensgbh8sg2e7fj5787zk</sha1>
+</revision>
+</page>

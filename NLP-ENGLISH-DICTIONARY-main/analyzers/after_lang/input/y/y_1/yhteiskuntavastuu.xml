@@ -1,0 +1,31 @@
+<page>
+<title>yhteiskuntavastuu</title>
+<ns>0</ns>
+<id>1079942</id>
+<revision>
+<id>63747674</id>
+<parentid>58642128</parentid>
+<timestamp>2021-08-24T21:07:35Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) remove [[Template:Finnish index]] (see [[Wiktionary:Votes/2021-07/Deleting the Index]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="379" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+Compound of {{compound|fi|yhteiskunta|alt1=yhteiskunta-|gloss1=social|vastuu|gloss2=responsibility}}.
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunta/vastuu}}
+===Noun===
+{{fi-noun}}
+# [[social responsibility]]
+#: ''yritysten'' ~ [[corporate social responsibility]]
+====Declension====
+{{fi-decl-vapaa|yhteiskuntavastu|a}}</text>
+<sha1>7yagg2777mthmuoaa4xlzh8n4i9fzix</sha1>
+</revision>
+</page>

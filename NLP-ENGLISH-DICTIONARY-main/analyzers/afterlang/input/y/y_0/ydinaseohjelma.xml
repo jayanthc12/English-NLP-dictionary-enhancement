@@ -1,0 +1,28 @@
+<page>
+<title>ydinaseohjelma</title>
+<ns>0</ns>
+<id>4405252</id>
+<revision>
+<id>69318130</id>
+<parentid>52035622</parentid>
+<timestamp>2022-09-18T17:01:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="267" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|ohjelma|t2=program}}
+===Pronunciation===
+{{fi-p|ydin-ase*/ohjelma}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[program]]
+====Declension====
+{{fi-decl-koira|ydinaseohjelm|||a}}</text>
+<sha1>1odksp3cv4aii5xkkx8yt2fbcyjtp7x</sha1>
+</revision>
+</page>

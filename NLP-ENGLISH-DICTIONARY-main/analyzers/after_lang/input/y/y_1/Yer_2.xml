@@ -1,0 +1,28 @@
+<page>
+<title>Yer</title>
+<ns>0</ns>
+<id>6725559</id>
+<revision>
+<id>53457234</id>
+<parentid>50950649</parentid>
+<timestamp>2019-06-26T06:15:33Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="191" xml:space="preserve">{{also|yer|YER}}
+==English==
+===Etymology===
+{{suffix|en|Y|er}}
+===Noun===
+{{en-noun}}
+# A member of [[Generation Y]].
+===Anagrams===
+* {{anagrams|en|a=ery|-ery|Rey|Rye|e'ry|eyr|rye|yre}}</text>
+<sha1>ra3kzq97pbqt7fktab47383wph79n78</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>xahar</title>
+<ns>0</ns>
+<id>498706</id>
+<revision>
+<id>64460115</id>
+<parentid>61879251</parentid>
+<timestamp>2021-10-28T12:13:37Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَهْر}}.
+===Pronunciation===
+* {{IPA|mt|/ʃaːr/}}
+* {{homophones|mt|xagħar}} {{q|except archaically}}
+* {{rhymes|mt|aːr|s=1}}
+===Noun===
+{{mt-noun|g=m|p=xhur|d=xahrejn}}
+# [[month]]
+{{c|mt|Time}}</text>
+<sha1>ra377h0pcfkpfzd8wfa5r1m7i5cloi6</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhdenmukaistaa</title>
+<ns>0</ns>
+<id>1819657</id>
+<revision>
+<id>69318354</id>
+<parentid>59682833</parentid>
+<timestamp>2022-09-18T17:13:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdenmukainen|-taa}}
+===Pronunciation===
+{{fi-p|yhden-mukaistaa*}}
+===Verb===
+{{fi-verb}}
+# {{lb|fi|transitive}} To [[standardize]], [[equalize]].
+====Conjugation====
+{{fi-conj-muistaa|yhdenmukaist|||a}}</text>
+<sha1>8abily39bisvbbx4qbaw7p7d8xcwezm</sha1>
+</revision>
+</page>

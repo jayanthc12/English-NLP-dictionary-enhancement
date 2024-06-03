@@ -1,0 +1,28 @@
+<page>
+<title>xrochre</title>
+<ns>0</ns>
+<id>7301660</id>
+<revision>
+<id>68443042</id>
+<parentid>53789981</parentid>
+<timestamp>2022-07-24T06:02:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{see}} to {{also}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">{{also|xrōchrē}}
+==San Juan Atzingo Popoloca==
+===Noun===
+{{head|poe|noun|head=xroxchre²}}
+# {{l|en|soap}}
+====Derived terms====
+* {{l|poe|xrochre xroa}}
+===References===
+* {{R:Austin et al. 1995|page=201}}</text>
+<sha1>divyb0g2xjpryp2ce8su8bf954kbcy4</sha1>
+</revision>
+</page>

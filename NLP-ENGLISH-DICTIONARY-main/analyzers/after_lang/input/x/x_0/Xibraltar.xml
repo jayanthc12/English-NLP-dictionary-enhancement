@@ -1,0 +1,28 @@
+<page>
+<title>Xibraltar</title>
+<ns>0</ns>
+<id>915055</id>
+<revision>
+<id>67452083</id>
+<parentid>45853509</parentid>
+<timestamp>2022-06-21T02:06:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use/clean up {{place}} for dependent territories (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="341" xml:space="preserve">==Asturian==
+===Proper noun===
+{{head|ast|proper noun|g=m}}
+# {{place|ast|peninsula/and/overseas territory|c/United Kingdom|at the southern end of|r/Iberia|t=Gibraltar}}
+----
+==Galician==
+===Proper noun===
+{{gl-proper noun|m}}
+# {{place|gl|peninsula/and/overseas territory|c/United Kingdom|at the southern end of|r/Iberia|t=Gibraltar}}</text>
+<sha1>bk8u08nbhm9va8bxlob64muwuazl0hz</sha1>
+</revision>
+</page>

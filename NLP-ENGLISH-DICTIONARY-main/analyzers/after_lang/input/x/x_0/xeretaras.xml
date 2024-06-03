@@ -1,0 +1,24 @@
+<page>
+<title>xeretaras</title>
+<ns>0</ns>
+<id>4638034</id>
+<revision>
+<id>48940538</id>
+<parentid>46603126</parentid>
+<timestamp>2018-02-06T14:50:32Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Orphaned RFD-failed templates, removed redundant genders that are already in the definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">{{also|xeretarás}}
+==Portuguese==
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xeretar}}</text>
+<sha1>grvorbfy5y438wl0qdhrsbz6xmf29td</sha1>
+</revision>
+</page>

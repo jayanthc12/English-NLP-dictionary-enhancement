@@ -1,0 +1,23 @@
+<page>
+<title>yeue</title>
+<ns>0</ns>
+<id>6619038</id>
+<revision>
+<id>55005784</id>
+<parentid>49309247</parentid>
+<timestamp>2019-10-11T06:26:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="83" xml:space="preserve">==Middle English==
+===Noun===
+{{head|enm|noun}}
+# {{alternative form of|enm|ewe}}</text>
+<sha1>02swltj8xeu5ahnm43rpnnina8tcotj</sha1>
+</revision>
+</page>

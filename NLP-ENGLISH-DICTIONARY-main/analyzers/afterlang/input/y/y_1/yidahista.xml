@@ -1,0 +1,25 @@
+<page>
+<title>yidahista</title>
+<ns>0</ns>
+<id>5090783</id>
+<revision>
+<id>54402923</id>
+<parentid>51578575</parentid>
+<timestamp>2019-09-29T08:29:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{misspelling of}}; move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="412" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|mf}}
+# {{misspelling of|es|yihadista}}
+#* {{quote-journal|es|date=November 18, 2015|author=|title=Opinión|work=El País|url=http://ccaa.elpais.com/ccaa/2015/11/17/catalunya/1447786498_008199.html
+|passage=Se da la desazonante circunstancia que ante el terrorismo '''yidahista''', los gobiernos, sean de derecha o de izquierda, coinciden en su diagnóstico y en las medidas. }}</text>
+<sha1>ktg85vbpzqstpbg3fg031n9zs01ci6x</sha1>
+</revision>
+</page>

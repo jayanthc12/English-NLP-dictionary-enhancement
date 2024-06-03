@@ -1,0 +1,40 @@
+<page>
+<title>Yaponiya</title>
+<ns>0</ns>
+<id>2463369</id>
+<revision>
+<id>67888147</id>
+<parentid>64363932</parentid>
+<timestamp>2022-07-12T01:28:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="424" xml:space="preserve">{{also|Ýaponiýa}}
+==Azerbaijani==
+===Proper noun===
+{{az-proper noun}}
+# {{place|az|country|cont/Asia|t=Japan}}
+====Declension====
+{{az-decl-noun|a}}
+----
+==Gagauz==
+{{wp|lang=gag}}
+===Proper noun===
+{{head|gag|proper noun}}
+# {{place|gag|country|cont/Asia|t=Japan}}
+----
+==Uzbek==
+{{wikipedia|lang=uz}}
+===Noun===
+{{uz-proper noun}}
+# {{place|uz|country|cont/Asia|t=Japan}}
+====Declension====
+{{uz-decl-noun}}</text>
+<sha1>790g2h4ou76yovbtwgbqv83d5js6wb7</sha1>
+</revision>
+</page>

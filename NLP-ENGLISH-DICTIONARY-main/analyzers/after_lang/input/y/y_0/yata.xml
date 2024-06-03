@@ -1,0 +1,36 @@
+<page>
+<title>yata</title>
+<ns>0</ns>
+<id>5698446</id>
+<revision>
+<id>67404798</id>
+<parentid>67404785</parentid>
+<timestamp>2022-06-18T08:51:44Z</timestamp>
+<contributor>
+<username>Houflings</username>
+<id>3862513</id>
+</contributor>
+<comment>/* Particle */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="441" xml:space="preserve">{{also|þata}}
+==Tagalog==
+===Alternative forms===
+* {{alt|tl|ata}}
+===Pronunciation===
+* {{hyph|tl|ya|ta}}
+* {{tl-IPA|yatà}}
+===Particle===
+{{head|tl|particle|head=yatà}}
+# [[may]]; [[perhaps]]; [[I]] [[think]] ~
+#: {{ux|tl|Hindi '''yata''' ako makakapunta diyan.|I '''may''' be not able to go there.}}
+====See also====
+{{col3|tl|marahil|tila|wari}}
+----
+==Tataltepec Chatino==
+===Noun===
+{{head|cta|noun}}
+# [[canal]], [[ditch]]</text>
+<sha1>43vkduomxp7r31nbvobb6buoqbc5pai</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>ydmykelse</title>
+<ns>0</ns>
+<id>7156664</id>
+<revision>
+<id>68870109</id>
+<parentid>52122487</parentid>
+<timestamp>2022-08-28T06:05:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==Norwegian Bokmål==
+{{wp|lang=no}}
+===Etymology===
+From {{suffix|nb|ydmyke|else}}, compare with {{cog|da|ydmygelse}}.
+===Noun===
+{{nb-noun-m1}}
+# {{l|en|humiliation}}, {{l|en|indignity}}
+===References===
+* {{R:Dokpro|lang=nb}}
+* {{R:NAOB}}</text>
+<sha1>4ulezi5ea95za8xyigrx4xx8dz9zurj</sha1>
+</revision>
+</page>

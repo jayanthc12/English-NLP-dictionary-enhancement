@@ -1,0 +1,38 @@
+<page>
+<title>Xylophon</title>
+<ns>0</ns>
+<id>38482</id>
+<revision>
+<id>65754857</id>
+<parentid>65186011</parentid>
+<timestamp>2022-02-07T15:52:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-noun|n|Xylophons|Xylophone}} to new-format {{de-noun|n}}; convert {{de-decl-noun-n|s|e}} to {{de-ndecl|n}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="439" xml:space="preserve">==German==
+===Alternative forms===
+* {{alter|de|Xylofon}}
+===Pronunciation===
+* {{IPA|de|/ˌksyloˈfoːn/}}
+* {{audio|de|De-at-Xylophon.ogg|Audio (Austria)}}
+* {{audio|de|De-Xylophon.ogg|Audio (GER)}}
+* {{rhymes|de|oːn|s=3}}
+===Noun===
+{{de-noun|n}}
+# [[xylophone]]
+====Declension====
+{{de-ndecl|n}}
+====Descendants====
+* {{desc|hu|xilofon|bor=1}}
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+{{C|de|Musical instruments}}</text>
+<sha1>l2s6rtja563ws875j3vgxnc6xje5hjh</sha1>
+</revision>
+</page>

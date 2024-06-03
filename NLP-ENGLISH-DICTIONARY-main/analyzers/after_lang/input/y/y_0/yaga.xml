@@ -1,0 +1,67 @@
+<page>
+<title>yaga</title>
+<ns>0</ns>
+<id>563913</id>
+<revision>
+<id>68041981</id>
+<parentid>63929250</parentid>
+<timestamp>2022-07-18T02:03:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yacer]] with 'yacer'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1396" xml:space="preserve">{{also|yága}}
+==Barngarla==
+===Pronunciation===
+* {{IPA|bjb|/ˈjaɡa/}}
+===Noun===
+{{head|bjb|noun}}
+# [[sister]]
+===References===
+* Page 78 of [[w:Ghil'ad Zuckermann|Zuckermann, Ghil'ad]], Emma Richards and the Barngarla (2021), [https://www.adelaide.edu.au/directory/ghilad.zuckermann?dsn=directory.file;field=data;id=43276;m=view ''Mangiri Yarda (Healthy Country: Barngarla Wellbeing and Nature)''], Adelaide: Revivalistics Press.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やが}}
+# {{ja-romanization of|ヤガ}}
+----
+==Nyunga==
+===Noun===
+{{head|nys|noun}}
+# a [[woman]]
+# [[merely]]; only; [[nonsense]]; no such thing; simply
+===References===
+* {{RQ:BindonChadwick2011}}
+{{LDL|nys}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}
+----
+==Tagalog==
+===Noun===
+{{tl-noun|yagà}}
+# [[byproduct]] [[wastage]]
+====Synonyms====
+* {{l|tl|aksaya}}
+* {{l|tl|desetso}}
+* {{l|tl|tapon}}
+----
+==Yagara==
+===Noun===
+{{head|1=yxg|2=noun}}
+# [[work]]
+===Verb===
+{{head|1=yxg|2=verb}}
+# [[work]]
+===References===
+* State Library of Queensland, [https://web.archive.org/web/20190524172940/http://blogs.slq.qld.gov.au/ilq/2019/05/13/2019-international-year-of-indigenous-languages-word-of-the-week-week-eighteen/ 2019 INTERNATIONAL YEAR OF INDIGENOUS LANGUAGES ‘WORD OF THE WEEK’: WEEK EIGHTEEN.], 13 May 2019.</text>
+<sha1>fv47mvud4hwccyh3q86icx9gtaxw5pv</sha1>
+</revision>
+</page>

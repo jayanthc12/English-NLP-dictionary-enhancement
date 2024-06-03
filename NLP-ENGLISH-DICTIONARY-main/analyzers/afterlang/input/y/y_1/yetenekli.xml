@@ -1,0 +1,27 @@
+<page>
+<title>yetenekli</title>
+<ns>0</ns>
+<id>1206788</id>
+<revision>
+<id>51854298</id>
+<parentid>44774772</parentid>
+<timestamp>2019-03-15T00:29:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Turkish==
+===Etymology===
+{{suffix|tr|yetenek|li}}
+===Adjective===
+{{tr-adj}}
+# [[talented]]
+====Declension====
+{{tr-pred-v-adj|i}}</text>
+<sha1>cs9t8n4ftl2pi9h0vxwk9mo3eo18ryv</sha1>
+</revision>
+</page>

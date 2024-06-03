@@ -1,0 +1,31 @@
+<page>
+<title>yalamaq</title>
+<ns>0</ns>
+<id>7182703</id>
+<revision>
+<id>61780939</id>
+<parentid>59116639</parentid>
+<timestamp>2021-02-08T14:54:00Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Etymology */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Azerbaijani==
+===Etymology===
+Ultimately from {{inh|az|trk-pro|*yālga-||to lick}}.&lt;ref&gt;{{R:trk-pro:SDM|*jālga-|307}}&lt;/ref&gt; Cognate with {{cog|tr|yalamak}}.
+===Pronunciation===
+* {{IPA|az|[jɑɫɑˈmɑχ]}}
+* {{hyphenation|az|ya|la|maq}}
+===Verb===
+{{az-verb}}
+# {{lb|az|transitive}} to [[lick]]
+====Conjugation====
+{{az-conj|a}}
+===References===
+&lt;references/&gt;</text>
+<sha1>2hw3o6ap65wchepfito1oe193z88ag7</sha1>
+</revision>
+</page>

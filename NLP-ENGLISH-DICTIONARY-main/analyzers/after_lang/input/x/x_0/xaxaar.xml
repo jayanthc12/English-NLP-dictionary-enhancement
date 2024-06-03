@@ -1,0 +1,25 @@
+<page>
+<title>xaxaar</title>
+<ns>0</ns>
+<id>1938899</id>
+<revision>
+<id>55776822</id>
+<parentid>45328835</parentid>
+<timestamp>2019-10-16T02:14:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Wolof==
+===Pronunciation===
+* {{IPA|wo|/ˈxaxaːr/}}
+===Noun===
+{{head|wo|noun}}
+# A [[ritual]] [[insult]] [[poem]]</text>
+<sha1>dngsyiijs27kt3riatr24b6ogry6uwy</sha1>
+</revision>
+</page>

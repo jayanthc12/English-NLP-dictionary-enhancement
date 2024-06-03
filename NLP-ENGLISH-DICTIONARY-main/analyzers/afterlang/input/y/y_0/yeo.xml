@@ -1,0 +1,41 @@
+<page>
+<title>yeo</title>
+<ns>0</ns>
+<id>532114</id>
+<revision>
+<id>69424483</id>
+<parentid>68699632</parentid>
+<timestamp>2022-10-02T22:04:00Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>moved categories to end of language, per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="766" xml:space="preserve">{{also|Yeo|þeo}}
+==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/jəʊ/}}
+* {{rhymes|en|əʊ|s=1}}
+* {{homophones|en|yo}}
+===Etymology 1===
+From {{inh|en|enm|ea}}, {{m|enm|eo}}, from {{inh|en|ang|ēa||running water, water, stream, river}}, from {{inh|en|gmw-pro|*ahu}}, from {{inh|en|gem-pro|*ahwō||waters, river}}, from {{inh|en|ine-pro|*h₂ekʷeh₂||water, flowing water}}. {{doublet|en|aqua}}. Compare {{m|en|ea}}, {{m|en|Eau}}, {{m|en|eau}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|Southwest|_|England}} {{alt form|en|ea}}
+===Etymology 2===
+====Noun====
+{{en-noun}}
+# {{alternative form of|en|yowe}}
+===See also===
+* {{l|en|rhyne}}
+===References===
+* OED 2nd edition 1989
+===Anagrams===
+* {{anagrams|en|a=eoy|EOY|yoe}}
+[[Category:British English]]</text>
+<sha1>dfnltsc66dtpyuguj6grln823zujiia</sha1>
+</revision>
+</page>

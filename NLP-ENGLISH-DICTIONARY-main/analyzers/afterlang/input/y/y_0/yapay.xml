@@ -1,0 +1,46 @@
+<page>
+<title>yapay</title>
+<ns>0</ns>
+<id>241209</id>
+<revision>
+<id>68470327</id>
+<parentid>67967161</parentid>
+<timestamp>2022-07-26T06:59:55Z</timestamp>
+<contributor>
+<username>Sedataltundal</username>
+<id>1908952</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="681" xml:space="preserve">==Quechua==
+===Adverb===
+{{head|qu|adverb}}
+# [[again]], [[once more]]
+===Noun===
+{{head|qu|noun}}
+# [[addition]], [[sum]]
+====Declension====
+{{qu-noun-c}}{{qu-poss-c}}
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|intransitive}} to [[increase]], [[augment]]
+# {{lb|qu|transitive}} to [[add]], [[augment]], [[increase]], [[repeat]]
+====Conjugation====
+{{qu-conj|yapa}}
+===See also===
+* {{l|qu|yapa}}
+----
+==Turkish==
+===Etymology===
+From {{suf|tr|yapmak|ey|alt1=yap|alt2=ay|t1=to make}}.
+===Adjective===
+{{tr-adj}}
+# [[artificial]], [[man-made]], [[synthetic]]
+====Synonyms====
+* {{l|tr|suni}}
+====Derived terms====
+*{{lb|tr|yapay zeka|[[artificial intelligence]]}}, [[AI]]</text>
+<sha1>0v0pd6g14gmeujwyd9l5h74h04mneas</sha1>
+</revision>
+</page>

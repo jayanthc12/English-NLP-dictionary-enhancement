@@ -1,0 +1,42 @@
+<page>
+<title>yarmak</title>
+<ns>0</ns>
+<id>3911900</id>
+<revision>
+<id>69469938</id>
+<parentid>67134823</parentid>
+<timestamp>2022-10-08T12:47:29Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1581" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یارمق|tr=yarmak||to split, rend}}, from {{inh|tr|trk-pro|*yār-||to split}}.&lt;ref&gt;{{R:tut-pro:SDM|*jār-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=1425&amp;root=config}}&lt;/ref&gt; Akin to {{cog|xgn-pro|*jara-||to split open, open wide}} ({{cog|mn|ярах||to cleave, thrust, draw open}}).
+{{rel-top|cognates}}
+Cognate with {{cog|oui||tr=yar-||to split, divide}}, {{cog|xqa||tr=yarmāk||to split, cleave, divide}}, {{cog|az|yarmaq||to cut through}}, {{cog|ba|ярыу||to split}}, {{cog|chg||tr=yarmaq|t=to split}}, {{cog|cv|ҫур||to cut, split}}, {{cog|kk|жару||to split}}, {{cog|kjh|чарарға||to split, divide}}, {{cog|ky|жаруу||to split}}, {{cog|alt|јарар||to cut, hack, split}}, {{cog|tt|яру||to split}}, {{cog|tk|ýarmak|ýārmak|t=to cut up}}, {{cog|tyv|чарар||to split}}, {{cog|ug|يارماق||to split}}, {{cog|uz|yormoq||to split}}, {{cog|sah|саркаах||split (adj.)}}.
+{{rel-bottom}}
+===Pronunciation===
+* {{IPA|tr|[jɑɾmɑk]}}
+* {{hyphenation|tr|yar|mak}}
+===Verb===
+{{tr-verb|yarar}}
+# {{lb|tr|transitive}} to [[split]], [[cleave]], [[rend]]; [[slit]]
+# {{lb|tr|transitive}} to [[hack]], [[chop]]
+# {{lb|tr|transitive}} to [[breach]], [[tear]]
+====Conjugation====
+{{tr-conj|yar|ı|yarar|a|d}}
+====Synonyms====
+* {{l|tr|bölmek}}
+* {{l|tr|kesmek}}
+* {{l|tr|ayırmak}}
+====Derived terms====
+{{der4|tr|yarma|yarış|yarıcı|yarık|yarım|yarılmak|yarışmak|yardırmak|yaramamak|yarabilmek}}
+===References===
+&lt;references/&gt;</text>
+<sha1>05hez1ocl5wi6bx1ycjihqfb4p9jd8q</sha1>
+</revision>
+</page>

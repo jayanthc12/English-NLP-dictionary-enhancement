@@ -1,0 +1,28 @@
+<page>
+<title>ydinpelote</title>
+<ns>0</ns>
+<id>1129719</id>
+<revision>
+<id>69318224</id>
+<parentid>59682792</parentid>
+<timestamp>2022-09-18T17:06:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|pelote}}
+===Pronunciation===
+{{fi-p|ydin-pelote*}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear deterrent]]
+====Declension====
+{{fi-decl-hame|ydinpelo|t|tt|a}}</text>
+<sha1>e7rrvn012s0f5rl87uicuhoka4kxgqj</sha1>
+</revision>
+</page>

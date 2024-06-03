@@ -1,0 +1,32 @@
+<page>
+<title>xicmecayotl</title>
+<ns>0</ns>
+<id>4307510</id>
+<revision>
+<id>58232703</id>
+<parentid>56275096</parentid>
+<timestamp>2019-12-26T08:25:00Z</timestamp>
+<contributor>
+<username>Linshee</username>
+<id>3268604</id>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="663" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+{{compound|nci|xīctli|mecayōtl|t1=navel|t2=cord}}
+===Pronunciation===
+* {{IPA|nci|[ʃiːk.meˈka.joːt͡ɬ]}}
+===Noun===
+{{nci-noun|i|xīcmecayōtl}}
+# [[umbilical cord]]
+#* '''1571''', {{w|Alonso de Molina}}, ''{{w|Vocabulario en lengua castellana y mexicana y mexicana y castellana}}'', f. 159r. col. 1.
+#*: '''Xicmecayotl'''. la tripa del ombligo.
+#*:: '''Xicmecayotl'''. the gut [stemming] from the navel.
+===References===
+* {{cite-book|author={{w|Alonso de Molina}}|year=1571|title={{w|Vocabulario en lengua castellana y mexicana y mexicana y castellana}}|publisher=Editorial Porrúa|page=159}}
+{{c|nci|Anatomy}}</text>
+<sha1>1g3z44ja6lfag40jl4adypl5jvjqsi2</sha1>
+</revision>
+</page>

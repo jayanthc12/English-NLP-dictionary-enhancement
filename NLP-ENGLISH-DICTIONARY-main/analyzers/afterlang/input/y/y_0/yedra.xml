@@ -1,0 +1,39 @@
+<page>
+<title>yedra</title>
+<ns>0</ns>
+<id>92041</id>
+<revision>
+<id>69553700</id>
+<parentid>67382107</parentid>
+<timestamp>2022-10-20T01:34:12Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Added DRAE link (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|hedera}}.
+===Noun===
+{{ast-noun|f|yedres}}
+# [[ivy]]
+----
+==Spanish==
+===Alternative forms===
+* {{alter|es|hiedra}}
+===Etymology===
+{{inh+|es|la|hedera}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[ivy]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Plants}}</text>
+<sha1>9ljh695qqiis2654v70di8arbd9wltq</sha1>
+</revision>
+</page>

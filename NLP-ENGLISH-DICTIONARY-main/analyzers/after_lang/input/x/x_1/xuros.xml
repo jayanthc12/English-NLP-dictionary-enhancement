@@ -1,0 +1,23 @@
+<page>
+<title>xuros</title>
+<ns>0</ns>
+<id>4686684</id>
+<revision>
+<id>55700083</id>
+<parentid>44175026</parentid>
+<timestamp>2019-10-15T12:53:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xuru}}</text>
+<sha1>b9d6846z84g1zr4mfi74e2doaim34v1</sha1>
+</revision>
+</page>

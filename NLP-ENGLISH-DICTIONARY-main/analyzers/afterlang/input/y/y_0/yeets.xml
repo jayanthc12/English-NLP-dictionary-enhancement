@@ -1,0 +1,27 @@
+<page>
+<title>yeets</title>
+<ns>0</ns>
+<id>5080062</id>
+<revision>
+<id>62329601</id>
+<parentid>62329598</parentid>
+<timestamp>2021-04-09T01:50:25Z</timestamp>
+<contributor>
+<username>Nixinova</username>
+<id>3282467</id>
+</contributor>
+<comment>/* Verb */correction to template</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="204" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yeet}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third person singular of|yeet}}
+===Anagrams===
+* {{anagrams|en|a=eesty|Estey|eyets|tyees}}</text>
+<sha1>r9j40086nj9sb43ja79iuutb3004btk</sha1>
+</revision>
+</page>

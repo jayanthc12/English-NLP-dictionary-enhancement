@@ -1,0 +1,25 @@
+<page>
+<title>xerepts</title>
+<ns>0</ns>
+<id>4076568</id>
+<revision>
+<id>56273491</id>
+<parentid>53092306</parentid>
+<timestamp>2019-10-17T11:05:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xerept}}
+===Anagrams===
+* {{anagrams|en|a=eeprstx|experts|exprest|sexpert}}</text>
+<sha1>m5tmkmjvkmkxzr53zha1xifbsopf99d</sha1>
+</revision>
+</page>

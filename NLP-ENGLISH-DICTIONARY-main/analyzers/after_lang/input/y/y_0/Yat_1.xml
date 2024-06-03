@@ -1,0 +1,37 @@
+<page>
+<title>Yat</title>
+<ns>0</ns>
+<id>2001467</id>
+<revision>
+<id>60347744</id>
+<parentid>59139548</parentid>
+<timestamp>2020-09-08T23:51:06Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;No […] whitespace at the […] end of a line&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1033" xml:space="preserve">{{also|yat|yát|þat}}
+==English==
+===Etymology===
+From the phrase &quot;where y'at?&quot; (i.e. &quot;where are you at?&quot;), akin to the greeting &quot;[[how are you]]?&quot;.
+===Proper noun===
+{{en-proper noun}}
+# A unique collection of dialects of English spoken in [[New Orleans]], Louisiana.
+#* '''1996''', Thomas Burns McArthur, Roshan McArthur, ''The Oxford Companion to the English Language'', Oxford University Press, USA ({{ISBN|9780198631361}})
+#*: The most distinctive local variety is '''Yat''', called by one observer 'the Cockney of New Orleans'.
+#* '''2006''', ''Lonely Planet New Orleans''
+#*: Traces of New Orleans' old  '''Yat''' dialect are still heard around town. Apart from city-specific expressions, '''Yat''' sounds an awful lot like the traditional Brooklyn accent, and it reflects the same Irish, Italian and German roots.
+===Noun===
+{{en-noun}}
+# A person of the New Orleans, Louisiana area who speaks with a Yat accent.
+===Further reading===
+* {{pedia|New Orleans English}}
+===Anagrams===
+* {{anagrams|en|a=aty|AYT|Tay|tay}}</text>
+<sha1>qax4udni7cv977zpv1oxn5oqa99hctq</sha1>
+</revision>
+</page>

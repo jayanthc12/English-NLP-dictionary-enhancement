@@ -1,0 +1,30 @@
+<page>
+<title>xpumuy</title>
+<ns>0</ns>
+<id>7284384</id>
+<revision>
+<id>53697186</id>
+<parentid>53697170</parentid>
+<timestamp>2019-07-18T04:29:33Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="339" xml:space="preserve">==Kaqchikel==
+[[File:Scaled Pigeon.jpg|thumb|right]]
+{{wikipedia|Scaled pigeon}}
+===Noun===
+{{head|cak|noun}}
+# {{vern|scaled pigeon}} (''[[Patagioenas speciosa]]'')
+====Descendants====
+* {{desc|bor=1|es|espumuy}}
+===References===
+* {{R:Brown et al. 2006|page=262}}
+* {{R:Ruyán Canú &amp; Coyote Tum 1991|page=236}}
+{{topics|cak|Birds}}</text>
+<sha1>1rm99rmxtyhtddxqvmsl5uv2ymp31cg</sha1>
+</revision>
+</page>

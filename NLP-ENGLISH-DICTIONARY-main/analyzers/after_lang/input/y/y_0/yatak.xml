@@ -1,0 +1,43 @@
+<page>
+<title>yatak</title>
+<ns>0</ns>
+<id>1168766</id>
+<revision>
+<id>66534265</id>
+<parentid>65228197</parentid>
+<timestamp>2022-04-29T12:05:07Z</timestamp>
+<contributor>
+<username>Afb2011</username>
+<id>3661799</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="589" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyph|ceb|ya|tak}}
+===Verb===
+{{head|ceb|verb}}
+# to [[trample]]; to [[tread]]
+===Quotations===
+{{seeCites|ceb}}
+===Anagrams===
+* {{anagrams|ceb|kayat|Takya}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاتاق|tr=yatak}}, can be analyzed as {{suffix|tr|yatmak|alt1=yat-|-ak}}.
+===Noun===
+{{tr-noun|yatağı|lar}}
+# [[bed]]
+====Derived terms====
+* {{l|tr|dere yatağı}}
+* {{l|tr|döl yatağı}}
+* {{l|tr|gemi yatağı}}
+* {{l|tr|maden yatağı}}
+====Declension====
+{{tr-infl-noun-c|a|stem=yatağ|poss=1}}
+[[Category:tr:Furniture]]</text>
+<sha1>aw39m2mhkq5k3s91f7hv2qdjfbe83f2</sha1>
+</revision>
+</page>

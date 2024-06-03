@@ -1,0 +1,25 @@
+<page>
+<title>xerophilstem</title>
+<ns>0</ns>
+<id>6345449</id>
+<revision>
+<id>69438506</id>
+<parentid>60549646</parentid>
+<timestamp>2022-10-03T13:46:10Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophilstem.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerophilstem.ogg|Audio}}
+===Adjective===
+{{head|de|superlative adjective form}}
+# {{de-adj form of|xerophil}}</text>
+<sha1>h9wzal35gotbgv8qub42oizf32yzcnm</sha1>
+</revision>
+</page>

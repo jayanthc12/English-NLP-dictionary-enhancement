@@ -1,0 +1,39 @@
+<page>
+<title>yaraay</title>
+<ns>0</ns>
+<id>249091</id>
+<revision>
+<id>55372571</id>
+<parentid>47706373</parentid>
+<timestamp>2019-10-14T12:49:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1045" xml:space="preserve">==Gamilaraay==
+===Alternative forms===
+* {{l|kld|yarai}}, {{l|kld|yărai}}
+* {{l|kld|yerrai}}
+===Pronunciation===
+* {{IPA|kld|/jaɻaːj/}}
+===Noun===
+{{head|kld|nouns}}
+# the [[sun]]
+#* '''1856''', William Ridley, ''On the Kamilaroi Tribe of Australians and Their Dialect,'' in ''Journal of the Ethnological Society of London'', volume 4:
+#*: The sun . . '''yărai''', or yūrōkă.
+#* '''1856''', William Ridley, ''gurre kamilaroi, or Kamilaroi Sayings''
+#*: baiame gīr '''yarai''', gille, mirri, taon ellibu gimobi.
+#*: God verily '''sun''', moon, stars, earth also made.
+#* '''1873''', William Ridley, ''Australian Languages and Traditions,'' in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 2:
+#*: Sun | '''yarai'''
+#* '''1903''', R. H. Mathews, ''Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales'', in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 33:
+#*: Sun .... .... .... | '''''yerrai'''''
+===References===
+* {{R:kld:Austin}}</text>
+<sha1>ec951a38v8hpepxfsinbfjo2nb4a3u2</sha1>
+</revision>
+</page>

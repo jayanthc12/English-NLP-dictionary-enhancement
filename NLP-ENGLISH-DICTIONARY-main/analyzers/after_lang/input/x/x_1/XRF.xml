@@ -1,0 +1,29 @@
+<page>
+<title>XRF</title>
+<ns>0</ns>
+<id>1021499</id>
+<revision>
+<id>54611358</id>
+<parentid>50818192</parentid>
+<timestamp>2019-10-03T07:10:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{initialism of|en|X-ray fluorescence}}
+====See also====
+* [[XRD]]
+* [[fluorescence]]
+===Anagrams===
+* {{anagrams|en|a=frx|RFX}}
+[[Category:en:Analytical chemistry]]</text>
+<sha1>1v1tr9zmyiyvmfbb424x7aawga15for</sha1>
+</revision>
+</page>

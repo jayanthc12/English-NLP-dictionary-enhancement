@@ -1,0 +1,32 @@
+<page>
+<title>Xyleutes</title>
+<ns>0</ns>
+<id>252532</id>
+<revision>
+<id>68651190</id>
+<parentid>58056895</parentid>
+<timestamp>2022-08-16T13:16:13Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="677" xml:space="preserve">==Translingual==
+[[File:Xyleutes strix (Cossidae).jpg|thumb]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|{{taxlink|Cossidae|family|ver=190522}}|the {{vern|wood moth}}s of Australia and southeast Asia; includes some of the [[witchetty grub]]s}}
+====Hypernyms====
+* {{sense|genus}} {{Lepidoptera Hypernyms}}; [[Glossata]]&amp;nbsp;- suborder;  [[Heteroneura]]&amp;nbsp;- infraorder; {{taxlink|Cossoidea|superfamily|ver=190522}}&amp;nbsp;- superfamily; {{taxlink|Cossidae|family|ver=190522}}&amp;nbsp;- family; [[Zeuzerinae]]&amp;nbsp;- subfamily
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:NCBI|i=1|1178380}}</text>
+<sha1>0tetmray3pzy3xuq78ffzqzfgwawcd4</sha1>
+</revision>
+</page>

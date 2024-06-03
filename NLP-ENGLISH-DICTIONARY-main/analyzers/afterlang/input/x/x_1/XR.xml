@@ -1,0 +1,28 @@
+<page>
+<title>XR</title>
+<ns>0</ns>
+<id>186008</id>
+<revision>
+<id>65829559</id>
+<parentid>62043878</parentid>
+<timestamp>2022-02-14T23:22:17Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>/* Noun */ also # {{lb|en|computing}} {{init of|en|extended reality}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">{{also|.xr}}
+==English==
+===Noun===
+{{en-noun|?}}
+# {{lb|en|computing}} {{init of|en|extended reality}}
+# {{lb|en|pharmacology}} {{initialism of|en|[[extended]] [[release]]}}
+#: {{ant|en|IR}}
+#: {{ux|en|Adderall-'''XR'''}}
+===Anagrams===
+* {{anagrams|en|a=rx|RX|Rx}}</text>
+<sha1>s9bt940jlamvfj5aa22giphivc63x5i</sha1>
+</revision>
+</page>

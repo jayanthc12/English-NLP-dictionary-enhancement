@@ -1,0 +1,35 @@
+<page>
+<title>xuventude</title>
+<ns>0</ns>
+<id>1601862</id>
+<revision>
+<id>68861505</id>
+<parentid>68829329</parentid>
+<timestamp>2022-08-28T05:08:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="435" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|iuventūtem}}, accusative singular of {{m|la|iuventus||youth}}, probably a semi-learned term.
+===Pronunciation===
+* {{IPA|gl|[ʃuβenˈtu]|[ʃuβenˈtuðɪ]}}
+===Noun===
+{{gl-noun|f}}
+# [[youth]], early part of a person's life
+# {{lb|gl|collective}} [[youth]]
+====Related terms====
+* {{l|gl|xove}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:People]]</text>
+<sha1>ar0tva4flv509bebqehc7fqxaphthie</sha1>
+</revision>
+</page>

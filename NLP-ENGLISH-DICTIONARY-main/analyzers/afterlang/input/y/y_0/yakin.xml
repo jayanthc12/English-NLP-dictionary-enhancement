@@ -1,0 +1,72 @@
+<page>
+<title>yakin</title>
+<ns>0</ns>
+<id>3400500</id>
+<revision>
+<id>68555628</id>
+<parentid>68555617</parentid>
+<timestamp>2022-08-07T11:11:20Z</timestamp>
+<contributor>
+<username>Xbypass</username>
+<id>289057</id>
+</contributor>
+<minor />
+<comment>/* Indonesian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1474" xml:space="preserve">==English==
+===Noun===
+{{en-noun|yakin|s}}
+# A large [[Himalayan]] [[antelope]], ''[[Budorcas taxicolor]]''
+====Synonyms====
+* {{l|en|takin}}
+===Anagrams===
+* {{anagrams|en|a=aikny|Kayin}}
+[[Category:en:Caprines]]
+----
+==Indonesian==
+===Etymology===
+From {{inh|id|ms|yakin}}, from {{der|id|ar|يَقِين|t=certain, undoubted}}.&lt;ref&gt;{{cite-book|author=Erwina Burhanuddin|author2=Abdul Gaffar Ruskhan|author3=R.B. Chrismanto|title=Penelitian kosakata bahasa Arab dalam bahasa Indonesia|trans-title=Research on Arabic vocabulary in Indonesian|date=1993|publisher=Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan|location=Jakarta|url=https://www.worldcat.org/oclc/29420936|isbn=979-459-296-X|oclc=29420936}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|id|/ˈjakɪn/|qual1=}}
+* {{rhymes|id|kɪn|ɪn|n|s=2}}
+* {{hyphenation|id|ya|kin}}
+===Adjective===
+{{id-adj}}
+# [[convinced]], [[positive]]
+#: {{syn|id|percaya}}
+# [[sure]], [[certain]]
+#: {{syn|id|pasti}}
+# [[confident]]
+#: {{syn|id|sungguh|sungguh-sungguh}}
+====Derived terms====
+{{der4|id|
+| berkeyakinan
+| keyakinan
+| meyakin-yakini
+| meyakini
+| diyakini
+| meyakinkan
+| diyakinkan
+| peyakinan
+|}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やきん}}
+----
+==Kalasha==
+===Noun===
+{{head|kls|noun}}
+# [[trust]], [[belief]]
+====Synonyms====
+* {{l|kls|bawar}}
+* {{l|kls|barosa}}</text>
+<sha1>p5g0n8qumxb3dxux7mqy14lnk4lepu4</sha1>
+</revision>
+</page>

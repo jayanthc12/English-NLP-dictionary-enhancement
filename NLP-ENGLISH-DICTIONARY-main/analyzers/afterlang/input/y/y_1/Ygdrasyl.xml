@@ -1,0 +1,23 @@
+<page>
+<title>Ygdrasyl</title>
+<ns>0</ns>
+<id>3038969</id>
+<revision>
+<id>54476968</id>
+<parentid>26975929</parentid>
+<timestamp>2019-09-30T15:03:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{archaic form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{archaic form of|en|Yggdrasil}}</text>
+<sha1>lgr2y27f27jzlbtjqjsjpke1y7oetre</sha1>
+</revision>
+</page>

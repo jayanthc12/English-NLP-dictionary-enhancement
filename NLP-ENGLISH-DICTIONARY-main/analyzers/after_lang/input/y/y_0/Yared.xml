@@ -1,0 +1,25 @@
+<page>
+<title>Yared</title>
+<ns>0</ns>
+<id>6506710</id>
+<revision>
+<id>68740293</id>
+<parentid>67834268</parentid>
+<timestamp>2022-08-26T07:51:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{surname|ceb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|ya|red}}
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb}}</text>
+<sha1>c72awx9uktudggf7q5fc45zoczw4mke</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>Xerxeses</title>
+<ns>0</ns>
+<id>4350609</id>
+<revision>
+<id>62908744</id>
+<parentid>54432711</parentid>
+<timestamp>2021-06-18T04:28:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>proper noun plural form -&gt; proper noun form for English plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Xerxes}}
+#* {{quote-text|en|year=1849|author=Samuel Eliot|title=The liberty of Rome: a history|page=84|passage=It need not be said that we have already proceeded farther than the time of Darius Hystaspis without mentioning the names succeeding his amongst the Persian kings, those of the '''Xerxeses''', the Artaxerxeses, and the Dariuses of later years,}}</text>
+<sha1>jm8unkxzrigunecba5kbownncmlok3q</sha1>
+</revision>
+</page>

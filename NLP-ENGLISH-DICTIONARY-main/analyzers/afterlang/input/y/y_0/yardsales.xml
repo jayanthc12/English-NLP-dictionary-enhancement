@@ -1,0 +1,26 @@
+<page>
+<title>yardsales</title>
+<ns>0</ns>
+<id>2075936</id>
+<revision>
+<id>55828858</id>
+<parentid>53092752</parentid>
+<timestamp>2019-10-16T04:59:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="161" xml:space="preserve">{{also|yard sales}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yardsale}}
+===Anagrams===
+* {{anagrams|en|a=aadelrssy|sale yards|saleyards}}</text>
+<sha1>7nyhkn93m1b4zb20igclvblk5r7zgxy</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yersel</title>
+<ns>0</ns>
+<id>784188</id>
+<revision>
+<id>50811211</id>
+<parentid>50742860</parentid>
+<timestamp>2018-11-26T16:57:21Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="410" xml:space="preserve">==English==
+===Pronoun===
+{{en-pron|the reflexive case of|ye}}
+# {{lb|en|Geordie}} [[yourself]]
+====References====
+* {{R:Dobson &amp; Irwin Newcastle 1970}}
+===Anagrams===
+* {{anagrams|en|a=eelrsy|Eylers|Seyler|serely}}
+----
+==Scots==
+===Pronoun===
+{{sco-pron}} (''the reflexive case of'' '''{{l|sco|ye}}''')
+# [[yourself]]
+#: {{ux|sco|Tak a guid leuk at '''yersel'''.|Take a good look at '''yourself'''.}}</text>
+<sha1>7fxupqy0vq3h2z4k3yrwcgptela6b12</sha1>
+</revision>
+</page>

@@ -1,0 +1,79 @@
+<page>
+<title>yaz</title>
+<ns>0</ns>
+<id>225237</id>
+<revision>
+<id>69532373</id>
+<parentid>69412553</parentid>
+<timestamp>2022-10-16T20:57:42Z</timestamp>
+<contributor>
+<ip>86.144.233.189</ip>
+</contributor>
+<comment>/* Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1678" xml:space="preserve">{{also|ýaz}}
+==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|*yāŕ}}.&lt;ref&gt;{{R:trk-pro:SDM|*jāŕ|290}}&lt;/ref&gt;
+===Noun===
+{{az-head-noun|a|c}}
+# [[spring]] (season)
+====Declension====
+{{az-decl-noun|a|c}}
+====Synonyms====
+* {{l|az|bahar}}
+===See also===
+{{table:seasons/az}}
+===References===
+&lt;references/&gt;
+----
+==Salar==
+===Etymology===
+From {{inh|slr|trk-pro|*yāŕ}}. Compare to {{cog|ky|жаз}}.
+===Noun===
+{{slr-noun}}
+# [[spring]]
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}
+#: {{syn|es|yace}}
+----
+==Tatar==
+===Noun===
+{{head|tt|noun}}
+# [[spring]] (season)
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|/jaz/}}
+===Etymology 1===
+From {{inh|tr|ota|یاز|tr=yaz}}, from {{der|tr|otk|𐰕𐰖|tr=y¹z||summer}}, from {{der|tr|trk-pro|*yāŕ}} (compare {{cog|cv|ҫур||spring}}, {{cog|sah|саас||spring}}, {{cog|tyv|час||spring}}, {{cog|kk|жаз||summer}}. Compare {{cog|hu|nyár||summer}}, a possible r-Turkic (Bulgar) borrowing).&lt;ref&gt;{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2faltet&amp;text_number=1476&amp;root=config “*ni̯ā́ŕà”]&lt;/ref&gt;
+====Noun====
+{{tr-noun|ı|lar}}
+# [[summer]]
+=====Usage notes=====
+* Locative &quot;yazda&quot; is never or rarely used; instead, use &quot;yazın&quot; to say &quot;in summer&quot;.
+=====Declension=====
+{{tr-infl-noun-c|a|poss=1}}
+=====Antonyms=====
+* {{l|tr|kış}}
+====See also====
+* {{l|tr|yayla}}
+{{table:seasons/tr}}
+===Etymology 2===
+====Verb====
+{{head|tr|verb form}}
+# {{tr-verb form of|yazmak}}
+===Further reading===
+* {{R:TDK}}
+* {{R:tr:Reverso}}
+===References===
+&lt;references/&gt;</text>
+<sha1>alzfwvtdr0ej70u73mu64dd521z0hxu</sha1>
+</revision>
+</page>

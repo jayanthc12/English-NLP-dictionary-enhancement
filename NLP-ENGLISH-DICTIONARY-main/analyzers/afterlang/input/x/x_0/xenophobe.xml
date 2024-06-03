@@ -1,0 +1,104 @@
+<page>
+<title>xenophobe</title>
+<ns>0</ns>
+<id>35287</id>
+<revision>
+<id>69518491</id>
+<parentid>69407569</parentid>
+<timestamp>2022-10-15T13:36:58Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3403" xml:space="preserve">{{also|xénophobe}}
+==English==
+===Etymology===
+From {{confix|en|xeno|phobe}}. From {{uder|en|grc|ξένος||foreign, strange}}, + {{uder|en|grc|φόβος||fear}}.
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈzɛ.nə.foʊb/|/ˈzi.nə.foʊb/}}
+* {{a|RP}} {{IPA|en|/ˈzɛ.nə.fəʊb/}}
+===Noun===
+{{en-noun}}
+# One who [[hate]]s or [[fear]]s [[stranger]]s or [[foreigner]]s.
+====Synonyms====
+* {{l|en|xenophobiac}} {{q|rare}}
+* {{l|en|xenophobian}} {{q|rare}}
+* {{l|en|xenophobic}}
+* {{l|en|xenophobist}}
+* See also [[Thesaurus:xenophobe]]
+====Antonyms====
+* {{l|en|xenophile}}
+====Related terms====
+{{rel4|en
+|xenophobia
+|xenophobic
+|xenophobical
+|xenophobically
+}}
+====Translations====
+{{trans-top|one who fears or hates strangers or foreigners}}
+* Afrikaans: {{t|af|vreemdelinge hater|m|f}}
+* Albanian: {{t+|sq|ksenofob}}
+* Armenian: {{t+|hy|այլատյաց}}
+* Belarusian: {{t|be|ксенафобскія|m|f|n}}
+* Bengali: {{t|bn|বিদেশাতঙ্কগ্রস্ত}}
+* Bulgarian: {{t+|bg|ксенофоб}}
+* Burmese: {{t|my|မုန်းတီးမိနျးမ}}
+* Catalan: {{t|ca|xenofòb|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|排外|tr=páiwài|sc=Hani}}
+* Czech: {{t|cs|xenofob|m}}, {{t|cs|xenofobka|f}}
+* Danish: {{t|da|fremmedhader|c}}, {{t+|da|xenofob|c}}
+* Dutch: {{t+|nl|xenofoob|m}}
+* Esperanto: {{t|eo|ksenofobo}}
+* Estonian: {{t|et|ksenofoob}}
+* Finnish: {{t|fi|muukalaisvihaaja}}
+* French: {{t+|fr|xénophobe|m|f}}
+* Georgian: {{t|ka|ქსენოფობი}}
+* German: {{t|de|Fremdenfeind|m}}, {{t|de|Fremdenfeindin|f}}, {{t|de|Fremdenhasser|m}}, {{t|de|Fremdenhasserin|f}}, {{t|de|Ausländerfeind|m}}, {{t|de|Ausländerfeindin|f}}, {{t|de|Ausländerhasser|m}}, {{t|de|Ausländerhasserin|f}}, {{t|de|Xenophober|m}}, {{t|de|Xenophobe|f}}
+* Greek: {{t+|el|ξενόφοβος|m}}
+* Hungarian: {{t+|hu|xenofób}}
+* Irish: {{t|ga|seineafóbach|m}}
+{{trans-mid}}
+* Italian: {{t+|it|xenofobo|m}}, {{t|it|xenofoba|f}}
+* Japanese: {{t|ja|ゼノフォーブ|tr=zenofōbu|sc=Jpan}}
+* Kannada: {{t|kn|ಪರಕೀಯ ದ್ವೇಷಿ}}
+* Korean: {{t|ko|외국 것을 싫어하는}}
+* Latvian: {{t|lv|ksenofobs}}
+* Macedonian: {{t|mk|ксенофоб|m}}
+* Persian: {{t|fa|دشمن بیگانه|sc=fa-Arab}}
+* Polish: {{t+|pl|ksenofob|m}}, {{t+|pl|ksenofobka|f}}
+* Portuguese: {{t+|pt|xenófobo|m}}, {{t+|pt|xenófoba|f}}
+* Romanian: {{t+|ro|xenofob|m}}, {{t+|ro|xenofobă|f}}
+* Russian: {{t+|ru|ксенофо́б|m}}, {{t|ru|ксенофо́бка|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|непријатељски према странцима}}
+*: Roman: {{t|sh|neprijateljski prema strancima}}
+* Slovak: {{t|sk|xenofób|m}}, {{t|sk|xenofóbka|f}}
+* Spanish: {{t+|es|xenófobo|m}}, {{t+|es|xenófoba|f}}
+* Swedish: {{t+|sv|xenofob|c}}, {{t|sv|främlingshatare|c}}
+* Tamil: {{t|ta|வெளிநாட்டவரை வெறுப்பவரும்}}
+* Telugu: {{t|te|విదేశీ}}
+* Turkish: {{t|tr|yabancı düşmanı}}, {{t|tr|yabancı sevmez}}
+* Ukrainian: {{t|uk|ксенофо́б|m}}, {{t|uk|ксенофо́бка|f}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Kazakh: {{t-check|kk|ксенофобия}}
+{{trans-mid}}
+{{trans-bottom}}
+===See also===
+* {{l|en|bigot}}
+* {{l|en|racist}}
+[[Category:en:Forms of discrimination]]
+[[Category:en:People]]
+----
+==German==
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xenophob}}</text>
+<sha1>h2k2po1i9z8kh3oetpnp478pxum32jt</sha1>
+</revision>
+</page>

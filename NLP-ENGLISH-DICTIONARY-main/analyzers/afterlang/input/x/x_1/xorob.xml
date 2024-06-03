@@ -1,0 +1,47 @@
+<page>
+<title>xorob</title>
+<ns>0</ns>
+<id>2147544</id>
+<revision>
+<id>64926429</id>
+<parentid>61409598</parentid>
+<timestamp>2021-12-11T13:46:51Z</timestamp>
+<contributor>
+<ip>92.184.116.173</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="540" xml:space="preserve">==Maltese==
+{{mt-root|x-r-b}}
+===Etymology===
+From {{inh|mt|ar|شَرِبَ}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɔ.rɔp/}}
+===Verb===
+{{mt-verb|jixrob|mixrub|vn=xarb|vn2=xrib|vn3=xorb}}
+# to [[drink]]
+# to [[absorb]] (physically or mentally)
+# to [[do]] something [[quickly]]
+# to [[cause]] [[illness]] as a result of the [[evil eye]]
+====Conjugation====
+{{mt-conj
+|1=xrobt
+|2=xrobt
+|3=xorob
+|4=xorbot
+|5=xrobna
+|6=xrobtu
+|7=xorbu
+|8=nixrob
+|9=tixrob
+|10=jixrob
+|11=tixrob
+|12=nixorbu
+|13=tixorbu
+|14=jixorbu
+|15=ixrob
+|16=ixorbu
+}}</text>
+<sha1>8hffelm0kuuztq9aqxfx9o0qe3n15vs</sha1>
+</revision>
+</page>

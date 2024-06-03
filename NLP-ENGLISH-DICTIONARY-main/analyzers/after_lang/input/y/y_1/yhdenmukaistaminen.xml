@@ -1,0 +1,30 @@
+<page>
+<title>yhdenmukaistaminen</title>
+<ns>0</ns>
+<id>1572214</id>
+<revision>
+<id>53998067</id>
+<parentid>53998062</parentid>
+<timestamp>2019-08-26T08:53:59Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="301" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdenmukaistaa|-minen}}
+===Pronunciation===
+{{fi-pronunciation}}
+===Noun===
+{{fi-noun}}
+# [[standardizing]], [[equalizing]]
+====Declension====
+{{fi-decl-nainen|yhdenmukaistami|a}}
+===Verb===
+{{head|fi|infinitive}}
+# {{fi-infinitive of|t=4|yhdenmukaistaa}}</text>
+<sha1>lix698ln8lfunnljk3e8wdcffszmm8q</sha1>
+</revision>
+</page>

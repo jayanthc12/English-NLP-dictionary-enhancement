@@ -1,0 +1,25 @@
+<page>
+<title>xeraphims</title>
+<ns>0</ns>
+<id>1604295</id>
+<revision>
+<id>55690009</id>
+<parentid>53092302</parentid>
+<timestamp>2019-10-15T12:27:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xeraphim}}
+===Anagrams===
+* {{anagrams|en|a=aehimprsx|emphraxis}}</text>
+<sha1>fyklbx4dfggib0d1ba0bww2evd68v1x</sha1>
+</revision>
+</page>

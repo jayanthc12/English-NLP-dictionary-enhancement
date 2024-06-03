@@ -1,0 +1,23 @@
+<page>
+<title>xurdiamos</title>
+<ns>0</ns>
+<id>1613917</id>
+<revision>
+<id>56980197</id>
+<parentid>35105447</parentid>
+<timestamp>2019-10-19T06:51:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xurdir||1|p|impf|indc}}</text>
+<sha1>6ce1vsy0ydmh2wza3emeu65f3ki9cg2</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>yhtye</title>
+<ns>0</ns>
+<id>665086</id>
+<revision>
+<id>58593483</id>
+<parentid>54764671</parentid>
+<timestamp>2020-01-30T12:21:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="575" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yksi|alt1=yht-|ue|alt2=ye}}
+===Pronunciation===
+{{fi-pronunciation|*}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|music}} [[group]], [[band]]
+# (''music'') [[ensemble]] {{gloss|used especially of groups performing classical music}}
+#: ''barokki'''yhtye''''': baroque '''ensemble'''
+====Declension====
+{{fi-decl-hame|yhty|||ä}}
+====Synonyms====
+* {{l|fi|bändi}}
+* {{l|fi|orkesteri}}
+====Compounds====
+* {{l|fi|barokkiyhtye}}
+* {{l|fi|lauluyhtye}}
+* {{l|fi|rockyhtye}}
+* {{l|fi|rokkiyhtye}}
+===Anagrams===
+* {{anagrams|fi|a=ehtyy|ehtyy}}</text>
+<sha1>ckdi5l1v7luuz7r3e7ear3hb3u3h007</sha1>
+</revision>
+</page>

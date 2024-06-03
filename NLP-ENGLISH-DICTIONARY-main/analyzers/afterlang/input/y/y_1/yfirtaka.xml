@@ -1,0 +1,49 @@
+<page>
+<title>yfirtaka</title>
+<ns>0</ns>
+<id>4377082</id>
+<revision>
+<id>54981305</id>
+<parentid>51806875</parentid>
+<timestamp>2019-10-10T13:54:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="831" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{compound|is|yfir|taka|t1=over|t2=to take}}.
+===Pronunciation===
+* {{IPA|is|/ˈɪːvɪrˌtʰaːka/}}
+===Verb===
+{{is-verb-strong|yfirtók|yfirtóku|yfirtekið}}
+# {{lb|is|transitive|with accusative}} to [[take over]]
+====Conjugation====
+{{is-conj-s6|yfirt|a|k|mp=-}}
+====Related terms====
+* {{l|is|yfirtak}}
+===Noun===
+{{is-noun|f|yfirtöku|yfirtökur}}
+# [[takeover]]
+====Declension====
+{{is-decl-noun-f-w1|yfirt|a|k}}
+----
+==Old Norse==
+===Alternative forms===
+* {{alter|non|taka yfir}}
+===Etymology===
+From {{prefix|non|yfir-|taka}}.
+===Verb===
+{{non-verb|yfirtók|yfirtóku|yfirtekinn}}
+# {{alternative form of|non|taka yfir}}
+====Conjugation====
+{{non-conj-strong|class=6|yfirtak|1i=yfirtek|1u=yfirtǫk|yfirtók|yfirtók|3i=yfirtœk|yfirtek}}
+===References===
+* {{R:Zoega}}</text>
+<sha1>cxb1ujh0mtobxu0lop0s1u1geya96yv</sha1>
+</revision>
+</page>

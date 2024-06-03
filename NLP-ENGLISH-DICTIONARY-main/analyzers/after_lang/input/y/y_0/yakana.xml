@@ -1,0 +1,38 @@
+<page>
+<title>yakana</title>
+<ns>0</ns>
+<id>7279023</id>
+<revision>
+<id>65093633</id>
+<parentid>60063862</parentid>
+<timestamp>2021-12-30T07:34:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{bor+}}/{{inh+}} for Pali lemmas as requested by [[User:Svartava2]]; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="399" xml:space="preserve">==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Etymology===
+{{inh+|pi|sa|यकृत्}}.
+===Noun===
+{{pi-noun|n}}
+# [[liver]]
+====Declension====
+{{pi-decl-noun|g=n}}
+====Usage notes====
+The prefixual combining form is {{l|pi|yaka-}}.
+===References===
+{{R:pi:PTS}}
+----
+==Swahili==
+===Verb===
+{{head|sw|verb form}}
+# {{inflection of|sw|kana||gnomic|class 4//class 6//class 9|t=to deny}}</text>
+<sha1>c162vqun8kea7qyrsx9a5zoawim3ouc</sha1>
+</revision>
+</page>

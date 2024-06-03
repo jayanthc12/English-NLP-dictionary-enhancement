@@ -1,0 +1,33 @@
+<page>
+<title>xiongnu</title>
+<ns>0</ns>
+<id>6636049</id>
+<revision>
+<id>67195478</id>
+<parentid>67052970</parentid>
+<timestamp>2022-05-30T08:35:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="303" xml:space="preserve">{{also|Xiongnu}}
+==Finnish==
+===Noun===
+{{fi-noun}}
+# [[Xiongnu]] {{gloss|person or language}}
+# ''(in plural)'' the Xiongnu [[people]]
+====Declension====
+{{fi-decl-valo|xiongn|||u|a}}
+----
+==French==
+===Adjective===
+{{fr-adj|inv=1}}
+# {{lb|fr|relational}} of the [[Xiongnu]]
+#: {{syn|fr|hunnu}}</text>
+<sha1>o54xy95an2x5d4dk3tlpodhpzwrnrej</sha1>
+</revision>
+</page>

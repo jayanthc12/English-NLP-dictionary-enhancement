@@ -1,0 +1,27 @@
+<page>
+<title>yerbal</title>
+<ns>0</ns>
+<id>6794461</id>
+<revision>
+<id>68971345</id>
+<parentid>64220588</parentid>
+<timestamp>2022-08-29T02:24:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[maté]] field
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>d3zmbtf8ijeol6l384yijxloxaolfv7</sha1>
+</revision>
+</page>

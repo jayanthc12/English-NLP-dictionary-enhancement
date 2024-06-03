@@ -1,0 +1,23 @@
+<page>
+<title>xenomorfos</title>
+<ns>0</ns>
+<id>6649964</id>
+<revision>
+<id>56330218</id>
+<parentid>49436806</parentid>
+<timestamp>2019-10-17T13:17:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{plural of|es|xenomorfo}}</text>
+<sha1>msi9g9w7jy6a7ijwwo91taqskytchyo</sha1>
+</revision>
+</page>

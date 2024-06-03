@@ -1,0 +1,39 @@
+<page>
+<title>Yazd</title>
+<ns>0</ns>
+<id>4439702</id>
+<revision>
+<id>67299312</id>
+<parentid>64507275</parentid>
+<timestamp>2022-06-06T12:35:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|fa}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="536" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{root|en|ine-pro|*yeh₁ǵ-}}
+From {{uder|en|fa|یزد|tr=yazd}}, see it for more.
+===Proper noun===
+{{en-proper noun}}
+# A central province of [[Iran]].
+# Capital city of Yazd Province
+====Translations====
+{{trans-top|northern province of Iran}}
+* Bengali: {{t|bn|এজদ}}
+* Hindi: {{t|hi|यज़्द|m}}
+{{trans-mid}}
+* Persian: {{t+|fa|یزد|tr=yazd|sc=fa-Arab}}
+{{trans-bottom}}
+===See also===
+* {{list:provinces of Iran/en}}
+===Anagrams===
+* {{anagrams|en|a=adyz|Zayd|dazy}}</text>
+<sha1>a73ix55uollfgjkhc17pbqwe2kyih62</sha1>
+</revision>
+</page>

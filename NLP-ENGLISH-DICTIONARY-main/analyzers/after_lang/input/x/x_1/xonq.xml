@@ -1,0 +1,26 @@
+<page>
+<title>xonq</title>
+<ns>0</ns>
+<id>4784157</id>
+<revision>
+<id>66371295</id>
+<parentid>56350631</parentid>
+<timestamp>2022-04-07T11:33:21Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<minor />
+<comment>Normalized section header</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==Wolof==
+===Pronunciation===
+* {{IPA|wo|/xɔnq/}}
+===Verb===
+{{head|wo|verb}}
+# [[red]]
+[[Category:wo:Colors]]</text>
+<sha1>fvsmql4gxh4q5q4w51oglwso9q3t4t0</sha1>
+</revision>
+</page>

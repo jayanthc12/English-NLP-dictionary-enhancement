@@ -1,0 +1,47 @@
+<page>
+<title>xeitar</title>
+<ns>0</ns>
+<id>6597971</id>
+<revision>
+<id>68865093</id>
+<parentid>68833715</parentid>
+<timestamp>2022-08-28T05:32:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1483" xml:space="preserve">==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|geitar}}, from {{inh|gl|VL.||jectāre, iectāre}}, from {{inh|gl|la|iactāre}}, present active infinitive of {{m|la|iactō}}. Cognate with {{cog|pt|jeitar}}, {{cog|es|echar}}, {{cog|fr|jeter}}.
+===Pronunciation===
+* {{IPA|gl|/ʃejˈtaɾ/}}
+===Verb===
+{{gl-verb|xeit|ar}}
+# {{lb|gl|pronominal|dated}} to [[lie down]]
+#* '''1869''', Domingo Blanco (ed.), ''A poesía popular en Galicia 1745-1885. Recopilación, estudio e edición crítica (vol. I)'', Vigo: Xerais, page 387:
+#*: ''Anque che veño do xeito non che veño de '''xeitar''': veño de tomar sardiñas d'alá do medio do mar.''
+#*:: ''Although I came from fishing [&quot;xeito&quot;] I've haven't '''been resting''' [&quot;xeitar&quot;]: I've come from catching sardines in the middle of the sea''
+#*:: (there's a pun between ''xeitar'', resting, and ''xeito'', throwing, i.e. fishing)
+# {{lb|gl|archaic}} to [[expel]]
+# {{lb|gl|archaic}} to [[transfer]] a property
+====Conjugation====
+{{gl-conj-ar|xeit}}
+====Related terms====
+* {{l|gl|axeitar}}
+* {{l|gl|deitar}}
+* {{l|gl|enxeitar}}
+* {{l|gl|rexeitar}}
+* {{l|gl|xeito}}
+* {{l|gl|xeitoso}}
+===References===
+* {{R:gl:DDGM|jeitar}}
+* {{R:gl:DDGM|geitar}}
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=%5Bgj%5De%5Bijy%5Dt&amp;corpus=xelmirez jeit]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:TILG}}</text>
+<sha1>2625hhomu0c3t6v7vuiby68qto07tnl</sha1>
+</revision>
+</page>

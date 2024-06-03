@@ -1,0 +1,26 @@
+<page>
+<title>Xylophone</title>
+<ns>0</ns>
+<id>1935637</id>
+<revision>
+<id>65721879</id>
+<parentid>55642708</parentid>
+<timestamp>2022-02-07T06:07:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up German non-lemma forms esp. plurals and dative singulars (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="185" xml:space="preserve">{{also|xylophone}}
+==German==
+===Pronunciation===
+* {{audio|de|De-at-Xylophone.ogg|Audio (Austria)}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Xylophon||nom//acc//gen|p}}</text>
+<sha1>r4i2q5jc5awc5fru15c35w4kr4hqsev</sha1>
+</revision>
+</page>

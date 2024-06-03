@@ -1,0 +1,84 @@
+<page>
+<title>xu</title>
+<ns>0</ns>
+<id>177718</id>
+<revision>
+<id>67521708</id>
+<parentid>67358452</parentid>
+<timestamp>2022-06-22T23:10:53Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<comment>/* Mandarin */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1651" xml:space="preserve">{{also|xú|xù|xū|Xū|xǔ|xứ|xử|ǃXũ}}
+==English==
+{{wikipedia}}
+{{wikipedia|Vietnamese dong}}
+===Etymology===
+Borrowed from {{bor|en|vi|xu}}, from {{der|en|fr|sou}}. {{doublet|en|sou}}.
+===Pronunciation===
+* {{IPA|en|/suː/}}
+* {{rhymes|en|uː|s=1}}
+===Noun===
+{{en-noun|xu|pl2qual=rare|s}}
+# A minor unit of currency in Vietnam, now little-used, forming a hundredth of a [[dong]].
+===Anagrams===
+* {{anagrams|en|a=ux|&amp; ux.|UX}}
+[[Category:English two-letter words]]
+----
+==Gothic==
+===Romanization===
+{{got-rom}}
+# {{romanization of|got|𐍇𐌿}}
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin}}
+# {{pinyin reading of|蓿}}
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|xū}}
+# {{nonstandard spelling of|cmn|sc=Latn|xú}}
+# {{nonstandard spelling of|cmn|sc=Latn|xǔ}}
+# {{nonstandard spelling of|cmn|sc=Latn|xù}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Phalura==
+===Etymology===
+From {{bor|phl|ps|tr=xo}}.
+===Pronunciation===
+* {{IPA|phl|/xu/}}
+===Particle===
+{{head|phl|particle|discourse||Perso-Arabic spelling|خوۡ}}
+# but
+# however
+# although
+===References===
+* {{R:phl:Liljegren:Vocab}}
+----
+==Unami==
+===Particle===
+{{head|unm|particle}}
+# [[future tense]] marker
+#: {{usex|unm|Làpi '''xu''' pè.|He '''will''' come again.}}
+#: {{usex|unm|Alàpa '''xu''' nëmanitu sapan.|Tomorrow I '''will''' make sapan.}}
+===References===
+* {{R:unm:LTD|xu}}
+----
+==Vietnamese==
+===Etymology===
+From {{bor|vi|fr|sou}}.
+===Pronunciation===
+{{vi-IPA}}
+===Noun===
+{{vi-noun}}
+# {{l|en|xu}} {{gloss|1/100 of a [[dong]]}}; [[cent]]; [[penny]]
+====Derived terms====
+{{vi-der|đồng xu}}</text>
+<sha1>sumztvd93v5bdpvjacw6839yrvocrek</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Yelle</title>
+<ns>0</ns>
+<id>6257451</id>
+<revision>
+<id>67771744</id>
+<parentid>67739693</parentid>
+<timestamp>2022-07-09T18:05:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yelles}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yelle'' is the 22421&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 1148 individuals. ''Yelle'' is most common among White (93.55%) individuals.</text>
+<sha1>99j7lh8ulurwvu6lz8pzmkudel11uuk</sha1>
+</revision>
+</page>

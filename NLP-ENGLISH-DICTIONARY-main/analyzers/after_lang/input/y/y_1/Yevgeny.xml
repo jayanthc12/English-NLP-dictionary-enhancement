@@ -1,0 +1,45 @@
+<page>
+<title>Yevgeny</title>
+<ns>0</ns>
+<id>4238829</id>
+<revision>
+<id>68732160</id>
+<parentid>67299082</parentid>
+<timestamp>2022-08-26T06:31:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{given name|ceb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="756" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|ru|Евге́ний}}. {{doublet|en|Eugene}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|A=A Russian|from=Russian}}
+====Related terms====
+* {{l|en|Eugenius}}, {{l|en|Eugene}}
+====Translations====
+{{trans-top|given name}}
+* Armenian: {{t|hy|Եվգենի|sc=Armn}}
+* Hebrew: {{t|he|יבגני|tr=yevgéni}}
+{{trans-mid}}
+* Russian: {{t+|ru|Евге́ний|m}}
+* Ukrainian: {{t+|uk|Євге́н|m|sc=Cyrl}}
+{{trans-bottom}}
+----
+==Cebuano==
+===Etymology===
+From {{der|ceb|ru|Евге́ний}}, from {{der|ceb|gkm|Εὐγένιος|gloss=noble, high-born}}.
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{given name|ceb|male|from=Russian}}
+===Quotations===
+{{seeCites|ceb}}</text>
+<sha1>m0vv20sp3w2yhbv2r0chv86ydtlz6ql</sha1>
+</revision>
+</page>

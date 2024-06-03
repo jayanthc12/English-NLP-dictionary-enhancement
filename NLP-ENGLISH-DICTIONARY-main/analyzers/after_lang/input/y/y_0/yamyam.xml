@@ -1,0 +1,59 @@
+<page>
+<title>yamyam</title>
+<ns>0</ns>
+<id>1885864</id>
+<revision>
+<id>69613302</id>
+<parentid>69428043</parentid>
+<timestamp>2022-10-28T23:09:08Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Turkish */ yamyamlık</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1174" xml:space="preserve">{{also|Yamyam|yam yam}}
+==Cebuano==
+===Etymology===
+From {{m|ceb|yamar}}.
+===Pronunciation===
+* {{hyph|ceb|yam|yam}}
+===Noun===
+{{head|ceb|noun}}
+# an [[incantation]]
+===Verb===
+{{head|ceb|verb}}
+# to [[recite]] a prayer or incantation
+# to [[mumble]]
+# to [[talk]] [[aimlessly]]
+===Quotations===
+{{seeCites|ceb}}
+===Anagrams===
+* {{l|ceb|Maymay}}
+{{cln|ceb|reduplications}}
+----
+==Masbatenyo==
+===Noun===
+{{head|msb|noun}}
+# [[nightmare]]
+====Derived terms====
+* {{l|msb|magyamyam}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یامیام|tr=yamyam}} meaning also “[[Niam-Niam]]”, an obsolete name used by 18th- and 19th-century French and British travellers for the {{w|Azande}}, an ethnic group of North Central Africa. The name is said to mean “great eaters” in the {{der|tr|din|-}} language, supposedly referring to cannibalistic propensities formerly ascribed to the Azande.
+===Pronunciation===
+* {{IPA|tr|[jɑm.ˈjɑm]}}
+===Noun===
+{{head|tr|noun}}
+# [[cannibal]]
+====Declension====
+{{tr-infl-noun-c|a|poss=1|pred=1}}
+====Derived terms====
+* {{l|tr|yamyamlık|t=cannibalism}}
+===Further reading===
+* {{R:tr:OTK|vol=5|page=5189}}</text>
+<sha1>bp1djedl9403zjfwfvcx7k2f7jy6eog</sha1>
+</revision>
+</page>

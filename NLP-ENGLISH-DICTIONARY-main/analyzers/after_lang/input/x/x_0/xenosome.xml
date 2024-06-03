@@ -1,0 +1,29 @@
+<page>
+<title>xenosome</title>
+<ns>0</ns>
+<id>3769110</id>
+<revision>
+<id>49273849</id>
+<parentid>47877173</parentid>
+<timestamp>2018-04-04T17:07:26Z</timestamp>
+<contributor>
+<username>Simplificationalizer</username>
+<id>3217536</id>
+</contributor>
+<minor />
+<comment>added [[Category:English 3-syllable words]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="347" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|some}}
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} A [[endosymbiotic]] [[bacterium]] of some [[marine]] [[protozoan]]s.
+# Particles of [[debris]] sometimes incorporated into the shells of some [[testate]] [[amoeba]]e.
+====Derived terms====
+* {{l|en|xenosomic}}
+[[Category:English 3-syllable words]]</text>
+<sha1>npy3leqdy3qb7479gn3o5sgb16e4th7</sha1>
+</revision>
+</page>

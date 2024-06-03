@@ -1,0 +1,32 @@
+<page>
+<title>ybore</title>
+<ns>0</ns>
+<id>3046184</id>
+<revision>
+<id>64460346</id>
+<parentid>58678087</parentid>
+<timestamp>2021-10-28T12:24:37Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="814" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|bore}}
+===Pronunciation===
+* {{rhymes|en|ɔː(ɹ)|s=2}}
+===Verb===
+{{head|en|verb form}}
+# {{en-obsolete past participle of|bear}}: [[bore]], [[born]].
+#* '''1563''' (edition printed in '''1844'''), {{w|John Foxe}}, ''The Acts and Monuments of John Foxe'', page 301:
+#*: The second sicknesse, that is commune to all mankind, commith of feeblenes of the body, as hunger and thorst, colde and heate, sorrowe and werines, and many other, as lob saith : 'A man that is '''ybore''' of a woman, {{...}}'
+#* '''1600''', {{w|Edward Fairfax}}, The ''{{w|Jerusalem Delivered}}'' of {{w|Torquato Tasso|Tasso}}, X, xxxix:
+#*: Orcano rose, of princely stem '''ybore''', / Whose presence 'mongst them bore a mighty stroke.
+===Anagrams===
+* {{anagrams|en|a=beory|Boyer|Robey|boyer}}</text>
+<sha1>aw6p8xjv5nysbcoy4qc4tmfg1e4f3pi</sha1>
+</revision>
+</page>

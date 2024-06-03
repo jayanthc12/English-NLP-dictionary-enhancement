@@ -1,0 +1,31 @@
+<page>
+<title>Yelizaveta</title>
+<ns>0</ns>
+<id>4239793</id>
+<revision>
+<id>68555152</id>
+<parentid>59329747</parentid>
+<timestamp>2022-08-07T09:07:38Z</timestamp>
+<contributor>
+<ip>92.239.103.64</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="444" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|ru|Елизаве́та}}. {{doublet|en|Elizabeth}}.
+===Proper noun===
+{{en-proper noun}}
+# {{name translit|en|ru|Елизаве́та|type=female given name|eq=Elizabeth}}.
+====Related terms====
+* {{l|en|Elizabeth}}
+====Translations====
+{{trans-top|given name}}
+* Armenian: {{t|hy|Ելիզավետա|sc=Armn}}
+{{trans-mid}}
+* Russian: {{t+|ru|Елизав́ета}}
+{{trans-bottom}}</text>
+<sha1>6vlp6rci5muuah1yg3z3kw1u1k5e35s</sha1>
+</revision>
+</page>

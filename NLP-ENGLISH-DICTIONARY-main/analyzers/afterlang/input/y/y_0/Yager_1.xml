@@ -1,0 +1,27 @@
+<page>
+<title>Yager</title>
+<ns>0</ns>
+<id>6111259</id>
+<revision>
+<id>67808919</id>
+<parentid>67686916</parentid>
+<timestamp>2022-07-09T20:30:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="385" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yagers}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yager'' is the 4766&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 7427 individuals. ''Yager'' is most common among White (94.39%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aegry|Garey|Geary|gayer|gyrae|ragey|re-gay}}</text>
+<sha1>l92kbin81332f9xolni9w9wek05v0lg</sha1>
+</revision>
+</page>

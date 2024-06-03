@@ -1,0 +1,27 @@
+<page>
+<title>XOFF</title>
+<ns>0</ns>
+<id>7302225</id>
+<revision>
+<id>64518363</id>
+<parentid>53797413</parentid>
+<timestamp>2021-11-03T04:31:21Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<minor />
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|computing}} [[transmit|Transmit]] [[off]].
+====Antonyms====
+* [[XON]]
+===See also===
+* {{w|Software flow control}}</text>
+<sha1>rf3wyar53azfa9rqifigh9gf8e0gest</sha1>
+</revision>
+</page>

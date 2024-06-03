@@ -1,0 +1,33 @@
+<page>
+<title>xylology</title>
+<ns>0</ns>
+<id>231504</id>
+<revision>
+<id>60073932</id>
+<parentid>51975244</parentid>
+<timestamp>2020-08-14T08:47:31Z</timestamp>
+<contributor>
+<username>SemperBlotto</username>
+<id>3336</id>
+</contributor>
+<minor />
+<comment>/* Related terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="308" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xylo|logy}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare}} The [[study]] of [[wood]].
+====Related terms====
+* {{l|en|palaeoxylology}}
+* {{l|en|xylological}}
+====Translations====
+{{trans-top|study of wood}}
+* French: {{t+|fr|xylologie|f}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>olah4q2eslw0k6tj5js8ysel2hwldkg</sha1>
+</revision>
+</page>

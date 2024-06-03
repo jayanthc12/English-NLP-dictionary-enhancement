@@ -1,0 +1,35 @@
+<page>
+<title>yannash</title>
+<ns>0</ns>
+<id>7309140</id>
+<revision>
+<id>65321186</id>
+<parentid>56716184</parentid>
+<timestamp>2022-01-12T05:42:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Choctaw: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="481" xml:space="preserve">==Choctaw==
+===Alternative forms===
+* {{alter|cho|yvnnvsh|alt=yʋnnʋsh}} {{q|traditional}}
+* {{alter|cho|yạnnạsh}} {{q|Byington/Swanton}}
+* {{alter|cho|yannaš}} {{q|Mississippi}}
+===Etymology===
+Cognate with {{cog|akz|yanasa}}
+===Pronunciation===
+* {{IPA|cho|/jən.nə́ʃ/}}
+* Transcription: yannásh
+===Noun===
+{{head|cho|noun|alienable}}
+# [[bison]], [[buffalo]]
+====Derived terms====
+* {{l|cho|yannash hakshop||buffalo skin}}
+* {{l|cho|yannashoshi||little buffalo}}</text>
+<sha1>csjzcyia5wum59qmnyu9p09w17607hm</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xouba</title>
+<ns>0</ns>
+<id>6404364</id>
+<revision>
+<id>68866905</id>
+<parentid>68833014</parentid>
+<timestamp>2022-08-28T05:44:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==Galician==
+===Etymology===
+Probably from {{inh|gl|la|clupea}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃowβa̝/}}
+===Noun===
+{{gl-noun|f}}
+# {{lb|gl|Southern Galicia}} a young [[sardine]]
+====Synonyms====
+* {{l|gl|parrocha}} {{q|Northern Galicia}}
+====Derived terms====
+* {{l|gl|xoubiña}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+{{C|gl|Fish}}</text>
+<sha1>pg5hzxlq83se7jq9t68yjfa39s7ivhe</sha1>
+</revision>
+</page>

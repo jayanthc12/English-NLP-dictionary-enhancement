@@ -1,0 +1,39 @@
+<page>
+<title>xenomorph</title>
+<ns>0</ns>
+<id>210610</id>
+<revision>
+<id>69540420</id>
+<parentid>67965001</parentid>
+<timestamp>2022-10-18T09:04:30Z</timestamp>
+<contributor>
+<username>Inqilābī</username>
+<id>3512632</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="552" xml:space="preserve">==English==
+{{swp|lang=en}}
+===Etymology===
+From {{con|en|xeno|morph}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈzɛnəʊˌmɔːf/}}
+===Noun===
+{{en-noun}}
+# A strange form, an [[alien]] creature.
+# {{lb|en|geology}} An [[allotriomorph]].
+====Derived terms====
+* {{l|en|xenomorphic}}
+* {{l|en|xenomorphous}}
+* {{m|mul|Xenomorphia}}
+====Translations====
+{{trans-top|a strange form, an alien creature}}
+* French: {{t+|fr|xénomorphe|m|f}}
+* Russian: {{t|ru|ксеномо́рф|m}}
+{{trans-bottom}}
+{{trans-top|an allotriomorph}}
+{{trans-bottom}}</text>
+<sha1>pgbwxp1svpcxxsxa650y1m033ymun1m</sha1>
+</revision>
+</page>

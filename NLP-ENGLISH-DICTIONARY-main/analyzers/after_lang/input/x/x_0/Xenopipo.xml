@@ -1,0 +1,27 @@
+<page>
+<title>Xenopipo</title>
+<ns>0</ns>
+<id>3074305</id>
+<revision>
+<id>22811250</id>
+<parentid>13593439</parentid>
+<timestamp>2013-09-13T03:57:13Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Proper noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Translingual==
+{{wikipedia}}
+{{wikispecies}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Pipridae}}
+===References===
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>notw3ukt61safku4avw2kesncnn3lxy</sha1>
+</revision>
+</page>

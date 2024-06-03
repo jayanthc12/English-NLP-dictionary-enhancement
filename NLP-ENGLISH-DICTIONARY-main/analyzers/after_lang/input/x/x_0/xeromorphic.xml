@@ -1,0 +1,42 @@
+<page>
+<title>xeromorphic</title>
+<ns>0</ns>
+<id>278919</id>
+<revision>
+<id>64460185</id>
+<parentid>63994338</parentid>
+<timestamp>2021-10-28T12:16:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="613" xml:space="preserve">==English==
+===Etymology===
+From {{affix|en|xero-|-morphic}}.
+===Pronunciation===
+* {{IPA|en|/zɪəɹəˈmɔɹfɪk/}}
+* {{rhymes|en|ɔː(ɹ)fɪk|s=4}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|biology}} Of, relating to, or characteristic of the [[xerophyte]]s, especially having the ability to store water in leaves and stems.
+#: {{syn|en|xeromorphous}}
+====Related terms====
+{{rel4|en
+|xeromorph
+|xeromorphy
+}}
+====Translations====
+{{trans-top}}
+* French: {{t+|fr|xéromorphe}}
+* German: {{t+|de|xeromorph}}
+{{trans-mid}}
+* Polish: {{t|pl|kseromorficzny}}
+{{trans-bottom}}
+===Paronyms===
+* {{l|en|xenomorphic}}</text>
+<sha1>qa5ym55yof2bsrsjnkvw8ly8g8xgwb5</sha1>
+</revision>
+</page>

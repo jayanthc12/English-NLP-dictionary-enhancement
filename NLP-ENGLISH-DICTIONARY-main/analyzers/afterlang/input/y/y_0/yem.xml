@@ -1,0 +1,108 @@
+<page>
+<title>yem</title>
+<ns>0</ns>
+<id>338047</id>
+<revision>
+<id>67654450</id>
+<parentid>67636372</parentid>
+<timestamp>2022-07-06T03:33:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct misformatted language section divider at end; Turkish: correct whitespace of section 3 (Declension); Turkish: remove extraneous space at end of section header in section 3 (Declension); correct [[User:Zumbacool]] (=Wonderfool) bad formatting (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2546" xml:space="preserve">{{also|YEM|yếm|yểm}}
+==English==
+{{wikipedia|yếm}}
+===Etymology 1===
+See {{m|en|hyem}}.
+====Pronunciation====
+* {{IPA|en|/jɛm/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yem.wav|Audio (UK)}}
+* {{rhymes|en|ɛm|s=1}}
+====Adverb====
+{{en-adv|-}}
+# {{lb|en|Geordie}} {{alternative spelling of|en|hyem}}
+===Etymology 2===
+[[File:Yếm đào.jpg|thumb|right|A young woman wearing a '''yem'''.]]
+Borrowed from {{bor|en|vi|yếm}}.
+====Pronunciation====
+* {{IPA|en|/ˈiːəm/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yem2.wav|Audio (UK)}}
+* {{rhymes|en|iːəm|s=2}}
+====Noun====
+{{en-noun}}
+# {{lb|en|fashion}} A [[Vietnamese]] [[form]] of [[underbodice]]; a [[dudou]], its [[Chinese]] [[progenitor]] and [[equivalent]].
+=====Synonyms=====
+* {{l|en|dudou}}, {{l|en|tu-tou}} {{qualifier|Chinese contexts}}
+=====Hypernyms=====
+* {{l|en|bodice}}, {{l|en|bib}}
+=====Translations=====
+{{trans-top-also|a Vietnamese Chinese form of the bodice|dudou}}
+* Chinese:
+*: Cantonese: {{t|yue|肚兜|tr=tou5 dau1}}
+*: Mandarin: {{t+|cmn|肚兜|tr=dùdōu}}
+* Khmer: {{t+|km|អៀម}}
+{{trans-mid}}
+* Lao: {{t|lo|ອ້ຽມ}}
+* Thai: {{t|th|เอี๊ยม}}, {{t+|th|เต่า}}
+* Vietnamese: {{t+|vi|yếm}}
+{{trans-bottom}}
+===References===
+* {{cite-book
+|last=Griffiths
+|first=Bill
+|title=A Dictionary of North East Dialect
+|year=2004
+|publisher=Northumbria University Press
+|isbn=1-904794-16-5
+|page=191
+}}
+[[Category:English heteronyms]]
+----
+==Azerbaijani==
+===Etymology===
+Surface etymology {{suf|az|yemək|im|alt1=ye|alt2=m}}.
+===Noun===
+{{az-head-noun|e|m}}
+# [[fodder]]
+====Declension====
+{{az-decl-noun|e|m}}
+====Derived terms====
+* {{l|az|yemləmək}}
+===Further reading===
+* {{r:obastan}}
+----
+==Middle English==
+===Etymology 1===
+====Noun====
+{{head|enm|noun}}
+# {{tlb|enm|Early ME}} {{alt form|enm|em||uncle}}
+===Etymology 2===
+====Pronoun====
+{{head|enm|pronoun}}
+# {{lb|enm|North ME|northern|_|East Midland ME}} {{alt form|enm|þem||them}}
+===Etymology 3===
+====Noun====
+{{head|enm|noun}}
+# {{alt form|enm|yeme||attention, care}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یم|tr=yem|t=food, ration, bait; primer}}, from {{der|tr|trk-pro|*jē-||to eat}}.
+===Noun===
+{{tr-noun|i|ler}}
+# [[fodder]]
+# [[bait]] ''' for a hook, snare or net '''.
+# (figuratively) '''Anything which allures; something used to [[lure]] or entice someone or something into doing something'''.
+====Declension====
+{{tr-infl-noun-c|i|poss=1}}
+===References===
+* {{R:tr:Nishanyan|yem}}
+* {{R:ota:Redhouse|یم|page=2209}}</text>
+<sha1>by3eua4ewfmjti81ot40ndgo6nvtp0v</sha1>
+</revision>
+</page>

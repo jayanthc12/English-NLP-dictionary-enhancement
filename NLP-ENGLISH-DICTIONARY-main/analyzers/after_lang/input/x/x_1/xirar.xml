@@ -1,0 +1,33 @@
+<page>
+<title>xirar</title>
+<ns>0</ns>
+<id>1852386</id>
+<revision>
+<id>60889029</id>
+<parentid>52628151</parentid>
+<timestamp>2020-10-20T10:19:53Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="570" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|gȳrāre}}, present active infinitive of {{m|la|gȳrō}}, from {{m|la|gȳrus||circle, circuit}}.
+===Verb===
+{{gl-verb|xir|ar}}
+# to [[turn]], [[rotate]]
+# to change [[direction]], to make a turn
+# {{lb|gl|of discourse}} to [[treat]], [[deal]] with, to [[center on]]
+# {{inflection of|gl|xirar||1//3|s|futr|subj}}
+# {{inflection of|gl|xirar||1//3|s|pr|inf}}
+====Conjugation====
+{{gl-conj-ar|xir}}
+====Synonyms====
+* {{sense|to turn, rotate}} {{l|gl|virar}}
+* {{sense|to change direction}} {{l|gl|torcer}}, {{l|gl|virar}}</text>
+<sha1>rt6hgih3tr935azrpg48dzaaischuca</sha1>
+</revision>
+</page>

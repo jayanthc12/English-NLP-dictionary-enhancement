@@ -1,0 +1,51 @@
+<page>
+<title>yano</title>
+<ns>0</ns>
+<id>5555145</id>
+<revision>
+<id>68538189</id>
+<parentid>66427322</parentid>
+<timestamp>2022-08-05T01:28:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Cebuano numerals, use {{number box}} (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="832" xml:space="preserve">{{also|Yano|-yanö}}
+==English==
+===Noun===
+{{en-noun}}
+# {{synonym of|en|shabono||communal hut built by the Yanomamo people}}
+===Anagrams===
+* {{anagrams|en|a=anoy|Ayon|nyao|onya}}
+----
+==Cebuano==
+===Etymology===
+From {{bor|ceb|es|llano}}, from {{der|ceb|la|plānus}}, from {{der|ceb|ine-pro|*pleh₂-}}.
+===Pronunciation===
+* {{hyphenation|ceb|ya|no}}
+===Adjective===
+{{head|ceb|adjective}}
+# [[plain]]; [[simple]]
+# [[take for granted|taken for granted]]; [[given]] little [[attention]] or [[value]]
+===Adverb===
+{{head|ceb|adverb}}
+# [[plainly]]; in a [[plain]] manner
+===Quotations===
+{{seeCites|ceb}}
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|es|llano||plain}}.
+===Pronunciation===
+* {{IPA|tl|/ˈjano/}}
+===Adjective===
+{{tl-adj|yáno}}
+# {{l|en|simple}}; {{l|en|plain}}
+#: {{syn|tl|simple|payak|liso}}</text>
+<sha1>mphld1fepzf17ha16jxiyzk8kac7o18</sha1>
+</revision>
+</page>

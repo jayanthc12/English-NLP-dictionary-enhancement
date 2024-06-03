@@ -1,0 +1,59 @@
+<page>
+<title>Xinshi</title>
+<ns>0</ns>
+<id>6843012</id>
+<revision>
+<id>68418422</id>
+<parentid>67890442</parentid>
+<timestamp>2022-07-20T09:21:24Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 2010s article</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2237" xml:space="preserve">{{also|xīnshì|xīnshǐ|xìnshí|xìnshǐ|xìnshì}}
+==English==
+{{wikipedia}}
+{{commonscat|Xinshi District, Ürümqi}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsin-shih}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|新市}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|county/Jingshan|prefecture-level city/Jingmen|p/Hubei|c/China}}.
+# {{place|en|town|county-level city/Zaoyang|prefecture-level city/Xiangyang|p/Hubei|c/China}}.
+# {{alternative form of|en|Sinshih}} ([[Taiwan]])
+#* {{quote-web
+|en
+|year={{circa|2010s}}
+|title=Employment Services
+|archiveurl=https://web.archive.org/web/20160429112958/https://job.tainan.gov.tw/?lang=en
+|archivedate=29 April 2016
+|work=Vocational Training and Employment Services Center, Labor Affairs Bureau, Tainan City Government ({{lang|zh|臺南市政府勞工局職訓就服中心}})
+|text=To help employers and job seekers get the most efficient and the highest level of employment services, Tainan City Government has strived for setting up  employment service stations with the financial support from the central government since 2002. Until now, five stations have been set up  in Jiali District, '''Hsinshih''' District, Guantian District, Gueiren District, and Yonghua Civic Center.
+|brackets=on}}
+#* {{quote-web
+|en
+|date=2019/10/15
+|last=Teng
+|first=Pei-ju
+|title=National Museum of Archeology to open in southern Taiwan
+|archiveurl=https://web.archive.org/web/20191016233251/https://www.taiwannews.com.tw/en/news/3796267
+|archivedate=16 October 2019
+|work={{w|Taiwan News}}
+|text=The National Museum of Archeology (NMA), a branch of the Museum of Prehistory, will open in Tainan on Saturday (Oct. 19), exhibiting 500 relics that date back as far as 5,000 years.[...]Another object, a human-faced clay decoration, is believed to have been created between 1,300 and 1,800 years ago and is part of the Niao-Sung Culture, located in today’s '''Xinshi''' District.}}
+====Translations====
+{{trans-top|towns in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|新市|tr=Xīnshì|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>93oykxbg4kaw7m0tojhsb1gb20ykeek</sha1>
+</revision>
+</page>

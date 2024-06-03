@@ -1,0 +1,75 @@
+<page>
+<title>yaramaz</title>
+<ns>0</ns>
+<id>954692</id>
+<revision>
+<id>65319237</id>
+<parentid>57912462</parentid>
+<timestamp>2022-01-12T03:36:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Azerbaijani: correct indentation of section 5 (Descendants) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2341" xml:space="preserve">==Azerbaijani==
+{{az-variant|a=یاراماز|r=yaramaz|c=јарамаз}}
+===Etymology===
+From {{suffix|az|yaramaq|alt1=yara-|gloss1=to be good enough|-məz|alt2=maz}}.
+===Pronunciation===
+* {{IPA|az|[jɑrɑˈmɑz]}}
+* {{hyphenation|az|ya|ra|maz}}
+===Adjective===
+{{head|az|adjective}}
+# [[good-for-nothing]]
+#: {{syn|az|yarıtmaz}}
+# [[mischievous]], [[naughty]]
+====Derived terms====
+* {{l|az|yaramazca}}
+** {{l|az|yaramazcasına}}
+* {{l|az|yaramazlıq}}
+====Descendants====
+* {{desc|hy|յարամազ|bor=on}}
+* {{desc|tly|yaramaz|bor=on}}
+===References===
+&lt;references/&gt;
+----
+==Crimean Tatar==
+===Etymology===
+Ultimately a derivation from {{der|crh|trk-pro|*yara-||to be beneficial, useful, successful}}, whence also the derivation {{m|crh|yaramay||bad}}. Equivalent to {{suffix|crh|yaramaq|alt1=yara-|gloss1=to be good enough; to please|-maz}}.
+===Adjective===
+{{head|crh|adjective}}
+# [[bitchy]], [[perverse]], [[naughty]]
+===Noun===
+{{head|crh|noun}}
+# [[mischievous]] [[child]], [[imp]], [[naughty]] child or animal
+#*: {{quote-journal|crh|author=Гирей Баиров|title=Шамрат Халилов из деревни Стиля|journal=Голос Крыма|url=|archiveurl=|archivedate=|location=|publisher=|date=September 29, 2016|volume=38|issue=78|page=|pages=|pageurl=http://goloskrimanew.ru/shamrat-halilov-iz-derevni-stilya.html|passage=Веринъиз манъа бу '''ярамазны'''|transliteration=Veriñiz maña bu yaramaznı!|translation=Give that '''imp '''to me!}}
+# [[piddler]], [[frolicker]], someone who screws around, someone who is being naughty
+# [[villain]]
+====Declension====
+{{crh-latin-noun|nıñ|qa|nı|ta|tan}}
+====Derived terms====
+* {{l|crh|yaramazlanmaq||to fool around}}
+** {{l|crh|yaramazlaşmaq}}
+* {{l|crh|yaramazlıq||naughtiness}}
+===References===
+* {{R:tut-pro:SDM|*yara-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=762&amp;root=config}}
+* {{R:Useinov 2007|ярамаз|page=634}}
+----
+==Talysh==
+===Etymology===
+From {{bor|tly|az|yaramaz}}.
+===Adjective===
+{{head|tly|adjective|Cyrillic|јарамаз}}
+# [[good-for-nothing]]
+# [[mischievous]], [[naughty]]
+===Noun===
+{{head|tly|noun|Cyrillic|јарамаз}}
+# [[scoundrel]], [[villain]]
+===References===
+* {{R:tly:Pireyko|јарамаз|page=115}}</text>
+<sha1>c5vx07zhngjjh8isozmp4w5wrqkz7if</sha1>
+</revision>
+</page>

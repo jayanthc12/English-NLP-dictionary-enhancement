@@ -1,0 +1,24 @@
+<page>
+<title>xeitos</title>
+<ns>0</ns>
+<id>2457645</id>
+<revision>
+<id>57653288</id>
+<parentid>37411060</parentid>
+<timestamp>2019-10-20T07:51:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form|g=m-p|g2=n-p}}
+# {{inflection of|ast|xeitu||m|p}}
+# {{inflection of|ast|xeitu||n|p}}</text>
+<sha1>idiocqafyp1jsx6jzjt28srh1xiw5vv</sha1>
+</revision>
+</page>

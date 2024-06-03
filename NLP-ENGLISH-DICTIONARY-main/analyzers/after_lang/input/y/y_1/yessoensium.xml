@@ -1,0 +1,23 @@
+<page>
+<title>yessoensium</title>
+<ns>0</ns>
+<id>3715427</id>
+<revision>
+<id>66995481</id>
+<parentid>57300966</parentid>
+<timestamp>2022-05-15T09:48:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|yessoēnsis}} (2); combine {{inflection of|la|yessoēnsis}} tag sets gen|m|p and gen|f|p into gen|m//f|p; combine {{inflection of|la|yessoēnsis}} tag sets gen|m//f|p and gen|n|p into gen|m//f//n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|yessoēnsium}}
+# {{inflection of|la|yessoēnsis||gen|m//f//n|p}}</text>
+<sha1>2wyjzqikz9jy2wxsfyw1fj5hpftdgfu</sha1>
+</revision>
+</page>

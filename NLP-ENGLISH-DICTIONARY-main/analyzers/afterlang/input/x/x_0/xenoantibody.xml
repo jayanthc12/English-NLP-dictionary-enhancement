@@ -1,0 +1,25 @@
+<page>
+<title>xenoantibody</title>
+<ns>0</ns>
+<id>7202225</id>
+<revision>
+<id>60462531</id>
+<parentid>52540586</parentid>
+<timestamp>2020-09-21T09:51:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="199" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|antibody}}
+===Noun===
+{{en-noun}}
+# {{lb|en|immunology}} An [[antibody]] produced in one [[species]] to an [[antigen]] derived from a different species</text>
+<sha1>kniykljjzryyuf0cxft8xg92q2sjot0</sha1>
+</revision>
+</page>

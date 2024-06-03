@@ -1,0 +1,30 @@
+<page>
+<title>yawyay</title>
+<ns>0</ns>
+<id>4796326</id>
+<revision>
+<id>44207237</id>
+<parentid>39540978</parentid>
+<timestamp>2017-05-25T00:04:54Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="246" xml:space="preserve">==Quechua==
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|intransitive}} to [[diminish]], be [[lessen]]ed
+====Conjugation====
+{{qu-conj|yawya}}
+===Noun===
+{{head|qu|noun}}
+# [[decrease]], [[diminution]]
+====Declension====
+{{qu-noun-c}}{{qu-poss-c}}</text>
+<sha1>t4f1d9c0vpce0fm6xh2vmzpe294rprz</sha1>
+</revision>
+</page>

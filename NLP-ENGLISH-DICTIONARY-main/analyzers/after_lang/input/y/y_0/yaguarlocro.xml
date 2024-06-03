@@ -1,0 +1,34 @@
+<page>
+<title>yaguarlocro</title>
+<ns>0</ns>
+<id>4164206</id>
+<revision>
+<id>68819900</id>
+<parentid>62085122</parentid>
+<timestamp>2022-08-27T21:17:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="813" xml:space="preserve">==Spanish==
+===Alternative forms===
+* {{alter|es|yahuarlocro}}
+===Etymology===
+Borrowed from {{der|es|qu|-}}/{{bor|es|qwe-kch|yawar||blood}} + {{m|qwe-kch|lukru||soup}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|Ecuador}} a traditional Ecuadorian [[soup]] made of the cleaned viscera of a goat, usually served with fried lamb blood, avocado and pickled red onion rings
+#* {{quote-journal|es|year=|date=September 30 2016|author=|title=Senderismo, deportes y tradiciones, en la Sierra|work=El Universo|url=http://www.eluniverso.com/noticias/2016/09/30/nota/5828626/senderismo-deportes-tradiciones-sierra
+|passage=Penipe atrae más por su comida: tortillas de maíz (cocidas en piedras volcánicas), '''yahuarlocro''' y otras.}}
+===Further reading===
+* {{pedia|lang=es}}
+{{C|es|Soups}}</text>
+<sha1>k8pr9khzzxha60r317e409lm34stl9l</sha1>
+</revision>
+</page>

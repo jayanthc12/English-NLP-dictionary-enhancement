@@ -1,0 +1,29 @@
+<page>
+<title>xtok</title>
+<ns>0</ns>
+<id>5598152</id>
+<revision>
+<id>56402585</id>
+<parentid>44501372</parentid>
+<timestamp>2019-10-18T01:10:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="212" xml:space="preserve">==Tzotzil==
+===Pronunciation===
+* {{qualifier|Zinacantán}} {{IPA|tzo|/ɕtʰɔkʰ/}}
+===Particle===
+{{head|tzo|particle}}
+# [[again]]
+====Synonyms====
+* [[noxtok]]
+===References===
+* {{R:Laughlin1975|štok}}</text>
+<sha1>4zsu8b31zkg754m2djl5fgo8jwtpq00</sha1>
+</revision>
+</page>

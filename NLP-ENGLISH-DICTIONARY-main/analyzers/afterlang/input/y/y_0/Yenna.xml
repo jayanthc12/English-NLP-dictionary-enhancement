@@ -1,0 +1,27 @@
+<page>
+<title>Yenna</title>
+<ns>0</ns>
+<id>4687147</id>
+<revision>
+<id>59988508</id>
+<parentid>55055092</parentid>
+<timestamp>2020-08-07T08:12:54Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="265" xml:space="preserve">==English==
+===Etymology===
+{{rfe|en|May have two origins - there seem to be both Chinese people and Russians with this name.}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|rare}} {{given name|en|female}}.
+===Anagrams===
+* {{anagrams|en|a=aenny|Yen-an|Yenan}}</text>
+<sha1>gy8gkt7c92k3mc50kztvxzquf4d4lco</sha1>
+</revision>
+</page>

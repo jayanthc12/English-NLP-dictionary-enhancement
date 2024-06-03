@@ -1,0 +1,25 @@
+<page>
+<title>yachtlike</title>
+<ns>0</ns>
+<id>1584844</id>
+<revision>
+<id>51863528</id>
+<parentid>26929945</parentid>
+<timestamp>2019-03-15T03:29:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="129" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yacht|like}}
+===Adjective===
+{{en-adj}}
+# Resembling or characteristic of a [[yacht]].</text>
+<sha1>mo7qgjgpjaluwmdlyyg13rp4knh7r1w</sha1>
+</revision>
+</page>

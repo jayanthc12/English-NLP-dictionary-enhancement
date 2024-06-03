@@ -1,0 +1,24 @@
+<page>
+<title>yapare</title>
+<ns>0</ns>
+<id>1286852</id>
+<revision>
+<id>68059404</id>
+<parentid>46281213</parentid>
+<timestamp>2022-07-18T02:39:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yapar]] with 'yapar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">{{also|yaparé}}
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yapar}}</text>
+<sha1>rga2y3z4er9wdsox1xq9086drru18zk</sha1>
+</revision>
+</page>

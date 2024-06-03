@@ -1,0 +1,44 @@
+<page>
+<title>xanthene</title>
+<ns>0</ns>
+<id>269142</id>
+<revision>
+<id>68867492</id>
+<parentid>68601048</parentid>
+<timestamp>2022-08-28T05:49:24Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1155" xml:space="preserve">{{also|xanthène}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{w|international scientific vocabulary}}, reflecting New Latin {{w|classical compound|combining forms}}: {{confix|en|xanth|ene}}.
+===Pronunciation===
+* {{homophones|en|xanthine|xanthein}}
+===Noun===
+{{en-noun}}
+# {{lb|en|organic compound}} any of a group of [[tricyclic]] [[heterocycle]]s ([[dibenzopyran]]s) that are the basis for a range of [[dye]]s such as [[fluorescein]] and [[eosin]]
+====Derived terms====
+* {{l|en|xanthene dye}}
+====Translations====
+{{trans-top|chemistry: any of a group of tricyclic heterocycles}}
+* Catalan: {{t|ca|xantè|m}}
+* Chinese:
+*: Cantonese: {{t|yue|氧雜蒽}}, {{t|yue|氧杂蒽|tr=joeng5 zaap6 jan1}}, {{t|yue|呫噸}}, {{t|yue|呫吨|tr=zim1 deon1}}
+*: Mandarin: {{t|cmn|氧雜蒽}}, {{t|cmn|氧杂蒽|tr=yǎngzá'ēn}}, {{t+|cmn|呫噸}}, {{t+|cmn|呫吨|tr=zhāndūn}}
+{{trans-mid}}
+* Finnish: {{t|fi|ksanteeni}}
+* Irish: {{t|ga|xaintéin|f}}
+* Japanese: {{t|ja|キサンテン|tr=kisanten}}
+* Korean: {{t|ko|잔텐}}, {{t|ko|크산텐}}
+* Portuguese: {{t|pt|xanteno|m}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aeehnntx|annexeth}}</text>
+<sha1>2x1p171vz9ikkqu4gyzjikeyd6or45q</sha1>
+</revision>
+</page>

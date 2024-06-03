@@ -1,0 +1,25 @@
+<page>
+<title>yaassiik</title>
+<ns>0</ns>
+<id>4797765</id>
+<revision>
+<id>68831926</id>
+<parentid>49640092</parentid>
+<timestamp>2022-08-27T23:06:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Yup'ik==
+===Etymology===
+Borrowed from {{bor|esu|ru|я́щик||box}}, from {{der|esu|orv|аскъ}}, {{m|orv|ꙗскъ}}, from {{der|esu|non|askr}}, from {{der|esu|gem-pro|*askaz}}.
+===Noun===
+{{head|esu|noun}}
+# [[box]]</text>
+<sha1>fac7pnbckc14o1pegfzq3vwgjkgidzl</sha1>
+</revision>
+</page>

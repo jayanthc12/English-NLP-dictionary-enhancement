@@ -1,0 +1,25 @@
+<page>
+<title>yaeyamensis</title>
+<ns>0</ns>
+<id>3419659</id>
+<revision>
+<id>53913782</id>
+<parentid>53730855</parentid>
+<timestamp>2019-08-19T06:03:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Manually fix up Latin adjectives (attributive -&gt; relational)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="142" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj|yaeyamēnsis}}
+# {{lb|la|relational|New Latin}} [[Yaeyama]]
+====Declension====
+{{la-adecl|yaeyamēnsis}}</text>
+<sha1>ostlaxbeilm58p5j4es7rawpm55rerz</sha1>
+</revision>
+</page>

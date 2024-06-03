@@ -1,0 +1,24 @@
+<page>
+<title>xulgareis</title>
+<ns>0</ns>
+<id>4334304</id>
+<revision>
+<id>53116638</id>
+<parentid>40132339</parentid>
+<timestamp>2019-05-19T05:11:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'second-person plural pluperfect indicative' to 2|p|plup|ind; canonicalized multiword inflection tag 'second-person plural imperfect preterite subjunctive' to 2|p|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">{{also|xulgaréis}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xulgar||2|p|plup|ind|;|2|p|impf|pret|sub}}</text>
+<sha1>s8d56j2n7taii2waev44at8xz95mhk6</sha1>
+</revision>
+</page>

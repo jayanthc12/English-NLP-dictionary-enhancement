@@ -1,0 +1,33 @@
+<page>
+<title>yamo</title>
+<ns>0</ns>
+<id>6086166</id>
+<revision>
+<id>47786733</id>
+<parentid>47271442</parentid>
+<timestamp>2017-10-15T00:22:58Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>reorder headers according to WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==Tagalog==
+===Noun===
+{{tl-noun|yamò}}
+# [[covetousness]]; [[avarice]]
+# [[stubble]] {{gloss|of beard or cuttings}}
+====Synonyms====
+* {{l|tl|kaimbutan}}
+* {{l|tl|kasakiman}}
+====Related terms====
+{{top2}}
+* {{l|tl|kayamuan}}
+{{mid2}}
+* {{l|tl|mayamo}}
+{{bottom}}</text>
+<sha1>tnkj5q7rfjrcyohgcwt5w5xm441gjdn</sha1>
+</revision>
+</page>

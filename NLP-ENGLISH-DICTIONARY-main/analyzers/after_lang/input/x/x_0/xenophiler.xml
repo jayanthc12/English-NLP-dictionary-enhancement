@@ -1,0 +1,28 @@
+<page>
+<title>xenophiler</title>
+<ns>0</ns>
+<id>6345397</id>
+<revision>
+<id>60597294</id>
+<parentid>54654035</parentid>
+<timestamp>2020-09-27T13:18:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{head|de|adjective form}} to {{head|de|comparative adjective}}; add {{de-adj form of}} for comparative</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xenophiler.ogg|Audio}}
+===Adjective===
+{{head|de|comparative adjective}}
+# {{comparative of|de|xenophil}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xenophil}}</text>
+<sha1>p2qutgrvk08cjw3euqbaw5mur1fepoc</sha1>
+</revision>
+</page>

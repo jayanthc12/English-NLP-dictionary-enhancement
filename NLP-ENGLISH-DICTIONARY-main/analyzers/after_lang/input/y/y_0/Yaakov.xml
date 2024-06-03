@@ -1,0 +1,37 @@
+<page>
+<title>Yaakov</title>
+<ns>0</ns>
+<id>7353574</id>
+<revision>
+<id>54741872</id>
+<parentid>54414754</parentid>
+<timestamp>2019-10-05T17:10:16Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="766" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈjaː.koʊv/|/ja.(ʔ)aˈkoʊv/}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|Judaism}} The son of [[Yitzhak]] and [[Rivka]], [[twin]] brother of [[Esav]], and patriarch of the [[Jews]].
+#*{{quote-journal
+|en
+|url=https://www.tikkun.org/book-review-textual-activism-by-rabbi-mike-moskowitz
+|year=2019
+|author=Rachel Timoner
+|journal=Tikkun
+|title=Book Review: Textual Activism by Rabbi Mike Moskowitz
+|text=In contrast, '''Yaakov''' is associated with the month of Elul, a month characterized by contemplation, in which we, '''Yaakov'''’s children, consider our own needed transformation.}}
+#:{{syn|en|Jacob}}
+===Anagrams===
+* {{anagrams|en|a=aakovy|Yakova}}
+{{topics|en|Biblical characters|Individuals}}</text>
+<sha1>t4vfsluqik7gcqiolzqcinvdh4b93mv</sha1>
+</revision>
+</page>

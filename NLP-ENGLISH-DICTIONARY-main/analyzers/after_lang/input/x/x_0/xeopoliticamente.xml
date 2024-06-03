@@ -1,0 +1,25 @@
+<page>
+<title>xeopoliticamente</title>
+<ns>0</ns>
+<id>7249127</id>
+<revision>
+<id>68876100</id>
+<parentid>60336278</parentid>
+<timestamp>2022-08-28T06:31:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Galician==
+===Etymology===
+From {{af|gl|xeopolítico|-mente}} or {{prefix|gl|xeo|politicamente}}.
+===Adverb===
+{{gl-adv}}
+# [[geopolitically]]</text>
+<sha1>7ts58jkj944g6wudyv3vqwrxr5elgym</sha1>
+</revision>
+</page>

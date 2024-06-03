@@ -1,0 +1,55 @@
+<page>
+<title>yahrzeit</title>
+<ns>0</ns>
+<id>269393</id>
+<revision>
+<id>60927504</id>
+<parentid>59488884</parentid>
+<timestamp>2020-10-24T04:02:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{PIE root}} to {{root|...|ine-pro}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4416" xml:space="preserve">==English==
+{{was wotd|2020|April|20}}
+===Etymology===
+{{PIE word|en|yóh₁r̥}}{{root|en|ine-pro|*dī-}}
+[[File:US Navy 070426-N-4965F-003 Six memorial candles are lit during a Holocaust Remembrance Day ceremony at Sharkey Theater on board Naval Station Pearl Harbor.jpg|thumb|Yahrzeit candles lit for a {{w|Yom HaShoah}} or [[Holocaust]] [[remembrance|Remembrance]] [[day|Day]] [[ceremony]] at {{w|Naval Station Pearl Harbor}} in [[Hawaii]], USA, in April 2007.]]
+Borrowed from {{bor|en|yi|יאָרצײַט}}, from {{der|en|gmh|jārzīt|t=anniversary; Christian commemoration of a person’s death}}; from {{der|en|gmh|jār|t=year}} (from {{der|en|goh|jār|t=year}}, ultimately from {{der|en|ine-pro|*yóh₁r̥|*yéh₁n-|year}}) + {{der|en|gmh|zīt|t=time}} (from {{der|en|goh|zīt|t=time}}, ultimately from {{der|en|ine-pro|*dī-|t=time}}).&lt;ref&gt;Compare {{R:OED Online|pos=n|id=231129|date=September 2018|nodot=yes}}; {{R:Lexico|pos=n}}&lt;/ref&gt; The Yiddish word is cognate with {{cog|de|Jahreszeit|t=season}}, which heavily influenced the spelling and pronunciation once the word was borrowed into English. {{doublet|en|yeartide}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈjɑːtsaɪt/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yahrzeit.wav|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˈjɑɹtsaɪt/}}
+* {{hyphenation|en|yahr|zeit}}
+===Noun===
+{{en-noun}}
+# {{lb|en|Judaism}} The [[anniversary]] of a [[person]]'s death, usually a [[parent#Noun|parent]]'s, often [[mark#Verb|marked]] by the [[light#Verb|lighting]] of a [[memorial#Adjective|memorial]] [[candle]] and other [[ritual]]s.
+#* {{quote-journal|en|author=Richard Wheatley|title=The Jews in New York.—II.|magazine=[[w:The Century Magazine|The Century Illustrated Magazine]]|location=New York, N.Y.|publisher=[[w:The Century Company|The Century Co.]]; London: [[w:T. Fisher Unwin|T[homas] Fisher Unwin]]|month=February|year=1892|volume=XLIII|issue=4|page=516|pageurl=https://archive.org/details/centuryillustrat43newyuoft/page/516/mode/1up|oclc=692496497|passage=&quot;'''Yahrzeit'''&quot; (year's time) is the anniversary of the parent's death. On the evening preceding, a light is kindled in the house, and kept burning until the following sundown. Synagogue service in the morning and evening is also attended, and the kaddish recited. &quot;Nahala&quot; (inheritance) is the poetic equivalent of the Spanish and Portuguese Jews for the Teutonic '''Yahrzeit'''.}}
+#* {{quote-journal|en|author=Leon Spitz|title=[[w:Tisha B'Av|Tisha b’Ab]]—The yahrzeit of every Jew|newspaper=[[w:Canadian Jewish Review|The Canadian Jewish Chronicle]]|location=Montreal, Que.|publisher=The Eagle Publishing Company|date=1 August 1930|page=1|pageurl=https://news.google.com/newspapers?id=pe5OAAAAIBAJ&amp;sjid=9ksDAAAAIBAJ&amp;pg=2415%2C753135|issn=0384-9775|oclc=937495816|passage=Sad to say, the '''Yahrzeit''' of every-Jew is fading away from the memory of the average Jew in America.}}
+#* {{quote-journal|en|author=Leon Wieseltier|authorlink=Leon Wieseltier|title=A Year Later|url=https://newrepublic.com/article/66433/year-later|editor={{w|Peter Beinart}}|magazine={{w|The New Republic}}|location=New York, N.Y.|publisher=The Republic Publishing Company|date=2 September 2002|issn=0028-6583|oclc=648332520|passage=The '''yahrzeit''' is here, and the least lachrymose country on earth is devising its rituals of commemoration.}}
+#* {{quote-journal|en|author=Irwin Cohen|title=Hank Greenberg’s 30th yahrzeit|archiveurl=https://web.archive.org/web/20170113115331/http://www.jewishpress.com/sections/sports/baseball-insider/hank-greenbergs-30th-yahrzeit/2016/08/10/|archivedate=13 January 2017|newspaper={{w|The Jewish Press}}|location=New York, N.Y.|publisher=The Jewish Press|date=10 August 2016|issn=0021-6674|oclc=992639836|passage=Let's remember {{w|Hank Greenberg}}'s '''''yahrzeit''''', the 30th of Av, which falls this year on Sept. 3.}}
+====Alternative forms====
+* {{alter|en|jahrzeit|yahrtzeit|yartseit|yartzeit|yortsayt|yortseit}}
+====Derived terms====
+* {{l|en|yahrzeit candle}}
+====Translations====
+{{trans-top|(''Judaism'') anniversary of a person's death}}
+* Hebrew: {{t+|he|נַחֲלָה|f|tr=nakhalá}}
+* Spanish: {{t|es|aniversario luctuoso|m}}
+{{trans-mid}}
+* Yiddish: {{t+|yi|יאָרצײַט|m|f}}
+{{trans-bottom}}
+====See also====
+* {{l|en|deathday}}
+===References===
+&lt;references /&gt;
+===Further reading===
+* {{pedia|bereavement in Judaism}}
+[[Category:en:Observances]]</text>
+<sha1>r8zw4i74rypgw7891qhllhxrn6w0oni</sha1>
+</revision>
+</page>

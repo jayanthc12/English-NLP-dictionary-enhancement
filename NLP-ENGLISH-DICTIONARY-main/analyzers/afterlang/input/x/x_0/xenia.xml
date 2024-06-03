@@ -1,0 +1,65 @@
+<page>
+<title>xenia</title>
+<ns>0</ns>
+<id>257317</id>
+<revision>
+<id>69395494</id>
+<parentid>69395489</parentid>
+<timestamp>2022-09-29T03:35:17Z</timestamp>
+<contributor>
+<ip>83.9.214.101</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1252" xml:space="preserve">{{also|Xenia|xénia|xenía|xenią|Xénia}}
+==English==
+{{slim-wikipedia}}
+===Etymology===
+From {{bor|en|NL.|xenia}}, from {{der|en|grc|ξενίᾱ||hospitality}}.
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenium}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|classical studies}} The concept of [[hospitality]] to strangers.
+# {{lb|en|botany}} The effect that [[gene]]s from [[pollen]] have on the [[endosperm]].
+====Translations====
+{{trans-top|ancient concept of hospitality}}
+* Ido: {{t+|io|xenio}}
+* Slovak: {{t|sk|xénia|f}}
+{{trans-mid}}
+* Spanish: {{t|es|xenía}}
+{{trans-bottom}}
+====Derived terms====
+* {{l|en|carpoxenia}}
+* {{l|en|metaxenia}}
+===See also===
+* {{pedia|Xenia (Greek)}}
+----
+==Latin==
+===Noun===
+{{la-noun-form|xenia}}
+# {{inflection of|la|xenium||nom//acc//voc|p}}
+===References===
+* {{R:Peck}}
+* {{R:Smith's Persons}}
+* {{R:Smith's Antiquities}}
+----
+==Polish==
+{{wp|lang=pl}}
+===Etymology===
+{{bor+|pl|grc|ξενίᾱ}}.
+===Pronunciation===
+{{pl-p|kseńja|h=xen.ia|hh=Ksenia}}
+===Noun===
+{{pl-noun|f}}
+# {{lb|pl|poetry}} ''{{w|Xenien}}'' {{gl|biting epigram in the form of a two-line poem}}
+====Declension====
+{{pl-decl-noun-f}}
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+{{C|pl|Literary genres}}</text>
+<sha1>t0csps7ap7pz2tlfjwmcnlc93tf7fbv</sha1>
+</revision>
+</page>

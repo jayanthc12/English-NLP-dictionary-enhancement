@@ -1,0 +1,27 @@
+<page>
+<title>XTM</title>
+<ns>0</ns>
+<id>2701233</id>
+<revision>
+<id>58637129</id>
+<parentid>54612429</parentid>
+<timestamp>2020-02-05T04:29:59Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="232" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|computing}} {{initialism of|en|[[XML]] [[topic map]]}}
+===References===
+* {{pedia|Reification (computer science)#Reification in Topic Maps}}
+===Anagrams===
+* {{anagrams|en|a=mtx|MTX}}</text>
+<sha1>41ikwll6ppmgpck02097iq2d4qz5bhi</sha1>
+</revision>
+</page>

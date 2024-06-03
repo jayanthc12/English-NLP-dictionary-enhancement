@@ -1,0 +1,30 @@
+<page>
+<title>ydinaseettomuus</title>
+<ns>0</ns>
+<id>4405244</id>
+<revision>
+<id>69318117</id>
+<parentid>51944493</parentid>
+<timestamp>2022-09-18T17:01:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="374" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|ydinaseeton|uus|t1=nuclear-free|t2=-ness}}
+===Pronunciation===
+{{fi-p|ydin-aseettomuus}}
+===Noun===
+{{fi-noun}}
+# The state or status of being [[nuclear-free]].
+#: '''''Ydinaseettomuus''' ei takaa turvallisuutta.''
+#:: '''Being nuclear-free''' is no guarantee for security.
+====Declension====
+{{fi-decl-kalleus|ydinaseettomuu|a}}</text>
+<sha1>traex56eoi8qdbjc4f4er59oe4luz7f</sha1>
+</revision>
+</page>

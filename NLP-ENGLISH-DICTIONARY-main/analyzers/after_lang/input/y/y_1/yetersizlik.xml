@@ -1,0 +1,27 @@
+<page>
+<title>yetersizlik</title>
+<ns>0</ns>
+<id>3749502</id>
+<revision>
+<id>48457597</id>
+<parentid>48457237</parentid>
+<timestamp>2018-01-22T00:58:51Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Fixed vowel harmony on tr-infl-noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="187" xml:space="preserve">==Turkish==
+===Noun===
+{{tr-noun|yetersizliği|ler}}
+# [[insufficiency]]
+====Declension====
+{{tr-infl-noun-c|i|pred=1|poss=1|stem=yetersizliğ}}
+====Antonyms====
+* {{l|tr|yeterlilik}}</text>
+<sha1>3b44c7v42szjbrf7hugid2wgjghitip</sha1>
+</revision>
+</page>

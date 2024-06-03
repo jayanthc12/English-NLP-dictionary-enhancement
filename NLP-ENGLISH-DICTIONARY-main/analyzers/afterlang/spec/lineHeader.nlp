@@ -1,0 +1,22 @@
+###############################################
+# FILE: lineHeader
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-12-6 21:8:58
+# MODIFIED:
+###############################################
+
+@NODES _ROOT 
+
+
+@PRE
+<1,1> var("lang");
+@POST
+S("header") = N("header");
+S("lang") = N("lang");
+single();
+
+@RULES
+_langHeader <-
+	_headerZone	### (1)
+	@@	

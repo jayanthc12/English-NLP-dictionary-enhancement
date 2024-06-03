@@ -1,0 +1,28 @@
+<page>
+<title>xenolect</title>
+<ns>0</ns>
+<id>5576599</id>
+<revision>
+<id>61117902</id>
+<parentid>58544866</parentid>
+<timestamp>2020-11-14T08:29:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1493" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|lect}}
+===Noun===
+{{en-noun}}
+# A [[language]] [[variety]] that bears a [[superficial]] [[resemblance]] to another larger language, but which differs at a [[fundamental]] [[structural]] level.
+#* {{quote-book|en|title=English across Cultures. Cultures across English |author=Ofelia García &amp; Ricardo Otheguy |year=1989 |page= |ISBN=3110848325 |passage=The &quot;other dialect&quot; may not need a special term for it, since it is the structurally unmarked, frame-of-reference variety which may be taken as defining that which is &quot;normal&quot; in the '''xenolect''' as well. But were a term to be needed for the non-xenolectal dialect(s), an appropriate one might be matrilect, making up as it does the matrix in which a '''xenolect''' is embedded. }}
+#* {{quote-book|en|title=Ghetto Ideologies, Youth Identities and Stylized Turkish German |author=H. Julia Eksner |year=2006 |page=101 |ISBN=382588841X |passage=For this reason she classifies Rinkebysvenska as &quot;a '''xenolect''', which relies not on radical restructuring, but on a small but symbolically significant amount of influence from immigrant language(s) to render it identifiably different from standard.&quot; }}
+#* {{quote-book|en|title=Translating Contemporary Mexican Texts |author=Anna Maria D'Amore |year=2009 |page=110 |ISBN=1433104997 |passage=As a '''xenolect''' develops, it becomes ''mimolect'', that is, a variety whose external appearance resembles that of another (Stewart, 1989: 263-280). }}</text>
+<sha1>lr4ejii6l68iet0etv9h7j2xlu2jy1g</sha1>
+</revision>
+</page>

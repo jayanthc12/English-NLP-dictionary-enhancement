@@ -1,0 +1,32 @@
+<page>
+<title>xebba</title>
+<ns>0</ns>
+<id>4034511</id>
+<revision>
+<id>64440449</id>
+<parentid>64440443</parentid>
+<timestamp>2021-10-27T14:33:49Z</timestamp>
+<contributor>
+<ip>90.186.170.208</ip>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="617" xml:space="preserve">==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَابَّة}}, feminine of {{m|ar|شابّ}}. Equivalent to archaic {{suffix|mt|xebb|-a}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛb.ba/}}
+* {{homophones|mt|xebba'|q=except archaically}}
+===Noun===
+{{mt-noun|g=f|p=xebbiet|m=xebb|dim=xbejba}}
+# female [[adolescent]] or [[young]] [[woman]]; [[girl]] (in this sense)
+#: {{syn|mt|tfajla}}
+# [[bachelorette]], [[damsel]] {{gloss|unmarried girl or woman}}
+# {{lb|mt|religion|or|dated}} [[virgin]], [[maiden]] {{gloss|girl or woman without sexual experience}}
+#: {{syn|mt|verġni}}
+====Related terms====
+* {{l|mt|xbubija}}</text>
+<sha1>9crxuu7qzbo76pbg4vafxino7w2f24v</sha1>
+</revision>
+</page>

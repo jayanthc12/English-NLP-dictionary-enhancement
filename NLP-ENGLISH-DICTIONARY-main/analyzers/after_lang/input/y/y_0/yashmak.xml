@@ -1,0 +1,72 @@
+<page>
+<title>yashmak</title>
+<ns>0</ns>
+<id>197117</id>
+<revision>
+<id>69127398</id>
+<parentid>68534705</parentid>
+<timestamp>2022-09-05T04:19:10Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2400" xml:space="preserve">==English==
+{{wikipedia}}
+{{rfi|en}}
+===Alternative forms===
+* {{l|en|yashmac}}
+* {{l|en|yashmack}}
+===Etymology===
+From {{uder|en|tr|yaşmak}}.&lt;ref&gt;[http://www.merriam-webster.com/dictionary/yashmak &quot;yashmak.&quot;] ''Merriam-Webster Online Dictionary.'' Merriam-Webster. 2008.&lt;/ref&gt;
+===Pronunciation===
+* {{hyphenation|en|yash|mak}}
+===Noun===
+{{en-noun}}
+# A [[veil]] worn by [[Muslim]] women to cover parts of the face when they are in public.
+#* '''1982''', {{w|TC Boyle}}, ''Water Music'', Penguin 2006, p. 46:
+#*: Mungo cannot make out her face, which is concealed behind a '''''yashmak''''' – the double horsehair veil worn by Muslim women in public – but he is immediately struck by her feet and hands.
+====Synonyms====
+* {{sense|veil that covers parts of the face}} {{l|en|niqab}}, {{l|en|veil}}, {{l|en|hijab}}, {{l|en|purdah}}, {{l|en|scarf}}
+====Translations====
+{{trans-top|a veil worn by Muslim women}}
+* Arabic: {{t|ar|خِمَار|m}}, {{t|ar|نِقَاب|m}}
+* Azerbaijani: {{t|az|yaşmaq}}
+* Chinese:
+*: Mandarin: {{t+|cmn|面紗|sc=Hani}}, {{t+|cmn|面纱|tr=miànshā|sc=Hani}}
+* Czech: {{t+|cs|nikáb|m}}
+* Dutch: {{t+|nl|nikab}}
+* Finnish: {{t+|fi|niqab}}
+* French: {{t+|fr|litham|m}}, {{t+|fr|voile|m}}, {{t+|fr|niqab|m}}
+* German: {{t+|de|Schleier|f}}, {{t+|de|Niqab|m}}
+* Hindi: {{t|hi|निक़ाब|m}}, {{t+|hi|नकाब|m}}
+* Hungarian: {{t|hu|nikáb}}, {{t|hu|jasmak}}
+* Indonesian: {{t|id|niqab}}, {{t+|id|purdah}}
+* Japanese: {{t|ja|ヤシュマク|tr=yashumaku}}
+* Kazakh: {{t|kk|ниқаб|sc=Cyrl}}
+{{trans-mid}}
+* Malay: {{t|ms|niqab}}, {{t|ms|purdah}}
+* Maltese: {{t|mt|yaxmak|m}}
+* Persian: {{t+|fa|روبنده|tr=rubande}}, {{t+|fa|نقاب|tr=neqâb|sc=fa-Arab}}
+* Polish: {{t+|pl|nikab|m}}, {{t|pl|kwef|m}}, {{t+|pl|czarczaf|m}}, {{t+|pl|jaszmak|m}}
+* Portuguese: {{t+|pt|niqab|m}}
+* Russian: {{t+|ru|чадра́|f}}, {{t|ru|яшма́к|m}}, {{t+|ru|вуа́ль|f}}, {{t+|ru|ника́б|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|зар|m|sc=Cyrl}}, {{t|sh|марама|f|sc=Cyrl}}, {{t|sh|вео|m|sc=Cyrl}}
+*: Roman: {{t+|sh|zar|m}}, {{t+|sh|marama|f}}, {{t+|sh|veo|m}}
+* Spanish: {{t|es|nicab|m}}
+* Swedish: {{t+|sv|niqab|c}}, {{t|sv|nikab|c}}
+* Turkish: {{t+|tr|yaşmak}}
+* Urdu: {{t|ur|نقاب|m|tr=niqāb}}
+{{trans-bottom}}
+===References===
+&lt;references /&gt;
+===Anagrams===
+* {{anagrams|en|a=aahkmsy|Samkhya}}
+[[Category:en:Headwear]]</text>
+<sha1>kasp3zvfgv0mxrgq79ocd1id7ub1y7h</sha1>
+</revision>
+</page>

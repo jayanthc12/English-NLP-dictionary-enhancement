@@ -1,0 +1,28 @@
+<page>
+<title>yhdysnomini</title>
+<ns>0</ns>
+<id>316121</id>
+<revision>
+<id>69318397</id>
+<parentid>61954745</parentid>
+<timestamp>2022-09-18T17:16:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="220" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhdys|nomini}}
+===Pronunciation===
+{{fi-p|yhdys-nomini}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|grammar}} [[nominal]] [[compound]]
+====Declension====
+{{fi-decl-paperi|yhdysnomin|a}}</text>
+<sha1>cm2m867chl95r1051a6hdo5ltzgren6</sha1>
+</revision>
+</page>

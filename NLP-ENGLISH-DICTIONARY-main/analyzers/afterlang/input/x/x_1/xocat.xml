@@ -1,0 +1,25 @@
+<page>
+<title>xocat</title>
+<ns>0</ns>
+<id>3385044</id>
+<revision>
+<id>64460239</id>
+<parentid>54723845</parentid>
+<timestamp>2021-10-28T12:19:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|at|s=2}}
+===Verb===
+{{ca-pp|xoca}}
+# {{ca-verb form of|t=past|m=ptc|xocar}}</text>
+<sha1>faacfj9kum7q8zxpiwb7jh3j7jw1hcc</sha1>
+</revision>
+</page>

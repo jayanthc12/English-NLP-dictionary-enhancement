@@ -1,0 +1,45 @@
+<page>
+<title>yeme</title>
+<ns>0</ns>
+<id>3700775</id>
+<revision>
+<id>67658373</id>
+<parentid>64235816</parentid>
+<timestamp>2022-07-06T13:55:22Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert imperatives to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1245" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yemen}}, {{m|enm|ȝemen||to heed, pay attention, observe, keep}}, from {{inh|en|ang|ġīeman}}, from {{inh|en|gem-pro|*gaumijaną||to heed, notice, observe, keep}}. Cognate with {{cog|is|geyma}}, {{cog|no|-}} {{m|nb|gjømme}}, {{cog|sv|gömma}}, {{cog|da|gemme}}, {{cog|fo|geymi}}, {{cog|gsw|gaume}}, {{cog|got|𐌲𐌰𐌿𐌼𐌾𐌰𐌽}}. {{doublet|en|gaum}} {{gloss|&quot;to understand, comprehend&quot;}}, {{m|en|gorm|t=to gape, gawk}}, and {{m|en|goam|t=to recognise, pay attention}}, all from {{cog|enm|gome}}, from {{cog|non|gaum}}.
+===Verb===
+{{en-verb}}
+# {{lb|en|obsolete}} To [[keep]], to [[observe]], to [[pay]] [[attention]].
+#* '''1906''', William Henry Schofield, ''English Literature'':
+#*: Nothing Jesus Christ more [[queme]]th (pleaseth) Than love in wedlock where men it '''yemeth''' (keepeth);
+----
+==Ga'anda==
+===Noun===
+{{head|gqa|noun|head=yème}}
+# {{lb|gqa|Gabin}} [[water]]
+====Synonyms====
+* {{l|gqa|yema|yèma}} {{qualifier|Ga'anda}}
+===References===
+* {{R:egy:EDE|volume=3|p=201}}:
+*: Ga'anda yèma [Zima], Gabin yème [Zima]
+----
+==Turkish==
+===Noun===
+{{tr-noun|yi|ler}}
+# {{verbal noun of|tr|yemek}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yemek}}</text>
+<sha1>mwgxxgxe47ii4cd9eec5x16bg2ivyob</sha1>
+</revision>
+</page>

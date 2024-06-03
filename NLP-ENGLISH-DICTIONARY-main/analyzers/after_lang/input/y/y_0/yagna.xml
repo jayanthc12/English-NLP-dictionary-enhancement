@@ -1,0 +1,26 @@
+<page>
+<title>yagna</title>
+<ns>0</ns>
+<id>5101175</id>
+<revision>
+<id>54991215</id>
+<parentid>50907773</parentid>
+<timestamp>2019-10-10T16:40:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">{{also|þagna}}
+==English==
+===Noun===
+{{en-noun|~}}
+# {{alt form|en|yajna}}
+===Anagrams===
+* {{anagrams|en|a=aagny|agayn}}</text>
+<sha1>6435ft6nezoo10k5pggol2166iaqr4e</sha1>
+</revision>
+</page>

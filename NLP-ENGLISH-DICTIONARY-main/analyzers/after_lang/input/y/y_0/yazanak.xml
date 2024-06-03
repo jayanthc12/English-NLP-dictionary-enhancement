@@ -1,0 +1,28 @@
+<page>
+<title>yazanak</title>
+<ns>0</ns>
+<id>3703598</id>
+<revision>
+<id>48457077</id>
+<parentid>48452668</parentid>
+<timestamp>2018-01-22T00:52:17Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed 2= from tr-infl-noun-c</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">==Turkish==
+===Noun===
+{{tr-noun|yazanağı|lar}}
+# [[report]]
+# {{lb|tr|healthcare}} [[health]] [[report]]
+====Declension====
+{{tr-infl-noun-c|a|poss=1|stem=yazanağ}}
+====Synonyms====
+* {{l|tr|rapor}}</text>
+<sha1>m5y5w594akmiwd390zcw3uufnpk0nz2</sha1>
+</revision>
+</page>

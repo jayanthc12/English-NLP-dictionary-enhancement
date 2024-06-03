@@ -1,0 +1,35 @@
+<page>
+<title>xerophthalmic</title>
+<ns>0</ns>
+<id>288422</id>
+<revision>
+<id>64460189</id>
+<parentid>63027904</parentid>
+<timestamp>2021-10-28T12:17:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="510" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xerophthalmia|ic}}
+===Pronunciation===
+* {{rhymes|en|ælmɪk|s=4}}
+===Adjective===
+{{en-adj}}
+# Of or pertaining to [[xerophthalmia]].
+#: {{ux|en|After becoming deficient in vitamin A, the patient became '''xerophthalmic'''.}}
+====Translations====
+{{trans-top|of or pertaining to xerophthalmia}}
+* French: {{t|fr|xérophtalmique}}
+* Italian: {{t|it|xeroftalmico}}
+{{trans-mid}}
+* Portuguese: {{t|pt|xeroftálmico}}
+* Spanish: {{t|es|xeroftálmico}}
+{{trans-bottom}}</text>
+<sha1>td721aw7hzu63b6vxlmnl178si0c8yp</sha1>
+</revision>
+</page>

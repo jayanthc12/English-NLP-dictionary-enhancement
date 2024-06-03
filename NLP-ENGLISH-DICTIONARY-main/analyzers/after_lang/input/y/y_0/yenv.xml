@@ -1,0 +1,27 @@
+<page>
+<title>yenv</title>
+<ns>0</ns>
+<id>1479142</id>
+<revision>
+<id>63426998</id>
+<parentid>44987232</parentid>
+<timestamp>2021-07-26T03:20:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="200" xml:space="preserve">==Mapudungun==
+===Noun===
+[[File:Humpback Whale fg1.jpg|thumb|right|A humpback whale.]]
+{{head|arn|noun}} {{arn-sp|r}}
+# [[whale]]
+===References===
+* {{R:Wixaleyiñ 2008}}
+[[Category:arn:Mammals]]</text>
+<sha1>jpi8qd3v2ap8rjldoqs70o9ys0xhzda</sha1>
+</revision>
+</page>

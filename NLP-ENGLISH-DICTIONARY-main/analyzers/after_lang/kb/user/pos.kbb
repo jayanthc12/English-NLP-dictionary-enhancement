@@ -1,0 +1,17 @@
+topconcept
+  interjection: pos=intj
+    intj: pos=intj
+  noun: pos=noun
+    noun: pos=noun
+  pronoun: pos=pron    
+    pron: pos=pron
+  adjective: pos=adj
+    adj: pos=adj
+  determiner: pos=det
+    det: pos=det
+  adverb: pos=adv
+    adv: pos=adv
+  conjunction: pos=conj
+    conj: pos=conj  
+  verb: pos=verb
+    verb: pos=verb  

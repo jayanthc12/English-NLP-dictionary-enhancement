@@ -1,0 +1,27 @@
+<page>
+<title>xylotheque</title>
+<ns>0</ns>
+<id>6367100</id>
+<revision>
+<id>68849757</id>
+<parentid>49640084</parentid>
+<timestamp>2022-08-28T03:17:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">{{also|xylothèque}}
+==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|fr|xylothèque}}.
+===Noun===
+{{en-noun}}
+# A [[collection]] of [[sample]]s of various types of [[wood]].</text>
+<sha1>ldpdixzwn2bghzzkq37y03m0odydw5j</sha1>
+</revision>
+</page>

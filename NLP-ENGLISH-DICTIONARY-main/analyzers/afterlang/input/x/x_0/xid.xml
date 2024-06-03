@@ -1,0 +1,28 @@
+<page>
+<title>xid</title>
+<ns>0</ns>
+<id>273568</id>
+<revision>
+<id>45972318</id>
+<parentid>15537642</parentid>
+<timestamp>2017-06-02T12:15:52Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Yatzachi Zapotec==
+===Noun===
+{{head|zav|noun}}
+# [[cat]]
+----
+==Zoogocho Zapotec==
+===Noun===
+{{head|zpq|noun}}
+# [[cat]]</text>
+<sha1>eacjsxnr55xbmd0ar520t0ea3p5zuj7</sha1>
+</revision>
+</page>

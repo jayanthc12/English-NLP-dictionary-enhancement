@@ -1,0 +1,21 @@
+<page>
+<title>xalarem</title>
+<ns>0</ns>
+<id>7124550</id>
+<revision>
+<id>51645060</id>
+<timestamp>2019-02-28T01:49:48Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=pl|t=futr|m=ind|xalar}}</text>
+<sha1>e46dni1dr7otzh7sxez4ffyhax0j8cr</sha1>
+</revision>
+</page>

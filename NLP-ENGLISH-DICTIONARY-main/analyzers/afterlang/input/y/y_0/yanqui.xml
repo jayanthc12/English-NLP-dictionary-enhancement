@@ -1,0 +1,60 @@
+<page>
+<title>yanqui</title>
+<ns>0</ns>
+<id>4302</id>
+<revision>
+<id>68881051</id>
+<parentid>64988265</parentid>
+<timestamp>2022-08-28T07:06:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1179" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|Yanqui}}
+===Etymology===
+From {{bor|en|es|-}}, in turn from {{der|en|en|Yankee}}, from {{der|en|nl|-}} (see more at said entry). Dated to 1914.&lt;ref&gt;http://www.unz.org/Pub/Century-1914mar-00653&lt;/ref&gt;
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjaŋkɪ/}}
+* {{a|US}} {{IPA|en|/ˈjæŋki/|/ˈjɑŋki/}}
+* {{rhymes|en|æŋki|s=2}}
+===Noun===
+{{en-noun}}
+# {{lb|en|sometimes|derogatory}} A [[citizen]] of the [[United States of America]], as opposed to a [[Latin America]]n.
+====Related terms====
+* {{l|en|Yankee}}
+===References===
+&lt;references /&gt;
+{{C|en|United States}}
+----
+==Spanish==
+===Alternative forms===
+* {{alter|es|yankee|yanki}}
+===Etymology===
+Borrowed from {{bor|es|en|Yankee}}, from {{der|es|nl|-}} (see more at said entry).
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|mf}}
+# [[Yankee]] {{gloss|native or inhabitant of the U.S.}}
+===Adjective===
+{{es-adj}}
+# [[Yankee]]
+====Derived terms====
+* {{l|es|pitiyanqui}}
+====Coordinate terms====
+* {{l|es|estadounidense}}
+* {{l|es|gringo}}
+* {{l|es|norteamericano}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Baseball|United States}}
+{{C|es|Demonyms}}</text>
+<sha1>537so2ildcjv0oxerm3fjypy7k62qdf</sha1>
+</revision>
+</page>

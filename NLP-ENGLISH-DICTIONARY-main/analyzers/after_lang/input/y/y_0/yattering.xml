@@ -1,0 +1,28 @@
+<page>
+<title>yattering</title>
+<ns>0</ns>
+<id>1345526</id>
+<revision>
+<id>55046552</id>
+<parentid>52485307</parentid>
+<timestamp>2019-10-12T06:36:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="453" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yatter|nocat=1}}
+===Noun===
+{{en-noun}}
+# trivial talk; prattle
+#* '''2002''', Laurence-Khantipalo Mills, ''Noble Friendship: Travels of a Buddhist Monk'' (page 118)
+#*: I felt a strong inclination to find a cave or hermitage and retire there from the mad world, hoping no doubt to find some peace from the '''yatterings''' of the mind crazy with greed, hatred, and delusion.</text>
+<sha1>621zprhg8tuuoglkbt4wlhk8aefyh3x</sha1>
+</revision>
+</page>

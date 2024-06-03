@@ -1,0 +1,59 @@
+<page>
+<title>yakal</title>
+<ns>0</ns>
+<id>6333768</id>
+<revision>
+<id>54485633</id>
+<parentid>53230196</parentid>
+<timestamp>2019-10-01T02:48:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1167" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|ceb|yakal}}.
+===Noun===
+{{en-noun|~}}
+# {{lb|en|Philippines}} {{taxlink|Shorea astylosa|species|ver=180325}}; a tree [[endemic]] to the [[Philippines]].
+# The wood from this tree.
+===Anagrams===
+* {{anagrams|en|a=aakly|Kayla}}
+[[Category:en:Malvales order plants]]
+[[Category:en:Woods]]
+----
+==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|ya|kal}}
+===Noun===
+{{head|ceb|noun}}
+# {{l|en|yakal}} ({{taxlink|Shorea astylosa|species|ver=180325}})
+# the wood from this tree
+[[Category:ceb:Malvales order plants]]
+[[Category:ceb:Trees]]
+[[Category:ceb:Woods]]
+----
+==Masbatenyo==
+===Noun===
+{{head|msb|noun|head=yakál}}
+# {{l|en|yakal}} ({{taxlink|Shorea astylosa|species|ver=180707}})
+----
+==Tagalog==
+===Noun===
+{{tl-noun|yakál}}
+# {{l|en|yakal}} ({{taxlink|Shorea astylosa|species|ver=180707}})
+# The [[hardwood]] or [[lumber]] from this tree.
+{{C|tl|Malvales order plants|Trees|Woods}}
+----
+==Waray-Waray==
+===Noun===
+{{head|war|noun|head=yakál}}
+# a [[kind]] of [[timber]] [[tree]] ({{taxlink|Hopea plagata|species|ver=180325}}) {{rfv-sense|war}}
+# [[hardwood]] or [[lumber]] from Hopea plagata</text>
+<sha1>t7r9p5pw34upb7lr12023lnbi7sp5vg</sha1>
+</revision>
+</page>

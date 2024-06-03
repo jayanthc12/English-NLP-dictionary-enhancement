@@ -1,0 +1,28 @@
+<page>
+<title>xolela</title>
+<ns>0</ns>
+<id>6944682</id>
+<revision>
+<id>53998424</id>
+<parentid>50626099</parentid>
+<timestamp>2019-08-26T10:54:04Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Zulu */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Zulu==
+===Etymology===
+From {{affix|zu|xola|alt1=-xola|-ela}}.
+===Verb===
+{{zu-verb|xolela}}
+# {{lb|zu|transitive}} to [[forgive]]
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||3.2.9}}</text>
+<sha1>ghex1czbbc464inomfvvbqhaduuel7p</sha1>
+</revision>
+</page>

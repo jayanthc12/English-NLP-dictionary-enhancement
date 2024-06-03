@@ -1,0 +1,46 @@
+<page>
+<title>Yersinia</title>
+<ns>0</ns>
+<id>4036579</id>
+<revision>
+<id>66262135</id>
+<parentid>65429631</parentid>
+<timestamp>2022-03-29T21:44:16Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<comment>RFI fulfilled</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2281" xml:space="preserve">{{also|yersinia}}
+==Translingual==
+[[File:Yersinia pestis.jpg|thumb|Yersinia pestis, the causative agent of the plague and one of the principal clinically relevant species of yersinia.]]
+[[File:Yersinia pestis fluorescent.jpeg|thumb|''[[Yersinia pestis]]'', with fluorescent stain.]]
+===Etymology===
+{{named-after|mul|nat=French|occ=physician|occ2=bacteriologist|Alexandre Yersin|born=1863|died=1943|wplink==}} for the bacteria; {{named-after|nocap=1|mul|nat=Swiss|occ=entomologist|Alexander Yersin|born=1825|died=1863|wplink=Alexander Yersin (entomologist)}} for the mantis.
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Enterobacteriaceae|i=1|certain [[bacterium|bacteria]] hosted especially by [[rodent]]s, some [[pathogenic]] to humans}}
+# {{taxon|genus|family|Mantidae|the single species {{taxlink|Yersinia mexicana|species}}}}
+====Hypernyms====
+* {{sense|genus of ''Enterobacteriaceae''}} {{Enterobacteriaceae Hypernyms}}
+* {{sense|genus of Mantidae}} {{Mantidae Hypernyms}}; {{taxlink|Amelinae|subfamily}}&amp;nbsp;- subfamily
+====Hyponyms====
+* {{sense|genus of ''Enterobacteriaceae''}} ''[[Yersinia pestis]]'' ([[bubonic plague]] [[bacterium]])&amp;nbsp;- type species; {{taxlink|Yersinia aldovae|species}}, {{taxlink|Yersinia aleksiciae|species}}, {{taxlink|Yersinia bercovieri|species}}, {{taxlink|Yersinia enterocolitica|species}}, {{taxlink|Yersinia entomophaga|species}}, {{taxlink|Yersinia frederiksenii|species}}, {{taxlink|Yersinia intermedia|species}}, {{taxlink|Yersinia kristensenii|species}}, {{taxlink|Yersinia mollaretii|species}}, {{taxlink|Yersinia philomiragia|species}}, {{taxlink|Yersinia pseudotuberculosis|species}}, {{taxlink|Yersinia rohdei|species}}, {{taxlink|Yersinia ruckeri|species}}&amp;nbsp;- selected other species
+* {{sense|genus of Mantidae}} {{taxlink|Yersinia mexicana|species}}&amp;nbsp;- sole species
+====Derived terms====
+* {{taxlink|Yersiniops|genus}}
+===References===
+* {{sense|genus of Enterobacteriaceae}}
+** {{pedia|i=1}}
+** {{specieslite|Yersinia (Enterobacteriaceae)|''Yersinia'' (''Enterobacteriaceae'')}}
+** {{comcatlite|i=1}}
+** {{R:GTDB|Yersinia|i=1}}
+* {{sense|genus of Mantidae}}
+** {{specieslite|Yersinia (Mantidae)|''Yersinia'' (Mantidae)}}
+[[Category:Translingual taxonomic eponyms]]
+[[Category:mul:Bacteria]]</text>
+<sha1>04ln2ar9yasn0aeg9rodaco51jd1c3f</sha1>
+</revision>
+</page>

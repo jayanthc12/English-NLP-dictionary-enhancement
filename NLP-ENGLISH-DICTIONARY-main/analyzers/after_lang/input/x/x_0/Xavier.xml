@@ -1,0 +1,121 @@
+<page>
+<title>Xavier</title>
+<ns>0</ns>
+<id>43921</id>
+<revision>
+<id>68720256</id>
+<parentid>68701369</parentid>
+<timestamp>2022-08-26T04:02:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{given name|ceb}}; remove final dot from non-English {{given name|pt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4456" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Toponymic surname of a 16th-century saint born in the Kingdom of Navarre (now partially placed in Spain), Francis de Xavier, from a place name in the Kingdom of [[Navarre]], originally from {{der|en|eu|Xabier}}. Doublet of {{m|es|Echeverría}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈzeɪ.vɪə/|/ˈzæ.vɪə/|/ɪɡˈzeɪ.vɪə/}}
+* {{a|GenAm}} {{IPA|en|/ˈzeɪ.vjɚ/|/ˈzeɪ.vi.əɹ/|/ɪɡˈzeɪ.vjɚ/|/ɪɡˈzeɪ.vi.ɚ/}}&lt;ref&gt;{{R:Dictionary.com}}&lt;/ref&gt;&lt;ref&gt;{{R:Merriam-Webster Online}}&lt;/ref&gt;
+* {{rhymes|en|eɪvjə(ɹ)|s=2}}
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|from=Spanish}}.
+#* '''1976''' [[w:Don DeLillo|Don DeLillo]], ''Ratner's Star'', Knopf, {{ISBN|0394400836}}, page 337:
+#*: &quot;Full name please.&quot; &quot;Maurice '''Xavier''' Wu.&quot; &quot;Where did you get the '''Xavier'''?&quot; &quot;My father was a missionary,&quot; he said.
+#* '''2007''' [[w:Sharon Kendrick|Sharon Kendrick]], ''The Sheikh's English Bride'', Harlequin, {{ISBN|0373126123}}, page 60:
+#*: 'I keep telling you to call me '''Xavier''',' he interjected silkily, aware that her reluctance to do so intrigued him. ''''Xavier''',' Laura agreed, and then hesitated. How could his name be so...so...''enticing''? Because it was foreign to her lips―lingering there like the juice of a fruit she had never tasted before? Or because it was impossible to say without first softening your voice?
+# {{surname|en}}, found chiefly among people of Spanish and Portuguese descent.
+#* {{quote-journal|en|date=2020 October 7|title=Network News: Plaque at Chatham honours colour bar pioneer|journal=Rail|page=26|text=A plaque commemorating the memory of British Rail guard Asquith '''Xavier''', who broke the colour bar at Euston station in 1966, was unveiled at Chatham station on September 24.}}
+====Usage notes====
+* The given name was rare (among English speakers) until the 1980s, when it began to rise in popularity. The surname is still rare.
+====Derived terms====
+* {{l|en|Xavierian}}
+* {{l|en|Xavierite}}
+====Translations====
+{{trans-top|male given name}}
+* Aragonese: {{t|an|Chabier}}
+* Basque: {{t+|eu|Xabier}}
+* Catalan: {{t+|ca|Xavier}}
+* Corsican: {{t|co|Saveriu|m}}
+* Czech: {{t|cs|Xaver}}
+* Dutch: {{t+|nl|Xaverius}}
+* Esperanto: {{t|eo|Ksavero}}
+* French: {{t+|fr|Xavier}}
+* Galician: {{t+|gl|Xavier}}
+* German: {{t+|de|Xaver}}
+* Greek: {{t+|el|Ξαβέριος}}, {{t|el|Ξαβέρης}}
+* Hungarian: {{t+|hu|Xavér}}
+* Inuktitut: {{t|iu|ᐃᒃᓵᕕᐊᕐ}}
+* Italian: {{t+|it|Saverio|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|エグゼビア|tr=Eguzebia}}, {{t|ja|グザヴィエ|tr=Guzevie}}, {{t|ja|ザビエ|tr=Zabie}}, {{t|ja|シャビエル|tr=Shabieru}}
+* Latin: {{t+|la|Xaverius}}
+* Polish: {{t+|pl|Ksawery}}
+* Portuguese: {{t+|pt|Xavier}}
+* Romanian: {{t|ro|Xaveriu}}
+* Russian: {{t+|ru|Ксаве́рий}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|Ksaverij}}
+* Slovak: {{t|sk|Xaver}}
+* Spanish: {{t+|es|Javier}}
+* Swedish: {{t+|sv|Xavier}}
+* Vietnamese: {{t|vi|Xaviê}}
+* Walloon: {{t+|wa|Zavî}}
+{{trans-bottom}}
+===References===
+&lt;references/&gt;
+[[Category:English terms derived from toponyms]]
+----
+==Catalan==
+===Etymology===
+From the toponymic surname of a {{bor|ca|es|-}} saint, from {{der|ca|eu|Xabier}}. See {{m|en|Xavier}} for more.
+===Pronunciation===
+* {{ca-IPA}}
+===Proper noun===
+{{ca-proper noun|m}}
+# {{given name|ca|male|eq=Xavier}}
+====Derived terms====
+* {{l|ca|Xavi}}
+----
+==Cebuano==
+===Etymology===
+From {{der|ceb|es|Xavier}}, from {{m|en|w:Francis Xavier}}, from {{der|ceb|eu|Xabier}}.
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{given name|ceb|male|from=Basque}}
+[[Category:Cebuano male given names from English]]
+----
+==French==
+===Pronunciation===
+* {{fr-IPA|+|Csavier}}
+* {{audio|fr|LL-Q150 (fra)-Arthur Crbz-Xavier.wav|Audio}}
+===Proper noun===
+{{fr-proper noun|g=m}}
+# {{given name|fr|male|eq=Xavier}}
+====Usage notes====
+* The compound given name [[François]]-Xavier also occurs, in honor of the saint.
+----
+==Portuguese==
+===Etymology===
+From the toponymic surname of a {{der|pt|es|-}} saint, from {{der|pt|eu|Xabier}}. See {{m|en|Xavier}} for more.
+===Pronunciation===
+{{pt-IPA|Xaviérh}}
+* {{hyph|pt|Xa|vi|er}}
+===Proper noun===
+{{pt-proper noun|m}}
+# {{given name|pt|male|from=Basque}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA|javier}}
+===Proper noun===
+{{es-proper noun|m}}
+# {{lb|es|obsolete|_|outside the|_|US Spanish}} {{alternative spelling of|es|Javier}}</text>
+<sha1>i6yxwivchf07es7kwcg33dm7bm0901k</sha1>
+</revision>
+</page>

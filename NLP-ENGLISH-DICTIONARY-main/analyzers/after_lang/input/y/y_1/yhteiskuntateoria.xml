@@ -1,0 +1,29 @@
+<page>
+<title>yhteiskuntateoria</title>
+<ns>0</ns>
+<id>7095720</id>
+<revision>
+<id>58620592</id>
+<parentid>58603442</parentid>
+<timestamp>2020-02-01T14:20:47Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteiskunta|teoria}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunta/teoria}}
+===Noun===
+{{fi-noun}}
+# [[social theory]]
+====Declension====
+{{fi-decl-kulkija|yhteiskuntateori|a}}</text>
+<sha1>ouk7ym2wkzn6gt8l07di3q03uqwrj11</sha1>
+</revision>
+</page>

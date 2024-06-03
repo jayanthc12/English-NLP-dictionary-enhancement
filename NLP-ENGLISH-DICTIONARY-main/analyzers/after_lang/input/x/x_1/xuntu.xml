@@ -1,0 +1,29 @@
+<page>
+<title>xuntu</title>
+<ns>0</ns>
+<id>3455745</id>
+<revision>
+<id>65317228</id>
+<parentid>63336446</parentid>
+<timestamp>2022-01-12T02:05:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Asturian: remove extraneous space surrounding section header name in section 2 (Pronunciation)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="196" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|iūnctus}}.
+===Pronunciation===
+{{ast-IPA}}
+===Adjective===
+{{ast-adj|xunt}}
+# [[together]], [[joined]]
+====Related terms====
+* {{l|ast|xuntar}}</text>
+<sha1>ey48zjet4sunkvnjsq7pz9d8po1ns9j</sha1>
+</revision>
+</page>

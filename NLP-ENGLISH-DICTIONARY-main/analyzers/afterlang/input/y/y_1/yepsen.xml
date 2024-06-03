@@ -1,0 +1,37 @@
+<page>
+<title>yepsen</title>
+<ns>0</ns>
+<id>3395704</id>
+<revision>
+<id>61793178</id>
+<parentid>51729393</parentid>
+<timestamp>2021-02-10T08:28:47Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1724" xml:space="preserve">==English==
+[[File:Сложенные руки человека образуют чашу для воды.JPG|thumb|right|A yepsen.]]
+===Alternative forms===
+* {{l|en|eapns}} {{qualifier|Yorkshire}}, {{l|en|espin}} {{qualifier|Derbyshire}}, {{l|en|ipson}} {{qualifier|Somerset}}, {{l|en|yaspen}} {{qualifier|Northern England}}, {{l|en|yeepsen}} {{qualifier|Essex}}, {{l|en|yepsintle}} {{qualifier|Lancashire}}, {{l|en|yespen}} {{qualifier|Essex}}, {{l|en|yespfull}} {{qualifier|Staffordshire}}, {{l|en|yestmus}} {{qualifier|Lancashire}}
+===Etymology===
+From {{inh|en|enm|yespon}}, {{m|enm|yepson}}, {{m|enm|ȝespon}}, {{m|enm|ȝespen}}, {{m|enm|ȝispon|t=a measure of volume equivalent to that contained in a person’s hands cupped together}}, probably from {{inh|en|ang|*ġēapsponn}}, {{m|ang|*ġēapspann}}, from {{der|en|ang|*ġēap|t=bent, curved}} + {{m|ang|spann|t=measure of the palm or hand}}, equivalent to {{af|en|gap|span}}. Compare {{cog|fy|gasp|t=buckle, clasp}}, {{cog|nl|gesp|t=buckle, clasp}}, {{cog|gml|gespe|t=the cavity between the hands when held together}}, {{cog|non|gaupn||hollow made by cupped hands}}. {{doublet|en|gowpen}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete|UK|dialect}} Amount that can be held in two hands cupped together.
+# {{lb|en|obsolete|UK|dialect}} Two hands cupped together.
+====Synonyms====
+* {{l|en|goppenful}}, {{l|en|gowpen}}
+====Related terms====
+*{{l|en|yeepsen||a double handful}}
+===References===
+* {{R:Wright|volume=6|page=570}}&lt;!-- yaspen --&gt;
+* {{cite-book|year=1955|title=Dictionary of Early English|first=Joseph T.|last=Shipley|publisher=Rowman &amp; Littlefield|isbn=9781442233997|page=739}}
+* {{R:MED Online|entry=yespon|pos=n|id=MED53922|accessdate=2016-10-17}}</text>
+<sha1>p3qcy81eu2hiyvqkbzi5mlb7nac7mbo</sha1>
+</revision>
+</page>

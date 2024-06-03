@@ -1,0 +1,39 @@
+<page>
+<title>Yamanashi</title>
+<ns>0</ns>
+<id>1808307</id>
+<revision>
+<id>58712825</id>
+<parentid>58360355</parentid>
+<timestamp>2020-02-18T14:30:48Z</timestamp>
+<contributor>
+<ip>86.145.59.25</ip>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="574" xml:space="preserve">{{also|yamanashi}}
+==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture|c/Japan|capital=Kōfu}}.
+====Translations====
+{{trans-top|Yamanashi, Japan}}
+* Arabic: {{t|ar|يَامَانَاشِي|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|山梨|tr=Shānlí|sc=Hani}}
+* Czech: {{t|cs|Jamanaši}}
+{{trans-mid}}
+* Japanese: {{t+|ja|山梨|tr=やまなし, Yamanashi}}
+* Korean: {{t|ko|^야마나시}}
+* Russian: {{t+|ru|Ямана́си|f}}
+{{trans-bottom}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまなし}}</text>
+<sha1>gakpyl5ijkl6ktxx09s332nhh1thliw</sha1>
+</revision>
+</page>

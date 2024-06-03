@@ -1,0 +1,26 @@
+<page>
+<title>yaadi</title>
+<ns>0</ns>
+<id>5677665</id>
+<revision>
+<id>51612649</id>
+<parentid>48071447</parentid>
+<timestamp>2019-02-24T18:22:23Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>reference -&gt; references</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="232" xml:space="preserve">==Nafaanra==
+===Etymology===
+Borrowed from {{bor|nfr|en|yard}}.
+===Noun===
+{{head|nfr|noun}}
+# [[yard]] {{gloss|unit of measurement}}
+===References===
+* ''[http://www.sil.org/computing/shoebox/Nafaanra.pdf Nafaanra Dictionary]''</text>
+<sha1>mls9ffk18ligd5l82avzq7bnl7yb41i</sha1>
+</revision>
+</page>

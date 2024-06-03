@@ -1,0 +1,39 @@
+<page>
+<title>Xuereb</title>
+<ns>0</ns>
+<id>520761</id>
+<revision>
+<id>68725352</id>
+<parentid>67804631</parentid>
+<timestamp>2022-08-26T05:26:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|mt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="760" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|mt|Xuereb}}, from {{der|en|ar|شَوَارِب|t=moustache}}.
+{{root|en|ar|ش ر ب}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en}}.
+----
+==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَوَارِب|t=moustaches}}.
+The earliest references of this family go back to 1517 with Tommeo Xuereb mentioned as &quot;Nobile&quot; or &quot;Noble&quot;. The coat of arms shows two Moors' heads, which could signify that the Xuerebs distinguished themselves when participating in The [[Crusades]].
+===Pronunciation===
+* {{IPA|mt|/ˈʃwɪː.rɛp/}}
+* {{rhymes|mt|ɪːrɛp|s=2}}
+===Proper noun===
+{{mt-proper noun}}
+# {{surname|mt}}
+===References===
+* Charles A. Gauci, ''The Genealogy and Heraldry of the Noble Families of Malta''.</text>
+<sha1>a64gnb0svaonta058spgi0eag9xw6k8</sha1>
+</revision>
+</page>

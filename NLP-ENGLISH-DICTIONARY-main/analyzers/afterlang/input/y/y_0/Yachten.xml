@@ -1,0 +1,27 @@
+<page>
+<title>Yachten</title>
+<ns>0</ns>
+<id>1383257</id>
+<revision>
+<id>55537883</id>
+<parentid>49288486</parentid>
+<timestamp>2019-10-15T05:33:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}} (2); move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="197" xml:space="preserve">{{also|yachten}}
+==German==
+===Pronunciation===
+* {{audio|de|De-at-Yachten.ogg|Audio (Austria)}}
+* {{audio|de|De-Yachten.ogg|Audio}}
+===Noun===
+{{head|de|noun form|g=f}}
+# {{plural of|de|Yacht}}</text>
+<sha1>9xgda3o7qnfo360d0wqxrqiqje21q60</sha1>
+</revision>
+</page>

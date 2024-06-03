@@ -1,0 +1,28 @@
+<page>
+<title>xorphanol</title>
+<ns>0</ns>
+<id>1974994</id>
+<revision>
+<id>69047108</id>
+<parentid>61291890</parentid>
+<timestamp>2022-09-03T05:03:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="275" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{af|en||-orphan|-ol|t2=morphinan derivate|nocat=1}}.
+{{rfe|en}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pharmaceutical drug}} An [[opioid]] [[analgesic]] of the [[morphinan]] family.
+[[Category:English terms suffixed with -ol]]</text>
+<sha1>k3zj8k5rdn2jiyiuho8lk17z1fdrneu</sha1>
+</revision>
+</page>

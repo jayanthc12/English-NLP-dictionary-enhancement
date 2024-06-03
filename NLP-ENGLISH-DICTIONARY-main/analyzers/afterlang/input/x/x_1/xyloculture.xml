@@ -1,0 +1,25 @@
+<page>
+<title>xyloculture</title>
+<ns>0</ns>
+<id>6368574</id>
+<revision>
+<id>67148630</id>
+<parentid>67052976</parentid>
+<timestamp>2022-05-24T09:03:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xylo-|culture}}
+===Noun===
+{{fr-noun|f}}
+# the [[cultivation]] of [[timber]] (and especially of [[cotton]])</text>
+<sha1>cpdowxb8o0lh1og1jcfrgbdn5z33j3f</sha1>
+</revision>
+</page>

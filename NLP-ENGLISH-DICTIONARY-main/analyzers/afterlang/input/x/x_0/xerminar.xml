@@ -1,0 +1,31 @@
+<page>
+<title>xerminar</title>
+<ns>0</ns>
+<id>1187522</id>
+<revision>
+<id>68875361</id>
+<parentid>51262555</parentid>
+<timestamp>2022-08-28T06:27:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="291" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|germināre}}, present active infinitive of {{m|la|germinō}}.
+===Verb===
+{{gl-verb|xermin|ar}}
+# to [[germinate]]
+====Conjugation====
+{{gl-conj-ar|xermin}}
+====Related terms====
+* {{l|gl|xerminación}}
+===Further reading===
+* {{R:gl:DRAG}}</text>
+<sha1>mvz8420gmfs6q1crqvdiaebh6rk47ye</sha1>
+</revision>
+</page>

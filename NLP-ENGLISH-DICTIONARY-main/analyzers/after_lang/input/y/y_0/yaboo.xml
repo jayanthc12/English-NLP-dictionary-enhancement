@@ -1,0 +1,27 @@
+<page>
+<title>yaboo</title>
+<ns>0</ns>
+<id>5183048</id>
+<revision>
+<id>67134174</id>
+<parentid>67134171</parentid>
+<timestamp>2022-05-23T05:13:13Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<comment>Reverted edits by [[Special:Contributions/119.160.116.83|119.160.116.83]]; Restore to version 51129085 by [[Special:Contributions/NadandoBot|NadandoBot]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="238" xml:space="preserve">==English==
+===Etymology===
+{{bor|en|fa|یابو|tr=yâbu}}
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} An [[Afghan]] [[pony]] used as a [[beast of burden]].
+===Anagrams===
+* {{anagrams|en|a=abooy|boo-ya|booya}}
+[[Category:en:Horses]]</text>
+<sha1>sv4nwjd8qimhhvup3vzja4dyu6gh05n</sha1>
+</revision>
+</page>

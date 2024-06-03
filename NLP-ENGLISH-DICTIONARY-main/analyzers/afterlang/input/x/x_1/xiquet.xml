@@ -1,0 +1,32 @@
+<page>
+<title>xiquet</title>
+<ns>0</ns>
+<id>6528738</id>
+<revision>
+<id>60977230</id>
+<parentid>60035018</parentid>
+<timestamp>2020-10-29T19:11:37Z</timestamp>
+<contributor>
+<username>Vriullop</username>
+<id>62029</id>
+</contributor>
+<comment>/* Catalan */ checked</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="432" xml:space="preserve">==Catalan==
+===Etymology===
+{{affix|ca|xic|-et|pos2=diminutive suffix}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{ca-adj}}
+# {{lb|ca|western Catalan}} [[young]]
+#: {{synonyms|ca|petit|xic|xicotet}}
+===Noun===
+{{ca-noun|m|f=xiqueta}}
+# {{lb|ca|western Catalan|Tarragona}} [[child]]
+#: {{synonyms|ca|infant|nen}}
+# {{lb|ca|castells}} a [[casteller]] in certain [[colla|colles]], particularly those in the town of Valls</text>
+<sha1>skv3rp7phcm7alqxupjg34f89522cgl</sha1>
+</revision>
+</page>

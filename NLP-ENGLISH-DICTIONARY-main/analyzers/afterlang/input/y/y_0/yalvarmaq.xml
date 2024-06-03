@@ -1,0 +1,41 @@
+<page>
+<title>yalvarmaq</title>
+<ns>0</ns>
+<id>947210</id>
+<revision>
+<id>62143327</id>
+<parentid>61186770</parentid>
+<timestamp>2021-03-17T05:08:06Z</timestamp>
+<contributor>
+<username>DanielWhernchend</username>
+<id>3677925</id>
+</contributor>
+<comment>/* Conjugation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1002" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јалвармаг|r=yalvarmaq|a=یالوارماق}}
+===Etymology===
+Ultimately a derivation from {{der|az|trk-pro|*yāl-}}. Cognate with {{cog|tr|yalvarmak}}.
+===Pronunciation===
+* {{IPA|az|[jɑɫvɑrˈmɑχ]}}
+* {{hyphenation|az|yal|var|maq}}
+===Verb===
+{{head|az|verb}}
+# {{lb|az|intransitive}} to [[beg]], [[implore]] {{+obj|az|dative|means=someone}}
+#* {{quote-web|az|date=October 17, 2015|work=miq.az|text=O kişi mənə gəlib '''yalvardı''' ki, arvadımı bağışla, bir qələtdir eləyib.|t=The man came to me and '''begged''' me to forgive his wife, it was a stupid mistake that she made, he said.|url=http://www.miq.az/az/men-sakit-oturmayacaam-huququmu-mudafie-edeceyem/}}
+#: {{uxi|az|Mənə əfv üçün '''yalvardı'''.|He '''begged''' me to forgive him.}}
+====Conjugation====
+{{az-latin-conj|a}}
+===Further reading===
+* {{r:obastan}}
+----
+==Crimean Tatar==
+===Verb===
+{{head|crh|verb}}
+# to [[beg]]
+====Conjugation====
+{{crh-latin-conj|a|r}}</text>
+<sha1>lbb7srq2p5881v2r0e8m3vqdoyteui7</sha1>
+</revision>
+</page>

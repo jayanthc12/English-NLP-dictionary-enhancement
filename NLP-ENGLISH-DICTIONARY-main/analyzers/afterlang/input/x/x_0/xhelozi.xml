@@ -1,0 +1,29 @@
+<page>
+<title>xhelozi</title>
+<ns>0</ns>
+<id>1869737</id>
+<revision>
+<id>55748427</id>
+<parentid>51872544</parentid>
+<timestamp>2019-10-15T15:05:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==Albanian==
+===Etymology===
+{{suffix|sq|xheloz|i}}
+===Pronunciation===
+* {{IPA|sq|/dʒɛlɔˈsi/}}
+===Noun===
+{{sq-noun|f||xhelozia}}
+# [[jealousy]]
+====Declension====
+{{sq-noun-f-i-unc}}</text>
+<sha1>5tfi1p87e9rnki2cpj0cugxfla5t2zm</sha1>
+</revision>
+</page>

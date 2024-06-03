@@ -1,0 +1,29 @@
+<page>
+<title>xjenza</title>
+<ns>0</ns>
+<id>815573</id>
+<revision>
+<id>61294065</id>
+<parentid>58703888</parentid>
+<timestamp>2020-12-12T16:28:35Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="249" xml:space="preserve">==Maltese==
+===Etymology===
+From {{bor|mt|it|scienza}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃjɛn.t͡sa/}}
+===Noun===
+{{mt-noun|g=f|p=xjenzi}}
+# [[science]]
+====Related terms====
+* {{l|mt|xjentifiku}}
+* {{l|mt|xjentifikament}}
+{{c|mt|Sciences}}</text>
+<sha1>6ay85mf8pahdoglcn8ubxrtav5evi4f</sha1>
+</revision>
+</page>

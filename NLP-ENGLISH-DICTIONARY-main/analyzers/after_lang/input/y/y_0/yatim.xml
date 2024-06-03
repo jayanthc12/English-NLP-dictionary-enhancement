@@ -1,0 +1,53 @@
+<page>
+<title>yatim</title>
+<ns>0</ns>
+<id>277344</id>
+<revision>
+<id>68775817</id>
+<parentid>64518259</parentid>
+<timestamp>2022-08-27T08:05:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="858" xml:space="preserve">==Indonesian==
+===Etymology===
+From {{inh|id|ms|yatim}}, from {{der|id|ar|يَتِيم}}.
+===Pronunciation===
+{{rfp|id}}
+===Adjective===
+{{id-adj|head}}
+# [[deprive|Deprived]] of father.
+# {{lb|id|dated}} [[deprive|Deprived]] of both parents; [[orphan]].
+----
+==Malay==
+===Etymology===
+Borrowed from {{bor|ms|ar|يَتِيم}}.
+===Pronunciation===
+* {{IPA|ms|/yatim/}}
+* {{rhymes|ms|atim|tim|im}}
+===Noun===
+{{ms-noun|j=يتيم}}
+# [[orphan]]; [[someone]] who has [[lose|lost]] [[one]] of [[his]] or [[her]] [[parent|parents]]
+====Derived terms====
+{{der4|ms|anak yatim|yatim piatu|keyatiman}}
+====Descendants====
+* {{desc|id|yatim}}
+====See also====
+* [[balu]] / [[janda]] / [[randa]]
+* [[duda]]
+===Further reading===
+* {{R:PRPM}}
+----
+==Tausug==
+===Noun===
+{{head|tsg|noun}}
+# [[orphan]] {{gloss|without both parents}}
+#: {{syn|tsg|ilu}}</text>
+<sha1>0daf7swnxge5n0emvu58nlhi7qh5e9z</sha1>
+</revision>
+</page>

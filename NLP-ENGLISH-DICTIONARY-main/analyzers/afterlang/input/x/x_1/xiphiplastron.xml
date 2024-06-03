@@ -1,0 +1,27 @@
+<page>
+<title>xiphiplastron</title>
+<ns>0</ns>
+<id>252132</id>
+<revision>
+<id>67288245</id>
+<parentid>48094292</parentid>
+<timestamp>2022-06-06T09:06:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="248" xml:space="preserve">==English==
+===Etymology===
+{{uder|en|grc|ξίφος||sword}} + {{m|en|plastron}}
+===Noun===
+{{en-noun|s|xiphiplastra}}
+# The posterior, or fourth lateral plate in the [[plastron]] of a [[turtle]].
+====Derived terms====
+* {{l|en|xiphiplastral}}</text>
+<sha1>qlpwkyvq64ut3gzuxjhgwojktqun4sk</sha1>
+</revision>
+</page>

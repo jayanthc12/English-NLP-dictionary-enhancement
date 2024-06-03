@@ -1,0 +1,27 @@
+<page>
+<title>xanthopallescens</title>
+<ns>0</ns>
+<id>4894483</id>
+<revision>
+<id>60352289</id>
+<parentid>58750376</parentid>
+<timestamp>2020-09-09T02:07:51Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;No […] whitespace at the […] end of a line&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==Translingual==
+===Etymology===
+{{compound|mul|xantho|pallēscēns|gloss1=yellow|gloss2=fading}}
+===Adjective===
+{{head|mul|adjective}}
+# {{taxon|species|Drosophila|genus}}
+====Derived terms====
+* {{l|mul|Drosophila xanthopallescens}}</text>
+<sha1>16s8n3qgvup7la3sl30l3sjociizw32</sha1>
+</revision>
+</page>

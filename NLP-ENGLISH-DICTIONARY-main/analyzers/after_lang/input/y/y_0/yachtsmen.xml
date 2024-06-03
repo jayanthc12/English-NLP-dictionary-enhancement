@@ -1,0 +1,32 @@
+<page>
+<title>yachtsmen</title>
+<ns>0</ns>
+<id>481197</id>
+<revision>
+<id>62863304</id>
+<parentid>62644706</parentid>
+<timestamp>2021-06-17T07:24:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="283" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{en-irregular plural of|yachtsman|umlaut=1}}
+===Anagrams===
+* {{anagrams|en|a=acehmnsty|scytheman}}
+----
+==French==
+===Alternative forms===
+* {{l|fr|yachtsmans}}
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|yachtsman}}</text>
+<sha1>g848dbhxdx1fh56vuwzkoputz1jq25y</sha1>
+</revision>
+</page>

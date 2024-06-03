@@ -1,0 +1,26 @@
+<page>
+<title>Xantho</title>
+<ns>0</ns>
+<id>5548389</id>
+<revision>
+<id>66995028</id>
+<parentid>57385082</parentid>
+<timestamp>2022-05-15T09:45:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|Xanthus}}; combine {{inflection of|la|Xanthus}} tag sets dat|s and abl|s into dat//abl|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="158" xml:space="preserve">{{also|xantho|xantho-}}
+==Latin==
+===Proper noun===
+{{la-proper noun-form|Xanthō}}
+# {{inflection of|la|Xanthus||dat//abl|s}}
+===References===
+* {{R:L&amp;S}}</text>
+<sha1>lu2wp4450pd5179mxt0cno652a6jg56</sha1>
+</revision>
+</page>

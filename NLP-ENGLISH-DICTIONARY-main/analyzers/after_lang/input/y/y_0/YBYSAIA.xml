@@ -1,0 +1,23 @@
+<page>
+<title>YBYSAIA</title>
+<ns>0</ns>
+<id>247662</id>
+<revision>
+<id>54610504</id>
+<parentid>51975095</parentid>
+<timestamp>2019-10-03T06:56:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="173" xml:space="preserve">==English==
+===Phrase===
+{{en-phrase}}
+# {{lb|en|North America|slang}} {{initialism of|en|you [[bet]] your [[sweet]] [[ass]] I am|nodot=1}}: a strong affirmative response.</text>
+<sha1>cblojmwgwl77skk63saxyywhwj2yqi5</sha1>
+</revision>
+</page>

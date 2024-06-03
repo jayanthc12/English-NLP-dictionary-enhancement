@@ -1,0 +1,25 @@
+<page>
+<title>yemenensis</title>
+<ns>0</ns>
+<id>3420209</id>
+<revision>
+<id>53730857</id>
+<parentid>53676213</parentid>
+<timestamp>2019-07-21T22:03:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-adj-3rd-2E}} to {{la-adj}} with new params</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj|yemenēnsis}}
+# {{lb|la|New Latin}} [[Yemeni]]
+====Declension====
+{{la-adecl|yemenēnsis}}</text>
+<sha1>b4mw836kx3l7ohcgchmld0t9qyutpsl</sha1>
+</revision>
+</page>

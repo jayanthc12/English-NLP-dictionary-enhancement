@@ -1,0 +1,35 @@
+<page>
+<title>yearningly</title>
+<ns>0</ns>
+<id>267147</id>
+<revision>
+<id>55370390</id>
+<parentid>51833210</parentid>
+<timestamp>2019-10-14T12:42:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}} (2); move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1389" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yearning|ly}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈjɜːnɪŋli/}}
+* {{a|US}} {{enPR|yûrnʹing-lē}}, {{IPA|en|/ˈjɝnɪŋli/}}
+* {{audio|en|en-us-yearningly.ogg|Audio (US)}}
+===Adverb===
+{{en-adv}}
+# With [[yearning]]; with [[desire]]; [[longingly]].
+#* '''1860''', {{w|George Eliot}}, ''{{w|The Mill on the Floss}}'', Book 6, Chapter 14,&lt;sup&gt;[http://www.gutenberg.org/files/6688/6688-h/6688-h.htm]&lt;/sup&gt;
+#*: He was silent a few moments, not looking at her; while her eyes were turned toward him '''yearningly''', in alarm at this sudden change.
+#* '''1904''', {{w|Henry James}}, ''{{w|The Golden Bowl}}'', Part 2, Chapter 7,&lt;sup&gt;[http://www.gutenberg.org/files/4264/4264-h/4264-h.htm]&lt;/sup&gt;
+#*: Yet what was it she had in mind, what did she wish to make of him beyond what she had already made, a patient, punctilious host, mindful that she had originally arrived much as a stranger, arrived not at all deliberately or '''yearningly''' invited?—so that one positively had her possible susceptibilities the MORE on one’s conscience.
+#* '''1944''', {{w|Emily Carr}}, ''{{w|The House of All Sorts}}'', “Life Loves Living,” [http://www.gutenberg.net.au/ebooks01/0100121h.html]
+#*: The old maple stump shot sickly pink switches from her roots, new switches every year. They crept '''yearningly''' toward the little square of window.</text>
+<sha1>7tji8p65mqhmd6og2w2v7gmptgjvfz0</sha1>
+</revision>
+</page>

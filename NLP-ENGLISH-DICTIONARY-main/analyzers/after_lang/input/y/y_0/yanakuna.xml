@@ -1,0 +1,26 @@
+<page>
+<title>yanakuna</title>
+<ns>0</ns>
+<id>4830427</id>
+<revision>
+<id>48071468</id>
+<parentid>47286091</parentid>
+<timestamp>2017-11-12T18:11:02Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed notext=1</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="328" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|qu|-}}.
+===Noun===
+{{en-noun|s|yanakuna}}
+# {{lb|en|historical}} An individual in the [[Inca]] [[empire|Empire]] who left the [[ayllu]] system and worked full-time at a variety of tasks for the Inca, their [[queen]]{{,}} or the [[religious]] [[establishment]].</text>
+<sha1>ejoszk0dge0vha99lv49z9rndswn1hg</sha1>
+</revision>
+</page>

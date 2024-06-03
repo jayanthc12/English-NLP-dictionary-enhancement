@@ -1,0 +1,25 @@
+<page>
+<title>yachtful</title>
+<ns>0</ns>
+<id>2667829</id>
+<revision>
+<id>54027503</id>
+<parentid>51889705</parentid>
+<timestamp>2019-08-31T04:49:38Z</timestamp>
+<contributor>
+<username>Kiwima</username>
+<id>2096588</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="173" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yacht|ful|pos=noun}}
+===Noun===
+{{en-noun|s|yachtsful}}
+# As much as a [[yacht]] will hold.
+#: ''a '''yachtful''' of celebrities''</text>
+<sha1>1b36qy7cg1c9ea6rxjtm4x48z0cn2za</sha1>
+</revision>
+</page>

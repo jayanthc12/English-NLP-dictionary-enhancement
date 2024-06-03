@@ -1,0 +1,29 @@
+<page>
+<title>yhteisomistus</title>
+<ns>0</ns>
+<id>7186832</id>
+<revision>
+<id>58593452</id>
+<parentid>52383235</parentid>
+<timestamp>2020-01-30T12:20:19Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="252" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|omistus}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-omistus}}
+===Noun===
+{{fi-noun}}
+# [[co-ownership]], [[joint]] [[ownership]]
+====Declension====
+{{fi-decl-vastaus|yhteisomistu|a}}</text>
+<sha1>q1h5vvbd4o3h91p0dzthjbfbxbfrf5l</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>ydinkemia</title>
+<ns>0</ns>
+<id>861831</id>
+<revision>
+<id>58642115</id>
+<parentid>54770287</parentid>
+<timestamp>2020-02-05T15:33:25Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|kemia}}
+===Pronunciation===
+{{fi-pronunciation|ydin-kemia}}
+===Noun===
+{{fi-noun}}
+# [[nuclear chemistry]]
+====Declension====
+{{fi-decl-kulkija|n=sg|ydinkemi|a}}
+====Related terms====
+* {{l|fi|ydinkemisti}}</text>
+<sha1>gdq2299096np2e0t6sut38hj167hx7z</sha1>
+</revision>
+</page>

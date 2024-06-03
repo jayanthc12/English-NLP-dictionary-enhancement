@@ -1,0 +1,32 @@
+<page>
+<title>xanthochrom</title>
+<ns>0</ns>
+<id>6345352</id>
+<revision>
+<id>66663971</id>
+<parentid>66250785</parentid>
+<timestamp>2022-05-10T08:07:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|-}} to new-format {{de-adj}}; convert {{de-decl-adj-notcomp}} to {{de-adecl}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="276" xml:space="preserve">==German==
+===Etymology===
+{{confix|de|xantho|chrom}}
+===Pronunciation===
+* {{IPA|de|/ksantoˈkʁoːm/}}
+* {{audio|de|De-xanthochrom.ogg|Audio}}
+===Adjective===
+{{de-adj}}
+# [[xanthochromic]]
+====Declension====
+{{de-adecl}}
+====Related terms====
+* {{l|de|Xanthochromie}}</text>
+<sha1>m1d51c9t7z5eljtw7ouenf9qy8ufybj</sha1>
+</revision>
+</page>

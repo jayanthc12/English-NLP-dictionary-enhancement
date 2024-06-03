@@ -1,0 +1,29 @@
+<page>
+<title>yase</title>
+<ns>0</ns>
+<id>7030938</id>
+<revision>
+<id>53429838</id>
+<parentid>51070432</parentid>
+<timestamp>2019-06-23T19:53:16Z</timestamp>
+<contributor>
+<username>RichardW57</username>
+<id>2477009</id>
+</contributor>
+<comment>Added Pali word form.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Pali==
+===Alternative forms===
+{{pi-alt|Latn=yase|Laoo=ຍເສ|Laoo2=ຍະເສ|Laoo3=ຢເສ|Laoo4=ຢະເສ}}
+===Noun===
+{{head|pi|noun form}}
+# {{inflection of|pi|yasas||loc|s|t=success}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[shame]]</text>
+<sha1>494tpc66ysy41rm1907bqhkfi7hhjt9</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>yhdensuuntaistaa</title>
+<ns>0</ns>
+<id>1632833</id>
+<revision>
+<id>60118567</id>
+<parentid>49796772</parentid>
+<timestamp>2020-08-21T16:39:44Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdensuuntainen|taa}}
+===Pronunciation===
+{{fi-p|yhden-suuntaistaa*}}
+===Verb===
+{{fi-verb}}
+# {{lb|fi|transitive}} to [[parallelize]] {{gloss|make parallel or face in the same direction}}
+====Conjugation====
+{{fi-conj-muistaa|yhdensuuntaist|||a}}</text>
+<sha1>6b42e03dssmbk7mwqdwii4h97mzi65q</sha1>
+</revision>
+</page>

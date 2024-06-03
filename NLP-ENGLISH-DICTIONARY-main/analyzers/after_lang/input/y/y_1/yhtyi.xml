@@ -1,0 +1,25 @@
+<page>
+<title>yhtyi</title>
+<ns>0</ns>
+<id>824237</id>
+<revision>
+<id>50967593</id>
+<parentid>47852179</parentid>
+<timestamp>2018-11-28T12:21:54Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="173" xml:space="preserve">==Finnish==
+===Verb===
+{{head|fi|verb form}}
+# {{fi-form of|pr=third-person|pl=singular|mood=indicative|tense=past|yhtyä}}
+===Anagrams===
+* {{anagrams|fi|a=hityy|hyyti}}</text>
+<sha1>pa3ndh4st1650ftjv0gdtgyaw0k62k0</sha1>
+</revision>
+</page>

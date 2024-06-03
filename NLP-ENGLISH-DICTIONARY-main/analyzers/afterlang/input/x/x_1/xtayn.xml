@@ -1,0 +1,32 @@
+<page>
+<title>xtayn</title>
+<ns>0</ns>
+<id>3579853</id>
+<revision>
+<id>62606189</id>
+<parentid>60764744</parentid>
+<timestamp>2021-05-25T22:40:11Z</timestamp>
+<contributor>
+<username>TongcyDai</username>
+<id>3253284</id>
+</contributor>
+<minor />
+<comment>// Edit via Wikiplus</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="785" xml:space="preserve">==Hunsrik==
+{{was fwotd|hrx|2012|October|20}}
+===Etymology===
+From {{inh|hrx|gmw-cfr|Stein}}, from {{inh|hrx|gmh|stein}}, from {{inh|hrx|goh|stein}}, from {{inh|hrx|gmw-pro|*stain}}, from {{inh|hrx|gem-pro|*stainaz}}, from {{inh|hrx|ine-pro|*steyh₂-||something hard}}.
+===Pronunciation===
+* {{IPA|hrx|/ʃtajn/}}
+===Noun===
+{{head|hrx|noun}}
+# [[stone]]
+#* '''2008''', Ursula Wiesemann, ''Contribuição ao desenvolvimento de uma ortografia da língua Hunsrik falada na América do Sul'', Associação Internacional de Lingüística – SIL Brasil, page 30:
+#*: {{quote|hrx|fayer, hochtsayt, '''xtayn''' – {{lang|pt|fogo, casamento, pedra}}|fire, wedding, '''stone''' – fire, wedding, stone}}
+#*:: {{small|{{q|note: the words right of the hyphen are in Portuguese}}}}
+{{LDL}}</text>
+<sha1>ophp1lbiz1q2w904dwcqntuh2lr1m9l</sha1>
+</revision>
+</page>

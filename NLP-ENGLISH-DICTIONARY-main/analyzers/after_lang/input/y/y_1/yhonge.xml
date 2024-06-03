@@ -1,0 +1,24 @@
+<page>
+<title>yhonge</title>
+<ns>0</ns>
+<id>6730184</id>
+<revision>
+<id>61793350</id>
+<parentid>55010755</parentid>
+<timestamp>2021-02-10T09:01:15Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Middle English==
+===Adjective===
+{{head|enm|adjective}}
+# {{lb|enm|chiefly Northern dialectal}} {{alt form|enm|yong}}
+[[Category:Northern Middle English]]</text>
+<sha1>3l0n6zfap4duuio57a5siilajyjieyf</sha1>
+</revision>
+</page>

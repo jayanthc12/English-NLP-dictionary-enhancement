@@ -1,0 +1,30 @@
+<page>
+<title>xolisa</title>
+<ns>0</ns>
+<id>6944673</id>
+<revision>
+<id>53998429</id>
+<parentid>50626102</parentid>
+<timestamp>2019-08-26T10:55:02Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Zulu */ low-toned stem</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Zulu==
+===Etymology===
+From {{affix|zu|xola|alt1=-xola|-isa}}.
+===Verb===
+{{zu-verb|xolisa}}
+# {{lb|zu|transitive}} to [[pacify]], to [[quieten]]
+# {{lb|zu|intransitive}} to be [[sorry]], to beg [[pardon]], to [[apologise]]
+#: {{usex|zu|Ngiya'''xolisa'''.|I'm '''sorry'''.}}
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||3.2.9}}</text>
+<sha1>3njyd74dgdpbzhfljnon7zs04037ng3</sha1>
+</revision>
+</page>

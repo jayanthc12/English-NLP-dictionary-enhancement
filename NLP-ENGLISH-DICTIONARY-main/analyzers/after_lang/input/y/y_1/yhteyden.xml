@@ -1,0 +1,23 @@
+<page>
+<title>yhteyden</title>
+<ns>0</ns>
+<id>843007</id>
+<revision>
+<id>45807651</id>
+<parentid>32951190</parentid>
+<timestamp>2017-05-26T16:38:03Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|case=genitive|pl=singular|yhteys}}</text>
+<sha1>4we8v6mossiybpwareieocs4w0daq8b</sha1>
+</revision>
+</page>

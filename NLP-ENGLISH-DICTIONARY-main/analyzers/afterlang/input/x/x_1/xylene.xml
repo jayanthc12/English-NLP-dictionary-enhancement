@@ -1,0 +1,56 @@
+<page>
+<title>xylene</title>
+<ns>0</ns>
+<id>61120</id>
+<revision>
+<id>69382689</id>
+<parentid>68534700</parentid>
+<timestamp>2022-09-26T21:31:01Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1553" xml:space="preserve">{{also|xylène}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{confix|en|xyl|ene}}
+===Pronunciation===
+* {{IPA|en|/ˈzaɪliːn/}}
+* {{rhymes|en|aɪliːn|s=2}}
+===Noun===
+{{en-noun}}
+# {{lb|en|chemistry}} Any of a group of three [[isomeric]] [[aromatic]] [[hydrocarbon]]s, found in [[coal]] and [[wood]] [[tar]].
+#* '''2006''', Thomas Pynchon, ''Against the Day'', Vintage 2007, p. 262:
+#*: [...] proceeding, desperately, from such opiated catarrh preparations as Collis Brown's Mixture on to cocainized brain tonics, cigarettes soaked in absinthe, '''xylene''' in unventilated rooms, and so on [...].
+#: {{syn|en|dimethylbenzene}}
+====Translations====
+{{trans-top|di-methyl-benzene}}
+* Bulgarian: {{t|bg|ксилол|m}}
+* Catalan: {{t+|ca|xilè|m}}, {{t|ca|dimetilbenzè|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|二甲苯|tr=èrjiǎběn|sc=Hani}}
+* Czech: {{t|cs|xylen|m}}
+* Esperanto: {{t|eo|ksilolo}}, {{t|eo|ksileno}}
+* Finnish: {{t+|fi|ksyleeni}}
+* French: {{t+|fr|xylène|m}}
+* German: {{t+|de|Xylol|n}}, {{t|de|Xylen|n}}, {{t|de|Dimethylbenzen|n}}
+* Hungarian: {{t|hu|xilol}}
+{{trans-mid}}
+* Irish: {{t|ga|xiléin|f}}
+* Italian: {{t+|it|xilene|m}}
+* Japanese: {{t|ja|キシレン|tr=kishiren|sc=Jpan}}, {{t|ja|キシロール|tr=kishirōru|sc=Jpan}}
+* Persian: {{t|fa|زایلن|tr=zâylen|sc=fa-Arab}}
+* Portuguese: {{t|pt|xileno|m}}
+* Russian: {{t+|ru|ксило́л|m}}, {{t+|ru|диметилбензо́л|m}}
+* Spanish: {{t|es|xileno|m}}
+* Swedish: {{t+|sv|xylen}}, {{t+|sv|dimetylbensen}}
+{{trans-bottom}}
+[[Category:en:Organic compounds]]</text>
+<sha1>ep79p71pfy4t5z8ww64gl8dttkdgtlx</sha1>
+</revision>
+</page>

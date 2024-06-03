@@ -1,0 +1,30 @@
+<page>
+<title>ydinsopimus</title>
+<ns>0</ns>
+<id>4405092</id>
+<revision>
+<id>69318262</id>
+<parentid>52035604</parentid>
+<timestamp>2022-09-18T17:08:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|sopimus|t2=pact, treaty, agreement, contract}}
+===Pronunciation===
+{{fi-p|ydin-sopimus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[pact]]
+====Declension====
+{{fi-decl-vastaus|ydinsopimu|a}}
+====Related terms====
+* {{l|fi|ydinsulkusopimus}}</text>
+<sha1>00e25tw5ssyc9ls79mtfsulow78d4e5</sha1>
+</revision>
+</page>

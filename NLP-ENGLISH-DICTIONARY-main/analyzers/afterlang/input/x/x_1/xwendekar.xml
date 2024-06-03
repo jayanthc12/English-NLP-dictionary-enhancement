@@ -1,0 +1,31 @@
+<page>
+<title>xwendekar</title>
+<ns>0</ns>
+<id>3227453</id>
+<revision>
+<id>67941630</id>
+<parentid>60848789</parentid>
+<timestamp>2022-07-14T02:28:49Z</timestamp>
+<contributor>
+<username>Hk5183</username>
+<id>3365555</id>
+</contributor>
+<comment>/* Northern Kurdish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+From {{suffix|kmr|[[xwendin|xwende]]|kar}}.
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|mf|ar=خوەندەکار‎}}
+# [[student]]
+====Related terms====
+* {{l|kmr|xundevan}}
+* {{l|kmr|xwendevan}}
+* {{l|kmr|xwenkar}}
+* {{l|kmr|xwendevar}}</text>
+<sha1>ch476cwj647zum28ftknhg4m12vwmdh</sha1>
+</revision>
+</page>

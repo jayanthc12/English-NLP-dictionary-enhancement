@@ -1,0 +1,42 @@
+<page>
+<title>yeux</title>
+<ns>0</ns>
+<id>51462</id>
+<revision>
+<id>66971764</id>
+<parentid>64460442</parentid>
+<timestamp>2022-05-15T08:01:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{inflection of|fr|œil|...|p}} with {{plural of|fr|œil}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2331" xml:space="preserve">==French==
+===Etymology===
+From {{inh|fr|frm|yeulx}}, {{m|frm|yeux}}, from {{inh|fr|fro|ieuz}}, plural form of {{m|fro|[[oeil]] ~ [[oil]] ~ [[uel]]}}. A regular&lt;ref&gt;{{R:TLFi|œil}}&lt;/ref&gt; outcome of {{inh|fr|la|oculōs}}, the accusative plural of {{m|la|oculus}} (the source of ''œil''). Mildred Pope explains its phonetic development as becoming *[ˈɔːʎos] &gt; *[ˈweʎts] &gt; *[weuts] via regular sound changes, followed by a regular dissimilation of [weu] to [jeu] (see for example {{noncog|la|locus}} &gt; *[lweu] &gt; {{noncog|fro|lieu}}, {{m|la|iocus}} &gt; *[dʒweu] &gt; {{noncog|fro|gieu}} &gt; {{m|fro|jeu}}).&lt;ref&gt;{{cite-book |last=Pope |first=Mildred |title=From Latin to Modern French: with special consideration of Anglo-Norman |edition=2nd |location=Manchester |publisher=Manchester University Press |year=1934 |section=§ 556 |text=The triphthong '''ˈueu''' [...]; the first element was ordinarily differentiated to '''i''' and consonantalised to '''j''', which merged in '''dž''' but differentiation was ordinarily checked by preceding labial and velar consonants: '''ueu''' &gt; '''jö''': '''ueuts''' &gt; '''iös''' ''ieuz'' [...] '''džueu''' &gt; '''džjö''' &gt; '''žö''' ''jeu'' [...] '''fueu''' &gt; '''fö''' ''feu''}}&lt;/ref&gt; The resulting [jeuts] then becomes modern [jø].
+Old and Middle French present many variant forms of this plural, including, from Godefroy's ''Dictionnaire du Moyen Français'': {{m|fro|ialz}}/{{m|fro|yalz}}, {{m|fro|yolz}}, {{m|fro|olz}}/{{m|fro|ols}}, {{m|fro|uelz}}/{{m|fro|uels}}/{{m|fro|eus}}, {{m|fro|ils}}, {{m|fro|oulz}}.
+===Pronunciation===
+* {{fr-IPA}}
+*: les yeux: {{fr-IPA|les‿yeux}}
+* {{audio|fr|Fr-yeux.ogg|audio}}
+* {{audio|fr|Fr-Paris--yeux.ogg|Audio (Paris)}}
+* {{audio|fr|Fr-Paris--yeux (les).ogg|Audio (Paris)}}
+* {{rhymes|fr|jø|s=1}}
+===Noun===
+{{head|fr|noun form|g=m-p}}
+# {{plural of|fr|œil}}, [[eyes]]
+#: {{uxi|fr|Il a les '''yeux''' bleus.|He has blue '''eyes'''.}}
+#: {{uxi|fr|Il a de beaux '''yeux''' bleus.|He has beautiful blue '''eyes'''.}}
+====Usage notes====
+Unlike most words beginning with consonantal y {{IPAchar|/j/}}, this word triggers {{m|fr|liaison}} with valid preceding words. Eg:
+* les yeux {{IPAchar|/le.z‿jø/}}
+* les grands yeux {{IPAchar|/le.ɡʁɑ̃.z‿jø/}}
+* Il a de beaux yeux {{IPAchar|/i.l‿ad.bo.z‿jø/}}
+===References===
+&lt;references/&gt;</text>
+<sha1>sgw6firpexm3wry359z0c3rd5zsdwok</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xylografisch</title>
+<ns>0</ns>
+<id>6345389</id>
+<revision>
+<id>66663984</id>
+<parentid>62140149</parentid>
+<timestamp>2022-05-10T08:07:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|-}} to new-format {{de-adj}}; convert {{de-decl-adj-notcomp}} to {{de-adecl}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="212" xml:space="preserve">==German==
+===Pronunciation===
+* {{IPA|de|/ksyloˈɡʁaːfɪʃ/}}
+* {{audio|de|De-xylografisch.ogg|Audio}}
+===Adjective===
+{{de-adj}}
+# {{alternative form of|de|xylographisch}}
+====Declension====
+{{de-adecl}}</text>
+<sha1>9s69y8kryvh0705mklhqbs66l7xuj7a</sha1>
+</revision>
+</page>

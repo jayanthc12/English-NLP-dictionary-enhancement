@@ -1,0 +1,23 @@
+<page>
+<title>Xicanas</title>
+<ns>0</ns>
+<id>4227372</id>
+<revision>
+<id>56315296</id>
+<parentid>53092368</parentid>
+<timestamp>2019-10-17T12:43:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Xicana}}</text>
+<sha1>osto942swtr1c1x9mfac21gq3s9sei0</sha1>
+</revision>
+</page>

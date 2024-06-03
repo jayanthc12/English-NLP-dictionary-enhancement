@@ -1,0 +1,33 @@
+<page>
+<title>Yahya</title>
+<ns>0</ns>
+<id>5853347</id>
+<revision>
+<id>68734835</id>
+<parentid>58831476</parentid>
+<timestamp>2022-08-26T06:56:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|tr}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="351" xml:space="preserve">{{also|Ýahýa}}
+==English==
+===Etymology===
+From {{der|en|ar|يَحْيَى}}, equivalent to {{m|en|John}} in the {{l|en|Qur'an}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|from=Arabic}}.
+----
+==Turkish==
+===Etymology===
+From {{der|tr|ar|يَحْيَى}}.
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male|Arabic}}</text>
+<sha1>44y21zrbr5jebvxyobkcc7f61m14dm3</sha1>
+</revision>
+</page>

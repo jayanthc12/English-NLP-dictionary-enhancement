@@ -1,0 +1,23 @@
+<page>
+<title>yaggers</title>
+<ns>0</ns>
+<id>5961870</id>
+<revision>
+<id>56073604</id>
+<parentid>53092591</parentid>
+<timestamp>2019-10-17T02:24:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yagger}}</text>
+<sha1>37tz48t70vsvatkkah1n69112sn9o5q</sha1>
+</revision>
+</page>

@@ -1,0 +1,71 @@
+<page>
+<title>xenofobie</title>
+<ns>0</ns>
+<id>1497555</id>
+<revision>
+<id>68792139</id>
+<parentid>62822151</parentid>
+<timestamp>2022-08-27T13:51:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1254" xml:space="preserve">==Czech==
+===Pronunciation===
+* {{cs-IPA|xenofobije}}
+===Noun===
+{{cs-noun|g=f}}
+# [[xenophobia]]
+====Declension====
+{{cs-decl-noun-auto|f|xenofob|i|e}}
+====Related terms====
+* {{l|cs|xenofob}}
+* {{l|cs|xenofobický}}
+* {{l|cs|xenofobní}}
+===Further reading===
+* {{R:PSJC}}
+* {{R:ASCS}}
+----
+==Dutch==
+===Alternative forms===
+* {{l|nl|xenophobie}} {{q|superseded}}
+===Etymology===
+Borrowed from {{bor|nl|fr|xénophobie}}. First attested around 1900 as ''xenophobie''.
+===Pronunciation===
+* {{IPA|nl|/ˌkseːnoːfoːˈbi/}}
+* {{audio|nl|Nl-xenofobie.ogg|Audio}}
+* {{hyphenation|nl|xe|no|fo|bie}}
+* {{rhyme|nl|i}}
+===Noun===
+{{nl-noun|f|-en|xenofobietje}}
+# {{lb|nl|chiefly|uncountable}} [[xenophobia]], [[hatred]] and/or [[pathological]] [[fear]] towards strangers or [[foreigner]]s.
+#: {{syn|nl|vreemdelingenhaat}}
+====Antonyms====
+* {{l|nl|xenofilie}}
+* {{l|nl|xenomanie}}
+====Related terms====
+* {{l|nl|xenocratie}}
+* {{l|nl|xenofobisch}}
+* {{l|nl|xenofoob}}
+[[Category:nl:Phobias]]
+----
+==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xenofobia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xénophobie}}.
+===Noun===
+{{ro-noun|f|-}}
+# [[xenophobia]]
+====Declension====
+{{ro-noun-f-ie|n=sg|xenofobi}}</text>
+<sha1>3rtj9u938iv7lrj1lprgi75xodj7xux</sha1>
+</revision>
+</page>

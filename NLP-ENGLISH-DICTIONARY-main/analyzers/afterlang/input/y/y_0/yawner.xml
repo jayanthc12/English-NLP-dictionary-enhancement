@@ -1,0 +1,39 @@
+<page>
+<title>yawner</title>
+<ns>0</ns>
+<id>250782</id>
+<revision>
+<id>65230633</id>
+<parentid>65000491</parentid>
+<timestamp>2022-01-07T09:13:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct indentation of section 3 (Translations) to 5</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="860" xml:space="preserve">==English==
+===Etymology 1===
+{{suffix|en|yawn|er|id2=agent noun}}
+====Noun====
+{{en-noun}}
+# A person who [[yawn]]s.
+=====Translations=====
+{{trans-top|person who yawns}}
+* German: {{t+|de|Langweiler|m}}
+{{trans-bottom}}
+===Etymology 2===
+{{suffix|en|yawn|er|pos1=noun|id2=entertainment|t2=''Variety'' -er}}
+====Noun====
+{{en-noun}}
+# {{lb|en|entertainment|sports|informal}} Something [[unexciting]] or [[boring]], as a [[book]], [[sporting]] [[event]], or [[performance]].
+#* '''1997''', Mark Coatney, &quot;[https://web.archive.org/web/20081222173619/http://www.time.com/time/nation/article/0,8599,9669,00.html Football: The Big Sleep],&quot; ''Time'', 21 Oct:
+#*: The game's over, and the Bills are winners in a 9-6 '''yawner''' that saw no touchdowns and sent the nation to bed early.
+===Anagrams===
+* {{anagrams|en|a=aenrwy|Raewyn}}
+[[Category:en:People]]</text>
+<sha1>m1b9v5tmer18e918yexmt6ji8wcoudy</sha1>
+</revision>
+</page>

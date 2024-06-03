@@ -1,0 +1,50 @@
+<page>
+<title>xiangqi</title>
+<ns>0</ns>
+<id>463405</id>
+<revision>
+<id>69290786</id>
+<parentid>68555752</parentid>
+<timestamp>2022-09-16T22:27:27Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1317" xml:space="preserve">{{also|xiàngqí|xiǎngqǐ}}
+==English==
+{{wikipedia}}
+[[Image:Xiangqi Board.svg|thumb|200px|Xiangqi board at the start of a game.]]
+===Etymology===
+Borrowed from the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} {{zh-m|象棋}}. {{doublet|en|shogi}}.
+===Pronunciation===
+* {{IPA|en|/ˈʃɑːŋ.tʃi/}}
+===Noun===
+{{en-noun|-}}
+# [[Chinese chess]]; a [[board game]] similar to [[chess]], invented and traditionally played in [[China]].
+====Synonyms====
+* {{l|en|Chinese chess}}
+====Translations====
+{{trans-top|variant of chess}}
+* Chinese:
+*: Cantonese: {{t|yue|象棋|tr=zeong6 kei4-2|sc=Hani}}
+*: Mandarin: {{t+|cmn|象棋|tr=xiàngqí|sc=Hani}}
+* Finnish: {{t|fi|xiangqi}}, {{t|fi|kiinalainen shakki}}
+* French: {{t+|fr|xiangqi|m}}, {{t|fr|échecs chinois|m-p}}
+{{trans-mid}}
+* German: {{t|de|chinesisches Schach|n}}, {{t|de|Xiangqi|n}}
+* Japanese: {{t|ja|シャンチー|tr=shanchī|sc=Jpan}}, {{t+|ja|象棋|tr=しょうぎ, shōgi|sc=Jpan}}
+* Korean: {{t|ko|샹치|sc=Kore}}
+* Manchu: {{t|mnc|ᠵᠠᠩᠵᡠ}}, {{t|mnc|ᡥᡳᠶᠠᠩᠴᡳ}}
+* Russian: {{t+|ru|сянци́|f-p}}, {{t|ru|кита́йские ша́хматы|f-p}}
+* Vietnamese: {{t+|vi|cờ tướng}}, {{t|vi|cờ Trung Quốc}}
+{{trans-bottom}}
+===See also===
+* {{l|en|shogi}}
+* {{l|en|janggi}}
+{{C|en|Board games}}</text>
+<sha1>preo1oxpce6gmmse39ds0hfvpwlno08</sha1>
+</revision>
+</page>

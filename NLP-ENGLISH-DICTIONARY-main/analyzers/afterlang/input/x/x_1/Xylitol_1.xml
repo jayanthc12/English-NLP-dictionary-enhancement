@@ -1,0 +1,29 @@
+<page>
+<title>Xylitol</title>
+<ns>0</ns>
+<id>170699</id>
+<revision>
+<id>65754855</id>
+<parentid>63050232</parentid>
+<timestamp>2022-02-07T15:52:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-noun|n|Xylitols|-}} to new-format {{de-noun|n.sg}}; convert {{de-decl-noun-n|s|n=sg}} to {{de-ndecl|n.sg}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="199" xml:space="preserve">{{also|xylitol}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xylitol.ogg|Audio}}
+===Noun===
+{{de-noun|n.sg}}
+# [[xylitol]] (an alcohol)
+====Declension====
+{{de-ndecl|n.sg}}
+{{C|de|Chemistry}}</text>
+<sha1>hnj3obri9uk97lq9ec24beuh1vgykc9</sha1>
+</revision>
+</page>

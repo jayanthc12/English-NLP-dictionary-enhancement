@@ -1,0 +1,74 @@
+<page>
+<title>xal</title>
+<ns>0</ns>
+<id>462019</id>
+<revision>
+<id>67451702</id>
+<parentid>67408749</parentid>
+<timestamp>2022-06-21T01:08:06Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1441" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 639|2&amp;3|Kalmyk Oirat}}
+----
+==Catalan==
+===Etymology===
+From {{bor|ca|fr|châle}}, from {{der|ca|fa|شال}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# [[shawl]]
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+[[Category:ca:Clothing]]
+----
+==Eastern Durango Nahuatl==
+===Noun===
+{{head|azd|noun}}
+# [[sand]]
+{{topics|azd|Geography}}
+----
+==Mongghul==
+===Etymology===
+From {{bor|xgn-mgl|bo|ཤེལ}}.
+===Pronunciation===
+* {{IPA|xgn-mgl|/ɕal/}}
+===Noun===
+{{head|xgn-mgl|noun}}
+# [[mirror]]
+----
+==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# ([[maternal]]) [[uncle]]
+# [[point]], [[dot]]
+{{cln|kmr|three-letter words}}
+----
+==Romani==
+===Etymology===
+{{inh+|rom|psu|𑀔𑀸𑀤𑀺}}, from {{inh|rom|sa|खादति}}. Cognate with {{cog|hi|खाना}}.
+===Verb===
+{{rom-verb|al}}
+# to [[eat]]
+#: {{ux|rom|E ćhave '''xan''' phaba.|t=The children eat apples.}}
+====Descendants====
+* {{desc|ro|hali|bor=1}}
+* {{desc|ru|хавчик|bor=1}}
+===References===
+* {{cite-book|author=Yaron Matras|chapter=Historical and linguistic origins|title=Romani: A Linguistic Introduction|book-link=https://www.google.co.jp/books/edition/Romani/_ggLGcnloNoC|location=Cambridge|publisher=Cambridge University Press|year=2002|page=40|isbn=0-511-03580-2}}
+{{cln|rom|1-syllable words}}</text>
+<sha1>m5jqmbq51r46chkrscr7s3ogc93jvgz</sha1>
+</revision>
+</page>

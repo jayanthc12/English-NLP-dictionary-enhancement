@@ -1,0 +1,26 @@
+<page>
+<title>xenophobsten</title>
+<ns>0</ns>
+<id>6345419</id>
+<revision>
+<id>60597309</id>
+<parentid>54662072</parentid>
+<timestamp>2020-09-27T13:18:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{head|de|adjective form}} to {{head|de|superlative adjective}}; add {{de-adj form of}} for superlative</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="182" xml:space="preserve">==German==
+===Adjective===
+{{head|de|superlative adjective}}
+# {{superlative of|de|xenophob}}
+===Adjective===
+{{head|de|superlative adjective form}}
+# {{de-adj form of|xenophob}}</text>
+<sha1>b3mkyjnmtvnactnb2mruih6651i45gv</sha1>
+</revision>
+</page>

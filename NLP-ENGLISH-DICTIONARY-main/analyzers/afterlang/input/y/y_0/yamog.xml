@@ -1,0 +1,25 @@
+<page>
+<title>yamog</title>
+<ns>0</ns>
+<id>6335395</id>
+<revision>
+<id>54893270</id>
+<parentid>47216032</parentid>
+<timestamp>2019-10-08T14:54:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==Cebuano==
+===Pronunciation===
+*{{hyphenation|ceb|ya|mog}}
+===Noun===
+{{head|ceb|noun}}
+# [[dew]]; [[moisture]] in the air that settles on plants, etc in the morning, resulting in [[drop]]s</text>
+<sha1>7w5eo8ukzwkhg50vbl3f3wvgiwjvaqg</sha1>
+</revision>
+</page>

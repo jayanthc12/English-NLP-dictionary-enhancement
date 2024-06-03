@@ -1,0 +1,44 @@
+<page>
+<title>xerra</title>
+<ns>0</ns>
+<id>6022588</id>
+<revision>
+<id>68866333</id>
+<parentid>68846408</parentid>
+<timestamp>2022-08-28T05:40:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1377" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=sg|m=ind|t=pres|xerrar}}
+# {{ca-verb form of|p=2|n=sg|m=impr|xerrar}}
+----
+==Galician==
+===Etymology===
+Attested since 1432 ({{m|gl||jarra}}). From {{bor|gl|ar|جَرَّة||earthern receptacle}}, cognate with {{cog|es|-}} and {{cog|pt|jarra}}, {{cog|ca|gerra}}, {{cog|fr|jarre}}, {{cog|it|giara}} and {{cog|en|jar}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃɛrɐ]}}
+===Noun===
+{{gl-noun|f}}
+# [[jar]] {{gloss|an earthenware container with one or more handles for holding water, wine, etc}}
+#* '''1432''', A. Rodríguez González (ed.), ''Livro do Concello de Pontevedra (1431-1463)''. Pontevedra: Museo de Pontevedra, page 66:
+#*: ''o dito Pero Qrun trouxera e metera byno en '''jarras''' de sobre mar este dito año despois do tempo acostumado polo dito Conçello que lle fosen logo tornar o tal byno a '''jarras''' e lle quebrantasen as ditas '''jarras''' e o tirasen o tal byno polo tarreo''
+#*:: said Pedro Cru has brought wine in '''jars''' over the sea to this town this year, beyond the usual time as established by the council; that this wine must be retuned to the '''jars''' and said '''jars''' must be broken and said wine poured on the ground
+# [[jug]], [[pitcher]]
+====Derived terms====
+* {{l|gl|xerro}}
+===References===
+* {{R:gl:CX|jarra}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>n6nha1yhvirpvc1uip1ri1v4refbh4c</sha1>
+</revision>
+</page>

@@ -1,0 +1,76 @@
+<page>
+<title>ydin</title>
+<ns>0</ns>
+<id>191023</id>
+<revision>
+<id>68522768</id>
+<parentid>60322085</parentid>
+<timestamp>2022-08-03T08:53:58Z</timestamp>
+<contributor>
+<username>Anazarenko</username>
+<id>3350816</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2760" xml:space="preserve">==Finnish==
+===Etymology===
+From {{inh|fi|fiu-fin-pro|*üdin||bone marrow}} (compare {{cog|et|üdi}}, {{cog|krl|yjin}}), from {{inh|fi|fiu-pro|*wideme||bone marrow}} (compare {{cog|se|ađa||(bone with) marrow}}, {{cog|myv|удем||marrow; intellect}}, {{cog|chm|вем||marrow}}, {{cog|hu|velő||marrow}}).
+===Pronunciation===
+{{fi-pronunciation}}
+===Noun===
+{{head|fi|noun}}
+# [[core]], [[kernel]], the central part of something
+# [[core]], [[point]], essential content, essence; often with the genitive of {{m|fi|asia||matter, topic}}
+#: {{ux|fi|päästä asian '''ytimeen'''|to [[get to the point|get '''to the point''']]|inline=1}}
+# {{lb|fi|geology}} [[core]]
+#: {{ux|fi|Maapallon '''ydin''' jaetaan sisä'''ytimeen''' ja ulko'''ytimeen'''.|The Earth's core is divided into the inner core and the outer core.|inline=1}}
+# {{lb|fi|computing}} [[core]], an individual computer processor
+#: {{ux|fi|Tämä ohjelma käyttää kaikkia '''ytimiä'''.|This application uses all the cores.|inline=1}}
+# {{lb|fi|computing}} [[kernel]]
+#: {{ux|fi|Linux viittaa Linux-'''ydintä''' käyttävien Unixin kaltaisten käyttöjärjestelmien perheeseen.|Linux refers to the Linux kernel used by the Unix-like family of operating systems.|inline=1}}
+# {{lb|fi|physics}} [[nucleus]]
+#: {{ux|fi|Atomi'''ydin''' on atomin keskellä sijaitseva protoneista ja yleensä myös neutroneista koostuva muodostuma.|The nucleus is the region consisting of protons and usually neutrons at the center of an atom.|inline=1}}
+# {{lb|fi|anatomy}} {{n-g|Special uses such as in {{m|fi|luuydin||bone marrow}}, {{m|fi|selkäydin||spinal cord}}.}}
+# {{lb|fi|botany}} [[pith]] {{gloss|soft spongy substance in the center of the stems of many plants and trees}}
+# {{lb|fi|mathematics}} [[kernel]]
+# {{lb|fi|in compounds}} [[nuclear]], [[core]]
+#: {{ux|fi|ydinfysiikka|nuclear physics|inline=1}}
+#: {{ux|fi|ydinperhe|nuclear family|inline=1}}
+====Declension====
+{{fi-decl-kytkin|y|d|t|i|ä}}
+====Synonyms====
+* (''core, central part'') {{l|fi|sydän}}, {{l|fi|yty}}
+* (''core, point'') {{l|fi|juuri}}
+====Derived terms====
+{{top3}}
+* {{l|fi|luuydin}}
+* {{l|fi|selkäydin}}
+* {{l|fi|sisäydin}}
+* {{l|fi|ulkoydin}}
+* {{l|fi|ydinfysiikka}}
+{{mid3}}
+* {{l|fi|ydinlaskeuma}}
+* {{l|fi|ydinperhe}}
+* {{l|fi|ydinpommi}}
+* {{l|fi|ydinreaktio}}
+* {{l|fi|ydinräjähdys}}
+{{mid3}}
+* {{l|fi|ydinsota}}
+* {{l|fi|ydinvoima}}
+* {{l|fi|ydinvoimala}}
+* {{l|fi|ytimekäs}}
+* {{l|fi|ytimennävertäjä}}
+{{bottom}}
+===See also===
+* {{l|fi|tuma}}
+===References===
+* [http://kaino.kotus.fi/algu/index.php?t=etusivu&amp;kkieli=en Álgu database] sv. ''[http://kaino.kotus.fi/algu/index.php?t=lekseemi&amp;lekseemi_id=60221&amp;kkieli=en ydin]''.
+----
+==Karelian==
+===Noun===
+{{head|krl|noun}}
+# [[marrow]] (of bones)</text>
+<sha1>roqr7l0mczxcf3k74yio037qo0wlr93</sha1>
+</revision>
+</page>

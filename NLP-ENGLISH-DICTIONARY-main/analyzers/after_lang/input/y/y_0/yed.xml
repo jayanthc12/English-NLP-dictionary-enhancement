@@ -1,0 +1,109 @@
+<page>
+<title>yed</title>
+<ns>0</ns>
+<id>3080154</id>
+<revision>
+<id>69474279</id>
+<parentid>69474260</parentid>
+<timestamp>2022-10-09T10:48:48Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/Sghofran19|Sghofran19]]. If you think this rollback is in error, please leave a message on my [[User talk:Surjection|talk page]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3754" xml:space="preserve">{{also|ye'd}}
+==English==
+===Alternative forms===
+* {{l|en|yedd}}
+===Etymology 1===
+From {{inh|en|enm|ȝedden}}, {{m|enm|ȝeddien}}, from {{inh|en|ang|ġieddian||to speak formally, discuss, speak with alliteration, recite, sing}}, from {{m|ang|ġiedd||song, poem, saying, proverb, riddle, speech, story, tale, narrative, account, reckoning, reason}}.
+====Verb====
+{{en-verb}}
+# {{lb|en|intransitive|archaic}} To [[speak]]; [[sing]].
+# {{lb|en|intransitive|UK|_|dialectal}} To [[magnify]] greatly in [[narration]]; [[exaggerate]] a tale; [[fib]].
+# {{lb|en|intransitive|UK|_|dialectal}} To [[contend]]; [[wrangle]].
+=====Derived terms=====
+* {{l|en|yedding}}
+===Etymology 2===
+From {{inh|en|enm|ȝed}}, from {{inh|en|ang|ġiedd||song, poem, saying, proverb, riddle, speech, story, tale, narrative, account, reckoning, reason}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|archaic}} A [[saying]].
+# {{lb|en|UK|_|dialectal}} A [[falsehood]]; [[leasing]].
+===Etymology 3===
+From {{inh|en|enm|eorþien||to bury, dig}}, from {{m|enm|eorþe||earth}}. Influenced or conflated with {{inh|en|enm|eardien||to dwell, inhabit}}, from {{inh|en|ang|eardian||to live, dwell, be inhabitant, occupy}}. More at {{l|en|earth}}.
+====Alternative forms====
+* {{l|en|yerd}}, {{l|en|eard}}
+====Verb====
+{{en-verb}}
+# {{lb|en|UK|_|dialectal}} To [[burrow]] [[underground]], as a rabbit or mole; also said of [[miner]]s.
+# {{lb|en|UK|_|dialectal}} To be [[associated]] with a [[place]] or [[locality]]. {{rfex|en}}
+=====Derived terms=====
+* {{l|en|yedder}}
+* {{l|en|yedding}}
+====Noun====
+{{en-noun}}
+# {{lb|en|UK|_|dialectal}} A [[burrow]]; a [[hole]] made by an [[animal]] in the [[ground]].
+===Etymology 4===
+{{blend|en|your|editor}}
+====Noun====
+{{en-noun}}
+# {{lb|en|dated|fandom slang}} {{non-gloss definition|A [[self-reference]] to the [[editor]] of a [[periodical]]; a [[substitution]] for the editor's [[name]] or [[signature]].}}
+#* {{quote-journal
+|en
+|year=1950
+|month=December
+|first=Lee
+|last=Hoffman
+|authorlink=
+|title=Chaos
+|magazine=Quandry
+|url=http://fanac.org/fanzines/Quandry/Quandry5-02.html
+|volume=
+|issue=5
+|page=3
+|passage=Fandom is a wonderful thing. We used to live in Florida ten years ago. Across the street lived a lad two years older than '''yed''' who had the most wonderful collection of comic books...all of a [[stf]] nature. At the ripe old age of eight '''yed''' was swept to Georgia and the lad with the comics was never heard from. Since entering fandom we thought much of him and wondered if he were not a [[slan]]. This morning we learned that he is a member of NFFF and TFSC. Naturally we got a letter off to him.
+}}
+#* {{quote-journal
+|en
+|year=1952
+|month=February
+|first=Fred J.
+|last=Robinson
+|authorlink=
+|title=Arose By Any Other Name
+|magazine=Straight Up
+|url=http://www.gostak.co.uk/FR/SU1.htm
+|volume=1
+|issue=1
+|page=1
+|passage=All of which sprang (crawled?) from the fertile skull of '''yed''', no doubt it is something in my Radius.
+}}
+#* {{quote-journal
+|en
+|year=1976
+|month=November
+|first=Lee
+|last=Hoffman
+|authorlink=
+|title=Editorial
+|magazine=Science-Fiction Five-Yearly
+|url=http://fanac.org/fanzines/SF_Five_Yearly/sffy6-04.html
+|volume=
+|issue=6
+|page=4
+|passage=In preparation for this momentous occasion '''yed''' has been browsing past issues of this sterling journal, and it has come to our attention that previous articles by yhos have been devoted largely to bemoaning the multitude of technical problems encountered in production -- the difficulties of duplication, the miseries of mimeography.
+}}
+===Anagrams===
+* {{anagrams|en|a=dey|Dey|Dye|d'ye|dey|dye}}
+----
+==Volapük==
+===Conjunction===
+{{head|vo|conjunction}}
+# {{lb|vo|Volapük Rigik}} [[yet]], [[nevertheless]], [[but]], [[however]]</text>
+<sha1>r9zbzknbfsle1l65p638ut1wenuqn0n</sha1>
+</revision>
+</page>

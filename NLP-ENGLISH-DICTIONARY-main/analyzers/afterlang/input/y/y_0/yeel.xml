@@ -1,0 +1,36 @@
+<page>
+<title>yeel</title>
+<ns>0</ns>
+<id>5093761</id>
+<revision>
+<id>68837964</id>
+<parentid>63388977</parentid>
+<timestamp>2022-08-28T00:02:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="287" xml:space="preserve">==Somali==
+===Etymology===
+From {{inh|so|cus-pro|*weeɬ-}}.
+===Verb===
+{{head|so|verb}}
+# to [[do]]
+# to [[make]]
+# to [[permit]]
+# to [[accept]]
+===References===
+* {{R:so:Puglielli:2012|yeel|}}
+----
+==Wolof==
+===Noun===
+{{wo-noun}}
+# [[shin]], [[tibia]]
+[[Category:wo:Anatomy]]</text>
+<sha1>4ay3bj7hen2l35nlawxy0tm7dqkcdjs</sha1>
+</revision>
+</page>

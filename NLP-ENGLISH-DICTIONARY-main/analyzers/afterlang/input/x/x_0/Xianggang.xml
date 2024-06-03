@@ -1,0 +1,65 @@
+<page>
+<title>Xianggang</title>
+<ns>0</ns>
+<id>1060329</id>
+<revision>
+<id>68787293</id>
+<parentid>68716248</parentid>
+<timestamp>2022-08-27T12:18:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2096" xml:space="preserve">{{also|Xiānggǎng}}
+==English==
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiang Kang}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-m|香港}}.
+===Pronunciation===
+* {{IPA|en|/ʃjɑːŋˈɡɑːŋ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|rare}} {{synonym of|en|Hong Kong}} {{qualifier|especially in the Chinese English language media}}
+#* {{quote-journal
+|en
+|url=https://archive.org/details/militaryreview617usar/
+|year=1981
+|month=July
+|title=A Look at the British Regimental System
+|author=Robert S. B. Watson
+|journal={{w|Military Review}}
+|volume=LXI
+|issue=7
+|page=55
+|pageurl=https://archive.org/details/militaryreview617usar/page/55/}}
+#*:At the end of that period, it may move to Northern Ireland for two years and then from there to '''Xianggang''' for two years, with internal security roles in both places.
+#* {{quote-book
+|en
+|year=1982
+|author=Anthony B. Chan
+|title=Arming the Chinese: The Western Armaments Trade in Warlord China, 1920-1928
+|url=https://archive.org/details/armingchinesewes0000chan/
+|location=[[Vancouver]]
+|publisher={{w|University of British Columbia Press}}
+|ISBN=0-7748-0157-3
+|OCLC=490855225
+|OL=3216321M
+|page=105
+|pageurl=https://archive.org/details/armingchinesewes0000chan/page/105/
+|passage=Like Shanghai, Qingdao, Qinhuangdao, and Yingkou, Guangzhou provided easy access for Western ships entering warlord China. Specifically, Guangzhou with its links to '''Xianggang''' was the ideal receiver base for war munitions into south China. '''Xianggang''', in turn, was connected to Portuguese Aomen (Macao) and Manila with its American overseers.}}
+#* '''2004''', Philip Bowring, ''International Herald Tribune'', April 22, 2004
+#*: The truly politically correct, however, will already be writing Hong Kong not just as one word but as '''Xianggang'''. That is the official version in pinyin, mainland China's version of romanization.
+====Translations====
+{{trans-see|Hong Kong}}
+===Further reading===
+* {{R:Merriam Webster Online}}
+* {{R:Dictionary.com}}
+[[Category:en:Cities]]</text>
+<sha1>2px49yxr9z34vyltxfiv1w3hshssk6y</sha1>
+</revision>
+</page>

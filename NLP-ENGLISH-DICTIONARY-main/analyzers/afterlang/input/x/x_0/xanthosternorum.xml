@@ -1,0 +1,23 @@
+<page>
+<title>xanthosternorum</title>
+<ns>0</ns>
+<id>3425773</id>
+<revision>
+<id>66995109</id>
+<parentid>57091660</parentid>
+<timestamp>2022-05-15T09:46:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthosternus}}; combine {{inflection of|la|xanthosternus}} tag sets gen|m|p and gen|n|p into gen|m//n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="109" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthosternōrum}}
+# {{inflection of|la|xanthosternus||gen|m//n|p}}</text>
+<sha1>ilr8x40aqfualeiojw8emxhh27t16go</sha1>
+</revision>
+</page>

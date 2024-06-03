@@ -1,0 +1,28 @@
+<page>
+<title>yabe</title>
+<ns>0</ns>
+<id>5064007</id>
+<revision>
+<id>61579431</id>
+<parentid>60761181</parentid>
+<timestamp>2021-01-17T04:11:39Z</timestamp>
+<contributor>
+<username>PeaNut5667</username>
+<id>3715050</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="404" xml:space="preserve">==Cebuano==
+===Alternative forms===
+* {{alter|ceb|yawe}}
+===Etymology===
+From {{bor|ceb|es|llave||key}}, from {{der|ceb|la|clāvis||key}}. This and [[yawe]] seem to be more recent developments as they seem to be affected by [[w:Yeísmo|yeísmo]]. If the word was borrowed earlier, it might have been *''lyabe'' or *''liyabe''.
+===Noun===
+{{head|ceb|noun}}
+# [[key]]
+====Synonyms====
+* {{l|ceb|yawe}}</text>
+<sha1>35h9nhncg0fdtc7vyygkgtwe76hnedr</sha1>
+</revision>
+</page>

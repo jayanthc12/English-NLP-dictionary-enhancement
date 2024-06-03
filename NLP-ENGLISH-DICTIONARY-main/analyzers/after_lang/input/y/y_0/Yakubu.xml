@@ -1,0 +1,24 @@
+<page>
+<title>Yakubu</title>
+<ns>0</ns>
+<id>6365690</id>
+<revision>
+<id>63450892</id>
+<parentid>60265431</parentid>
+<timestamp>2021-07-28T06:46:55Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<comment>add Hausa IPA using headword ([[User:ToilBot/edit logs/2021-07/Hausa IPA|log]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==Hausa==
+===Pronunciation===
+* {{ha-IPA|yā̀kubù}}
+===Proper noun===
+{{ha-proper noun|m|Yā̀kubù}}
+# {{alt form|ha|Yaƙubu}}</text>
+<sha1>dd2m15xzcqrx4kjybpcdm72ws20ckpd</sha1>
+</revision>
+</page>

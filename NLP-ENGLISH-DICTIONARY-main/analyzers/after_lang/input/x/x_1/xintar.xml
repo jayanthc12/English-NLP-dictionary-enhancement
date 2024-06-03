@@ -1,0 +1,28 @@
+<page>
+<title>xintar</title>
+<ns>0</ns>
+<id>3848999</id>
+<revision>
+<id>65034574</id>
+<parentid>59035168</parentid>
+<timestamp>2021-12-24T09:49:40Z</timestamp>
+<contributor>
+<ip>2601:281:CD00:226:5DF8:766B:459D:7ED2</ip>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="261" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{l|ast|xantar}}
+===Etymology===
+From {{inh|ast|la|ientō}}.
+===Verb===
+{{ast-verb-ar|xint}}
+# to have [[lunch]]
+#: {{ux|ast|Sentémonos pa '''xintar'''|Let's sit down to eat}}
+====Conjugation====
+{{ast-conj-ar|xint}}</text>
+<sha1>pq428dapzkm0j7c9ohr1usph239s8io</sha1>
+</revision>
+</page>

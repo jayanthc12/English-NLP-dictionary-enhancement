@@ -1,0 +1,23 @@
+<page>
+<title>yarris</title>
+<ns>0</ns>
+<id>7056984</id>
+<revision>
+<id>56414933</id>
+<parentid>53092780</parentid>
+<timestamp>2019-10-18T01:39:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yarri}}</text>
+<sha1>r5x7nxfd8efibl01tw3u2oqfw6l83cx</sha1>
+</revision>
+</page>

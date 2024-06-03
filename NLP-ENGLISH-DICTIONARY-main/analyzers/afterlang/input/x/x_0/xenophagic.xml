@@ -1,0 +1,25 @@
+<page>
+<title>xenophagic</title>
+<ns>0</ns>
+<id>5235650</id>
+<revision>
+<id>54404338</id>
+<parentid>51578367</parentid>
+<timestamp>2019-09-29T08:51:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="718" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# Exhibiting or relating to [[xenophagy]].
+#* {{quote-journal|en|date=January 28, 2016|author=|title=The Defect in Autophagy Induction by Clinical Isolates of Mycobacterium Tuberculosis Is Correlated with Poor Tuberculosis Outcomes|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147810|doi=10.1371/journal.pone.0147810|volume=|issue=|pages=
+|passage=Autophagy may contribute to the elimination of ''Mtb'' through the fusion of ''Mtb''-containing autophagosomes with lysosomes, leading to the '''xenophagic''' degradation of ''Mtb'', and/or the enhancement of antigen presentation, and the consequent activation of adaptive immunity. }}</text>
+<sha1>7rj31xovtma3wn1zfyee8ma4xm1b5xx</sha1>
+</revision>
+</page>

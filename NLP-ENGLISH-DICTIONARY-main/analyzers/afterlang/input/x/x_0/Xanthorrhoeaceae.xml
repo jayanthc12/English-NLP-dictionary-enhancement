@@ -1,0 +1,43 @@
+<page>
+<title>Xanthorrhoeaceae</title>
+<ns>0</ns>
+<id>505232</id>
+<revision>
+<id>65101743</id>
+<parentid>64961084</parentid>
+<timestamp>2021-12-30T23:23:47Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1387" xml:space="preserve">==Translingual==
+[[File:Xanthorrhoea preissii (26118175168).jpg|thumb|{{taxlink|Xanthorrhoea preissii|species|ver=181115}}, of the '''Xanthorrhoeaceae''' (&quot;{{taxlink|Xanthorrhoeoideae|subfamily}}&quot;)]]
+===Etymology===
+{{suffix|mul|Xanthorrhoea|aceae}}
+===Proper noun===
+{{taxoninfl}}
+# A family now treated as subfamily {{taxlink|Xanthorrhoeoideae|subfamily}} in family [[Asphodelaceae]].
+## {{lb|mul|before APG III}} {{taxon|family|order|Asparagales|the [[grass tree]]s}}
+## {{lb|mul|after APG II}} {{taxon|family|order|Asparagales|the [[grass tree]]s, [[daylily|daylilies]], and diverse related plants that produce [[anthraquinone]]s and have flowers of long leafless stalks known as [[scape]]s}}
+====Hypernyms====
+* {{sense|both senses}} {{angiosperms Hypernyms}}, [[monocots]]&amp;nbsp;- clades; [[Asparagales]]&amp;nbsp;- order
+====Hyponyms====
+* {{sense|before APG III}} ''[[Xanthorrhoea]]''&amp;nbsp;- the only genus (corresponds to subfamily {{taxlink|Xanthorrhoeoideae|subfamily}} in newer systems)
+* {{sense|after APG II}} {{taxlink|Asphodeloideae|subfamily}}, {{taxlink|Xanthorrhoeoideae|subfamily}}, {{taxlink|Hemerocallidoideae|subfamily}}&amp;nbsp;- subfamilies
+===See also===
+* [[Asphodelaceae]]
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:ITIS|43323}}
+* {{R:EOL|8180}}
+* {{R:NCBI|27232}}
+* {{R:APWeb|Asparagales|Xanthorrhoeaceae}}
+* {{R:Fossilworks|55852}}</text>
+<sha1>n1mi1fo04piz8wpvhu3n7nxe1zrtuaf</sha1>
+</revision>
+</page>

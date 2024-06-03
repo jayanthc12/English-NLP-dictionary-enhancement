@@ -1,0 +1,23 @@
+<page>
+<title>xoyos</title>
+<ns>0</ns>
+<id>4783542</id>
+<revision>
+<id>55727537</id>
+<parentid>32580301</parentid>
+<timestamp>2019-10-15T14:09:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xoyu}}</text>
+<sha1>ir1e95jfnodlanuwpma0k1yq63arohu</sha1>
+</revision>
+</page>

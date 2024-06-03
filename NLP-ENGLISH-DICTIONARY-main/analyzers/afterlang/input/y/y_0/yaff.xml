@@ -1,0 +1,27 @@
+<page>
+<title>yaff</title>
+<ns>0</ns>
+<id>6405400</id>
+<revision>
+<id>67062511</id>
+<parentid>66718773</parentid>
+<timestamp>2022-05-18T20:21:18Z</timestamp>
+<contributor>
+<ip>69.114.167.158</ip>
+</contributor>
+<comment>/* Verb */Fixed a few things</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==English==
+===Verb===
+{{en-verb}}
+# {{lb|en|UK|dialectal}} To [[bark]], [[yelp]].
+# {{lb|en|England|regional}} To [[scold]]; to [[nag]].
+----
+==Scots==
+===Verb===
+{{head|sco|verb}}
+# To [[bark]] like a [[snarl]]ing [[dog]].</text>
+<sha1>g8oj7c3k77ceanrl91gjjsdg8yq0dve</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>xua</title>
+<ns>0</ns>
+<id>6495671</id>
+<revision>
+<id>65352979</id>
+<parentid>56505140</parentid>
+<timestamp>2022-01-16T08:52:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>San Pedro Amuzgos Amuzgo: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="583" xml:space="preserve">==San Pedro Amuzgos Amuzgo==
+===Etymology===
+Cognate with {{cog|mjc|suhva}}, {{cog|mig|suhā}}.
+===Pronunciation===
+* {{IPA|azg|/ˈʃṳ̄ā̤/}}
+===Noun===
+{{head|azg|noun}}
+# [[chocolate]]
+===References===
+* {{cite-book|author=Stewart, Cloyd, et al.|title=Diccionario amuzgo de San Pedro Amuzgos, Oaxaca|publisher=Instituto Lingüístico de Verano, A.C.|year=2000}}
+----
+==Vietnamese==
+===Pronunciation===
+{{vi-pron}}
+===Verb===
+{{vi-verb|[[吹]], [[嘔]], [[摳]]}}
+# to [[dispel]], to [[make]] something [[go away]]
+====Derived terms====
+{{vi-der|xua tan|xua đuổi}}</text>
+<sha1>7ep5hxw9boq38970ch07zlznpo5xht2</sha1>
+</revision>
+</page>

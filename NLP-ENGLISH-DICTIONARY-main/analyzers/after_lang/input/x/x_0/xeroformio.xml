@@ -1,0 +1,25 @@
+<page>
+<title>xeroformio</title>
+<ns>0</ns>
+<id>1921134</id>
+<revision>
+<id>51980754</id>
+<parentid>23890211</parentid>
+<timestamp>2019-03-18T00:12:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xero|formio}}
+===Noun===
+{{it-noun|m}}
+# [[xeroform]]</text>
+<sha1>ecx69sape3kzhdfkgiekwvrswrwdowe</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yatmak</title>
+<ns>0</ns>
+<id>1494092</id>
+<revision>
+<id>64808529</id>
+<parentid>64383888</parentid>
+<timestamp>2021-11-29T18:32:19Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<minor />
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="463" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاتمق}}, from {{inh|tr|trk-pro|*yat-||to lie, to sleep}}. Compare {{cog|otk|tr=yat-}}, {{cog|ky|жатуу}}.
+===Verb===
+{{head|tr|verb}}
+# to [[lie down]]
+# to [[sleep]]
+# {{lb|tr|slang|colloquial}} to have [[sexual intercourse]], to [[bed#Verb|bed]], to [[sleep with]]
+====Related terms====
+* {{l|tr|yatak}}
+* {{l|tr|yatsı}}
+===References===
+* {{R:tr:Nishanyan}}
+* {{R:ota:Redhouse|یاتمق|page=2180}}</text>
+<sha1>pueuj5vmlddgkbtue1yh2eo61ckqspe</sha1>
+</revision>
+</page>

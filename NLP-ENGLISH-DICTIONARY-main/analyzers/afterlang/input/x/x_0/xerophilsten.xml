@@ -1,0 +1,28 @@
+<page>
+<title>xerophilsten</title>
+<ns>0</ns>
+<id>6345448</id>
+<revision>
+<id>69438508</id>
+<parentid>60597343</parentid>
+<timestamp>2022-10-03T13:46:13Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophilsten.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="244" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerophilsten.ogg|Audio}}
+===Adjective===
+{{head|de|superlative adjective}}
+# {{superlative of|de|xerophil}}
+===Adjective===
+{{head|de|superlative adjective form}}
+# {{de-adj form of|xerophil}}</text>
+<sha1>f0gf1i65t8qcn94x4v6ptgu0z06v4kp</sha1>
+</revision>
+</page>

@@ -1,0 +1,49 @@
+<page>
+<title>Yay</title>
+<ns>0</ns>
+<id>170814</id>
+<revision>
+<id>59316469</id>
+<parentid>59192221</parentid>
+<timestamp>2020-05-07T19:15:58Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="917" xml:space="preserve">{{also|yay}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|vi|Giáy}}.
+===Proper noun===
+{{en-proper noun}}
+# A branch of the [[Tai]] language family, spoken by the [[Bouyei]] and [[Giáy]] people.
+====Synonyms====
+* {{l|en|Bouyei}}
+====Translations====
+{{trans-top|A branch of the Tai language family, spoken by the Bouyei and Giáy people}}
+* Bouyei: {{t|pcc|Haausqyaix}}
+* Chinese:
+*: Mandarin: {{t|cmn|布依語|sc=Hani}}, {{t|cmn|布依语|tr=Bùyīyǔ|sc=Hani}}
+* Lao: {{t-needed|lo}}
+{{trans-mid}}
+* Thai: {{t|th|ภาษาปู้อี|tr=paasăa bpôoee}}
+* Vietnamese: {{t|vi|tiếng Bố Y}} (''Bouyei language''), {{t|vi|tiếng Giáy}} (''Giáy language'')
+* Zhuang: {{t|za|Vahyaej}}
+{{trans-bottom}}
+====See also====
+* {{langcat|pcc}}
+===Anagrams===
+* {{anagrams|en|a=ayy|ayy}}
+[[Category:en:Languages]]
+----
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}</text>
+<sha1>a3istfj7bcfrz5vml2dalwkak4tm70b</sha1>
+</revision>
+</page>

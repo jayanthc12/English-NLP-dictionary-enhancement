@@ -1,0 +1,25 @@
+<page>
+<title>xylonate</title>
+<ns>0</ns>
+<id>6822722</id>
+<revision>
+<id>53993628</id>
+<parentid>50952060</parentid>
+<timestamp>2019-08-25T17:56:10Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|organic chemistry}} Any salt or ester of [[xylonic acid]]
+===Anagrams===
+* {{anagrams|en|a=aelnotxy|lyxonate|oxetanyl}}</text>
+<sha1>528uiozpufttzpoe63dqbhlc9uzwul7</sha1>
+</revision>
+</page>

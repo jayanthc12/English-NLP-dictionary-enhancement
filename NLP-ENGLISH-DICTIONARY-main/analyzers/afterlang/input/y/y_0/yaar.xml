@@ -1,0 +1,34 @@
+<page>
+<title>yaar</title>
+<ns>0</ns>
+<id>57217</id>
+<revision>
+<id>67285520</id>
+<parentid>64514966</parentid>
+<timestamp>2022-06-06T07:58:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|fa}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="663" xml:space="preserve">==English==
+===Etymology===
+From [[w:Hindustani language|Hindustani]] {{m|ur|یار|tr=yār|sc=ur-Arab}} / {{m|hi|यार}}, from {{uder|en|fa|یار|tr=yâr|sc=fa-Arab}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|India|Pakistan}} A [[friend]], [[pal]], or [[buddy]].
+#: {{ux|en|Help me, '''yaar'''!}}
+#* {{RQ:Kureishi Buddha|page=222|chapter=15|passage=‘I'm going to make  the most of my life now, '''''yaar''''',’ he said.}}
+# {{lb|en|India|Pakistan|vulgar}} [[lover]]
+====Related terms====
+* {{l|en|yaari}}
+===Anagrams===
+* {{anagrams|en|a=aary|Arya|Raya|Yara|raya}}
+[[Category:English terms derived from Hindi]]
+[[Category:English terms derived from Urdu]]</text>
+<sha1>m7gajyqdvp0j7gi650e938c3qq4y1wt</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yates</title>
+<ns>0</ns>
+<id>1945444</id>
+<revision>
+<id>55805033</id>
+<parentid>53092798</parentid>
+<timestamp>2019-10-16T03:43:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">{{also|Yates}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yate}}
+===Anagrams===
+* {{anagrams|en|a=aesty|Yeats|as yet|teasy|yeast|yeats}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{plural of|es|yate}}</text>
+<sha1>l6sph0sfdpxx2w4edlejf738w3we8dh</sha1>
+</revision>
+</page>

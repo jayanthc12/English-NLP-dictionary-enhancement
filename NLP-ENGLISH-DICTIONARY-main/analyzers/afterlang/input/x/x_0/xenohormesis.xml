@@ -1,0 +1,27 @@
+<page>
+<title>xenohormesis</title>
+<ns>0</ns>
+<id>4904022</id>
+<revision>
+<id>54095136</id>
+<parentid>51814245</parentid>
+<timestamp>2019-09-10T00:44:24Z</timestamp>
+<contributor>
+<username>Koavf</username>
+<id>5455</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Food and drink]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="378" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{prefix|en|xeno|hormesis}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|biology}} A [[hypothetical]] [[process]] by which an [[animal]] [[consume|consuming]] a [[plant]] may respond to [[signal]]ling [[molecule]]s in the plant and exhibit a corresponding [[protective]] [[response]], as in times of [[famine]].
+[[Category:en:Food and drink]]</text>
+<sha1>b3tpqzcchmxe3gcazjedv0x7604t2yr</sha1>
+</revision>
+</page>

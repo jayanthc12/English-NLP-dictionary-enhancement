@@ -1,0 +1,25 @@
+<page>
+<title>xemce</title>
+<ns>0</ns>
+<id>2197028</id>
+<revision>
+<id>63426946</id>
+<parentid>15818120</parentid>
+<timestamp>2021-07-26T03:20:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="112" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[adult]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>bdiff1907iipjrz65nhny9hk0j27hhx</sha1>
+</revision>
+</page>

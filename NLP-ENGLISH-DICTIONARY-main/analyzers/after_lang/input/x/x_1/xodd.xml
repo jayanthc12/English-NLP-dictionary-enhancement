@@ -1,0 +1,24 @@
+<page>
+<title>xodd</title>
+<ns>0</ns>
+<id>6090029</id>
+<revision>
+<id>45190671</id>
+<parentid>44617086</parentid>
+<timestamp>2017-05-25T21:27:39Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Renamed C &gt; topics</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="70" xml:space="preserve">==Wolof==
+===Noun===
+{{wo-noun|gi}}
+# [[egret]]
+{{topics|wo|Birds}}</text>
+<sha1>55h8lc6fs9vaq8seq8yz1ww989g5cor</sha1>
+</revision>
+</page>

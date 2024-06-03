@@ -1,0 +1,25 @@
+<page>
+<title>xanthochromatic</title>
+<ns>0</ns>
+<id>3730937</id>
+<revision>
+<id>68812744</id>
+<parentid>51796873</parentid>
+<timestamp>2022-08-27T19:58:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="116" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xantho|chromatic}}.
+===Adjective===
+{{en-adj|-}}
+# [[xanthochromic]]</text>
+<sha1>jbxhr3rftf8xgq8dlw3n70axi59nyes</sha1>
+</revision>
+</page>

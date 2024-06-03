@@ -1,0 +1,32 @@
+<page>
+<title>xebb</title>
+<ns>0</ns>
+<id>4061019</id>
+<revision>
+<id>58704797</id>
+<parentid>58696170</parentid>
+<timestamp>2020-02-17T02:14:06Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<comment>Replace mt-noun-n with mt-noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَابّ}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɛp/}}
+===Noun===
+{{mt-noun|g=m|p=xbieb|f=xebba|dim=xbejb}}
+# {{lb|mt|archaic}} male [[adolescent]] or [[young]] [[man]]; [[youth]]
+#: {{syn|mt|żagħżugħ}}
+====Usage notes====
+* The feminine {{m|mt|xebba}} remains in common use.
+====Related terms====
+* {{l|mt|xbubija}}</text>
+<sha1>ruwydffhsr6hismm1ih6yigd9ospum7</sha1>
+</revision>
+</page>

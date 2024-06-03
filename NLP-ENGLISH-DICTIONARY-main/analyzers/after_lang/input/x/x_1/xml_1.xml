@@ -1,0 +1,21 @@
+<page>
+<title>xml</title>
+<ns>0</ns>
+<id>555519</id>
+<redirect title="XML" />
+<revision>
+<id>34834721</id>
+<parentid>2342463</parentid>
+<timestamp>2015-10-20T22:43:03Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Applied [[WT:NORM]] rules</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="17" xml:space="preserve">#REDIRECT [[XML]]</text>
+<sha1>ldgnvlxrbmd8tysx3gff51yl9g5yddi</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xylenols</title>
+<ns>0</ns>
+<id>1562483</id>
+<revision>
+<id>55667047</id>
+<parentid>53092446</parentid>
+<timestamp>2019-10-15T11:28:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">{{also|xylénols}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylenol}}</text>
+<sha1>egak60rdvby40jvtcbtj0pufscjqjf5</sha1>
+</revision>
+</page>

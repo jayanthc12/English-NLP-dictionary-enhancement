@@ -1,0 +1,22 @@
+<page>
+<title>xalin</title>
+<ns>0</ns>
+<id>7124549</id>
+<revision>
+<id>51645059</id>
+<timestamp>2019-02-28T01:49:47Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=pl|t=pres|m=sub|xalar}}
+# {{ca-verb form of|p=3|n=pl|m=impr|xalar}}</text>
+<sha1>r47hcufri9ifr3b1wdtaedk24bfy7mw</sha1>
+</revision>
+</page>

@@ -1,0 +1,49 @@
+<page>
+<title>xiucai</title>
+<ns>0</ns>
+<id>6811410</id>
+<revision>
+<id>69133372</id>
+<parentid>67672196</parentid>
+<timestamp>2022-09-05T18:04:28Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>{{wikipedia}}; 1992 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1448" xml:space="preserve">{{also| xiùcaí}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{translit|en|cmn|-}} {{zh-l|秀才}} via {{bor|en|cmn-pinyin|-}}.
+===Pronunciation===
+* {{IPA|en|/ʃjoʊˈtsaɪ/}}
+===Noun===
+{{en-noun|xiucai}}
+# {{lb|en|historical}} In ancient China, a [[scholar]] who has [[pass]]ed the entry-level examination to study at a [[college]].
+#: {{syn|en|shengyuan}}
+#* {{quote-book
+|en
+|year=1992
+|last=Chang
+|first=Chun-shu
+|author2=Hsueh-lun Chang
+|chapter=Crisis and Revolution in the Ming-Ch'ing Intellectual World: Li Yü's World in Historical Perspective
+|title={{w|Crisis and Transformation in Seventeenth-Century China|Crisis and Transformation in Seventeenth-Century China: Society, Culture, and Modernity in Li Yü's World}}
+|url=https://archive.org/details/isbn_9780472085286/
+|edition=Paperback
+|year_published=1998
+|location=[[Ann Arbor]]
+|publisher={{w|University of Michigan Press}}
+|ISBN=0-472-10255-9
+|LCCN=91-25205
+|OCLC=39336262
+|pages=285-286
+|pageurl=https://archive.org/details/isbn_9780472085286/page/285/
+|text=The author of ''The Compendium of Materia Medica'' was Li Shih-chen (1518-93), a pioneering scholar in the field of medicinal research in the late Ming. A native of Ch’i-chou in Hukuang (modern Ch’i-ch’un in Hupei), Li Shih-chen achieved the first-degree '''''hsiu-ts'ai''''' in 1531, but gave up obtaining the second-degree ''chü-jen'' after three unsuccessful attempts between 1534 and 1540.
+|brackets=on}}</text>
+<sha1>c4eo3dpnr8y11n84mkncawfftv8v74b</sha1>
+</revision>
+</page>

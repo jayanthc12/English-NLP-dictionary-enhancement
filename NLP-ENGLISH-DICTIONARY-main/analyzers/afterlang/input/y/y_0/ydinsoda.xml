@@ -1,0 +1,27 @@
+<page>
+<title>ydinsoda</title>
+<ns>0</ns>
+<id>4119458</id>
+<revision>
+<id>52030755</id>
+<parentid>46214493</parentid>
+<timestamp>2019-03-19T03:22:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==Karelian==
+===Alternative forms===
+* {{l|krl|üdinsoda}}
+===Etymology===
+{{compound|krl|ydin|soda}}
+===Noun===
+{{krl-noun|ydinsovan|ydinsodua}}
+# [[nuclear war]]</text>
+<sha1>j5mfpislv9h7fbme77amyren53avw57</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>ydinsaaste</title>
+<ns>0</ns>
+<id>4405294</id>
+<revision>
+<id>69318247</id>
+<parentid>52035640</parentid>
+<timestamp>2022-09-18T17:08:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="299" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|saaste|t2=pollutant}}
+===Pronunciation===
+{{fi-p|ydin-saaste*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[pollutant]]
+# {{lb|fi|collectively|in plural}} [[nuclear]] [[pollution]]
+====Declension====
+{{fi-decl-hame|ydinsaast|||a}}</text>
+<sha1>bb2dm9ry3tmcs2hhr9z6jp9s8e2zmx5</sha1>
+</revision>
+</page>

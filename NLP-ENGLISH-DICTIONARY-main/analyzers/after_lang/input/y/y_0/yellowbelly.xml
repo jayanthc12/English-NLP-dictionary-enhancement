@@ -1,0 +1,49 @@
+<page>
+<title>yellowbelly</title>
+<ns>0</ns>
+<id>282676</id>
+<revision>
+<id>67571676</id>
+<parentid>67307299</parentid>
+<timestamp>2022-06-28T14:29:50Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1505" xml:space="preserve">{{also|yellow belly}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{compound|en|yellow|belly}}
+===Pronunciation===
+* {{IPA|en|/ˈjɛləʊbɛli/}}
+* {{audio|en|En-au-yellowbelly.ogg|Audio (AU)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|informal}} A [[coward]].
+# {{lb|en|UK|slang}} Someone from [[Lincolnshire]].
+# {{lb|en|Australia}} The {{vern|golden perch}}, {{taxlink|Macquaria ambigua|species}}.
+#*'''1994''', Rita Huggins &amp; {{w|Jackie Huggins}}, ''Auntie Rita'', in Heiss &amp; Minter, ''Macquarie PEN Anthology of Aboriginal Literature'', Allen &amp; Unwin 2008, p. 151:
+#*:The creeks gave us lots of food, too—'''yellow belly''' and jew, perch and eel.
+====Derived terms====
+* {{l|en|yellow-bellied}}
+====Related terms====
+* {{l|en|yellowbelly slider}}
+====Translations====
+{{trans-top|a coward}}
+* Bulgarian: {{t+|bg|страхливец|m}}
+* Italian: {{t+|it|coniglio|m}}, {{t|it|mammoletta}}, {{t+|it|pollo}}, {{t+|it|merlo}}, {{t+|it|femminuccia}}, {{t+|it|smidollato}}, {{t|it|pappa molle}}, {{t|it|pappamolle}}, {{t+|it|rammollito}}, {{t+|it|fifone}}, {{t+|it|codardo}}, {{t+|it|cortigiano}}, {{t+|it|mollusco}}, {{t+|it|vigliacco}}, {{t+|it|pusillanime}}, {{t+|it|eunuco}}, {{t+|it|debole|m}}, {{t+|it|pisciasotto}}, {{t+|it|cacasotto}}, {{t+|it|pauroso}}, {{t+|it|vile}}
+{{trans-mid}}
+* Maori: {{t|mi|toupiore}}
+{{trans-bottom}}
+[[Category:English bahuvrihi compounds]]
+[[Category:en:Demonyms]]
+[[Category:en:People]]
+[[Category:en:Percoid fish]]
+[[Category:English adjective-noun compound nouns]]</text>
+<sha1>0uoxebadqvz08j38gwt65j04j1uyy4w</sha1>
+</revision>
+</page>

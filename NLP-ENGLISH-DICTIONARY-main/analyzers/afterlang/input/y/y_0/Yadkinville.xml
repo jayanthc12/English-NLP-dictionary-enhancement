@@ -1,0 +1,26 @@
+<page>
+<title>Yadkinville</title>
+<ns>0</ns>
+<id>6150582</id>
+<revision>
+<id>68848083</id>
+<parentid>58374313</parentid>
+<timestamp>2022-08-28T02:46:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="187" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{suffix|en|Yadkin|ville}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town/county seat|co/Yadkin County|s/North Carolina|c/USA}}.</text>
+<sha1>es5q8ys9e0rbh6xrf8irw0nfxnna2pb</sha1>
+</revision>
+</page>

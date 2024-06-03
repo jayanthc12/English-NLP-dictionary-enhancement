@@ -1,0 +1,32 @@
+<page>
+<title>xylochemistry</title>
+<ns>0</ns>
+<id>6368569</id>
+<revision>
+<id>54413104</id>
+<parentid>51578413</parentid>
+<timestamp>2019-09-29T11:10:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="498" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xylo|chemistry}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|chemistry|rare}} The [[chemistry]] of [[wood]]
+#* {{quote-journal|en|journal=Green Chemistry|author=Jonas Kühlborn|issue=16|year=2017|passage=Examples of '''xylochemistry''': colorants and polymers|title=Examples of xylochemistry: colorants and polymers}}
+====Translations====
+{{trans-top|chemistry of wood}}
+* Finnish: {{t|fi|puukemia}}
+{{trans-mid}}
+* French: {{t+|fr|xylochimie|f}}
+{{trans-bottom}}</text>
+<sha1>qvcgyh74t440dttpev6ab8ca49weq8p</sha1>
+</revision>
+</page>

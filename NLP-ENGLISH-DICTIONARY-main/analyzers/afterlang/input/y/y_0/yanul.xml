@@ -1,0 +1,49 @@
+<page>
+<title>yanul</title>
+<ns>0</ns>
+<id>1418258</id>
+<revision>
+<id>55566050</id>
+<parentid>44949609</parentid>
+<timestamp>2019-10-15T06:52:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1761" xml:space="preserve">==Volapük==
+===Pronunciation===
+* {{IPA|vo|[ja.ˈnul]}}
+===Noun===
+{{vo-noun}}
+# [[January]] (the [[first]] ([[1st]]) [[month]] of the [[year]])
+====Declension====
+{{vo-decl-noun}}
+====Synonyms====
+* {{l|vo|balul}}
+====See also====
+* {{sense|month}} Previous: {{l|vo|dekul}} (= [[December]]). Next: {{l|vo|febul}} (= [[February]])
+* {{sense|Gregorian months}} {{l|vo|yanul}} (1st month = [[January]]), [[febul]] (2nd month = [[February]]), [[mäzul]] (3rd month = [[March]]), [[prilul]] (4th month = [[April]]), [[mayul]] (5th month = [[May]]), [[yunul]] (6th month = [[June]]), [[yulul]] (7th month = [[July]]), [[gustul]] (8th month = [[August]]), [[setul]] (9th month = [[September]]), [[tobul]] (10th month = [[October]]), [[novul]] (11th month = [[November]]), [[dekul]] (12th month = [[December]])
+* {{sense|Gregorian months}} {{l|vo|balul}} (1st month = [[January]]), [[telul]] (2nd month = [[February]]), [[kilul]] (3rd month = [[March]]), [[folul]] (4th month = [[April]]), [[lulul]] (5th month = [[May]]), [[mälul]] (6th month = [[June]]), [[velul]] (7th month = [[July]]), [[jölul]] (8th month = [[August]]), [[zülul]] (9th month = [[September]]), [[degul]] (10th month = [[October]]), [[degbalul]] (11th month = [[November]]), [[degtelul]] (12th month = [[December]])
+* {{l|vo|bal}} ([[1]]), [[tel]] ([[2]]), [[kil]] ([[3]]), [[fol]] ([[4]]), [[lul]] ([[5]]), [[mäl]] ([[6]]), [[vel]] ([[7]]), [[jöl]] ([[8]]), [[zül]] ([[9]]), [[deg]] ([[10]]), [[degbal]] ([[11]]), [[degtel]] ([[12]])
+* {{l|vo|degyel}}
+* {{l|vo|del}}
+* {{l|vo|bal}}
+* {{l|vo|dät}}
+* {{l|vo|düp}}
+* {{l|vo|milyel}}
+* {{l|vo|minut}}
+* {{l|vo|mul}}
+* {{l|vo|sekun}}
+* {{l|vo|tim}}
+* {{l|vo|tumyel}}
+* {{l|vo|tüp}}
+* {{l|vo|vig}}
+* {{l|vo|yel}}
+[[Category:vo:Months]]</text>
+<sha1>9z3j0unarxlcdsqa90f7asoc9w4maxc</sha1>
+</revision>
+</page>

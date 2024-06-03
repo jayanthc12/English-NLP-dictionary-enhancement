@@ -1,0 +1,26 @@
+<page>
+<title>yetkililer</title>
+<ns>0</ns>
+<id>5083462</id>
+<revision>
+<id>54881314</id>
+<parentid>52234970</parentid>
+<timestamp>2019-10-08T11:13:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{hyphenation}}; move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="172" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|/jetkiliˈleɾ/}}
+* {{hyphenation|tr|yet|ki|li|ler}}
+===Noun===
+{{head|tr|noun plural form}}
+# {{inflection of|tr|yetkili||p}}</text>
+<sha1>aexmo09wg71yfnz9f4kxcrwk0d2xjh8</sha1>
+</revision>
+</page>

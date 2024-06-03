@@ -1,0 +1,55 @@
+<page>
+<title>yachter</title>
+<ns>0</ns>
+<id>319985</id>
+<revision>
+<id>64460289</id>
+<parentid>62025897</parentid>
+<timestamp>2021-10-28T12:21:39Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="859" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yacht|er|id2=agent noun}}
+===Pronunciation===
+* {{IPA|en|/ˈjɒtəɹ/}}
+* {{rhymes|en|ɒtə(ɹ)|s=2}}
+===Noun===
+{{en-noun}}
+# A [[person]] who [[sails]] in [[yacht]]s.
+====Related terms====
+{{rel-top}}
+* {{l|en|yacht}}
+{{rel-mid}}
+* {{l|en|yachtsman}}
+* {{l|en|yachty}}
+{{rel-bottom}}
+====Translations====
+{{trans-top|one who sails in yachts}}
+* French: {{t+|fr|yachtman|m}}
+* Irish: {{t|ga|luamhaire|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|яхтсме́н|m}}, {{t+|ru|яхтсме́нка|f}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=acehrty|Cythera|chytrae}}
+[[Category:en:Nautical]]
+[[Category:en:People]]
+----
+==Norwegian Bokmål==
+===Noun===
+{{head|nb|noun form|g=m}}
+# {{inflection of|nb|yacht||indef|p}}
+----
+==Swedish==
+===Noun===
+{{head|sv|noun form}}
+# {{sv-noun-form-indef-pl|yacht}}</text>
+<sha1>bzjovb51kldfiw7q40eml9w553awqh9</sha1>
+</revision>
+</page>

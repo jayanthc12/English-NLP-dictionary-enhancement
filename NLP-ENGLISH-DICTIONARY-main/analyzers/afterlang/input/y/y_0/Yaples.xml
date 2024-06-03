@@ -1,0 +1,25 @@
+<page>
+<title>Yaples</title>
+<ns>0</ns>
+<id>6292798</id>
+<revision>
+<id>63223880</id>
+<parentid>62908910</parentid>
+<timestamp>2021-07-19T23:07:23Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="170" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yaple}}
+===Anagrams===
+* {{anagrams|en|a=aelpsy|Apsley|Aspley|Pasley|palesy|palsey|pleasy}}</text>
+<sha1>bqprzdqd1e56891zpj8z6dx9lm8gs38</sha1>
+</revision>
+</page>

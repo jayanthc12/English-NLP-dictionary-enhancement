@@ -1,0 +1,49 @@
+<page>
+<title>xiphoid</title>
+<ns>0</ns>
+<id>76088</id>
+<revision>
+<id>64249552</id>
+<parentid>54502014</parentid>
+<timestamp>2021-10-16T22:57:59Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="817" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|grc|ξιφοειδής|t=sword-shaped}}.
+===Pronunciation===
+* {{IPA|en|/ˈzɪfɔɪd/}}
+===Adjective===
+{{en-adj|-}}
+# Shaped like a [[sword]], [[ensiform]].
+# {{lb|en|anatomy}} Of or relating to the [[xiphisternum]].
+====Derived terms====
+{{der3|en
+|xiphoid process
+|xiphoidian
+|xiphoidalgia
+|xiphoiditis
+|subxiphoid
+|xiphoidal
+|transxiphoid
+|chondroxiphoid
+|costoxiphoid}}
+====Translations====
+{{trans-top|of or relating to the xiphisternum}}
+* Italian: {{t+|it|xifoide}}
+{{trans-mid}}
+* Spanish: {{t|es|xifoide}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# {{lb|en|anatomy}} The [[xiphoid process]].
+#* '''2000''', Kurt Schwenk, ''Feeding: Form, Function and Evolution in Tetrapod Vertebrates'' (page 466)
+#*: In Asian pangolins the '''xiphoids''' are shorter{{...}}</text>
+<sha1>lbbroonlfkzzxnm4u67ii825idkoh9l</sha1>
+</revision>
+</page>

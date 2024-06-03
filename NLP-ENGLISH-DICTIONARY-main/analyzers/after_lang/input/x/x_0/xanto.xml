@@ -1,0 +1,24 @@
+<page>
+<title>xanto</title>
+<ns>0</ns>
+<id>1321451</id>
+<revision>
+<id>53110255</id>
+<parentid>49268771</parentid>
+<timestamp>2019-05-19T03:27:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person singular present indicative' to 1|s|pres|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">{{also|xanto-|Xanto|xantó}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xantar||1|s|pres|ind}}</text>
+<sha1>p48wv3z4mp1rycgk8gv8n3ztdjjp4ib</sha1>
+</revision>
+</page>

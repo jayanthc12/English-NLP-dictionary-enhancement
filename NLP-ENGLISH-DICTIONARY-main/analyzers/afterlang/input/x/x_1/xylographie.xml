@@ -1,0 +1,31 @@
+<page>
+<title>xylographie</title>
+<ns>0</ns>
+<id>2172385</id>
+<revision>
+<id>67052978</id>
+<parentid>64049860</parentid>
+<timestamp>2022-05-17T11:15:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{affix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==French==
+{{wikipedia|lang=fr}}
+===Etymology===
+From {{af|fr|xylo-|-graphie}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-WikiLucas00-xylographie.wav|Audio}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|art|printing}} [[xylography]], [[woodblock printing]]
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>75bamwvgy2c73fw65l9i247nntowvpg</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>xoxotlaton</title>
+<ns>0</ns>
+<id>4578241</id>
+<revision>
+<id>54617990</id>
+<parentid>51950948</parentid>
+<timestamp>2019-10-03T09:02:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{diminutive of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1250" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xoxotlato}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{suffix|nci|xoxōtla|tōn|t1=firefly}}.
+===Pronunciation===
+* {{IPA|nci|[ʃo.ʃoːˈt͡ɬa.toːn]}}
+===Noun===
+{{nci-noun|a|xoxōtlatōn}}
+# {{diminutive of|nci|xoxōtla}}; a small [[firefly]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 78v. col. 2.
+#*: Luciernaga. ycpitl. copitl. xoxotla. '''xoxotlato'''.
+#*:: A firefly. ycpitl. copitl. xoxotla. '''xoxotlato'''.
+#* ''Idem'', f. 161v. col. 1.
+#*: '''Xoxotlato'''. luciernaga.
+#*:: '''Xoxotlato'''. a firefly.
+====Synonyms====
+* {{sense|firely}} {{l|nci|copitl}}, {{l|nci|icpitl}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=78v, 161v}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=782}}
+[[Category:nci:Insects]]
+[[Category:nci:Light sources]]</text>
+<sha1>5ieh7e0nvwu9digdpk01qkp97ug02ql</sha1>
+</revision>
+</page>

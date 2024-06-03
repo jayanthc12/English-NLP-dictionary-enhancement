@@ -1,0 +1,29 @@
+<page>
+<title>XON</title>
+<ns>0</ns>
+<id>7302224</id>
+<revision>
+<id>53993949</id>
+<parentid>53797401</parentid>
+<timestamp>2019-08-25T18:01:05Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|computing}} [[transmit]] [[on]]
+====Antonyms====
+* [[XOFF]]
+===See also===
+* {{w|Software flow control}}
+===Anagrams===
+* {{anagrams|en|a=nox|NOx|Nox|nox}}</text>
+<sha1>4lrxnsjknz9xanstyh63nvuus577r9a</sha1>
+</revision>
+</page>

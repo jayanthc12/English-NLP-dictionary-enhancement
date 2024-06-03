@@ -1,0 +1,28 @@
+<page>
+<title>yhteiskuntakritiikki</title>
+<ns>0</ns>
+<id>1129716</id>
+<revision>
+<id>69318449</id>
+<parentid>59682855</parentid>
+<timestamp>2022-09-18T17:18:44Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteiskunta|kritiikki}}
+===Pronunciation===
+{{fi-p|yhteis-kunta/kritiikki}}
+===Noun===
+{{head|fi|noun}}
+# [[social criticism]]
+====Declension====
+{{fi-decl-risti|yhteiskuntakritii|kk|k|ä}}</text>
+<sha1>9o9bqje31m4502hli36kzywsgenmi89</sha1>
+</revision>
+</page>

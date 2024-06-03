@@ -1,0 +1,27 @@
+<page>
+<title>xyloma</title>
+<ns>0</ns>
+<id>4842692</id>
+<revision>
+<id>61064058</id>
+<parentid>44224035</parentid>
+<timestamp>2020-11-08T01:42:21Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="189" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xylo|oma}}
+===Noun===
+{{en-noun|s|xylomata}}
+# A [[tumour]] on the [[woody]] part of a [[plant]]
+===Anagrams===
+* {{anagrams|en|a=almoxy|oxamyl}}</text>
+<sha1>245abmptni8upwe47buh7hwnaj22rzz</sha1>
+</revision>
+</page>

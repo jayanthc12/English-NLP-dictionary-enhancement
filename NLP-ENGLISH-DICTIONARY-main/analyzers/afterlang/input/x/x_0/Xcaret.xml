@@ -1,0 +1,26 @@
+<page>
+<title>Xcaret</title>
+<ns>0</ns>
+<id>5896803</id>
+<revision>
+<id>67300552</id>
+<parentid>41282434</parentid>
+<timestamp>2022-06-06T12:56:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|myn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|myn|-}}, meaning &quot;small inlet&quot;.
+===Proper noun===
+{{en-proper noun}}
+# A [[Maya]] [[civilization]] [[archaeological]] [[site]] located on the [[Caribbean]] [[coastline]] of the Yucatán Peninsula, in the state of [[Quintana Roo]] in [[Mexico]].</text>
+<sha1>1quptk3t2l5dzoieub9z060rbnzqqtz</sha1>
+</revision>
+</page>

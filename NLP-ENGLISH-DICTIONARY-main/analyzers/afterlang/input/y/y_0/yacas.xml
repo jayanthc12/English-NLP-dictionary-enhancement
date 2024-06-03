@@ -1,0 +1,23 @@
+<page>
+<title>yacas</title>
+<ns>0</ns>
+<id>3670023</id>
+<revision>
+<id>62205828</id>
+<parentid>57275829</parentid>
+<timestamp>2021-03-20T15:54:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Spanish 'noun plural form' -&gt; 'noun form' (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="83" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=f-p}}
+# {{inflection of|es|yaca||p}}</text>
+<sha1>d268quu3fybpm83rtewvjfx94ip6n0b</sha1>
+</revision>
+</page>

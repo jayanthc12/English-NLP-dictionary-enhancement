@@ -1,0 +1,23 @@
+<page>
+<title>yarlyks</title>
+<ns>0</ns>
+<id>4831829</id>
+<revision>
+<id>55749533</id>
+<parentid>53092758</parentid>
+<timestamp>2019-10-15T15:08:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yarlyk}}</text>
+<sha1>4cwgltf9lqcgnmq81sxica6f5g5t7tp</sha1>
+</revision>
+</page>

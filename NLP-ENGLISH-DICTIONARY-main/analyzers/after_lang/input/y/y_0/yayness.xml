@@ -1,0 +1,31 @@
+<page>
+<title>yayness</title>
+<ns>0</ns>
+<id>2479017</id>
+<revision>
+<id>55780334</id>
+<parentid>53305933</parentid>
+<timestamp>2019-10-16T02:25:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="505" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yay|ness}}
+===Pronunciation===
+* {{audio|en|En-au-yayness.ogg|Audio (AU)}}
+===Interjection===
+{{en-interj}}
+# {{lb|en|slang|childish}} [[yay]]; [[hooray]]
+#* '''2000''', &quot;Miss Sparkle&quot;, ''Much yayness of the yay variety!'' (on Internet newsgroup ''alt.uk.penpals'')
+#*: Wooo, '''yayness''' for you also! :)
+#* '''2001''', &quot;Belegdel&quot;, ''ten for ten [poll]'' (on Internet newsgroup ''aus.culture.gothic'')
+#*: I finally have Aliens Special Edition! '''Yayness'''!</text>
+<sha1>4nb58g9kd8sak0frz7f6r9g138u70sc</sha1>
+</revision>
+</page>

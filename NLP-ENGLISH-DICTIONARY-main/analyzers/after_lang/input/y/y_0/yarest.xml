@@ -1,0 +1,25 @@
+<page>
+<title>yarest</title>
+<ns>0</ns>
+<id>1907568</id>
+<revision>
+<id>51229589</id>
+<parentid>50841512</parentid>
+<timestamp>2019-01-09T12:19:09Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:en) change comparative &amp; superlative adjective &amp; adverb categorization</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="199" xml:space="preserve">==English==
+===Adjective===
+{{head|en|superlative adjective}}
+# {{en-superlative of|yare}}
+===Anagrams===
+* {{anagrams|en|a=aersty|Stayer|e-trays|estray|reasty|satyre|starey|stayer|stayre|tyrase}}</text>
+<sha1>9v5zwnnp65jeroqetcl6rqeu1d9ct3g</sha1>
+</revision>
+</page>

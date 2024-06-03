@@ -1,0 +1,29 @@
+<page>
+<title>xanthophyllous</title>
+<ns>0</ns>
+<id>5183051</id>
+<revision>
+<id>61117526</id>
+<parentid>47925291</parentid>
+<timestamp>2020-11-14T08:22:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="591" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xanthophyll|ous}}
+===Adjective===
+{{en-adj|-}}
+# Of or relating to [[xanthophyll]].
+#* '''2003''', Ludwik Frey, ''Problems of grass biology'' (page 203)
+#*: The impact of '''xanthophyllous''' dyes on the overall colour of plants is negligible, as they occur in very small quantities.
+#* '''2008''', Catherine A. Culver, Ronald E. Wrolstad, ''Color Quality of Fresh and Processed Foods'' (page 104)
+#*: White and yellow flesh potato have '''xanthophyllous''' carotenoids. Yellow color intensity is a determinant of xanthophyll content up to a point.</text>
+<sha1>d3r1fjiy8ufxi9753d7bft0yxshi2h4</sha1>
+</revision>
+</page>

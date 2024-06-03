@@ -1,0 +1,34 @@
+<page>
+<title>xocoyotl</title>
+<ns>0</ns>
+<id>622497</id>
+<revision>
+<id>58156586</id>
+<parentid>55441271</parentid>
+<timestamp>2019-12-13T04:08:43Z</timestamp>
+<contributor>
+<username>InternetArchiveBot</username>
+<id>3438671</id>
+</contributor>
+<comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="970" xml:space="preserve">==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃoːkojoːtɬ/}}
+===Noun===
+{{head|nci|noun|head=xōcoyōtl}}
+# A youngest child.
+# (with names) The Younger.
+====Derived terms====
+* {{l|nci|mahpilxocoyotl}}
+====Descendants====
+* {{desc|es|xocoyote|bor=1}}
+===References===
+* {{cite-web|author=Campbell, R. Joe|year=1997|title=Florentine Codex Vocabulary|url=http://www2.potsdam.edu/schwaljf/Nahuatl/florent.txt|accessdate=16 June 2007|archiveurl=https://web.archive.org/web/20110220014607/http://www2.potsdam.edu/schwaljf/Nahuatl/florent.txt|archivedate=20 February 2011}}
+* {{cite-book|author=Karttunen, Francis|year=1983|title=An Analytical Dictionary of Nahuatl|location=Austin|publisher=University of Texas Press|page=330}}
+* {{cite-book|author=Lockhart, James|year=2001|title=Nahuatl as Written: Lessons in Older Written Nahuatl, with Copious Examples and Texts|location=Stanford|publisher=Stanford University Press|page=241}}
+[[Category:nci:Family]]</text>
+<sha1>nhl30zwenf2v5r9n2eoiy4li4ebtlyk</sha1>
+</revision>
+</page>

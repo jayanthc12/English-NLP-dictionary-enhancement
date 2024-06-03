@@ -1,0 +1,23 @@
+<page>
+<title>XVIIJ</title>
+<ns>0</ns>
+<id>6264002</id>
+<revision>
+<id>54525660</id>
+<parentid>46888399</parentid>
+<timestamp>2019-10-01T14:08:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="80" xml:space="preserve">==Translingual==
+===Numeral===
+{{mul-number}}
+# {{obsolete form of|mul|XVIII}}</text>
+<sha1>a7hft1j94ijpldlnmwli1amv412jk75</sha1>
+</revision>
+</page>

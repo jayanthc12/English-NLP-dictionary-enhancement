@@ -1,0 +1,39 @@
+<page>
+<title>yeomanry</title>
+<ns>0</ns>
+<id>250787</id>
+<revision>
+<id>68570342</id>
+<parentid>61664514</parentid>
+<timestamp>2022-08-09T09:07:24Z</timestamp>
+<contributor>
+<username>J3133</username>
+<id>3466327</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="968" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|ȝemanry}}, {{m|enm|yemandry}}, {{m|enm|yemari|yema''[''n'']''ri}}, {{m|enm|yemanrye}}, {{m|enm|yomandrye}}, {{m|enm|yomanry}}; equivalent to {{suffix|en|yeoman|ry}}.
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈjoʊmənɹi/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|historical}} A class of small [[freeholder]]s who [[cultivate]]d their own [[land]].
+#* {{RQ:Bancroft USA}}
+#*: The enfranchised '''yeomanry''' began to feel an instinct for dominion.
+# A British [[volunteer]] [[cavalry]] force organized in 1761 for home defense and later incorporated into the [[Territorial Army]].
+====Related terms====
+* {{l|en|yeoman}}
+====Translations====
+{{trans-top|class}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[自耕農]][[階級]]}}, {{t|cmn|[[自耕农]][[阶级]]|tr=zìgēngnóng jiējí}}
+* Finnish: {{t|fi|talonpojat|p}}, {{t|fi|talonpoikaisto}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:en:Collectives]]
+[[Category:en:Military]]</text>
+<sha1>hyvebza11hukh7ey16etiseh83o3vmi</sha1>
+</revision>
+</page>

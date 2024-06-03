@@ -1,0 +1,33 @@
+<page>
+<title>xantato</title>
+<ns>0</ns>
+<id>1602658</id>
+<revision>
+<id>69470695</id>
+<parentid>54236583</parentid>
+<timestamp>2022-10-08T16:20:49Z</timestamp>
+<contributor>
+<username>Malhonen</username>
+<id>49012</id>
+</contributor>
+<comment>/* Noun */ Spanish: masculine, not feminine</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="309" xml:space="preserve">==Italian==
+===Noun===
+{{it-noun|m}}
+# {{lb|it|organic chemistry}} [[xanthate]]
+====Related terms====
+* {{l|it|acido xantico}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|organic compound}} [[xanthate]]
+====Related terms====
+* {{l|es|xántico}}
+* {{l|es|ácido xántico}}</text>
+<sha1>pm0xtfwjgvp1ueixhym2iowhwmeoaw9</sha1>
+</revision>
+</page>

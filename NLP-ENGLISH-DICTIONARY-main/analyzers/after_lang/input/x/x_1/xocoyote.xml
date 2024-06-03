@@ -1,0 +1,33 @@
+<page>
+<title>xocoyote</title>
+<ns>0</ns>
+<id>3698570</id>
+<revision>
+<id>68950713</id>
+<parentid>64460244</parentid>
+<timestamp>2022-08-28T20:54:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="335" xml:space="preserve">==Spanish==
+===Alternative forms===
+* {{alter|es|socoyote}}
+===Etymology===
+From {{bor|es|nci|xōcōyotl||youngest child}}.
+===Pronunciation===
+{{es-IPA|shocoyote}}
+* {{rhymes|es|ote|s=4}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|Mexico}} the youngest [[child]] of a family
+#: {{syn|es|benjamín}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>qn28dah6jr16vtpyn3za2lotj940vyr</sha1>
+</revision>
+</page>

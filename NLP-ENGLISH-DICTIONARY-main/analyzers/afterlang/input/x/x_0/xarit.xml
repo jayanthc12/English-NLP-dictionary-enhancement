@@ -1,0 +1,31 @@
+<page>
+<title>xarit</title>
+<ns>0</ns>
+<id>191427</id>
+<revision>
+<id>55345321</id>
+<parentid>52215571</parentid>
+<timestamp>2019-10-14T11:21:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="219" xml:space="preserve">==Wolof==
+===Pronunciation===
+* {{IPA|wo|/ˈxarit/}}
+* {{audio|wo|wo-xarit.ogg|Audio}}
+===Noun===
+{{wo-noun|bi}}
+# [[friend]]
+===Noun===
+{{wo-noun|wi}}
+# [[detached]] [[piece]]
+====Related terms====
+* {{l|wo|xar}}</text>
+<sha1>7bhr66xrnbaghypgihjot4qjeelp2ic</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>Yana</title>
+<ns>0</ns>
+<id>504769</id>
+<revision>
+<id>68779483</id>
+<parentid>67887097</parentid>
+<timestamp>2022-08-27T09:35:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1106" xml:space="preserve">{{also|yana|yāna|yaña|þana|ya na}}
+==English==
+{{wikipedia}}
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈjɑː.nə/}}
+===Etymology 1===
+Cognate to English [[Jane]], ultimately from {{uder|en|he|-}}, feminine form of [[Ioannes]] ( =[[John]]).{{rfv-etym|en}}
+====Proper noun====
+{{en-proper noun}}
+# {{given name|en|female|from=Slavic languages}}. A romanization of the {{der|en|bg|-}} or {{der|en|ru|-}} name {{m|bg|Я́на}}.
+# A river in [[Sakha]] ([[Yakutia]]), [[Russia]] that rises near [[Verkhoyansk]] and flows into the {{w|Yana Bay}} of the [[Laptev Sea]].
+===Etymology 2===
+From {{bor|en|ynn|yana|t=person, people}}.
+====Noun====
+{{en-noun|s|Yana}}
+# A member of a North American Indian people who once resided in the eastern portion of the upper Sacramento River valley in California.
+====Proper noun====
+{{en-proper noun}}
+# The now extinct language of the Yana people, best known for a systematic differentiation between men's and women's speech.
+=====Synonyms=====
+* {{l|en|Yanan}}
+===Anagrams===
+* {{anagrams|en|a=aany|Anya|Ayan|Ya'an|Ya-an}}
+[[Category:en:Rivers in Russia]]</text>
+<sha1>b4xuqsf8x51x4fi6mjja68k5td8t6zg</sha1>
+</revision>
+</page>

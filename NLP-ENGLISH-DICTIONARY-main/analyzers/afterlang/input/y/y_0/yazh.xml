@@ -1,0 +1,35 @@
+<page>
+<title>yazh</title>
+<ns>0</ns>
+<id>4979493</id>
+<revision>
+<id>68835741</id>
+<parentid>65049186</parentid>
+<timestamp>2022-08-27T23:41:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="662" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ta|யாழ்}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|musical instrument}} A fretless harp of ancient Tamil origin, with a variable number of gut strings, characterized by a boat-shaped resonator.
+====Synonyms====
+* {{l|en|yaaḻ}}
+====See also====
+* [[Appendix:Glossary of chordophones]]
+====References====
+* 1966. [https://books.google.com/books?id=uv0tAAAAMAAJ&amp;q=yazh&amp;dq=yazh&amp;hl=en&amp;sa=X&amp;ved=0CEMQ6AEwCTgKahUKEwj5_5jgy-fHAhWEcD4KHeGJB_M ''Indian Aesthetics: Music and Dance'']. K. S. Ramaswami Sastri. Pg. 21.
+===Anagrams===
+* {{anagrams|en|a=ahyz|hazy}}
+[[Category:en:String instruments]]</text>
+<sha1>5ah4vihzzd49vmmzzbbjag6y7qt6j56</sha1>
+</revision>
+</page>

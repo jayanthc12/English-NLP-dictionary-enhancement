@@ -1,0 +1,28 @@
+<page>
+<title>yhdensuuntaisuus</title>
+<ns>0</ns>
+<id>6472349</id>
+<revision>
+<id>69318365</id>
+<parentid>59682838</parentid>
+<timestamp>2022-09-18T17:14:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdensuuntainen|-uus}}
+===Pronunciation===
+{{fi-p|yhden-suuntaisuus}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|math}} [[parallelism]]
+====Declension====
+{{fi-decl-kalleus|yhdensuuntaisuu|a}}</text>
+<sha1>8ughgvvuw5y3fsrxumw38swqhhuqitp</sha1>
+</revision>
+</page>

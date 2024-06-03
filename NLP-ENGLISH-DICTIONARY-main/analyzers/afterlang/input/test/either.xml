@@ -1,0 +1,235 @@
+<page>
+<title>either</title>
+<ns>0</ns>
+<id>49363</id>
+<revision>
+<id>69251290</id>
+<parentid>69244329</parentid>
+<timestamp>2022-09-13T16:08:49Z</timestamp>
+<contributor>
+<username>Glades12</username>
+<id>3496740</id>
+</contributor>
+<comment>/* Translations */Correct translation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="12527" xml:space="preserve">{{also|eiþer}}
+==English==
+===Etymology===
+{{root|en|ine-pro|*h₂ey-|*kʷ-|*-teros}}
+From {{inh|en|enm|either}}, from {{inh|en|ang|ǣġhwæþer}}, from {{der|en|gem-pro|-}}, ultimately corresponding to {{m|en|ay||always, ever}} + {{m|en|whether}}. Akin to Old Saxon {{m|osx|eogihwethar}}, {{m|osx|iahwethar}} (Low German {{m|nds|jeed}}); Old Dutch {{m|odt|*iogewether}}, {{m|odt|*iowether}}, {{m|odt|*iother}} (Dutch {{m|nl|ieder}}); Old High German {{m|goh|eogihwedar}}, {{m|goh|iegihweder}}, {{m|goh|ieweder}} (German {{m|de|jeder}}).
+===Pronunciation===
+* {{enPR|ī′''th''ə(r)|ē′''th''ə(r)}} {{IPA|en|/ˈaɪ.ðə(ɹ)/|/ˈiː.ðə(ɹ)/}}
+** {{audio|en|en-uk-either.ogg|Audio (UK)}}, {{audio|en|en-us-either.ogg|Audio (US)}}
+* {{rhymes|en|aɪðə(ɹ)|iːðə(ɹ)|s=2}}
+* {{q|obsolete (in use until the 20th c.)}} {{enPR|ā′''th''ə(r)}} {{IPA|en|/ˈeɪ.ðə(ɹ)/}}
+* In the UK, {{IPAchar|/aɪ/}} is used more in Southern England, and {{IPAchar|/iː/}} is more usual in Northern England. In North America, {{IPAchar|/iː/}} is the most common, but {{IPAchar|/aɪ/}} is predominant in some regions. Note that even if one pronunciation is more common in a region, the pronunciation used varies by individual speaker and sometimes by situation. {{IPAchar|/eɪ/}} was once heard in Northern England, but has now largely fallen into disuse.&lt;ref&gt;&quot;Pronunciation: Either&quot;. Reader's Digest. (1964). ''The Complete Atlas of the British Isles'', p. 123.&lt;/ref&gt;
+===Determiner===
+{{en-det}}
+# Any one (of two).
+#: {{ux|en|You can have it in '''either''' colour.}}
+# Each of two; both. {{defdate|from 9th c.}}
+#: {{ux|en|There is a locomotive at '''either''' end of the train, one pulling and the other pushing.}}
+#* {{RQ:Milton Paradise Lost|book=3|passage=His flowing hair &lt;br&gt; In curls on '''either''' cheek played.}}
+#* '''1936''', {{w|Djuna Barnes}}, ''{{w|Nightwood}}'', Faber &amp; Faber 2007, page 31:
+#*: Her hands, long and beautiful, lay on '''either''' side of her face.
+# {{lb|en|now|rare}} Any one (of more than two).
+#* {{RQ:Richardson Clarissa|letter=51|text=They ''entreat'', they ''pray'', they ''beg'', they ''supplicate'' (will '''either''' of these do, Miss Clary?) that you will make no scruple to go to your uncle Antony's {{…}}.}}
+====Usage notes====
+* When there are more than two alternatives, in the sense of “one of many”, {{m|en|any}} is now generally used instead.
+====Synonyms====
+* {{sense|each of two}} {{l|en|both}}, {{l|en|each}}
+====Translations====
+{{trans-top|each of two}}
+* Bulgarian: {{t|bg|всеки|m|sc=Cyrl}}
+* Danish: {{t+|da|begge}}
+* Dutch: {{t+|nl|beide}}
+* Estonian: {{t+|et|mõlemad}}
+* Finnish: {{t+|fi|kumpikin}}, {{t+|fi|molemmat}}
+* French: {{t+|fr|chaque}}
+* German: {{t+|de|beide}}
+* Greek: {{t+|el|είτε}}
+* Hungarian: {{t+|hu|vagy}}
+* Italian: {{t+|it|ciascuno}}, {{t+|it|entrambi|m-p}}, {{t+|it|ogni}}
+* Latin: {{t|la|alteruter}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|begge}}
+* Pashto: {{t+|ps|دواړه|tr=dwâṛa}}
+* Polish: {{t+|pl|oba}}
+* Portuguese: {{t+|pt|ambos|m-p}}, {{t|pt|qualquer um|m-p}}
+* Romanian: {{t+|ro|fiecare}}, {{t+|ro|amândoi}}
+* Russian: {{t+|ru|ка́ждый}}
+* Spanish: {{t+|es|cada}}
+* Ukrainian: {{t|uk|ко́жен}}
+{{trans-bottom}}
+===Pronoun===
+{{en-pron}}
+# One or the other of two people or things.
+#: {{ux|en|He made me two offers, but I did not accept '''either'''.}}
+#* {{quote-web|en|date=7 September 2013|author=Daniel Taylor|title=Danny Welbeck leads England's rout of Moldova but hit by Ukraine ban|work=The Guardian|url=https://www.theguardian.com/football/2013/sep/06/england-moldova-world-cup-qualifier-matchreport|passage={{w|Roy Hodgson|Hodgson}} may now have to bring in {{w|James Milner}} on the left and, on that basis, a certain amount of gloss was taken off a night on which {{w|Danny Welbeck|Welbeck}} scored twice but barely celebrated '''either''' before leaving the pitch angrily complaining to the Slovakian referee.}}
+# {{lb|en|obsolete}} [[both|Both]], each of two or more.
+#* {{RQ:Bacon War with Spain|passage=Scarce a palm of ground could be gotten by '''either''' of the three.}}
+#* {{RQ:Spenser Faerie Queene|book=III|canto=I|passage=And '''either''' vowd with all their power and wit, / To let not others honour be defaste {{...}}}}
+#* '''1872''', {{w|Oliver Wendell Holmes, Sr.}}, ''The Poet at the Breakfast-Table''
+#*: There have been three famous talkers in Great British, '''either''' of whom would illustrate what I say about dogmatists.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|conjunctive|after a negative}} As well.
+#: {{ux|en|I don't like him, and I don't like her '''either'''.}}
+#: {{ux|en|I know a cheap Spanish restaurant. It's not far from here, '''either'''.}}
+#* {{quote-book|en|year=1959|author={{w|Georgette Heyer}}|title={{w|The Unknown Ajax}}|chapter=1|passage=But Richmond{{...}}appeared to lose himself in his own reflections. Some pickled crab, which he had not touched, had been removed with a damson pie; and his sister saw{{...}}that he had eaten no more than a spoonful of that '''either'''.}}
+====Usage notes====
+After a positive statement, {{m|en|too}} is commonly used: “I like him, and I like her too.”
+{{m|en|either|Either}} is sometimes used, especially in North American English, where {{m|en|neither}} would be more traditionally accurate: “I’m not hungry.” “Me either.”
+====Translations====
+{{trans-top|(after a negative) as well}}
+* Arabic: {{t+|ar|أَيْضًا}}, {{t|ar|كَذٰلِكَ|tr=ka-ḏālika}}
+* Bulgarian: {{t+|bg|също|sc=Cyrl}}
+* Catalan: {{t+|ca|tampoc}}
+* Danish: {{t|da|heller}}
+* Dutch: {{t|nl|ook (niet)}}
+* Estonian: {{t+|et|samuti}}
+* Finnish: {{t+|fi|myöskään}}, {{t+|fi|-kaan}}, {{t+|fi|-kään}}
+* French: {{t+|fr|non plus}}
+* German: {{t+|de|auch}}, {{t+|de|ebenso}}, {{t+|de|ebenfalls}}
+* Greek: {{t+|el|ούτε}}
+* Hungarian: {{t+|hu|sem}}
+{{trans-mid}}
+* Irish: {{t|ga|ach oiread}}
+* Italian: {{t+|it|neanche}}, {{t+|it|nemmeno}}, {{t+|it|neppure}}
+* Polish: {{t|pl|też nie}}
+* Portuguese: {{t|pt|[[também]] [[não]]}}, {{t+|pt|tampouco}}
+* Romanian: {{t+|ro|nici}}
+* Russian: {{t|ru|[[та́кже]] не}}
+* Spanish: {{t+|es|tampoco}}
+* Swedish: {{t+|sv|heller}}
+* Ukrainian: {{t+|uk|тако́ж}}
+{{trans-bottom}}
+===Conjunction===
+{{en-con}}
+# {{n-g|Introduces the first of two (or occasionally more) options or possibilities, the second (or last) of which is introduced by “[[or]]”}}.
+#: '''''Either''' you eat your dinner or you go to your room.''
+#: ''You can have '''either''' potatoes or rice with that, but not both.''
+#: {{ux|en|You'll be '''either''' early, late, or on time.}}
+#* {{quote-journal|en|date=December 5, 2006|title=[http://www.usatoday.com/life/people/2006-12-05-mason_x.htm Mason drops lawsuit vs. Jews for Jesus]|work=USA Today|passage=You can't be a table and a chair. You're '''either''' a Jew or a gentile.|quotee={{w|Jackie Mason}}}}
+#* {{quote-book|en|year=1893|author={{w|Walter Besant}}|title=[http://gutenberg.org/ebooks/34738 The Ivory Gate]|chapter=Prologue|passage=Thus, when he drew up instructions in lawyer language{{...}}his clerks{{...}}understood him very well. If he had written a love letter, or a farce, or a ''ballade'', or a story, no one, '''either''' clerks, or friends, or compositors, would have understood anything but a word here and a word there.}}
+====Translations====
+{{trans-top|introduces the first of two options}}
+* Arabic: {{t|ar|إِمَا}}
+*: Egyptian Arabic: {{t|arz|[[اما]] ...[[أو]]|tr=ʾima...ʾaw..}}, {{t|arz|[[يا]] [[اما]]... [[يا]]|tr=ya ʾima... ya}}
+* Belarusian: {{t|be|[[або́]] ... [[або́]]}}, {{t|be|[[альбо́]] ... [[альбо́]]}}, {{t|be|[[ці]] ... [[ці]]}}
+* Bulgarian: {{t|bg|[[или]] ... [[или]]}}, {{t|bg|[[нито]] ... [[нито]]}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[或者]]……[[或者]]……|tr=huòzhě ... huòzhě ...}}, {{t|cmn|[[要麼]]……[[要麼]]……}}, {{t|cmn|[[要么]]……[[要么]]……|tr=yàome ... yàome ...}}
+* Czech: {{t+|cs|buď}}, {{t|cs|[[buď]] ... [[nebo]]}}
+* Dutch: {{t+|nl|of}}, {{t+|nl|ofwel}}, {{t+|nl|hetzij}}
+* Esperanto: {{t+|eo|ĉu}}
+* Estonian: {{t+|et|kas}}
+* Faroese: {{t|fo|antin}}
+* Finnish: {{t+|fi|joko}}, {{t|fi|joko tai}}
+* French: {{t+|fr|ou}}, {{t+|fr|soit}}, {{t|fr|[[soit]] ... [[ou]]}}
+* German: {{t+|de|entweder}}, {{t|de|[[entweder]] ... [[oder]]}}
+* Gothic: {{t|got|𐌰𐌽𐌳𐌹𐌶𐌿𐌷}}
+* Greek: {{t|el|[[είτε]] ... [[είτε]]}}
+*: Ancient: {{t|grc|[[ἤτοι]] ... [[ἤ]]}}, {{t|grc|[[εἴτε]] ... [[εἴτε]]}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|vagy}}...{{t+|hu|vagy}}...
+* Italian: {{t+|it|o}}, {{t+|it|oppure}}
+* Japanese: {{t|ja|…[[か]]…[[か]]|tr=-ka ...-ka}}
+* Korean: {{t|ko|...[[든지]] ...-[[든지]]}}, {{t|ko|...[[든]] ...-[[든]]}}
+* Latin: {{t+|la|aut}}...
+* Norwegian:
+*: Bokmål: {{t+|nb|enten}}
+*: Nynorsk: {{t|nn|anten}}, {{t|nn|enten}}
+* Old English: {{t|ang|oþþe}}
+* Persian: {{t+|fa|یا}}
+* Polish: {{t+|pl|albo}}... {{t+|pl|albo}}..., {{qualifier|with negative}} {{t|pl|[[ani]] ... [[ani]]}}..., {{t+|pl|bądź}}
+* Portuguese: {{t|pt|[[ou]] ... [[ou]]}}
+* Russian: {{t|ru|[[и́ли]] ... [[и́ли]]}}, {{t|ru|[[ли́бо]] ... [[ли́бо]]}}
+* Scots: {{t|sco|ither}}
+* Scottish Gaelic: {{t|gd|aon chuid}}, {{t|gd|an dara cuid}}
+* Slovak: {{t+|sk|buď}}...{{t|sk|alebo}}...
+* Spanish: {{t|es|[[o]] ... [[o]]}}, {{t|es|[[ya sea]]...[[o]]}}
+* Swedish: {{t+|sv|antingen}}...{{t+|sv|eller}}
+* Turkish: {{t|tr|[[ya]] ... [[ya]]}}, {{t|tr|[[ya]] ... [[ya da]]}}
+* Ukrainian: {{t|uk|[[або́]] ... [[або́]]}}
+* Vietnamese: {{t|vi|[[hoặc]] … hoặc}}
+{{trans-bottom}}
+{{ttbc-top}}
+&lt;!-- These translations were previously categorised under the &quot;Determiner&quot; heading with the meaning &quot;One or the other of two&quot;. After a reorganisation of the English definitions, they ended up here. Some of them duplicate the translations of &quot;introduces the first of two options&quot;, above, and others do not. It needs to be determined where these should rightfully go. --&gt;
+* Belarusian: {{t|be|любы́|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|или|sc=Cyrl}}, {{t|bg|един или друг|m|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[兩者]][[之一]]|sc=Hani}}, {{t|cmn|[[两者]][[之一]]|tr=liǎng zhě zhī yī|sc=Hani}}
+* Dutch: {{t+|nl|of|alt=of ... of}}
+* Estonian: {{t|et|kumb}}
+* Finnish: {{t+|fi|jompikumpi}}
+* French: {{t+|fr|soit|alt=soit ... soit}}, {{t+|fr|ou|alt=ou ... ou}}
+* German: {{t+|de|entweder|alt=entweder ... oder}}
+* Irish: {{t|ga|ceachtar}}
+* Italian: {{t+|it|o|alt=o ... o}}
+* Japanese: {{t|ja|どちらか|tr=dochiraka}}
+* Norwegian:
+*: Bokmål: {{t+|nb|enten|alt=enten ... eller}}
+*: Nynorsk: {{t|nn|anten|alt=anten ... eller}}
+{{ttbc-mid}}
+* Pashto: {{t|ps|لا|tr=lâ}}, {{t+|ps|يا|tr=yâ}}
+* Polish: {{t+|pl|albo|alt=albo ... albo}}
+* Portuguese: {{t+|pt|ou|alt=ou ... ou}}
+* Romanian: {{t+|ro|sau|alt=sau ... sau}}
+* Russian: {{t+|ru|любо́й}}, {{t|ru|[[оди́н]] из [[два|двух]]}}, {{t|ru|[[оди́н]] и́ли [[друго́й]]}}
+* Scots: {{t|sco|ither}}
+* Spanish: {{t+|es|o|alt=o ... o}}, {{t+|es|bien|alt=bien ... bien}}
+* Ukrainian: {{t+|uk|будь-яки́й}}
+* Westrobothnian: {{t|gmq-bot|ænndern}}
+{{ttbc-bottom}}
+===See also===
+* {{l|en|neither}}
+* {{l|en|nor}}
+* {{l|en|or}}
+===References===
+&lt;references/&gt;
+* {{R:Lexico}}
+===Anagrams===
+* {{anagrams|en|a=eehirt|Ethier|theire}}
+[[Category:English conjunctive adverbs]]
+[[Category:English indefinite pronouns]]
+[[Category:English terms with mixed convergence]]
+[[Category:English third person pronouns]]
+----
+==Middle English==
+===Alternative forms===
+* {{alter|enm|æȝþer|ethir|eiþer|outher}}
+===Etymology===
+From {{inh|enm|ang|ǣġþer}}, a contraction of {{m|ang|ǣġhwæþer}}.
+===Pronunciation===
+* {{IPA|enm|/ˈɛi̯ðər/}}
+===Determiner===
+{{head|enm|determiner}}
+# [[both|Both]] of two.
+# [[each|Each]] of two.
+# Either of two.
+====Descendants====
+* {{desc|en|either}}
+* {{desc|sco|aither}}
+===Pronoun===
+{{head|enm|pronoun}}
+# [[both|Both]] of two members of a group.
+# [[each|Each]] of two members of a group.
+# Either of two members of a group.
+====Descendants====
+* {{desc|en|either}}
+* {{desc|sco|aither}}
+===Adjective===
+{{head|enm|adjective}}
+# [[both|Both]], all, or any of a set.
+# [[each|Each]] of a group.
+===See also===
+* {{l|enm|ayther}}
+===References===
+* {{R:MED Online|entry=either|pos=pron|id=MED13175|accessdate=2018-02-20}}
+* {{R:MED Online|entry=either|pos=conj|id=MED13176}}</text>
+<sha1>fc0f2r31j41ihgh6le67whab4qv6aht</sha1>
+</revision>
+</page>

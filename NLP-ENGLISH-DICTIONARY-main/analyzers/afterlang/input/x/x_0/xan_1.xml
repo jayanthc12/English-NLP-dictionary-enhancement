@@ -1,0 +1,59 @@
+<page>
+<title>xan</title>
+<ns>0</ns>
+<id>3473973</id>
+<revision>
+<id>67245347</id>
+<parentid>67237335</parentid>
+<timestamp>2022-06-04T22:07:20Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1255" xml:space="preserve">{{also|Xan}}
+==Azerbaijani==
+===Etymology===
+{{inh+|az|trk-pro|*kagan}}.
+===Noun===
+{{az-noun}}
+# [[khan]] {{C|az|Heads of state}}
+====Declension====
+{{az-decl-noun|a|c}}
+====Derived terms====
+* {{l|az|xanlıq||khanate}}
+* {{l|az|Xankəndi}}
+----
+==Bipi==
+===Noun===
+{{head|biq|noun}}
+# [[water]], [[fresh water]]
+===Further reading===
+* {{R:poz-oce:Ross 1988}}
+----
+==Galician==
+{{was fwotd|gl|2013|August|5}}
+===Etymology===
+{{rfe|gl}}
+===Pronunciation===
+* {{IPA|gl|/ʃaŋ/}}
+===Noun===
+{{gl-noun|m|xans}}
+# a {{l|en|man}} who lets himself be {{l|en|control|controlled}} by anyone else&lt;ref&gt;“[https://web.archive.org/web/20130722230111/http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=xan xan]”. Dicionario da Real Academia Galega.&lt;/ref&gt;; a {{l|en|weakling}}
+#* '''1996''', Xosé Cid Cabido, ''Unha liña no ceo: 58 narradores galegos, 1979-1996'', Xerais de Galicia, [http://books.google.com/books?id=e6EsAQAAMAAJ&amp;dq=%22un+xan%22#search_anchor page 270]:
+#*: —Xa ti mesma o dis: un '''xan''', un xanciño.
+#*:: —You say it yourself: a '''weakling''', a little weakling.
+====Derived terms====
+* {{l|gl|xanciño}}
+===References===
+&lt;references/&gt;
+----
+==Yámana==
+===Pronoun===
+{{head|yag|pronoun}}
+# [[we]]</text>
+<sha1>a2mc7y3y01lk8bqy4qn5tsxbehh6f70</sha1>
+</revision>
+</page>

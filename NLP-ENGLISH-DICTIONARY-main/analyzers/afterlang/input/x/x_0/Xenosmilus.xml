@@ -1,0 +1,33 @@
+<page>
+<title>Xenosmilus</title>
+<ns>0</ns>
+<id>942120</id>
+<revision>
+<id>60238604</id>
+<parentid>58057415</parentid>
+<timestamp>2020-09-04T05:29:20Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="411" xml:space="preserve">==Translingual==
+[[File:Xenosmilus.jpg|thumb]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+†{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Felidae|[[extinct]] [[Machairodontinae]], [[saber-toothed cat]]s}}
+====Hypernyms====
+* {{sense|genus}} {{Felidae Hypernyms}}; †[[Machairodontinae]]&amp;nbsp;- subfamily
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+[[Category:mul:Cats]]</text>
+<sha1>4rwrkxtsdf13x55pz52osgkg66qe8xy</sha1>
+</revision>
+</page>

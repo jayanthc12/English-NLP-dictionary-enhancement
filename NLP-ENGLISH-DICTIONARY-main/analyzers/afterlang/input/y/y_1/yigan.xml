@@ -1,0 +1,33 @@
+<page>
+<title>yigan</title>
+<ns>0</ns>
+<id>3640290</id>
+<revision>
+<id>69316878</id>
+<parentid>46211244</parentid>
+<timestamp>2022-09-18T15:55:45Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="621" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|y-peg|3s|∅}} {{nv-link-to-stem|-gan|conclusive imperfective}} {{nv-link-to-root|-GAN|wither}}.
+===Verb===
+{{head|nv|verb}}
+# he/she/it is [[dry up|drying up]], [[wither#Verb|withering]]
+# he/she/it is becoming very [[skinny]]
+====Conjugation====
+{{nv-paradigm|conclusive|∅/si}}.
+{{nv-verbtable|IMPERFECTIVE
+|yishgan|yiigan|deiigan|nigan|wohgan|daahgan|yigan|daagan|jigan|dajigan}}
+{{nv-verbtable|PERFECTIVE
+|ségan|siigan|dasiigan|sínígan|soogan|dasoogan|sigan|daazgan|jizgan|dajizgan}}
+====Related terms====
+* {{l|nv|yiłgan|pos=transitive||he/she/it is drying it up}}</text>
+<sha1>fqzfq7ye4tql5yxz0lxu7th5wfjh0ip</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xylharmonicon</title>
+<ns>0</ns>
+<id>6368561</id>
+<revision>
+<id>67148629</id>
+<parentid>60265608</parentid>
+<timestamp>2022-05-24T09:03:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|musical instruments}} a form of [[glass harmonica]]</text>
+<sha1>qkk8gdyrsa3o2n4ujnhbkveulyoiayj</sha1>
+</revision>
+</page>

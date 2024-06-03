@@ -1,0 +1,32 @@
+<page>
+<title>xylanase</title>
+<ns>0</ns>
+<id>1495499</id>
+<revision>
+<id>51348925</id>
+<parentid>51187491</parentid>
+<timestamp>2019-01-24T05:35:51Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Order and balance translation tables.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="331" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylan|ase}}
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+# {{lb|en|enzyme}} Any of various [[enzyme]]s that catalyze the hydrolysis of [[xylan]]
+====Translations====
+{{trans-top|any of various enzymes}}
+* Finnish: {{t|fi|ksylanaasi}}
+{{trans-mid}}
+* Italian: {{t|it|xilanasi|f}}
+{{trans-bottom}}</text>
+<sha1>4qvciulm9upocwhp2nxuuwonxvuvwvv</sha1>
+</revision>
+</page>

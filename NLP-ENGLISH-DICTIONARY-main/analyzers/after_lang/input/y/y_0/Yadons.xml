@@ -1,0 +1,25 @@
+<page>
+<title>Yadons</title>
+<ns>0</ns>
+<id>6280447</id>
+<revision>
+<id>62908800</id>
+<parentid>56203597</parentid>
+<timestamp>2021-06-18T04:28:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>proper noun plural form -&gt; proper noun form for English plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="135" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yadon}}
+===Anagrams===
+* {{anagrams|en|a=adnosy|Dayson}}</text>
+<sha1>03gzh8l5axd2aeekle79m75a49ov0qf</sha1>
+</revision>
+</page>

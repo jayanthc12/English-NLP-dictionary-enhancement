@@ -1,0 +1,41 @@
+<page>
+<title>yapan</title>
+<ns>0</ns>
+<id>1286834</id>
+<revision>
+<id>68059261</id>
+<parentid>63668914</parentid>
+<timestamp>2022-07-18T02:38:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yapar]] with 'yapar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="510" xml:space="preserve">{{also|Yapän}}
+==English==
+===Noun===
+{{en-noun|?}}
+# {{lb|en|now|_|less common than &quot;yaupon&quot;}} {{alternative form of|en|yaupon}}
+===Anagrams===
+* {{anagrams|en|a=aanpy|Panay|Payan|panya}}
+----
+==Azerbaijani==
+===Participle===
+{{head|az|subject non-past participle}}
+# {{participle of|az|yapmaq||subject|non-past}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yapar}}
+----
+==Turkish==
+===Verb===
+{{head|tr|verb form}}
+# {{inflection of|tr|yapmak||imperfect|participle}}</text>
+<sha1>a3fypu54d2zllqutub6wglvu34jai8t</sha1>
+</revision>
+</page>

@@ -1,0 +1,74 @@
+<page>
+<title>Yichang</title>
+<ns>0</ns>
+<id>1935888</id>
+<revision>
+<id>68418271</id>
+<parentid>68416867</parentid>
+<timestamp>2022-07-20T08:50:12Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<minor />
+<comment>/* Proper noun */ Changed to |in western| so that Yichang shows up in https://en.wiktionary.org/wiki/Category:en:Places_in_Hubei</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2551" xml:space="preserve">{{also|yìcháng|Yíchāng}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{sense|{{w|postal romanization}}}} {{l|en|Ichang}}
+* {{q|from [[Wade–Giles]]}} {{l|en|I-ch'ang}}
+===Etymology===
+From the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|宜昌}}.
+===Pronunciation===
+* {{IPA|en|/jiːˈt͡ʃɑŋ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|large|prefecture-level city|in western|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=1968
+|author={{w|Kwang-chih Chang}}
+|title=The Archaeology of Ancient China
+|url=https://archive.org/details/archaeologyofanc00chan/
+|publisher={{w|Yale University Press}}
+|ISBN=0-300-01458-9
+|LCCN=68-24780
+|OCLC=308337
+|OL=10317597M
+|page=177
+|pageurl=https://archive.org/details/archaeologyofanc00chan/page/177/
+|text=To begin in the Yangtze Valley between '''Yi-ch’ang''' (Hupei) and Pa-tung (Szechwan), in the Hsiling Gorge area that was the gateway to the Red basin to the west: fifty-four early sites investigated in 1960 have been grouped into five categories, ranging in date, according to the estimates of the investigators, from Neolithic to Han.
+|brackets=on}}
+#* {{quote-journal
+|en
+|year=1974
+|month=September
+|author=Huo Pai-lin
+|title=Huang Sheng-hsiao, Longshoreman and Poet
+|journal={{w|China Reconstructs}}
+|url=https://archive.org/details/cr196912/CR1974-09/
+|volume=XXIII
+|issue=9
+|oclc=7513641
+|pages=40-41
+|pageurl=https://archive.org/details/cr196912/CR1974-09/page/n41/
+|text=HUANG Sheng-hsiao, a veteran longshoreman in the port of '''Yichang''' on the mid-Yangtze, wrote these lines to praise the new life of the dock workers and the tremendous changes that have come over the port.&lt;br&gt;[...]Now 56, Huang Sheng-hsiao is chairman of the Crewmen and Dockers Club in '''Yichang''' and a member of the Committee of the Yangtze Crewmen and Dockers Trade Union.&lt;br&gt;[...]In 1949 '''Yichang''' was liberated.&lt;br&gt;[...]In 1951 he was named Class A Model Propagandist of '''Yichang'''.&lt;br&gt;[...]During the Big Leap Forward in 1958, like people all over the country, the longshoremen of '''Yichang''' were fired with daring and enthusiasm.}}
+====Translations====
+{{trans-top|a prefecture-level city in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|宜昌|tr=Yíchāng|sc=Hani}}
+* Hungarian: {{t|hu|Jicsang}}
+* Japanese: {{t|ja|宜昌|tr=ぎしょう, Gishō}}
+{{trans-mid}}
+* Korean: {{t|ko|^이창}}, {{t|ko|의창}} {{qualifier|traditional reading}}
+* Russian: {{t|ru|Ича́н|m}}
+* Vietnamese: {{t|vi|Nghi Xương}}
+{{trans-bottom}}
+[[Category:en:Cities]]</text>
+<sha1>b6k89xsh7uopo7drqnr9jhct5yffy3a</sha1>
+</revision>
+</page>

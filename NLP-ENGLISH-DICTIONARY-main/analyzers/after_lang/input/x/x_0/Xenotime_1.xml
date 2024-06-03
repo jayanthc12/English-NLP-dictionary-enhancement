@@ -1,0 +1,26 @@
+<page>
+<title>Xenotime</title>
+<ns>0</ns>
+<id>4261987</id>
+<revision>
+<id>65721873</id>
+<parentid>59732728</parentid>
+<timestamp>2022-02-07T06:07:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up German non-lemma forms esp. plurals and dative singulars (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">{{also|xenotime|xénotime}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xenotime.ogg|Audio}}
+===Noun===
+{{head|de|noun form|g=m}}
+# {{inflection of|de|Xenotim||nom//acc//gen|p}}</text>
+<sha1>bg2c7trizwze3c397d82bwcym470sxt</sha1>
+</revision>
+</page>

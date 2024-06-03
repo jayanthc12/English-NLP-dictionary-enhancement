@@ -1,0 +1,71 @@
+<page>
+<title>Xishuangbanna</title>
+<ns>0</ns>
+<id>6593031</id>
+<revision>
+<id>67578415</id>
+<parentid>67576571</parentid>
+<timestamp>2022-06-29T16:53:51Z</timestamp>
+<contributor>
+<ip>86.158.183.14</ip>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2328" xml:space="preserve">==English==
+{{wp|lang=en}}
+{{commonscat|Xishuangbanna Prefecture}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsishuangpanna}}, {{l|en|Hsi-shuang-pan-na}}
+===Etymology===
+Borrowed from the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|西雙版納}}, from {{bor|en|khb|᧑᧒ᦗᧃᦓᦱ}} or {{m|khb|ᦉᦲᧇᦉᦸᧂᦗᧃᦓᦱ}}.
+===Pronunciation===
+* {{IPA|en|/ˌʃiːʃwɑŋbɑnˈnɑː/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|autonomous prefecture|p/Yunnan|c/China}}.
+#* {{quote-book
+|en
+|year=1980
+|origyear=1978
+|last=Bredsdorff
+|first=Jan
+|translator=Alice Roughton
+|title=Revolution tur/retur
+|trans-title=To China and Back
+|url=https://archive.org/details/tochinaback0000bred/
+|location=[[New York]]
+|publisher={{w|Pantheon Books}}
+|ISBN=0-394-50706-1
+|LCCN=79-1875
+|OCLC=5219848
+|pages=164-165
+|pageurl=https://archive.org/details/tochinaback0000bred/page/165/
+|text=After a drive of nearly ten hours, through small villages of thatched houses built on stilts, we stop on the last hairpin bend halfway down the mountain. Below, brilliant green and glistening wet, lies '''Xishuangbanna''', in China’s southernmost valley.}}
+#* {{quote-web
+|en
+|date=August 9, 2021
+|last=Stanway
+|first=David
+|title=China's wild elephants head to safety after long trek
+|archiveurl=https://web.archive.org/web/20210810050627/https://www.reuters.com/world/china/chinas-wild-elephants-head-safety-after-long-trek-2021-08-10/
+|archivedate=10 August 2021
+|work={{w|Reuters}}
+|text=A herd then consisting of 16 elephants left their home in '''Xishuangbanna''' 300 km further south in March last year and eventually settled in a protected habitat in Puer.}}
+====Synonyms====
+* {{l|en|Sibsongpanna}}
+====Translations====
+{{trans-top|autonomous prefecture}}
+* Burmese: {{t|my|စစ်ဆောင်ပန္နား}}
+* Chinese:
+*: Mandarin: {{t+|cmn|西雙版納}}, {{t+|cmn|西双版纳|tr=Xīshuāngbǎnnà}}
+* Lao: {{t|lo|ສິບສອງພັນນາ}}
+{{trans-mid}}
+* Lü: {{t|khb|᧑᧒ᦗᧃᦓᦱ}}, {{t|khb|ᦉᦲᧇᦉᦸᧂᦗᧃᦓᦱ}}
+* Shan: {{t|shn|သိပ်းသွင်ပၼ်းၼႃး}}
+* Thai: {{t|th|สิบสองปันนา}}
+* Zhuang: {{t|za|Sihsangh Banjnaz}}, {{t|za|Sihsanghbanjnaz}}
+{{trans-bottom}}</text>
+<sha1>r5nu6iyevxrlimt21q9ns08dnpru7qv</sha1>
+</revision>
+</page>

@@ -1,0 +1,56 @@
+<page>
+<title>yero</title>
+<ns>0</ns>
+<id>4011115</id>
+<revision>
+<id>69323636</id>
+<parentid>69323632</parentid>
+<timestamp>2022-09-19T04:42:37Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<comment>/* Tagalog */  added &quot;sheets&quot; as that's more appropriate in the Philippine context but feel free to change, this is optional</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="930" xml:space="preserve">{{also|Yero}}
+==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|rare}} {{alternative spelling of|en|gyro}} {{gloss|Greek sandwich}}
+===Anagrams===
+* {{anagrams|en|a=eory|Roye|oyer|yore}}
+----
+==French==
+===Noun===
+{{fr-noun|m}}
+# {{alternative spelling of|fr|gyros}} {{gloss|Greek sandwich}}
+===Further reading===
+* {{R:TLFi}}
+----
+==Spanish==
+===Etymology 1===
+{{cln|es|syncopic forms}}Syncopated from {{m|es|yervo}}, from {{inh|es|la|ervum}}.
+====Noun====
+{{es-noun|m}}
+# {{C|es|Fabeae tribe plants}} any variety of [[bitter vetch]] (''[[Vicia ervilia]]'')
+#: {{syn|es|alcarceña}}
+===Etymology 2===
+====Verb====
+{{head|es|verb form}}
+# {{es-verb form of|yerar}}
+===Further reading===
+* {{R:es:DRAE}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{bor|tl|es|hierro||iron}}.
+===Pronunciation===
+* {{hyph|tl|ye|ro}}
+* {{tl-IPA}}
+===Noun===
+{{tl-noun}}
+# [[galvanized]] [[iron]] [[sheets]] for [[roofing]], etc.</text>
+<sha1>11256jeavugllnr3yzla1ntstu3a2vg</sha1>
+</revision>
+</page>

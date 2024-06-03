@@ -1,0 +1,29 @@
+<page>
+<title>yezhadur</title>
+<ns>0</ns>
+<id>1134141</id>
+<revision>
+<id>65105048</id>
+<parentid>65104960</parentid>
+<timestamp>2021-12-31T11:14:29Z</timestamp>
+<contributor>
+<username>Binarystep</username>
+<id>1186500</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==Breton==
+===Etymology===
+From {{affix|br|yezh|gloss1=language|-adur}}.
+===Pronunciation===
+* {{IPA|br|/jeˈzɑːdyr/}}
+===Noun===
+{{br-noun|m|p=yezhadurioù}}
+# [[grammar]]
+====Synonyms====
+* {{l|br|gramadeg}}
+{{topics|br|Grammar}}</text>
+<sha1>ovhcg3gk204odpp7bz897o605ycpr4j</sha1>
+</revision>
+</page>

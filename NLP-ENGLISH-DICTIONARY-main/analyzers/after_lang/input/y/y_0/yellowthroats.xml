@@ -1,0 +1,23 @@
+<page>
+<title>yellowthroats</title>
+<ns>0</ns>
+<id>1330818</id>
+<revision>
+<id>55545520</id>
+<parentid>53093040</parentid>
+<timestamp>2019-10-15T05:55:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yellowthroat}}</text>
+<sha1>f7va8lpvkm674wi0k42yxojd41vcwi3</sha1>
+</revision>
+</page>

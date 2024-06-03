@@ -1,0 +1,54 @@
+<page>
+<title>Yaren</title>
+<ns>0</ns>
+<id>272093</id>
+<revision>
+<id>67195492</id>
+<parentid>67078037</parentid>
+<timestamp>2022-05-30T08:36:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1076" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# The largest town of [[Nauru]], which houses the government offices, but is not a capital city, since Nauru does not have an official capital.
+====Translations====
+{{trans-top|largest town of Nauru}}
+* Armenian: {{t|hy|Յարեն}}
+* Chinese:
+*: Mandarin: {{t+|cmn|亞倫}}, {{t+|cmn|亚伦|tr=Yàlún, Yǎlún}}
+* Esperanto: {{t|eo|Jareno}}
+* Khmer: {{t+|km|យ៉ារែន}}
+{{trans-mid}}
+* Nauruan: {{t|na|Yaren}}
+* Portuguese: {{t|pt|Yaren|f}}
+* Russian: {{t|ru|Яре́н|m|tr=Jarɛ́n}}
+* Swedish: {{t+|sv|Yaren|n}}
+* Vietnamese: {{t|vi|I-a-ren}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aenry|Aeryn|Arney|Neary|Neyra|Raney|Rayne|aryne|rayne|renay|yarne|yearn}}
+[[Category:en:Cities]]
+----
+==French==
+{{wikipedia|lang=fr}}
+===Pronunciation===
+* {{fr-IPA|Yarèn}}
+===Proper noun===
+{{fr-proper noun|m}}
+# {{place|fr|a=the de-facto|capital city|c/Nauru|t1=Yaren}}
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|a=the de-facto|capital city|c/Nauru|t1=Yaren}}</text>
+<sha1>ocub69p7avu0hpofquxn78ej5vt463i</sha1>
+</revision>
+</page>

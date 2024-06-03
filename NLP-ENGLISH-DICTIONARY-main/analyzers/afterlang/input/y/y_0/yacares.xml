@@ -1,0 +1,24 @@
+<page>
+<title>yacares</title>
+<ns>0</ns>
+<id>3055000</id>
+<revision>
+<id>55950707</id>
+<parentid>53092562</parentid>
+<timestamp>2019-10-16T10:55:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">{{also|yacarés}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yacare}}</text>
+<sha1>qm0ljabuog71yz6x842oz2xla1ytaw8</sha1>
+</revision>
+</page>

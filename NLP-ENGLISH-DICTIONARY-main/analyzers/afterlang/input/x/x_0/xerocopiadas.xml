@@ -1,0 +1,25 @@
+<page>
+<title>xerocopiadas</title>
+<ns>0</ns>
+<id>5069207</id>
+<revision>
+<id>68413557</id>
+<parentid>68356718</parentid>
+<timestamp>2022-07-19T11:49:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish past participle forms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Participle===
+{{head|es|past participle form}}
+# {{es-verb form of|xerocopiar}}</text>
+<sha1>4ycu0wt9s83iu437gg6bn59q6sbxb67</sha1>
+</revision>
+</page>

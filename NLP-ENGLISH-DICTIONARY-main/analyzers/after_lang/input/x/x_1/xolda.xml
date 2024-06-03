@@ -1,0 +1,35 @@
+<page>
+<title>xolda</title>
+<ns>0</ns>
+<id>6293216</id>
+<revision>
+<id>68866698</id>
+<parentid>68832805</parentid>
+<timestamp>2022-08-28T05:42:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="529" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|xoldra}}
+===Etymology===
+From {{der|gl|fro|-}}, from the same origin as {{m|fro|jaude||troop, band of soldiers}}, from a {{der|gl|gem-pro|*geldaną||to pay, to compensate}}, from {{der|gl|ine-pro|*gʰeldʰ-||to pay}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɔlda̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[party]], [[fun]], [[diversion]], [[spree]].
+#: {{syn|gl|esmorga|farra|festa|folía|foliada|ruada|troula}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references /&gt;</text>
+<sha1>ihu5gdrq7f8x749u4jlw5zsd0cvpy25</sha1>
+</revision>
+</page>

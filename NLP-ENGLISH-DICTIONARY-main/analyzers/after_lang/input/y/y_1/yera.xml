@@ -1,0 +1,44 @@
+<page>
+<title>yera</title>
+<ns>0</ns>
+<id>3771445</id>
+<revision>
+<id>68167778</id>
+<parentid>58785393</parentid>
+<timestamp>2022-07-18T06:34:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yerar]] with 'yerar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="584" xml:space="preserve">{{also|þéra}}
+==Asturian==
+===Verb===
+{{ast-verb-form}}
+# {{inflection of|ast|ser||1|s|impf|indc}}
+# {{inflection of|ast|ser||3|s|impf|indc}}
+----
+==Chichewa==
+===Pronunciation===
+* {{ny-IPA}}
+===Verb===
+{{ny-verb|yera}}
+# be [[white]]
+# be [[clean]], be [[pure]]
+# be(come) [[clear]], be(come) [[bright]]
+# be [[holy]]
+#:{{syn|ny|patulika|alt1=-patulika}}
+====Derived terms====
+{{ny-der|appl|appl-g=be whitish|caus|caus-g=clean|vrb=yera mtima|vrb-g=be pure, be holy}}
+[[Category:ny:Colors]]
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yerar}}</text>
+<sha1>m3h4fty18jny4jgm7m0m2uvrlh202by</sha1>
+</revision>
+</page>

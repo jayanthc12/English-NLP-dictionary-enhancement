@@ -1,0 +1,25 @@
+<page>
+<title>yays</title>
+<ns>0</ns>
+<id>5661400</id>
+<revision>
+<id>59318265</id>
+<parentid>55917526</parentid>
+<timestamp>2020-05-07T20:02:40Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yay}}
+===Anagrams===
+* {{anagrams|en|a=asyy|ayys}}</text>
+<sha1>e73ddsmn6ftouxv9xig2at19z42y8zx</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xerrada</title>
+<ns>0</ns>
+<id>6022671</id>
+<revision>
+<id>63624715</id>
+<parentid>62660609</parentid>
+<timestamp>2021-08-11T19:44:22Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="997" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[chat]] {{gloss|an informal conversation}}
+# [[talk]], academic [[lecture]]
+#* {{quote-web|ca|url=https://cat.elpais.com/cat/2017/02/09/catalunya/1486647416_607653.html|title=El rebuig a una xerrada homòfoba divideix Junts pel Sí|date=2017-02-09|accessdate=2021-06-04|author=Dani Cordero|work=El País|passage=La '''xerrada''' que diumenge oferirà a l’església de Santa Anna de Barcelona el francès Philippe Ariño, homosexual declarat que promou la castedat en les relacions de parella del mateix sexe, ha dividit avui Junts pel Sí al Parlament.|t=The '''talk''' given at the church of Santa Anna in Barcelona on Sunday by the Frenchman Philippe Ariño, a self-declared homosexual who promotes chastity among same-sex couples, divided Junts pel Sí in Parlament today.}}
+===Verb===
+{{head|ca|past participle|g=f-s}}
+# {{ca-verb form of|g=f|m=ptc|t=past|xerrar}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}</text>
+<sha1>qrc78smt4tcgpa8imw9h0gujmrtr261</sha1>
+</revision>
+</page>

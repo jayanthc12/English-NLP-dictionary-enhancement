@@ -1,0 +1,30 @@
+<page>
+<title>xenoblastisch</title>
+<ns>0</ns>
+<id>6345354</id>
+<revision>
+<id>66663972</id>
+<parentid>58423931</parentid>
+<timestamp>2022-05-10T08:07:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|-}} to new-format {{de-adj}}; convert {{de-decl-adj-notcomp}} to {{de-adecl}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==German==
+===Etymology===
+{{suffix|de|Xenoblast|isch}}
+===Pronunciation===
+* {{IPA|de|/ksenoˈblastɪʃ/}}
+* {{audio|de|De-xenoblastisch.ogg|Audio}}
+===Adjective===
+{{de-adj}}
+# [[xenoblastic]]
+====Declension====
+{{de-adecl}}</text>
+<sha1>hmtzeedaqhrx2v5hu8usqhevy9zpg9m</sha1>
+</revision>
+</page>

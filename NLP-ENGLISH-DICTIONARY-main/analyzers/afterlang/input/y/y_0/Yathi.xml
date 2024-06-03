@@ -1,0 +1,27 @@
+<page>
+<title>Yathi</title>
+<ns>0</ns>
+<id>477267</id>
+<revision>
+<id>67289524</id>
+<parentid>57934106</parentid>
+<timestamp>2022-06-06T09:34:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|sa}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="321" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|sa|यति||striver, sage}}, synonymous to a spiritual person, [[yogi]] or [[monk]]. Derives from {{m|sa|य}} and {{m|sa|-ति}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|from=India|usage=Indian}}.
+===Anagrams===
+* {{anagrams|en|a=ahity|Hayti|Thyia}}</text>
+<sha1>237edyxqn3q6e3aep80qusqf93k1qv3</sha1>
+</revision>
+</page>

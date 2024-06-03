@@ -1,0 +1,26 @@
+<page>
+<title>yaratma</title>
+<ns>0</ns>
+<id>3672058</id>
+<revision>
+<id>48455927</id>
+<parentid>48451449</parentid>
+<timestamp>2018-01-22T00:40:17Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Fixed vowel harmony on tr-infl-noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==Turkish==
+===Noun===
+{{tr-noun|yı|lar}}
+# [[creation]]
+# {{lb|tr|religion}} [[creation]]
+====Declension====
+{{tr-infl-noun-v|a|poss=1}}</text>
+<sha1>5meafahwudhwaqoiyeslr7y2ludmyr2</sha1>
+</revision>
+</page>

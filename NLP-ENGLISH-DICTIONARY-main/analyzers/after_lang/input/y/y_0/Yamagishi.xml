@@ -1,0 +1,26 @@
+<page>
+<title>Yamagishi</title>
+<ns>0</ns>
+<id>3639879</id>
+<revision>
+<id>67835471</id>
+<parentid>67742568</parentid>
+<timestamp>2022-07-09T22:03:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ja|山岸}}.
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en|from=Japanese}}. from Japanese.</text>
+<sha1>0ewhqensdo7luwatvgir4mx5ns8ia4d</sha1>
+</revision>
+</page>

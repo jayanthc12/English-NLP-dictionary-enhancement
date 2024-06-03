@@ -1,0 +1,23 @@
+<page>
+<title>yaniqueques</title>
+<ns>0</ns>
+<id>4683496</id>
+<revision>
+<id>55695405</id>
+<parentid>32192320</parentid>
+<timestamp>2019-10-15T12:41:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yaniqueque}}</text>
+<sha1>27ye5l95yizasdj0vw5tpf8qkdihgb6</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinkappale</title>
+<ns>0</ns>
+<id>4625100</id>
+<revision>
+<id>69318176</id>
+<parentid>52039546</parentid>
+<timestamp>2022-09-18T17:04:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="236" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|kappale}}
+===Pronunciation===
+{{fi-p|ydin-kappale*}}
+===Noun===
+{{fi-noun}}
+# [[core]] [[piece]] {{gloss|central piece of something}}
+====Declension====
+{{fi-decl-hame|ydinkappal|||a}}</text>
+<sha1>5fbuza7t7svwoalycgd1ucnvl53nfi2</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhteysvene</title>
+<ns>0</ns>
+<id>965952</id>
+<revision>
+<id>69318507</id>
+<parentid>59682876</parentid>
+<timestamp>2022-09-18T17:22:19Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="254" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteys|vene}}
+===Pronunciation===
+{{fi-p|yhteys-vene*}}
+===Noun===
+{{head|fi|noun}}
+# A [[tender]] (''boat used for transportation btw a ship and the shore'').
+====Declension====
+{{fi-decl-hame|yhteysven|||ä}}</text>
+<sha1>5ggd7jmrv5tmitz8lu8ytrttqfgeo6b</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>Yerazgavors</title>
+<ns>0</ns>
+<id>3065449</id>
+<revision>
+<id>67294467</id>
+<parentid>42765397</parentid>
+<timestamp>2022-06-06T11:11:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|hy}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="710" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|hy|Երազգավորս}}.
+===Proper noun===
+{{en-proper noun}}
+# a village or town in the [[Ayrarat]] province of ancient Armenia
+# a village in the [[Shirak]] region of modern Armenia
+====Translations====
+{{trans-top|a village or town in the Ayrarat province of ancient Armenia}}
+* Armenian: {{t|hy|Երազգավորս}}, {{t|hy|Շիրակավան}}
+*: Old Armenian: {{t|xcl|Երազգաւորս}}
+{{trans-mid}}
+* Russian: {{t|ru|Еразгаворс}}
+{{trans-bottom}}
+{{trans-top|a village in modern Armenia}}
+* Armenian: {{t|hy|Երազգավորս}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:en:Armenia]]
+[[Category:en:Villages in Armenia]]</text>
+<sha1>maykjo6iqda1b1zly89iz8jpj4hxana</sha1>
+</revision>
+</page>

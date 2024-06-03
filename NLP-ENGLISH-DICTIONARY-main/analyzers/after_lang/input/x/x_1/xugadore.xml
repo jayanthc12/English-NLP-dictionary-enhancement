@@ -1,0 +1,27 @@
+<page>
+<title>xugadore</title>
+<ns>0</ns>
+<id>3054467</id>
+<revision>
+<id>54169817</id>
+<parentid>51894817</parentid>
+<timestamp>2019-09-18T10:43:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{cog}} for cognates in place of LANG {{m|CODE|...}} or {{etyl|CODE|-}} {{m|CODE|...}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="279" xml:space="preserve">==Venetian==
+===Alternative forms===
+* {{l|vec|xugador}}, {{l|vec|zugador}}, {{l|vec|xogador}}, {{l|vec|zogadore}}
+===Etymology===
+From {{suffix|vec|xugo|dore}}. Compare {{cog|it|giocatore}}, {{cog|ist|zugadur}}.
+===Noun===
+{{vec-noun|xugador|m|e|i}}
+# [[player]] (of a game)</text>
+<sha1>roxfv61wge34vk8k1iwf6r2ca8k31iw</sha1>
+</revision>
+</page>

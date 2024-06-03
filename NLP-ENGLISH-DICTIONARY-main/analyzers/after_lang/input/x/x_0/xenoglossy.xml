@@ -1,0 +1,81 @@
+<page>
+<title>xenoglossy</title>
+<ns>0</ns>
+<id>252498</id>
+<revision>
+<id>65230575</id>
+<parentid>62570380</parentid>
+<timestamp>2022-01-07T09:08:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct indentation of section 7 (Usage notes) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2467" xml:space="preserve">==English==
+{{wp}}
+===Etymology===
+From {{af|en|xeno-|-glossia}}, borrowed from {{bor|en|fr|xénoglossie}}.
+===Pronunciation===
+* {{IPA|en|/ˌziːnəˈɡlɒsi/|/ˌzɛnəˈɡlɒsi/}}
+===Noun===
+{{en-noun|~}}
+# [[knowledge|Knowledge]] of a [[language]] one has never [[learn]]ed.
+#* {{quote-book
+|en
+|date=2007-09-01
+|title=The Encyclopedia of Religious Phenomena
+|first=J. Gordon
+|last=Melton
+|publisher=Visible Ink
+|location=Canton
+|section=keyword “xenoglossy”
+|isbn=9781578592098
+|ol=9470288M
+|page=359
+|pageurl=http://books.google.com/books?id=n2LTTK5B_OMC&amp;pg=PA359&amp;dq=xenoglossy
+|passage=The most well-documented case of '''xenoglossy''', however, concerned Swiss Medium &lt;span style=&quot;font-variant:small-caps&quot;&gt;Hélène Smith&lt;/span&gt; (1861-1929), who falsely claimed to speak the Martian language.
+}}
+#: {{syn|en|xenoglossia}}
+# [[glossolalia|Glossolalia]].
+====Derived terms====
+* {{l|en|xenoglossic}}
+* {{l|en|xenoglossically}}
+====Related terms====
+* {{l|en|xenoglossophobia}}
+====Translations====
+{{trans-top|knowledge of a language one has never learned}}
+* Arabic: {{t|ar|زينوغلوسيا}}
+* Catalan: {{t|ca|xenoglòssia|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|特殊语言能力}}
+* Czech: {{t|cs|xenoglosie|f}}
+* Dutch: {{t+|nl|xenoglossie|f}}, {{t+|nl|xenolalie|f}}
+* French: {{t+|fr|xénoglossie|f}}
+* Galician: {{t|gl|xenoglosia|f}}
+* German: {{t+|de|Xenoglossie|f}}
+* Greek: {{t+|el|ξενογλωσσία|f}}
+* Hungarian: {{t|hu|xenoglosszia}}
+{{trans-mid}}
+* Indonesian: {{t+|id|xenoglosia}}
+* Italian: {{t|it|xenoglossia|f}}
+* Korean: {{t|ko|제노글로시}}
+* Lithuanian: {{t|lt|ksenoglosija|f}}
+* Malay: {{t|ms|xenoglossia}}
+* Persian: {{t|fa|زنوگلاسی}}
+* Portuguese: {{t|pt|xenoglossia|f}}
+* Russian: {{t+|ru|ксеногло́ссия|f}}
+* Spanish: {{t+|es|xenoglosia|f}}
+* Turkish: {{t|tr|ksenoglosi}}
+* Ukrainian: {{t|uk|ксеноголосія|f}}
+{{trans-bottom}}
+{{trans-see|glossolalia}}
+====Usage notes====
+* Some writers distinguish ''xenoglossy'' from ''[[glossolalia]]'', taking the former to mean roughly &quot;knowledge of a language one has never learned&quot; and the latter to mean roughly &quot;speaking a language one does not know&quot;. Others do not distinguish the two, using the terms interchangeably or using one term exclusively. When in doubt, it may be preferable to preserve this distinction, and/or to explain what one means when using each term.
+[[Category:en:Fictional abilities]]
+[[Category:en:Parapsychology]]</text>
+<sha1>ejviojgex3vr9n3ydal13plm2g11dnv</sha1>
+</revision>
+</page>

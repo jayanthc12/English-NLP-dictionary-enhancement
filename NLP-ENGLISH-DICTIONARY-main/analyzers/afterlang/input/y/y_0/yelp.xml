@@ -1,0 +1,91 @@
+<page>
+<title>yelp</title>
+<ns>0</ns>
+<id>81856</id>
+<revision>
+<id>69547409</id>
+<parentid>69547406</parentid>
+<timestamp>2022-10-19T14:56:41Z</timestamp>
+<contributor>
+<username>JiriMatejicek</username>
+<id>669765</id>
+</contributor>
+<comment>t+cs:[[zavýsknout]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3151" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/jɛlp/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-yelp.wav|Audio (Southern England)}}
+* {{rhymes|en|ɛlp|s=1}}
+===Etymology 1===
+From {{inh|en|enm|ȝelp}}, {{m|enm|yelp}}, from {{inh|en|ang|ġielp|t=boasting, arrogance, pride}}, from {{inh|en|gem-pro|*gelpą|t=boasting}}, from {{der|en|ine-pro|*gʰel-|t=to shout}}.
+====Noun====
+{{en-noun}}
+# An [[abrupt]], high-pitched [[noise]] or [[utter]]ance.
+#: ''The puppy let out a '''yelp''' when I stepped on her tail.''
+# A type of emergency vehicle [[siren]] sounding quicker and more intense than the [[wail]].
+=====Translations=====
+{{trans-top|an abrupt, high-pitched noise or utterance}}
+* Bulgarian: {{t+|bg|скимтене|n}}
+* Danish: {{t|da|hyl|n}}
+* Esperanto: {{t|eo|jelpo}}
+* Finnish: {{t+|fi|ulvahdus}}, {{t|fi|hihkaisu}}, {{t+|fi|älähdys}}
+* French: {{t+|fr|jappement|m}}, {{t+|fr|couinement|m}}
+* Georgian: {{t|ka|წივილი}}, {{t|ka|კივილი}}
+* Greek: {{t+|el|γαβγίζω}}
+* Hungarian: {{t|hu|vakkantás}}
+* Ido: {{t+|io|aboyeto}}
+* Italian: {{t+|it|strillo|m}}
+* Japanese: {{t+|ja|悲鳴|tr=himei}}
+{{trans-mid}}
+* Malay: {{t|ms|dengking}}
+* Maori: {{t|mi|wēwē}}, {{t|mi|ngawē}}
+* Polish: {{t+|pl|pisk|m}}, {{t|pl|zawycie|n}}, {{t|pl|zaskomlenie|n}}
+* Portuguese: {{t+|pt|ganido|m}}
+* Russian: {{t+|ru|визг|m}}, {{t+|ru|визжа́ние|n}}
+* Scottish Gaelic: {{t|gd|tathann|m}}
+* Spanish: {{t+|es|aullido|m}}, {{t+|es|trino|m}}, {{t+|es|quejido|m}}
+{{trans-bottom}}
+===Etymology 2===
+From {{inh|en|enm|ȝelpen}}, {{m|enm|yelpen}}, from {{inh|en|ang|ġielpan|t=to boast}}, from {{inh|en|gem-pro|*gelpaną}}. Compare {{cog|stq|jalpe||to bleep; cheep}}.
+====Verb====
+{{en-verb}}
+# To utter an abrupt, high-pitched [[noise]].
+#: ''The children '''yelped''' with delight as they played in the cold water.''
+=====Translations=====
+{{trans-top|to utter an abrupt, high-pitched noise}}
+* Bulgarian: {{t+|bg|скимтя}}
+* Czech: {{t|cs|vyjeknout}}, {{t|cs|zakňučet|pf}}, {{t|cs|zavýsknout|pf}}
+* Danish: {{t|da|hyle}}
+* Esperanto: {{t|eo|jelpi}}
+* Finnish: {{t+|fi|hihkaista}}, {{q|frequentative}} {{t|fi|hihkua}}, {{t+|fi|ulvahtaa}}
+* French: {{t+|fr|japper}}, {{t+|fr|couiner}}
+* Galician: {{t|gl|ganir}}, {{t|gl|latir}}
+* Georgian: {{t|ka|წივილი}}, {{t|ka|კივილი}}
+* Ido: {{t+|io|aboyetar}}
+* Irish: {{t|ga|sceamh}}
+* Italian: {{t+|it|strillare}}
+{{trans-mid}}
+* Japanese: {{t|ja|[[悲鳴]]を[[あげる]]|tr=himei o ageru}}
+* Latin: {{t|la|ganniō}}
+* Maori: {{t|mi|tūwē}}, {{t|mi|tīwē}}, {{t|mi|wēwē}} {{qualifier|of a dog}}
+* Polish: {{t+|pl|piszczeć|impf}}, {{t|pl|zapiszczeć|pf}}, {{t+|pl|wyć|impf}}, {{t|pl|zawyć|pf}}, {{t|pl|skomleć|impf}}, {{t|pl|zaskomleć|pf}}
+* Portuguese: {{t+|pt|ganir}}
+* Russian: {{t+|ru|визжа́ть|impf}}
+* Sanskrit: {{t+|sa|बुक्कति}}
+* Scottish Gaelic: {{t|gd|tathainn}}
+* Serbo-Croatian: {{t+|sh|cičati}}
+* Spanish: {{t+|es|gañir}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=elpy|Pyle}}
+[[Category:en:Animal sounds]]
+----
+==Middle English==
+===Noun===
+{{head|enm|noun}}
+# {{alt form|enm|ȝelp}}</text>
+<sha1>46j5o3zwfqrxmu51cgv6c8czvna707s</sha1>
+</revision>
+</page>

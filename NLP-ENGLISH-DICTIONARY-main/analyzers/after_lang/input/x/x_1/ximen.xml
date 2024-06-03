@@ -1,0 +1,23 @@
+<page>
+<title>ximen</title>
+<ns>0</ns>
+<id>4342238</id>
+<revision>
+<id>53117243</id>
+<parentid>25765908</parentid>
+<timestamp>2019-05-19T05:20:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'third-person plural present indicative' to 3|p|pres|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|ximir||3|p|pres|ind}}</text>
+<sha1>caovtzfv2g7lnx44sr0o6of9wgj7r43</sha1>
+</revision>
+</page>

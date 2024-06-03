@@ -1,0 +1,25 @@
+<page>
+<title>xanthanolide</title>
+<ns>0</ns>
+<id>5100550</id>
+<revision>
+<id>54403382</id>
+<parentid>51578335</parentid>
+<timestamp>2019-09-29T08:36:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="627" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|carbohydrate}} Any of several [[glycoside]]s containing [[xanthan]]
+#* {{quote-journal|en|date=September 26, 2015|author=|title=Differential microRNA Analysis of Glandular Trichomes and Young Leaves in Xanthium strumarium L. Reveals Their Putative Roles in Regulating Terpenoid Biosynthesis|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139002|doi=10.1371/journal.pone.0139002|volume=|issue=|pages=
+|passage=The data allowed us to hypothesize that miR6435 might play a role in the regulation of '''xanthanolide''' biosynthesis in ''X''. }}</text>
+<sha1>e0jjph272wo05bs8lxtibcd3f7bemaz</sha1>
+</revision>
+</page>

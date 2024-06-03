@@ -1,0 +1,33 @@
+<page>
+<title>xeev</title>
+<ns>0</ns>
+<id>7320106</id>
+<revision>
+<id>64617575</id>
+<parentid>63664839</parentid>
+<timestamp>2021-11-10T07:24:10Z</timestamp>
+<contributor>
+<username>Fish bowl</username>
+<id>522410</id>
+</contributor>
+<comment>Æ /* Noun */  # [[state]] {{q|of the USA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="357" xml:space="preserve">==White Hmong==
+===Pronunciation===
+{{mww-pron}}
+===Etymology 1===
+From {{bor|mww|cmn|-}} {{zh-m|省|province}}.
+====Noun====
+{{head|mww|noun}}
+# [[province]]
+# [[state]] {{q|of the USA}}
+===Etymology 2===
+From {{bor|mww|cmn|-}} {{zh-m|醒|to wake up}} or {{bor|mww|ltc|-}} or {{bor|mww|och|-}}.
+====Verb====
+{{head|mww|verb}}
+# [[wake up]]
+# [[dheev]]</text>
+<sha1>jt1kg4ziabkij9g54s1qo7sgo832tzq</sha1>
+</revision>
+</page>

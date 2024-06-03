@@ -1,0 +1,36 @@
+<page>
+<title>yance</title>
+<ns>0</ns>
+<id>2392671</id>
+<revision>
+<id>65854957</id>
+<parentid>65854953</parentid>
+<timestamp>2022-02-18T03:33:20Z</timestamp>
+<contributor>
+<username>Zff19930930</username>
+<id>3346621</id>
+</contributor>
+<comment>/* Adverb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="662" xml:space="preserve">==English==
+===Etymology===
+From [[yan]], itself from the [[Old English]] '''{{m|ang|ān}}'''.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|dialect|Northern English dialect}} [[once]] (in both senses: [[only]] one [[time]], and [[formerly]])
+====Synonyms====
+* See [[Thesaurus:once]]
+===References===
+* [2004], Griffiths, Bill, A Dictionary of North East Dialect, Northumbria University Press, {{ISBN|1-904794-16-5}}, page 191:
+* [1997], Leith, Dick, A Social History of English, Routledge, {{ISBN|0415097975}}, 9780415097970, page 45:
+----
+==Scots==
+===Adverb===
+{{sco-adv|-}}
+# {{alt form|sco|ance|from=South Scots}}
+===References===
+* {{R:DSL|pos=adv., conj}}</text>
+<sha1>hb9klgh1ci8vz0k2h1nd6a4wwaqq4ez</sha1>
+</revision>
+</page>

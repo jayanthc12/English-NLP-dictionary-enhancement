@@ -1,0 +1,24 @@
+<page>
+<title>Yamoussoukrois</title>
+<ns>0</ns>
+<id>6361799</id>
+<revision>
+<id>67264044</id>
+<parentid>67195487</parentid>
+<timestamp>2022-06-05T22:50:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[Yamoussoukroise]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">{{also|yamoussoukrois}}
+==French==
+===Noun===
+{{fr-noun|m|f=+}}
+# resident or native of [[Yamoussoukro]]</text>
+<sha1>3dlzk6h4e2y13dnvso8gn1i7ugakk62</sha1>
+</revision>
+</page>

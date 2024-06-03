@@ -1,0 +1,36 @@
+<page>
+<title>Xitsonga</title>
+<ns>0</ns>
+<id>5913742</id>
+<revision>
+<id>68845104</id>
+<parentid>68498402</parentid>
+<timestamp>2022-08-28T01:54:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ts|Xitsonga|t=Tsonga language}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# The [[Tsonga]] [[language]].
+[[Category:en:Languages]]
+----
+==Tsonga==
+===Noun===
+{{head|ts|noun}}
+# the [[Tsonga]] language
+===References===
+{{R:Xitsonga}}
+[[Category:ts:Languages]]</text>
+<sha1>mx9z2o06izhlaa958mtxcro8611ce4b</sha1>
+</revision>
+</page>

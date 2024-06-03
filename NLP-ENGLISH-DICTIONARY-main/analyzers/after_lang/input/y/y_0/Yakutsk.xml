@@ -1,0 +1,94 @@
+<page>
+<title>Yakutsk</title>
+<ns>0</ns>
+<id>1158861</id>
+<revision>
+<id>64890873</id>
+<parentid>64053216</parentid>
+<timestamp>2021-12-08T21:16:47Z</timestamp>
+<contributor>
+<username>Sarilho1</username>
+<id>522155</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2238" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ru|Яку́тск}}.
+===Proper noun===
+{{en-proper noun}}
+# The [[capital city]] of the [[Sakha]] [[republic|Republic]] ([[Yakutia]]), [[Russia]]
+====Translations====
+{{trans-top|city in Russia}}
+* Arabic: {{t|ar|يَاكُوتْسْك|m|tr=yakūtsk}}
+* Armenian: {{t|hy|Յակուտսկ}}
+* Belarusian: {{t|be|Яку́цк|m}}
+* Bulgarian: {{t|bg|Яку́тск|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|雅庫茨克}}, {{t+|cmn|雅库茨克|tr=Yǎkùcíkè}}
+* Czech: {{t|cs|Jakutsk|m}}
+* Danish: {{t|da|Jakustsk}}
+* Estonian: {{t|et|Jakutsk}}
+* Finnish: {{t|fi|Jakutsk}}
+* French: {{t+|fr|Iakoutsk|m}}
+* Georgian: {{t|ka|იაკუტსკი}}
+* German: {{t+|de|Jakutsk|n}}
+* Greek: {{t|el|Γιακούτσκ|m}}
+* Hebrew: {{t|he|יקוטסק}}
+* Hindi: {{t|hi|याकुत्स्क}}
+* Hungarian: {{t+|hu|Jakutszk}}
+* Japanese: {{t|ja|ヤクーツク|tr=Yakūtsuku}}
+* Korean: {{t+|ko|야쿠츠크}}
+{{trans-mid}}
+* Latvian: {{t|lv|Jakutska}}
+* Lithuanian: {{t|lt|Jakutskas}}
+* Macedonian: {{t|mk|Јаку́тск|m}}
+* Marathi: {{t|mr|याकुत्स्क|n}}
+* Persian: {{t|fa|یاکوتسک|tr=yakutsk}}
+* Polish: {{t+|pl|Jakuck|m}}
+* Portuguese: {{t|pt|Yakutsk|f}}
+* Russian: {{t+|ru|Яку́тск|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јакутск|m}}
+*: Roman: {{t|sh|Jakutsk|m}}
+* Slovak: {{t|sk|Jakutsk|m}}
+* Slovene: {{t|sl|Jakutsk|m}}
+* Spanish: {{t|es|Yakutsk}}
+* Swedish: {{t|sv|Jakutsk}}
+* Ukrainian: {{t|uk|Яку́тськ|m}}
+* Uyghur: {{t|ug|ياكۇتسك}}
+* Yakut: {{t|sah|Дьокуускай}}
+{{trans-bottom}}
+====See also====
+* [[Sakha]], [[Yakutia]]
+[[Category:en:Cities in Russia]]
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|city/regional capital|republic/Sakha|c/Russia|t1=Yakutsk}}
+----
+==Turkish==
+{{wikipedia|lang=tr}}
+===Etymology===
+Borrowed from {{bor|tr|ru|Яку́тск}}.
+===Proper noun===
+{{tr-proper noun}}
+# {{place|tr|city/regional capital|republic/Sakha|c/Russia|t1=Yakutsk}}
+====Declension====
+{{tr-decl-noun-unc
+|Yakutsk
+|Yakutsk'u
+|Yakutsk'a
+|Yakutsk'ta
+|Yakutsk'tan
+|Yakutsk'un
+}}
+====See also====
+* [[Saha]], [[Yakutistan]]
+[[Category:tr:Cities in Russia]]</text>
+<sha1>mjet18e9g7sisdfrs7lvqe6r4fhbceu</sha1>
+</revision>
+</page>

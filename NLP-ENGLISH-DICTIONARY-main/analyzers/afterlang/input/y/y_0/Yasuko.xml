@@ -1,0 +1,46 @@
+<page>
+<title>Yasuko</title>
+<ns>0</ns>
+<id>5183935</id>
+<revision>
+<id>67078038</id>
+<parentid>64890868</parentid>
+<timestamp>2022-05-19T07:14:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up French etymologies, pronun sections, participles, toponyms, extraneous spaces, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="639" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|やすこ|tr=Yasuko}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|A=A Japanese|from=Japanese}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|ja|やすこ|tr=Yasuko}}.
+===Pronunciation===
+* {{fr-IPA|Yassouko}}
+===Proper noun===
+{{fr-proper noun|f}}
+# {{given name|fr|female|from=Japanese}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やすこ}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|やすこ|tr=Yasuko}}.
+===Proper noun===
+{{pt-proper noun|f}}
+# {{given name|pt|female|from=Japanese}}</text>
+<sha1>fc361yhtl3pxld51crbi8a37xyerrvo</sha1>
+</revision>
+</page>

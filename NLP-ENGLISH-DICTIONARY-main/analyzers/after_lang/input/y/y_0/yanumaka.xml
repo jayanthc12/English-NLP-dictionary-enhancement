@@ -1,0 +1,38 @@
+<page>
+<title>yanumaka</title>
+<ns>0</ns>
+<id>4527981</id>
+<revision>
+<id>56309810</id>
+<parentid>51135826</parentid>
+<timestamp>2019-10-17T12:30:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="966" xml:space="preserve">==Wauja==
+{{wikipedia|Jaguar}}
+[[Image: Obscured jaguar.jpg|thumb|right|Jaguar, Belize, 2001. Photo: Gary M. Stoltz.]]
+[[Image: Black Panther by Bruce McAdam.jpg|thumb|right|Black or melanistic jaguar, 2008, often called black panther, though the spotted and black forms are one species. Photo: Bruce McAdam.]]
+===Pronunciation===
+* {{IPA|wau|/ˌja.nuˈma.ka/}}
+===Noun===
+{{head|wau|noun}}
+# jaguar, jaguars, ''[[Panthera onca]]'', symbol of a chief in Wauja culture
+====Derived terms====
+* {{l|wau|yanumaka kapala}} {{qualifier|spotted}}
+* {{l|wau|yanumaka yelaki}} {{qualifier|black or melanistic}}
+====See also====
+* {{l|wau|outala}} (cougar)
+====References====
+* ''E. Ireland field notes, confirmed with Piitsa, Muri, and other elders (all experienced hunters) in 1982 using José Cândido de Melo Carvalho's Atlas da Fauna Brasileira, Edições Melhoramentos, São Paulo, 1981.''
+[[Category:wau:Animals]]
+[[Category:wau:Felids]]
+[[Category:wau:Mammals]]</text>
+<sha1>am979jk5rl60cot2ljq1x7m77wxudis</sha1>
+</revision>
+</page>

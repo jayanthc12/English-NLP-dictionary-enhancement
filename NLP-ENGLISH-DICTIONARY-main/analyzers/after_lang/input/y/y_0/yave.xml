@@ -1,0 +1,24 @@
+<page>
+<title>yave</title>
+<ns>0</ns>
+<id>2996323</id>
+<revision>
+<id>62074736</id>
+<parentid>46420219</parentid>
+<timestamp>2021-03-13T21:19:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="88" xml:space="preserve">{{also|Yavé|y'ave}}
+==Ladino==
+===Noun===
+{{lad-noun|g=f|heb=ייאב׳י}}
+# [[key]]</text>
+<sha1>f0lzd1z92j6h4l6mabdzo40gsp8d2hi</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xanthemia</title>
+<ns>0</ns>
+<id>2134263</id>
+<revision>
+<id>61114945</id>
+<parentid>51981089</parentid>
+<timestamp>2020-11-14T07:30:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1497" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xanth|emia}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pathology}} The occurrence of [[yellow]] matter in the [[blood]].
+#* '''1902''', Heinrich Stern, Journal of the American Medical Association, Volume 38, ''On the treatment of obesity''&lt;sup&gt;[http://books.google.com/books?id=mVPlAAAAMAAJ]&lt;/sup&gt;:
+#*: Among the latter, incipient nephritis and metabolic anomalies, as '''xanthemia''', arthritis uritica, oxaluria are common.
+#* '''1922''', Leroy Sheldon Palmer, ''Carotinoids and related pigments: the chromolipoids'', page 136&lt;sup&gt;[http://books.google.com/books?id=_dUKAAAAIAAJ]&lt;/sup&gt;:
+#*: Carotin was inferred, not demonstrated, in these cases, although Salomon measured the extent of the &quot;'''xanthemia'''&quot; in certain individuals by determining the extinction coefficient of the absorption bands of the ether extract of the blood.
+# {{lb|en|pathology}} The occurrence of [[yellow]] skin
+#* '''1976''', Denis Llewellyn Fox, ''Animal biochromes and structural colours: physical, chemical, distributional'', page 174&lt;sup&gt;[http://books.google.com/books?id=tti9WX3lL70C]&lt;/sup&gt;:
+#*: False jaundice or carotenemia ('''xanthemia''') is an unusual and abnormal yellowness of the human skin, sometimes actually appearing in the sweat, resulting from the ingestion of carotenoid-rich food such as carrots, oranges or yellow cucurbits in large quantities over protracted periods.
+====Synonyms====
+* {{l|en|carotenemia}}
+====Related terms====
+* {{l|en|xanthosis}}</text>
+<sha1>rzsaf22aetrwcs4s0uz1w49dlrgi4j6</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xylano</title>
+<ns>0</ns>
+<id>1513619</id>
+<revision>
+<id>63048329</id>
+<parentid>39325750</parentid>
+<timestamp>2021-07-02T06:05:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Italian lemmas: quotes, alt forms, cog, missing periods, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Italian==
+===Alternative forms===
+* {{alter|it|xilano}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|carbohydrate}} [[xylan]]</text>
+<sha1>7yrxjus5mt3fyhnrw7vd1aj1hunfab3</sha1>
+</revision>
+</page>

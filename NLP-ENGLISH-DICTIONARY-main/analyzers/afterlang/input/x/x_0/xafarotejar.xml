@@ -1,0 +1,29 @@
+<page>
+<title>xafarotejar</title>
+<ns>0</ns>
+<id>2792537</id>
+<revision>
+<id>64460106</id>
+<parentid>54721112</parentid>
+<timestamp>2021-10-28T12:13:17Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="207" xml:space="preserve">==Catalan==
+===Etymology===
+{{suffix|ca|xafarot|ejar}}
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=5}}
+===Verb===
+{{head|ca|verb}}
+# to [[gossip]]
+====Conjugation====
+{{ca-conj-ar|xafarotej}}</text>
+<sha1>nofz1ijunvysd1mgm4u9fw2fxmfcfhx</sha1>
+</revision>
+</page>

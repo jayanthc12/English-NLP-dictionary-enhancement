@@ -1,0 +1,41 @@
+<page>
+<title>Yaroslav</title>
+<ns>0</ns>
+<id>3760989</id>
+<revision>
+<id>61708089</id>
+<parentid>54820260</parentid>
+<timestamp>2021-02-01T02:35:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{name translit}} for transliterated names, related cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="688" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Jaroslav}}
+===Etymology===
+Transliteration of {{bor|en|uk|Яросла́в}} or {{bor|en|ru|Яросла́в}}.
+===Proper noun===
+{{en-proper noun}}
+# {{name translit|en|ru|Яросла́в|type=male given name}}.
+# {{name translit|en|uk|Яросла́в|type=male given name}}.
+====Translations====
+{{trans-top|Slavic name}}
+* Czech: {{t+|cs|Jaroslav}}
+* French: {{t|fr|Iaroslav}}
+* German: {{t|de|Jaroslaw}}
+* Polish: {{t+|pl|Jarosław|m}}
+* Russian: {{t+|ru|Яросла́в|m}}
+{{trans-mid}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јарослав}}
+*: Latin: {{t|sh|Jaroslav}}
+* Ukrainian: {{t|uk|Яросла́в|m}}
+{{trans-bottom}}</text>
+<sha1>oc08cvsct296ws8hoauecefdsuqxio1</sha1>
+</revision>
+</page>

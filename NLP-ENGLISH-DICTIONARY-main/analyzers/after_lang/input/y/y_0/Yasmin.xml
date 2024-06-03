@@ -1,0 +1,48 @@
+<page>
+<title>Yasmin</title>
+<ns>0</ns>
+<id>2168814</id>
+<revision>
+<id>67293457</id>
+<parentid>62646014</parentid>
+<timestamp>2022-06-06T10:51:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|ar}}; swap {{etyl|...}} into {{uder|en|fa}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="824" xml:space="preserve">==English==
+===Etymology===
+Variant of {{m|en|Jasmine}}, often representing a transliteration of the corresponding {{uder|en|ar|-}} and {{uder|en|fa|-}} names.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|from=Arabic}}.
+===Anagrams===
+* {{anagrams|en|a=aimnsy|Mysian|maysin|nyamis}}
+----
+==German==
+===Etymology===
+Variant of {{m|de|Jasmin}}, also a transliteration of {{bor|de|ar|يَاسْمِين}} and {{bor|de|fa|یاسمین|tr=yâsmin}}.
+===Proper noun===
+{{head|de|proper noun}}
+# {{given name|de|female}}
+----
+==Portuguese==
+===Etymology===
+{{rfe|pt}}
+===Proper noun===
+{{pt-proper noun|f}}
+# {{given name|pt|female|var=Jasmim}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{borrowed|tl|en|Yasmin}}.
+===Proper noun===
+{{tl-proper noun}}
+# {{given name|tl|female|from=English}}</text>
+<sha1>7lu9bq5dnc2iihvpwo0q5bbino2i32c</sha1>
+</revision>
+</page>

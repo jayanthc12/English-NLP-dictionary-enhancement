@@ -1,0 +1,27 @@
+<page>
+<title>Yeznanz</title>
+<ns>0</ns>
+<id>7051971</id>
+<revision>
+<id>66179840</id>
+<parentid>51191849</parentid>
+<timestamp>2022-03-19T23:00:24Z</timestamp>
+<contributor>
+<username>Rodrigo5260</username>
+<id>3579806</id>
+</contributor>
+<comment>/* Pronunciation */ Added an audio request</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{bor|za|cmn|-}} {{zh-l|越南}}.
+===Pronunciation===
+* {{za-pron}}
+{{rfap|za}}
+===Proper noun===
+{{za-head|proper noun}}
+# {{place|za|t=Vietnam|country|continent/Asia}}</text>
+<sha1>k4w1tuvuagtw85zdcbg54x44ufehqkn</sha1>
+</revision>
+</page>

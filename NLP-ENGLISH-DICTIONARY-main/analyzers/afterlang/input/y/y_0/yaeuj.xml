@@ -1,0 +1,27 @@
+<page>
+<title>yaeuj</title>
+<ns>0</ns>
+<id>7051981</id>
+<revision>
+<id>61605516</id>
+<parentid>51191887</parentid>
+<timestamp>2021-01-19T13:30:00Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==Zhuang==
+===Etymology===
+{{rfe|za}}
+===Pronunciation===
+* {{za-pron}}
+===Verb===
+{{za-head|verb|𭠞|𭠥|拞|𭠗|右}}
+# to [[carry]]; to [[hold]]; to [[lift]]</text>
+<sha1>7bil8j357lw6lysygz45jbs2el40d8g</sha1>
+</revision>
+</page>

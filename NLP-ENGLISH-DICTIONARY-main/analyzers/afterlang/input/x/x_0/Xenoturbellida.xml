@@ -1,0 +1,33 @@
+<page>
+<title>Xenoturbellida</title>
+<ns>0</ns>
+<id>471001</id>
+<revision>
+<id>67334441</id>
+<parentid>67334440</parentid>
+<timestamp>2022-06-10T15:35:44Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="511" xml:space="preserve">==Translingual==
+===Etymology===
+{{taxlink|Xenoturbella|genus}} {{suffix|mul||ida}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|subphylum|phylum|Xenacoelomorpha|[[primitive]] [[marine]] [[worm]]s}}
+====Hypernyms====
+* {{sense|subphylum}} {{Xenacoelomorpha Hypernyms}}
+====Hyponyms====
+* {{sense|subphylum}} {{taxlink|Xenoturbellidae|family}}&amp;nbsp;- sole family; {{taxlink|Xenoturbella|genus}}&amp;nbsp;- sole genus
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite|Xenacoelomorpha}}
+* {{R:Ruggiero}}</text>
+<sha1>asxnnx2a83pl1az8lo8l7bd2zp1q4xb</sha1>
+</revision>
+</page>

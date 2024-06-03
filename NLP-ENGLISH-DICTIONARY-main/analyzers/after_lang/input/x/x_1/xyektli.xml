@@ -1,0 +1,31 @@
+<page>
+<title>xyektli</title>
+<ns>0</ns>
+<id>7370103</id>
+<revision>
+<id>68881446</id>
+<parentid>58219810</parentid>
+<timestamp>2022-08-28T07:10:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace 3+ newlines with 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Guerrero Nahuatl==
+===Etymology===
+{{prefix|ngu|x-|t1=not|yektli|t2=good; holy}}
+===Noun===
+{{head|ngu|noun}}
+# [[devil]]
+===Adjective===
+{{head|ngu|adjective}}
+# [[unattractive]]
+===References===
+* {{R:Aburto &amp; Mason 2005|page=177}}
+{{c|ngu|Appearance|Theology}}</text>
+<sha1>nfvha0l9yobmm0xsbr2qsa8mmwujchm</sha1>
+</revision>
+</page>

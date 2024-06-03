@@ -1,0 +1,128 @@
+<page>
+<title>yama</title>
+<ns>0</ns>
+<id>779597</id>
+<revision>
+<id>68783291</id>
+<parentid>66514359</parentid>
+<timestamp>2022-08-27T10:57:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line; add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2721" xml:space="preserve">{{also|Yama|yamá|yàmá}}
+==Bukiyip==
+===Pronunciation===
+* {{IPA|ape|[jæmə]}}
+===Noun===
+{{head|ape|noun}}
+# [[mother]]
+===References===
+* 2007. [http://archive.phonetics.ucla.edu/Language/APE/ape.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+{{C|ape|Family members|Female|People}}
+----
+==Ibanag==
+===Etymology===
+From {{inh|ibg|map-pro|*amax}}.
+===Noun===
+{{head|ibg|noun}}
+# [[father]]
+====Coordinate terms====
+* {{l|ibg|yena}}
+----
+==Jamamadí==
+===Noun===
+{{head|jaa|noun}}
+# {{lb|jaa|Banawá}} [[thing]]
+===References===
+* 2007. [http://archive.phonetics.ucla.edu/Language/BNH/bnh.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やま}}
+----
+==Javanese==
+===Romanization===
+{{jv-rom}}
+# {{romanization of|jv|ꦪꦩ}}
+----
+==Papiamentu==
+===Etymology===
+From {{der|pap|es|llamar}} and {{der|pap|pt|chamar}}.
+===Verb===
+{{head|pap|verb}}
+# to [[call]] (shout)
+# to be [[called]] (one's name)
+# to [[call]] by telephone
+----
+==Phuthi==
+===Etymology===
+{{rfe|bnt-phu}}
+===Verb===
+{{bnt-phu-verb|yáma}}
+# to [[touch]]
+====Inflection====
+{{rfinfl|bnt-phu}}
+----
+==Tagalog==
+===Etymology 1===
+====Noun====
+{{tl-noun|yamá}}
+# {{lb|tl|archaic}} [[duty]] or [[responsibility]]
+===Etymology 2===
+====Noun====
+{{tl-noun|yamâ}}
+# {{lb|tl|archaic}} [[touch]]; [[sense]] of [[touch]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یامه|tr=yama}}, ultimately from {{inh|tr|trk-pro|*yama-|t=to patch}},&lt;ref&gt;{{R:tut-pro:SDM|*jama-|url=https://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=1063&amp;root=config}}&lt;/ref&gt; whence also {{cog|tr|yamamak|yama-|t=to patch}}.
+{{rel-top|cognates}}
+Cognate with
+{{cog|xqa|tr=jamaγ|t=patch}};
+{{cog|kk|жамау}},
+{{cog|ky|жамоо}},
+{{cog|krc|жамау}},
+{{cog|kum|ямав|t=patch}};
+{{cog|uz|yamoq}},
+{{cog|ug|ياماق|t=patch}};
+{{cog|tk|ýama}},
+{{cog|ba|ямау}},
+{{cog|az|yamaq|t=patch}}; also
+{{cog|sah|самалык||patch}}.
+{{rel-bottom}}
+===Noun===
+{{tr-noun|yı|lar}}
+# [[birthmark]]
+# [[patch]]
+# {{lb|tr|computing}} [[patch]]
+# {{lb|tr|film}} [[reprint]], [[slug]], [[build-up]]
+# {{lb|tr|surgery}} [[graft]]
+====Declension====
+{{tr-infl-noun-v|ı|poss=1}}
+====Derived terms====
+{{der3|tr|yamacı|yamalamak|yamamak}}
+====See also====
+* {{l|tr|ben}}
+* {{l|tr|leke}}
+===References===
+&lt;references/&gt;
+----
+==Yoruba==
+===Etymology===
+{{bor+|yo|ha|yamma}}.
+===Pronunciation===
+*{{yo-IPA|yámà}}
+===Noun===
+{{yo-noun|yámà}}
+# [[west]], [[sunset]]
+#: {{syn|yo|ìwọ̀-oòrùn}}
+{{C|yo|Compass points}}</text>
+<sha1>fqluz7gxxmfhlmgyl5c45vgmy7qx1z4</sha1>
+</revision>
+</page>

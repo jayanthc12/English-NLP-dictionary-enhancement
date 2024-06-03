@@ -1,0 +1,109 @@
+<page>
+<title>yank</title>
+<ns>0</ns>
+<id>71397</id>
+<revision>
+<id>69237568</id>
+<parentid>69235548</parentid>
+<timestamp>2022-09-12T05:55:55Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<comment>that doesn't really explain the edit</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4610" xml:space="preserve">{{also|Yank|þank}}
+==English==
+===Etymology 1===
+Attested since 1822; from {{bor|en|sco|yank}}. {{unk|en}} origin.
+====Pronunciation====
+* {{enPR|yăngk}}, {{IPA|en|/jæŋk/}}
+* {{audio|en|En-au-yank.ogg|Audio (AU)}}
+* {{rhymes|en|æŋk|s=1}}
+====Noun====
+{{en-noun}}
+# A [[sudden]], [[vigorous]] [[pull]] (sometimes defined as mass times [[jerk]], or rate of change of [[force]]).
+#: {{ux|en|He unjammed the rope with a short '''yank'''.}}
+# {{lb|en|slang}} A [[masturbation]] session.
+#* {{quote-book|en|2012|Bonnie Dee, Summer Devon|Serious Play|page=81|text=He rested his hand on his bare chest, an innocent enough spot, but soon it drifted of its own accord down his stomach to slide beneath the waistband of his briefs. Fine. A quick '''yank''' would relieve the sexual tension that simmered in him.}}
+=====Synonyms=====
+* {{sense|sudden, vigorous pull}} {{l|en|jerk}}, {{l|en|tug}}
+=====Translations=====
+{{trans-top|A sudden, vigorous pull}}
+* Bulgarian: {{t|bg|рязко дръпване|n}}
+* Catalan: {{t+|ca|estrebada|f}}
+* Finnish: {{t|fi|vetäisy}}, {{t|fi|kiskaisu}}, {{t|fi|riuhtaisu}}
+* French: {{t|fr|coup sec|m}}
+* Georgian: {{t|ka|ნახტომი}}
+* German: {{t+|de|Ruck|m}}
+* Persian: {{t|fa|کشش ناگهانی|sc=fa-Arab}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|puxão}}
+* Russian: {{t+|ru|рыво́к|m}}, {{t+|ru|дёрганье|n}}
+* Spanish: {{t+|es|tirón|m}}
+* Swedish: {{t+|sv|ryck|n}}
+{{trans-bottom}}
+====Verb====
+{{en-verb}}
+# {{lb|en|transitive}} To pull (something) with a [[quick]], [[strong]] [[action]].
+#* {{quote-journal|en|December 2015|{{w|Elizabeth Royte}}|Vultures Are Revolting. Here’s Why We Need to Save Them.|National Geographic|url=http://ngm.nationalgeographic.com/2016/01/vultures-text|text=Now a white-backed rams its head down the wildebeest’s throat and '''yanks''' out an eight-inch length of trachea, ribbed like a vacuum hose.}}
+# {{lb|en|transitive|informal}} To [[remove]] from [[distribution]].
+#: {{ux|en|They '''yanked''' the product as soon as they learned it was unsafe.}}
+=====Synonyms=====
+* {{sense|pull with a quick strong action}} {{l|en|jerk}}, {{l|en|tug}}
+* {{sense|remove from circulation}} {{l|en|pull}}, {{l|en|recall}}
+=====Derived terms=====
+* {{l|en|yanker}}
+* [[yank someone's chain]]
+=====Translations=====
+{{trans-top|to pull something with a quick, strong action}}
+* Azerbaijani: {{t+|az|dartmaq}}
+* Bulgarian: {{t|bg|дръпвам силно}}
+* Dutch: {{t+|nl|rukken}}, {{t|nl|een ruk geven}}, {{t+|nl|sjorren}}
+* Finnish: {{t|fi|vetäistä}}, {{t+|fi|kiskaista}}, {{t|fi|riuhtoa}}, {{t|fi|riuhtaista}}
+* French: {{t|fr|tirer d'un coup sec}}
+* German: {{t|de|[[mit ]] [[einem]] [[kurzem]] [[Ruck]] [[reißen]]}}, {{t|de|[[mit ]] [[einem]] [[kurzem]] [[Ruck]] [[ziehen]]}}, {{t|de|[[mit ]] [[einem]] [[kurzem]] [[Ruck]] [[zerren]]}}
+* Hungarian: {{t+|hu|ránt}}, {{t+|hu|kiránt}}, {{q|presenting it}} {{t|hu|előránt}}, {{t|hu|előkap}}
+* Italian: {{t|it|strappar via}}
+{{trans-mid}}
+* Japanese: {{t+|ja|引っ張る|tr=hipparu}}
+* Maori: {{t|mi|haukume}}
+* Romanian: {{t+|ro|înșfăca}}
+* Russian: {{t+|ru|дёргать}}, {{t+|ru|вырыва́ть}}
+* Scottish Gaelic: {{t|gd|slaod}}, {{t|gd|tarraing}}
+* Spanish: {{t+|es|tirar|alt=tirar de}}, {{t|es|dar un tirón}}, {{t+|es|tironear}}
+* Ukrainian: {{t|uk|сми́кати|impf}}, {{t|uk|сми́кнути|pf}}
+{{trans-bottom}}
+{{trans-top|to remove from distribution}}
+* Bulgarian: {{t+|bg|изтеглям}}
+* Finnish: {{t|fi|[[vetää]] [[pois]] [[markkinat|markkinoilta]]}}
+* French: {{t+|fr|retirer}}
+* German: {{t|de|aus dem Verkehr ziehen}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|visszavon}}, {{t+|hu|bevon}}, {{t+|hu|megszüntet}}, {{t+|hu|töröl}}
+* Spanish: {{t+|es|retirar}}
+{{trans-bottom}}
+=====References=====
+* {{R:Online Etymology Dictionary}}
+===Etymology 2===
+{{clipping|en|Yankee}}
+====Noun====
+{{en-noun}}
+# {{lb|en|often|derogatory}} A [[Yankee]].
+----
+==Scots==
+===Etymology===
+{{unk|sco}}; likely imitative. Compare {{m|sco|whang||a blow}}.
+===Noun===
+{{sco-noun}}
+# a sudden [[tug]], a [[jerk]], a yank
+# a [[blow]], a [[slap]]
+#* {{quote-book|sco|1833|{{w|James Hogg}}|The Brownie of Bodsbeck||51|I took up my neive an’ gae him a '''yank''' on the haffat till I gart his bit brass cap rattle against the wa’.|url=https://books.google.com/books?id=xCogAAAAMAAJ&amp;pg=RA1-PA51|translation=I raised my fist and gave him a blow on the temple that made his little brass cap rattle against the wall.}}
+===Verb===
+{{sco-verb}}
+# to [[jerk]], to [[pull]] suddenly
+# to [[move]] [[quickly]] or in a [[lively]] manner</text>
+<sha1>2y2thj5firbgo8n9omahetqw1mxmqyd</sha1>
+</revision>
+</page>

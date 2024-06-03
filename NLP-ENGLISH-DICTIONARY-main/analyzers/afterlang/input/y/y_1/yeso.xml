@@ -1,0 +1,45 @@
+<page>
+<title>yeso</title>
+<ns>0</ns>
+<id>92065</id>
+<revision>
+<id>69329664</id>
+<parentid>68889363</parentid>
+<timestamp>2022-09-19T10:38:38Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="561" xml:space="preserve">==Spanish==
+===Etymology===
+From {{inh|es|la|gypsum}}, from {{der|es|grc|γύψος}}. Compare {{cog|en|gesso}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[plaster]], [[gesso]]
+# [[gypsum]]
+# [[cast]], [[plaster]] [[cast]]
+====Derived terms====
+* {{l|es|enyesar}}
+* {{l|es|yesería}}
+* {{l|es|yesero}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Minerals}}
+----
+==Tagalog==
+===Etymology===
+{{bor+|tl|es|yeso||gypsum}}.
+===Pronunciation===
+* {{hyph|tl|ye|so}}
+* {{tl-IPA}}
+===Noun===
+{{tl-noun}}
+# [[chalk]]
+#: {{syn|tl|tisa|tsok}}</text>
+<sha1>tdfe7ddfev5fh55ymfcsbarqyjhbwpo</sha1>
+</revision>
+</page>

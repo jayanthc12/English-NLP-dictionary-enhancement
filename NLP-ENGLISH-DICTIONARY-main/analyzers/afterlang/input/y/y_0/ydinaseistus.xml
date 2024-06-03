@@ -1,0 +1,29 @@
+<page>
+<title>ydinaseistus</title>
+<ns>0</ns>
+<id>748445</id>
+<revision>
+<id>58593336</id>
+<parentid>54765901</parentid>
+<timestamp>2020-01-30T12:09:20Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="220" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|aseistus}}
+===Pronunciation===
+{{fi-pronunciation|ydin-aseistus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[armament]]
+====Declension====
+{{fi-decl-vastaus|ydinaseistu|a}}</text>
+<sha1>pkc1klgj0twtec90jxq6tav93u26yag</sha1>
+</revision>
+</page>

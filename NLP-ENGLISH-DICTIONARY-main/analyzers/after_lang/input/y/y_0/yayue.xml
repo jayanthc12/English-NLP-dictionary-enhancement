@@ -1,0 +1,27 @@
+<page>
+<title>yayue</title>
+<ns>0</ns>
+<id>5577090</id>
+<revision>
+<id>64468420</id>
+<parentid>58911002</parentid>
+<timestamp>2021-10-28T22:33:47Z</timestamp>
+<contributor>
+<username>Simplificationalizer</username>
+<id>3217536</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Musical genres]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="354" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|cmn|-}} {{zh-m|雅樂|lit=elegant music}}. {{doublet|en|gagaku|aak}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|music}} A form of [[Chinese]] ritual music performed at [[imperial]] [[court]]s since the Zhou Dynasty, and usually associated with [[Confucianism]].
+[[Category:en:Musical genres]]</text>
+<sha1>2vzp85oyy28ysrrsjsjt5kyvkh4gyac</sha1>
+</revision>
+</page>

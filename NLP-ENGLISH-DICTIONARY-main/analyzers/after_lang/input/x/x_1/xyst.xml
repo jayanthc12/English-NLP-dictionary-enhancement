@@ -1,0 +1,29 @@
+<page>
+<title>xyst</title>
+<ns>0</ns>
+<id>488898</id>
+<revision>
+<id>67289584</id>
+<parentid>64460273</parentid>
+<timestamp>2022-06-06T09:35:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|la}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==English==
+===Etymology===
+From shortening of {{uder|en|la|xystus}}.
+===Pronunciation===
+* {{rhymes|en|ɪst|s=1}}
+===Noun===
+{{en-noun}}
+# A [[xystus]].
+===Anagrams===
+* {{anagrams|en|a=stxy|Styx}}</text>
+<sha1>mi5fiyshbr4l6o1s3b2d5k0edcxybg5</sha1>
+</revision>
+</page>

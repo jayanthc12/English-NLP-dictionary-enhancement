@@ -1,0 +1,28 @@
+<page>
+<title>yanak</title>
+<ns>0</ns>
+<id>1860431</id>
+<revision>
+<id>53302133</id>
+<parentid>53302131</parentid>
+<timestamp>2019-06-11T12:58:23Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="246" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|trk-pro|*yạyŋak}}.
+===Pronunciation===
+* {{IPA|tr|/jɑnɑk/}}
+===Noun===
+{{tr-noun|2=lar|def-acc=yanağı}}
+# {{lb|tr|anatomy}} [[cheek]]
+====Declension====
+{{tr-infl-noun-c|a|stem=yanağ|poss=1}}</text>
+<sha1>tp24b1cg1xqbw0mvp047bcng4n5x6v8</sha1>
+</revision>
+</page>

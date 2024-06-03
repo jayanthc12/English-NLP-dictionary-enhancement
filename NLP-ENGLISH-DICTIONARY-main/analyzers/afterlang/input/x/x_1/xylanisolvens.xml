@@ -1,0 +1,28 @@
+<page>
+<title>xylanisolvens</title>
+<ns>0</ns>
+<id>3769019</id>
+<revision>
+<id>46998740</id>
+<parentid>42531625</parentid>
+<timestamp>2017-07-09T06:07:15Z</timestamp>
+<contributor>
+<username>Daniel Carrero</username>
+<id>21747</id>
+</contributor>
+<minor />
+<comment>[[User:Daniel Carrero/term cleanup|term cleanup]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="314" xml:space="preserve">==Translingual==
+===Etymology===
+From {{der|mul|en|xylan}} + {{der|mul|la|solvēns}}.
+===Adjective===
+{{head|mul|adjective}}
+# [[xylan]]-[[degrading]]
+====Derived terms====
+* {{taxlink|Bacteroides xylanisolvens|species|noshow=1|ver=161212}}
+* {{taxlink|Paenibacillus xylanisolvens|species|noshow=1|ver=161212}}</text>
+<sha1>jafcfs6zqimnfdjmmgftc27jwnr2x4k</sha1>
+</revision>
+</page>

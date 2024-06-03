@@ -1,0 +1,34 @@
+<page>
+<title>xerophilus</title>
+<ns>0</ns>
+<id>3758492</id>
+<revision>
+<id>59900850</id>
+<parentid>53730851</parentid>
+<timestamp>2020-08-02T23:16:21Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="549" xml:space="preserve">==Latin==
+===Etymology===
+From {{der|la|grc|ξηρός||dry}} + {{cog|la|-phila||loving}}.
+===Pronunciation===
+* {{la-IPA|xērophilus}}
+===Adjective===
+{{la-adj|xērophilus}}
+# {{lb|la|New Latin}} [[dry]]-[[loving]]
+====Declension====
+{{la-adecl|xērophilus}}
+====Derived terms====
+* {{taxlink|Marmosa xerophila|species|ver=161212}}
+* {{taxlink|Pheidole xerophila|species|ver=161212}}
+* {{taxlink|Pterostylis xerophila|species|ver=161212}}
+* {{taxlink|Ravenea xerophila|species|ver=161212}}
+* {{taxlink|Tasmannia xerophila|species|ver=161212}}</text>
+<sha1>2igzairxc2nwywrenffcravcomuvrbe</sha1>
+</revision>
+</page>

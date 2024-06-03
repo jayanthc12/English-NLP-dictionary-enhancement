@@ -1,0 +1,28 @@
+<page>
+<title>yemoq</title>
+<ns>0</ns>
+<id>1869757</id>
+<revision>
+<id>63162898</id>
+<parentid>62232232</parentid>
+<timestamp>2021-07-13T23:24:21Z</timestamp>
+<contributor>
+<username>AmazingJus</username>
+<id>3172395</id>
+</contributor>
+<minor />
+<comment>/* Uzbek */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="279" xml:space="preserve">==Uzbek==
+===Etymology===
+From {{inh|uz|trk-pro|*jē-||to eat}}. Cognate with {{cog|az|yemək|t=to eat}}, {{cog|kk|жеу|t=to eat}}, {{cog|tr|yemek|t=to eat}}.
+===Verb===
+{{head|uz|verb}}
+# to [[eat]] (consume)
+# to [[spend]], [[use up]]
+====Conjugation====
+{{uz-verb-conj}}</text>
+<sha1>579ozqiqyq7fvt7ss251ozvg6rt24ue</sha1>
+</revision>
+</page>

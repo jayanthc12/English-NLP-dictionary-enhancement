@@ -1,0 +1,28 @@
+<page>
+<title>yhdenvertaisuus</title>
+<ns>0</ns>
+<id>613609</id>
+<revision>
+<id>69318368</id>
+<parentid>51840889</parentid>
+<timestamp>2022-09-18T17:14:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdenvertainen|uus}}
+===Pronunciation===
+{{fi-p|yhden-vertaisuus}}
+===Noun===
+{{fi-noun}}
+# [[equality]]
+====Declension====
+{{fi-decl-kalleus|yhdenvertaisuu|a}}</text>
+<sha1>kgrk8djlizm1bje40wuyqn5tnm60lsf</sha1>
+</revision>
+</page>

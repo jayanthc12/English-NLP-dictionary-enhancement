@@ -1,0 +1,28 @@
+<page>
+<title>xenotoxin</title>
+<ns>0</ns>
+<id>4965672</id>
+<revision>
+<id>51815521</id>
+<parentid>50119796</parentid>
+<timestamp>2019-03-14T10:09:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="196" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|toxin}}
+===Noun===
+{{en-noun}}
+# Any [[toxin]] that originates outside the target organism
+====Related terms====
+* [[xenotoxic]]
+* [[xenotoxicity]]</text>
+<sha1>8brg4m16hk8c6ufu1nhcqmmxgsxypcv</sha1>
+</revision>
+</page>

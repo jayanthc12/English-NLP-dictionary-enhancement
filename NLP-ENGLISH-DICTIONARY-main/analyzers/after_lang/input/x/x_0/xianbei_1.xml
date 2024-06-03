@@ -1,0 +1,23 @@
+<page>
+<title>xianbei</title>
+<ns>0</ns>
+<id>6932469</id>
+<revision>
+<id>62219317</id>
+<parentid>50488501</parentid>
+<timestamp>2021-03-21T03:47:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace default plural xianbeis with '+' in {{es-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="67" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|mf|xianbei|pl2=+}}
+# [[Xianbei]]</text>
+<sha1>6erleuh537rb5uo009qu4ay4v75r7xg</sha1>
+</revision>
+</page>

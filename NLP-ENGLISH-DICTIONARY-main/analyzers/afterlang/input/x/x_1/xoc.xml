@@ -1,0 +1,31 @@
+<page>
+<title>xoc</title>
+<ns>0</ns>
+<id>2564794</id>
+<revision>
+<id>64460235</id>
+<parentid>63588623</parentid>
+<timestamp>2021-10-28T12:19:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==Catalan==
+===Etymology===
+From {{m|ca|xocar}}. In the sense of &quot;shock&quot; a {{calque|ca|en|shock|nocap=1}}.
+===Pronunciation===
+* {{ca-IPA|ò}}
+* {{rhymes|ca|ɔk|s=1}}
+===Noun===
+{{ca-noun|m}}
+# [[clash]], [[crash]], [[clatter]]
+#: {{syn|ca|topada}}
+# {{lb|ca|medicine|psychology}} [[shock]]
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>nd0gew4fh38p5unbgvn0b4smd7hwbvy</sha1>
+</revision>
+</page>

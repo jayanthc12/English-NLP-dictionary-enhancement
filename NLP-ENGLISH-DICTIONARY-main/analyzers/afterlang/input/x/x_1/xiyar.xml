@@ -1,0 +1,50 @@
+<page>
+<title>xiyar</title>
+<ns>0</ns>
+<id>4709036</id>
+<revision>
+<id>67197491</id>
+<parentid>67180662</parentid>
+<timestamp>2022-05-30T14:41:19Z</timestamp>
+<contributor>
+<username>Sahib1609</username>
+<id>3692630</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="717" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=хыјар|r=xiyar|a=خییار}}
+===Alternative forms===
+* {{alter|az|xıyar}}
+===Etymology===
+From {{bor|az|fa|خیار|tr=xiyâr|t=cucumber}}.
+===Pronunciation===
+* {{IPA|az|[χɯˈjɑr]}}
+* {{hyph|az|xi|yar}}
+===Noun===
+{{az-head-noun|a|c}}
+# [[cucumber]] {{C|az|Vegetables}}
+# {{lb|az|slang|offensive}} [[moron]], [[imbecile]]
+====Declension====
+{{az-decl-noun|a|c}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+{{wikipedia|lang=ku}}
+===Noun===
+{{kmr-noun|f}}
+# [[cucumber]]
+====Declension====
+{{kmr-decl-noun|f}}
+----
+==Southern Kurdish==
+===Noun===
+{{head|sdh|noun|Arabic spelling|خیار}}
+# [[cucumber]]</text>
+<sha1>ltjv58gf8buvjzwfi1p6e4hrkh5sc0o</sha1>
+</revision>
+</page>

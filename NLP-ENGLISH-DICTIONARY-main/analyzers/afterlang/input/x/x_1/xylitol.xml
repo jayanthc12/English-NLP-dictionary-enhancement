@@ -1,0 +1,58 @@
+<page>
+<title>xylitol</title>
+<ns>0</ns>
+<id>85411</id>
+<revision>
+<id>69623917</id>
+<parentid>69623912</parentid>
+<timestamp>2022-10-30T19:32:39Z</timestamp>
+<contributor>
+<username>Etiktov</username>
+<id>3814604</id>
+</contributor>
+<minor />
+<comment>Correction</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1760" xml:space="preserve">{{also|Xylitol}}
+==English==
+{{wikipedia}}
+===Etymology===
+From [[Ancient Greek]] ''[[ξύλον]]'' + {{af|en|-itol|t1=anhydric alcohol}}.
+===Noun===
+{{en-noun|~}}
+# {{lb|en|chemistry}} A [[pentahydric]] [[alcohol]], C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;, penta-hydroxy pentane; derived from [[xylose]]; used as a [[sweetener]].
+#* {{quote-book|en|author=Matt Dorsey|title=Healthy Cocktails|year=2019|publisher=Simon and Schuster|url=https://books.google.com/books?id=yXeNDwAAQBAJ&amp;pg=PT29&amp;dq=%22doggos%22&amp;hl=&amp;cd=63&amp;source=gbs_api#v=onepage&amp;q=%22doggos%22&amp;f=false|isbn=978-1-5107-4495-0|author2=Jenny Dorsey|passage=A note of caution to readers with pets: '''Xylitol''' is toxic to dogs and can have potentially life-threatening effects. As owners of two doggos ourselves, we encourage anyone with a dog to use extreme caution when bringing '''xylitol''' into your home.}}
+====Synonyms====
+* {{l|en|E967}} when used as a sweetener
+====Translations====
+{{trans-top|an alcohol}}
+* Chinese:
+*: Mandarin: {{t+|cmn|木糖醇|tr=mùtángchún|sc=Hani}}
+* Finnish: {{t+|fi|ksylitoli}}
+* German: {{t+|de|Xylitol|n}}
+* Greek: {{t|el|ξυλιτόλη}}
+* Hungarian: {{t|hu|xilitol}}, {{t|hu|xilit}}, {{t+|hu|nyírfacukor}}
+* Japanese: {{t|ja|キシリトール|tr=kishiritōru|sc=Jpan}}
+{{trans-mid}}
+* Kazakh: {{t|kk|ксилит}}
+* Korean: {{t|ko|자일리톨|sc=Kore}}, {{t|ko|크실리톨|sc=Kore}}
+* Kyrgyz: {{t|ky|ксилит}}
+* Portuguese: {{t|pt|xilitol|m}}
+* Russian: {{t+|ru|ксилит}}
+* Spanish: {{t|es|xilitol|m}}
+* Swedish: {{t|sv|xylitol}}
+* Uzbek: {{t|uz|ksilit}}
+{{trans-bottom}}
+===Further reading===
+* {{R:OneLook}}
+===Anagrams===
+* {{anagrams|en|a=illotxy|lyxitol}}
+----
+==Spanish==
+===Noun===
+{{es-noun|m}}
+# [[#English|xylitol]]</text>
+<sha1>bq40kamly105mn5pdvak0lr3xrq6z7l</sha1>
+</revision>
+</page>

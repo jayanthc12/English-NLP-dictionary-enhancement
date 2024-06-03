@@ -1,0 +1,31 @@
+<page>
+<title>yeastful</title>
+<ns>0</ns>
+<id>7338142</id>
+<revision>
+<id>61122374</id>
+<parentid>54336792</parentid>
+<timestamp>2020-11-14T10:02:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1867" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yeast|ful|pos=adjective}}
+===Adjective===
+{{en-adj}}
+# {{synonym of|en|yeasty}}.
+#* {{quote-journal|en |year=1946 |work=Kansas City Medical Journal |title=Inspirational Yeast|author=|volume=22|page=3|passage=Translate this '''yeastful''' sequence into the intangibles of mental processes and one can recognize the simple episode of attending a clinical conference, listening to the exposition of new facts of medical science and then ...}}
+#* {{quote-book|en |year=1969 |title=The challenge of incompetence and poverty|author=Joseph McVicker Hunt |page=|ISBN=|passage=Perhaps the '''yeastful''' and self-corrective dynamic of science has at last found its way into knowledge of persons and of personality development.}}
+#* {{quote-book|en |year=1971|title=Coming to London |author=John Lehmann |page=82|ISBN=|passage=Did I feel a yeast, or '''yeastful''' lumps, of words inside me ? }}
+#* {{quote-book|en |year=1987|title=Transactions of the Gaelic Society of Inverness - Volume 54 |author=Inverness Gaelic Society |page=493|ISBN=|passage=They damn without hope of redemption alcoholic liquor in any shape or form from a '''yeastful''' brewage of heather tops to the spirituous spindrift distilled from grain and barley. }}
+#* {{quote-book|en |year=1994 |title=Figures in a landscape|author=Josephine Couch Del Deo, Ross Moffett |page=228|ISBN=|passage=He fits, though uncomfortably perhaps, in these germinating years as a member of the '''yeastful''' mix of gifted artists which gravitated to Provincetown.}}
+#* {{quote-book|en |year=2013|title=Ann Arbor Beer: A Hoppy History of Tree Town Brewing|author=David Bardallis |page=|ISBN=|passage=About the time the Greffs were finding their footing, he was back with a new business plan that combined his beery aspirations with another '''yeastful''' endeavor: breadmaking. }}</text>
+<sha1>k14jvflotkmcobpyl01865zshfmst87</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinaseneuvottelu</title>
+<ns>0</ns>
+<id>4405254</id>
+<revision>
+<id>69318128</id>
+<parentid>52035623</parentid>
+<timestamp>2022-09-18T17:01:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|neuvottelu|t2=negotiation}}
+===Pronunciation===
+{{fi-p|ydin-ase*/neuvottelu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|usually in plural}} [[nuclear weapon|nuclear weapons]] [[talks]]
+====Declension====
+{{fi-decl-palvelu|ydinaseneuvottelu|a}}</text>
+<sha1>hewkgttstot2oax3ed8bqdtkia9runv</sha1>
+</revision>
+</page>

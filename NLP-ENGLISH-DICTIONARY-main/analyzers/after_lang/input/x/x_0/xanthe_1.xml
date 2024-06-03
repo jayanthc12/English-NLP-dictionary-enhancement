@@ -1,0 +1,24 @@
+<page>
+<title>xanthe</title>
+<ns>0</ns>
+<id>4151585</id>
+<revision>
+<id>56274757</id>
+<parentid>46528312</parentid>
+<timestamp>2019-10-17T11:09:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|Xanthe}}
+==Latin==
+===Noun===
+{{la-noun-form|xanthe}}
+# {{inflection of|la|xanthos||voc|s}}</text>
+<sha1>2a6u86m0ux7uv22d3tlg0h7231xw8is</sha1>
+</revision>
+</page>

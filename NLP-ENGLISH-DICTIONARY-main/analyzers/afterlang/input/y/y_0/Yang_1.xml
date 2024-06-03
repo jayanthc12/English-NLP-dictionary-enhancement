@@ -1,0 +1,108 @@
+<page>
+<title>Yang</title>
+<ns>0</ns>
+<id>3828328</id>
+<revision>
+<id>68729496</id>
+<parentid>67974573</parentid>
+<timestamp>2022-08-26T06:05:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|tl}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3694" xml:space="preserve">{{also|yang|yáng|yàng|Yáng|yāng|yǎng}}
+==English==
+{{wikipedia}}
+===Etymology 1===
+''See'' '''{{l|en|yang}}'''
+====Proper noun====
+{{en-proper noun}}
+# {{lb|en|Chinese|_|philosophy}} {{alternative case form of|en|yang|nodot=a}} ''when used as a proper noun''.
+===Etymology 2===
+{{commonscat|Yang County}}
+From various atonal romanizations of various {{uder|en|zh|-}} characters, including {{m|zh|楊||[[willow|Willow]]}} and {{m|zh|洋||''a river name''}}.
+====Proper noun====
+{{en-proper noun}}
+# {{surname|en|from=Chinese}} of various origins.
+# {{surname|en|from=Korean}} of various origins.
+# {{place|en|county|prefecture-level city/Hanzhong|province/Shaanxi|c/China}}.
+#* {{quote-book
+|en
+|year=1988
+|author=Robin D. S. Yates
+|title=Washing Silk: The Life and Selected Poetry of Wei Chuang (834?-910)
+|url=https://archive.org/details/washingsilklifes0000yate/
+|publisher=
+|ISBN=0-674-94775-4
+|LCCN=87-29642
+|OCLC=924980345
+|OL=2399586M
+|page=123
+|pageurl=https://archive.org/details/washingsilklifes0000yate/page/123/
+|text=Liang and '''Yang''' were the names of two commanderies to the southwest of Ch'ang-an; '''Yang''' is the modern '''Yang''' county, Shensi, and Liang, the administrative center of Shan-nan West circuit, also known as Hsing-yuan, on the borders of Shensi and Szechuan.}}
+#* {{quote-web
+|en
+|date=11 Oct 2014
+|author=WU NAN
+|title=Breastfed baby gets drunk; Grandpa kills child smuggler
+|archiveurl=https://web.archive.org/web/20141012133127/https://www.scmp.com/news/china-insider/article/1614019/breastfed-baby-gets-drunk-grandpa-kills-child-smuggler
+|archivedate=12 October 2014
+|work={{w|South China Morning Post}}
+|text=A male vegetable seller killed a female hawker in a fight over space at a farmer's market in '''Yang''' county, near Hanzhong , Huashang Daily reports.}}
+#* {{quote-web
+|en
+|date=2021/04/15
+|title=Best destinations to view flowers in southern Shaanxi
+|archiveurl=https://web.archive.org/web/20210415214016/https://global.chinadaily.com.cn/a/202104/15/WS6077f342a31024ad0bab5cca.html
+|archivedate=15 April 2021
+|work={{w|China Daily}}
+|text=2 '''Yang''' county, Hanzhong city&lt;br&gt;'''Yang''' county has been famous for its cole flowers since ancient times. The place is known as “the heaven of cole flowers”. Besides, there is also a wheat field here, which creates a unique blend of half-green and half-yellow scenery.&lt;br&gt;Travel guide: Train-Xi'an North Station → Yangxian West Station (Around 1 hour)&lt;br&gt;Tips: Except for cole flowers, the pear flowers bloom at the same time in '''Yang''' county. Last but not least, you can see the exclusive crested ibises here!}}
+#* {{seemoreCites|en}}
+=====Derived terms=====
+* {{l|en|Norrish-Yang reaction}}
+=====Translations=====
+{{trans-top|county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|洋|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+====Statistics====
+* According to the 2010 United States Census, ''Yang'' is the 290&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 106,033 individuals. ''Yang'' is most common among Asian/Pacific Islander (96.8%) individuals.
+===Anagrams===
+* {{anagrams|en|a=agny|Nagy}}
+----
+==German==
+===Pronunciation===
+* {{IPA|de|[jaŋ]}}
+* {{rhymes|de|aŋ|s=1}}
+===Noun===
+{{de-noun|n,(s).sg}}
+# [[yang]]
+====Declension====
+{{de-ndecl|n,(s).sg}}
+===Further reading===
+* {{R:Duden}}
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|nan-hok|-}} {{zh-l|楊|iâng}}.
+===Pronunciation===
+* {{tl-IPA}}
+===Proper noun===
+{{head|tl|proper noun}}
+# {{surname|tl|from=Min Nan}} of Chinese origin
+====See also====
+* {{l|tl|Yu}}
+* {{l|tl|Young}}
+* {{l|tl|Yung}}
+* {{l|tl|Yongco}}
+* {{l|tl|Auyong}}
+* {{l|tl|Awyoung}}</text>
+<sha1>0y3lau2hqoxw9w1tqas7r0ooi4ssxxp</sha1>
+</revision>
+</page>

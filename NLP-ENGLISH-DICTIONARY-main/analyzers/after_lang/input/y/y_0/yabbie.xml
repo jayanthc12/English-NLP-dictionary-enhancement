@@ -1,0 +1,27 @@
+<page>
+<title>yabbie</title>
+<ns>0</ns>
+<id>237260</id>
+<revision>
+<id>69400193</id>
+<parentid>55197438</parentid>
+<timestamp>2022-09-29T21:09:05Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<comment>====Pronunciation==== * {{IPA|en|/ˈjæb.i/}} * {{audio|en|en-au-yabby.ogg|Audio (AU)}} * {{rhymes|en|æbi|s=2}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="189" xml:space="preserve">==English==
+====Pronunciation====
+* {{IPA|en|/ˈjæb.i/}}
+* {{audio|en|en-au-yabby.ogg|Audio (AU)}}
+* {{rhymes|en|æbi|s=2}}
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yabby}}</text>
+<sha1>fkrd6vs5a2xdbdxommyadihe0q331mx</sha1>
+</revision>
+</page>

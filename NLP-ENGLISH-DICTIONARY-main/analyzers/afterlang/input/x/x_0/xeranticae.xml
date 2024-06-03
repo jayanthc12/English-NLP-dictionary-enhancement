@@ -1,0 +1,23 @@
+<page>
+<title>xeranticae</title>
+<ns>0</ns>
+<id>4151215</id>
+<revision>
+<id>66995191</id>
+<parentid>56273760</parentid>
+<timestamp>2022-05-15T09:46:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xēranticus}} (3); combine {{inflection of|la|xēranticus}} tag sets gen|f|s and dat|f|s into gen//dat|f|s; combine {{inflection of|la|xēranticus}} tag sets nom|f|p and voc|f|p into nom//voc|f|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="119" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xēranticae}}
+# {{inflection of|la|xēranticus||nom//voc|f|p|;|gen//dat|f|s}}</text>
+<sha1>r4i7u0kvvaxn7lrz5zgz634f5c2dek9</sha1>
+</revision>
+</page>

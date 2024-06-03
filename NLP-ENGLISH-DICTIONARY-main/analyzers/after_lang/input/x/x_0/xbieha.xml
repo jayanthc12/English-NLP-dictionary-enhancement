@@ -1,0 +1,26 @@
+<page>
+<title>xbieha</title>
+<ns>0</ns>
+<id>7309566</id>
+<revision>
+<id>64531974</id>
+<parentid>61409906</parentid>
+<timestamp>2021-11-05T01:48:32Z</timestamp>
+<contributor>
+<ip>2.201.0.85</ip>
+</contributor>
+<comment>/* Maltese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="504" xml:space="preserve">==Maltese==
+{{mt-root|x-b-h}}
+===Etymology===
+Either derived directly from {{der|mt|ar|شَبِيه|t=similar}}, or more probably with the measure of an abstract noun {{m|ar||شَباهة|t=likeness, similarity}}, which is uncommon in Arabic itself, but could easily be formed by analogy with such pairs as {{m|ar|نَظِيف}} ↔ {{m|ar|نَظافة}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʒbɪː.ja/}}
+===Noun===
+{{mt-noun|g=f|p=xbihat}}
+# [[image]], [[likeness]], [[representation]] (of something)</text>
+<sha1>5exowmu2n0xo2k2pwaenhdzq5dqrkbx</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>yachtmans</title>
+<ns>0</ns>
+<id>1932860</id>
+<revision>
+<id>64061961</id>
+<parentid>62863283</parentid>
+<timestamp>2021-09-29T10:29:28Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Alternative forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==French==
+===Alternative forms===
+* {{l|fr|yachtmen}}
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|yachtman}}
+===Anagrams===
+* {{l|fr|yachtsman}}</text>
+<sha1>r34rey5z5e5qc8g42acyykgwzpw812r</sha1>
+</revision>
+</page>

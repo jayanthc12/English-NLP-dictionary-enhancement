@@ -1,0 +1,71 @@
+<page>
+<title>yack</title>
+<ns>0</ns>
+<id>228188</id>
+<revision>
+<id>69279956</id>
+<parentid>67339622</parentid>
+<timestamp>2022-09-16T11:04:08Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q150 (fra)-Poslovitch-yack.wav</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1686" xml:space="preserve">==English==
+===Etymology 1===
+====Pronunciation====
+* {{IPA|en|/jæk/}}
+* {{audio|en|En-au-yack.ogg|Audio (AU)}}
+* {{rhymes|en|æk|s=1}}
+* {{homophones|en|yak}}
+====Noun====
+{{en-noun}}
+# {{alt form|en|yak||chatter; talk}}
+====Verb====
+{{en-verb}}
+# {{alt form|en|yak||talk; vomit}}
+#: ''I moved to another carriage on the train because the first one was full of people '''yacking''' on mobile phones.''
+===Etymology 2===
+Dialectal form.
+====Pronunciation====
+* {{IPA|en|/jak/}}
+====Noun====
+{{en-noun}}
+# {{lb|en|England|dialectal|possibly|obsolete}} An [[oak]].
+#* '''1877''', Gibson, ''Leg. and Notes'' 50:
+#*: If 't ash tree buds before 't '''yack''', {{...}}
+#* '''1878''', John Castillo, ''Poems in the North Yorkshire Dialect'', 25:
+#*: Awd stiff '''yack''' nut eeasy bended, {{...}}
+===Etymology 3===
+====Noun====
+{{en-noun}}
+# {{lb|en|UK|thieves slang|obsolete}} A [[watch]] {{gloss|timepiece}}.
+#* '''1863''', George William MacArthur Reynolds, ''The Mysteries of the Court of London'' (volume 3, page 86)
+#*: {{...}} and away I scampered with the tiddlywink-table, while Teddy Limber {{...}} frisked the yokel of his '''yack''' and skin.
+=====References=====
+* '''1873''', John Camden Hotten, ''The Slang Dictionary''
+===Anagrams===
+* {{anagrams|en|a=acky|YKCA|caky|cyka}}
+[[Category:en:Talking]]
+----
+==French==
+{{wikipedia|lang=fr}}
+===Alternative forms===
+* {{alt|fr|yak}}
+===Etymology===
+{{bor+|fr|bo|གཡག}}, from {{der|fr|sit-pro|*g-jak ~ g-jaŋ}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Poslovitch-yack.wav|Audio}}
+===Noun===
+{{fr-noun|m}}
+# [[yak]] (ox-like mammal)
+===Further reading===
+* {{R:TLFi}}
+{{C|fr|Bovines}}</text>
+<sha1>6e1iwj7qb0qjcy5n90ewgsasnq5fgtj</sha1>
+</revision>
+</page>

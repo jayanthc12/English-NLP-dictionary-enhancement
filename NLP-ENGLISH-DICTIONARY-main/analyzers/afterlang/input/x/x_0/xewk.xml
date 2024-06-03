@@ -1,0 +1,36 @@
+<page>
+<title>xewk</title>
+<ns>0</ns>
+<id>4034536</id>
+<revision>
+<id>63985801</id>
+<parentid>63985799</parentid>
+<timestamp>2021-09-20T23:47:37Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<comment>/* Maltese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="645" xml:space="preserve">==Maltese==
+{{mt-root|x-w-k}}
+===Etymology===
+From {{inh|mt|ar|شَوْك}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɛwk/}}
+===Noun===
+{{mt-coll-noun|sing=xewka|p=xwiek|pauc=xewkiet}}
+# [[thorn]]s, [[prickle]]s
+#* {{quote-song|mt
+|author=Traditional
+|artist=Frans Baldacchino
+|title=Ja ħanina
+|passage=Jien tlajt fuq l-ogħla muntanja, rajt il-baħar qed imewweġ. &lt;br&gt; '''Xewka''' daħlet ġewwa qalbi, meta smajt li se tiżżewweġ.
+|t=I went up to the highest mountain, watched the sea wave back and forth. &lt;br&gt; '''A thorn''' had pierced my heart when I heard that you would marry.}}
+# [[thistle]]s
+# [[fishbone]]s
+#: {{syn|mt|xewk tal-ħut}}</text>
+<sha1>gxyrsjsfuiluzcfz1cnpj85wuhbah7q</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>XMI</title>
+<ns>0</ns>
+<id>5965402</id>
+<revision>
+<id>54614688</id>
+<parentid>51976313</parentid>
+<timestamp>2019-10-03T08:05:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="321" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|software}} {{initialism of|en|[[XML]] [[metadata|Metadata]] [[interchange|Interchange]]|nodot=1}} {{gloss|an [[OMG]] standard for exchanging metadata information using [[XML]].}}
+===References===
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=imx|IMX|Mix|mix}}</text>
+<sha1>4b2jgo35utn2l9lbqcpkugvwkb5g29c</sha1>
+</revision>
+</page>

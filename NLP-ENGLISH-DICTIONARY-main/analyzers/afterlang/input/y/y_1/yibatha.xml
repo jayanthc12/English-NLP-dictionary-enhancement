@@ -1,0 +1,37 @@
+<page>
+<title>yibatha</title>
+<ns>0</ns>
+<id>342801</id>
+<revision>
+<id>54528866</id>
+<parentid>47711487</parentid>
+<timestamp>2019-10-01T15:07:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="887" xml:space="preserve">==Gamilaraay==
+{{was fwotd|kld|2015|June|30}}
+{{wikipedia|Australian Aboriginal kinship}}
+===Alternative forms===
+* {{l|kld|ippātā}}
+* {{l|kld|ippāthā}}
+===Pronunciation===
+* {{IPA|kld|/jibad̪a/}}
+===Noun===
+{{head|kld|nouns}}
+# A female [[marriage class]] or [[skin group]]. A ''yibatha'' can marry only a ''[[gabi]]''; her sons will be ''[[gambu]]'', and her daughters ''[[buuthaa]]''.
+#* '''1856''', William Ridley, ''On the Kamilaroi Tribe of Australians and Their Dialect,'' in ''Journal of the Ethnological Society of London'', volume 4:
+#*: A “kŭbbĭ” may marry ''only'' an “'''ippātā'''.”
+#* '''1873''', William Ridley, ''Australian Languages and Traditions,'' in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 2:
+#*: Class names of Women. | '''Ippāthā'''
+===References===
+* {{R:kld:Austin}}
+[[Category:kld:Family]]</text>
+<sha1>81ry48qb6bavona3xpzk8x9gqts63wm</sha1>
+</revision>
+</page>

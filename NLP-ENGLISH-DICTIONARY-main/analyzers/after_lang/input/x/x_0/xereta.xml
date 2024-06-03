@@ -1,0 +1,37 @@
+<page>
+<title>xereta</title>
+<ns>0</ns>
+<id>4638003</id>
+<revision>
+<id>69486599</id>
+<parentid>69232531</parentid>
+<timestamp>2022-10-10T00:03:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Portuguese==
+{{attention|pt}}
+===Etymology 1===
+====Pronunciation====
+{{pt-IPA|xerêta}}
+====Noun====
+{{pt-noun|mfbysense}}
+# [[nosey]] person
+=====Quotations=====
+{{seeCites|pt}}
+===Etymology 2===
+====Pronunciation====
+{{pt-IPA|xeréta}}
+====Verb====
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xeretar}}
+====Quotations====
+{{seeCites|pt|xeretar}}</text>
+<sha1>tivqssop7zxkwx0o3k1y9grxaurpdwv</sha1>
+</revision>
+</page>

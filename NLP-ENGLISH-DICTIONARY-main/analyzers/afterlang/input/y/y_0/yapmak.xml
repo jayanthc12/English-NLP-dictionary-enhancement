@@ -1,0 +1,58 @@
+<page>
+<title>yapmak</title>
+<ns>0</ns>
+<id>815356</id>
+<revision>
+<id>67662598</id>
+<parentid>64083539</parentid>
+<timestamp>2022-07-06T21:49:38Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1427" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاپمق|tr=yapmak|t=to do, make, arrange}}, from {{inh|tr|trk-pro|*yap-|t=to make, create, arrange}}.&lt;ref&gt;{{R:tut-pro:SDM|*jAp-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+350&amp;root=config}}&lt;/ref&gt; Cognate with {{cog|xqa|tr=yapmāq|t=to build}}, {{cog|oui|tr=yap-|t=to make}}.
+===Verb===
+{{tr-verb|yapar}}
+# {{lb|tr|transitive}} to [[make]]; to [[build]], [[construct]], [[fashion]]; to [[create]]; to [[manufacture]]; to [[produce]]; to [[prepare]]
+#: {{uxi|tr|''Sana kek '''yaptım'''.''|'''I made''' you a cake.}}
+# {{lb|tr|transitive}} to [[do]]; to [[busy]] oneself with, [[act]], [[behave]]
+#: {{uxi|tr|''Ödevini '''yaptın mı'''?''|'''Did you do''' your homework?}}
+# {{lb|tr|transitive}} to [[repair]], [[fix]]
+#: {{uxi|tr|''Babam bozuk lambayı '''yaptı'''.''|My father '''fixed''' the defective lamp.}}
+# {{lb|tr|intransitive|with dative case}} to [[defecate]]
+====Conjugation====
+{{tr-conj|yap|ı|yapar|a|t}}
+====Hyponyms====
+* {{l|tr|altına yapmak}}
+* {{l|tr|aşk yapmak}}
+* {{l|tr|kapı yapmak}}
+* {{l|tr|tavan yapmak}}
+====Derived terms====
+{{der4|tr
+|yapı
+|yapıt
+|yapay
+|yapım
+|yapma
+|yapış
+|yapıcı
+|yapboz
+|yapılmak
+|yaptırmak
+|yapabilmek}}
+===See also===
+* {{l|tr|etmek}}
+* {{l|tr|eylemek}}
+* {{l|tr|kılmak}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:tr:Reverso}}</text>
+<sha1>qmdobr4yc08usmoomq5pypzhiyobjiv</sha1>
+</revision>
+</page>

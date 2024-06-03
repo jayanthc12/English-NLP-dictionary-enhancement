@@ -1,0 +1,39 @@
+<page>
+<title>Yamamura</title>
+<ns>0</ns>
+<id>5183841</id>
+<revision>
+<id>68732405</id>
+<parentid>67786891</parentid>
+<timestamp>2022-08-26T06:34:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|pt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="477" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|山村|tr=Yamamura}}.
+===Proper noun===
+{{en-proper noun|Yamamuras}}
+# {{surname|en|from=Japanese}}.
+===Anagrams===
+* {{anagrams|en|a=aaammruy|Maruyama|Murayama}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまむら}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|山村|tr=Yamamura}}.
+===Proper noun===
+{{pt-proper noun|m|g2=f}}
+# {{surname|pt|from=Japanese}}</text>
+<sha1>rhdw5u8r6h71cz1id7xtic7s08bmce5</sha1>
+</revision>
+</page>

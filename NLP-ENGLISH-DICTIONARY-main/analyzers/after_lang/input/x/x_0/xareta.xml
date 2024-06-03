@@ -1,0 +1,26 @@
+<page>
+<title>xareta</title>
+<ns>0</ns>
+<id>4052122</id>
+<revision>
+<id>69114367</id>
+<parentid>67967676</parentid>
+<timestamp>2022-09-04T16:53:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{bor|pt|ar|شَرِيط}}.
+===Noun===
+{{pt-noun|f}}
+# a type of [[fishing]] [[net]]
+{{C|pt|Fishing}}</text>
+<sha1>mr12nw58s272sf4niulfztukwpuvvpz</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>Xylofon</title>
+<ns>0</ns>
+<id>1902394</id>
+<revision>
+<id>66254239</id>
+<parentid>65754856</parentid>
+<timestamp>2022-03-28T16:59:40Z</timestamp>
+<contributor>
+<username>Jeuwre</username>
+<id>1921507</id>
+</contributor>
+<comment>+ audio</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="412" xml:space="preserve">{{also|xylofon|xylofón}}
+==German==
+===Alternative forms===
+* {{alter|de|Xylophon}}
+===Pronunciation===
+* {{IPA|de|/ˌksyloˈfoːn/}}
+* {{audio|de|LL-Q188 (deu)-Seshiru (Ltrlg)-Xylofon.wav|Audio}}
+* {{audio|de|De-Xylofon.ogg|Audio}}
+===Noun===
+{{de-noun|n}}
+# [[xylophone]]
+====Declension====
+{{de-ndecl|n}}
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+{{C|de|Musical instruments}}</text>
+<sha1>p660hlrxndzt2lsu80oykc2ukm0bzyl</sha1>
+</revision>
+</page>

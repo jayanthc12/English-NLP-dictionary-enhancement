@@ -1,0 +1,23 @@
+<page>
+<title>yajiri</title>
+<ns>0</ns>
+<id>3110623</id>
+<revision>
+<id>22478189</id>
+<parentid>20131257</parentid>
+<timestamp>2013-09-08T14:18:53Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>/* Japanese */ implementing [[Wiktionary:Votes/pl-2013-03/Romanization and definition line]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="82" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やじり}}</text>
+<sha1>0pgb13fgtppxasxqixegecf2y8av3c8</sha1>
+</revision>
+</page>

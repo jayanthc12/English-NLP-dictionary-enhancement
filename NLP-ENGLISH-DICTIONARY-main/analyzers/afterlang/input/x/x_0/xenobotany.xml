@@ -1,0 +1,35 @@
+<page>
+<title>xenobotany</title>
+<ns>0</ns>
+<id>6090594</id>
+<revision>
+<id>66049582</id>
+<parentid>65832445</parentid>
+<timestamp>2022-03-02T16:13:56Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>moved misplaced Translations section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="833" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|botany}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|science fiction}} The [[study]] of alien plants.
+#* '''2008''', Eric Flint, Dave Freer, ''Slow Train to Arcturus''
+#*: An oddly lucid part of his stunned mind registered that these were the first fruiting bodies he'd seen. But this was hardly the time for exercising one of the specialties that had got him onto the intercept ship, '''xenobotany'''.
+#* '''2012''', David Mack, ''Star Trek: Vanguard: Storming Heaven''
+#*: Terrell quipped to the new tactical officer, “He also holds doctorates in archaeology and '''xenobotany'''. So, if you get the urge to debate him about fossils or flowers . . . don't.”
+====Translations====
+{{trans-top}}
+{{trans-mid}}
+* Polish: {{t|pl|astrobotanika|f}}
+{{trans-bottom}}
+{{c|en|Botany|Space sciences}}</text>
+<sha1>1rso94mslwpjgx91eqszamj44carlgb</sha1>
+</revision>
+</page>

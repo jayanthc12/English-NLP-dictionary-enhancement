@@ -1,0 +1,25 @@
+<page>
+<title>xenobiological</title>
+<ns>0</ns>
+<id>1733832</id>
+<revision>
+<id>51755193</id>
+<parentid>45187614</parentid>
+<timestamp>2019-03-13T08:29:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|biological}}
+===Adjective===
+{{en-adj|-}}
+# Of or pertaining to [[xenobiology]].</text>
+<sha1>qwpd79g3c8ppi4clinv04urcm7p1g3m</sha1>
+</revision>
+</page>

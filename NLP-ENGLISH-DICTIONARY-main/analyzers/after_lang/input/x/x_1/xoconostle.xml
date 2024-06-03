@@ -1,0 +1,49 @@
+<page>
+<title>xoconostle</title>
+<ns>0</ns>
+<id>3699309</id>
+<revision>
+<id>62085094</id>
+<parentid>61998021</parentid>
+<timestamp>2021-03-14T03:05:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="999" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia}}
+{{wikispecies|Opuntia matudae}}
+===Etymology===
+From {{bor|en|es|xoconostle}}, from {{der|en|nci|xoconōchtli||sour prickly-pear}}.
+===Noun===
+{{en-noun}}
+# A species of [[prickly pear]] [[cactus]], {{taxlink|Opuntia matudae|species|noshow=1}}, native to Central [[Mexico]].
+# The acidic fruit of this cactus.
+====See also====
+* {{l|en|tuna}}
+[[Category:en:Cacti]]
+----
+==Spanish==
+===Alternative forms===
+* {{alter|es|joconostle|soconostle}}
+===Etymology===
+From {{bor|es|nci|xoconōchtli||sour prickly pear}}, from {{m|nci|xococ||something sour}} + {{m|nci|nōchtli||prickly pear}}.
+===Pronunciation===
+{{es-IPA|joconostle}}
+{{es-IPA|shoconostle}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|Mexico}} a species of [[prickly pear]] [[cactus]], {{taxlink|Opuntia matudae|species|noshow=1}}, native to Central [[Mexico]]
+# {{lb|es|Mexico}} the acidic fruit of this cactus
+====Related terms====
+* {{l|es|chocolate}}
+* {{l|es|xocoatole}}
+{{C|es|Fruits|Plants}}</text>
+<sha1>lbshtfndki3ycz5kyfioec7zf8hm10b</sha1>
+</revision>
+</page>

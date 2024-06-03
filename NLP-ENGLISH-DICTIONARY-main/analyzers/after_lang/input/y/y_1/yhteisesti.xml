@@ -1,0 +1,26 @@
+<page>
+<title>yhteisesti</title>
+<ns>0</ns>
+<id>3387212</id>
+<revision>
+<id>69318428</id>
+<parentid>51904961</parentid>
+<timestamp>2022-09-18T17:17:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="151" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteinen|sti}}
+===Pronunciation===
+{{fi-p|*}}
+===Adverb===
+{{fi-adv|yhteisemmin|yhteisimmin}}
+# [[jointly]]</text>
+<sha1>lnlkgxvt6vsvatymlh7iqu2v913zdj2</sha1>
+</revision>
+</page>

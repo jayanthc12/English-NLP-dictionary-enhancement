@@ -1,0 +1,28 @@
+<page>
+<title>Xerxis</title>
+<ns>0</ns>
+<id>54164</id>
+<revision>
+<id>62519347</id>
+<parentid>58175308</parentid>
+<timestamp>2021-05-13T19:24:35Z</timestamp>
+<contributor>
+<username>Mnemosientje</username>
+<id>1793585</id>
+</contributor>
+<comment>/* Old English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">==Old English==
+===Etymology===
+From {{bor|ang|la|Xerxes}}, from {{der|ang|grc|Ξέρξης}}.
+===Pronunciation===
+* {{ang-IPA|Xerxis}}
+===Proper noun===
+{{ang-proper noun|g=m}}
+# [[Xerxes]], the King of Persia from 485 {{BC}} to 465 {{BC}}
+====Declension====
+{{ang-decl-noun-a-m|Xerxis}}</text>
+<sha1>awwvfgspsflcveq28h6cmi41h0r2g3h</sha1>
+</revision>
+</page>

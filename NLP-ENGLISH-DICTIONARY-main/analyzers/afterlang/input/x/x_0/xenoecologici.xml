@@ -1,0 +1,23 @@
+<page>
+<title>xenoecologici</title>
+<ns>0</ns>
+<id>4785491</id>
+<revision>
+<id>55303047</id>
+<parentid>32691122</parentid>
+<timestamp>2019-10-14T08:25:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{masculine plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="103" xml:space="preserve">==Italian==
+===Adjective===
+{{head|it|adjective form|g=m}}
+# {{masculine plural of|it|xenoecologico}}</text>
+<sha1>1uq4no5twcv3qsmwxepfqa0vruzsjjr</sha1>
+</revision>
+</page>

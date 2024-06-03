@@ -1,0 +1,25 @@
+<page>
+<title>yanderes</title>
+<ns>0</ns>
+<id>7056985</id>
+<revision>
+<id>56414939</id>
+<parentid>53092677</parentid>
+<timestamp>2019-10-18T01:39:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yandere}}
+===Anagrams===
+* {{anagrams|en|a=adeenrsy|Daenerys|yearends}}</text>
+<sha1>nyv2r1pmuvdeh5mxi1uax1dfokpqysy</sha1>
+</revision>
+</page>

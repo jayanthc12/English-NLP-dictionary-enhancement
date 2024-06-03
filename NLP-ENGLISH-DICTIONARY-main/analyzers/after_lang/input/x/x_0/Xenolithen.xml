@@ -1,0 +1,26 @@
+<page>
+<title>Xenolithen</title>
+<ns>0</ns>
+<id>7290409</id>
+<revision>
+<id>66244997</id>
+<parentid>53709071</parentid>
+<timestamp>2022-03-27T17:33:34Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xenolithen.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="182" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-Xenolithen.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Xenolith||gen//dat//acc|s}}
+# {{plural of|de|Xenolith}}</text>
+<sha1>nlax5sq1u3yirvf4qufd9q0t48boko4</sha1>
+</revision>
+</page>

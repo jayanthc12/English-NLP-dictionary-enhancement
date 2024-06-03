@@ -1,0 +1,23 @@
+<page>
+<title>xaniths</title>
+<ns>0</ns>
+<id>4538275</id>
+<revision>
+<id>55650003</id>
+<parentid>53092114</parentid>
+<timestamp>2019-10-15T10:42:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanith}}</text>
+<sha1>k36reiedjqdgt2izwu2bb2zmb9na6ug</sha1>
+</revision>
+</page>

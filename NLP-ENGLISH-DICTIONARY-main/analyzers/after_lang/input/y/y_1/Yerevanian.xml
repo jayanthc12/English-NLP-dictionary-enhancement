@@ -1,0 +1,51 @@
+<page>
+<title>Yerevanian</title>
+<ns>0</ns>
+<id>2090013</id>
+<revision>
+<id>61641759</id>
+<parentid>61486713</parentid>
+<timestamp>2021-01-24T05:31:42Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1015" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|Yerevan|ian}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˌjeɹəˈvæːnɪ.ən/}}
+* {{a|GenAm}} {{IPA|en|/ˌjeɹəˈvɑːni.ən/}}
+===Noun===
+{{en-noun}}
+# A person who was born in, or is a citizen or inhabitant of [[Yerevan]], Armenia.
+====Translations====
+{{trans-top|someone from Yerevan}}
+* Armenian: {{t|hy|երևանցի}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|یەریڤانی}}
+{{trans-mid}}
+* Macedonian: {{t|mk|ереванец|m}}, {{t|mk|ереванка|f}}
+* Russian: {{t+|ru|ереванец|m}}, {{t|ru|ереванка|f}}
+* Turkish: {{t|tr|Erivanlı}}
+{{trans-bottom}}
+===Adjective===
+{{en-adj}}
+# Of, relating, or pertaining to [[Yerevan]], Armenia.
+====Translations====
+{{trans-top|of Yerevan}}
+* Armenian: {{t|hy|երևանյան}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|یەریڤانی}}
+{{trans-mid}}
+* Macedonian: {{t|mk|еревански}}
+* Russian: {{t+|ru|ереванский}}
+{{trans-bottom}}
+{{C|en|Yerevan|Armenian demonyms}}</text>
+<sha1>o8xic082wr75mpjw486xruvyepysyd5</sha1>
+</revision>
+</page>

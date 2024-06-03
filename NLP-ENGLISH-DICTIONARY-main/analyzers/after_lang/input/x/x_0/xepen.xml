@@ -1,0 +1,26 @@
+<page>
+<title>xepen</title>
+<ns>0</ns>
+<id>2197030</id>
+<revision>
+<id>63426951</id>
+<parentid>53446647</parentid>
+<timestamp>2021-07-26T03:20:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="154" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[wake up]].
+# To [[wake]].
+# To [[awake]].
+# {{inflection of|arn|xepen||1|s|realis|form}}</text>
+<sha1>jq8meuih4mnpnvs2xcec386in3d2485</sha1>
+</revision>
+</page>

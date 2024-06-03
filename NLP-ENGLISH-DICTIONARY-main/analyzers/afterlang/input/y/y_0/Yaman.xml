@@ -1,0 +1,35 @@
+<page>
+<title>Yaman</title>
+<ns>0</ns>
+<id>2210606</id>
+<revision>
+<id>62303369</id>
+<parentid>54740817</parentid>
+<timestamp>2021-04-04T05:09:56Z</timestamp>
+<contributor>
+<username>Apisite</username>
+<id>3661059</id>
+</contributor>
+<comment>Added Maranao</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">{{also|yaman}}
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{archaic form of|en|Yemen}}
+===Anagrams===
+* {{anagrams|en|a=aamny|Mayan|many a}}
+----
+==Maranao==
+===Proper noun===
+{{head|mrw|proper noun}}
+# [[Yemen]]
+----
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}</text>
+<sha1>epvcrjuo5g8ypmpp9uaf0g0vedi9i1m</sha1>
+</revision>
+</page>

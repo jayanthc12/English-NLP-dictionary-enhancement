@@ -1,0 +1,47 @@
+<page>
+<title>xam</title>
+<ns>0</ns>
+<id>8515</id>
+<revision>
+<id>67291576</id>
+<parentid>61465795</parentid>
+<timestamp>2022-06-06T10:17:04Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="602" xml:space="preserve">{{also|xăm}}
+==Azerbaijani==
+===Etymology===
+From {{bor|az|fa|خام|tr=xâm}}.
+===Pronunciation===
+* {{IPA|az|[χɑm]}}
+===Adjective===
+{{az-variant|хам}}
+{{az-adj}}
+# [[raw]], [[uncooked]]
+#: {{syn|az|çiy}}
+====Derived terms====
+* {{l|az|xammal||raw materials}}
+----
+==Teiwa==
+===Noun===
+{{head|twe|noun}}
+# (woman's) [[breast]]
+====Derived terms====
+* {{l|twe|xam yir}}
+===References===
+* Marian Klamer, ''The Alor-Pantar languages: History and Typology'' (2014, {{ISBN|3944675487}}
+----
+==Volapük==
+===Noun===
+{{vo-noun}}
+# [[examination]]
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>ltdfcy4daak6eu4nc5yt6oivlak76gb</sha1>
+</revision>
+</page>

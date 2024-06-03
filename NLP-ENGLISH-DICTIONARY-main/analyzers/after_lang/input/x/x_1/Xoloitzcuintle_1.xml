@@ -1,0 +1,33 @@
+<page>
+<title>Xoloitzcuintle</title>
+<ns>0</ns>
+<id>4206953</id>
+<revision>
+<id>69611524</id>
+<parentid>67298905</parentid>
+<timestamp>2022-10-28T17:11:45Z</timestamp>
+<contributor>
+<username>Hekaheka</username>
+<id>25987</id>
+</contributor>
+<comment>/* Noun */ trans-see</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="488" xml:space="preserve">{{also|xoloitzcuintle}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|es|-}}, from {{uder|en|nah|xōlōitzcuintli}}, from {{m|nah|Xolotl||Aztec god}} + {{m|nah|itzcuīntli||dog}}.
+===Pronunciation===
+* {{audio|en|En-us-Xoloitzcuintle.flac|Audio (GA)}}
+* {{a|GA}} {{IPA|en|/ʃoʊloʊiːtsˈkwiːntleɪ/}}
+* {{hyphenation|en|xo|lo|itz|cuint|le}}
+===Noun===
+{{en-noun}}
+# [[Mexican hairless]] dog.
+====Translations====
+{{trans-see|dog|Mexican hairless}}
+[[Category:en:Dogs]]</text>
+<sha1>s1o4hjh5u9w5lkj4bekztgrdx6h72mk</sha1>
+</revision>
+</page>

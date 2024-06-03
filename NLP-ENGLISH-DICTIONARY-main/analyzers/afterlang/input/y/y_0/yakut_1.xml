@@ -1,0 +1,40 @@
+<page>
+<title>yakut</title>
+<ns>0</ns>
+<id>1822005</id>
+<revision>
+<id>65140487</id>
+<parentid>61627795</parentid>
+<timestamp>2022-01-02T11:01:03Z</timestamp>
+<contributor>
+<username>İtidal</username>
+<id>3008460</id>
+</contributor>
+<minor />
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="535" xml:space="preserve">{{also|Yakut}}
+==Javanese==
+===Romanization===
+{{jv-rom}}
+# {{romanization of|jv|ꦪꦏꦸꦠ꧀}}
+----
+==Tausug==
+===Noun===
+{{head|tsg|noun}}
+# [[ruby]], [[garnet]] or any red gem
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاقوت|tr=yakut}}, from {{der|tr|ar|يَاقُوت}}, from {{der|tr|pal|y'knd|y'knd |tr=yâkand|gloss=ruby}}. Ultimately from {{der|tr|grc|ὑάκινθος}}.
+===Pronunciation===
+* {{IPA|tr|[jɑːkʊt]}}
+===Noun===
+{{tr-noun|u|lar}}
+# [[ruby]]
+====Declension====
+{{tr-infl-noun-c|u}}</text>
+<sha1>lx3n3oq47970jfux7pjr5rcdslgmj08</sha1>
+</revision>
+</page>

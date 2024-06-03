@@ -1,0 +1,30 @@
+<page>
+<title>yakyakin</title>
+<ns>0</ns>
+<id>6333832</id>
+<revision>
+<id>51969800</id>
+<parentid>47200662</parentid>
+<timestamp>2019-03-17T19:48:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Tagalog==
+===Etymology===
+From {{suffix|tl|yakyak|in}}.
+===Verb===
+{{tl-verb|yakyakín}}
+# to [[crush]] or [[destroy]] by [[trample|trampling]] or [[tread]]ing on [[heavily]]
+====Conjugation====
+{{tl-infl-in|y|a|kyak|kyak|object}}
+====Synonyms====
+* {{l|tl|tahakin}}
+* {{l|tl|yurakin}}</text>
+<sha1>n2npke1v9ajcrmogk8bsqwft3w8o8dg</sha1>
+</revision>
+</page>

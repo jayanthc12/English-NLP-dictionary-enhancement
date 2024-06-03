@@ -1,0 +1,23 @@
+<page>
+<title>xw</title>
+<ns>0</ns>
+<id>4040633</id>
+<revision>
+<id>43970572</id>
+<parentid>28895656</parentid>
+<timestamp>2017-05-24T20:52:09Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==Egyptian==
+===Romanization===
+{{head|egy|romanization}}
+# {{egy-alt|ḫw|type=Manuel de Codage}}</text>
+<sha1>kh3av0u7f96qdy5c61lj9b9fxyrxoo6</sha1>
+</revision>
+</page>

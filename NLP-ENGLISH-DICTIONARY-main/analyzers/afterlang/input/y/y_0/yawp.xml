@@ -1,0 +1,41 @@
+<page>
+<title>yawp</title>
+<ns>0</ns>
+<id>94462</id>
+<revision>
+<id>67309845</id>
+<parentid>67242363</parentid>
+<timestamp>2022-06-07T13:56:29Z</timestamp>
+<contributor>
+<username>Zumbacool</username>
+<id>3930515</id>
+</contributor>
+<comment>/* Pronunciation */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="747" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yaup}}
+===Etymology===
+From {{inh|en|enm|yolpen}}.
+===Pronunciation===
+* {{IPA|en|/jɔːp/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yawp.wav|Audio (UK)}}
+* {{rhymes|en|ɔːp|s=1}}
+===Verb===
+{{en-verb}}
+# {{lb|en|intransitive}} to [[yelp]], or [[utter]] a [[sharp]] [[cry]], as in intense pain, or another raucous noise
+# {{lb|en|intransitive}} to [[talk]] [[loudly]] and [[coarsely]]
+# {{lb|en|intransitive}} [[clamor]], utter loud complaints
+====Derived terms====
+* {{l|en|yawper}}
+===Noun===
+{{en-noun}}
+# a yelp or [[bark]]
+# [[loud]] or [[coarse]] talk
+#: ''I sound my barbaric '''yawp''' over the roofs of the world'' - Walt Whitman
+===Anagrams===
+* {{anagrams|en|a=apwy|Pway|p way|p-way}}</text>
+<sha1>ffldvh751i9bc4buoomzrmq380jsrl9</sha1>
+</revision>
+</page>

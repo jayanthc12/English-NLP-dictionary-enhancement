@@ -1,0 +1,25 @@
+<page>
+<title>yardwand</title>
+<ns>0</ns>
+<id>3055024</id>
+<revision>
+<id>52016803</id>
+<parentid>43547607</parentid>
+<timestamp>2019-03-18T23:08:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="116" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yard|wand}}
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} A [[yardstick]].</text>
+<sha1>f51a3qy2m3uh4tdngeovvg61ozx5vfo</sha1>
+</revision>
+</page>

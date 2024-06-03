@@ -1,0 +1,28 @@
+<page>
+<title>xenosphere</title>
+<ns>0</ns>
+<id>6526191</id>
+<revision>
+<id>54373292</id>
+<parentid>51578370</parentid>
+<timestamp>2019-09-28T23:30:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="790" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|sphere}}
+===Noun===
+{{en-noun}}
+# A [[spheroid]] [[culture]] from a [[xenograft]]
+# A [[particulate]] [[remnant]] of [[carbon]] released in the [[combustion]] of [[oil]] or [[coal]].
+#* {{quote-book|en|title=Flames; their structure, radiation and temperature|page=204|author=Alfred Gordon Gaydon|year=1970|passage=There is good evidence that with burning oil sprays the larger droplets may crack to carbon, sometimes forming '''xenospheres''' which pass through the flame front.}}
+#* {{quote-book|en|title=Laser Anemometry in Fluid Mechanics III|author=Ronald J. Adrian|year=1988|passage=In the region of the spray cone rather large vaporizing or burning oil droplets up to 100 rim, or their residuals like '''xenospheres''', will be found.}}</text>
+<sha1>fldzorkk9v1ti44xyfgfgetyrzqx8nv</sha1>
+</revision>
+</page>

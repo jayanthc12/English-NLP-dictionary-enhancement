@@ -1,0 +1,86 @@
+<page>
+<title>yiarn</title>
+<ns>0</ns>
+<id>1930498</id>
+<revision>
+<id>66454846</id>
+<parentid>54168156</parentid>
+<timestamp>2022-04-17T12:29:40Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>/* Noun */use : rather than * for usage examples using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2657" xml:space="preserve">==Manx==
+===Etymology===
+From {{inh|gv|sga|íarn}}, from {{inh|gv|cel-pro|*īsarnom}} (compare {{cog|cy|haearn}}, {{cog|br|houarn}}), probably from {{inh|gv|ine-pro|*h₁ēsh₂r̥no-||bloody, red}}, from {{m|ine-pro|*h₁ésh₂r̥||(flowing) blood}}.
+===Noun===
+{{gv-noun|m|yiarnyn|yiarn}}
+# [[iron]]
+#: {{ux|gv|Bwoaill choud {{l|gv|as}} ta'n '''yiarn''' [[çheh]].|inline=1|Strike while the iron is hot.}}
+#: {{ux|gv|Ta [[magnaid]] tayrn '''yiarn'''.|inline=1|A magnet attracts iron.}}
+#: {{ux|gv|Ta'n '''yiarn''' [[jiarg]].|inline=1|The iron is glowing.}}
+#: {{ux|gv|Vroill eh y [[skynn]] er y '''yiarn'''.|inline=1|He hacked the knife on the iron.}}
+# [[tool]], [[scythe]], [[blade]] {{sense|of scythe}}
+# {{lb|gv|money}} [[dough]]
+# {{lb|gv|money}} [[tip]]
+====Derived terms====
+{{der3|gv|{{l|gv|raad yiarn||railroad}}
+|{{l|gv|yiarn banney||strip iron}}
+|{{l|gv|yiarn bwoaillt||wrought iron}}
+|{{l|gv|yiarn caardee||smith's iron}}
+|{{l|gv|yiarn calkee||calking iron}}
+|{{l|gv|yiarn cassee||crisping iron}}
+|{{l|gv|yiarn-chlou||ferrotype}}
+|{{l|gv|yiarn-choncraid||ferro-concrete}}
+|{{l|gv|yiarn cooyl||back iron}}
+|{{l|gv|yiarn coshey||leg iron}}
+|{{l|gv|yiarn crampagh||cramp iron}}
+|{{l|gv|yiarn craplit}}, {{l|gv|yiarn roaganagh||corrugated iron}}
+|{{l|gv|yiarn cummit||wrought iron, cast iron}}
+|{{l|gv|yiarn essyl||linchpin}}
+|{{l|gv|yiarn figganagh||hoop iron}}
+|{{l|gv|yiarn foldyragh||scythe}}
+|{{l|gv|yiarn garroo||pig iron}}
+|{{l|gv|yiarn giarree||an edged tool}}
+|{{l|gv|yiarn greimmee||grappling iron}}
+|{{l|gv|yiarn immanagh||driving iron}}
+|{{l|gv|yiarn jeenee||caulking iron}}
+|{{l|gv|yiarn jiarg||brand}}
+|{{l|gv|yiarn lhean||sheet iron}}
+|{{l|gv|yiarn lockeragh||plane iron}}
+|{{l|gv|yiarn lostee||searing iron}}
+|{{l|gv|yiarn oalanagh||waffle iron}}
+|{{l|gv|yiarn plaitagh||plate iron}}
+|{{l|gv|yiarn roit||casting iron}}
+|{{l|gv|yiarn rollit||rolled iron}}
+|{{l|gv|yiarn seiyee||rabble}}
+|{{l|gv|yiarn shesheree||plough irons}}
+|{{l|gv|yiarn smoodal||flat iron}}
+|{{l|gv|yiarn stiuree||pintle}}
+|{{l|gv|yiarn streipey||stirrup iron}}
+|{{l|gv|yiarn T||T section}}
+|{{l|gv|yiarn thalleyragh||goose}}
+|{{l|gv|yiarn tilgit||cast iron}}
+|{{l|gv|yiarn uillinagh||angle iron}}
+|{{l|gv|yiarnagh||ferric}}
+|{{l|gv|yiarnaghey}}, {{l|gv|yiarney||cover with iron}}
+|{{l|gv|yiarnait||ferrate}}
+|{{l|gv|yiarnal||ironing, iron}}
+|{{l|gv|yiarneyder||ironmonger}}
+|{{l|gv|yiarneydys||ironmongery}}
+|{{l|gv|yiarnghlass||iron-grey}}
+|{{l|gv|yiarnit||ironclad, iron-shod}}
+|{{l|gv|yiarnoil||ferrous}}
+|{{l|gv|yiarnrey||hardware}}
+|{{l|gv|yiarnyn bolgane||calipers}}
+}}
+===References===
+* {{R:DIL|27041|head=íarn}}
+{{topics|gv|Chemical elements}}</text>
+<sha1>imjopbfqb6ay4dq00v53t0udp2j1zfx</sha1>
+</revision>
+</page>

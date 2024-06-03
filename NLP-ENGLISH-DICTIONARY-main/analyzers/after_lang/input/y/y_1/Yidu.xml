@@ -1,0 +1,41 @@
+<page>
+<title>Yidu</title>
+<ns>0</ns>
+<id>6962272</id>
+<revision>
+<id>67890662</id>
+<parentid>67862340</parentid>
+<timestamp>2022-07-12T01:48:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="653" xml:space="preserve">{{also|yīdǔ|yīdù|yìdú}}
+==English==
+{{wikipedia}}
+{{commonscat|Yidu, Hubei}}
+===Alternative forms===
+* {{l|en|Itu}}
+* {{q|from [[Wade–Giles]]}} {{l|en|I-tu}}
+* {{l|en|Yitu}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|宜都}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|county-level city|prefecture-level city/Yichang|p/Hubei|c/China}}.
+====Translations====
+{{trans-top|county-level city in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|宜都|tr=Yídū|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>1s1oz8r4rl2fh1gtuwkrsihkixazl1f</sha1>
+</revision>
+</page>

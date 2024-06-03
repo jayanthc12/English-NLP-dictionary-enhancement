@@ -1,0 +1,25 @@
+<page>
+<title>yartas</title>
+<ns>0</ns>
+<id>6313849</id>
+<revision>
+<id>56221982</id>
+<parentid>53092782</parentid>
+<timestamp>2019-10-17T09:03:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="157" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yarta}}
+===Anagrams===
+* {{anagrams|en|a=aarsty|'Straya|Straya|astray|atrays|tayras|yatras}}</text>
+<sha1>lgervkizlrph253j0li8haafyih7hg6</sha1>
+</revision>
+</page>

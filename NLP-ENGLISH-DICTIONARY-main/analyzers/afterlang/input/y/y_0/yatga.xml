@@ -1,0 +1,38 @@
+<page>
+<title>yatga</title>
+<ns>0</ns>
+<id>6468014</id>
+<revision>
+<id>68688174</id>
+<parentid>68688171</parentid>
+<timestamp>2022-08-21T20:23:13Z</timestamp>
+<contributor>
+<username>Justinrleung</username>
+<id>1298227</id>
+</contributor>
+<comment>t+mn:[[{{t-needed}}]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1709" xml:space="preserve">==English==
+{{wikipedia}}
+[[File:Mongolian yatga front view.JPG|thumb|right|A Mongolian yatga]]
+===Etymology===
+From {{bor|en|mn|ятга}} / {{m|mn|ᠶᠠᠲᠤᠭ᠎ᠠ}}.
+===Noun===
+{{en-noun}}
+# A traditional plucked bridge [[zither]] played in [[Mongolia]].
+#* {{quote-book|en|year=2001 |title=Mongolian Music, Dance, &amp; Oral Narrative: Performing Diverse Identities |author=Carole Pegg  |page= |ISBN=0295981121 |passage=In Old Mongolia, the '''yatga''' was used in courts to entertain the aristocracy and was also played by the aristocracy. }}
+#* {{quote-book|en|year=2009 |title=Culture and Customs of Mongolia  |author=Timothy Michael May  |page=89 |ISBN= 031333983X|passage=Traditionally '''yatga''' performances were reserved only for monasteries and the court, and playing the instrument was considered a sacrosanct rite. This taboo changed over time as new forms of the '''yatga''' appeared, ranging from a ten-stringed '''yatga''' that anyone could play to a '''yatga''' with twenty-one strings. }}
+#* {{quote-book|en|year=2017|title=The Garland Encyclopedia of World Music: East Asia |author=Robert C. Provine, Yosihiko Tokumaru, &amp; J. Lawrence Witzleben  |page= |ISBN=1351544292 |passage=The second and fourth manuscripts have musical notation for the ten-stringed '''yatga''' (Erdenechimeg and Shagdarsüren 1995).  }}
+====Translations====
+{{trans-top|zither}}
+* Chinese:
+*: Mandarin: {{t|zh|雅托葛|tr=yǎtuōgé}}, {{t|zh|雅托嘎|tr=yǎtuōgā}}, {{t|zh|雅托噶|tr=yǎtuōgá}}, {{t|zh|雅托克|tr=yǎtuōkè}}, {{t|zh|蒙古箏}}, {{t|zh|蒙古筝|tr=Měnggǔzhēng}}
+{{trans-mid}}
+* Mongolian: {{t-needed|mn}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aagty|Tayag|agaty}}</text>
+<sha1>kkpqioqnd1xiapbo6vxppx06xwbfdx5</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yachak</title>
+<ns>0</ns>
+<id>6653491</id>
+<revision>
+<id>61998039</id>
+<parentid>49720112</parentid>
+<timestamp>2021-03-09T09:55:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish lemmas (use {{alter}}, fix indentation errors, templatize categories and quotes, detemplatize English links, clean up manual pronunciations, use {{bor}}/{{inh}} when appropriate for some pages, use {{lb|es|relational}}, {{given name}} fixes, etc.) (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="108" xml:space="preserve">==Spanish==
+===Etymology===
+{{bor|es|qu|-}}
+===Noun===
+{{es-noun|m|yachak}}
+# {{lb|es|Peru}} a [[shaman]]</text>
+<sha1>ipxwesqo6oip58osuzgcpg7vgwj7qip</sha1>
+</revision>
+</page>

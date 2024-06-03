@@ -1,0 +1,50 @@
+<page>
+<title>yaca</title>
+<ns>0</ns>
+<id>1576595</id>
+<revision>
+<id>68933821</id>
+<parentid>65205642</parentid>
+<timestamp>2022-08-28T17:18:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="714" xml:space="preserve">==Fijian==
+===Etymology===
+From {{inh|fj|poz-oce-pro|*asaq}}, from {{inh|fj|poz-pro|*hasaq}}, from {{inh|fj|map-pro|*Sasaq||to sharpen, whet}}.
+===Verb===
+{{head|fj|verb}}
+# to [[grate]]
+# to [[grind]]
+# to [[file]]
+----
+==Spanish==
+===Etymology===
+From {{der|es|tnq|}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[soursop]] tree
+#: {{syn|es|guanábano}}
+# {{lb|es|Mexico}} [[breadfruit]]
+#: {{syn|es|fruto del árbol del pan|q1=see for more synonyms}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Custard apple family plants|Trees|Mulberry family plants}}
+{{C|es|Fruits}}
+----
+==Tataltepec Chatino==
+===Etymology===
+Compare {{cog|zai|yaga}}.
+===Noun===
+{{head|cta|noun}}
+# [[tree]]</text>
+<sha1>fyitjdyoj9bcgvnkbddyfmqoht82wn5</sha1>
+</revision>
+</page>

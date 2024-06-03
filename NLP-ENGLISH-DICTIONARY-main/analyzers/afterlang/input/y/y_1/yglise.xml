@@ -1,0 +1,24 @@
+<page>
+<title>yglise</title>
+<ns>0</ns>
+<id>2446213</id>
+<revision>
+<id>54357760</id>
+<parentid>12672054</parentid>
+<timestamp>2019-09-28T19:07:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}; move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="345" xml:space="preserve">==Old French==
+===Noun===
+{{fro-noun|f}}
+# {{alternative form of|fro|eglise}}
+#* {{quote-book|fro|title=[[s:fr:Le Vilain qui conquist paradis par plaid|Le Vilain qui conquist paradis par plaid]]|author=Author unknown|passage={{...}} Et les portai a seinte '''yglise'''|translation={{...}} and took them to the holy church|year=Date uncertain}}</text>
+<sha1>muwetg8nlp50az89iai9pogy8qm3fzo</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Yavneh</title>
+<ns>0</ns>
+<id>4766335</id>
+<revision>
+<id>54986048</id>
+<parentid>50898237</parentid>
+<timestamp>2019-10-10T15:14:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{alternative form of|en|Yavne}} {{qualifier|city in Israel}}
+===Anagrams===
+* {{anagrams|en|a=aehnvy|Hanvey}}</text>
+<sha1>9a3286rajqcay5zmr5oz12km3gcqozv</sha1>
+</revision>
+</page>

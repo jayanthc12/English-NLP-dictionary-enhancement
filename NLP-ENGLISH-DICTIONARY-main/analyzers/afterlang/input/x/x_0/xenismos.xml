@@ -1,0 +1,32 @@
+<page>
+<title>xenismos</title>
+<ns>0</ns>
+<id>4121934</id>
+<revision>
+<id>67298793</id>
+<parentid>64470022</parentid>
+<timestamp>2022-06-06T12:26:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="278" xml:space="preserve">==English==
+===Etymology===
+{{uder|en|grc|-}}
+===Noun===
+{{en-noun|xenismoi}}
+# A [[ritual]] [[offering]] of a [[meal]] in [[Ancient Greece]].
+====Related terms====
+* {{l|en|xenia}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{noun form of|es|xenismo||p}}</text>
+<sha1>kzxrghcwcy2bvaic9a1jy2ddtnh14sz</sha1>
+</revision>
+</page>

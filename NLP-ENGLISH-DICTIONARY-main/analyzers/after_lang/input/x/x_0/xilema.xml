@@ -1,0 +1,64 @@
+<page>
+<title>xilema</title>
+<ns>0</ns>
+<id>1397121</id>
+<revision>
+<id>69567178</id>
+<parentid>69397300</parentid>
+<timestamp>2022-10-22T11:38:05Z</timestamp>
+<contributor>
+<username>Malhonen</username>
+<id>49012</id>
+</contributor>
+<comment>/* Catalan */ masculine, not feminine</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1027" xml:space="preserve">==Catalan==
+===Noun===
+{{wikipedia|lang=ca}}
+{{ca-noun|m}}
+# {{lb|ca|botany}} [[xylem]]
+[[Category:ca:Plant tissues]]
+----
+==Italian==
+{{wikipedia|lang=it}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|botany}} [[xylem]]
+====Derived terms====
+* {{l|it|xilematico}}
+{{C|it|Plant tissues}}
+----
+==Portuguese==
+{{wikipedia|lang=pt}}
+===Alternative forms===
+* {{alt|pt|xylema||obsolete}}
+===Pronunciation===
+* {{rhymes|pt|emɐ|s=3}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|botany}} [[xylem]] {{gloss|vascular tissue in land plants}}
+#: {{syn|pt|lenho}}
+====Derived terms====
+* {{l|pt|xilemático}}
+{{C|pt|Plant tissues}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+From {{m|es|xilo-}}, from {{der|es|grc|ξυλο-}} + {{m|es|-ema}}, from {{m|grc|-μα}}.
+===Pronunciation===
+{{es-IPA}}
+{{es-IPA|ksilema}}
+===Noun===
+{{es-noun|m}}
+# [[xylem]]
+===See also===
+* {{pedia|lang=es}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Botany|Plant tissues}}
+{{cln|es|nouns with irregular gender|terms suffixed with -ema}}</text>
+<sha1>503riyyiuxkqa0stwsislpdgxaml0yo</sha1>
+</revision>
+</page>

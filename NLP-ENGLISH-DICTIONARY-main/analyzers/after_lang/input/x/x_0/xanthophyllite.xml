@@ -1,0 +1,33 @@
+<page>
+<title>xanthophyllite</title>
+<ns>0</ns>
+<id>2667541</id>
+<revision>
+<id>69049238</id>
+<parentid>67294065</parentid>
+<timestamp>2022-09-03T05:20:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="932" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|ξανθός||yellow}} and {{m|grc|φύλλον||leaf}}, for its color and [[micaceous]] appearance, {{suffix|en||ite}}.
+===Noun===
+{{en-noun|-|s}}
+# {{lb|en|mineral|outdated}} A synonym of [[clintonite]]. The {{w|International Mineralogical Association}}'s Commission on New Minerals, Nomenclature and Classification (CNMNC) recommends using [[clintonite]] as a replacement in all cases.&lt;ref&gt;{{cite-journal|author=&lt;!--over ten authors--&gt;|title=Nomenclature of the Micas|journal=The Canadian Mineralogist|url=http://www.canmin.org/content/36/3/905.full.pdf+html|publisher=The Mineralogical Association of Canada|year=1998|volume=36|issue=3|pages=905-912|issn=1499-1276|oclc=818930682|subscription=y}}&lt;/ref&gt;
+====Synonyms====
+* [[clintonite]]
+====References====
+&lt;references/&gt;
+===Further reading===
+* {{R:WebMineral}}
+* {{R:mindat}}
+[[Category:English terms prefixed with xantho-]]</text>
+<sha1>48bu366pl3xmeaf9at4gizd69zjyeea</sha1>
+</revision>
+</page>

@@ -1,0 +1,67 @@
+<page>
+<title>Yhdysvallat</title>
+<ns>0</ns>
+<id>55340</id>
+<revision>
+<id>65821232</id>
+<parentid>63529294</parentid>
+<timestamp>2022-02-13T22:25:16Z</timestamp>
+<contributor>
+<username>Brittletheories</username>
+<id>3403588</id>
+</contributor>
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1708" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhdys|t1=united|valta|alt2=vallat|t2=states}}; {{cal|nocap=1|fi|en|United States}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-vallat}}
+===Proper noun===
+{{fi-proper noun}} {{g|p}}
+# {{place|fi|country|cont/North America|t=United States}}
+====Usage notes====
+* Despite being plural, ''Yhdysvallat'' is accompanied by verbs in singular.
+* When in a very official context, the full name of the country is ''[[Amerikan yhdysvallat]]'' &amp;ndash; that omission is similar to the omission of &quot;of America&quot; in the English name.
+* Unlike in other words in the same declension with ''Yhdysvallat'', the genitive plural for this noun mostly used is the &quot;old-fashioned&quot; ''Yhdysvalt'''ain''''', instead of ''Yhdysvalt'''ojen'''''. However, both of them are accepted, although the former is much more common.
+====Declension====
+{{fi-decl|type=kala|nosg=1&lt;!--
+--&gt;|nom_sg=&lt;!--
+--&gt;|gen_sg=&lt;!--
+--&gt;|par_sg=&lt;!--
+--&gt;|ine_sg=&lt;!--
+--&gt;|ela_sg=&lt;!--
+--&gt;|ill_sg=&lt;!--
+--&gt;|ade_sg=&lt;!--
+--&gt;|abl_sg=&lt;!--
+--&gt;|all_sg=&lt;!--
+--&gt;|ess_sg=&lt;!--
+--&gt;|tra_sg=&lt;!--
+--&gt;|abe_sg=&lt;!--
+--&gt;|nom_pl=Yhdysvallat&lt;!--
+--&gt;|gen_pl=Yhdysvaltain|gen_pl2=Yhdysvaltojen&lt;!--
+--&gt;|par_pl=Yhdysvaltoja&lt;!--
+--&gt;|ine_pl=Yhdysvalloissa&lt;!--
+--&gt;|ela_pl=Yhdysvalloista&lt;!--
+--&gt;|ill_pl=Yhdysvaltoihin&lt;!--
+--&gt;|ade_pl=Yhdysvalloilla&lt;!--
+--&gt;|abl_pl=Yhdysvalloilta&lt;!--
+--&gt;|all_pl=Yhdysvalloille&lt;!--
+--&gt;|ess_pl=Yhdysvaltoina&lt;!--
+--&gt;|tra_pl=Yhdysvalloiksi&lt;!--
+--&gt;|ins_pl=Yhdysvalloin&lt;!--
+--&gt;|abe_pl=Yhdysvalloitta&lt;!--
+--&gt;|com_pl=Yhdysvaltoineen&lt;!--
+--&gt;}}
+====Synonyms====
+* {{l|fi|Amerikan yhdysvallat}}
+* {{l|fi|Amerikka}}
+* {{l|fi|Jenkkilä}}
+* {{l|fi|USA}}
+* {{l|fi|U.S.A.}}
+====Derived terms====
+* adjectives: {{l|fi|yhdysvaltalainen}}</text>
+<sha1>nmp6poxwcxgzqpqq6cgzuycxemlzkps</sha1>
+</revision>
+</page>

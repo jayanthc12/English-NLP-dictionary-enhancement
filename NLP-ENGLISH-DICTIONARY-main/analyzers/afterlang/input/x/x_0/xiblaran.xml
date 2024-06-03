@@ -1,0 +1,24 @@
+<page>
+<title>xiblaran</title>
+<ns>0</ns>
+<id>4330322</id>
+<revision>
+<id>53115774</id>
+<parentid>40359975</parentid>
+<timestamp>2019-05-19T04:58:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'third-person plural pluperfect indicative' to 3|p|plup|ind; canonicalized multiword inflection tag 'third-person plural imperfect preterite subjunctive' to 3|p|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">{{also|xiblarán}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xiblar||3|p|plup|ind|;|3|p|impf|pret|sub}}</text>
+<sha1>duzceiytd0p1i2gw6ygbnwtj1bmyhlt</sha1>
+</revision>
+</page>

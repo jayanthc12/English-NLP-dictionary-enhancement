@@ -1,0 +1,37 @@
+<page>
+<title>Xenopirostris</title>
+<ns>0</ns>
+<id>3074480</id>
+<revision>
+<id>58943434</id>
+<parentid>58058549</parentid>
+<timestamp>2020-03-22T19:20:52Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="673" xml:space="preserve">==Translingual==
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Vangidae|native to [[Madagascar]]}}
+====Hypernyms====
+* {{sense|genus}} {{Vangidae Hypernyms}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xenopirostris xenopirostris|species}} ({{vern|Lafresnaye's vanga}})&amp;nbsp;- type species, {{taxlink|Xenopirostris damii|species}} ({{vern|Van Dam's vanga}} ({{taxlink|Xenopirostris polleni|species}} ({{vern|Pollen's vanga}})&amp;nbsp;- other species
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:NCBI|i=1|125314}}
+* {{R:EOL|i=1|93053}}
+* {{R:ITIS|i=1|558350}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>2yjk6yoaqelobw6wukipd00h49dk6ca</sha1>
+</revision>
+</page>

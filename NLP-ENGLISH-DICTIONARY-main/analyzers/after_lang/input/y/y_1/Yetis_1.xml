@@ -1,0 +1,27 @@
+<page>
+<title>Yetis</title>
+<ns>0</ns>
+<id>1383260</id>
+<revision>
+<id>58281097</id>
+<parentid>55591016</parentid>
+<timestamp>2020-01-01T23:57:48Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Yetis.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="188" xml:space="preserve">{{also|yetis|yétis|yeti's}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Yetis.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Yeti||gen|s}}
+# {{plural of|de|Yeti}}</text>
+<sha1>of8quis6hsmidn1gythj37b2lizmbjc</sha1>
+</revision>
+</page>

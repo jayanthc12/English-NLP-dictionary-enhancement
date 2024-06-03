@@ -1,0 +1,43 @@
+<page>
+<title>yedding</title>
+<ns>0</ns>
+<id>3080188</id>
+<revision>
+<id>64460376</id>
+<parentid>59643460</parentid>
+<timestamp>2021-10-28T12:25:55Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1614" xml:space="preserve">==English==
+===Pronunciation===
+* {{rhymes|en|ɛdɪŋ|s=2}}
+===Etymology 1===
+From {{inh|en|enm|ȝedding}}, {{m|enm|ȝeddynge}}, from {{inh|en|ang|ġiedding}}, {{m|ang|ġiddung}}, {{m|ang|ġeddung||utterance, saying, prophecy, song, poetry, poetical recitation, meter}}, from {{m|ang|ġieddian||to speak formally, discuss, speak with alliteration, recite, sing}}, equivalent to {{suffix|en|yed|ing}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|obsolete}} A [[song]], especially the song of a [[minstrel]].
+# {{lb|en|obsolete|or|historical}} A [[popular]] [[tale]] or [[romance]], or a song embodying a popular tale or romance.
+#* '''2013''', Marcelle Theibaux, ''The Writings of Medieval Women, 2nd Edition: An Anthology'':
+#*: By the fifteenth century a '''''yedding''''' is glossed as a romance.
+===Etymology 2===
+From {{m|en|yed}}.
+====Verb====
+{{head|en|verb form}}
+# {{present participle of|en|yed|nocat=1}}
+===Etymology 3===
+From {{inh|en|enm|eorþing||burial, digging}}, from {{m|enm|eorþien||to bury, dig}}, from {{m|enm|eorþe||earth}}, equivalent to {{suffix|en|earth|ing}}. Possibly influenced by {{inh|en|enm|earding||habitation, dwelling}}, from {{m|enm|eard||dwelling, habitation}}, from {{inh|en|ang|eard||native soil, native land, native country, country, province, region, place of residence, dwelling, home, dwelling place, estate, cultivated ground}}. More at {{l|en|earth}}.
+====Alternative forms====
+* {{l|en|yerding}}, {{l|en|earding}}
+====Noun====
+{{en-noun}}
+# {{lb|en|UK|_|dialectal}} A [[burrow]]; a [[mole]] or [[rabbit]] [[hole]].
+===Anagrams===
+* {{anagrams|en|a=ddeginy|eddying}}</text>
+<sha1>snp3hpbax2gfiq2y6yz7sxjf6dkvo6j</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>yeyukwa</title>
+<ns>0</ns>
+<id>6390301</id>
+<revision>
+<id>61882357</id>
+<parentid>47558153</parentid>
+<timestamp>2021-02-23T18:57:52Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Sw-ke-yeyukwa.flac; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==Swahili==
+===Pronunciation===
+* {{audio|sw|Sw-ke-yeyukwa.flac|Audio (Kenya)}}
+===Verb===
+{{sw-verb}}
+# {{sw-derform|pass|yeyuka}}
+====Conjugation====
+{{sw-conj}}</text>
+<sha1>fkteg5qsn3du4bku0w6td723uhu0iid</sha1>
+</revision>
+</page>

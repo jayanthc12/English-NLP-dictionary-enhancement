@@ -1,0 +1,46 @@
+<page>
+<title>xiuhtlahcuiloh</title>
+<ns>0</ns>
+<id>5356253</id>
+<revision>
+<id>54530320</id>
+<parentid>52045672</parentid>
+<timestamp>2019-10-01T15:33:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2177" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2016|July|9}}
+===Alternative forms===
+* {{l|nci|xiuhtlacuilo}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{compound|nci|xihuitl|tlahcuiloh|t1=year|t2=painter, depicter, scribe}}.
+===Pronunciation===
+* {{IPA|nci|[ʃiʍ.t͡ɬaʔˈkʷí.loʔ]}}
+===Noun===
+{{nci-noun|a|xiuhtlahcuiloh|pl=xiuhtlahcuilohqueh}}
+# {{gloss|he or she is}} the [[altepetl]]'s [[scribe]]: an illustrator of historical [[codex|codices]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 55v.
+#*: Coroniſta. altepetlacuilo. '''xiuhtlacuilo'''. tenemilizicuiloani.
+#*:: A chronicler. altepetlacuilo. '''xiuhtlacuilo'''. tenemilizicuiloani.
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 30v. col. 2.
+#*: Coroniſta. altepetlacuilo.'''xiuhtlacuilo'''. tenemilizi- / cuiloani.
+#*:: A chronicler. altepetlacuilo.'''xiuhtlacuilo'''. tenemilizi- / cuiloani.
+# {{lb|nci|[[w:New Spain|colonial]]}} {{gloss|he or she is}} a person who writes [[annals]]; a [[chronicler]].
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 30v. col. 2.
+#*: Coroniſta. altepetlacuilo.'''xiuhtlacuilo'''. tenemilizi- / cuiloani.
+#*:: A chronicler. altepetlacuilo.'''xiuhtlacuilo'''. tenemilizi- / cuiloani.
+====Synonyms====
+* {{sense|illustrator of historical codices|chronicler}} {{l|nci|āltepētlahcuiloh}}, {{l|nci|tēnemilizihcuiloāni}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]] |year=1571 |title=Vocabulario en lengua castellana y mexicana y mexicana y castellana |publisher=Editorial Porrúa |pages=30v}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]] |year=1885 |title=Diccionario de la lengua náhuatl o mexicana |publisher=Siglo Veintiuno Editores |page=770}}
+[[Category:nci:Occupations]]</text>
+<sha1>cbdr14jkaot8370jhrh1auciwla6jka</sha1>
+</revision>
+</page>

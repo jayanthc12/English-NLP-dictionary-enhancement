@@ -1,0 +1,28 @@
+<page>
+<title>xorom</title>
+<ns>0</ns>
+<id>7194031</id>
+<revision>
+<id>67400003</id>
+<parentid>64867385</parentid>
+<timestamp>2022-06-17T12:31:05Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Wolof==
+===Pronunciation===
+* {{audio|wo|Wo-xorom.ogg|Audio}}
+===Verb===
+{{head|wo|verb}}
+# to add [[salt]]
+===Noun===
+{{wo-noun|si}}
+# [[salt]]
+{{C|wo|Seasonings|Minerals}}</text>
+<sha1>o8zhguli0tf61iqzfg10526buin3ftm</sha1>
+</revision>
+</page>

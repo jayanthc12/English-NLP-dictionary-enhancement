@@ -1,0 +1,23 @@
+<page>
+<title>xochimicque</title>
+<ns>0</ns>
+<id>4233566</id>
+<revision>
+<id>54606348</id>
+<parentid>27838185</parentid>
+<timestamp>2019-10-03T05:21:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="110" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{head|nci|noun}}
+# {{obsolete spelling of|nci|xochimicqueh|xōchimicqueh}}</text>
+<sha1>7ng11wfo34wcq0dm81kvzwyac3tn0la</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>xaa</title>
+<ns>0</ns>
+<id>5519350</id>
+<revision>
+<id>68471240</id>
+<parentid>63897049</parentid>
+<timestamp>2022-07-26T11:43:34Z</timestamp>
+<contributor>
+<username>Rajkiandris</username>
+<id>770424</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="697" xml:space="preserve">{{also|xa'a|xáã}}
+==Afar==
+[[Image:Rocks boulders.jpg|thumb|Xeet.]]
+===Etymology===
+From {{inh|aa|cus-pro|-}}. Cognates include {{cog|irk|tlaa}}, {{cog|om|dhagaa}}, {{cog|so|dhagax}} and {{cog|ssy|dhaa}}.
+===Pronunciation===
+* {{aa-IPA|xáa}}
+===Noun===
+{{aa-noun|xáa|g=m|pl=xéet|gpl=m}}
+# [[stone]]
+====Declension====
+{{aa-decl|xáa|[[xáa]], [[xáaha]]|xaahí|xaahí}}
+===References===
+* {{R:aa:Parker:1985|xàa}}
+* {{R:aa:Hassan Kamil:2015|page=170}}
+{{C|aa|Geology}}
+----
+==Nheengatu==
+===Pronunciation===
+* {{IPA|yrl|[ʃa.ˈʔa]}}
+===Noun===
+{{head|yrl|noun}}
+# [[tea]]
+===References===
+* ''Reduplication in Indigenous Languages of South America'' (2014), {{ISBN|9004272410}}</text>
+<sha1>rqq3hlt68favgndr2viygitklymxii1</sha1>
+</revision>
+</page>

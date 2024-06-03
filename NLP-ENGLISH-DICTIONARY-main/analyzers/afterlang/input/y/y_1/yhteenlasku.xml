@@ -1,0 +1,29 @@
+<page>
+<title>yhteenlasku</title>
+<ns>0</ns>
+<id>1474956</id>
+<revision>
+<id>67604030</id>
+<parentid>59682845</parentid>
+<timestamp>2022-07-03T05:59:28Z</timestamp>
+<contributor>
+<username>Brittletheories</username>
+<id>3403588</id>
+</contributor>
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="276" xml:space="preserve">==Finnish==
+===Etymology===
+From {{af|fi|yhteen|lasku}}.
+===Pronunciation===
+{{fi-p|yhteen-lasku}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|mathematics}} [[addition]]
+# {{lb|fi|mathematics}} [[sum]] {{gl|instance of addition}}
+====Declension====
+{{fi-decl-valo|yhteenlask|||u|a}}</text>
+<sha1>mhpbkbaqhadzear3koh8etbpgwd51j8</sha1>
+</revision>
+</page>

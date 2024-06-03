@@ -1,0 +1,26 @@
+<page>
+<title>xylulokinase</title>
+<ns>0</ns>
+<id>5566961</id>
+<revision>
+<id>69158096</id>
+<parentid>38024745</parentid>
+<timestamp>2022-09-07T14:27:34Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="279" xml:space="preserve">==English==
+{{wikipedia}}
+===Noun===
+{{en-noun}}
+# {{lb|en|enzyme}} A [[transferase]] [[enzyme]] that [[catalyze]]s the [[chemical reaction]] ''[[ATP]] + D-xylulose &lt;math&gt;\rightleftharpoons&lt;/math&gt; ADP + D-xylulose 5-phosphate''.
+====Related terms====
+* {{l|en|L-xylulokinase}}</text>
+<sha1>i3ewfzzy3abmrpnby21pi2gpv0i5wpy</sha1>
+</revision>
+</page>

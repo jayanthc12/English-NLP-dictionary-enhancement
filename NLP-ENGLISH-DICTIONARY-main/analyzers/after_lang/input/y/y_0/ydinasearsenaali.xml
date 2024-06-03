@@ -1,0 +1,28 @@
+<page>
+<title>ydinasearsenaali</title>
+<ns>0</ns>
+<id>4404916</id>
+<revision>
+<id>69318116</id>
+<parentid>52035580</parentid>
+<timestamp>2022-09-18T17:01:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|arsenaali|t1=nuclear weapon|t2=arsenal}}
+===Pronunciation===
+{{fi-p|ydin-ase*/arsenaali}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[arsenal]]
+====Declension====
+{{fi-decl-risti|ydinasearsenaal|||a}}</text>
+<sha1>mlaxfv2h0z13ce00vtoca719azcu7a7</sha1>
+</revision>
+</page>

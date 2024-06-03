@@ -1,0 +1,90 @@
+<page>
+<title>Yemeni</title>
+<ns>0</ns>
+<id>36097</id>
+<revision>
+<id>65210895</id>
+<parentid>64819184</parentid>
+<timestamp>2022-01-06T04:27:38Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2664" xml:space="preserve">{{also|yemeni|yemení}}
+==English==
+===Etymology===
+From {{af|en|Yemen|-i}}.
+===Adjective===
+{{en-adj|-}}
+# of, from, or pertaining to [[Yemen]], or the Yemeni people
+====Translations====
+{{trans-top|of, from, or pertaining to Yemen, or the Yemeni people}}
+* Arabic: {{t|ar|يَمَنِي}}
+* Bulgarian: {{t|bg|йе́менски}}
+* Catalan: {{t|ca|iemenita}}
+* Czech: {{t+|cs|jemenský}}
+* Dutch: {{t+|nl|Jemenitisch}}
+* Esperanto: {{t|eo|jemena}}
+* Finnish: {{t+|fi|jemeniläinen}}
+* French: {{t+|fr|yéménite}}
+* Galician: {{t|gl|iemení}}, {{t|gl|iemenita}}
+* German: {{t+|de|jemenitisch}}
+* Hindi: {{t+|hi|यमनी}}
+* Hungarian: {{t+|hu|jemeni}}
+* Irish: {{t|ga|Éimineach}}
+{{trans-mid}}
+* Italian: {{t+|it|yemenita}}
+* Norwegian:
+*: Bokmål: {{t+|nb|jemenittisk}}
+*: Nynorsk: {{t+|nn|jemenittisk}}
+* Occitan: {{t|oc|iemenita}}
+* Polish: {{t+|pl|jemeński|m}}
+* Portuguese: {{t+|pt|iemenita}}
+* Romanian: {{t+|ro|yemenit}}
+* Russian: {{t+|ru|йе́менский}}
+* Spanish: {{t+|es|yemení}}
+* Swedish: {{t+|sv|jemenitisk}}
+* Turkish: {{t+|tr|Yemen}}
+* Ukrainian: {{t|uk|єменський}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# a person from [[Yemen]] or of Yemeni descent
+====Translations====
+{{trans-top|a person from Yemen or of Yemeni descent}}
+* Arabic: {{t|ar|يَمَنِيّ|m}}, {{t|ar|يَمَنِيَّة|f}}
+* Bulgarian: {{t|bg|йе́менец|m}}, {{t|bg|йе́менка|f}}
+* Catalan: {{t|ca|iemenita|m|f}}
+* Czech: {{t+|cs|Jemenec|m}}, {{t+|cs|Jemenka|f}}
+* Danish: {{t+|da|yemenit}}
+* Dutch: {{t+|nl|Jemeniet|m}}, {{t+|nl|Jemenitische|f}}
+* Esperanto: {{t|eo|jemenano}} {{qualifier|man or woman}}, {{t|eo|jemenanino}} {{qualifier|woman}}
+* Finnish: {{t+|fi|jemeniläinen}}
+* French: {{t+|fr|Yéménite|m|f}}, {{t|fr|Yéménais|m}} {{qualifier|rare and old}}, {{t|fr|Yéménois|m}} {{qualifier|rare and old}}
+* Galician: {{t|gl|iemení|m}}, {{t|gl|iemenita|m|f}}
+* German: {{t+|de|Jemenit|m}}, {{t+|de|Jemenitin|f}}
+* Hindi: {{t+|hi|यमनी}}
+* Hungarian: {{t+|hu|jemeni}}
+{{trans-mid}}
+* Irish: {{t|ga|Éimineach|m}}
+* Italian: {{t+|it|yemenita|m|f}}
+* Norwegian:
+*: Bokmål: {{t+|nb|jemenitt|m}}
+*: Nynorsk: {{t+|nn|jemenitt|m}}
+* Polish: {{t+|pl|Jemeńczyk|m}}, {{t+|pl|Jemenka|f}}
+* Portuguese: {{t+|pt|iemenita|m|f}}
+* Romanian: {{t+|ro|yemenit|m}}, {{t+|ro|yemenită|f}}
+* Russian: {{t+|ru|йе́менец|m}}, {{t+|ru|йе́менка|f}}, {{t|ru|йемени́т|m}} {{q|rare}}, {{t|ru|йемени́тка|f}} {{q|rare}}
+* Spanish: {{t+|es|yemení}}
+* Swedish: {{t+|sv|jemenit|m}}, {{t+|sv|jemenitiska|f}}
+* Turkish: {{t+|tr|Yemenli}}
+{{trans-bottom}}
+[[Category:en:Nationalities]]
+[[Category:en:Yemen]]</text>
+<sha1>p7lk2ho22t0kafoxk9ynu9ejb23usmh</sha1>
+</revision>
+</page>

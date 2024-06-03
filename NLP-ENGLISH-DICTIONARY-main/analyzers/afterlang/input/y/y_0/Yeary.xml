@@ -1,0 +1,25 @@
+<page>
+<title>Yeary</title>
+<ns>0</ns>
+<id>6147101</id>
+<revision>
+<id>67827688</id>
+<parentid>67704513</parentid>
+<timestamp>2022-07-09T21:36:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yearys}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yeary'' is the 11223&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 2818 individuals. ''Yeary'' is most common among White (91.48%) individuals.</text>
+<sha1>9dxhuk8frvpat41pl1vbop4agfwwn3f</sha1>
+</revision>
+</page>

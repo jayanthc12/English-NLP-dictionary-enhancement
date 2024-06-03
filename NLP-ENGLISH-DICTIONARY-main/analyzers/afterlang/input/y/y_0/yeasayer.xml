@@ -1,0 +1,52 @@
+<page>
+<title>yeasayer</title>
+<ns>0</ns>
+<id>4136977</id>
+<revision>
+<id>65215176</id>
+<parentid>59134426</parentid>
+<timestamp>2022-01-06T07:32:16Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1500" xml:space="preserve">{{also|yea-sayer}}
+==English==
+{{was wotd|2015|August|26}}
+===Alternative forms===
+* {{l|en|yea-sayer}}
+===Etymology===
+Origin: 1915–1920, after {{m|en|naysayer}}&lt;!--http://dictionary.reference.com/browse/yeasayer --&gt;, from {{m|en|yea}} + {{suffix|en|say|er|id2=agent noun}}, equivalent to {{suffix|en|yeasay|er|id2=agent noun}}. First recorded use: 1920.&lt;!--http://www.merriam-webster.com/dictionary/yeasayer --&gt;
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjeɪ.ˌseɪ.ə(ɹ)/}}
+* {{a|US}} {{IPA|en|/ˈjeɪ.ˌseɪ.ɚ/}}
+* {{audio|en|en-au-yeasayer.ogg|Audio (AU)}}
+* {{hyphenation|en|yea|say|er}}
+===Noun===
+{{en-noun}}
+# One whose attitude is positive, optimistic, confidently affirmative.
+# {{lb|en|pejorative}} One who habitually agrees uncritically.
+====Synonyms====
+* {{sense|positive}} {{l|en|optimist}}, {{l|en|can-doer}}
+* {{sense|pejorative}} {{l|en|yes man}}, {{l|en|doormat}}, {{l|en|kowtower}}
+====Antonyms====
+* {{l|en|naysayer}}, {{l|en|nay-sayer}}
+====Related terms====
+* {{l|en|yeasaying}}, {{l|en|yea-saying}}
+====Translations====
+{{trans-top|who habitually agrees uncritically}}
+* Arabic: {{t|ar|إِمَّعَة|c}}
+* Czech: {{t|cs|přikyvovač}}
+* Finnish: {{t|fi|jees-mies}}
+{{trans-mid}}
+* German: {{t+|de|Jasager|m}}, {{t|de|Ja-Sager|m}}, {{t+|de|Jasagerin|f}}, {{t|de|Ja-Sagerin|f}}
+* Polish: {{t+|pl|leming|m}}, {{t+|pl|przytakiwacz|m}}, {{t+|pl|klakier|m}}
+* Russian: {{t+|ru|подхалим|m|sc=Cyrl}}, {{t+|ru|подпевала|m|f|sc=Cyrl}}
+{{trans-bottom}}</text>
+<sha1>isdpmnqhnnya7ncp13bvz6zv15vfh7d</sha1>
+</revision>
+</page>

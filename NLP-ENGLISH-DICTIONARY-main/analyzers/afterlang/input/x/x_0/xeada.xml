@@ -1,0 +1,46 @@
+<page>
+<title>xeada</title>
+<ns>0</ns>
+<id>1631287</id>
+<revision>
+<id>68862335</id>
+<parentid>68861807</parentid>
+<timestamp>2022-08-28T05:13:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1405" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xelada|xiada}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|geada}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|gelata|t=frozen}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeˈaða̝/|/ʃiˈaða̝/}}
+===Adjective===
+{{head|gl|adjective form|g=f-s}}
+# {{inflection of|gl|xeado||f|s}}
+===Noun===
+{{gl-noun|f}}
+# [[frost]], [[freeze]], [[freezing]]
+#* '''1403''', M. Mar Graña Cid (ed.), ''Las órdenes mendicantes en el obispado de Mondoñedo. El convento de san Martín de Villaoriente (1374-1500)'', page 236:
+#*: ''et que non posades alegar pedra nen nebra nen '''geada''' nen outra esterilidade alguna que posa aquaesçer.''
+#*:: and you shall not adduce hail nor fog nor '''frost''' nor any other sterility that could happen
+#* '''1859''', R. Barros Sibelo, ''Un dia de desfertuna'':
+#*: ''aló no mes de xaneiro da cama me erguín lixeiro pra ir á feira de Ourense; Era un día de invernada de brétoma marrullento; de aquelas mañás, que o vento corta o carís coa '''xiada''';''
+#*:: back in January, I swiftly got up from bed to go to the fair of Ourense. It was a wintry day, unruly, misty; one of those mornings when the wind cuts the face with the '''frost'''.
+====Derived terms====
+* {{l|gl|xeadento}}
+===References===
+* {{R:gl:DDGM|geada}}
+* {{R:gl:CX|geada}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>7ofrk5cwmoc22llcqxkdiaxivhdmliy</sha1>
+</revision>
+</page>

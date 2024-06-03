@@ -1,0 +1,55 @@
+<page>
+<title>yf</title>
+<ns>0</ns>
+<id>1971268</id>
+<revision>
+<id>60967955</id>
+<parentid>60819193</parentid>
+<timestamp>2020-10-28T03:03:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{cy-verb form}}, {{cy-adjective form}}. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2342" xml:space="preserve">{{also|YF|yF}}
+==English==
+===Etymology 1===
+====Conjunction====
+{{head|en|conjunction}}
+# {{obsolete form of|en|if}}
+===Etymology 2===
+====Phrase====
+{{en-phrase}}
+# {{lb|en|knitting}} {{initialism of|en|[[yarn]] [[forward]]}}
+#* '''1997''', Jo Sharp, ''Knitted sweater style: inspirations in color'' (page 62)
+#*: Row 3. P1, yb, sl1 purlwise, '''yf''', pbf, p1.
+===Anagrams===
+* {{anagrams|en|a=fy|-fy|FY|fy}}
+----
+==Middle English==
+===Noun===
+{{head|enm|conjunction}}
+# [[if]]
+#* {{quote-book|enm|year=1474|author=Caxton|title=Game and Playe of the Chesse|chapter=|edition=|url=http://www.gutenberg.org/etext/10672
+|passage=And attorneyes of court to the comyn peple of y'e royame as well in the spirituell lawe as in the temporall/ how torne they the lawe and statutes at their pleasir/ how ete they the peple/ how enpouere they the comynte/ I suppose that in alle Cristendom ar not so many pletars attorneys and men of the lawe as ben in englond onely/ for '''yf''' they were nombrid all that lange to the courtes of the channcery kinges benche. comyn place. cheker. ressayt and helle And the bagge berars of the same/ hit shold amounte to a grete multitude And how alle thyse lyue &amp; of whome. '''yf''' hit shold be vttrid &amp; told/ hit shold not be beleuyd.}}
+#* {{quote-book|enm|year=1545|author=Desiderius Erasmus|title=A Very Pleasaunt &amp; Fruitful Diologe Called the Epicure|chapter=|edition=|url=http://www.gutenberg.org/etext/16246
+|passage=Blessed are you, '''yf''' you supporte suche as preache the Gospell.}}
+#* {{quote-book|enm|year=1591|author=Edmund Spenser|title=The Poetical Works of Edmund Spenser, Volume 5|chapter=|edition=|url=http://www.gutenberg.org/etext/10602
+|passage=Ne do I wish (for wishing were but vaine) To be acquit fro my continual smart, But ioy her thrall for ever to remayne, And yield for pledge my poor and captyved hart, The which, that it from her may never start, Let her, '''yf''' please her, bynd with adamant chayne, And from all wandring loves, which mote pervart His safe assurance, strongly it restrayne.}}
+----
+==Welsh==
+===Pronunciation===
+* {{a|cy-N}} {{IPA|cy|/ɨːv/}}
+* {{a|cy-S}} {{IPA|cy|/iːv/}}
+===Verb===
+{{cy-verb form}}
+# {{lb|cy|literary}} {{inflection of|cy|yfed||3|s|pres//fut}}
+# {{lb|cy|literary}} {{inflection of|cy|yfed||2|s|impr}}
+===Mutation===
+{{cy-mut}}</text>
+<sha1>33d7odoza51iukilsoz2mnfivvbg8ab</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Xurde</title>
+<ns>0</ns>
+<id>4018981</id>
+<revision>
+<id>59035171</id>
+<parentid>57939743</parentid>
+<timestamp>2020-03-30T06:03:44Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="191" xml:space="preserve">{{also|xurde}}
+==Asturian==
+===Etymology===
+From {{inh|ast|la|Georgius}}, from {{der|ast|grc|Γεώργιος}}.
+===Proper noun===
+{{ast-proper noun|m}}
+# {{given name|ast|male|eq=George}}</text>
+<sha1>4s6t1rwn6v0uywednifa5tupm9d1jhf</sha1>
+</revision>
+</page>

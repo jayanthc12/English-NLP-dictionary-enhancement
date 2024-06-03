@@ -1,0 +1,24 @@
+<page>
+<title>xirares</title>
+<ns>0</ns>
+<id>1852390</id>
+<revision>
+<id>57267596</id>
+<parentid>35200400</parentid>
+<timestamp>2019-10-19T17:16:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xirar||2|s|futr|subj}}
+# {{inflection of|gl|xirar||2|s|pr|inf}}</text>
+<sha1>o21774673n2b2c9anvnuf2ya4zubef4</sha1>
+</revision>
+</page>

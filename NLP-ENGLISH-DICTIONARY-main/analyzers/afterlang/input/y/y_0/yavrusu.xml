@@ -1,0 +1,26 @@
+<page>
+<title>yavrusu</title>
+<ns>0</ns>
+<id>4078335</id>
+<revision>
+<id>54850326</id>
+<parentid>34334977</parentid>
+<timestamp>2019-10-07T15:42:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{hyphenation}}; move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[javˈɾusu]}}
+* {{hyphenation|tr|yav|ru|su}}
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yavru||3|s|poss}}</text>
+<sha1>0ttiy467aes3h4misex8cbwczp1gysc</sha1>
+</revision>
+</page>

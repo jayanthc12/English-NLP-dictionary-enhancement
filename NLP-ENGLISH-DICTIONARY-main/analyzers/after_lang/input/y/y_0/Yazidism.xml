@@ -1,0 +1,46 @@
+<page>
+<title>Yazidism</title>
+<ns>0</ns>
+<id>3062075</id>
+<revision>
+<id>66470993</id>
+<parentid>66470919</parentid>
+<timestamp>2022-04-19T21:36:14Z</timestamp>
+<contributor>
+<username>Koavf</username>
+<id>5455</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Religion]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="877" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Yezidism}}
+===Etymology===
+{{suffix|en|Yazidi|ism}}
+===Proper noun===
+{{en-proper noun}}
+# The [[religion]] of [[Yazidi]]s, a highly [[syncretic]] complex of local beliefs and [[Islamic]] [[doctrine]].
+====Translations====
+{{trans-top|religion}}
+* Arabic: {{t|ar|الإيزيدية}}
+* Aragonese: {{t|an|yazidismo|m}}
+* Armenian: {{t|hy|եզդիականություն}}
+* Catalan: {{t+|ca|yazidisme|m}}, {{t|ca|iazidisme|m}}
+* Esperanto: {{t|eo|jezidismo}}
+* Finnish: {{t|fi|jesidismi}}
+* French: {{t+|fr|yézidisme|m}}, {{t+|fr|yazidisme|m}}
+{{trans-mid}}
+* German: {{t|de|Jesidentum|n}}
+* Italian: {{t|it|yazidismo|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|jesidisme|m}}
+*: Nynorsk: {{t|nn|jesidisme|m}}
+* Polish: {{t+|pl|jazydyzm|m}}, {{t+|pl|jezydyzm|m}}
+* Spanish: {{t|es|yazidismo|m}}
+{{trans-bottom}}
+[[Category:en:Yazidism]]</text>
+<sha1>f7yp4lmn5lw8qhsi0hsgdrzg89371cs</sha1>
+</revision>
+</page>

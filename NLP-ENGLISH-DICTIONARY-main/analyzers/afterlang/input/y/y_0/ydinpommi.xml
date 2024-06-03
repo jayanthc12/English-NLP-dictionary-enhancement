@@ -1,0 +1,31 @@
+<page>
+<title>ydinpommi</title>
+<ns>0</ns>
+<id>191024</id>
+<revision>
+<id>69318228</id>
+<parentid>51988514</parentid>
+<timestamp>2022-09-18T17:07:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="352" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|pommi|alt1=ydin-|gloss1=nuclear|gloss2=bomb}}, a [[calque]] of &quot;nuclear bomb&quot;
+===Pronunciation===
+{{fi-p|ydin-pommi}}
+===Noun===
+{{fi-noun}}
+# [[nuclear bomb]]
+====Declension====
+{{fi-decl-risti|ydinpomm|||a}}
+====Synonyms====
+* {{l|fi|atomipommi}} {{qualifier|dated}}
+[[Category:fi:Radioactivity]]</text>
+<sha1>59qtvgu989a6nnmiu038tts82rsmb6z</sha1>
+</revision>
+</page>

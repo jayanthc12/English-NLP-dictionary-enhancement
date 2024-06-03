@@ -1,0 +1,23 @@
+<page>
+<title>yclosed</title>
+<ns>0</ns>
+<id>3046219</id>
+<revision>
+<id>58051784</id>
+<parentid>54536249</parentid>
+<timestamp>2019-11-24T06:18:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|close|nocat=1}}</text>
+<sha1>b8ylldpo9hzwpzw0k907lh005e3tpix</sha1>
+</revision>
+</page>

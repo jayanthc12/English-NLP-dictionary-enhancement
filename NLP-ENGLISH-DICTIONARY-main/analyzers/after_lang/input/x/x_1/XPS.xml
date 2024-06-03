@@ -1,0 +1,66 @@
+<page>
+<title>XPS</title>
+<ns>0</ns>
+<id>1021506</id>
+<revision>
+<id>65542112</id>
+<parentid>65500340</parentid>
+<timestamp>2022-01-28T05:47:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>fix wrongly ordered or indented ==Translations== or adjacent sections, misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1993" xml:space="preserve">{{also|xpS|XPs}}
+==English==
+{{wikipedia|lang=en}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|computing}} {{initialism of|en|{{w|Dell XPS}}|nodot=1}} {{gloss|a line of gaming and performance computers manufactured by Dell}}
+# {{lb|en|computing}} {{initialism of|en|{{w|XML Paper Specification}}}}
+====Derived terms====
+* {{sense|XML Paper Specification}} [[OpenXPS]]
+===Noun===
+{{en-noun|~}}
+# {{lb|en|chemistry}} {{initialism of|en|[[extrude|extruded]] [[polystyrene]] [[foam]]}}
+# {{lb|en|communication|computing}} {{initialism of|en|[[transmit]] [[packet]] [[steering]]|nodot=1}} {{gloss|a scaling technique for network traffic processing}}
+# {{lb|en|uncountable|physics}} {{initialism of|en|[[X-ray]] [[photoelectron]] [[spectroscopy]]}}
+# {{lb|en|countable|physics}} {{initialism of|en|[[X-ray]] [[photoelectron]] [[spectroscope]]}}
+====Synonyms====
+{{sense|physics}} {{l|en|ESCA}}
+====See also====
+{{sense|physics}} {{l|en|UPS}}
+====Descendants====
+* {{sense|X-ray photoelectron spectroscopy}} {{desc|fr|XPS}}
+* {{sense|X-ray photoelectron spectroscope}} {{desc|fr|XPS}}
+====Translations====
+{{trans-top|X-ray photoelectron spectroscopy}}
+* French: {{t|fr|XPS}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|X-ray photoelectron spectroscope}}
+* French: {{t|fr|XPS}}
+{{trans-mid}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia|lang=en|X-ray photoelectron spectroscopy}}
+===Anagrams===
+* {{anagrams|en|a=psx|PSX}}
+[[Category:en:Physical chemistry]]
+----
+==French==
+===Etymology===
+* {{sense|spectroscopie photoélectronique à rayons X}} {{bor|fr|en|XPS}}
+* {{sense|spectroscope photo-électronique à rayons X}} {{bor|fr|en|XPS}}
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|countable}} {{m|en|XPS|gloss=X-ray photoelectron spectroscope}} {{abbreviation of|fr|spectroscope photoélectronique à rayons X}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|uncountable}} {{m|en|XPS|gloss=X-ray photoelectron spectroscopy}} {{abbreviation of|fr|spectroscopie photo-électronique à rayons X}}</text>
+<sha1>dy58nvd97wur6u1sqgdc848soe6ol94</sha1>
+</revision>
+</page>

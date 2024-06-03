@@ -1,0 +1,30 @@
+<page>
+<title>yeter</title>
+<ns>0</ns>
+<id>6690772</id>
+<revision>
+<id>67659182</id>
+<parentid>67652765</parentid>
+<timestamp>2022-07-06T15:50:44Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert aorist forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="342" xml:space="preserve">{{also|Yeter}}
+==Turkish==
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yetmek}}
+===Adjective===
+{{head|tr|adjective}}
+# [[enough]], [[sufficient]]
+===Interjection===
+{{head|tr|interjection|yeter!}}
+# [[enough]]! that's enough! that will do! (usually an emphatic interjection used to stop someone talking, to end a debate, etc.)</text>
+<sha1>4mh2odt8u9ajcn3r3c6fa355p7seipi</sha1>
+</revision>
+</page>

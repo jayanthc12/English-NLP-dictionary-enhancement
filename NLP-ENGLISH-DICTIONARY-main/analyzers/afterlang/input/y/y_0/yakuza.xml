@@ -1,0 +1,127 @@
+<page>
+<title>yakuza</title>
+<ns>0</ns>
+<id>45319</id>
+<revision>
+<id>69475243</id>
+<parentid>69475241</parentid>
+<timestamp>2022-10-09T15:01:11Z</timestamp>
+<contributor>
+<username>Vininn126</username>
+<id>2826696</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3478" xml:space="preserve">{{also|yakuzą|Yakuza}}
+==English==
+===Etymology===
+From {{der|en|ja|やくざ|tr=yakuza}}. See there for more details.
+===Pronunciation===
+* {{IPA|en|  /ˈjakuza/|/jəˈkuːzə/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-yakuza.wav|Audio (Southern England)}}
+===Noun===
+{{en-noun|yakuza|s}}
+# A Japanese [[organized crime]] gang. {{qualifier|plural: ''yakuza''}}
+# A [[member]] of a Japanese organized crime gang. {{qualifier|plural: ''yakuzas''}}
+====Coordinate terms====
+{{top3}}
+* {{l|en|bratva|gloss=Russian organized crime}}
+* {{l|en|mafia|gloss=Italian organized crime}}
+* {{l|en|mob|gloss=organized crime}}
+* {{l|en|tong|gloss=Chinese organized crime}}
+* {{l|en|triad|gloss=Southeast Asian organized crime}}
+* {{l|en|cartel|gloss=Latin American organized crime syndicate}}
+{{bottom}}
+====Translations====
+{{trans-top|Japanese organized crime gang}}
+* Arabic: {{t|ar|يَاكُوزَا|tr=yakūzā}}
+* Chinese:
+*: Mandarin: {{t+|cmn|極道|sc=Hani}}, {{t+|cmn|极道|tr=jídào|sc=Hani}}, {{t|cmn|如龍|sc=Hani}}, {{t|cmn|如龙|tr=rúlóng|sc=Hani}}, {{t|cmn|[[日本]][[黑道]]|tr=Rìběn hēidào|sc=Hani}}
+* Finnish: {{t+|fi|yakuza}}
+* Japanese: {{t+|ja|やくざ|tr=yakuza}}, {{t|ja|ヤクザ|tr=yakuza}}, {{t+|ja|極道|tr=gokudō}}
+* Korean: {{t+|ko|야쿠자}}
+{{trans-mid}}
+* Malay: {{t|ms|yakuza}}
+* Marathi: {{t|mr|याकुजा|sc=Deva}}
+* Mongolian: {{t|mn|якуза|sc=Cyrl}}
+* Polish: {{t+|pl|yakuza|f}}, {{t+|pl|jakuza|f}}
+* Russian: {{t+|ru|яку́дза|m}}
+* Slovene: {{t|sl|jakuza}}
+{{trans-bottom}}
+{{trans-top|member of a Japanese organized crime gang}}
+* Arabic: {{t|ar|يَاكُوزَا|tr=yakūzā}}
+* Chinese:
+*: Mandarin: {{t+|cmn|極道|sc=Hani}}, {{t+|cmn|极道|tr=jídào|sc=Hani}}, {{t|cmn|如龍|sc=Hani}}, {{t|cmn|如龙|tr=rúlóng|sc=Hani}}
+* Finnish: {{t+|fi|yakuza}}
+* Japanese: {{t+|ja|やくざ|tr=yakuza}}, {{t|ja|ヤクザ|tr=yakuza}}
+{{trans-mid}}
+* Korean: {{t+|ko|야쿠자}}
+* Malay: {{t|ms|yakuza}}
+* Marathi: {{t|mr|याकुजा|sc=Deva}}
+* Polish: {{t+|pl|yakuza|m}}, {{t+|pl|jakuza|m}}
+* Russian: {{t+|ru|яку́дза|m}}
+{{trans-bottom}}
+[[Category:en:Crime]]
+[[Category:en:People]]
+----
+==Finnish==
+===Etymology===
+Borrowed from {{bor|fi|ja|やくざ|sc=Jpan}}.
+===Noun===
+{{head|fi|noun}}
+# [[#English|yakuza]] (organized crime group or its member)
+====Declension====
+{{fi-decl-katiska|yakuz|a}}
+[[Category:fi:Crime]]
+----
+==French==
+===Alternative forms===
+* {{alt|fr|yakusa}}
+===Etymology===
+{{bor+|fr|ja|やくざ|tr=yakuza}}.
+===Pronunciation===
+* {{fr-IPA|+|yakouza}}
+* {{audio|fr|LL-Q150 (fra)-Benoît Prieur-yakuza.wav|Audio}}
+===Noun===
+{{fr-noun|m}}
+# {{l|en|yakuza}}
+{{C|fr|Crime}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やくざ}}
+----
+==Polish==
+{{wp|lang=pl}}
+===Alternative forms===
+* {{alt|pl|jakuza}}
+===Etymology===
+{{bor+|pl|ja|やくざ|tr=yakuza}}.
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Olaf-yakuza.wav|jakuza|h=ya.ku.za}}
+===Noun===
+{{pl-noun|f}}
+# {{lb|pl|crime}} {{m|en|yakuza}} {{gl|Japanese organized crime gang}}
+====Declension====
+{{pl-decl-noun-f}}
+===Noun===
+{{pl-noun|m-pr}}
+# {{lb|pl|crime}} {{m|en|yakuza}} {{gl|member of a Japanese organized crime gang}}
+====Declension====
+{{pl-decl-noun-f|nomp=yakuzowie|accp=yakuzów}}
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+{{C|pl|Japan}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[#English|yakuza]]</text>
+<sha1>dvmqo0aqu5os9lp7bvr4ze2xfy5prcu</sha1>
+</revision>
+</page>

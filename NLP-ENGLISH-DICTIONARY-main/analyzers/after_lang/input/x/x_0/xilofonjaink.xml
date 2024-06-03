@@ -1,0 +1,30 @@
+<page>
+<title>xilofonjaink</title>
+<ns>0</ns>
+<id>1791343</id>
+<revision>
+<id>60415909</id>
+<parentid>58286586</parentid>
+<timestamp>2020-09-17T05:13:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>n=sg -&gt; n=isg in {{hu-infl-nom}} in the context of {{inflection of|hu|...|mpos|poss}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="306" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xilofon|-jaink|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xi|lo|fon|ja|ink}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||1|p|mpos|poss}}
+====Declension====
+{{hu-infl-nom|xilofonjainka|o|n=isg|esm_sg=1}}</text>
+<sha1>3f50lyx5mtfwu0vha26kom9aggjn95z</sha1>
+</revision>
+</page>

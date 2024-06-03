@@ -1,0 +1,29 @@
+<page>
+<title>yaciente</title>
+<ns>0</ns>
+<id>6944029</id>
+<revision>
+<id>68972244</id>
+<parentid>64220545</parentid>
+<timestamp>2022-08-29T02:41:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Spanish==
+===Etymology===
+Present participle of {{m|es|yacer}}
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[lying]]; [[lay down|laying down]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>gxl8rqchryfqwsb20yr7mt76a4yedfm</sha1>
+</revision>
+</page>

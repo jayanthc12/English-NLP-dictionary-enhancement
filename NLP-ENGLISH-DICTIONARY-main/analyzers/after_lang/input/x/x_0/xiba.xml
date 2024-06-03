@@ -1,0 +1,59 @@
+<page>
+<title>xiba</title>
+<ns>0</ns>
+<id>1177449</id>
+<revision>
+<id>68860314</id>
+<parentid>68828474</parentid>
+<timestamp>2022-08-28T05:00:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2315" xml:space="preserve">==Afar==
+===Pronunciation===
+* {{aa-IPA|xibá}}
+===Noun===
+{{aa-noun|xibá|g=f}}
+# [[scar]]
+====References====
+* {{R:aa:Hassan Kamil:2015}}
+----
+==Galician==
+{{wikipedia|lang=gl}}
+[[File:Sepia officinalis (aquarium).jpg|thumb|''xiba'']]
+===Alternative forms===
+* {{alter|gl|sibia|xibia}}
+===Etymology===
+From Middle Galician {{m|gl||jiba}}, from Medieval Galician {{m|gl||sibia}}, {{m|gl||siba}}, from {{inh|gl|la|sepia}}, from {{der|gl|grc|σηπία}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃiβa̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[cuttlefish]]
+#* '''1409''', G. Pérez Barcala (ed.), ''A tradución galega do &quot;Liber de medicina equorum&quot; de Joradanus Ruffus''. Santiago de Compostela: USC, page 184:
+#*: ''E se os ollos teveren pano vello ou rezente, filla a '''siba''' e o sarro da cuba e a sal gema, tanto de ũu como doutro, e fage poo de todo e peneirao moi ben e lançao nos ollos deste poo por ũu canudo duas vezes no dia asaz del''
+#*:: And if the eyes have old or recent cloth, take '''cuttlefish''' [bone] and wine tartar and rock salt, as much of one as of the other, and make a powder of everything and sieve it well; and with a tube throw a good quantity of it in the eyes, twice a day
+#* '''1417''', Ángel Rodríguez González (ed.), ''Libro do Concello de Santiago (1416-1422)''. Santiago de Compostela: Consello da Cultura Galega, page 75:
+#*: ''Iten que se venda o pescado en esta maneira: a libra dos sacadores et das sollas et dos bodiõos, dos polvos et das fanequas et das rayas et das langostas et das '''sibias''' et das luras a tres dineiros cada libra''
+#*:: Item, they should sell the captured fish in this way: the pound of ''sacadores'' [?], of plaices, of Baillon's wrasses, of octopuses, of poutings, of stingrays, of lobsters, of '''cuttlefish''' and of squids, three ''diñeiros'' each pound
+#* '''1596''', anonymous, ''Diálogo de Alberte e Bieito'':
+#*: ''burazinos / panchozes tamañiños / Va '''jiba''' ou maragota / e si acasso ben pijota''
+#*:: little blackspot sea breams  / and well sized axillary sea brams / With '''cuttlefish''' and ballan wrasse / and maybe also hake
+#: {{syn|gl|choco|chopo}}
+====Related terms====
+* {{l|gl|sepia}}
+===References===
+* {{R:gl:CX|sibia}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references /&gt;
+{{C|gl|Animals|Mollusks}}</text>
+<sha1>2lzdl8rdltwpv2i7v8ninx0libj4ocm</sha1>
+</revision>
+</page>

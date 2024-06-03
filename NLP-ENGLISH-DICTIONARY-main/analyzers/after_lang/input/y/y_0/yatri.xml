@@ -1,0 +1,27 @@
+<page>
+<title>yatri</title>
+<ns>0</ns>
+<id>6895650</id>
+<revision>
+<id>50953575</id>
+<parentid>50583079</parentid>
+<timestamp>2018-11-28T07:45:15Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==English==
+===Etymology===
+{{bor|en|sa|यात्री}}
+===Noun===
+{{en-noun}}
+# A [[Hindu]] [[pilgrim]], one taking part in [[yatra]].
+===Anagrams===
+* {{anagrams|en|a=airty|-iatry|arity}}</text>
+<sha1>ij341f6obkin5epahekrs10qao0mjw2</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>XHR</title>
+<ns>0</ns>
+<id>94528</id>
+<revision>
+<id>58061263</id>
+<parentid>58008900</parentid>
+<timestamp>2019-11-24T23:40:26Z</timestamp>
+<contributor>
+<username>Vealhurl</username>
+<id>3611421</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="187" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun}}
+# {{lb|en|Internet}} {{init of|en|[[XML]][[HTTP|Http]][[request|Request]] object}}
+===References===
+* {{pedia|XmlHttpRequest|XHR}}</text>
+<sha1>mgvkpbe0v9l44kgytobqkrx1grrcrk4</sha1>
+</revision>
+</page>

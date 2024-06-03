@@ -1,0 +1,28 @@
+<page>
+<title>xenophontischsten</title>
+<ns>0</ns>
+<id>6345432</id>
+<revision>
+<id>60597316</id>
+<parentid>58423956</parentid>
+<timestamp>2020-09-27T13:19:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{head|de|adjective form}} to {{head|de|superlative adjective}}; add {{de-adj form of}} for superlative</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xenophontischsten.ogg|Audio}}
+===Adjective===
+{{head|de|superlative adjective}}
+# {{superlative of|de|xenophontisch}}
+===Adjective===
+{{head|de|superlative adjective form}}
+# {{de-adj form of|xenophontisch}}</text>
+<sha1>b1966doq3nwphclimexfj4a1sg4rhca</sha1>
+</revision>
+</page>

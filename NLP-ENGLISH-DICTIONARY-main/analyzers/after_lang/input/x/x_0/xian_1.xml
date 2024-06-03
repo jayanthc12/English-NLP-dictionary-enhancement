@@ -1,0 +1,84 @@
+<page>
+<title>xian</title>
+<ns>0</ns>
+<id>497386</id>
+<revision>
+<id>67521686</id>
+<parentid>67172753</parentid>
+<timestamp>2022-06-22T23:08:09Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<comment>/* Mandarin */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2429" xml:space="preserve">{{also|xī'àn|Xian|xián|xiàn|xiān|xiǎn|Xi'an|Xī'ān|xī'ān}}
+==English==
+===Etymology 1===
+From the [[pinyin]] romanization of {{bor|en|cmn|-}} {{zh-m|縣}}.
+{{wikipedia|County (China)|Counties in China}}
+====Alternative forms====
+* {{alter|en|hsien||archaic}}
+====Noun====
+{{en-noun}}
+# {{lb|en|China}} An [[administrative]] [[subdivision]] of [[imperial]], [[republican]], and [[communist]] [[China]] [[roughly]] [[equivalent]] to [[county|counties]], [[now]] [[distinguish]]ed from the [[more]] [[urban]] &quot;[[district]]s&quot; ([[qu]]).
+#: {{syn|en|county}}
+#* {{quote-book
+|en
+|year=1987
+|last=Rawson
+|first=Jessica
+|authorlink=Jessica Rawson
+|chapter=The Eastern Zhou Period
+|title=Chinese Bronzes: Art and Ritual
+|url=https://archive.org/details/chinesebronzesar00raws/
+|publisher={{w|British Museum Publications}}
+|ISBN=0-7141-1439-1
+|OCLC=1183919119
+|page=47
+|pageurl=https://archive.org/details/chinesebronzesar00raws/page/47/
+|text=Tight and dense motifs occur on bronzes excavated in 1923 from a tomb at Lijialou at Xinzheng&lt;!--新鄭--&gt; '''Xian''' in southern Henan attributed to the small state of Zheng.}}
+=====Derived terms=====
+* {{l|en|Gui Xian}}
+===Etymology 2===
+An alternative capitalization of [[Xian]].
+====Noun====
+{{en-noun}}
+# {{lb|en|sometimes|_|pejorative|_|or|_|offensive}} {{alt form|en|Xian|nodot=a}}: [[Christian]].
+====Adjective====
+{{en-adj|-}}
+# {{lb|en|sometimes|_|pejorative|_|or|_|offensive}} {{alt form|en|Xian|nodot=a}}: [[Christian]].
+#* {{quote-book
+|en
+|year=1993
+|title=The Selected Letters of Mary Moody Emerson
+|first=Mary Moody
+|last=Emerson
+|authorlink=Mary Moody Emerson
+|editor=Simmons, Nancy Craig
+|publisher=University of Georgia Press
+|location=Athens
+|page=242
+|pageurl=http://books.google.com/books?id=GbviVhvwUpoC&amp;pg=PA242&amp;dq=xian
+|passage=But what an epoch in the xian world—what a time for a xian Orator to make a deep &amp; eternal impression on socity{{SIC}}.
+}}
+====References====
+* [http://www.infidels.org/library/modern/mathew/arguments.html#xian What does 'xian' mean?]
+===Anagrams===
+* {{anagrams|en|a=ainx|Axin|Naxi|axin}}
+[[Category:en:Christianity]]
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiān}}
+# {{nonstandard spelling of|cmn|sc=Latn|xián}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiǎn}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiàn}}
+====Usage notes====
+* {{cmn-toneless-note}}</text>
+<sha1>i341uzasnibmgxroyyfgx0g1vwtfith</sha1>
+</revision>
+</page>

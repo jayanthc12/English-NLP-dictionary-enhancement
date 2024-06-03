@@ -1,0 +1,36 @@
+<page>
+<title>xiri</title>
+<ns>0</ns>
+<id>4589121</id>
+<revision>
+<id>69114422</id>
+<parentid>68361810</parentid>
+<timestamp>2022-09-04T16:54:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="441" xml:space="preserve">{{also|Xiri|Xi-ri}}
+==Maltese==
+{{mt-root|x-r-j}}
+===Etymology===
+From {{inh|mt|ar|شِرَاء}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɪ.rɪ/}}
+* {{rhymes|mt|ɪrɪ|s=2}}
+===Noun===
+{{mt-verbal noun|g=m|inst=xirja}}
+# {{verbal noun of|mt|xtara}}: [[buying]], [[shopping]]
+----
+==Portuguese==
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|vulgar|slang|Northeast Brazil}} [[pussy]] {{gloss|the female genitalia}}
+#: {{syn|pt|xoxota|boceta|xibiu}}</text>
+<sha1>oww2qmnmxjyucdfch6apv0p20sezh0w</sha1>
+</revision>
+</page>

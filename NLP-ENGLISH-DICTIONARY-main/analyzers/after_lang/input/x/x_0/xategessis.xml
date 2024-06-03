@@ -1,0 +1,21 @@
+<page>
+<title>xategessis</title>
+<ns>0</ns>
+<id>5991091</id>
+<revision>
+<id>41924324</id>
+<timestamp>2016-12-25T05:05:30Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=sg|t=impf|m=sub|xatejar}}</text>
+<sha1>742y96wm53vugq2ra9n54ygy1oat1s7</sha1>
+</revision>
+</page>

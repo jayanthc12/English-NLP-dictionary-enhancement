@@ -1,0 +1,46 @@
+<page>
+<title>xylophagous</title>
+<ns>0</ns>
+<id>251414</id>
+<revision>
+<id>69440264</id>
+<parentid>52510889</parentid>
+<timestamp>2022-10-03T19:38:04Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>t+ca:[[xilòfag]] t-balance ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1332" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xylo-|-phagous}}
+===Adjective===
+{{en-adj|-}}
+# [[feeding|Feeding]] on [[wood]]. {{gloss|of insects etc.}}
+#* '''1841''', William Chambers and Robert Chambers [eds.], ''Chambers’ Edinburgh Journal'', volume 9, &lt;span class=&quot;plainlinks&quot;&gt;[http://books.google.co.uk/books?id=jXUOAAAAQAAJ&amp;pg=PA247&amp;dq=xyrophagous&amp;hl=en&amp;ei=44ACToDBPIer8AOmprS7DQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=xyrophagous&amp;f=false page 247]&lt;/span&gt;
+#*: Man has many times suffered from his attempts at extermination, and in no way, perhaps, would he suffer more, than by utterly destroying the mischievous teredo, and its active little ally, the '''xylophagous''' linmeria.
+# [[destructive|Destructive]] to wood. {{gloss|of fungi etc.}}
+====Derived terms====
+* {{l|en|saproxylophagous}}
+====Related terms====
+* {{l|en|xylophage}}
+* {{l|en|xylophagy}}
+====Translations====
+{{trans-top|of insects, etc., feeding on wood}}
+* Catalan: {{t|ca|xilòfag}}
+* Czech: {{t|cs|dřevožravý}}, {{t+|cs|xylofágní}}
+{{trans-mid}}
+* Finnish: {{t|fi|ksylofaginen}}
+* French: {{t+|fr|xylophage}}
+{{trans-bottom}}
+{{trans-top|of fungi, etc., feeding on wood}}
+* Czech: {{t|cs|dřevožravý}}, {{t+|cs|xylofágní}}
+* Finnish: {{t|fi|ksylofaginen}}
+{{trans-mid}}
+* French: {{t+|fr|xylophage}}
+{{trans-bottom}}</text>
+<sha1>brf286sw29tgvph3a4fg3w680om81ce</sha1>
+</revision>
+</page>

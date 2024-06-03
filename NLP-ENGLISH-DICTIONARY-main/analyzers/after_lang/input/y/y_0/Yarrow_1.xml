@@ -1,0 +1,33 @@
+<page>
+<title>Yarrow</title>
+<ns>0</ns>
+<id>6075964</id>
+<revision>
+<id>67797456</id>
+<parentid>67761214</parentid>
+<timestamp>2022-07-09T19:46:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="639" xml:space="preserve">{{also|yarrow}}
+==English==
+{{wikipedia|Yarrow (disambiguation)}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|river|co/Lancashire|cc/England|which flows into the River|river/Douglas}}.
+# {{place|en|river|, named {{w|Yarrow Water}}, in|carea/Scottish Borders|cc/Scotland}}.
+# {{place|en|hamlet|and [[parish]] in the Yarrow Valley,|carea/Scottish Borders}} {{q|[[OS]] grid ref NT3527}}.
+# {{place|en|hamlet|dist/Sedgemoor|co/Somerset|cc/England}}.
+# {{place|en|small community|p/British Columbia|c/Canada}}.
+# {{place|en|unincorporated community|s/Missouri|c/USA}}.
+# {{surname|en}}.
+===Anagrams===
+* {{anagrams|en|a=aorrwy|arrowy}}</text>
+<sha1>gexnwti2m3rwhybrxmbbrm5qnw3iout</sha1>
+</revision>
+</page>

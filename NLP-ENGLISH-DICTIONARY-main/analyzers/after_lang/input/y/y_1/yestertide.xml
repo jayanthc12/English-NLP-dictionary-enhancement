@@ -1,0 +1,33 @@
+<page>
+<title>yestertide</title>
+<ns>0</ns>
+<id>2624360</id>
+<revision>
+<id>58313717</id>
+<parentid>51773632</parentid>
+<timestamp>2020-01-08T05:53:00Z</timestamp>
+<contributor>
+<username>AdamBMorgan</username>
+<id>304048</id>
+</contributor>
+<comment>/* English */ +synonyms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1190" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|yester|tide|t2=time, season, period}}.
+===Noun===
+{{en-noun|-}}
+# A [[time]] [[period]] previous to the [[present]]; the [[past]].
+====Synonyms====
+* {{l|en|foretime}}, {{l|en|yestertime}}; see also [[Thesaurus:the past]]
+===Adverb===
+{{en-adv|-}}
+# In times past, at a prior time; in the past.
+#* {{quote-journal|en|year=1905|last=Williams|first=Dr. Frederick H.|title=Fair Cooling Spray, O Lovely Sea!|journal=The Connecticut Magazine|volume=9|number=3|pageurl=https://archive.org/details/connecticutmagazv9p2hart/page/n13|page=frontispiece|passage=Fair cooling spray, oh, lovely sea! / How maiden coy thy changing mood; / To-night thou'rt sweet with smiles for me, / Scarce '''yestertide''' I vainly wooed / Thy fretful features for a smile, / Naught could for me one thought beguile.}}
+#* {{quote-book|en|year=1889|first=Alfred|last=Austin|title=The Human Tragedy|passage=And loudly to her lovers called, to leap To arms for her sore sake, that '''yestertide''' In her delight delighted, and drank deep Of her lascivious wine-cups, {{...}}}}
+====Synonyms====
+* {{l|en|beforehand}}, {{l|en|yestertime}}; see also [[Thesaurus:formerly]]</text>
+<sha1>ryo4nmghwur7rf4tbq6taptv3deh2hu</sha1>
+</revision>
+</page>

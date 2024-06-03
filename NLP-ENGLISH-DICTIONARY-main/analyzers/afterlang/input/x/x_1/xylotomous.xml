@@ -1,0 +1,36 @@
+<page>
+<title>xylotomous</title>
+<ns>0</ns>
+<id>2122895</id>
+<revision>
+<id>67293299</id>
+<parentid>58035082</parentid>
+<timestamp>2022-06-06T10:49:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="746" xml:space="preserve">==English==
+===Etymology===
+{{uder|en|grc|ξύλον||wood}} + {{m|grc|τομία||cut}}, from {{m|grc|τέμνειν||to cut}}
+===Adjective===
+{{en-adj|-}}
+# That [[bore]]s or [[cut]]s into [[wood]], as with certain insects.
+#: ''Real estate agents in the southern U.S. routinely handle questions about the presence of '''xylotomous''' insects, primarily termites.''
+#: ''Wooden structures in the tropics must be chemically treated to repel '''xylotomous''' pests.''
+#: ''Isopterophobia is the fear of termites or other '''xylotomous''' insects.''
+====Related terms====
+* {{l|en|xylophagous}}
+* {{l|en|xylophage}}
+====Translations====
+{{trans-top|that bores or cuts into wood}}
+* Czech: {{t|cs|dřevožravý}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>0fpazrkh05fioh33kg29s9wg89ir7je</sha1>
+</revision>
+</page>

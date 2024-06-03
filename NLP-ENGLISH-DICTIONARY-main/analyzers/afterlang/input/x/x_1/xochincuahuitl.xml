@@ -1,0 +1,39 @@
+<page>
+<title>xochincuahuitl</title>
+<ns>0</ns>
+<id>5374693</id>
+<revision>
+<id>54530333</id>
+<parentid>52045879</parentid>
+<timestamp>2019-10-01T15:34:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="973" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2016|June|11}}
+===Alternative forms===
+* {{l|nci|xochinquauitl}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{compound|nci|*xōchin|cuahuitl|t1=full of or adorned with flowers|t2=tree}}.
+===Pronunciation===
+* {{IPA|nci|[ʃoː.t͡ʃiŋˈkʷá.wit͡ɬ]}}
+===Noun===
+{{nci-noun|i|xōchincuahuitl|pl=xōchincuahuitl}}
+# {{gloss|it is}} a blossoming [[tree]] or [[shrub]]; a tree ripe with [[flower]]s
+#* '''1558-1585''', [[w:Bernardino de Sahagún|Bernardino de Sahagún]], ''Primeros memoriales'', f. 279v.
+#*: Ma ya auiallo '''xochinquauitl''' itlani / nepapan quecholli ma ya in quecholli
+#*:: May the many-colored birds rejoice under '''the blossoming trees'''.
+====Related terms====
+* {{l|nci|xōchincuīcatl}}
+===References===
+* {{cite-book|author=Rafael Tena |year=2012 |title=La religión mexica |publisher=Instituto Nacional de Antropología e Historia |page=138}}
+[[Category:nci:Flowers]]
+[[Category:nci:Trees]]</text>
+<sha1>j9vfa5iu3jzfjkz8fmn2kwjawbgvw2l</sha1>
+</revision>
+</page>

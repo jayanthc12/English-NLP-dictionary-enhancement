@@ -1,0 +1,77 @@
+<page>
+<title>yellowish</title>
+<ns>0</ns>
+<id>35703</id>
+<revision>
+<id>68675047</id>
+<parentid>67761893</parentid>
+<timestamp>2022-08-19T22:27:56Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>Protected &quot;[[yellowish]]&quot;: Well-attested spelling; should not be moved ([Move=Allow only administrators] (indefinite))</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2320" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|ȝelowisch}}; equivalent to {{suffix|en|yellow|ish}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈjeləʊɪʃ/}}
+* {{a|US}} {{IPA|en|/ˈjelɔʊɪʃ/}}
+* {{audio|en|en-us-yellowish.ogg|Audio (US)}}
+===Adjective===
+{{en-adj|-}}
+# Somewhat [[yellow]] (in colour).
+====Synonyms====
+* {{l|en|yellowy}}
+====Translations====
+{{trans-top|somewhat yellow}}
+* Armenian: {{t+|hy|դեղնավուն}}
+* Breton: {{t+|br|arvelen}}, {{t+|br|azvelen}}, {{t+|br|damvelen}}
+* Bulgarian: {{t|bg|жълтеникав}}
+* Catalan: {{t+|ca|groguenc}}, {{t+|ca|grogós}}
+* Czech: {{t|cs|žlutavý}}
+* Danish: {{t|da|gulagtig}}
+* Dutch: {{t+|nl|gelig}}, {{t+|nl|geelachtig}}
+* Esperanto: {{t|eo|flaveta}}, {{t|eo|dubeflava}}
+* Estonian: {{t|et|kollakas}}
+* Finnish: {{t+|fi|kellertävä}}, {{t|fi|kellahko}}
+* French: {{t+|fr|jaunâtre}}
+* Galician: {{t+|gl|amarelado}}, {{t+|gl|amarelento}}
+* Georgian: {{t|ka|მოყვითალო}}
+* German: {{t+|de|gelblich}}
+* Hebrew: {{t+|he|צְהַבְהַב|tr=ts'havháv}}
+* Hungarian: {{t+|hu|sárgás}}
+* Icelandic: {{t|is|gulleitur}}
+* Interlingua: {{t|ia|[[aliquanto]] [[jalne]]}}
+* Irish: {{t|ga|scothbhuí}}, {{t|ga|leathbhuí}}
+* Italian: {{t|it|giallastro}}, {{t+|it|gialliccio}}, {{t+|it|giallognolo}}
+* Kalmyk: {{t|xal|шарвцр}}
+{{trans-mid}}
+* Latin: {{t|la|galbinus}}, {{t|la|luteolus|m}}
+* Latvian: {{t|lv|iedzeltens}}, {{t|lv|dzeltengans}}, {{t|lv|dzeltenīgs}}
+* Norwegian:
+*: Bokmål: {{t+|nb|gulaktig}}
+*: Nynorsk: {{t|nn|gulaktig}}
+* Ottoman Turkish: {{t|ota|صاریمسی|tr=sarımsı}}
+* Polish: {{t+|pl|żółtawy}}
+* Portuguese: {{t+|pt|amarelado}}, {{t|pt|amarelento}}, {{t|pt|[[tirante]] [[a]] [[amarelo]]}}
+* Romanian: {{t+|ro|gălbui}}, {{t+|ro|gălbenatic}}, {{t+|ro|gălbeniu}}, {{t+|ro|gălbiu}}
+* Russian: {{t+|ru|желтова́тый}}
+* Scottish Gaelic: {{t|gd|fo-bhuidhe}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|жу̏ћкаст}}
+*: Roman: {{t+|sh|žȕćkast|m}}
+* Shor: {{t|cjs|сарғамдық}}
+* Southern Altai: {{t|alt|сарызымак}}
+* Spanish: {{t+|es|amarillento}}
+* Swedish: {{t+|sv|gulaktig}}
+* Turkish: {{t+|tr|sarımsı}}
+* Volapük: {{t+|vo|yelovilik}}, {{t|vo|yeliblik}} {{qualifier|older term}}, {{t|vo|luyelibik}} {{qualifier|older term}}
+{{trans-bottom}}
+[[Category:en:Colors]]</text>
+<sha1>gzprd8uohw4a1237mhn6y5olpwgkls7</sha1>
+</revision>
+</page>

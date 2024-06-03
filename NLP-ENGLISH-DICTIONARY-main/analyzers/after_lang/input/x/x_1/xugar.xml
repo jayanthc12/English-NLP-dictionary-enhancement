@@ -1,0 +1,28 @@
+<page>
+<title>xugar</title>
+<ns>0</ns>
+<id>3223456</id>
+<revision>
+<id>69123886</id>
+<parentid>60955609</parentid>
+<timestamp>2022-09-04T22:37:24Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|ioco|iocāre}}, collateral form of {{m|la|ioco|iocārī}}. Compare {{cog|es|jugar}}.
+===Verb===
+{{ast-verb-ar|xug|xueg}}
+# to [[play]]
+====Conjugation====
+{{ast-conj-gar|xu|xue}}
+====Related terms====
+* {{l|ast|xuegu}}</text>
+<sha1>sejx60ge4ljwdko91l6vyvrzl6cs8j6</sha1>
+</revision>
+</page>

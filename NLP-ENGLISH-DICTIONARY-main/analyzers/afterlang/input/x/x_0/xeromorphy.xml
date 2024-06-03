@@ -1,0 +1,30 @@
+<page>
+<title>xeromorphy</title>
+<ns>0</ns>
+<id>4176455</id>
+<revision>
+<id>43457077</id>
+<parentid>37655041</parentid>
+<timestamp>2017-05-24T10:59:36Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==English==
+===Etymology===
+From {{affix|en|xero-|-morphy}}.
+===Noun===
+{{en-noun|-}}
+# Quality of being [[xeromorphic]].
+====Translations====
+{{trans-top|quality of being xeromorphic}}
+* Irish: {{t|ga|xéireamorfacht|f}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>9gd1ie07jtsjc7pimgbio5xx734buax</sha1>
+</revision>
+</page>

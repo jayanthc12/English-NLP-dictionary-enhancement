@@ -1,0 +1,25 @@
+<page>
+<title>xyoo</title>
+<ns>0</ns>
+<id>6804987</id>
+<revision>
+<id>50040272</id>
+<parentid>49978589</parentid>
+<timestamp>2018-07-29T20:12:06Z</timestamp>
+<contributor>
+<username>AvenidaK</username>
+<id>3424237</id>
+</contributor>
+<minor />
+<comment>/* White Hmong */ fix Pronunciation heading</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==White Hmong==
+===Pronunciation===
+{{mww-pron}}
+===Noun===
+{{head|mww|noun}}
+# [[year]]</text>
+<sha1>cjrce06r5d5thvggohhnxraanbxcais</sha1>
+</revision>
+</page>

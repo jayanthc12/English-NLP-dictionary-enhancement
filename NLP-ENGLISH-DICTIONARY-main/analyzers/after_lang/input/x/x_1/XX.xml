@@ -1,0 +1,63 @@
+<page>
+<title>XX</title>
+<ns>0</ns>
+<id>74745</id>
+<revision>
+<id>68769446</id>
+<parentid>65368508</parentid>
+<timestamp>2022-08-27T05:03:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2060" xml:space="preserve">{{also|xx|x_x|X_X}}
+==Translingual==
+===Etymology 1===
+====Numeral====
+{{head|mul|numeral}}
+# A Roman numeral representing the number [[20]].
+=====Alternative forms=====
+* {{l|mul|xx}}, {{l|mul|XVV}}, {{l|mul|xvv}}
+=====See also=====
+* Previous: [[XIX]]. Next: [[XXI]]
+===Etymology 2===
+From [[X chromosome]].
+====Adjective====
+{{head|mul|adjective}}
+# {{lb|mul|biology}} Having a [[female]] configuration of [[chromosome]]s as per the [[XY system]].
+#* {{quote-text|en|termlang=mul|year=2001|author=Kenneth L. Becker (ed)|title=Principles and Practice of Endocrinology and Metabolism|page=857|isbn=0781717507|passage=An autosomal recessive gene causes gonadal dysgenesis in '''XX''' individuals, and several distinct entities have been identified.}}
+#* {{quote-text|en|termlang=mul|year=2007|author=Fima Lifshitz (ed)|title=Pediatric Endocrinology, Volume 2|page=358|isbn=1420055232|passage=If a Y chromosome is present in an '''XX'''-karyotyped individual, gonadal removal is necessary due to the risk of gonadoblastoma.}}
+#* {{quote-text|en|termlang=mul|year=2009|author=Gerald N. Callahan|title=Between XX and XY: Intersexuality and the Myth of Two Sexes|page=30|isbn=1556527853|passage=The group at John Hopkins{{sic}}, as well as many others, dropped the &quot;true sex&quot; policy (such as '''XX''' or XY) and adopted the &quot;optimal gender&quot; policy for assigning sex to sexually ambiguous children.}}
+# {{lb|mul|biology}} {{synonym of|mul|ZZ||having a male configuration of chromosomes as per the ZW system}}
+=====Antonyms=====
+* {{l|mul|XY}}
+=====Derived terms=====
+* [[XX male syndrome]]
+=====See also=====
+* [[ZZ]], [[ZW]]
+===Etymology 3===
+====Adjective====
+{{head|mul|adjective}}
+# {{lb|mul|clothing}} Extra large, a garment size
+=====Synonyms=====
+* [[XL]]
+[[Category:Roman numerals]]
+{{topics|mul|Twenty}}
+----
+==Korean==
+===Etymology===
+From {{der|ko|ja|-}} [[××#Japanese|{{lj|[×](ばつ)[×](ばつ)}}]].
+===Noun===
+{{ko-noun|hangeul=뭐뭐}}
+# [[X]] (hidden name)
+#: 김'''XX''' 씨.
+#:: Mr. Kim X.
+====Synonyms====
+* {{l|ko|OO}}</text>
+<sha1>c8jc3i7pgdnz1llv1evon0ikhmyk8cb</sha1>
+</revision>
+</page>

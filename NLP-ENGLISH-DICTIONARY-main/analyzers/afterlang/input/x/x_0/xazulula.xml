@@ -1,0 +1,30 @@
+<page>
+<title>xazulula</title>
+<ns>0</ns>
+<id>6944994</id>
+<revision>
+<id>52503961</id>
+<parentid>52118122</parentid>
+<timestamp>2019-04-26T20:09:19Z</timestamp>
+<contributor>
+<username>Smashhoof</username>
+<id>1896362</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Zulu==
+===Etymology===
+{{rfe|zu}}
+===Verb===
+{{zu-verb|xazulula}}
+# {{lb|zu|transitive}} to [[solve]], to [[settle]]
+====Inflection====
+{{zu-infl-verb|L}}
+====Derived terms====
+* {{l|zu|isixazululo}}
+* {{l|zu|umxazululo}}
+===References===
+* {{R:zu:ZED||3.3.2.9}}</text>
+<sha1>7ub723qqjvm1lfe5ti4lzdns1tvdgqv</sha1>
+</revision>
+</page>

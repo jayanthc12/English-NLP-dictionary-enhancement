@@ -1,0 +1,35 @@
+<page>
+<title>xusticia</title>
+<ns>0</ns>
+<id>4352186</id>
+<revision>
+<id>51040699</id>
+<parentid>48071421</parentid>
+<timestamp>2018-12-06T05:42:27Z</timestamp>
+<contributor>
+<username>Greenismean2016</username>
+<id>3418111</id>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="450" xml:space="preserve">==Asturian==
+===Etymology===
+Borrowed from {{bor|ast|la|iustitia|iūstitia, jūstitia}}. Cf. also {{m|ast|xusteza}}.
+===Noun===
+{{ast-noun|f|xusticies}}
+# {{l|en|justice}} {{gloss|state of being just or fair}}
+====Synonyms====
+* {{l|ast|xusteza}}
+----
+==Leonese==
+===Etymology===
+{{rfe|roa-leo}}
+===Noun===
+{{head|roa-leo|noun|g=f|plural|xusticias}}
+# [[justice]]
+===References===
+* [http://www.lengualeonesa.eu/castellan/Diccionario AEDLL]</text>
+<sha1>f4nowumklr75bfxd913793ll8o2kwfo</sha1>
+</revision>
+</page>

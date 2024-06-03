@@ -1,0 +1,25 @@
+<page>
+<title>yasseur</title>
+<ns>0</ns>
+<id>6362008</id>
+<revision>
+<id>67264046</id>
+<parentid>67053027</parentid>
+<timestamp>2022-06-05T22:50:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[yasseuse]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|yasser|-eur}}
+===Noun===
+{{fr-noun|m|f=+}}
+# {{lb|fr|Switzerland}} [[jazz]] [[instrumentalist]]</text>
+<sha1>oed0lvj4k7vor4275payxh48mk6ylfn</sha1>
+</revision>
+</page>

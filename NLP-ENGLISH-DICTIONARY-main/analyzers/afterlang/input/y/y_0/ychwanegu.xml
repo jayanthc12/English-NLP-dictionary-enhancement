@@ -1,0 +1,37 @@
+<page>
+<title>ychwanegu</title>
+<ns>0</ns>
+<id>6508604</id>
+<revision>
+<id>61562568</id>
+<parentid>60822978</parentid>
+<timestamp>2021-01-14T23:47:28Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Welsh */ ety</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="546" xml:space="preserve">==Welsh==
+===Etymology===
+{{af|cy|ychwaneg|-u}}
+===Pronunciation===
+* {{a|cy-N}} {{IPA|cy|/ˌəχwaˈnɛɡɨ/}}
+* {{a|cy-S}} {{IPA|cy|/ˌəχwaˈneːɡi/|/əχwaˈnɛɡi/}}
+===Verb===
+{{cy-verb|ychwaneg}}
+# to [[add]], to [[augment]], to [[increase]]
+====Conjugation====
+{{cy-conj-cons|ychwaneg|3=-|imp=-}}
+{{cy-conj-colloquial|ychwaneg}}
+====Related terms====
+* {{l|cy|ychwanegedd||additionality}}
+* {{l|cy|ychwanegiad||addition, adjunct}}
+* {{l|cy|ychwanegol||additional, extra}}
+* {{l|cy|ychwanegyn||additive}}
+===Mutation===
+{{cy-mut}}</text>
+<sha1>hadr5w6t3321le6geupiuo6tq51xbma</sha1>
+</revision>
+</page>

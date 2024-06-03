@@ -1,0 +1,40 @@
+<page>
+<title>xenoarchaeology</title>
+<ns>0</ns>
+<id>324535</id>
+<revision>
+<id>69042942</id>
+<parentid>55386778</parentid>
+<timestamp>2022-09-03T03:57:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1108" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|archaeology}}
+===Pronunciation===
+* {{audio|en|en-uk-xenoarchaeology.ogg|Audio (UK)}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|science fiction}} A fictional [[science]], concerned with the physical remains of [[alien]] cultures. These may be found on [[planet]]s which have been inhabited or visited by [[extraterrestrial]]s.
+====Synonyms====
+* {{l|en|exoarchaeology}}
+====Translations====
+{{trans-top|science concerned with alien artifacts}}
+* Finnish: {{t|fi|ksenoarkeologia}}
+{{trans-mid}}
+* Khmer: {{t|km|ទេសបុរាណវិទ្យា|sc=Khmr|tr=teih bo’raan vityie}}
+{{trans-bottom}}
+===References===
+* ''[http://www.britarch.ac.uk/ba/ba11/ba11int.html Diggers at the final frontier]'', Charles Thomas, ''British Archaeology'', no. 11, Feb. 1996: Essay.
+* ''[http://www.britarch.ac.uk/ba/ba15/ba15lets.html Star Trek digging]'', Carolyne Kershaw, ''British Archaeology'', no. 15, Jun. 1996: Letters
+* [https://web.archive.org/web/20070103053232/http://www.xenoarchaeology.org/ Xenoarchaeology]
+[[Category:English terms suffixed with -ology]]</text>
+<sha1>0lw1is4evngiyc6xpjlyxnf5c3i8vv4</sha1>
+</revision>
+</page>

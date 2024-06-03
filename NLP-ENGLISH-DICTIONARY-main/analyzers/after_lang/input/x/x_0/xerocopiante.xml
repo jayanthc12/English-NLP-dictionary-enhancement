@@ -1,0 +1,23 @@
+<page>
+<title>xerocopiante</title>
+<ns>0</ns>
+<id>758050</id>
+<revision>
+<id>64912990</id>
+<parentid>55035714</parentid>
+<timestamp>2021-12-10T10:06:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Italian present participles (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="86" xml:space="preserve">==Italian==
+===Participle===
+{{it-presp}}
+# {{present participle of|it|xerocopiare}}</text>
+<sha1>g436xmmh9b7tke02ydrqihglr5r3edt</sha1>
+</revision>
+</page>

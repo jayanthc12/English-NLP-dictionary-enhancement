@@ -1,0 +1,31 @@
+<page>
+<title>Yeaton</title>
+<ns>0</ns>
+<id>6255132</id>
+<revision>
+<id>67769284</id>
+<parentid>67737383</parentid>
+<timestamp>2022-07-09T17:56:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="591" xml:space="preserve">==English==
+{{wp}}
+===Etymology===
+From {{der|en|ang|ēa||river, stream}} + {{m|ang|tūn||enclosure; settlement, town}}.
+===Proper noun===
+{{en-proper noun|~|Yeatons}}
+# {{place|en|village|par/Baschurch|co/Shropshire|cc/England}} {{q|[[OS]] grid ref SJ432194}}.
+# {{surname|en|[[habitational]]|from=Old English}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yeaton'' is the 21717&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1198 individuals. ''Yeaton'' is most common among White (91.82%) individuals.
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>n60jmeydwkq9vqcdn3t08y19wp63zg2</sha1>
+</revision>
+</page>

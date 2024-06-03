@@ -1,0 +1,32 @@
+<page>
+<title>yalvarmak</title>
+<ns>0</ns>
+<id>1568086</id>
+<revision>
+<id>69255813</id>
+<parentid>68195368</parentid>
+<timestamp>2022-09-14T11:19:08Z</timestamp>
+<contributor>
+<username>Rd1978</username>
+<id>3663272</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="534" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یالوارمق|tr=yalvarmak}}, a derivation of {{der|tr|trk-pro|*yāl-||to ask, require; to hire, lease; servant; envoy}}. 
+Cognate with {{cog|az|yalvarmaq}}, {{cog|kk|жалбару}}, {{cog|alt|јалбар-|t=to beg}}, {{cog|tyv|чалбарыыр}}.
+===Verb===
+{{head|tr|verb}}
+# to [[implore]], to [[beg]]
+#: {{coordinate terms|tr|yakarmak}}
+====Conjugation====
+{{tr-conj|yalvar|a|yalvarır|ı|d}}
+====Related terms====
+* {{l|tr|yalvaç}}
+====Further reading====
+* {{R:TDK}}</text>
+<sha1>au9v6bsmthvnfx89qtlqhogn1q5zqzp</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>Xenus</title>
+<ns>0</ns>
+<id>3071562</id>
+<revision>
+<id>58058076</id>
+<parentid>50188023</parentid>
+<timestamp>2019-11-24T21:55:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{rfelite}} to {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1081" xml:space="preserve">==Translingual==
+[[File:Xenus cinereus (Alnus).jpg|thumb]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Scolopacidae|the [[Terek sandpiper]] of north central Eurasia}}
+# {{taxon|genus|order|Pyrenulales|a [[fungus]]}}
+====Hypernyms====
+* {{sense|genus in Scolopacidae}} {{Scolopacidae Hypernyms}}
+* {{sense|genus in Pyrenulales}} {{Ascomycota Hypernyms}}; [[Pezizomycotina]]&amp;nbsp;- subphylum; [[Eurotiomycetes]]&amp;nbsp;- class; [[Chaetothyriomycetidae]]&amp;nbsp;- subclass; [[Pyrenulales]]&amp;nbsp;- order
+====Hyponyms====
+* {{sense|genus in Scolopacidae}} ''[[Xenus cinereus]]''&amp;nbsp;- sole accepted species
+* {{sense|genus in Pyrenulales}} {{taxlink|Xenus lithophylli|species|ver=180422}}&amp;nbsp;- sole accepted species
+===References===
+* {{pedia|Terek sandpiper}}
+* {{pedia|Pyrenulales}}
+* {{specieslite|Xenus (Scolopacidae)|''Xenus'' (Scolopacidae)}}
+* {{specieslite|Xenus (Pyrenulales)|''Xenus'' (Pyrenulales)}}
+* {{comcatlite|Xenus|i=1}}
+* {{comcatlite|Pyrenulales}}
+* {{R:MycoBank|26308|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>sgpjyw1vz412tve05ljw67axfszrlrg</sha1>
+</revision>
+</page>

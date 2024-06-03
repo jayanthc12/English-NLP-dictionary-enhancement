@@ -1,0 +1,25 @@
+<page>
+<title>xuclat</title>
+<ns>0</ns>
+<id>761318</id>
+<revision>
+<id>64460254</id>
+<parentid>54702823</parentid>
+<timestamp>2021-10-28T12:20:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|at|s=2}}
+===Verb===
+{{ca-past participle|xucla}}
+# {{ca-verb form of|t=past|m=ptc|xuclar}}</text>
+<sha1>0qvovp54c0kbld7nk42ogcae2gw46s2</sha1>
+</revision>
+</page>

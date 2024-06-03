@@ -1,0 +1,28 @@
+<page>
+<title>xiphisternum</title>
+<ns>0</ns>
+<id>1472770</id>
+<revision>
+<id>67291984</id>
+<parentid>64460208</parentid>
+<timestamp>2022-06-06T10:24:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="425" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{uder|en|grc|ξίφος||sword}} + {{cog|en|-i-}} (in place of the etymologically consistent {{m|en|-o-}}) + {{cog|en|sternum}}
+===Pronunciation===
+* {{rhymes|en|ɜː(ɹ)nəm|s=4}}
+===Noun===
+{{en-noun|xiphisterna|s}}
+# The [[xiphoid process]], a small [[cartilaginous]] [[extension]] to the lower part of the [[sternum]], usually [[ossify|ossified]] in the [[adult]] [[human]].</text>
+<sha1>16frgqplzcughr4vfgxo7k66k7cdocp</sha1>
+</revision>
+</page>

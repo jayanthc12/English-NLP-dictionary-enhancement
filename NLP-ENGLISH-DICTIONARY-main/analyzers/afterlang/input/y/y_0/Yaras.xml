@@ -1,0 +1,25 @@
+<page>
+<title>Yaras</title>
+<ns>0</ns>
+<id>7322081</id>
+<revision>
+<id>64063463</id>
+<parentid>62908916</parentid>
+<timestamp>2021-09-29T11:21:19Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Proper noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yara}}
+===Anagrams===
+* {{anagrams|en|a=aarsy|Rayas|Saray|rayas|yaars}}</text>
+<sha1>czxj3dlz4ilw79fq2xrgicsiaf2bbw2</sha1>
+</revision>
+</page>

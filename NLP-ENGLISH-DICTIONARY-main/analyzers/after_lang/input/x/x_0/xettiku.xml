@@ -1,0 +1,25 @@
+<page>
+<title>xettiku</title>
+<ns>0</ns>
+<id>2148239</id>
+<revision>
+<id>61147226</id>
+<parentid>59431491</parentid>
+<timestamp>2020-11-17T20:52:40Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>replaced ʊ with u in IPA transcription of Maltese</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Maltese==
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛtːɪku/}}
+===Adjective===
+{{mt-adjective|f=xettika|p=xettiċi}}
+# [[septic]]</text>
+<sha1>br6kmgb0zmf7kgml0ryuwqwhqrlaeqv</sha1>
+</revision>
+</page>

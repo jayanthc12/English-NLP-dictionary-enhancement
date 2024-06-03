@@ -1,0 +1,151 @@
+<page>
+<title>xerox</title>
+<ns>0</ns>
+<id>4550</id>
+<revision>
+<id>69486602</id>
+<parentid>69470792</parentid>
+<timestamp>2022-10-10T00:03:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4921" xml:space="preserve">{{also|Xerox}}
+==English==
+===Alternative forms===
+* {{l|en|Xerox}}
+===Etymology===
+From {{m|en|Xerox||a photocopier}} (originally a trademark), from {{m|en|xerography}}, from {{uder|en|grc|ξηρός||dry}} and {{m|grc|γραφή||writing}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzɛ.ɹɒks/}}
+*: {{hyphenation|en|xe|rox}}
+* {{a|US}} {{IPA|en|/ˈziː(ə)ɹ.ɑks/}}
+* {{audio|en|En-au-xerox.ogg|Audio (AU)}}
+*: {{hyphenation|en|xer|ox}}
+* {{a|Philippines}} {{IPA|en|/ˈseɾoks/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|dated in North America|Philippines|colloquial|informal}} A [[photocopy]].
+#: {{ux|en|Hand me that '''xerox''', would you?}}
+# {{lb|en|dated|North America|colloquial|informal}} A [[photocopier]].
+#: {{ux|en|The '''xerox''' broke down yesterday.}}
+====Synonyms====
+* {{l|en|photocopy}}
+* {{l|en|xerox copy}}
+====Derived terms====
+{{col3|en|xerocracy|xerox copy|xeroxable|xeroxer|xeroxlore|xerox machine}}
+===Verb===
+{{en-verb}}
+# {{lb|en|dated|North America|Philippines|colloquial|informal}} To make a paper [[copy]] or copies by means of a [[photocopier]].
+#: {{ux|en|I '''xeroxed''' the report for all the people at the meeting.}}
+====Synonyms====
+* {{sense|make a paper copy}} {{l|en|copy}}, {{l|en|photocopy}}
+====Derived terms====
+* {{l|en|xeroxer}}
+* {{l|en|xeroxable}}
+====Translations====
+{{trans-top|to make photocopies}}
+* Bulgarian: {{t+|bg|копи́рам|impf|pf}}
+* Catalan: {{t+|ca|fotocopiar}}
+* Cebuano: {{t|ceb|seroks}}
+* Chinese:
+*: Mandarin: {{t+|cmn|複印|sc=Hani}}, {{t+|cmn|复印|tr=fùyìn|sc=Hani}}
+* Dutch: {{t+|nl|fotokopiëren}}, {{t+|nl|kopiëren}}
+* Esperanto: {{t|eo|fotokopii}}
+* Finnish: {{t+|fi|kopioida}}
+* German: {{t+|de|fotokopieren}}
+* Hungarian: {{t|hu|xeroxozik}}
+* Interlingua: {{t|ia|photocopiar}}, {{t|ia|xeroxar}}
+* Irish: {{t|ga|fótachóipeáil}}
+* Italian: {{t+|it|fotocopiare}}, {{t|it|xerocopiare}}
+{{trans-mid}}
+* Japanese: {{t+|ja|複写|tr=fukusha suru|alt=複写する}}, {{t+|ja|コピー|tr=kopī suru|alt=コピーする}}, {{t|ja|ゼロックス|tr=zerokkusu suru|alt=ゼロックスする}} {{qualifier|slang}}
+* Polish: {{t+|pl|kserować|impf}}, {{t|pl|skserować|pf}}
+* Portuguese: {{t+|pt|fotocopiar}}, {{t+|pt|xerocar}}
+* Romanian: {{t+|ro|xeroxa}}
+* Russian: {{t+|ru|ксерокопи́ровать|impf}}, {{t+|ru|отксерокопи́ровать|pf}}, {{t+|ru|фотокопи́ровать|impf}}, {{t|ru|отфотокопи́ровать|pf}}, {{t+|ru|ксе́рить|impf}}, {{t+|ru|отксе́рить|pf}}
+* Slovak: {{t|sk|xeroxovať}}, {{t|sk|kopírovať}}, {{t|sk|fotiť}}
+* Slovene: {{t|sl|fotokopirati}}
+* Spanish: {{t+|es|fotocopiar}}
+* Swedish: {{t+|sv|ranka}}, {{t+|sv|kopiera}}, {{t|sv|fotokopiera}}, {{t|sv|stencilera}}
+* Tagalog: {{t+|tl|seroks}}, {{t|tl|iseroks}}
+{{trans-bottom}}
+===See also===
+* [[w:Xerox#Trademark|Wikipedia article concerning Xerox trademark]]
+[[Category:English genericized trademarks]]
+----
+==Hungarian==
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|rox}}
+* {{rhymes|hu|oks|s=2}}
+===Noun===
+{{hu-noun|ok}}
+# {{l|en|photocopy}}; {{l|en|xerox}} {{gloss|copy of a document made using a photocopier}}
+====Declension====
+{{hu-infl-nom|xeroxo|o|v=sz}}{{hu-pos-otok|xerox||ai}}
+====Derived terms====
+{{der-top}}
+* {{l|hu|xeroxgép}}
+* {{l|hu|xeroxmásolat}}
+{{der-mid}}
+* {{l|hu|xeroxol}}
+* {{l|hu|xeroxozik}}
+{{der-bottom}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|xérox}}
+===Etymology===
+Borrowed from {{bor|pt|en|Xerox}}.
+===Pronunciation===
+{{pt-IPA|br=xérọx,xẹróx}}
+===Noun===
+{{pt-noun|m|+|pl2=#es}}
+# [[photocopy]]; {{l|en|xerox}} {{gloss|copy of a document made using a photocopier}}
+# [[photocopier]]; [[copier]] {{gloss|machine which makes copies of paper documents}}
+# a shop where [[photocopying]] and related services are offered
+====Synonyms====
+* {{sense|photocopy}} {{l|pt|fotocópia}}
+* {{sense|photocopier}} {{l|pt|fotocopiadora}}
+{{cln|pt|genericized trademarks}}
+{{cln|pt|terms with varying stress}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|en|Xerox||a photocopier}} (originally a trademark), from {{m|en|xerography}}, from {{der|ro|grc|ξηρός||dry}} and {{m|grc|γραφή||writing}}.
+===Noun===
+{{ro-noun|n|xeroxuri}}
+# [[photocopier]]
+#: {{syn|ro|copiator}}
+====Declension====
+{{ro-noun-n}}
+====Derived terms====
+* {{l|ro|xeroxa}}
+[[Category:Romanian genericized trademarks]]
+----
+==Tagalog==
+===Alternative forms===
+* {{alter|tl|seroks}}
+* {{alter|tl|zerox}}
+===Etymology===
+Borrowed from {{bor|tl|en|xerox}}, a {{glossary|genericized trademark}} from the company, {{w|Xerox}}.
+===Pronunciation===
+* {{hyph|tl|xe|rox}}
+* {{tl-IPA|zéroks}}
+===Noun===
+{{tl-noun}}
+# [[xerography]]
+# a [[photocopy]]
+====Derived terms====
+{{der3|tl|magpaxerox|tagaxerox|magxerox|pagxerox|pagkaxerox|ipaxerox}}
+===Further reading===
+* {{R:KWF Diksiyonaryo}}
+[[Category:Tagalog genericized trademarks]]</text>
+<sha1>4hlvw2qz5u9k1ltyyn2vt7lgzsww17h</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Yeltons</title>
+<ns>0</ns>
+<id>6148391</id>
+<revision>
+<id>62909074</id>
+<parentid>56133712</parentid>
+<timestamp>2021-06-18T04:30:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>proper noun plural form -&gt; proper noun form for English plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yelton}}
+===Anagrams===
+* {{anagrams|en|a=elnosty|Snotley|soylent}}</text>
+<sha1>9x8dgfkahvj5a6osr9dwptptwqoa7so</sha1>
+</revision>
+</page>

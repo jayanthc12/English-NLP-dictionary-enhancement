@@ -1,0 +1,30 @@
+<page>
+<title>xellug</title>
+<ns>0</ns>
+<id>6886697</id>
+<revision>
+<id>58704912</id>
+<parentid>58702885</parentid>
+<timestamp>2020-02-17T02:28:56Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<comment>Replace mt-noun-n with mt-noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="937" xml:space="preserve">==Maltese==
+===Etymology===
+Uncertain. Seemingly from Maghrebi {{inh|mt|ar|شَلُوق|t=southeastern wind, [[scirocco]]}}, whence also—perhaps through Romance influence—{{m+|mt|xlokk|t=scirocco}}. The Arabic word itself is said to be of {{der|mt|ber|-}} origin and this may explain the final ''-g'' (as there does not appear to be any case of Arabic ''q'' becoming ''g'' in Maltese). The sense “left” then from “east” as the left side when facing the sun at noon. Here the question poses itself whether there is any relation between {{m|ar|شَلُوق}} and native {{m+|ar|شَرْق|t=east}}. Furthermore it must be noted that Arabic has {{m|ar|شِمال|t=left}} from {{m|ar|شَمال|t=north}}, thus based on the position at sunrise rather than noon.
+===Pronunciation===
+* {{IPA|mt|/ʃɛlˈluːk/}}
+===Noun===
+{{mt-noun|g=m}}
+# [[left]] side, the left
+#: {{ant|mt|lemin}}
+====Derived terms====
+* {{l|mt|xellugi}}</text>
+<sha1>c3px71rh5s5tgfc23v9vf9uh3vp5u3p</sha1>
+</revision>
+</page>

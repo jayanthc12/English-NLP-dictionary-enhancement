@@ -1,0 +1,30 @@
+<page>
+<title>yeds</title>
+<ns>0</ns>
+<id>4479497</id>
+<revision>
+<id>64603513</id>
+<parentid>64603417</parentid>
+<timestamp>2021-11-08T19:43:41Z</timestamp>
+<contributor>
+<username>Robbie SWE</username>
+<id>24343</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/150.176.146.125|150.176.146.125]]. If you think this rollback is in error, please leave a message on my talk page.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yed}}
+===Anagrams===
+* {{anagrams|en|a=desy|Dyes|Syed|deys|dyes}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|yed}}</text>
+<sha1>s9kr5plfl81l70u52tlostvupwltv9m</sha1>
+</revision>
+</page>

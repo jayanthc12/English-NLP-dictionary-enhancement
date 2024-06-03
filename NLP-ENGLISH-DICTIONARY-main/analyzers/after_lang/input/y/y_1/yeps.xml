@@ -1,0 +1,25 @@
+<page>
+<title>yeps</title>
+<ns>0</ns>
+<id>1660923</id>
+<revision>
+<id>61062482</id>
+<parentid>58159848</parentid>
+<timestamp>2020-11-08T00:58:03Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{lb|en|informal}} {{plural of|en|yep}}
+===Anagrams===
+* {{anagrams|en|a=epsy|Espy|Pyes|Spey|espy|pyes|spye}}</text>
+<sha1>2vnh6u2l3uszeopsoszx2535gia7bq1</sha1>
+</revision>
+</page>

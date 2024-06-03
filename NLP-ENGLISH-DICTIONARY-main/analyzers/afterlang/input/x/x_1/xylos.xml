@@ -1,0 +1,30 @@
+<page>
+<title>xylos</title>
+<ns>0</ns>
+<id>2118128</id>
+<revision>
+<id>62863234</id>
+<parentid>55838595</parentid>
+<timestamp>2021-06-17T07:23:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="202" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylo}}
+===Anagrams===
+* {{anagrams|en|a=losxy|oxyls}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|xylo}}</text>
+<sha1>05wd3tkd1sdf5066fbz0xlgooolah87</sha1>
+</revision>
+</page>

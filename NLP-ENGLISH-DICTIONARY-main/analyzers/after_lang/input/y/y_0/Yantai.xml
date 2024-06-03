@@ -1,0 +1,58 @@
+<page>
+<title>Yantai</title>
+<ns>0</ns>
+<id>1531210</id>
+<revision>
+<id>67925733</id>
+<parentid>66679182</parentid>
+<timestamp>2022-07-13T00:09:38Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>{{bor|en|cmn-pinyin|-}} Basis: different from Gwoyeu Romatzyh: Iantair Wade–Giles: Yen1-tʻai2; ===Pronunciation=== {{rfp|en}}; 2022 article</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1805" xml:space="preserve">{{also|yantai|yàntai|yàntái|Yāntái}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Yen-tai}}, {{l|en|Yen-t’ai}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{der|en|zh|煙臺|t=[[smoke]] [[tower]]}}, from a Ming-era signal tower on Mount Qi.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|coastal prefecture-level city|in northeastern|p/Shandong|c/China}}.
+#* {{quote-web
+|en
+|date=May 12, 2022
+|title=Yantai, a Fairyland in the Spring Breeze
+|archiveurl=https://web.archive.org/web/20220713000731/https://efecomunica.efe.com/en/yantai-a-fairyland-in-the-spring-breeze/
+|archivedate=13 July 2022
+|work={{w|EFE}}
+|text=It’s the time of early spring in '''Yantai''', the central city on the Shandong Peninsula. The trees are quietly stretching new branches and sprouting fresh green buds, spreading out the turquoise of cyan on the piece of the land.}}
+# {{lb|en|historical}} [[Zhifu]], {{place|en|a=a|former village|in northeastern|p/Shandong|c/China}}, which [[grew]] into [[modern]] Yantai.
+# {{place|en|village|township:pref/Haidao|county:Suf/Xiapu|in the|preflcity:pref/Ningde|p/Fujian|c/China}}.
+====Synonyms====
+* {{s|coastal city in Shandong, China}} {{q|dated}} {{l|en|Chefoo}}
+====Translations====
+{{trans-top|a city of China}}
+* Arabic: {{t|ar|يَانْتَاي|m|tr=yantay}}
+* Chinese:
+*: Mandarin: {{t+|cmn|煙臺}} or {{t+|cmn|煙台}}, {{t+|cmn|烟台|tr=Yāntái}}
+* Hungarian: {{t|hu|Jentaj}}
+{{trans-mid}}
+* Japanese: {{t|ja|煙台|tr=えんたい, Entai}}
+* Korean: {{t|ko|^연태}}
+* Macedonian: {{t|mk|Ја́нтај|m}}
+* Russian: {{t|ru|Яньта́й|m}}
+* Vietnamese: {{t|vi|Yên Đài}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aainty|anitya}}</text>
+<sha1>9jivm6e8wu37lv0nuj4b5yn28tnsa63</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yffiniacaises</title>
+<ns>0</ns>
+<id>6369684</id>
+<revision>
+<id>55435864</id>
+<parentid>48545802</parentid>
+<timestamp>2019-10-15T00:54:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">==French==
+===Adjective===
+{{head|fr|adjective form}}
+# {{feminine plural of|fr|yffiniacais}}</text>
+<sha1>gnamnqacrn7wcbo4690fvcrcgcrjoea</sha1>
+</revision>
+</page>

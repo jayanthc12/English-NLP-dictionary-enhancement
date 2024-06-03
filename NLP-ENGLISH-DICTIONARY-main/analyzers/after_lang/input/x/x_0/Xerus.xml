@@ -1,0 +1,32 @@
+<page>
+<title>Xerus</title>
+<ns>0</ns>
+<id>4921534</id>
+<revision>
+<id>69546877</id>
+<parentid>63794608</parentid>
+<timestamp>2022-10-19T13:00:38Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="815" xml:space="preserve">==Translingual==
+[[File:Xerus inauris.jpg|right|thumb|{{taxlink|Xerus inauris|species}}]]
+===Etymology===
+[‹ NL (1833), appar. ‹ Gk xērós dry, perhaps in reference to its rough fur]
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Sciuridae|{{vern|African ground squirrel|pl=s}}}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xerus erythropus|species}} ({{vern|striped ground squirrel}}), {{taxlink|Xerus inauris|species}} ({{vern|Cape ground squirrel}}), {{taxlink|Xerus princeps|species}} ({{vern|mountain ground squirrel}}), {{taxlink|Xerus rutilus|species}} ({{vern|unstriped ground squirrel}}) {{qualifier|species}}
+** †{{taxlink|Xerus daamsi|species}} {{qualifier|extinct species}}
+===Further reading===
+* {{pedia|African ground squirrel}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}</text>
+<sha1>8pcuuf9wmfm0ue2ae55yaf80m4awm7i</sha1>
+</revision>
+</page>

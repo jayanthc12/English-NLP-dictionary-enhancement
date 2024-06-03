@@ -1,0 +1,77 @@
+<page>
+<title>xenofob</title>
+<ns>0</ns>
+<id>1916708</id>
+<revision>
+<id>67490907</id>
+<parentid>64079195</parentid>
+<timestamp>2022-06-21T19:33:24Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1233" xml:space="preserve">{{also|xenòfob}}
+==Czech==
+===Pronunciation===
+* {{cs-IPA}}
+===Noun===
+{{cs-noun|g=m}}
+# [[xenophobe]]
+====Declension====
+{{cs-decl-noun|xenofob|xenofoba|xenofobovi|ds2=xenofobu|xenofoba|xenofobe|xenofobovi|ls2=xenofobu|xenofobem|xenofobové|xenofobů|xenofobům|xenofoby|xenofobové|xenofobech|xenofoby}}
+====Derived terms====
+* {{l|cs|xenofobka}}
+====Related terms====
+* {{l|cs|xenofobie|g=f}}
+* {{l|cs|xenofobický}}
+===Further reading===
+* {{R:PSJC}}
+* {{R:ASCS}}
+----
+==Danish==
+===Noun===
+{{da-noun|en|er}}
+# [[xenophobe]]
+====Declension====
+{{da-decl|en|er}}
+====Related terms====
+* {{l|da|xenofobi}}
+* {{l|da|xenofobisk}}
+===Further reading===
+* {{R:DDO}}
+* {{R:ODS online}}
+----
+==Romanian==
+===Etymology===
+Borrowed from {{bor|ro|fr|xénophobe}}.
+===Noun===
+{{ro-noun|m|xenofobi|f=xenofobă}}
+# [[xenophobe]]
+====Declension====
+{{ro-noun-m}}
+===Adjective===
+{{ro-adj}}
+# [[xenophobic]]
+====Declension====
+{{ro-decl-adj}}
+====Related terms====
+* {{l|ro|xenofobie}}
+----
+==Swedish==
+===Noun===
+{{sv-noun|c}}
+# [[xenophobe]]
+====Declension====
+{{sv-infl-noun-c-er}}
+====Related terms====
+* {{l|sv|xenofobi}}
+* {{l|sv|xenofobisk}}
+===Further reading===
+* {{R:svenska.se|saol}}
+{{top|sv|People}}</text>
+<sha1>mhig2r90nqd715zc9sqrww3b48m5wxs</sha1>
+</revision>
+</page>

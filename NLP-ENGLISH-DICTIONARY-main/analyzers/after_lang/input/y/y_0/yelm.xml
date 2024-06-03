@@ -1,0 +1,52 @@
+<page>
+<title>yelm</title>
+<ns>0</ns>
+<id>55696</id>
+<revision>
+<id>69203690</id>
+<parentid>67604059</parentid>
+<timestamp>2022-09-11T01:51:05Z</timestamp>
+<contributor>
+<username>Hazarasp</username>
+<id>3219301</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1662" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|yealm}}
+===Etymology===
+From {{inh|en|enm|yelm}}, from {{inh|en|ang|ġilm}}, {{m|ang|ġelm|t=handful}}, from {{inh|en|gmw-pro|*galmi}}, possibly ultimately from {{der|en|ine-pro|*ǵʰelh₃-|t=to flourish}}.
+===Pronunciation===
+* {{IPA|en|/jɛlm/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yealm.wav|Audio (Southern England)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|dialect}} A [[bundle]] of [[straw]] for [[thatch]]ing.
+#* '''1952''', {{w|Louis Francis Salzman}}, ''Building in England'', p. 224:
+#*: The thatcher then laid the ''' 'yelms' ''', or bunches of drawn straw, on the laths, beginning at the eaves and working up towards the ridge.
+===Verb===
+{{en-verb}}
+# {{lb|en|dialect}} To [[prepare]] [[straw]] for use as [[thatch]].
+#* '''1952''', {{w|Louis Francis Salzman}}, ''Building in England'', p. 224:
+#*: The preparation of straw for thatch, which was known as ''' 'yelming' ''', consisted in damping it and 'drawing' it with a thatching-fork, or great comb, so as to get the straws parallel.
+===Anagrams===
+* {{anagrams|en|a=elmy|Emly|Lyme|elmy|lyme|myel-|ylem}}
+----
+==Middle English==
+===Etymology===
+{{inh+|enm|ang|ġilm}}, {{m|ang|ġelm|t=handful}}, from {{inh|enm|gmw-pro|*galmi}}, possibly ultimately from {{der|enm|ine-pro|*ǵʰelh₃-|t=to flourish}}.
+===Pronunciation===
+* {{IPA|enm|/jɛlm/}}
+===Noun===
+{{enm-noun|yelmes}}
+# {{tlb|enm|hapax}} {{l|en|yelm}}, [[yealm]] {{gloss|[[sheaf]] of [[straw]] for [[thatch]]ing}}
+====Descendants====
+* {{desc|en|yelm|yealm}}
+====References====
+* {{R:MED Online|entry=yelm|pos=n|id=MED53810}}
+[[Category:enm:Construction]]
+[[Category:enm:Grains]]</text>
+<sha1>pcu1r04ijp6c0znf4i6y8ybxz0488c5</sha1>
+</revision>
+</page>

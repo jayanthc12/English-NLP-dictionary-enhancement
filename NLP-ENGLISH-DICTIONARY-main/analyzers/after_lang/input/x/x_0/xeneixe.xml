@@ -1,0 +1,25 @@
+<page>
+<title>xeneixe</title>
+<ns>0</ns>
+<id>5059660</id>
+<revision>
+<id>54401867</id>
+<parentid>51578348</parentid>
+<timestamp>2019-09-29T08:11:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}; move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="390" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|m}}
+# {{alternative form of|es|xeneize}}
+#* {{quote-journal|es|date=July 14, 2015|author=|title=La Bombombera abraza al ‘jugador del pueblo’|work=El País|url=http://deportes.elpais.com/deportes/2015/07/14/actualidad/1436840153_976934.html
+|passage=Su desafío en 2015 será ganar una liga que le es esquiva al '''xeneixe''' desde hace cuatro años.}}</text>
+<sha1>5u22duxx5ahnyumk1boypouythkkp92</sha1>
+</revision>
+</page>

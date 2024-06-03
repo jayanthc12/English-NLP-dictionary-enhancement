@@ -1,0 +1,23 @@
+<page>
+<title>xantini</title>
+<ns>0</ns>
+<id>1921136</id>
+<revision>
+<id>55797277</id>
+<parentid>52444991</parentid>
+<timestamp>2019-10-16T03:17:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="69" xml:space="preserve">==Ido==
+===Noun===
+{{head|io|noun form}}
+# {{plural of|io|xantino}}</text>
+<sha1>h3to99jgizoj5b2ua0asfs6plu0273h</sha1>
+</revision>
+</page>

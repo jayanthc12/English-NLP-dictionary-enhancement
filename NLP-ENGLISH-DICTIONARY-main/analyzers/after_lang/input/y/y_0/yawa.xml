@@ -1,0 +1,72 @@
+<page>
+<title>yawa</title>
+<ns>0</ns>
+<id>1399706</id>
+<revision>
+<id>68790781</id>
+<parentid>68416685</parentid>
+<timestamp>2022-08-27T13:26:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1362" xml:space="preserve">{{also|yaŵa}}
+==Cebuano==
+===Etymology===
+Akin to {{cog|hil|yawa}}.
+===Pronunciation===
+* {{hyph|ceb|ya|wa}}
+* {{a|General Cebuano}} {{ceb-IPA|yawà}}
+* {{a|Boholano|Southern Leyte}} {{ceb-IPA|jawà}}
+===Noun===
+{{ceb-noun|yawà}}
+# {{lb|ceb|theology}} [[devil]]
+#: {{syn|ceb|diyablo}}
+# {{lb|ceb|theology}} [[Devil]]
+#: {{syn|ceb|diyablo}}
+# [[imp]]
+# {{lb|ceb|religion}} [[evil]] entity
+# {{lb|ceb|religion}} [[malevolence]]; [[wickedness]]
+===Adjective===
+{{ceb-adj|yawà}}
+# [[evil]]; [[wicked]]
+# [[barbaric]]; [[savage]]
+===Interjection===
+{{head|ceb|interjection|head=yawà!}}
+# {{lb|ceb|vulgar}} {{n-g|Term of abuse}}
+====Derived terms====
+* {{l|ceb|mayawaan}}
+* {{l|ceb|yawan-on}}
+===Anagrams===
+* {{anagrams|ceb|away|ayaw}}
+----
+==Chamicuro==
+===Noun===
+{{head|ccc|noun}}
+# [[point]]; [[tip]]
+----
+==Hiligaynon==
+===Etymology===
+Compare {{cog|ceb|yawa}}. From ''Nagmalitong Yawa Sinagmaling Diwata'', a goddess in the Suludnon epic Hinilawod, according to F. Landa Jocano.
+===Noun===
+{{hil-noun|yawà}}
+# [[devil]]; [[evil]] [[spirit]]; [[demon]]
+===Interjection===
+{{head|hil|interjection|head=yawà!}}
+# {{lb|hil|vulgar}} {{n-g|Term of abuse}}
+====Derived terms====
+* {{l|hil|yawan-on}}
+===References===
+* {{R:Kaufmann 1934|538}}
+----
+==Masbatenyo==
+===Noun===
+{{head|msb|noun}}
+# [[devil]]; [[evil]] [[spirit]]; [[demon]]</text>
+<sha1>6wtku276rcpq83dnjddv1z1i5l86oz9</sha1>
+</revision>
+</page>

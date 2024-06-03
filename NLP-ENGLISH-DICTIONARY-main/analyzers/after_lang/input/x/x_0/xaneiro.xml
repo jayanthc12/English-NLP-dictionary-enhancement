@@ -1,0 +1,38 @@
+<page>
+<title>xaneiro</title>
+<ns>0</ns>
+<id>1586381</id>
+<revision>
+<id>68862076</id>
+<parentid>68861399</parentid>
+<timestamp>2022-08-28T05:11:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="542" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xeneiro|xineiro}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|janeiro}}, {{m|roa-opt|janeyro}}, from {{inh|gl|VL.||*jann(u)arius}}, {{m|la|jenuarius}}, from {{inh|gl|la|iānuārius}}.
+===Pronunciation===
+* {{IPA|gl|[ʃaˈnejɾʊ]}}
+* {{audio|gl|gl-xaneiro.ogg|(Audio)}}
+===Noun===
+{{gl-noun|m}}
+# [[January]]
+====See also====
+* {{list:Gregorian calendar months/gl}}
+===References===
+* {{R:gl:DDGM|janeyro}}
+* {{R:gl:CX|janeyro}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>s923povst41pc7jeiks5fe0x5awck2t</sha1>
+</revision>
+</page>

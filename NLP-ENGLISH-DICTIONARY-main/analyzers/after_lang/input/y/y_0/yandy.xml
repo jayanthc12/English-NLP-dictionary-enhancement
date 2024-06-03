@@ -1,0 +1,29 @@
+<page>
+<title>yandy</title>
+<ns>0</ns>
+<id>2237007</id>
+<revision>
+<id>68978562</id>
+<parentid>61018971</parentid>
+<timestamp>2022-08-29T10:43:19Z</timestamp>
+<contributor>
+<username>TarkFrench</username>
+<id>3824316</id>
+</contributor>
+<comment>/* Etymology */ Added etymology (Etymology taken from https://en.wikipedia.org/wiki/Yinjibarndi_language#Influence_on_other_languages)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="328" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|yij|yandy}}.
+===Pronunciation===
+* {{audio|en|en-au-yandy.ogg|Audio (AU)}}
+===Verb===
+{{en-verb}}
+# {{lb|en|Australia}} To [[separate]] (grain or pieces of mineral) by shaking in a special shallow [[dish]]
+===Noun===
+{{en-noun}}
+# {{lb|en|Australia}} The dish used in this process</text>
+<sha1>n9591r7oz135hkps5af8qc2hjxwkv5l</sha1>
+</revision>
+</page>

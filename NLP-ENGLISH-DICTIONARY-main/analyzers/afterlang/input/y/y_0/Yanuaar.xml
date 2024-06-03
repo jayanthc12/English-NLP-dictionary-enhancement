@@ -1,0 +1,31 @@
+<page>
+<title>Yanuaar</title>
+<ns>0</ns>
+<id>6455233</id>
+<revision>
+<id>51597195</id>
+<parentid>50273728</parentid>
+<timestamp>2019-02-23T07:26:55Z</timestamp>
+<contributor>
+<username>Erutuon</username>
+<id>156858</id>
+</contributor>
+<minor />
+<comment>header correction: Related Terms → Related terms (via JWB)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="528" xml:space="preserve">==Pennsylvania German==
+===Alternative forms===
+* {{l|pdc|Yenner}}
+===Etymology===
+Compare {{cog|de|Januar}}.
+===Noun===
+{{head|pdc|noun|g=m}}
+# [[January]] {{gloss|month}}
+====Related terms====
+Calendar months: Yanuaar/{{l|pdc|Yenner}}, {{l|pdc|Febrewaar}}/{{l|pdc|Hanning}}, {{l|pdc|Matz}}, {{l|pdc|Aprill}}, {{l|pdc|Moi}}, {{l|pdc|Yuni}}, {{l|pdc|Yuli}}/{{l|pdc|Tschulei}}, {{l|pdc|Aaguscht}}, {{l|pdc|Sepdember}}, {{l|pdc|Oktower}},
+{{l|pdc|Nowember}}, {{l|pdc|Dezember}}/{{l|pdc|Grischtmunet}}
+[[Category:pdc:Months]]</text>
+<sha1>1y6tw4ee8mwxl05vc9nnx7do8evyfpf</sha1>
+</revision>
+</page>

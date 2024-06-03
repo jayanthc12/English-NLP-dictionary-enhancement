@@ -1,0 +1,45 @@
+<page>
+<title>yeld</title>
+<ns>0</ns>
+<id>3404310</id>
+<revision>
+<id>66237983</id>
+<parentid>61274893</parentid>
+<timestamp>2022-03-26T17:19:52Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>==English==  ===Adjective=== {{en-adj|-}}  # [[barren]], not [[pregnant]], not giving [[milk]] #* '''1985''', ''The Parliamentary Debates (Hansard), Official Report, 5th Series'' (page 227) #*: With regard to the '''yeld''' ewes, untupped, may I ask the Minister what this means?</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1319" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# [[barren]], not [[pregnant]], not giving [[milk]]
+#* '''1985''', ''The Parliamentary Debates (Hansard), Official Report, 5th Series'' (page 227)
+#*: With regard to the '''yeld''' ewes, untupped, may I ask the Minister what this means?
+----
+==Scots==
+===Alternative forms===
+* {{alter|sco|yelde|yeild|geld|ȝelde|ȝeld|ȝeild}}
+===Etymology===
+From {{inh|sco|enm|yeld}}, from {{inh|sco|ang|ġelde|t=barren, unproductive}}, probably borrowed from {{der|sco|non|geldr|t=barren, yielding no milk}}, from {{der|sco|gem-pro|*galdaz}}, {{m|gem-pro|*galdijaz|t=barren, unfruitful}}, from {{der|sco|ine-pro|*gʰel-|t=to shout, cry}}. Related to {{cog|sv|gall|t=barren}}, {{cog|de|galt}}, {{m|de|gelt|t=yielding no milk, unfruitful}}, {{cog|non|gelda|t=to castrate}}.
+===Pronunciation===
+* {{IPA|sco|[jɛl(d)]|[(j)il(d)]}}
+===Adjective===
+{{sco-adj}}
+# [[barren]], not [[pregnant]], not giving [[milk]]
+# {{qualifier|of inanimate things}} not [[fertile]], [[unproductive]], [[ineffectual]], lacking in [[substance]] or [[value]], [[unprofitable]]
+====Descendants====
+* {{desc|en|yell}}
+===Noun===
+{{sco-noun}}
+# barren [[ewe]] or [[cow]], etc.
+===Verb===
+{{sco-verb}}
+# to [[cease]] to [[milk]] a pregnant cow when the flow stops before calving
+[[Category:sco:Livestock]]</text>
+<sha1>ptxl8wameszk2z35zm6gko0cbbpnou8</sha1>
+</revision>
+</page>

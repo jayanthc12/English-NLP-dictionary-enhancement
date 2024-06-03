@@ -1,0 +1,32 @@
+<page>
+<title>yacare</title>
+<ns>0</ns>
+<id>3054999</id>
+<revision>
+<id>67294439</id>
+<parentid>53336424</parentid>
+<timestamp>2022-06-06T11:11:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|pt}}; absorb {{etyl|...}} {{m|...}} into {{uder|en|tpw}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="499" xml:space="preserve">{{also|yacaré}}
+==English==
+===Alternative forms===
+* {{l|en|jacare}}
+* {{l|en|yakare}}
+===Etymology===
+{{uder|en|pt|jacaré}}, from {{uder|en|tpw|îakaré}}.
+===Noun===
+{{en-noun}}
+# A [[caiman]]; a kind of [[alligator]].
+#* '''1859''', ''Cassell's popular natural history'' (page 24)
+#*: The '''yacare''' is not found farther south than the 32nd degree of south latitude. In its habit completely aquatic; and is never found excepting in the water or on the bank.
+[[Category:en:Crocodilians]]</text>
+<sha1>sun8bjqmdr2i01hq9a8rsk3dkajqhje</sha1>
+</revision>
+</page>

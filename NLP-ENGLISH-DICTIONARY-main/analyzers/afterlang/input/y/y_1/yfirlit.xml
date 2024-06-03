@@ -1,0 +1,36 @@
+<page>
+<title>yfirlit</title>
+<ns>0</ns>
+<id>1960083</id>
+<revision>
+<id>66378020</id>
+<parentid>66356139</parentid>
+<timestamp>2022-04-08T09:08:37Z</timestamp>
+<contributor>
+<username>Hvergi</username>
+<id>3867107</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="667" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{m|is|líta yfir||to look through, to look over}}.
+===Pronunciation===
+* {{IPA|is|/ˈɪːvɪrˌlɪːt/}}
+===Noun===
+{{is-noun|n|yfirlits|yfirlit}}
+# [[summary]], [[overview]]
+# [[view]], [[scenery]]
+# a person's general [[appearance]] (describing the face)
+#: {{uxi|is|dökkur '''yfirlitum'''|with dark '''features''' (i.e. dark hair and dark eybrows)}}
+#: {{uxi|is|ljós '''yfirlitum'''|with blond hair and blond eybrows}}
+#: {{uxi|is|Hún var glaðleg '''yfirlitum'''.|She '''appeared''' quite happy.}}
+#: {{syn|is|yfirbragð}}
+====Declension====
+{{is-decl-noun-n-s|yfirl|i|t}}
+====Derived terms====
+* {{l|is|efnisyfirlit}}</text>
+<sha1>n0vjn7d9pqn27llptc5f5rh0xzwh8fs</sha1>
+</revision>
+</page>

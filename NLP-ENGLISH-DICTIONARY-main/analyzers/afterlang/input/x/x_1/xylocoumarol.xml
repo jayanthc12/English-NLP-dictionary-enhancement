@@ -1,0 +1,24 @@
+<page>
+<title>xylocoumarol</title>
+<ns>0</ns>
+<id>2193817</id>
+<revision>
+<id>69048095</id>
+<parentid>65314679</parentid>
+<timestamp>2022-09-03T05:11:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pharmaceutical drug}} A particular [[coumarin]] [[anticoagulant]].
+[[Category:English terms suffixed with -arol]]</text>
+<sha1>sm0px726ouz6qo0vq2o57wzznqpw6bl</sha1>
+</revision>
+</page>

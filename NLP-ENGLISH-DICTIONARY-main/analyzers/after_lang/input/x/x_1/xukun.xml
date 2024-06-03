@@ -1,0 +1,26 @@
+<page>
+<title>xukun</title>
+<ns>0</ns>
+<id>5185090</id>
+<revision>
+<id>69037606</id>
+<parentid>44381949</parentid>
+<timestamp>2022-09-02T13:17:18Z</timestamp>
+<contributor>
+<username>Xbypass</username>
+<id>289057</id>
+</contributor>
+<minor />
+<comment>/* Verb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==Somali==
+===Etymology===
+{{root|so|ar|ح ك م}}
+From {{der|so|ar|حُكْم}}.
+===Verb===
+{{head|so|verb}}
+# to [[judge]]</text>
+<sha1>jtrks86j5bxwgpew2bn0ziwmk8x20iw</sha1>
+</revision>
+</page>

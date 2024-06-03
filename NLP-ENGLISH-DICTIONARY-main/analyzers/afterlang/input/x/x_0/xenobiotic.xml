@@ -1,0 +1,49 @@
+<page>
+<title>xenobiotic</title>
+<ns>0</ns>
+<id>76020</id>
+<revision>
+<id>65525379</id>
+<parentid>54380344</parentid>
+<timestamp>2022-01-27T13:42:40Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1272" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|biotic}}
+===Adjective===
+{{en-adj}}
+# Of or pertaining to [[xenobiosis]].
+# {{lb|en|biology}} Relating to a substance [[foreign]] to the body or [[ecological]] [[system]].
+====Translations====
+{{trans-top|of or pertaining to xenobiosis}}
+* Italian: {{t|it|xenobiotico}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|relating to a foreign substance}}
+{{trans-mid}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# {{lb|en|biology}} Any foreign compound not produced by an organism's [[metabolism]].
+#* {{quote-journal|en|date=February 17, 2016|author=|title=Anthocyanins in Strawberry Polyphenolic Extract Enhance the Beneficial Effects of Diets with Fructooligosaccharides in the Rat Cecal Environment|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149081|doi=10.1371/journal.pone.0149081|volume=|issue=|pages=
+|passage=This enzyme is characteristic of harmful bacteria species, and it has deconjugative properties that support the transformation of '''xenobiotics''' into more toxic substances.}}
+====Related terms====
+* {{l|en|xenobiosis}}
+----
+==Romanian==
+===Etymology===
+{{bor+|ro|fr|xenobiotique}}.
+===Adjective===
+{{ro-adj}}
+# [[xenobiotic]]
+====Declension====
+{{ro-decl-adj}}</text>
+<sha1>ah2i6g2r1zsrb02hg9cqhyva675tfrg</sha1>
+</revision>
+</page>

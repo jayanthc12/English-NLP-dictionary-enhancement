@@ -1,0 +1,27 @@
+<page>
+<title>xanthogranuloma</title>
+<ns>0</ns>
+<id>3045370</id>
+<revision>
+<id>51778321</id>
+<parentid>39428971</parentid>
+<timestamp>2019-03-13T14:50:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xantho|granuloma}}
+===Noun===
+{{en-noun|s|xanthogranulomata}}
+# {{lb|en|medicine}} A form of [[histiocytosis]] with [[yellowish]] [[lesion]]s.
+====Related terms====
+* {{l|en|xanthogranulomatous}}</text>
+<sha1>7wohdcer9t036e18czl3qaqsl1o40gm</sha1>
+</revision>
+</page>

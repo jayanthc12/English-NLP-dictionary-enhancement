@@ -1,0 +1,78 @@
+<page>
+<title>Yahudi</title>
+<ns>0</ns>
+<id>58720</id>
+<revision>
+<id>62571633</id>
+<parentid>62322574</parentid>
+<timestamp>2021-05-21T06:11:11Z</timestamp>
+<contributor>
+<username>Xbypass</username>
+<id>289057</id>
+</contributor>
+<minor />
+<comment>/* Etymology */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1547" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|ar|يَهُودِيّ}}.
+===Noun===
+{{en-noun|s|Yahud}}
+# {{lb|en|Islam|rare}} A [[Jew]].
+===Further reading===
+* {{cite-web|title=BBC slammed for mistranslating 'Yahud' as 'Israeli'|date=2019-05-14|last=Frantzman|first=Seth J.|work=The Jerusalem Post|url=https://www.jpost.com/Middle-East/BBC-slammed-for-mistranslating-Yahud-as-Israeli-comment-589658}}
+{{topics|en|Demonyms}}
+----
+==Indonesian==
+===Etymology===
+From {{inh|id|ms|Yahudi}}, from {{der|id|ar|يَهُودِيّ}}.
+===Proper noun===
+{{head|id|proper noun}}
+# [[Jew]]s
+# [[Judaism]]
+# [[Hebrew]]s
+----
+==Malay==
+===Etymology===
+From {{bor|ms|ar|يهودي}}.
+===Proper noun===
+{{head|ms|proper noun}}
+# [[Jew]]s
+# [[Judaism]]
+# [[Hebrew]]s (people)
+----
+==Tausug==
+===Noun===
+{{head|tsg|noun}}
+# [[Jew]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاهودی|tr=yahudi}}, borrowed from {{der|tr|ar|يَهُودِيّ}}.
+===Pronunciation===
+* {{IPA|tr|[jɑhʊˈdi]}}
+===Noun===
+{{tr-noun|yi|ler}}
+# [[Jew]], adherent of [[Judaism]].
+# A character in traditional Turkish [[shadow play]]s and {{w|orta oyunu|lang=tr}}.
+====Declension====
+{{tr-infl-noun-v|i|poss=1|pred=1}}
+====Synonyms====
+* {{sense|both senses}} {{l|tr|Musevi}}
+* {{l|tr|Çıfıt}}
+====Derived terms====
+* {{l|tr|Yahudilik}}
+* {{l|tr|Yahudi Soykırımı}}
+===Adjective===
+{{tr-adj}}
+# [[Jewish]], relating to Jews, their religion or their culture.
+{{topics|tr|Demonyms|Judaism}}
+----
+==Yakan==
+===Noun===
+{{head|yka|noun}}
+# [[Jew]]</text>
+<sha1>jm3x2il271gs6r5ejzsnmizk9amf3i7</sha1>
+</revision>
+</page>

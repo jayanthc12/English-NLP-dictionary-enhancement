@@ -1,0 +1,44 @@
+<page>
+<title>xunguir</title>
+<ns>0</ns>
+<id>1613777</id>
+<revision>
+<id>68862178</id>
+<parentid>68861556</parentid>
+<timestamp>2022-08-28T05:12:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="974" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xoncer|xuncir|xunxir}} {{q|Eastern Galician}}
+===Etymology===
+Attested since circa 1350. From {{inh|gl|la|iungō}}. Cognate with {{cog|pt|jungir}} and {{cog|es|uncir}}.
+===Pronunciation===
+* {{IPA|gl|[ʃuŋˈɡiɾ]}}
+===Verb===
+{{gl-verb|xungu|ir|pres=xungo}}
+# {{lb|gl|transitive}} to [[yoke]]
+#* '''1350''', Kelvin M. Parker (ed.), ''Historia Troyana''. Santiago: Instituto &quot;Padre Sarmiento&quot;, 16:
+#*: ''que tomase aqueles touros, et que os '''junzese''' et fose con elles ao cãpo, et que arase cõ elles''
+#*:: that he should take those oxen, and '''yoke''' them and go with them into the field, and plough with them
+# {{inflection of|gl|xunguir||1//3|s|futr|subj}}
+# {{inflection of|gl|xunguir||1//3|s|pr|inf}}
+====Conjugation====
+{{gl-conj-ir (u-o)|xungu|xongu|xung}}
+====Related terms====
+* {{l|gl|xugo}}
+===References===
+* {{R:gl:DDGM|junçir}}
+* {{R:gl:CX|junz}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>cp2ym1vmewk9zsexdh8xps4ouwlgib6</sha1>
+</revision>
+</page>

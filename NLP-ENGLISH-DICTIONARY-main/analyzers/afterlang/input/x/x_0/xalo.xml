@@ -1,0 +1,21 @@
+<page>
+<title>xalo</title>
+<ns>0</ns>
+<id>7124573</id>
+<revision>
+<id>51645087</id>
+<timestamp>2019-02-28T01:50:19Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|m=ind|t=pres|xalar}}</text>
+<sha1>com0lywqnmm07iidzbt726rlx0zx0i8</sha1>
+</revision>
+</page>

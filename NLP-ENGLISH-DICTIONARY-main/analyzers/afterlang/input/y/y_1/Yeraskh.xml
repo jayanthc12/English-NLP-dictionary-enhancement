@@ -1,0 +1,46 @@
+<page>
+<title>Yeraskh</title>
+<ns>0</ns>
+<id>4218486</id>
+<revision>
+<id>67298959</id>
+<parentid>59451977</parentid>
+<timestamp>2022-06-06T12:29:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|hy}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="845" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Eraskh}}
+===Etymology===
+From {{uder|en|hy|Երասխ}}. {{doublet|en|Araks|Araxes}}.
+===Proper noun===
+{{en-proper noun}}
+# {{non-gloss definition|the historical name of [[Araks]] used by Armenians}}
+# {{place|en|town|r/Ararat|c/Armenia}}
+====Translations====
+{{trans-top|historical name of Araks}}
+* Armenian: {{t+|hy|Երասխ|sc=Armn}}
+*: Old Armenian: {{t|xcl|Երասխ|sc=Armn}}
+{{trans-mid}}
+* Russian: {{t|ru|Ера́сх}}
+{{trans-bottom}}
+{{trans-top|town in the Ararat province of the Republic of Armenia}}
+* Armenian: {{t+|hy|Երասխ|sc=Armn}}
+{{trans-mid}}
+* Russian: {{t|ru|Ера́сх}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aehkrsy|Harkeys|Sharkey}}
+[[Category:English 2-syllable words]]
+[[Category:en:Cities in Armenia]]
+[[Category:en:Rivers]]</text>
+<sha1>dgq9zo81ksa8zwcb622sqg0dpuzzcyv</sha1>
+</revision>
+</page>

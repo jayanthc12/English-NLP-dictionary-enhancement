@@ -1,0 +1,23 @@
+<page>
+<title>ydred</title>
+<ns>0</ns>
+<id>3046182</id>
+<revision>
+<id>54964828</id>
+<parentid>28904190</parentid>
+<timestamp>2019-10-10T09:29:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Middle English==
+===Participle===
+{{head|enm|participle}}
+# {{alternative form of|enm|ydrad}}</text>
+<sha1>38xbtrlcrulfo9v4nwbg2lqw4hux7hj</sha1>
+</revision>
+</page>

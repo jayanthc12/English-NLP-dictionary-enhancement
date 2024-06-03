@@ -1,0 +1,29 @@
+<page>
+<title>xesi</title>
+<ns>0</ns>
+<id>6977637</id>
+<revision>
+<id>57813548</id>
+<parentid>50684493</parentid>
+<timestamp>2019-10-20T20:51:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{elements}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="187" xml:space="preserve">==Vietnamese==
+{{elements|vi|Cs|xenon|Xe|bari|Ba}}
+===Etymology===
+{{vchem|caesium}}
+===Pronunciation===
+{{vi-ipa|xê xi}}
+===Noun===
+{{vi-noun}}
+# [[caesium]]
+{{C|vi|Alkali metals}}</text>
+<sha1>he6cf266spa1xn81zf9setxkah0akee</sha1>
+</revision>
+</page>

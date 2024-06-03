@@ -1,0 +1,24 @@
+<page>
+<title>xopava</title>
+<ns>0</ns>
+<id>3657954</id>
+<revision>
+<id>34746238</id>
+<parentid>17582369</parentid>
+<timestamp>2015-10-19T17:02:28Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Applied [[WT:NORM]] rules</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|t=impf|m=ind|xopar}}
+# {{ca-verb form of|p=3|n=sg|t=impf|m=ind|xopar}}</text>
+<sha1>7u8ff2xzpbuu696c6o64cz65qa7ncgz</sha1>
+</revision>
+</page>

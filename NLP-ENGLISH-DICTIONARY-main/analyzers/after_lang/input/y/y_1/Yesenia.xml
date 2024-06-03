@@ -1,0 +1,25 @@
+<page>
+<title>Yesenia</title>
+<ns>0</ns>
+<id>663562</id>
+<revision>
+<id>61998098</id>
+<parentid>54922064</parentid>
+<timestamp>2021-03-09T09:57:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish lemmas (use {{alter}}, fix indentation errors, templatize categories and quotes, detemplatize English links, clean up manual pronunciations, use {{bor}}/{{inh}} when appropriate for some pages, use {{lb|es|relational}}, {{given name}} fixes, etc.) (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="265" xml:space="preserve">==Spanish==
+===Etymology===
+Invented in 1970 for the heroine of a Mexican TV series by Yolanda Vargas, from ''[[Jessenia]] (bataua)'', botanical name of a South American palm tree.
+===Proper noun===
+{{es-proper noun|f}}
+# {{given name|es|female}} used since 1970</text>
+<sha1>qyxkr19n7g4ro32hwo8c6ote9g8fi7r</sha1>
+</revision>
+</page>

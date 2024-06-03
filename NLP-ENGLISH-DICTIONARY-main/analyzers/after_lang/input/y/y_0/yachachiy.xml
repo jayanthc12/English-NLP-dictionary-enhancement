@@ -1,0 +1,36 @@
+<page>
+<title>yachachiy</title>
+<ns>0</ns>
+<id>4297897</id>
+<revision>
+<id>48965623</id>
+<parentid>48319042</parentid>
+<timestamp>2018-02-08T16:48:48Z</timestamp>
+<contributor>
+<username>Linguist97</username>
+<id>3339014</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="423" xml:space="preserve">==Quechua==
+===Etymology===
+From {{af|qu|yachay|t1=to know|-chi|-y}}.
+===Noun===
+{{head|qu|noun}}
+# [[teaching]], [[guidance]], [[education]]
+# [[principle]]
+====Declension====
+{{qu-noun-c}}{{qu-poss-c}}
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|transitive}} to [[teach]]
+# {{lb|qu|transitive}} to [[train]] (an [[animal]]))
+====Conjugation====
+{{qu-conj|yachachi}}
+===See also===
+* {{l|qu|yachachiq}}
+* {{l|qu|yachay}}</text>
+<sha1>oocq4wh48hyenk8yft9eghxqk1wy9fn</sha1>
+</revision>
+</page>

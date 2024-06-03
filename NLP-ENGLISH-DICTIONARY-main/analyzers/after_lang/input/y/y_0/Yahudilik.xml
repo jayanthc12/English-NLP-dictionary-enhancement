@@ -1,0 +1,33 @@
+<page>
+<title>Yahudilik</title>
+<ns>0</ns>
+<id>3449711</id>
+<revision>
+<id>65325251</id>
+<parentid>56090879</parentid>
+<timestamp>2022-01-12T16:57:22Z</timestamp>
+<contributor>
+<username>Ffffrr</username>
+<id>3832888</id>
+</contributor>
+<comment>/* Turkish */Wikipedia</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="345" xml:space="preserve">==Turkish==
+{{wikipedia|lang=tr}}
+===Etymology===
+{{suffix|tr|Yahudi|lik}}
+===Pronunciation===
+* {{IPA|tr|[jɑhʊdiˈlic]}}
+===Noun===
+{{tr-noun|Yahudiliği|-}}
+# [[Judaism]]
+# [[Jewishness]]
+====Declension====
+{{tr-infl-noun-c|n=s|i|stem=Yahudiliğ|poss=+}}
+====Synonyms====
+* {{sense|Judaism}} {{l|tr|Musevilik}}
+[[Category:tr:Judaism]]</text>
+<sha1>acvvl4shc23zm3aqkb5pp7esd5fu5zf</sha1>
+</revision>
+</page>

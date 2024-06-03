@@ -1,0 +1,29 @@
+<page>
+<title>yaluu</title>
+<ns>0</ns>
+<id>5876612</id>
+<revision>
+<id>56424554</id>
+<parentid>47663420</parentid>
+<timestamp>2019-10-18T02:00:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="331" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/jaluː/}}
+===Interjection===
+{{head|kld|interjections}}
+# see you later
+===References===
+* Dhiirrala Gamilaraay Yuwaalaraay Language Program St Joseph School Po Box 125 Walgett NSW 2368 Australia
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary
+* (2015) “Ma Gamilaraay”</text>
+<sha1>dilw1neggbql2zx28d6crcnvootlzlk</sha1>
+</revision>
+</page>

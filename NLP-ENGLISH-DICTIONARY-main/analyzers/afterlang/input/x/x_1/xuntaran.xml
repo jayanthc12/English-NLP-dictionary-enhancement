@@ -1,0 +1,24 @@
+<page>
+<title>xuntaran</title>
+<ns>0</ns>
+<id>1213407</id>
+<revision>
+<id>56582569</id>
+<parentid>34989373</parentid>
+<timestamp>2019-10-18T08:09:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">{{also|xuntarán}}
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||3|p|plup|indc}}</text>
+<sha1>75ni0egb5prhd5ntfhiyj7o0vbgvb0x</sha1>
+</revision>
+</page>

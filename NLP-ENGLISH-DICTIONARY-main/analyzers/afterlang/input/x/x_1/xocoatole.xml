@@ -1,0 +1,34 @@
+<page>
+<title>xocoatole</title>
+<ns>0</ns>
+<id>3699322</id>
+<revision>
+<id>68950722</id>
+<parentid>64223502</parentid>
+<timestamp>2022-08-28T20:54:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="349" xml:space="preserve">==Spanish==
+===Etymology===
+From {{der|es|nci|xococ||something sour}} + {{m|nci|ātōlli||atole}}.
+===Pronunciation===
+{{es-IPA|jocoatole}}
+{{es-IPA|shocoatole}}
+===Noun===
+{{es-noun|m|-}}
+# {{lb|es|Mexico}} soured [[atole]]
+====Related terms====
+* {{l|es|atole}}
+* {{l|es|xoconostle}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Beverages}}</text>
+<sha1>ntgz8n09z9cl7hi96v3vg7qv5ei93s8</sha1>
+</revision>
+</page>

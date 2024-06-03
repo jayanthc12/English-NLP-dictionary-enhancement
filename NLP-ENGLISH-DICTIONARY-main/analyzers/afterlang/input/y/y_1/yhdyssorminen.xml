@@ -1,0 +1,30 @@
+<page>
+<title>yhdyssorminen</title>
+<ns>0</ns>
+<id>6464256</id>
+<revision>
+<id>69318399</id>
+<parentid>48192127</parentid>
+<timestamp>2022-09-18T17:16:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdys-|sormi|-inen|t1=joint|t2=finger|t3=-ed}}
+===Pronunciation===
+{{fi-p|yhdys-sorminen}}
+===Adjective===
+{{fi-adj}}
+# [[syndactylous]] {{gloss|having fingers partially grown together}}
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdyssormi|a}}
+====Related terms====
+* {{l|fi|yhdyssormisuus}}</text>
+<sha1>asyviizelznzaiv5d1hqjcqf1gzj4fx</sha1>
+</revision>
+</page>

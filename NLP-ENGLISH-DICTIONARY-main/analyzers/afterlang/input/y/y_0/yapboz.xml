@@ -1,0 +1,29 @@
+<page>
+<title>yapboz</title>
+<ns>0</ns>
+<id>1578036</id>
+<revision>
+<id>55636545</id>
+<parentid>48456050</parentid>
+<timestamp>2019-10-15T10:04:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Turkish==
+===Etymology===
+* From &quot;[[yapmak|yap]]&quot; (''to make'') + &quot;[[bozmak|boz]]&quot; (''to distort''). Literally &quot;make &amp; distort&quot;.
+===Pronunciation===
+* {{IPA|tr|[jɑp.ˈbɔʐ]}}
+===Noun===
+{{tr-noun|u|lar}}
+# [[puzzle]]
+====Declension====
+{{tr-infl-noun-c|o|poss=1}}</text>
+<sha1>nejxu4qmv2s9ot5f1w0rrrvshn4s9u0</sha1>
+</revision>
+</page>

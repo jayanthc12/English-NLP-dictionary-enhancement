@@ -1,0 +1,23 @@
+<page>
+<title>yerva</title>
+<ns>0</ns>
+<id>2995637</id>
+<revision>
+<id>62074676</id>
+<parentid>43536603</parentid>
+<timestamp>2021-03-13T21:18:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="52" xml:space="preserve">==Ladino==
+===Noun===
+{{lad-noun|g=f}}
+# [[grass]]</text>
+<sha1>32d2ktjyy4rig17w6gkjq8zii875ojq</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>yagua</title>
+<ns>0</ns>
+<id>5211326</id>
+<revision>
+<id>68963121</id>
+<parentid>64220550</parentid>
+<timestamp>2022-08-28T23:54:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="392" xml:space="preserve">{{also|Yagua}}
+==Sirionó==
+===Noun===
+{{head|srq|noun}}
+# [[tiger]]
+===References===
+* ''[http://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.d7/files/sitefiles/research/papers/21/Dahl_vol21.pdf Tense and evidentiality in Sirionó and Yuki]''
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[royal palm]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>t6p072rgfki48qvsiuqdbdj2nm2dmpv</sha1>
+</revision>
+</page>

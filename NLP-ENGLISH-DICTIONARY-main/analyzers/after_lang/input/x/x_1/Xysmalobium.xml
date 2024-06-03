@@ -1,0 +1,37 @@
+<page>
+<title>Xysmalobium</title>
+<ns>0</ns>
+<id>6044469</id>
+<revision>
+<id>69391263</id>
+<parentid>58060528</parentid>
+<timestamp>2022-09-28T13:22:13Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="769" xml:space="preserve">==Translingual==
+[[File:Annals of the South African Museum. Annale van die Suid-Afrikaanse Museum (1911-1918) (18232804218).jpg|thumb]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=n}}
+# {{taxon|genus|family|Apocynaceae|certain plants native to [[Africa]]}}
+====Hypernyms====
+* {{sense|genus}} {{Apocynaceae Hypernyms}}; [[Asclepiadoideae]]&amp;nbsp;- subfamily; [[Asclepiadeae]]&amp;nbsp;- tribe; [[Asclepiadinae]]&amp;nbsp;- subtribe
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xysmalobium undulatum|species|ver=170216}}&amp;nbsp;- type species; for other species see {{R:TPL|i=1}}.
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:NCBI|219279|i=1}}
+* {{R:Tropicos|40027815|i=1}}
+* {{R:GRIN|genus|12994|i=1}}
+* {{R:TPL|i=1}}</text>
+<sha1>dxsyaan1hh7e51g51yb6tkpqwfwsov1</sha1>
+</revision>
+</page>

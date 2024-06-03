@@ -1,0 +1,45 @@
+<page>
+<title>xeira</title>
+<ns>0</ns>
+<id>6562562</id>
+<revision>
+<id>68867449</id>
+<parentid>68856310</parentid>
+<timestamp>2022-08-28T05:49:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1363" xml:space="preserve">==Galician==
+===Etymology===
+From an older ''jeyra'', ''geyra'', from {{inh|gl|ML.|diāria|t=daily}}, from {{der|gl|la|diēs|t=day}}. Cognate with {{cog|es|jera}}.&lt;ref&gt;{{R:es:DCECH|jera}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|gl|/ˈʃejɾa̝̝/}}
+===Noun===
+{{gl-noun|f}}
+# day's [[work]]
+#: {{syn|gl|xornal}}
+# work; [[task]]
+# [[tiredness]]
+# [[land]] which can be [[plowed]] in a day with a single pair of oxen
+#* '''1451''', X. Ferro Couselo (ed.), ''A vida e a fala dos devanceiros. Escolma de documentos en galego dos séculos XIII ao XVI''. Vigo: Galaxia, page 133:
+#*: ''Iten, un lugar en Raynros, que ten hua casa e hua cabadura de viña e dous ou tres '''geyras''' de tarreo de lebar pan''
+#*:: Item, a hamlet in Raynros, which has a house and a vineyard and two or three '''xeiras''' of land suitable for growing cereals
+# day's [[walk]]; [[journey]]; [[road]]
+# [[time]] worked for a [[neighbour]] or for the [[community]], in exchange for a future similar help
+# [[series]]
+====Related terms====
+* {{l|gl|contraxeira}}
+===References===
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=+%5Bxgj%5De%5Biy%5Dra&amp;corpus=notarial xeira]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>8j5ojs058ai9rfb5ciyx1c74gfuen3n</sha1>
+</revision>
+</page>

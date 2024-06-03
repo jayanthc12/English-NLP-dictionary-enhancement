@@ -1,0 +1,35 @@
+<page>
+<title>xavecar</title>
+<ns>0</ns>
+<id>6937388</id>
+<revision>
+<id>67674674</id>
+<parentid>67170544</parentid>
+<timestamp>2022-07-08T17:21:43Z</timestamp>
+<contributor>
+<username>Sarilho1</username>
+<id>522155</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="568" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{affix|pt|xaveco|-ar}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyphenation|pt|xa|ve|car}}
+===Verb===
+{{pt-verb|xavec|ar}}
+# {{lb|pt|Brazil|slang}} to [[flirt]] with, to try to seduce someone by [[flattening]]
+#: {{syn|pt|paquerar|flertar|cantar}}
+#: {{ux|pt|Ele gostava de '''xavecar''' as meninas da escola.|He liked to '''flirt with''' the school girls.}}
+# {{lb|pt|Brazil|slang}} to [[cheat]], to act in an [[unfair]] way
+#: {{syn|pt|trapacear}}
+====Conjugation====
+{{pt-conj|xavec|ar}}
+====Related terms====
+* {{l|pt|xaveco}}</text>
+<sha1>klr2zj4ky1olkjf2hfwx9ec7z7st3gm</sha1>
+</revision>
+</page>

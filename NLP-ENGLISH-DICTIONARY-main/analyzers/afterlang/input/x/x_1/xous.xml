@@ -1,0 +1,28 @@
+<page>
+<title>xous</title>
+<ns>0</ns>
+<id>6194211</id>
+<revision>
+<id>62879811</id>
+<parentid>56158930</parentid>
+<timestamp>2021-06-17T11:19:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Portuguese plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xou}}
+----
+==Portuguese==
+===Noun===
+{{head|pt|noun form|g=m}}
+# {{plural of|pt|xou}}</text>
+<sha1>8gpt80kjh00jgwoo4ozllkix3n2293v</sha1>
+</revision>
+</page>

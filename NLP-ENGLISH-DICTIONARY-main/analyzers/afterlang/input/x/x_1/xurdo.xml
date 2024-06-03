@@ -1,0 +1,23 @@
+<page>
+<title>xurdo</title>
+<ns>0</ns>
+<id>1314401</id>
+<revision>
+<id>56718947</id>
+<parentid>49268730</parentid>
+<timestamp>2019-10-18T13:14:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xurdir||1|s|pres|indc}}</text>
+<sha1>ja4pdxceka96pg7pqug39apyvlgwmc3</sha1>
+</revision>
+</page>

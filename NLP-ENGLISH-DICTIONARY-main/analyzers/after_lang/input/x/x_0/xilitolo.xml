@@ -1,0 +1,24 @@
+<page>
+<title>xilitolo</title>
+<ns>0</ns>
+<id>4375132</id>
+<revision>
+<id>64713333</id>
+<parentid>44060399</parentid>
+<timestamp>2021-11-22T11:27:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Italian==
+{{wikipedia|lang=it}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|carbohydrate}} [[xylitol]]</text>
+<sha1>0n4yw33ffecsgn3z98djgyr44bxthco</sha1>
+</revision>
+</page>

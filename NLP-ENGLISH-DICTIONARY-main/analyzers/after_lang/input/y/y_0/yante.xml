@@ -1,0 +1,32 @@
+<page>
+<title>yante</title>
+<ns>0</ns>
+<id>5055845</id>
+<revision>
+<id>68313480</id>
+<parentid>52632367</parentid>
+<timestamp>2022-07-18T13:17:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yantar]] with 'yantar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="387" xml:space="preserve">{{also|yanté}}
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Adjective===
+{{head|pi|adjective form}}
+# {{inflection of|pi|yanta||m//n|loc|s}}, which is {{inflection of|pi|yāti||pres|act|part|t=to go}}
+# {{inflection of|pi|yanta||m|acc|p}}, which is {{inflection of|pi|yāti||pres|act|part|t=to go}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yantar}}</text>
+<sha1>qbx4l82mlic1whqvmbpxdpf870rnfuy</sha1>
+</revision>
+</page>

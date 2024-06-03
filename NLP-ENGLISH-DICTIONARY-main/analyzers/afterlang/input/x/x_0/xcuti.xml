@@ -1,0 +1,44 @@
+<page>
+<title>xcuti</title>
+<ns>0</ns>
+<id>7274518</id>
+<revision>
+<id>58702528</id>
+<parentid>53792366</parentid>
+<timestamp>2020-02-16T20:39:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Correct spelling of 'Xicotepec de Juárez Totonac'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="842" xml:space="preserve">==Papantla Totonac==
+===Etymology===
+Cognate with {{cog|tos|xcut}}, {{cog|too|xcuti}}.
+===Noun===
+{{head|top|noun}}
+# {{l|en|white-nosed coati}} (''[[Nasua narica]]'')
+====Hyponyms====
+* {{sense|gregarious (female or immature male) white-nosed coati}} {{l|top|lhu̱huá̱ xcuti}}
+* {{sense|solitary (adult male) white-nosed coati}} {{l|top|aklhtami̱ya̱n}}, {{l|top|stumí̱ xcuti}}
+====Derived terms====
+* {{l|top|stumí̱ xcuti}}
+* {{l|top|lhu̱huá̱ xcuti}}
+===References===
+* {{R:Aschmann &amp; Aschmann 1973|pages=132, 257}}
+{{topics|top|Procyonids}}
+----
+==Xicotepec de Juárez Totonac==
+===Etymology===
+Cognate with {{cog|tos|xcut}}, {{cog|top|xcuti}}.
+===Noun===
+{{head|too|noun}}
+# {{l|en|white-nosed coati}} (''[[Nasua narica]]'')
+===References===
+* {{R:Reid &amp; Bishop 1974|pages=161, 223, 360}}
+{{topics|too|Procyonids}}</text>
+<sha1>qj6x1kxnbrayf3iwetkxlmssg179wae</sha1>
+</revision>
+</page>

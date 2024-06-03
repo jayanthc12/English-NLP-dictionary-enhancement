@@ -1,0 +1,39 @@
+<page>
+<title>xilotlah</title>
+<ns>0</ns>
+<id>4689510</id>
+<revision>
+<id>56340673</id>
+<parentid>51953326</parentid>
+<timestamp>2019-10-17T13:43:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1270" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xilotla}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{suffix|nci|xīlōtl|tlah|t1=unripe ear of maize}}.
+===Pronunciation===
+* {{IPA|nci|[ʃiːˈloː.t͡ɬaʔ]}}
+===Noun===
+{{nci-noun|loc|xīlōtlah}}
+# the [[season]] when [[ear]]s of [[maize]] are still unripe
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 113r. col. 2.
+#*: Tiempo de xilotl. '''xilotla'''.
+#*:: The season of the ''xilotl''. '''xilotla'''.
+#* ''Idem'', f. 159r. col. 2.
+#*: Xilotl. maçorca de mayz tierna y por quajar. / '''Xilotla'''. tiempo deſtas maçorcas.
+#*:: Xilotl. a tender ear of maize that is yet to ripen. / '''Xilotla'''. season of these ears of maize.
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=113r, 159r}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=766}}
+[[Category:nci:Agriculture]]</text>
+<sha1>1raddn929f50ci51tln5d6hvfkttyy3</sha1>
+</revision>
+</page>

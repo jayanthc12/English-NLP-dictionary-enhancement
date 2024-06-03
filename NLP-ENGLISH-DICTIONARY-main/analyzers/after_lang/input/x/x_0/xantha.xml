@@ -1,0 +1,27 @@
+<page>
+<title>xantha</title>
+<ns>0</ns>
+<id>3755002</id>
+<revision>
+<id>66994966</id>
+<parentid>57343403</parentid>
+<timestamp>2022-05-15T09:45:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthus}} (4); combine {{inflection of|la|xanthus}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xanthus}} tag sets nom|f|s and voc|f|s into nom//voc|f|s; combine {{inflection of|la|xanthus}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">{{also|Xantha}}
+==Latin==
+===Adjective===
+{{la-adj-form|xantha}}
+# {{inflection of|la|xanthus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+===Adjective===
+{{la-adj-form|xanthā}}
+# {{inflection of|la|xanthus||abl|f|s}}</text>
+<sha1>7527zibl1ixnyjlbmzg83qciswcpd3c</sha1>
+</revision>
+</page>

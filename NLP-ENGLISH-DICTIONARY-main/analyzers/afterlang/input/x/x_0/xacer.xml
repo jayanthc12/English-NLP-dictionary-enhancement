@@ -1,0 +1,45 @@
+<page>
+<title>xacer</title>
+<ns>0</ns>
+<id>7322095</id>
+<revision>
+<id>68871028</id>
+<parentid>68865807</parentid>
+<timestamp>2022-08-28T06:09:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1293" xml:space="preserve">==Galician==
+[[File:Cemiterio de Santo Amaro - Pondal.jpg|thumb|''Aqui jaz o cantor da raza galega Eduardo Pondal. Finou en VIII de marzo ano MCMXVII'' (&quot;Here lies the singer of the Galician race, Eduardo Pondal. He ended March 8, 1917&quot;).]]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jazer}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|VL.|iaceo|iacere}}. Cognate with {{cog|pt|jazer}} and {{cog|es|yacer}}.
+===Pronunciation===
+* {{IPA|gl|/ʃaˈθeɾ/}}
+===Verb===
+{{gl-verb|xac|er|pres=xazo}}
+# to [[lie]]
+# to [[recline]]
+====Conjugation====
+{{gl-conj-cer|xa}}
+====Derived terms====
+* {{l|gl|xacente}}
+===Noun===
+{{gl-noun|m}}
+# [[rest]]
+#* '''1813''', Xan de Mingucho, (a letter):
+#*: ''estou de mal '''xacer''', porque nesta noite pasada unhas malas almas me esfolaron seis carballos que tiña moi estimados, como o están facendo a outros moitos, solo por vender a casca ós coireiros das frábecas''
+#*:: I'm badly '''rested''' (lit. ''I'm in bad rest''), because this last night some bad souls stripped six oaks which I had in great esteem, as they are doing to many others, just for selling the bark to the furriers of the factories
+===References===
+* {{R:gl:DDGM|jazer}}
+* {{R:gl:CX|jaz}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP|xacente}}</text>
+<sha1>72scyri1uj5zwrqlzn5i7gbsrkxy9xa</sha1>
+</revision>
+</page>

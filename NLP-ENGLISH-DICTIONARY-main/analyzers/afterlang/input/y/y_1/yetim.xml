@@ -1,0 +1,33 @@
+<page>
+<title>yetim</title>
+<ns>0</ns>
+<id>6839808</id>
+<revision>
+<id>67245394</id>
+<parentid>67223524</parentid>
+<timestamp>2022-06-04T22:08:20Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="364" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јетим|r=yetim|a=یئتیم}}
+===Etymology===
+{{bor+|az|ar|يَتِيم}}.
+===Pronunciation===
+* {{IPA|az|[jeˈtim]}}
+* {{hyphenation|az|ye|tim}}
+===Noun===
+{{az-noun}}
+# [[orphan]]
+#: {{syn|az|atasız-anasız|kimsəsiz|öksüz}}
+====Declension====
+{{az-decl-noun|i|c}}
+====Related terms====
+* {{l|az|yetimxana||orphanage}}</text>
+<sha1>5k6frqsguiy2z2nclsyoji9x3hdkr50</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>xerq</title>
+<ns>0</ns>
+<id>3626668</id>
+<revision>
+<id>62247374</id>
+<parentid>61577929</parentid>
+<timestamp>2021-03-26T01:44:01Z</timestamp>
+<contributor>
+<username>Ekirahardian</username>
+<id>3485262</id>
+</contributor>
+<minor />
+<comment>/* Coordinate terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَرْق}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɛrʔ/}}
+===Noun===
+{{mt-noun|g=m}}
+# {{lb|mt|archaic|puristic}} [[east]]
+#: {{syn|mt|lvant}}
+====Coordinate terms====
+* {{list:compass points/mt}}
+{{c|mt|Compass points}}</text>
+<sha1>dxize07is7k5p27vqqnyfz6g2n0lpj6</sha1>
+</revision>
+</page>

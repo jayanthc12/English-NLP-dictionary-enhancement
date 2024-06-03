@@ -1,0 +1,30 @@
+<page>
+<title>yawyaw</title>
+<ns>0</ns>
+<id>6579664</id>
+<revision>
+<id>54898768</id>
+<parentid>49119363</parentid>
+<timestamp>2019-10-08T16:31:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="394" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|yaw|yaw}}
+===Verb===
+{{head|ceb|verb}}
+# to [[nag]]; to continuously [[remind]] or [[complain]] to (someone) in an annoying way, often about [[insignificant]] or unnecessary matters
+# to [[yap]]; to [[talk]] [[excessively]]
+===Noun===
+{{head|ceb|noun}}
+# [[babble]]; [[idle]] talk; [[senseless]] [[prattle]]
+# [[nag]]; repeated complaint</text>
+<sha1>j21lq6yl12o78dk1rh9ai11foemnbuz</sha1>
+</revision>
+</page>

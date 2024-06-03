@@ -1,0 +1,25 @@
+<page>
+<title>ydronke</title>
+<ns>0</ns>
+<id>3046204</id>
+<revision>
+<id>58051772</id>
+<parentid>54536236</parentid>
+<timestamp>2019-11-24T06:17:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|drink|nocat=1}}
+===Anagrams===
+* {{anagrams|en|a=deknory|Nordyke}}</text>
+<sha1>mdbdvp06c664cx9w32n5i46is9y7p40</sha1>
+</revision>
+</page>

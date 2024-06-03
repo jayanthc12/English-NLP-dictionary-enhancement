@@ -1,0 +1,56 @@
+<page>
+<title>yaro</title>
+<ns>0</ns>
+<id>85628</id>
+<revision>
+<id>68888574</id>
+<parentid>63450904</parentid>
+<timestamp>2022-08-28T08:45:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="813" xml:space="preserve">{{also|yarō}}
+==Hausa==
+===Pronunciation===
+* {{ha-IPA|yārṑ}}
+===Noun===
+{{ha-noun|m|yārṑ|yârā|f=yārinyā̀}}
+# [[boy]], [[child]]
+# A follower of a [[chief]] or similar person.
+# [[servant]], [[retainer]]
+----
+==Ido==
+===Etymology===
+{{io-bor|eo=jaro|year||Jahr|nodot=1}}, ultimately from {{der|io|gem-pro|*jērą}}.
+===Pronunciation===
+{{io-IPA}}
+===Noun===
+{{io-noun|yar}}
+# [[year]]
+====Derived terms====
+{{der3
+|io|{{l|io|yare|pos=adv|t=yearly}}
+|{{l|io|yara|pos=a|t=annual}}
+|{{l|io|yarcento|t=century}}
+|{{l|io|yardeko|t=decade}}
+|{{l|io|yarmilo|t=millennium}}
+|{{l|io|centyaro|t=centenary}}
+}}
+[[Category:io:Time]]
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{alternative form of|es|aro}} {{gloss|arum lily}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>ld8yafjsvf92151y475paa5dsms3cg2</sha1>
+</revision>
+</page>

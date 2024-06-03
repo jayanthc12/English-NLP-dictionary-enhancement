@@ -1,0 +1,30 @@
+<page>
+<title>xera</title>
+<ns>0</ns>
+<id>1852715</id>
+<revision>
+<id>57267905</id>
+<parentid>47663533</parentid>
+<timestamp>2019-10-19T17:17:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (4)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="271" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerar||3|s|pres|indc}}
+# {{inflection of|gl|xerar||2|s|impr}}
+----
+==Venetian==
+===Verb===
+{{head|vec|verb form}}
+# {{inflection of|vec|èser||3|s|impf|indc}}
+# {{inflection of|vec|èser||3|p|impf|indc}}</text>
+<sha1>48vzfzqj75peac7tcp103330wgrn6r5</sha1>
+</revision>
+</page>

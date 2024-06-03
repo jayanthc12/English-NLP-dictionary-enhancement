@@ -1,0 +1,31 @@
+<page>
+<title>yame</title>
+<ns>0</ns>
+<id>6691474</id>
+<revision>
+<id>57959496</id>
+<parentid>57959420</parentid>
+<timestamp>2019-11-07T05:44:20Z</timestamp>
+<contributor>
+<username>Linshee</username>
+<id>3268604</id>
+</contributor>
+<comment>/* Pronoun */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Francisco León Zoque==
+===Etymology===
+Borrowed from {{bor|zos|es|ñame}}.
+===Noun===
+{{head|zos|noun}}
+# {{l|en|purple yam}} (''[[Dioscorea alata]]'')
+===References===
+* {{R:Engel, Engel &amp; Mateo 1987|page=241}}
+----
+==Middle English==
+===Pronoun===
+{{head|enm|pronoun}}
+# {{lb|enm|North ME|northern|_|East Midland ME}} {{alt form|enm|þem||them}}</text>
+<sha1>cez8iwi80anzfl13d8hrc2fpoo5mhny</sha1>
+</revision>
+</page>

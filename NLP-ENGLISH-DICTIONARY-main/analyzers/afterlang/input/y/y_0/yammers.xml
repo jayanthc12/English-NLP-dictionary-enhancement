@@ -1,0 +1,28 @@
+<page>
+<title>yammers</title>
+<ns>0</ns>
+<id>342887</id>
+<revision>
+<id>43040303</id>
+<parentid>27460446</parentid>
+<timestamp>2017-05-21T01:55:39Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="182" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yammer}}
+----
+==Scots==
+===Verb===
+{{head|sco|verb form}}
+# {{sco-third-person singular of|yammer}}</text>
+<sha1>aptj4wnidouketr2xiset3ykxj04yrk</sha1>
+</revision>
+</page>

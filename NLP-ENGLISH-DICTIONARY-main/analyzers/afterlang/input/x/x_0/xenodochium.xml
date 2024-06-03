@@ -1,0 +1,46 @@
+<page>
+<title>xenodochium</title>
+<ns>0</ns>
+<id>252037</id>
+<revision>
+<id>68774744</id>
+<parentid>67288242</parentid>
+<timestamp>2022-08-27T07:34:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1911" xml:space="preserve">==English==
+{{was wotd|2012|January|22}}
+===Etymology===
+From {{uder|en|la|-}}, from {{der|en|grc|ξενοδοχεῖον||place for strangers, inn}} from {{m|grc|ξένος||guest, stranger, foreigner}} + {{m|grc|δέχομαι||receive, accept}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˌzɛn.əʊˈdəʊ.ki.əm/|/ˌzɛn.əˈdəʊ.ki.əm/}}
+* {{a|US}} {{IPA|en|/ˌzɛn.oʊˈdoʊ.ki.əm/|/ˌzɛn.əˈdoʊ.ki.əm/}}
+* {{audio|en|en-us-xenodochium.ogg|Audio (US)}}
+===Noun===
+{{en-noun|xenodochia|s}}
+# A [[room]] (or separate [[guesthouse]]) in a [[monastery]] for the temporary accommodation of [[guest]]s or [[pilgrim]]s.
+#* {{quote-book|en|1892|William Bright|The Canons of the First Four General Councils of Nicaea, Constantinople, Ephesus and Chalcedon|edition=2nd edition|page=184|text=Gregory the Great orders that the accounts of '''xenodochia''' should be audited by the bishop (Epist. iv. 27).}}
+#* {{quote-book|en|1961|Michel Riquet|Christian Charity in Action|page=64|text=There is, first, the '''''xenodochium''''', to provide lodging for passing strangers, pilgrims, travellers, refugees, exiles of all kinds, like the one founded at Ostia by Pammachius and Fabiola for all who were embarking or landing.}}
+#* {{quote-book|en|1986|Herbert Bloch|Monte Cassino in the Middle Ages|page=288|text=His and his uncle Johannes de Curte's principal gift to Monte Cassino was a '''xenodochium''' or &quot;hospitale&quot; to house the pilgrims who, in great numbers, visited the famous shrine of the Archangel Michael.}}
+====Related terms====
+* {{l|en|xenodochial}}
+* {{l|en|xenodochy}}
+====Translations====
+{{trans-top|room in a monastery}}
+* Finnish: {{t+|fi|vierashuone}}, {{t|fi|vierasmaja}}
+* German: {{t|de|Xenodochion|n}}
+{{trans-mid}}
+* Italian: {{t+|it|xenodochio|m}}
+* Latin: {{t|la|hospitāle|n}}
+* Macedonian: {{t|mk|ан|m}}, {{t|mk|гостилница|f}}
+{{trans-bottom}}
+[[Category:en:Rooms]]</text>
+<sha1>tk18lu4g48755bei4ke1m18osneuhs6</sha1>
+</revision>
+</page>

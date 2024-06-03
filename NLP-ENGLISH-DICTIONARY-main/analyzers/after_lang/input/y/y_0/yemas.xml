@@ -1,0 +1,33 @@
+<page>
+<title>yemas</title>
+<ns>0</ns>
+<id>412712</id>
+<revision>
+<id>60707940</id>
+<parentid>54759560</parentid>
+<timestamp>2020-09-30T19:03:46Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="409" xml:space="preserve">==Cebuano==
+===Etymology===
+Borrowed from {{bor|ceb|es|yemas}}, plural of {{m|es|yema}}, from {{der|ceb|la|gemma}}.
+===Pronunciation===
+* {{hyphenation|ceb|ye|mas}}
+===Noun===
+{{head|ceb|noun}}
+# A [[sweet]] [[custard]] [[candy]] [[ball]] made with [[egg yolks]] and [[condensed milk]].
+====Synonyms====
+* {{l|ceb|yema}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=f-p}}
+# {{plural of|es|yema}}</text>
+<sha1>sc4j2po6jtv1wwiat8wh1p1o6wpi8jt</sha1>
+</revision>
+</page>

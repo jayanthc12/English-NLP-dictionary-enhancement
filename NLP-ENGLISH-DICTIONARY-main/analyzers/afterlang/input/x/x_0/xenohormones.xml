@@ -1,0 +1,23 @@
+<page>
+<title>xenohormones</title>
+<ns>0</ns>
+<id>3427759</id>
+<revision>
+<id>56026652</id>
+<parentid>53092237</parentid>
+<timestamp>2019-10-17T00:11:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenohormone}}</text>
+<sha1>2b2g7jmpy6bppcu6d995uwozgg9otou</sha1>
+</revision>
+</page>

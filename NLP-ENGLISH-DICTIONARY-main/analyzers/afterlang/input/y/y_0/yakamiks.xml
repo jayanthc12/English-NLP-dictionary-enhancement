@@ -1,0 +1,23 @@
+<page>
+<title>yakamiks</title>
+<ns>0</ns>
+<id>3843999</id>
+<revision>
+<id>56196621</id>
+<parentid>53092620</parentid>
+<timestamp>2019-10-17T08:01:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yakamik}}</text>
+<sha1>lvdxfpqseoqemhoykjbdsapw46v2o4o</sha1>
+</revision>
+</page>

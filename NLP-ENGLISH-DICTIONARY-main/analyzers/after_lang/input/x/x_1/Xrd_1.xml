@@ -1,0 +1,24 @@
+<page>
+<title>Xrd</title>
+<ns>0</ns>
+<id>4502900</id>
+<revision>
+<id>40492085</id>
+<parentid>28193050</parentid>
+<timestamp>2016-09-13T00:56:11Z</timestamp>
+<contributor>
+<username>OrphicBot</username>
+<id>3186543</id>
+</contributor>
+<minor />
+<comment>{also|...} template updated; 1 item added.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="114" xml:space="preserve">{{also|XRD}}
+==Egyptian==
+===Romanization===
+{{head|egy|romanization}}
+# {{egy-alt|ẖrd|type=Manuel de Codage}}</text>
+<sha1>tqr73umebk8ei6pgs5cdajlynb9meoi</sha1>
+</revision>
+</page>

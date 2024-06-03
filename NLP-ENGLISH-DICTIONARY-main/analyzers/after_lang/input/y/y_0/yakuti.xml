@@ -1,0 +1,28 @@
+<page>
+<title>yakuti</title>
+<ns>0</ns>
+<id>4933072</id>
+<revision>
+<id>61882346</id>
+<parentid>53866259</parentid>
+<timestamp>2021-02-23T18:57:02Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Sw-ke-yakuti.flac; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="191" xml:space="preserve">==Swahili==
+===Etymology===
+From {{der|sw|ar|يَاقُوت}}.
+===Pronunciation===
+* {{audio|sw|Sw-ke-yakuti.flac|Audio (Kenya)}}
+===Noun===
+{{sw-noun|n}}
+# [[ruby]]
+[[Category:sw:Gems]]</text>
+<sha1>akpqc3erqtidfemnrvx7misrx8m20tk</sha1>
+</revision>
+</page>

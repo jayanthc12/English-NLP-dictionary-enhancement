@@ -1,0 +1,28 @@
+<page>
+<title>xenonnal</title>
+<ns>0</ns>
+<id>1791397</id>
+<revision>
+<id>69448042</id>
+<parentid>60726139</parentid>
+<timestamp>2022-10-04T21:16:00Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="218" xml:space="preserve">{{also|xenonnál}}
+==Hungarian==
+===Etymology===
+{{affix|hu|xenon|-val|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|non|nal}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||ins|s}}</text>
+<sha1>4g3prgz49e0olb4dr5ltj68mkrlvu9i</sha1>
+</revision>
+</page>

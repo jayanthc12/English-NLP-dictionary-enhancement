@@ -1,0 +1,33 @@
+<page>
+<title>yhteiskuntatiede</title>
+<ns>0</ns>
+<id>653050</id>
+<revision>
+<id>58642126</id>
+<parentid>54764429</parentid>
+<timestamp>2020-02-05T15:33:55Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteiskunta|tiede}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunta/tiede*}}
+===Noun===
+{{fi-noun}}
+# [[social science]]
+====Declension====
+{{fi-decl-hame|yhteiskuntatie|d|t|ä}}
+====Derived terms====
+* {{l|fi|yhteiskuntatieteellinen}}
+====Related terms====
+* {{l|fi|yhteiskuntatieteilijä}}</text>
+<sha1>6v8p07jh2ohho3ezdtqcf39r50sr8ot</sha1>
+</revision>
+</page>

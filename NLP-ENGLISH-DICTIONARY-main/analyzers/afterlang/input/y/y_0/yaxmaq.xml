@@ -1,0 +1,46 @@
+<page>
+<title>yaxmaq</title>
+<ns>0</ns>
+<id>7033665</id>
+<revision>
+<id>69236279</id>
+<parentid>69236277</parentid>
+<timestamp>2022-09-11T22:49:55Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Derived terms */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="854" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јахмаг|r=yaxmaq|a=یاخماق}}
+===Pronunciation===
+* {{IPA|az|[jɑχˈmɑχ]}}
+* {{hyphenation|az|jax|maq}}
+===Etymology 1===
+From {{inh|az|trk-pro|*yak-}}&lt;ref&gt;{{R:tut-pro:SDM|*jak-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+13&amp;root=config}}&lt;/ref&gt;
+Cognate with {{cog|tr|yakmak}}, {{cog|cv|ҫот}}, etc.
+====Verb====
+{{az-verb}}
+# {{lb|az|transitive|archaic|_|or|_|poetic}} to [[burn]]
+#: {{syn|az|yandırmaq}}
+=====Conjugation=====
+{{az-conj|a}}
+===Etymology 2===
+====Verb====
+{{az-verb}}
+# {{lb|az|transitive}} to [[smear]], [[spread]], [[anoint]]
+#: {{syn|az|sürtmək}}
+=====Conjugation=====
+{{az-conj|a}}
+====Derived terms====
+* {{l|az|yaxma}}
+** {{l|az|qarayaxma}}
+===Further reading===
+* {{R:az:Obastan}}
+===References===
+&lt;references/&gt;</text>
+<sha1>lr6zpdnoa9f2as9uw0yb2rfp7mp1qwh</sha1>
+</revision>
+</page>

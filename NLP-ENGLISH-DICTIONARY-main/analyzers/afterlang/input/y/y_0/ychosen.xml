@@ -1,0 +1,30 @@
+<page>
+<title>ychosen</title>
+<ns>0</ns>
+<id>3521671</id>
+<revision>
+<id>59624743</id>
+<parentid>54319199</parentid>
+<timestamp>2020-06-27T07:23:27Z</timestamp>
+<contributor>
+<username>OR AlexMC</username>
+<id>3683083</id>
+</contributor>
+<comment>T:etyl cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="779" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|ichosen}}
+===Etymology===
+From {{inh|en|enm|ichosen}}, {{m|enm|ȝechosen}}, for earlier {{m|enm|ȝecoren||chosen}}, from {{inh|en|ang|ġecoren||chosen}}, past participle of {{m|ang|ċēosan||to choose}}, equivalent to {{prefix|en|y|chosen}}. More at {{l|en|choose}}.
+===Verb===
+{{head|en|verb form}}
+# {{form of|en|Archaic or obsolete form|chosen}}.
+#* '''1830''', The British magazine:
+#*: Ye cannot lay one finger upon us to our despite,&quot; replied the former, &quot;if my Master permit not; for the race is neither to the swift nor the battle to the strong; for God hath '''ychosen''' ye foolish things of this world to confound ye wise; [...]
+====Usage notes====
+* Used as a deliberate archaicism in Modern and Early Modern English.</text>
+<sha1>6qce1ce5zoyfmu6arvppxj7w5nbbttl</sha1>
+</revision>
+</page>

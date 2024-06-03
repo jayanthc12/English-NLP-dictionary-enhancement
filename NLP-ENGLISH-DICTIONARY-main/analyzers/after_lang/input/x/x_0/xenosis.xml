@@ -1,0 +1,25 @@
+<page>
+<title>xenosis</title>
+<ns>0</ns>
+<id>6828098</id>
+<revision>
+<id>54333724</id>
+<parentid>50280739</parentid>
+<timestamp>2019-09-28T09:32:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{synonym of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{synonym of|en|zoonosis}}
+====Related terms====
+* [[xenotic]]</text>
+<sha1>cnfx6ocq3qjjk6tjmgh8siyh2776x0g</sha1>
+</revision>
+</page>

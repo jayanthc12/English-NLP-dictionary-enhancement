@@ -1,0 +1,42 @@
+<page>
+<title>xingshu</title>
+<ns>0</ns>
+<id>3459014</id>
+<revision>
+<id>68806909</id>
+<parentid>67296318</parentid>
+<timestamp>2022-08-27T18:29:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="936" xml:space="preserve">{{also|xíngshū}}
+==English==
+{{wikipedia|semi-cursive script}}
+===Etymology===
+From {{uder|en|cmn|行書|sc=Hant}} / {{l|cmn|行书|tr=xíngshū|sc=Hans}}.
+===Noun===
+{{en-noun|-}}
+# [[semicursive]] or [[running script]] used in [[Chinese]] [[calligraphy]]
+====Translations====
+{{trans-top|running script in Chinese calligraphy}}
+* Chinese:
+*: Cantonese: {{t|yue|行書|sc=Hant}}, {{t|yue|行书|tr=hang4 syu1|sc=Hant}}
+*: Hakka: {{t|hak|行書|sc=Hans}}, {{t|hak|行书|tr=hang11 su24|sc=Hans}}
+*: Mandarin: {{t+|cmn|行書|sc=Hani}}, {{t+|cmn|行书|tr=xíngshū|sc=Hani}}
+*: Min Nan: {{t|nan|行書|sc=Hans}}, {{t|nan|行书|tr=hâng-su|sc=Hans}}
+{{trans-mid}}
+* German: {{t|de|Semikursivschrift|f}}
+* Japanese: {{t|ja|行書|tr=ぎょうしょ, gyōsho|sc=Jpan}}
+* Korean: {{t|ko|행서(行書)}}
+* Russian: {{t|ru|синшу́|m|f|n}}
+* Vietnamese: {{t|vi|hành thư}} ({{t|vi|行書}})
+{{trans-bottom}}
+{{C|en|Calligraphy}}</text>
+<sha1>sebsqutlgtteyjyljlliq5d8h5vog3t</sha1>
+</revision>
+</page>

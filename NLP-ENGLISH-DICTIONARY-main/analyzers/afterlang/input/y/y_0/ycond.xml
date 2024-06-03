@@ -1,0 +1,24 @@
+<page>
+<title>ycond</title>
+<ns>0</ns>
+<id>3046230</id>
+<revision>
+<id>69050299</id>
+<parentid>58051789</parentid>
+<timestamp>2022-09-03T05:31:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="184" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|con|nocat=1}}; [[learned]], [[learnt]].
+[[Category:English terms prefixed with y-]]</text>
+<sha1>1w6c6i73k9ynuizuzyr3zhdm3i8cmvr</sha1>
+</revision>
+</page>

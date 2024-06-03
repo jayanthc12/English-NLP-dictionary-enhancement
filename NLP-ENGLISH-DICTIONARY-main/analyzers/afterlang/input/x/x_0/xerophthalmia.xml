@@ -1,0 +1,42 @@
+<page>
+<title>xerophthalmia</title>
+<ns>0</ns>
+<id>58741</id>
+<revision>
+<id>65361591</id>
+<parentid>64514950</parentid>
+<timestamp>2022-01-16T22:34:12Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>#: {{syn|en|xerophthalmos|xerophthalmus}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="953" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|ophthalmia}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|ophthalmology}} A condition due to a [[deficiency]] of vitamin A where the [[conjunctiva]] and [[cornea]] become [[dry]]. The condition starts with [[conjunctival]] [[xerosis]] and night [[blindness]] and progresses to corneal xerosis and, later, a severe condition called [[keratomalacia]].
+#: {{syn|en|xerophthalmos|xerophthalmus}}
+====Derived terms====
+* {{l|en|xerophthalmic}}
+====Translations====
+{{trans-top|condition}}
+* Chinese:
+*: Mandarin: {{t+|cmn|干眼症}}
+* French: {{t+|fr|xérophtalmie|f}}
+* German: {{t+|de|Xerophthalmie}}
+* Irish: {{t|ga|xéaroftailmia|f}}
+* Italian: {{t+|it|xeroftalmia|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|眼球乾燥症}}
+* Portuguese: {{t|pt|xeroftalmia|f}}
+* Romanian: {{t+|ro|xeroftalmie|f}}
+* Spanish: {{t|es|xeroftalmia|f}}
+* Vietnamese: {{t|vi|chứng khô mắt}}, {{t|vi|bệnh khô mắt}}
+{{trans-bottom}}</text>
+<sha1>480hu4bm67pwygd8pxde9nhut8cvpls</sha1>
+</revision>
+</page>

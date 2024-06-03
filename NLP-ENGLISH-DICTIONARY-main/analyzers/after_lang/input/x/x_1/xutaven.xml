@@ -1,0 +1,21 @@
+<page>
+<title>xutaven</title>
+<ns>0</ns>
+<id>6587028</id>
+<revision>
+<id>49147362</id>
+<timestamp>2018-03-11T22:18:22Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=pl|t=impf|m=ind|xutar}}</text>
+<sha1>o25fp26jj5cgqchhvd0dyp86grprl12</sha1>
+</revision>
+</page>

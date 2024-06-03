@@ -1,0 +1,31 @@
+<page>
+<title>xeracional</title>
+<ns>0</ns>
+<id>7242378</id>
+<revision>
+<id>68878077</id>
+<parentid>53220385</parentid>
+<timestamp>2022-08-28T06:41:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Galician==
+===Etymology===
+From {{suffix|gl|xeración|al}}.
+===Adjective===
+{{gl-adj|pl=xeracionais}}
+# [[generational]]
+====Derived terms====
+* {{l|gl|interxeracional}}
+* {{l|gl|transxeracional}}
+* {{l|gl|multixeracional}}
+====Further reading====
+* {{R:gl:DRAG}}</text>
+<sha1>fqgj3j02wxbl58l3sgvt1ld1enizhpf</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>yarwhelp</title>
+<ns>0</ns>
+<id>1214545</id>
+<revision>
+<id>48984194</id>
+<parentid>47244099</parentid>
+<timestamp>2018-02-11T07:15:52Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Shorebirds]]; added [[Category:en:Scolopacids]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="121" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|England|archaic}} [[godwit]], a type of bird.
+[[Category:en:Scolopacids]]</text>
+<sha1>2yfau2n55ghjy2scddoie7eb3b0xraz</sha1>
+</revision>
+</page>

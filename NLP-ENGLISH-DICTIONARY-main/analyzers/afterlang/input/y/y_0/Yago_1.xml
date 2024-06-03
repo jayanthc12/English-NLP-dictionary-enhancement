@@ -1,0 +1,32 @@
+<page>
+<title>Yago</title>
+<ns>0</ns>
+<id>170757</id>
+<revision>
+<id>62085116</id>
+<parentid>61998040</parentid>
+<timestamp>2021-03-14T03:06:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="306" xml:space="preserve">{{also|yago|yágo}}
+==Spanish==
+===Etymology===
+From {{inh|es|la|Iācōbus}}, related to {{cog|en|Jacob}} and {{m|en|James}}.
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{es-proper noun|m}}
+# {{given name|es|male|from=Latin}}
+===See also===
+* {{l|es|Santiago}}
+* {{l|es|Diego}}
+* {{l|es|Jacobo}}</text>
+<sha1>pv4z4h6qo3rydxht7srwmfkvlbp7y6w</sha1>
+</revision>
+</page>

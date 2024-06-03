@@ -1,0 +1,165 @@
+<page>
+<title>Yiddish</title>
+<ns>0</ns>
+<id>3266</id>
+<revision>
+<id>68528043</id>
+<parentid>67609950</parentid>
+<timestamp>2022-08-04T07:41:20Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5943" xml:space="preserve">{{also|yiddish|yíddish}}
+==English==
+{{wikipedia}}
+{{interwiktionary|code=yi}}
+===Etymology===
+{{rfv|gmh|section=jüdisch diutsch}}
+{{uder|en|yi|ייִדיש|sc=Hebr}}, from ''Yidish Daytsh'', from {{uder|en|gmh|jüdisch diutsch||[[Jewish]] [[German]]}}, cognate with {{cog|de|jüdisch||Jewish}}.
+===Pronunciation===
+* {{enPR|yĭd'ĭsh}}, {{IPA|en|/ˈjɪd.ɪʃ/}}
+* {{audio|en|En-Yiddish.oga|Audio (U.S.A.)}}
+===Adjective===
+{{en-adj}}
+# Of or pertaining to the {{w|Yiddish language}}.
+# {{lb|en|informal}} Jewish; relating to [[Yiddishkeit]].
+#: '''''Yiddish''' cooking; '''Yiddish''' music''
+====Synonyms====
+* {{sense|Jewish}} {{l|en|Jewish}}
+====Translations====
+{{trans-top|of or pertaining to the Yiddish language}}
+* Afrikaans: {{t+|af|Jiddisj}}
+* Armenian: {{t+|hy|իդիշ}}
+* Catalan: {{t+|ca|ídix}}, {{t+|ca|jiddisch}}
+* Czech: {{t|cs|Jidiš|n}}
+* Danish: {{t|da|jiddisch}}
+* Dutch: {{t+|nl|Jiddisch}}, {{t+|nl|Jiddisj}}
+* Esperanto: {{t|eo|jida}}
+* Faroese: {{t|fo|jiddiskur}}
+* Finnish: {{t|fi|jiddišinkielinen}}
+* French: {{t+|fr|yiddish}}
+* Galician: {{t+|gl|yiddish}}
+* German: {{t+|de|jiddisch}}, {{t|de|judendeutsch}}, {{t+|de|judenteutsch}}, {{t|de|jüdischdeutsch}}, {{t|de|jüdisch-deutsch}}, {{t|de|jüdischteutsch}}, {{t|de|jüdisch-teutsch}}
+* Greek: {{t+|el|γίντις}}
+* Hebrew: {{t|he|אִידִישָׁאִי|tr=idishai}}
+* Icelandic: {{t+|is|jiddíska}}
+* Irish: {{t|ga|Giúdaise}}
+{{trans-mid}}
+* Italian: {{t+|it|yiddish}}
+* Ladino: {{t|lad|idish}}
+* Latin: {{t|la|Judaeo-Germanicus}}
+* Lithuanian: {{t+|lt|Jidiš}}
+* Norwegian:
+*: Bokmål: {{t+|nb|jiddisch}}, {{t+|nb|jiddisk}}
+*: Nynorsk: {{t|nn|jiddisch}}, {{t|nn|jiddisk}}
+* Persian: {{t|fa|ییدیش|tr=yidiš|sc=fa-Arab}}
+* Polish: {{t+|pl|jidysz}}
+* Portuguese: {{t+|pt|iídiche}}
+* Russian: {{t+|ru|и́диш}}
+* Scots: {{t|sco|Yiddish}}
+* Serbo-Croatian: {{t+|sh|jidiš}}, {{t|sh|јидиш|m}}
+* Swedish: {{t+|sv|jiddisk}}, {{t|sv|jiddisch-}}
+* Ukrainian: {{t+|uk|ї́диш}}
+* Yiddish: {{t+|yi|ייִדיש|sc=Hebr}}
+{{trans-bottom}}
+{{trans-see|Jewish}}
+===Proper noun===
+{{en-proper noun}}
+# A West Germanic, or more specifically High German, language that developed from [[Middle High German]] dialects, with an admixture of vocabulary from multiple source languages including Hebrew-Aramaic, Romance, Slavic, English, etc., and mostly written in [[Hebrew]] characters which is used mainly among [[Ashkenazi]]c [[Jew]]s from central and eastern Europe.
+#* '''1983''', Philip Baldi, ''An Introduction to the Indo-European Languages'', p. 128:
+#*: '''Yiddish''' is a High German language [...] two varieties of Yiddish developed [...]
+====Synonyms====
+* {{l|en|Jewish}}
+====Holonyms====
+* {{l|en|High German}}
+====Meronyms====
+* {{l|en|Eastern Yiddish}}, {{l|en|East Yiddish}}; {{l|en|Western Yiddish}}, {{l|en|West Yiddish}}
+====Related terms====
+{{rel4|en
+|Yid
+|Yiddishise
+|Yiddishist
+|Yiddishism
+|Yiddishize
+|Yiddishkeit
+|Yinglish
+}}
+====Translations====
+{{trans-top|language}}
+* Afrikaans: {{t+|af|Jiddisj}}
+* Albanian: {{t|sq|jidisht}}
+* Arabic: {{t|ar|يِدِيشِيَّة|f}}, {{t|ar|إِيدِيش|m}}
+* Aragonese: {{t|an|yídix|m}}
+* Armenian: {{t+|hy|իդիշ}}
+* Azerbaijani: {{t|az|idiş dili}}, {{t|az|idiş}}
+* Belarusian: {{t+|be|і́дыш|m}}
+* Bulgarian: {{t|bg|и́диш|m}}
+* Catalan: {{t+|ca|ídix|m}}, {{t+|ca|jiddisch|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|意第緒語}}, {{t+|cmn|意第绪语|tr=yìdìxùyǔ}}
+* Cornish:
+*: Kernowek Standard: {{t|kw|Yêdhowek}}
+* Czech: {{t+|cs|jidiš|m}}
+* Danish: {{t|da|jiddisch|n}}
+* Dutch: {{t+|nl|Jiddisch|n}}, {{t+|nl|Jiddisj|n}}
+* Esperanto: {{t|eo|Jido}}, {{t|eo|jida lingvo}}, {{t|eo|jida}}, {{t|eo|Jidiŝo}}
+* Estonian: {{t|et|jidiši}}
+* Faroese: {{t|fo|jiddiskt|n}}
+* Finnish: {{t+|fi|jiddiš}}, {{t+|fi|juutalaissaksa}} {{qualifier|dated}}
+* French: {{t+|fr|yiddish|m}}
+* Georgian: {{t|ka|იდიში}}
+* German: {{t+|de|Jiddisch|n}}, {{t|de|Jidisch|n}}, {{t+|de|Jüdischdeutsch|n}} {{q|dated}}, {{t+|de|Jüdisch-Deutsch|n}} {{q|obsolete}}, {{t+|de|Judendeutsch|n}} {{q|dated}}, {{t+|de|Judenteutsch|n}} {{q|obsolete}}
+* Greek: {{t+|el|γίντις|n-p}}
+* Hebrew: {{t+|he|יִידִישׁ|tr=yidish}}, {{t+|he|אידיש|tr=idish}}
+* Hindi: {{t+|hi|यहूदी}}, {{t+|hi|यिडिश}}
+* Hungarian: {{t+|hu|jiddis}}
+* Indonesian: {{t|id|bahasa Yiddi}}
+{{trans-mid}}
+* Irish: {{t|ga|Giúdais|f}}
+* Italian: {{t+|it|yiddish|m}}
+* Japanese: {{t+|ja|イディッシュ語|tr=Idisshu-go}}
+* Korean: {{t+|ko|^이디시어}}
+* Ladino: {{t|lad|idish}}
+* Latvian: {{t|lv|jidišs|m}}
+* Lithuanian: {{t+|lt|jidiš}}
+* Macedonian: {{t|mk|ји́диш|m}}
+* Malay: {{t|ms|bahasa Yiddish}}
+* Norwegian:
+*: Bokmål: {{t+|nb|jiddisch|m}}, {{t+|nb|jiddisk|m}}
+*: Nynorsk: {{t|nn|jiddisch|m}}, {{t|nn|jiddisk|m}}
+* Persian: {{t|fa|ییدیش|tr=yidiš}}
+* Polish: {{t+|pl|jidysz}}
+* Portuguese: {{t+|pt|iídiche|m}}, {{t+|pt|ídiche|m}}
+* Romanian: {{t+|ro|idiș|n}}
+* Russian: {{t+|ru|и́диш|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|јидиш|m}}
+*: Roman: {{t+|sh|jidiš|m}}
+* Slovak: {{t|sk|jidiš|m}}
+* Slovene: {{t|sl|jidiš|m}}
+* Spanish: {{t+|es|yidis|m}}
+* Swedish: {{t+|sv|jiddisch|c}}
+* Thai: {{t|th|ภาษายิดดิช|tr=paasăa yítdìt}}
+* Turkish: {{t+|tr|Yidiş}}
+* Ukrainian: {{t+|uk|ї́диш|m}}, {{t+|uk|і́диш|m}}
+* Vietnamese: {{t+|vi|tiếng Yiddish}}
+* Welsh: {{t|cy|Iddew-Almaeneg|m|f}}, {{t|cy|Iddeweg|m|f}}
+* Yiddish: {{t+|yi|ייִדיש|n}}, {{t|yi|מאַמע־לשון|n|tr=mame-loshn}}, {{t|yi|זשאַרגאָן|m}} {{q|pejorative}}, {{t|yi|טײַטש|n}} {{q|dated}}, {{t|yi|ייִדיש־טײַטש|n}} {{q|dated}}
+{{trans-bottom}}
+===See also===
+* {{langcat|yi}}
+===Further reading===
+* {{ISO 639|ref=1|yi||yid}}
+* {{ethnologue|yid}}, a macrolanguage including:
+** {{ethnologue|ydd|lang=Eastern Yiddish}}
+** {{ethnologue|yih|lang=Western Yiddish}}
+[[Category:en:Judaism]]
+[[Category:en:Languages]]</text>
+<sha1>fc7vujgge428bw2qszlcxor76n2lk24</sha1>
+</revision>
+</page>

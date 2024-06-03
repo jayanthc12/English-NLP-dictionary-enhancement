@@ -1,0 +1,44 @@
+<page>
+<title>xamixcalchihualoyan</title>
+<ns>0</ns>
+<id>4648022</id>
+<revision>
+<id>56337286</id>
+<parentid>51952759</parentid>
+<timestamp>2019-10-17T13:35:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1347" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xamixcal chiualoyan}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{compound|nci|xamixcalli|chīhua|alt2=chīhualo|t1=adobe brick|t2=}}, passive form of {{m|nci|chīhua||to make}} {{suffix|nci||yān}}.
+===Pronunciation===
+* {{IPA|nci|[ʃa.miʃ.kaɬ.t͡ʃiː.waˈloː.jaːn]}}
+===Noun===
+{{nci-noun|loc|xamixcalchīhualōyān}}
+# [[brickworks]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 151v.
+#*: Ladrilleria donde ſe hazen. &amp;nbsp;xamixcal copinaloyã.'''xamix''' / '''cal chiualoyã'''.
+#*:: A brickworks, the place where they [bricks] are made. xamixcal copinaloyã. '''xamixcal chiualoyã'''.&lt;!--
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. . col. .
+#*:
+#*::
+#* ''Idem'', f. . col. .
+#*: '''
+#*:: '''
+--&gt;
+====Synonyms====
+* {{l|nci|xamixcalcopīnalōyān}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=}}
+[[Category:nci:Buildings]]</text>
+<sha1>diviur8tw46jzomod9mqq4knimb73yv</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>yacaxiuitl</title>
+<ns>0</ns>
+<id>4423836</id>
+<revision>
+<id>54606754</id>
+<parentid>40322512</parentid>
+<timestamp>2019-10-03T05:28:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="113" xml:space="preserve">{{also|yaca xiuitl}}
+==Classical Nahuatl==
+===Noun===
+{{nci-noun|i}}
+# {{obsolete spelling of|nci|yacaxihuitl}}</text>
+<sha1>4ebuqn39zx3unemwsgs1r3s8axs1uyn</sha1>
+</revision>
+</page>

@@ -1,0 +1,60 @@
+<page>
+<title>yfir</title>
+<ns>0</ns>
+<id>200959</id>
+<revision>
+<id>68652300</id>
+<parentid>67605339</parentid>
+<timestamp>2022-08-16T16:26:43Z</timestamp>
+<contributor>
+<ip>193.234.116.178</ip>
+</contributor>
+<comment>/* Descendants */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1287" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{der|is|non|yfir}}, from {{der|is|gem-pro|*ubiri}}, from {{der|is|ine-pro|*upéri}}, from {{m|ine-pro|*upér}}, from {{m|ine-pro|*upo}}. Related to {{m|is|of||too}} and {{m|is|ofan||from above}}.
+===Preposition===
+{{head|is|preposition}}
+# {{lb|is|with dative|with accusative}} [[above]]
+====Antonyms====
+* {{sense|yfir}} {{l|is|undir}}
+====Derived terms====
+{{der-top}}
+* {{l|is|fara eins og logi yfir akur}}
+* {{l|is|líða yfir}}
+* {{l|is|sofa yfir sig}}
+* {{l|is|yfirheiti}}
+* {{l|is|yfirfyll}}
+{{der-mid}}
+* {{l|is|yfirmaður}}
+* {{l|is|yfirráð}}
+* {{l|is|yfirvald}}
+{{der-bottom}}
+----
+==Old Norse==
+===Etymology===
+From {{der|non|gem-pro|*ubiri}}, from {{der|non|ine-pro|*upéri}}, from {{m|ine-pro|*upér}}, from {{m|ine-pro|*upo}}.
+===Preposition===
+{{head|non|preposition}}
+# [[above]]
+====Descendants====
+* {{desc|is|yfir}}
+* {{desc|fo|yvir}}
+* {{desc|no|-}} {{l|nb|over}}
+* {{desc|gmq-osw|yvir|ivir|over}}
+** {{desc|sv|över}}; {{l|sv|öv}} {{q|dialectal}}
+* {{desc|gmq-gut|yfvar|yfver}}
+* Dalian: {{l|ovd|yvyr}}
+* {{desc|gmq-bot|øver}}, {{l|gmq-bot|övi}}, {{l|gmq-bot|yvi}}, {{l|gmq-bot|ivi}}
+===References===
+* {{R:Zoega}}
+----
+==Welsh==
+===Verb===
+{{cy-verb form}}
+# {{inflection of|cy|yfed||impers|present//future}}</text>
+<sha1>ev9n45wwu3e14jdb0ezgkchwr4ng850</sha1>
+</revision>
+</page>

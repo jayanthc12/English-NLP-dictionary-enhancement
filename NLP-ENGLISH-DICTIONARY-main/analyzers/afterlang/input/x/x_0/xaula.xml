@@ -1,0 +1,45 @@
+<page>
+<title>xaula</title>
+<ns>0</ns>
+<id>3695094</id>
+<revision>
+<id>68863441</id>
+<parentid>68863205</parentid>
+<timestamp>2022-08-28T05:21:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1190" xml:space="preserve">==Asturian==
+===Etymology===
+Borrowed from {{bor|ast|fro|jaiole}} or {{m|fro|gaiole}} (modern {{m|fr|geôle}}), from {{der|ast|VL.|*caveola}}, from {{der|ast|la|cavea}}. Compare {{cog|es|jaula}}.
+===Noun===
+{{ast-noun|f|xaules}}
+# [[cage]]
+----
+==Galician==
+===Etymology===
+Attested since circa 1300. Borrowed from {{bor|gl|fro|gaiole|jaiole}} (modern {{m|fr|geôle}}), from {{der|gl|VL.|*caveola}}, from {{der|gl|la|cavea}}. {{doublet|gl|gaiola}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃawla̝/}}
+===Noun===
+{{gl-noun|f}}
+# {{alternative form of|gl|gaiola}}
+#* '''c1300''', R. Lorenzo (ed.), ''La traducción gallega de la Crónica General y de la Crónica de Castilla''. Ourense: I.E.O.P.F., page 582:
+#*: ''Et o Cçide leuãtouse et tomou o leõ pelo pescoço, bẽ com̃o se fosse hũu alaao manso, [et meteuo] en sua '''iauola''' de ferro en que sse criara''
+#*:: And El Cid stood up, took the lion by the neck as if it was but a meek mastiff, and put him inside his iron '''jail''', where he was grown
+====Usage notes====
+* The use of ''xaula'' is considered incorrect.
+===References===
+* {{R:gl:DDGM|iauola}}
+* {{R:gl:CX|iauola}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>994wt7lf0x3sr8yziiptskqia3asdkq</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xylosyltransferase</title>
+<ns>0</ns>
+<id>1079456</id>
+<revision>
+<id>42786704</id>
+<parentid>39289941</parentid>
+<timestamp>2017-05-03T18:54:18Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>ety</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="178" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|xylosyl|transferase}}
+===Noun===
+{{en-noun}}
+# {{lb|en|enzyme}} Any [[glycosyltransferase]] that catalyzes the transfer of [[xylose]]</text>
+<sha1>mhwldf3ymm9pybs6m6std70vrnjmlx0</sha1>
+</revision>
+</page>

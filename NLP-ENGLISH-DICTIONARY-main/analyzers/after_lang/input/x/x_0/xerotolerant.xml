@@ -1,0 +1,25 @@
+<page>
+<title>xerotolerant</title>
+<ns>0</ns>
+<id>5117967</id>
+<revision>
+<id>36273601</id>
+<parentid>35929615</parentid>
+<timestamp>2016-01-17T22:07:34Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>term &gt; m, context &gt; label, cx &gt; lb, usex &gt; ux</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="155" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|tolerant}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|biology}} Capable of thriving in a [[dry]] [[environment]].</text>
+<sha1>o64dc0416km9ng9hwms2srxpmh6o0xd</sha1>
+</revision>
+</page>

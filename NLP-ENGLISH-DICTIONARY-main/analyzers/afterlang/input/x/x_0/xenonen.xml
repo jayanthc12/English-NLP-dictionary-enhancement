@@ -1,0 +1,25 @@
+<page>
+<title>xenonen</title>
+<ns>0</ns>
+<id>4289683</id>
+<revision>
+<id>53114236</id>
+<parentid>38365065</parentid>
+<timestamp>2019-05-19T04:35:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'definite common singular' to def|c|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==Danish==
+===Alternative forms===
+* {{l|da|xenonet}}
+===Noun===
+{{head|da|noun form|g=c|g2=n}}
+# {{inflection of|da|xenon||def|c|s}}</text>
+<sha1>o0dxizyoda9t98lunm7q21yq78266yk</sha1>
+</revision>
+</page>

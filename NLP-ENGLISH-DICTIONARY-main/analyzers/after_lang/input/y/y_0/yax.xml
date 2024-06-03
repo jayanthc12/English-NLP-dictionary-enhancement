@@ -1,0 +1,64 @@
+<page>
+<title>yax</title>
+<ns>0</ns>
+<id>6089928</id>
+<revision>
+<id>69427776</id>
+<parentid>69239651</parentid>
+<timestamp>2022-10-02T23:07:27Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>moved categories to end of language, per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="817" xml:space="preserve">==Huave==
+===Noun===
+{{head|huv|noun}}
+# [[avocado]] (tree)
+# [[avocado]] (fruit)
+===References===
+* {{R:Stairs et al. 1981|pages=184, 192, 407}}
+{{c|huv|Trees|Fruits}}
+----
+==Q'anjob'al==
+===Etymology===
+From {{inh|kjb|myn-pro|*ra7x}}.
+===Adjective===
+{{head|kjb|adjective}}
+# [[green]]
+----
+==Tzeltal==
+===Etymology===
+From {{inh|tzh|myn-pro|*ra7x}}.
+===Adjective===
+{{head|tzh|adjective}}
+# [[green]]
+----
+==Wastek==
+===Etymology===
+From {{inh|hus|myn-pro|*ra7x}}.
+===Adjective===
+{{head|hus|adjective}}
+# [[green]]
+----
+==Wolof==
+===Noun===
+{{wo-noun|bi}}
+# [[bone]]
+# crux of the matter
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=260
+|isbn=978-1-59703-017-5}}
+{{topics|wo|Anatomy}}</text>
+<sha1>nm7ovgn9waox5vactfzo9c893rs45xl</sha1>
+</revision>
+</page>

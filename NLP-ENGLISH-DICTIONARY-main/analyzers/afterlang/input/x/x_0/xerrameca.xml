@@ -1,0 +1,32 @@
+<page>
+<title>xerrameca</title>
+<ns>0</ns>
+<id>6571614</id>
+<revision>
+<id>63623877</id>
+<parentid>53355920</parentid>
+<timestamp>2021-08-11T16:31:52Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="248" xml:space="preserve">==Catalan==
+===Etymology===
+From {{m|ca|xerrar}} (&quot;to chatter&quot;).
+===Pronunciation===
+* {{ca-IPA|è}}
+===Noun===
+{{ca-noun|f}}
+# [[chat]], [[chattering]]
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+{{C|ca|Talking}}</text>
+<sha1>3qywsia7vu0f3ik76b7cxe85330nqwp</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xurdirei</title>
+<ns>0</ns>
+<id>1613931</id>
+<revision>
+<id>56980273</id>
+<parentid>35105481</parentid>
+<timestamp>2019-10-19T06:51:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xurdir||1|s|futr|indc}}</text>
+<sha1>6vls63iaz03xibk8umwr6q2oi3hamck</sha1>
+</revision>
+</page>

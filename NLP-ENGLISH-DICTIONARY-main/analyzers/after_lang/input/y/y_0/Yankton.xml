@@ -1,0 +1,29 @@
+<page>
+<title>Yankton</title>
+<ns>0</ns>
+<id>5407479</id>
+<revision>
+<id>58559973</id>
+<parentid>58364078</parentid>
+<timestamp>2020-01-27T00:13:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Cities in the United States</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="265" xml:space="preserve">==English==
+{{wp}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|city/county seat|co/Yankton County|s/South Dakota|c/USA}}.
+===Noun===
+{{en-noun|s|Yankton}}
+# A member of a western branch of the [[Dakota]] people.
+====Related terms====
+* {{l|en|Yanktonai}}</text>
+<sha1>h30tdmrrcmc4e2ye4pmy451qb28hpo7</sha1>
+</revision>
+</page>

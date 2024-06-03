@@ -1,0 +1,33 @@
+<page>
+<title>yibah</title>
+<ns>0</ns>
+<id>4779474</id>
+<revision>
+<id>69320716</id>
+<parentid>46218842</parentid>
+<timestamp>2022-09-18T20:15:23Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="582" xml:space="preserve">{{also|yíbah}}
+==Navajo==
+===Etymology===
+{{nv-prefixes|yi-prog|3s|∅}} {{nv-link-to-stem|-bah|progressive}} {{nv-link-to-root|-BAAʼ|raid}}.
+===Verb===
+{{head|nv|verb}}
+# he/she is going along [[raid#Verb|raiding]], is going along the [[warpath#Noun|warpath]]
+====Usage notes====
+This is a progressive verb; it is conjugated only in the progressive mode.
+====Conjugation====
+{{nv-paradigm|progressive|yi}}.
+{{nv-verbtable|PROGRESSIVE
+|yishbah|yiibah|deíníibááh|yíbah|wohbah|deínóhbááh|yibah|deíbááh|joobah|dajíbááh}}
+====Related terms====
+* {{l|nv|yibááh}}</text>
+<sha1>ehh7124i8p1svee8cg1wz2vwn6kba7w</sha1>
+</revision>
+</page>

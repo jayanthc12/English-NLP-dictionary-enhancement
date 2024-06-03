@@ -1,0 +1,61 @@
+<page>
+<title>xiphias</title>
+<ns>0</ns>
+<id>38505</id>
+<revision>
+<id>67308940</id>
+<parentid>67285076</parentid>
+<timestamp>2022-06-07T11:05:06Z</timestamp>
+<contributor>
+<ip>217.229.86.215</ip>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2222" xml:space="preserve">{{also|Xiphias}}
+==English==
+{{was wotd|2011|April|26}}
+===Etymology===
+{{bor+|en|mul|Xiphias}} or {{bor|en|la|xiphiās|t=swordfish}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzɪfiəs/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-xiphias.wav|Audio (UK)}}
+===Noun===
+{{en-noun|?}}
+# {{synonym of|en|swordfish}}
+#* {{RQ:Spenser Faerie Queene|II|xii|text=Huge '''''Ziffius''''', whom Mariners eschew / No lesse, then rockes, as travellers informe {{...}}}}
+#* {{quote-book|en|1700||Philosophical transactions of the Royal Society of London|volume=3|page=38|text=''S. Malpighi'' having dissected the Head of a '''''Xiphias''''' or ''Sword Fish'', which hath a very big Eye, observ'd that the middle of the Optick Nerve is nothing else, but a large Membrane, folded according to its length in many Doubles almost like a Fan, and invested by the ''Dura Mater''.}}
+#* {{quote-book|en|1857|Bostock &amp; Riley|by=Pliny|Natural History|chapter=part 32.vi|text=Trebius Niger informs us that {{...}} the '''xiphias''', or, in other words, the sword-fish, has a sharp-pointed muzzle, with which it is able to pierce the sides of a ship and send it to the bottom {{...}}}}
+#* {{quote-journal|en|23 May 1863|Prof. Huxley|Structure and development of the vertebrate skeleton|The Lancet|text=In the '''xiphias''', you observe, the enormous elongation of the head is produced by the elongation of the jaws proper – that is to say, of the pre-maxilla and nasal bones.}}
+====Translations====
+{{trans-see|xiphias|swordfish}}
+[[Category:en:Scombroids]]
+----
+==Latin==
+{{wikipedia|lang=la}}
+[[Image:Xiphias_gladius1.jpg|thumb|250px|xiphiās (a swordfish)]]
+===Etymology===
+From {{der|la|grc|ξιφίας}}, derived from {{m|grc|ξίφος||sword}}.
+===Pronunciation===
+* {{la-IPA|eccl=yes|xiphiās}}
+* {{audio|la|la-cls-xiphias.ogg|Audio (Classical)}}
+===Noun===
+{{la-noun|xiphiās&lt;1&gt;}}
+# a [[swordfish]], ''Xiphias gladius''
+# a [[sword]]-shaped [[comet]]
+====Declension====
+{{la-ndecl|xiphiās&lt;1&gt;}}
+====Synonyms====
+* {{sense|swordfish}} {{l|la|gladius}}
+====Related terms====
+* {{l|la|xiphion}}
+====Descendants====
+* {{desc|mul|Xiphias}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+[[Category:la:Fish]]</text>
+<sha1>c4ssgyg18bi5tov91txu8iq087stfai</sha1>
+</revision>
+</page>

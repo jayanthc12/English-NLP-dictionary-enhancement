@@ -1,0 +1,46 @@
+<page>
+<title>xalq</title>
+<ns>0</ns>
+<id>6579076</id>
+<revision>
+<id>67174128</id>
+<parentid>66974778</parentid>
+<timestamp>2022-05-28T06:42:56Z</timestamp>
+<contributor>
+<ip>2A01:CB01:2029:6F2C:B12E:4FE5:3717:BF76</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1904" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=халг|r=xalq|a=خالق}}
+===Alternative forms===
+* {{l|az|xəlq}}
+===Etymology===
+{{bor+|az|ar|خَلْق}}. {{root|az|ar|خ ل ق}}
+===Pronunciation===
+* {{IPA|az|[χɑɫɡ]|[χɑɫk]|[χɑlχ]}}
+===Noun===
+{{az-head-noun|a|c}}
+# [[people]], [[nation]] {{C|az|Collectives}}
+#* {{quote-web|az|author=Pərvin Darabadi|work=New Times.az|url=http://newtimes.az/az/politics/1943//6-81686.html|date=May 3, 2012|accessdate=March 9, 2018|passage=Ötən əsrin ortalarında fransız politoloqu və sosioloqu Reymon Aron özünün &quot;'''Xalqlar '''arasında sülh və müharibə” adlı fundamental əsərində qeyd edirdi ki, böyük dövlətlərin XX əsrin müstəmləkə müharibələrində məğlub olması &quot;qiyamçı-müstəmləkəçi” münasibətlərin assimmetriyası ilə izah oluna bilər.|translation= In the middle of the previous century, the French political scientist and sociologist [[w|Raymond Aron]] wrote in his fundamental work &quot;War and peace between '''peoples'''&quot; that the defeat of major powers in colonial wars of the 20th century can be explained with the asymmetry in the relations between &quot;insurgents&quot; and &quot;colonist&quot;.}}
+#: {{uxi|az|Azərbaycan '''xalqı'''|Azerbaijani people}}
+#: {{uxi|az|Yapon '''xalqı''' zəhmətkeş bir '''xalq'''dır.|Japanese '''people ''' are a hard-working '''nation'''.}}
+# [[people's]] {{non-gloss|(honorary title given by the government to distinguished culture workers in many socialist countries and {{w|post-soviet states}})}}
+#: {{uxi|az|Azərbaycan xalq '''yazıçısı'''|{{w|People's writer}} of Azerbaijan}} {{C|az|Awards}}
+====Declension====
+{{az-decl-noun|a|c}}
+====See also====
+* {{l|az|əməkdar}}
+----
+==Uzbek==
+{{uz-variant|c=халқ|r=xalq|a=خلق}}
+===Etymology===
+{{bor+|uz|ar|خَلْق}}.
+===Noun===
+{{uz-noun}}
+# [[people]], [[ethnic group]]
+====Declension====
+{{uz-decl-noun|type=kq}}</text>
+<sha1>b7k2k2v8o5n0l6qmsxwgyb8mw904upf</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ychel</title>
+<ns>0</ns>
+<id>1811959</id>
+<revision>
+<id>62153271</id>
+<parentid>52642282</parentid>
+<timestamp>2021-03-18T03:31:00Z</timestamp>
+<contributor>
+<username>ThaesOfereode</username>
+<id>3632059</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="315" xml:space="preserve">==West Frisian==
+===Etymology===
+From {{inh|fy|ofs|igel}}, from {{inh|fy|gem-pro|*igilaz}}, from {{der|fy|ine-pro|*h₁eǵʰis}}.
+===Noun===
+{{fy-noun|c|ychels|ycheltsje}}
+# {{topics|fy|Mammals}} [[hedgehog]], [[porcupine]]
+====Derived terms====
+* {{l|fy|ychelbaarch}}
+====Further reading====
+* {{R:WFT|42535}}</text>
+<sha1>bx0ht75404lnyb84s4i6zcucu5c0t9e</sha1>
+</revision>
+</page>

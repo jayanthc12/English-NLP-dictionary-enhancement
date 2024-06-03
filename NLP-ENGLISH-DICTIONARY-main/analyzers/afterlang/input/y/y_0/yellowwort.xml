@@ -1,0 +1,28 @@
+<page>
+<title>yellowwort</title>
+<ns>0</ns>
+<id>3046143</id>
+<revision>
+<id>62643310</id>
+<parentid>51169971</parentid>
+<timestamp>2021-06-02T05:39:47Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Gentianales order plants]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="288" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yellow-wort}}
+===Etymology===
+{{compound|en|yellow|wort}}
+===Noun===
+{{en-noun|-}}
+# {{taxlink|Blackstonia perfoliata|species|ver=181230}}, a [[gentianaceous]] plant with bright yellow [[flower]]s.
+[[Category:en:Gentianales order plants]]</text>
+<sha1>pwq5hd2xmilkial4wowy2x81uw6of96</sha1>
+</revision>
+</page>

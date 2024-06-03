@@ -1,0 +1,29 @@
+<page>
+<title>yhdyskuntasuunnittelu</title>
+<ns>0</ns>
+<id>7129709</id>
+<revision>
+<id>58603437</id>
+<parentid>58593418</parentid>
+<timestamp>2020-01-31T11:44:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) use slashes in fi-p to split main components that themselves are compounds</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdyskunta|suunnittelu}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-kunta/suunnittelu}}
+===Noun===
+{{fi-noun}}
+# [[community]] [[planning]], [[urban]] [[planning]]
+====Declension====
+{{fi-decl-palvelu|yhdyskuntasuunnittelu|a}}</text>
+<sha1>6d911miariep7ge8j1l08pkwp58qk8i</sha1>
+</revision>
+</page>

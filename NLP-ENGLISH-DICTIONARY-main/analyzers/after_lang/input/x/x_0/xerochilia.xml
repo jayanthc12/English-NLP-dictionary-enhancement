@@ -1,0 +1,25 @@
+<page>
+<title>xerochilia</title>
+<ns>0</ns>
+<id>3779932</id>
+<revision>
+<id>68813991</id>
+<parentid>67298248</parentid>
+<timestamp>2022-08-27T20:14:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xero}} {{m|en|chil-||lip}}, from {{uder|en|grc|χεῖλος||lip}}, {{suffix|en||ia}}.
+===Noun===
+{{en-noun|-}}
+# [[dryness]] of the [[lip]]s</text>
+<sha1>td1cgm0jg4yc3opcmdeoiwv39qkg9d9</sha1>
+</revision>
+</page>

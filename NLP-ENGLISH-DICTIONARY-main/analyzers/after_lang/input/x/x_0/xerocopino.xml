@@ -1,0 +1,27 @@
+<page>
+<title>xerocopino</title>
+<ns>0</ns>
+<id>758082</id>
+<revision>
+<id>64976874</id>
+<parentid>63583464</parentid>
+<timestamp>2021-12-17T01:24:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add top-level Italian pron {{it-pr|xerocòpino,xèrocòpino&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}} (manually assisted); add new ===References=== section for pron footnotes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="225" xml:space="preserve">==Italian==
+===Pronunciation===
+{{it-pr|xerocòpino,xèrocòpino&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}}
+===Verb===
+{{head|it|verb form}}
+# {{inflection of|it|xerocopiare||3|p|pres|subj|;|3|p|impr}}
+===References===
+&lt;references /&gt;</text>
+<sha1>pjai91gpa7h1teyknurnr6k7gr3qlbe</sha1>
+</revision>
+</page>

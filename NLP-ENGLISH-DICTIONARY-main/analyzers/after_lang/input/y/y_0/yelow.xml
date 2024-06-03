@@ -1,0 +1,61 @@
+<page>
+<title>yelow</title>
+<ns>0</ns>
+<id>1004999</id>
+<revision>
+<id>67610219</id>
+<parentid>63160571</parentid>
+<timestamp>2022-07-03T08:58:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 2 {{l}} links into {{desc|sco}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1285" xml:space="preserve">==English==
+===Adjective===
+{{head|en|misspelling}}
+# {{misspelling of|en|yellow}}
+----
+==Middle English==
+{{root|enm|ine-pro|*ǵʰelh₃-}}
+===Alternative forms===
+* {{alter|enm|yelewe|ȝelowe|ȝelew|ȝelow|yelwe|ȝelwe|ȝalow}}
+===Etymology===
+From {{inh|enm|ang|ġeolu}}, from {{der|enm|gem-pro|*gelwaz}}, from {{der|enm|ine-pro|*ǵʰelh₃wós}}.
+===Pronunciation===
+* {{IPA|enm|/ˈjɛlɔu̯/|/ˈjɛlwə/}}
+===Adjective===
+{{enm-adj}}
+# [[yellow]], [[yellowish]], [[gold]]
+# [[yellow]]-[[coloured]]
+# [[golden]]-[[brown]]
+# {{lb|enm|of hair}} [[golden]], [[blonde]], [[light]]
+# {{lb|enm|of skin}} [[yellow]], [[sallow]], [[pale]]
+# [[blue]]-[[grey]]
+====Descendants====
+* {{desc|en|yellow}}
+* {{desc|sco|yella|yelly|yallow}}
+* {{desc|yol|yullou}}
+====References====
+* {{R:MED Online|entry= yelwe |pos=adj |id=MED53817 |accessdate=2018-03-30}}
+===Noun===
+{{head|enm|noun}}
+# [[yellow]]
+# {{lb|enm|heraldry}} [[yellow]], [[or]]
+# [[yellow]] [[textiles]]
+# {{lb|enm|rare}} [[yellow]] [[pigment]]
+# an egg [[yolk]]
+# an object or feature notable for being yellow
+====Descendants====
+* {{desc|en|yellow}},
+* {{desc|sco|yella|yelly|yallow}}
+====References====
+* {{R:MED Online|entry= yelwe |pos=n |id=MED53816 |accessdate=2018-03-30}}
+===See also===
+{{table:colors/enm}}</text>
+<sha1>jp67zgjs3pbpz6jj8sehhkhe56gsen3</sha1>
+</revision>
+</page>

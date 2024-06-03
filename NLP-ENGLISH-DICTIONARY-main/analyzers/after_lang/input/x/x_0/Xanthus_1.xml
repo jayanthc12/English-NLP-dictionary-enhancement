@@ -1,0 +1,31 @@
+<page>
+<title>Xanthus</title>
+<ns>0</ns>
+<id>4970050</id>
+<revision>
+<id>60084058</id>
+<parentid>53823265</parentid>
+<timestamp>2020-08-15T22:14:28Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<comment>/* Etymology */ bor</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="395" xml:space="preserve">{{also|xanthus}}
+==Latin==
+===Etymology===
+From {{bor|la|grc|Ξάνθος}}, presumably from {{m|grc|ξανθός}}.
+===Proper noun===
+{{la-proper noun|Xanthus&lt;2&gt;}}
+# {{non-gloss definition|The name of several rivers and their associated deities, especially the [[Scamander]].}}
+====Declension====
+{{la-ndecl|Xanthus&lt;2&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}
+[[Category:la:Rivers]]</text>
+<sha1>sepnkuddjljkonl2saw4tmxxq4jgii3</sha1>
+</revision>
+</page>

@@ -1,0 +1,44 @@
+<page>
+<title>xerofyt</title>
+<ns>0</ns>
+<id>7186278</id>
+<revision>
+<id>67656386</id>
+<parentid>64460178</parentid>
+<timestamp>2022-07-06T07:31:27Z</timestamp>
+<contributor>
+<username>Gabbe</username>
+<id>61118</id>
+</contributor>
+<comment>added Swedish</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="673" xml:space="preserve">==Dutch==
+===Alternative forms===
+* {{l|nl|xerophyt}} {{q|dated}}
+===Etymology===
+Probably borrowed from {{bor|nl|de|Xerophyt}}.
+===Pronunciation===
+* {{IPA|nl|/ˌkseː.roːˈfit/|[ˌksɪː.roːˈfit]|qual2=Belgium|[ˌksɪː.roʊ̯ˈfit]|qual3=Netherlands}}
+* {{audio|nl|Nl-xerofyt.ogg|Audio}}
+* {{hyphenation|nl|xe|ro|fyt}}
+* {{rhymes|nl|it|s=3}}
+===Noun===
+{{nl-noun|m|-en|-}}
+# [[xerophyte]] {{defdate|from ca. 1900}}
+----
+==Swedish==
+===Noun===
+{{sv-noun|c}}
+# [[xerophyte]]
+====Declension====
+{{sv-infl-noun-c-er}}
+====Synonyms====
+* {{q|obsolete}} {{l|sv|törstväxt}}
+===References===
+* {{R:svenska.se|saol}}
+* {{R:svenska.se|saob}}
+{{topics|sv|Botany}}</text>
+<sha1>f8qcc2hhpixk24zk9x5m2mcdkbgwxvb</sha1>
+</revision>
+</page>

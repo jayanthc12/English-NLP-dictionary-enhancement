@@ -1,0 +1,71 @@
+<page>
+<title>xastre</title>
+<ns>0</ns>
+<id>1594855</id>
+<revision>
+<id>69114372</id>
+<parentid>68862122</parentid>
+<timestamp>2022-09-04T16:53:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{alter|pt}} to {{alt|pt}}; replace templated link to English term(s) in defns with raw link(s); standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1248" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{alter|ast|sastre}}
+===Etymology===
+Borrowed from {{bor|ast|es|sastre}}.
+===Noun===
+{{ast-noun|m}}
+# [[tailor]]
+[[Category:ast:Occupations]]
+----
+==Galician==
+===Etymology===
+Attested since 1401. Borrowed from {{bor|gl|es|sastre}}, ultimately from {{der|gl|la|sartor}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃas̺t̪ɾɪ]}}
+===Noun===
+{{gl-noun|m}}
+# [[tailor]]
+#: {{syn|gl|alfaiate}}
+===References===
+* {{R:gl:DDGM}}
+* {{R:gl:CX}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Occupations]]
+----
+==Leonese==
+===Etymology===
+{{rfe|roa-leo}}
+===Noun===
+{{head|roa-leo|noun|g=m|plural|xastres}}
+# [[tailor]]
+===References===
+* [http://www.lengualeonesa.eu/castellan/Diccionario AEDLL]
+* [http://www.pallabreirulliones.com/traductor/buscar?texto=xastre&amp;idioma=leones Pallabreiru Llïonés]
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|sastre}}
+===Etymology===
+{{bor+|pt|es|sastre}}.&lt;ref&gt;{{R:pt:Priberam}}&lt;/ref&gt;
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xas|tre}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Beira|Trás-os-Montes}} [[tailor]] {{gloss|person who makes, repairs or alters clothing}}
+#: {{syn|pt|alfaiate}}
+===References===
+&lt;references/&gt;
+{{C|pt|Occupations}}</text>
+<sha1>16im58qok9t0bdoby8lnf4v3oe8ej85</sha1>
+</revision>
+</page>

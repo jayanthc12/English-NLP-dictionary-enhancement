@@ -1,0 +1,24 @@
+<page>
+<title>XFU</title>
+<ns>0</ns>
+<id>2903239</id>
+<revision>
+<id>67388304</id>
+<parentid>67388300</parentid>
+<timestamp>2022-06-15T15:57:46Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="362" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 4217|hist=1|fund=1|UIC franc|from=1976|to=1989}}
+====Usage notes====
+This code was not moved to the table of historic currencies of {{w|ISO 4217}} until 2013, but the {{w|UIC franc}} was in practice replaced by the {{w|European Currency Unit}} in 1990, which was in turn replaced by the {{w|Euro}} in 1999.</text>
+<sha1>k64m27cb5hscjnlf91u648ujitqax7i</sha1>
+</revision>
+</page>

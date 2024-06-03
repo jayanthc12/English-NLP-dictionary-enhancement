@@ -1,0 +1,23 @@
+<page>
+<title>xylooligosaccharides</title>
+<ns>0</ns>
+<id>4648553</id>
+<revision>
+<id>55681600</id>
+<parentid>53092491</parentid>
+<timestamp>2019-10-15T12:06:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylooligosaccharide}}</text>
+<sha1>11338m7xu26bsseacf70js89tmn07jb</sha1>
+</revision>
+</page>

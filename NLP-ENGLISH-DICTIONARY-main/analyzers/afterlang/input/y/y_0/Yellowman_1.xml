@@ -1,0 +1,26 @@
+<page>
+<title>Yellowman</title>
+<ns>0</ns>
+<id>6597727</id>
+<revision>
+<id>67843618</id>
+<parentid>67731954</parentid>
+<timestamp>2022-07-09T22:39:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">{{also|yellowman}}
+==English==
+===Proper noun===
+{{en-prop|s}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yellowman'' is the 64,200&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 310 individuals. ''Yellowman'' is most common among American Indian/Alaska Native (98.06%) individuals.</text>
+<sha1>3hdigs3zmvja14wj60d2pumgs60da5z</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xenophobem</title>
+<ns>0</ns>
+<id>6345422</id>
+<revision>
+<id>60597298</id>
+<parentid>58423938</parentid>
+<timestamp>2020-09-27T13:18:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xenophobem.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xenophob}}</text>
+<sha1>jfdzvl780vijq7u8ghnigi1ezouzlef</sha1>
+</revision>
+</page>

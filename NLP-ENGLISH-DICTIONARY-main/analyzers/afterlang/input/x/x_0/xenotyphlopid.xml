@@ -1,0 +1,26 @@
+<page>
+<title>xenotyphlopid</title>
+<ns>0</ns>
+<id>5647271</id>
+<revision>
+<id>59071016</id>
+<parentid>54406623</parentid>
+<timestamp>2020-04-03T21:56:35Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Snakes]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="626" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# Any [[snake]] of the family {{taxlink|Xenotyphlopidae|family|noshow=1}}
+#* {{quote-journal|en|date=January 7, 2016|author=|title=Spatial Biodiversity Patterns of Madagascar's Amphibians and Reptiles|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144076|doi=10.1371/journal.pone.0144076|volume=|issue=|pages=
+|passage=Reptile categories were (1) turtles and tortoises, (2) typhlopid and '''xenotyphlopid''' snakes, (3) lamprophiid snakes, (4) iguanid lizards, (5) geckos, (6) skinks, (7) gerrhosaurids, and (8) chameleons.}}
+[[Category:en:Snakes]]</text>
+<sha1>177gnsfbngo403yib0qxmdw1wk9mwdn</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>XMA</title>
+<ns>0</ns>
+<id>1052489</id>
+<revision>
+<id>63215380</id>
+<parentid>62027920</parentid>
+<timestamp>2021-07-19T19:52:55Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="408" xml:space="preserve">==English==
+{{wikipedia}}
+===Noun===
+{{en-noun}}
+# [[extension|Extensible]] [[Management]] [[Agent]]
+===Proper noun===
+{{en-proper noun}}
+# [[extranet|eXtranet]] [[multichannel|Multichannel]] [[architecture|Architecture]], a banking client software
+===Anagrams===
+* {{anagrams|en|a=amx|-max|MAX|Max|max|max.|ǀXam|λmax}}
+[[Category:English initialisms]]
+[[Category:English three-letter abbreviations]]</text>
+<sha1>7prcitsbl5pehwgvi4tyh3in0zs2b1e</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>yaird</title>
+<ns>0</ns>
+<id>3572119</id>
+<revision>
+<id>63219081</id>
+<parentid>60935048</parentid>
+<timestamp>2021-07-19T21:12:19Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1680" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|Scotland}} {{obsolete form of|en|yard}}
+#* '''1842''', The Woodrow Society, ''Row’s History of the Kirk of Scotland'', Edinburgh Printing Company, page 434:
+#*: On Tuesday, by the first break of day, he went over the street to his '''yaird''' barefooted and bareheaded, (as David did when he went up Mount Olivet, fleeing out of Jerusalem from his son Absolom,) he locked the '''yaird''' doore behinde him, haveing charged them that were in the house with Helen Gardener, the baillie’s wife, to attend her, sitting quyet besyde hir.
+#* '''1870''', Sir Walter Scott, ''Old Mortality'', A. &amp; C. Black, page 425:
+#*: and in this equipage, with his little phizie (fusee) upon his shoulder, he marches to the church '''yaird''', where the May-pole was sett up, and the solemnitie of that day was to be kept.
+#* '''1998''', Leah Leneman, ''Alienated Affections: The Scottish Experience of Divorce and Separation, 1684-1830'', Edinburgh University Press, page 30:
+#*: A witness, Thomas Storie, said that Dalmahoy, with ‘a young woman Iron coloured of a high stature [i.e. tall] in common habit’, called at a neighbour’s house and asked for a drink of ale and enquired ‘if there was a '''yaird''' or any place for him and her to walk in’, and that they went to the '''yaird''' in question where Storie saw him ‘kissing and Imbraceing the said woman’.
+===Anagrams===
+* {{anagrams|en|a=adiry|dairy|diary|riyad}}
+----
+==Scots==
+===Etymology===
+{{root|sco|ine-pro|*gʰerdʰ-}}
+From {{inh|sco|ang|ġeard}}.
+===Pronunciation===
+* {{IPA|sco|/jeːrd/}}
+===Noun===
+{{sco-noun}}
+# [[yard]] (measurement)
+# [[garden]], [[yard]]</text>
+<sha1>1nvjs3fyx7kr7ya7s841nw9dvtautuk</sha1>
+</revision>
+</page>

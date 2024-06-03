@@ -1,0 +1,27 @@
+<page>
+<title>yaliwunga</title>
+<ns>0</ns>
+<id>6142402</id>
+<revision>
+<id>56453088</id>
+<parentid>42875015</parentid>
+<timestamp>2019-10-18T03:06:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/jalivunɡa/}}
+===Adverb===
+{{head|kld|adverb}}
+# [[always]]
+===References===
+* (2017) Giacon J Garay Guwaala 1</text>
+<sha1>qhv2199r6902ixxn7ymed9o47o02phi</sha1>
+</revision>
+</page>

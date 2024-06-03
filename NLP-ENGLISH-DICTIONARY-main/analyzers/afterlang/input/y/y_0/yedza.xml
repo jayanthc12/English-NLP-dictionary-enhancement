@@ -1,0 +1,27 @@
+<page>
+<title>yedza</title>
+<ns>0</ns>
+<id>6860359</id>
+<revision>
+<id>61172051</id>
+<parentid>50568708</parentid>
+<timestamp>2020-11-22T03:26:54Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>remove Proto-Nguni from etymologies in which Proto-Bantu is mentioned ([[[[WT:RFDO#Category:Proto-Nguni language]]]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==Phuthi==
+===Etymology===
+From {{inh|bnt-phu|bnt-pro|*-gènda}}.
+===Verb===
+{{bnt-phu-verb|yedza}}
+# to make a [[journey]]
+====Inflection====
+{{rfinfl|bnt-phu}}</text>
+<sha1>t0a9sd4ip7t6njqieqeaabct3tyznj8</sha1>
+</revision>
+</page>

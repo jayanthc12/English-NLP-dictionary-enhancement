@@ -1,0 +1,25 @@
+<page>
+<title>yarok</title>
+<ns>0</ns>
+<id>6660183</id>
+<revision>
+<id>54748564</id>
+<parentid>49479392</parentid>
+<timestamp>2019-10-05T23:43:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyph}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="225" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyph|ceb|ya|rok}}
+===Verb===
+{{head|ceb|verb}}
+# to [[quaff]]; to [[drink]] or [[imbibe]] with [[vigour]] or [[relish]]; to drink copiously; to swallow in large [[draught]]s; to [[chug]]</text>
+<sha1>qaa2sdf9wzbsrkw9c4kyokiemuqpwf3</sha1>
+</revision>
+</page>

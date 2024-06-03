@@ -1,0 +1,24 @@
+<page>
+<title>Ygrandais</title>
+<ns>0</ns>
+<id>6364011</id>
+<revision>
+<id>67264050</id>
+<parentid>67195523</parentid>
+<timestamp>2022-06-05T22:50:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[Ygrandaise]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">{{also|ygrandais}}
+==French==
+===Noun===
+{{fr-noun|m|f=+}}
+# resident or native of [[Ygrande]]</text>
+<sha1>lxmxeypozc2soaan4ftexkz2uq56bi9</sha1>
+</revision>
+</page>

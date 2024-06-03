@@ -1,0 +1,24 @@
+<page>
+<title>yettinchi</title>
+<ns>0</ns>
+<id>5111079</id>
+<revision>
+<id>68669843</id>
+<parentid>66375341</parentid>
+<timestamp>2022-08-19T09:19:38Z</timestamp>
+<contributor>
+<ip>2A01:CB00:4C3:D500:29E8:FEFA:AFFA:2943</ip>
+</contributor>
+<comment>/* Uzbek */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="349" xml:space="preserve">==Uzbek==
+{{ordinalbox|uz|6th|7th|8th|oltinchi|sakkizinchi|card=yetti}}
+===Etymology===
+Morphologically {{suffix|uz|yetti|inchi}}. Cognates include {{cog|tr|yedinci}}, {{cog|ky|жетинчи}}, {{cog|tk|ýedinji}}, {{cog|kk|жетінші}} and {{cog|az|yeddinci}}.
+===Numeral===
+{{head|uz|numeral}}
+# {{cln|uz|ordinal numbers}} {{l|en|seventh}}</text>
+<sha1>ag59jz46xdrvanl60p2ndvksevu1w32</sha1>
+</revision>
+</page>

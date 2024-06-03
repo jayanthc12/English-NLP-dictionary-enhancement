@@ -1,0 +1,61 @@
+<page>
+<title>yestereve</title>
+<ns>0</ns>
+<id>849783</id>
+<revision>
+<id>59368156</id>
+<parentid>54351849</parentid>
+<timestamp>2020-05-15T20:15:58Z</timestamp>
+<contributor>
+<username>Shāntián Tàiláng</username>
+<id>3495754</id>
+</contributor>
+<comment>/* English */ category fix</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1236" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yester even}}, {{m|enm|yistreven}}, alteration of {{m|enm|yestereven|t=last night, yesterday evening}}, from {{inh|en|ang|ġiestranǣfen|t=yesterday evening}}, equivalent to {{af|en|yester-|even|t2=evening}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} [[yesterday|Yesterday]] [[evening]].
+#* {{quote-book
+|en
+|year=1927
+|year_published='''2008'''
+|edition=HTML
+|editor=
+|author=Edgar Rice Burrows
+|title=The Outlaw of Torn
+|chapter=
+|url=http://www.gutenberg.org/files/369/369-h/369-h.htm
+|genre=
+|publisher=The Gutenberg Project
+|isbn=
+|page=
+|passage=Only '''yestereve''', you wot, one of Lord de Grey's men-at-arms came limping to us with the news of the awful carnage the foul fiend had wrought on his master's household.
+}}
+====Synonyms====
+* {{l|en|yestereven}}
+* {{l|en|yesterevening}}
+* {{l|en|yestreen}}
+* {{l|en|last night}}
+* {{l|en|yesternight}}
+* {{l|en|yesterday night}}
+===Adverb===
+{{en-adv|-}}
+# (During) [[yesterday]] [[evening]].
+====Synonyms====
+* {{l|en|yestereven}}
+* {{l|en|yesterevening}}
+* {{l|en|yestreen}}
+* {{l|en|last night}}
+* {{l|en|yesternight}}
+* {{l|en|yesterday night}}
+===Related terms===
+* {{l|en|yesterday}}
+* {{l|en|yesteryear}}
+{{c|en|Past}}</text>
+<sha1>ecs7jvqq6s2qr2ifxcd2q4e3abdvudf</sha1>
+</revision>
+</page>

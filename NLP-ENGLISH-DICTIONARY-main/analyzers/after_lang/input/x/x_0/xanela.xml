@@ -1,0 +1,37 @@
+<page>
+<title>xanela</title>
+<ns>0</ns>
+<id>1597223</id>
+<revision>
+<id>68861482</id>
+<parentid>68829315</parentid>
+<timestamp>2022-08-28T05:08:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="654" xml:space="preserve">==Galician==
+[[File:Casa - Ventana.jpg|thumb|unha xanela (a window)]]
+===Alternative forms===
+* {{alter|gl|janela||Reintegrationist}}
+===Etymology===
+From {{inh|gl|roa-opt|janella||window}}, from {{inh|gl|VL.|*januella||window}}, diminutive of {{inh|gl|la|jānua}}, alternative spelling of {{m|la|iānua||door}}. Cognate with {{cog|pt|janela}} and {{cog|mwl|jinela}}.
+===Pronunciation===
+* {{IPA|gl|/ʃa.ˈnɛ.la/}}
+* {{audio|gl|LL-Q9307 (glg)-Meixome-xanela.wav|Audio}}
+===Noun===
+{{gl-noun|f}}
+# {{lb|gl|uncommon}} [[window]]
+#: {{syn|gl|fiestra|ventá}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Architecture]]</text>
+<sha1>nrdu1m43npx1jdyn8dqrl0r37y3iayx</sha1>
+</revision>
+</page>

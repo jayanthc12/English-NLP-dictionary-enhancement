@@ -1,0 +1,94 @@
+<page>
+<title>yat</title>
+<ns>0</ns>
+<id>1214570</id>
+<revision>
+<id>67658320</id>
+<parentid>66571089</parentid>
+<timestamp>2022-07-06T13:49:54Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert imperatives to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2181" xml:space="preserve">{{also|Yat|yát|þat}}
+==English==
+{{wikipedia}}
+===Etymology 1===
+====Alternative forms====
+* {{alter|en|jat}}
+====Noun====
+{{en-noun}}
+# A vowel letter of the [[Cyrillic]] and [[Glagolitic]] alphabet (''Cyrillic capital'' {{l|mul|sc=Cyrs|Ѣ}}, ''Cyrillic small'' {{l|mul|sc=Cyrs|ѣ}}, Glagolitic {{l|mul|sc=Glag|ⱑ}}), no longer in current use
+# The Late [[Proto-Slavic]] (Common Slavic) vowel that was represented by this letter, usually transcribed as /ě/. This vowel underwent various alterations in the later Slavic dialects and is no longer distinguished (except in [[Ijekavian]]).
+=====Translations=====
+{{trans-top|an obsolete letter of the Cyrillic alphabet &quot;Ѣ/ѣ&quot;}}
+* Polish: {{t+|pl|jać|f}}
+* Russian: {{t+|ru|ять|m}}
+{{trans-mid}}
+{{trans-bottom}}
+===Etymology 2===
+====Noun====
+{{en-noun}}
+# {{lb|en|MLE|AAVE|slang}} {{alt sp|en|yatt|t=woman}}
+===Anagrams===
+* {{anagrams|en|a=aty|AYT|Tay|tay}}
+[[Category:en:Cyrillic letter names]]
+----
+==Kalasha==
+===Noun===
+{{head|kls|noun}}
+# [[remembrance]], [[memory]]
+----
+==Turkish==
+===Etymology 1===
+From {{inh|tr|ota|یات}}, from {{der|tr|en|yacht}}.
+====Noun====
+{{tr-noun|ı|lar}}
+# [[yacht]]
+#* {{quote-journal|tr|date=August 22, 1936|journal=Türk Sözü|page=1|title=İngiliz kralı Korfo'da|trans-title=King of England in Corfu|passage=İngiliz kralı sekizinci Edvard dün hususî '''yatiyle''' ve beraberinde iki İngiliz torpidosu olduğu halde buraya gelmiştir.}}
+====References====
+* {{R:tr:Nishanyan|yat}}
+* {{R:tr:NewRedhouse}}
+===Etymology 2===
+From {{inh|tr|trk-pro|*jāt||foreign(er)}}.
+====Noun====
+{{tr-noun|ı|lar}}
+# {{lb|tr|dialectal}} [[foreigner]]
+===Etymology 3===
+====Verb====
+{{head|tr|verb form}}
+# {{tr-verb form of|yatmak}}
+----
+==Volapük==
+===Noun===
+{{vo-noun}}
+# [[squirrel]]
+====Declension====
+{{vo-decl-noun}}
+====Derived terms====
+* [[hiyat]]
+* [[hiyatül]]
+* [[yatül]]
+* [[jiyat]]
+* [[jiyatül]]
+----
+==Wolof==
+===Noun===
+{{wo-noun|bi}}
+# [[stick]], [[cane]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=260
+|isbn=978-1-59703-017-5}}</text>
+<sha1>adr8c6k2epjsauzsj4tnwsu0l6jalu8</sha1>
+</revision>
+</page>

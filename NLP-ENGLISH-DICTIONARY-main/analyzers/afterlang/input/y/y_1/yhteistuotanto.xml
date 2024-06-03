@@ -1,0 +1,29 @@
+<page>
+<title>yhteistuotanto</title>
+<ns>0</ns>
+<id>3958983</id>
+<revision>
+<id>58593460</id>
+<parentid>54728476</parentid>
+<timestamp>2020-01-30T12:20:40Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteinen|alt1=yhteis-|tuotanto}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-tuotanto}}
+===Noun===
+{{fi-noun}}
+# [[collaboration]] {{gloss|production or creation made by collaborating}}
+====Declension====
+{{fi-decl-valo|yhteistuota|nt|nn|o|a}}</text>
+<sha1>7hc0uq8lcnwqo6s392qcpv7x598hazy</sha1>
+</revision>
+</page>

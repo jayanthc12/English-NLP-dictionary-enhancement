@@ -1,0 +1,24 @@
+<page>
+<title>xuclaren</title>
+<ns>0</ns>
+<id>2522480</id>
+<revision>
+<id>64460251</id>
+<parentid>54719892</parentid>
+<timestamp>2021-10-28T12:20:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="144" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{rhymes|ca|aɾen|s=3}}
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=pl|t=pret|m=ind|xuclar}}</text>
+<sha1>ow19ti8t1lxly4r2kopza8b5x9xx9q2</sha1>
+</revision>
+</page>

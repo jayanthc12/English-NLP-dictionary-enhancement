@@ -1,0 +1,28 @@
+<page>
+<title>yazi</title>
+<ns>0</ns>
+<id>5880459</id>
+<revision>
+<id>62700775</id>
+<parentid>56424828</parentid>
+<timestamp>2021-06-08T23:00:11Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<minor />
+<comment>also yazı</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">{{also|yazı}}
+==Dongxiang==
+===Etymology===
+Borrowed from {{bor|sce|zh|鴨子|tr=yāzi}}.
+===Pronunciation===
+* {{IPA|sce|/jaˈt͡si/|[jɑˈt͡sɪ]}}
+===Noun===
+{{head|sce|noun}}
+# [[duck]] {{gloss|aquatic bird}}</text>
+<sha1>aqyvb6nqhidnlo9qry9zpfb3be1bku7</sha1>
+</revision>
+</page>

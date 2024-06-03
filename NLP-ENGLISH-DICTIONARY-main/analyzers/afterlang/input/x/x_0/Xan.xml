@@ -1,0 +1,55 @@
+<page>
+<title>Xan</title>
+<ns>0</ns>
+<id>2429204</id>
+<revision>
+<id>68729014</id>
+<parentid>59432876</parentid>
+<timestamp>2022-08-26T06:00:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|gl}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1881" xml:space="preserve">{{also|xan}}
+==English==
+===Etymology 1===
+====Proper noun====
+{{en-proper noun}}
+# {{given name|en|male|diminutive=Alexander}}.
+# {{given name|en|female|diminutive=Alexandra}}.
+=====See also=====
+* {{l|en|Al}}
+* {{l|en|Alex}}
+* {{l|en|Lex}}
+* {{l|en|Xander}}
+===Etymology 2===
+Shortening of {{m|en|Xanax}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|slang}} A [[Xanax]] tablet.
+#* {{quote-newsgroup|en|date=5 December 1998|author=ChaosLiz [username]|title=Re: Xanax+Valium?|url=https://groups.google.com/forum/#!original/alt.drugs/4DMy2ChXGyg/JLLF8RPMyDsJ|newsgroup=alt.drugs|passage=Hmmmm...I don't know about the combo...I've never tried that...but I love '''Xans''' and Valiums...well until I OD'd on Valiums and almost died...now I'm afraid of all pills...}}
+#* '''2014''', &quot;{{w|Tuesday (ILoveMakonnen song)|Tuesday}}&quot;, {{w|ILoveMakonnen}} featuring {{w|Drake (rapper)|Drake}}, ''{{w|ILoveMakonnen (EP)|ILoveMakonnen}}'':
+#*: Upstairs I got '''Xans''' in an Advil bottle, I don't take them shits
+#* '''2015''', Jack Lester, &quot;[http://issuu.com/colllegiannews/docs/5-6-15_final Xanax: Beyond The Pharmacy]&quot;, ''The Collegian'' (Georgia Perimeter College), Volume 31, Number 8, page 3:
+#*: Georgia State senior, Damian Phillips thinks &quot;I've been prescribed '''Xans''' because I actually need them for stress and anxiety. Recreational use is all hype and something that people are doing to seem cool.&quot;
+===Anagrams===
+* {{anagrams|en|a=anx|XNA}}
+[[Category:English clippings]]
+[[Category:en:Pharmaceutical drugs]]
+[[Category:en:Recreational drugs]]
+----
+==Galician==
+===Alternative forms===
+* {{l|gl|Xoán}}, {{l|gl|Xohán}}
+===Etymology===
+From {{inh|gl|roa-opt|Joan}}, from {{inh|gl|la|Iohannes}}, from {{der|gl|grc|Ἰωάννης}}, from {{der|gl|he|יוחנן|tr=Yôḥānān||Yahweh is gracious}}.
+===Proper noun===
+{{gl-proper noun|m}}
+# {{given name|gl|male|eq=John}}</text>
+<sha1>2dtntu8j5mit0a1qm8ajp7997kybtde</sha1>
+</revision>
+</page>

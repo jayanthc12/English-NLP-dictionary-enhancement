@@ -1,0 +1,25 @@
+<page>
+<title>YBAs</title>
+<ns>0</ns>
+<id>5984383</id>
+<revision>
+<id>63630645</id>
+<parentid>56080374</parentid>
+<timestamp>2021-08-12T07:58:59Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|YBA}}
+===Anagrams===
+* {{anagrams|en|a=absy|Bays|abys|bays}}</text>
+<sha1>auiq6o0k41xfznukrm0il7yn27wkoko</sha1>
+</revision>
+</page>

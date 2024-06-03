@@ -1,0 +1,36 @@
+<page>
+<title>yazmak</title>
+<ns>0</ns>
+<id>264747</id>
+<revision>
+<id>69620017</id>
+<parentid>67134842</parentid>
+<timestamp>2022-10-30T07:39:07Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="804" xml:space="preserve">{{also|ýazmak}}
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یازمق|tr=yazmak||to write, inscribe, register, paint, decorate}}, from {{inh|tr|trk-pro|*yạŕ-||to write}}.
+===Pronunciation===
+* {{IPA|tr|[jɑzmɑk]}}
+* {{hyphenation|tr|yaz|mak}}
+===Verb===
+{{tr-verb|yazar}}
+# {{lb|tr|transitive}} to [[write]], write down, [[inscribe]]
+# {{lb|tr|transitive}} to [[burn]] (CD, DVD)
+# {{lb|tr|transitive}} to [[compose]]
+# {{lb|tr|transitive}} to [[enroll]], [[register]]; to [[enlist]], [[sign]], [[record]], note down
+# {{lb|tr|slang|used with dative case}} to [[flirt]] (with)
+====Conjugation====
+{{tr-conj|yaz|ı|yazar|a|d}}
+====Derived terms====
+{{der4|tr|yazma|yazış|yazıcı|yazar|yazgı|yazım|yazın|yazıt|yazman|yazılmak|yazışmak|yazdırmak|yazamamak|yazabilmek|yazı|yazmış}}</text>
+<sha1>amz5it4gx5ar5he5xc0ga2fiy95ycft</sha1>
+</revision>
+</page>

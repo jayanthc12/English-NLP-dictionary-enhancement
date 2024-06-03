@@ -1,0 +1,27 @@
+<page>
+<title>yeastlike</title>
+<ns>0</ns>
+<id>1429330</id>
+<revision>
+<id>54384618</id>
+<parentid>51857973</parentid>
+<timestamp>2019-09-29T03:27:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="499" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yeast|like}}
+===Adjective===
+{{en-adj}}
+# Resembling or having characteristics of [[yeast]]
+#* {{quote-journal|en|1988|January 22|Robert McClory|The Yeast of Our Problems|Chicago Reader|url=https://securesite.chireader.com/cgi-bin/Archive/abridged2.bat?path=1988/880122/CANDIDA1
+|passage=Under certain conditions, it seems, candida can change from its '''yeastlike''', noninvasive state into a parasitic fungus that spreads like wildfire through the gut.}}</text>
+<sha1>l3e7gtre5y5nhr87xnsd7u874di7kf0</sha1>
+</revision>
+</page>

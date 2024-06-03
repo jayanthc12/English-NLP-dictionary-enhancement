@@ -1,0 +1,29 @@
+<page>
+<title>yhteisluettelo</title>
+<ns>0</ns>
+<id>7186591</id>
+<revision>
+<id>58593446</id>
+<parentid>52381867</parentid>
+<timestamp>2020-01-30T12:20:07Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|luettelo}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-luettelo}}
+===Noun===
+{{fi-noun}}
+# [[joint]] [[list]], [[union]] [[catalog]]
+====Declension====
+{{fi-decl-palvelu|yhteisluettelo|a}}</text>
+<sha1>k1sbzcrozem8ypmq6qdpojzstktuk21</sha1>
+</revision>
+</page>

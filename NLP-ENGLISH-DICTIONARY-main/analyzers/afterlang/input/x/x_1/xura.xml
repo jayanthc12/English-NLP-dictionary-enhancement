@@ -1,0 +1,41 @@
+<page>
+<title>xura</title>
+<ns>0</ns>
+<id>4330148</id>
+<revision>
+<id>68864995</id>
+<parentid>68863995</parentid>
+<timestamp>2022-08-28T05:31:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="534" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xurar||3|s|pres|ind|;|2|s|imp}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jura}} (13th century, {{w|Cantigas de Santa Maria}}). {{back-formation|gl|xurar}}. Cognate with {{cog|pt|jura}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃuɾɐ]}}
+===Noun===
+{{gl-noun|f}}
+# [[oath]]
+#: {{syn|gl|xuramento}}
+# [[promise]]
+#: {{syn|gl|promesa}}
+===References===
+* {{R:gl:DDGM|jura}}
+* {{R:gl:CX|jura}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>056vkoe7vzo7q0apjjy5hot3w4oszys</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>Xenacoelomorpha</title>
+<ns>0</ns>
+<id>3423586</id>
+<revision>
+<id>62685447</id>
+<parentid>62685432</parentid>
+<timestamp>2021-06-06T16:06:32Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<comment>/* Hypernyms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1022" xml:space="preserve">==Translingual==
+[[File:Acoel Flatworms (Waminoa sp.) on Bubble Coral (Plerogyra sinuosa) - Panglima, Pulau Mabul, Sabah, Malaysia.jpg|thumb|'''Xenacoelomorpha''' specimens:({{taxlink|Waminoa|genus}} sp. ([[flatworm]])) on {{vern|bubble coral}}]]
+===Etymology===
+{{blend|mul|{{taxlink|Xenoturbella|subphylum|ver=200408}}|Acoelomorpha}}.
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|phylum|kingdom|Animalia|certain [[aquatic]] [[flatworm]]s of uncertain taxonomy}}
+====Hypernyms====
+* {{sense|phylum}} {{ll|mul|Eukaryota}}&amp;nbsp;- superkingdom; [[Animalia]]&amp;nbsp;- kingdom; [[Eumetazoa]]&amp;nbsp;- clade; [[Parahoxozoa]] / [[ParaHoxozoa]]&amp;nbsp;- clade; [[Bilateria]]&amp;nbsp;- clade
+====Hyponyms====
+* {{sense|phylum}} [[Acoelomorpha]], [[Xenoturbellida]]&amp;nbsp;- subphyla
+** [[Acoela]], {{taxlink|Nemertodermatida|class}}&amp;nbsp;- classes in Acoelomorpha; {{taxlink|Xenoturbellidae|family}}&amp;nbsp;- family in Xenoturbellida
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:WoRMS|1312402}}
+* {{R:EOL|28385870}}</text>
+<sha1>8ih7o66s4xymo51pgf4czv34m35kp1q</sha1>
+</revision>
+</page>

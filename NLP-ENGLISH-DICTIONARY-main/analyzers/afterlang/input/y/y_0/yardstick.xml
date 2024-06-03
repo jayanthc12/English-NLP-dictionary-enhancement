@@ -1,0 +1,65 @@
+<page>
+<title>yardstick</title>
+<ns>0</ns>
+<id>248823</id>
+<revision>
+<id>69242587</id>
+<parentid>67224126</parentid>
+<timestamp>2022-09-12T20:47:15Z</timestamp>
+<contributor>
+<username>Fay Freak</username>
+<id>3437587</id>
+</contributor>
+<comment>syn … measuring rod|metewand|</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3155" xml:space="preserve">==English==
+[[Image:Yardstick.jpg|thumb|right]]
+===Etymology===
+{{compound|en|yard|stick}}
+===Noun===
+{{en-noun}}
+# A [[measuring]] [[rod]] thirty-six [[inch]]es (one [[yard]]) long.
+# {{lb|en|figuratively}} A [[standard]] to which other measurements or comparisons are judged.
+#: {{syn|en|measuring rod|metewand|norm|point of reference|benchmark|ideal}}
+#* '''2008''' April 8, Michael R. Gordon and Eric Schmitt, “Attacks in Baghdad spiked in March, U.S. data show”, in ''[[wikipedia:International Herald Tribune|International Herald Tribune]]'', 2008 April 8 edition, “Africa &amp;amp; Middle East” section,
+#*: Attacks against civilians in the capital remained relatively unchanged: 69 in March from 62 in February. &amp;para; However, another '''yardstick''', the number of civilian deaths tracked by the Iraqi government, shot up last month after several months of decline.
+#* {{quote-book|en|author=European Court of Human Rights|title=Silva and Mondim Correia v. Portugal|section=marginal 58|issue=72105/14 20415/15|date=03-10-2017|url=http://hudoc.echr.coe.int/eng?i=001-177229|passage=The Court has taken a number of factors into consideration in performing the “balancing of interests test” while examining cases concerning limitations on the institution of paternity claims. {{...}} The '''yardstick''' against which the above factors are measured is whether a legal presumption has been allowed to prevail over the biological and social reality and if so whether, in the circumstances, this is compatible with the obligation to secure “effective” respect for private and family life, taking into account the margin of appreciation left to the State and the established facts and the wishes of those concerned (ibid. § 55).}}
+====Derived terms====
+* {{l|en|Portsmouth yardstick}}
+====Translations====
+{{trans-top|measuring rod thirty-six inches long}}
+* Cherokee: {{t|chr|ᎠᏥᎶᏍᏗ}}
+* Finnish: {{t|fi|[[jaardin]] [[mitta]]}}
+* Navajo: {{t|nv|bee ídaʼneelʼąąhí}}
+* Polish: {{t+|pl|calówka|f}}
+{{trans-mid}}
+* Scottish Gaelic: {{t|gd|slat-tomhais|f}}
+* Spanish: {{t+|es|vara|f}}
+* Tagalog: {{t|tl|pangyarda}}
+{{trans-bottom}}
+{{trans-top|standard to which other measurements or comparisons are judged}}
+* Bulgarian: {{t+|bg|аршин|m|m-p}}, {{t+|bg|мащаб|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|尺度|tr=chǐdù|sc=Hani}}, {{t+|cmn|標準|sc=Hani}}, {{t+|cmn|标准|tr=biāozhǔn|sc=Hani}}
+* Finnish: {{t|fi|mittapuu}}, {{t+|fi|mittatikku}}
+* French: {{t+|fr|aune|f}}
+* German: {{t+|de|Maßstab|m}}
+* Hungarian: {{t+|hu|etalon}}
+* Italian: {{t+|it|parametro|m}}, {{t+|it|criterio|m}}, {{t+|it|unità di misura|f}}
+* Japanese: {{t|ja|判断の尺度|tr=handan no shakudo}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|no|målestokk|m}}
+* Persian: {{t+|fa|سنجه|tr=sanje|sc=fa-Arab}}
+* Russian: {{t+|ru|арши́н|m|sc=Cyrl}}, {{t+|ru|ме́рка|f|sc=Cyrl}}, {{t+|ru|мери́ло|n|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|slat-tomhais|f}}
+* Spanish: {{t+|es|norma|f}}, {{t+|es|vara|f}}
+* Swedish: {{t+|sv|måttstock|c}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia}}
+[[Category:en:Measuring instruments]]</text>
+<sha1>b0hzlrkh0xvh03hfj3a0ibu3kg0cyw1</sha1>
+</revision>
+</page>

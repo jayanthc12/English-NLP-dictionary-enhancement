@@ -1,0 +1,25 @@
+<page>
+<title>xylotomist</title>
+<ns>0</ns>
+<id>1604324</id>
+<revision>
+<id>51864273</id>
+<parentid>26929941</parentid>
+<timestamp>2019-03-15T03:52:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylotomy|ist}}
+===Noun===
+{{en-noun}}
+# A person involved in [[xylotomy]].</text>
+<sha1>a20eqbjiefih3yxz7docn12n39rvzp1</sha1>
+</revision>
+</page>

@@ -1,0 +1,57 @@
+<page>
+<title>Xiaonan</title>
+<ns>0</ns>
+<id>7103327</id>
+<revision>
+<id>68483143</id>
+<parentid>67890943</parentid>
+<timestamp>2022-07-28T19:22:57Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ quote expansion; #* {{seemoreCites|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1706" xml:space="preserve">{{also|xiàonán}}
+==English==
+{{wikipedia}}
+{{commonscat|Xiaonan District}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiao-nan}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|孝南}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Xiaogan|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=2001
+|title=People's Republic of China: Torture, a Growing Scourge in China- Time for Action
+|url=https://books.google.com/books?id=Hy4OAAAAYAAJ
+|publisher={{w|Amnesty International}}
+|OCLC=46542592
+|page=12
+|text=In March 2000 , the party secretary of Yanglin Guanli District, Xiaogang Township&lt;!--肖港镇--&gt;, Hubei Province, was sentenced by '''Xiaonan''' District Court to two years &quot;control&quot; for illegal detention and was ordered to pay medical expenses and direct economic losses of 1,560 Yuan to his victims.}}
+#* {{quote-web
+|en
+|date=2020-02-10
+|title=Xiaogan city sets up 24-hour hotline platform for citizens during outbreak
+|editor=mingmei
+|site={{w|Xinhua News Agency}}
+|archiveurl=https://web.archive.org/web/20200211084910/http://www.xinhuanet.com/english/2020-02/10/c_138771440.htm
+|archivedate=February 11, 2020
+|text=A patient with fever (L), who called the hotline &quot;96120&quot; for help, receives medical checks at Wolongxiang pulic health clinic at '''Xiaonan''' District of Xiaogan, central China's Hubei Province, on Feb. 9, 2020.}}
+#* {{seemoreCites|en}}
+====Translations====
+{{trans-top|district in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|孝南|tr=Xiàonán|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>kbzymziymg262x4fazyp002m8gsa3y5</sha1>
+</revision>
+</page>

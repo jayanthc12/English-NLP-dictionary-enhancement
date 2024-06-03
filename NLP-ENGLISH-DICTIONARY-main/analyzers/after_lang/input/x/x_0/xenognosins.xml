@@ -1,0 +1,23 @@
+<page>
+<title>xenognosins</title>
+<ns>0</ns>
+<id>4455589</id>
+<revision>
+<id>55633222</id>
+<parentid>53092235</parentid>
+<timestamp>2019-10-15T09:55:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenognosin}}</text>
+<sha1>ja9bx599rwf4m0deepxoww2bh62m08g</sha1>
+</revision>
+</page>

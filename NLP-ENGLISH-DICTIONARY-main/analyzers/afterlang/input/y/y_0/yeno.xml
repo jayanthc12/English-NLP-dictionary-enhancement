@@ -1,0 +1,25 @@
+<page>
+<title>yeno</title>
+<ns>0</ns>
+<id>5057103</id>
+<revision>
+<id>62073693</id>
+<parentid>44320726</parentid>
+<timestamp>2021-03-13T21:07:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-adj}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="187" xml:space="preserve">==Ladino==
+===Etymology===
+From {{inh|lad|osp|lleno}} and {{m|osp|lenno||full}}, from {{inh|lad|la|plenus|plēnum|full}}.
+===Adjective===
+{{lad-adj}}
+# [[full]] {{gloss|lacking space}}</text>
+<sha1>rg6cqihp04omzw5eykdsaljbp45gowy</sha1>
+</revision>
+</page>

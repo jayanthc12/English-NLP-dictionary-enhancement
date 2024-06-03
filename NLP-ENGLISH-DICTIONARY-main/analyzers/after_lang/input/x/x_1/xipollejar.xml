@@ -1,0 +1,37 @@
+<page>
+<title>xipollejar</title>
+<ns>0</ns>
+<id>4613614</id>
+<revision>
+<id>65017666</id>
+<parentid>64460211</parentid>
+<timestamp>2021-12-22T15:34:17Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="428" xml:space="preserve">==Catalan==
+===Etymology===
+From {{af|ca|xipoll|-ejar|t1=pool, puddle}}.
+===Pronunciation===
+* {{rhymes|ca|a(ɾ)|s=4}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|intransitive}} to [[splash]] about
+#: {{syn|ca|xapotejar}}
+# {{lb|ca|transitive}} to [[splash]]
+#: {{syn|ca|xipollar}}
+====Conjugation====
+{{ca-conj-ar|xipollej}}
+====Derived terms====
+* {{l|ca|xipolleig}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}
+{{C|ca|Water}}</text>
+<sha1>gozlrrwh5j3f05cn70adecunxlwz1pa</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xerophilster</title>
+<ns>0</ns>
+<id>6345444</id>
+<revision>
+<id>69438509</id>
+<parentid>60549647</parentid>
+<timestamp>2022-10-03T13:46:16Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophilster.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerophilster.ogg|Audio}}
+===Adjective===
+{{head|de|superlative adjective form}}
+# {{de-adj form of|xerophil}}</text>
+<sha1>t2pnxysib0m7ephpl9mwqypqp9g6rt6</sha1>
+</revision>
+</page>

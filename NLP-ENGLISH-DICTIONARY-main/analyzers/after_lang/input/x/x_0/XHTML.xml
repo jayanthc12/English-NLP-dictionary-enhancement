@@ -1,0 +1,44 @@
+<page>
+<title>XHTML</title>
+<ns>0</ns>
+<id>8257</id>
+<revision>
+<id>67052964</id>
+<parentid>65437731</parentid>
+<timestamp>2022-05-17T11:15:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize topical categories for lang=fr using {{C}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="656" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{initialism of|en|{{w|Extensible Hypertext Markup Language}}|nodot=1}} {{gloss|a reformulation of [[HTML]] as an [[XML]] application.}}
+====Related terms====
+* {{l|en|HTML}}
+* {{l|en|XML}}
+====Translations====
+{{trans-top|XHTML}}
+* Bengali: {{t|bn|এক্সএইচটিএমএল|tr=eks-eic-ṭi-em-el}}
+* German: {{t+|de|XHTML|n}}
+{{trans-mid}}
+* Turkish: {{t+|tr|XHTML}}
+{{trans-bottom}}
+===See also===
+* {{l|en|SGML}}
+[[Category:en:Computer languages]]
+[[Category:en:HTML]]
+----
+==French==
+===Proper noun===
+{{fr-proper noun|m}}
+# [[XHTML#English|XHTML]]
+{{C|fr|HTML}}</text>
+<sha1>pgif7b68bbd3381ejzv7xjlmmfqcohl</sha1>
+</revision>
+</page>

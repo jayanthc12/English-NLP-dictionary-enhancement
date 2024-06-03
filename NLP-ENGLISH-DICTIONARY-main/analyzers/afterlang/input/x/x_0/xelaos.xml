@@ -1,0 +1,23 @@
+<page>
+<title>xelaos</title>
+<ns>0</ns>
+<id>4352101</id>
+<revision>
+<id>54642681</id>
+<parentid>33508486</parentid>
+<timestamp>2019-10-03T16:44:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{masculine plural past participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==Asturian==
+===Verb===
+{{head|ast|past participle form|g=m|g2=p}}
+# {{masculine plural past participle of|ast|xelar|nocat=1}}</text>
+<sha1>cptqdxoe7de9kxbof0lcp7p1mv9039m</sha1>
+</revision>
+</page>

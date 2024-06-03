@@ -1,0 +1,29 @@
+<page>
+<title>xipapan</title>
+<ns>0</ns>
+<id>1532091</id>
+<revision>
+<id>63426961</id>
+<parentid>53444323</parentid>
+<timestamp>2021-07-26T03:20:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="252" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[emerge]], to [[appear]]
+# To [[rise]], to [[arise]].
+# {{inflection of|arn|xipapan||1|s|realis|form}}
+====See also====
+* {{l|arn|xipapan antv}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>kf3vdif13761chsq414l5ik2fvr1wvh</sha1>
+</revision>
+</page>

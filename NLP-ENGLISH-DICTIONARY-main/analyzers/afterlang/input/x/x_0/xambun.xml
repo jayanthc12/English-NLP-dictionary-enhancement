@@ -1,0 +1,25 @@
+<page>
+<title>xambun</title>
+<ns>0</ns>
+<id>4583835</id>
+<revision>
+<id>44133669</id>
+<parentid>40754723</parentid>
+<timestamp>2017-05-24T23:11:04Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">==Ligurian==
+===Alternative forms===
+* {{l|lij|xambon}}
+===Noun===
+{{lij-noun|m|xambuin}}
+# [[ham]]</text>
+<sha1>pxs0fv0y8nhdyorovl08zjs9y2etpo0</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yapocks</title>
+<ns>0</ns>
+<id>1330791</id>
+<revision>
+<id>62863457</id>
+<parentid>55545438</parentid>
+<timestamp>2021-06-17T07:24:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="158" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yapock}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|yapock}}</text>
+<sha1>rwqjhbxell1gzsfx2i0und293z76l9d</sha1>
+</revision>
+</page>

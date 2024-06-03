@@ -1,0 +1,27 @@
+<page>
+<title>xuull</title>
+<ns>0</ns>
+<id>3792562</id>
+<revision>
+<id>50372385</id>
+<parentid>43873174</parentid>
+<timestamp>2018-09-23T06:47:58Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:chl:Plants]]; added [[Category:chl:Legumes]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Cahuilla==
+===Etymology===
+Probably from {{der|chl|es|frijol}}, from {{der|chl|la|phaseolus}}, from {{der|chl|grc|φάσηλος}}.
+===Noun===
+{{head|chl|noun|head=xúull|plural|xúulem}})
+# [[bean]]
+[[Category:chl:Foods]]
+[[Category:chl:Legumes]]</text>
+<sha1>7nuiat0sslv50y6tmuo8umwtbjndlds</sha1>
+</revision>
+</page>

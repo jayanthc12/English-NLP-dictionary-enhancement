@@ -1,0 +1,38 @@
+<page>
+<title>yev</title>
+<ns>0</ns>
+<id>6673067</id>
+<revision>
+<id>68857969</id>
+<parentid>62551071</parentid>
+<timestamp>2022-08-28T04:41:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="511" xml:space="preserve">==Breton==
+===Etymology===
+From {{inh|br|cel-bry-pro|*jọw}}, from {{inh|br|cel-pro|*yugom}}, from {{inh|br|ine-pro|*yugóm}}.
+===Pronunciation===
+* {{IPA|br|/jew/}}
+===Noun===
+{{br-noun|m|yevioù}}
+# [[yoke]]
+----
+==Mauritian Creole==
+===Alternative forms===
+* {{l|mfe|lyev}}
+===Etymology===
+From {{der|mfe|fr|lièvre}}.
+===Noun===
+{{head|mfe|noun}}
+# [[hare]]
+===References===
+* Baker, Philip &amp; Hookoomsing, Vinesh Y. 1987. ''Dictionnaire de créole mauricien. Morisyen – English – Français''</text>
+<sha1>5rhgf3wvr76ozk8fw8fema4gn06l4q3</sha1>
+</revision>
+</page>

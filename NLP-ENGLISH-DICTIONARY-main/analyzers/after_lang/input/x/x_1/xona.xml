@@ -1,0 +1,38 @@
+<page>
+<title>xona</title>
+<ns>0</ns>
+<id>2976414</id>
+<revision>
+<id>69571749</id>
+<parentid>62379683</parentid>
+<timestamp>2022-10-22T20:36:21Z</timestamp>
+<contributor>
+<username>Malhonen</username>
+<id>49012</id>
+</contributor>
+<comment>/* Catalan */ feminine, not masculine</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="494" xml:space="preserve">{{also|Xona}}
+==Catalan==
+===Etymology===
+{{rfe|ca}}
+===Pronunciation===
+* {{ca-IPA|ó}}
+===Noun===
+{{ca-noun|f}}
+# Type of small land [[snail]] ({{taxlink|Iberus gualtieranus alonensis|subspecies|ver=210414}}) endemic to the Iberian Peninsula.
+#: {{syn|ca|vaqueta|regineta}}.
+# {{lb|ca|vulgar}} [[vagina]]; [[vulva]]
+# {{lb|ca|vulgar}} ugly [[woman]]
+===Further reading===
+* {{R:IEC2}}
+{{c|ca|Anatomy|People|Gastropods}}
+----
+==Venetian==
+===Noun===
+{{vec-noun|xon|f|a|e}}
+# [[zone]]</text>
+<sha1>bjy2x96ppo2k2528thl7sxudkdcknnx</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xenobiont</title>
+<ns>0</ns>
+<id>1625341</id>
+<revision>
+<id>51978923</id>
+<parentid>39339342</parentid>
+<timestamp>2019-03-17T23:41:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="451" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|biont}}
+===Noun===
+{{en-noun}}
+# {{lb|en|biology}} Any organism found in [[surroundings]], or in [[association]] with another [[organism]], in which it is normally absent
+====Translations====
+{{trans-top|biology: organism found in surroundings, or in association with another organism, in which it is normally absent}}
+* Italian: {{t|it|xenobio|m}}, {{t|it|xenobionte|m}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>knhsghl22segxyo4nvx2kc38vpdlfoc</sha1>
+</revision>
+</page>

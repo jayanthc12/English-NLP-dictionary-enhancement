@@ -1,0 +1,28 @@
+<page>
+<title>xanthomonad</title>
+<ns>0</ns>
+<id>2956464</id>
+<revision>
+<id>67294340</id>
+<parentid>42870403</parentid>
+<timestamp>2022-06-06T11:08:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|la}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia}}
+{{wikispecies|Xanthomonas}}
+===Etymology===
+{{prefix|en|xantho|monad}}, from {{uder|en|la|monas||one, unity}}.
+===Noun===
+{{en-noun}}
+# Any of the [[genus]] ''[[Xanthomonas]]'' of [[proteobacteria]].</text>
+<sha1>e0c1f1ifo8fzwnsxxloccq2diruwvtd</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>xenobiosi</title>
+<ns>0</ns>
+<id>1625343</id>
+<revision>
+<id>64656805</id>
+<parentid>58387228</parentid>
+<timestamp>2021-11-15T02:37:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert - in {{it-noun}} to #</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xeno|biosi}}
+===Noun===
+{{it-noun|f|#}}
+# {{lb|it|biology}} [[xenobiosis]]
+====Related terms====
+* {{l|it|xenobiotico}}</text>
+<sha1>be8klhftp7rah4un6xq6dguc72ac04v</sha1>
+</revision>
+</page>

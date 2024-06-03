@@ -1,0 +1,24 @@
+<page>
+<title>Xanthum</title>
+<ns>0</ns>
+<id>5548390</id>
+<revision>
+<id>57385087</id>
+<parentid>54031700</parentid>
+<timestamp>2019-10-19T21:37:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="116" xml:space="preserve">{{also|xanthum}}
+==Latin==
+===Proper noun===
+{{la-proper noun-form|Xanthum}}
+# {{inflection of|la|Xanthus||acc|s}}</text>
+<sha1>hso6ckbachdtax35h1usvjflpquqpzj</sha1>
+</revision>
+</page>

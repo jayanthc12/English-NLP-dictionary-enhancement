@@ -1,0 +1,25 @@
+<page>
+<title>xylocassiae</title>
+<ns>0</ns>
+<id>4151622</id>
+<revision>
+<id>66995361</id>
+<parentid>56274934</parentid>
+<timestamp>2022-05-15T09:47:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xylocassia}} (3); combine {{inflection of|la|xylocassia}} tag sets gen|s and dat|s into gen//dat|s; combine {{inflection of|la|xylocassia}} tag sets nom|p and voc|p into nom//voc|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="142" xml:space="preserve">==Latin==
+===Pronunciation===
+{{la-IPA}}
+===Noun===
+{{la-noun-form|xylocassiae}}
+# {{inflection of|la|xylocassia||nom//voc|p|;|gen//dat|s}}</text>
+<sha1>1jg6r74gh6msak8w413h1he2crexy0o</sha1>
+</revision>
+</page>

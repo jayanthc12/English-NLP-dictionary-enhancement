@@ -1,0 +1,37 @@
+<page>
+<title>yasas</title>
+<ns>0</ns>
+<id>7262846</id>
+<revision>
+<id>65093638</id>
+<parentid>60336599</parentid>
+<timestamp>2021-12-30T07:34:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{bor+}}/{{inh+}} for Pali lemmas as requested by [[User:Svartava2]]; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="542" xml:space="preserve">==Pali==
+===Alternative forms===
+{{pi-alt|Latn=yasas|Laoo=ຍສສ຺|Laoo2=ຍະສັສ|Laoo3=ຢສສ຺|Laoo4=ຢະສັສ}}
+===Etymology===
+{{inh+|pi|sa|यशस्}}.
+===Noun===
+{{pi-noun|n|g2=m}}
+# [[fame]]
+# [[success]]
+# [[honour]]
+====Declension====
+{{pi-decl-noun|g=n}} &lt;!-- Contrary to import of PTS, s-stem forms all exist, and its not obvious what other word they might be. --&gt;
+====Descendants====
+* {{desc|my|ယသ|bor=1}}
+* {{desc|km|យស|bor=1}}
+* {{desc|th|ยศ|bor=1}}
+===References===
+{{R:pi:PTS|yaso}}</text>
+<sha1>hs9lmtn1hgmyhbcuqnjnv8gbix4hlwd</sha1>
+</revision>
+</page>

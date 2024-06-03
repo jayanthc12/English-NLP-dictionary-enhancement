@@ -1,0 +1,29 @@
+<page>
+<title>xitla</title>
+<ns>0</ns>
+<id>4060716</id>
+<revision>
+<id>64925538</id>
+<parentid>61409786</parentid>
+<timestamp>2021-12-11T13:04:30Z</timestamp>
+<contributor>
+<ip>92.184.116.173</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="318" xml:space="preserve">==Maltese==
+{{mt-root|x-t-l}}
+===Etymology===
+From {{inh|mt|ar|شَتْلَة}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɪt.la/}}
+===Noun===
+{{mt-noun|g=f|p=xtieli|p2=xitel|p3=xtiel|p4=xtul|p5=xtejjel|pauc=xitliet|dim=xtejla}}
+# [[plant]]
+#: {{syn|mt|pjanta}}
+====Derived terms====
+{{col4|mt|xitli}}
+{{c|mt|Plants}}</text>
+<sha1>1vzzzsfp5jk5fkuoeqrabot41uw9v56</sha1>
+</revision>
+</page>

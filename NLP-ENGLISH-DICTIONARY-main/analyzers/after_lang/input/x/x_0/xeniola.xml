@@ -1,0 +1,23 @@
+<page>
+<title>xeniola</title>
+<ns>0</ns>
+<id>4151586</id>
+<revision>
+<id>66995154</id>
+<parentid>56274762</parentid>
+<timestamp>2022-05-15T09:46:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xeniolum}} (2); combine {{inflection of|la|xeniolum}} tag sets nom|p and acc|p into nom//acc|p; combine {{inflection of|la|xeniolum}} tag sets nom//acc|p and voc|p into nom//acc//voc|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xeniola}}
+# {{inflection of|la|xeniolum||nom//acc//voc|p}}</text>
+<sha1>d1o37x2ve9z54wdj96jbqlr6v46j3yx</sha1>
+</revision>
+</page>

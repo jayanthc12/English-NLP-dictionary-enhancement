@@ -1,0 +1,41 @@
+<page>
+<title>yapar</title>
+<ns>0</ns>
+<id>842196</id>
+<revision>
+<id>68918790</id>
+<parentid>67659118</parentid>
+<timestamp>2022-08-28T13:52:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="491" xml:space="preserve">==Spanish==
+===Etymology===
+Borrowed from {{bor|es|qu|yapay}}.
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{es-verb}}
+# to add a bit extra to a customer's order for free or in order to complete the ordered amount
+====Conjugation====
+{{es-conj|nocomb=1}}
+====Related terms====
+* {{l|es|yapa}}
+===Further reading===
+* {{R:es:DRAE}}
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|/jaˈpaɾ/}}
+* {{hyphenation|tr|ya|par}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yapmak}}</text>
+<sha1>d468fzqxch5vin85fovdmbb8gwtem3l</sha1>
+</revision>
+</page>

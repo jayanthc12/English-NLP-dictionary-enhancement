@@ -1,0 +1,28 @@
+<page>
+<title>ydinparisto</title>
+<ns>0</ns>
+<id>4405275</id>
+<revision>
+<id>69318223</id>
+<parentid>61954744</parentid>
+<timestamp>2022-09-18T17:06:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="238" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|paristo|t2=battery}}
+===Pronunciation===
+{{fi-p|ydin-paristo}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[battery]]
+====Declension====
+{{fi-decl-palvelu|ydinparisto|a}}</text>
+<sha1>aqv3llkzwdd3aqwj6efz8mjjmhz2e7g</sha1>
+</revision>
+</page>

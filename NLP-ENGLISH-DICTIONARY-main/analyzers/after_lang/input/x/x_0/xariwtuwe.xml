@@ -1,0 +1,25 @@
+<page>
+<title>xariwtuwe</title>
+<ns>0</ns>
+<id>1478957</id>
+<revision>
+<id>63426939</id>
+<parentid>44987078</parentid>
+<timestamp>2021-07-26T03:19:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# {{lb|arn|anatomy}} [[waist]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>p5gokpwipygrsys13hmf25ckp0o3yqe</sha1>
+</revision>
+</page>

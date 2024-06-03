@@ -1,0 +1,25 @@
+<page>
+<title>yentuke</title>
+<ns>0</ns>
+<id>5383133</id>
+<revision>
+<id>59476357</id>
+<parentid>50501449</parentid>
+<timestamp>2020-06-03T23:07:36Z</timestamp>
+<contributor>
+<ip>86.138.106.122</ip>
+</contributor>
+<comment>/* Tocharian B */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="373" xml:space="preserve">==Tocharian B==
+===Etymology===
+From {{der|txb|OIr.}} {{m|und|*hinduka}}, akin to {{cog|peo|tr=*hi&lt;sup&gt;n&lt;/sup&gt;duka}} from {{m|peo|𐏃𐎡𐎯𐎢𐏁|ts=hi&lt;sup&gt;n&lt;/sup&gt;dūš|t=India}}, from {{der|txb|ira-pro|*hínduš}}, from {{der|txb|iir-pro|*síndʰuš|t=river}}, of uncertain origin.
+===Noun===
+{{head|txb|noun}}
+# an [[Indian]]
+====References====
+* {{R:txb:Adams}}</text>
+<sha1>idklqwuwomgjl2cptg9n5hnguvmrjy9</sha1>
+</revision>
+</page>

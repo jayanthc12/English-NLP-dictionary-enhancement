@@ -1,0 +1,28 @@
+<page>
+<title>yhteysnumero</title>
+<ns>0</ns>
+<id>4715954</id>
+<revision>
+<id>69318505</id>
+<parentid>52040498</parentid>
+<timestamp>2022-09-18T17:22:09Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteys|numero}}
+===Pronunciation===
+{{fi-p|yhteys-numero}}
+===Noun===
+{{fi-noun}}
+# [[contact number]]
+====Declension====
+{{fi-decl-palvelu|yhteysnumero|a}}</text>
+<sha1>j6azdt8mff0e98jusar32e3cudzht2y</sha1>
+</revision>
+</page>

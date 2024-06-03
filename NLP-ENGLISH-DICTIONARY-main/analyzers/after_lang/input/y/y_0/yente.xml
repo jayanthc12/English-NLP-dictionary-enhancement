@@ -1,0 +1,32 @@
+<page>
+<title>yente</title>
+<ns>0</ns>
+<id>3779972</id>
+<revision>
+<id>55260242</id>
+<parentid>52343259</parentid>
+<timestamp>2019-10-14T06:32:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="401" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yenta}}
+===Anagrams===
+* {{anagrams|en|a=eenty|teeny}}
+----
+==Tocharian B==
+===Etymology===
+From {{inh|txb|ine-toc-pro|*w'entë}}, from {{inh|txb|ine-pro|*h₂wéh₁n̥ts}}, from {{m|ine-pro|*h₂weh₁-||to blow}} (compare {{cog|en|wind}}, {{cog|la|ventus}}). Compare {{cog|xto|want}}.
+===Noun===
+{{head|txb|noun}}
+# [[wind]]</text>
+<sha1>0h3wksus0r1n4hjfhxf26zd9l3v96l4</sha1>
+</revision>
+</page>

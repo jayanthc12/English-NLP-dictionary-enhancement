@@ -1,0 +1,28 @@
+<page>
+<title>Yah</title>
+<ns>0</ns>
+<id>3849494</id>
+<revision>
+<id>65230610</id>
+<parentid>54975114</parentid>
+<timestamp>2022-01-07T09:11:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct whitespace of section 2 (See also)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="186" xml:space="preserve">{{also|yah|þah}}
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{alternative form of|en|Jah}}
+====See also====
+* [[Yahu]]
+===Anagrams===
+* {{anagrams|en|a=ahy|AYH|Hay|YHA|hay}}</text>
+<sha1>rbmxfvfvgulbarmyjz3qs7uq0b2nwho</sha1>
+</revision>
+</page>

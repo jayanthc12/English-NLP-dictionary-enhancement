@@ -1,0 +1,35 @@
+<page>
+<title>xanthophore</title>
+<ns>0</ns>
+<id>1107033</id>
+<revision>
+<id>67640710</id>
+<parentid>61080006</parentid>
+<timestamp>2022-07-04T21:04:19Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Translations */English: add missing {{trans-top}}{{trans-mid}}{{trans-bottom}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="362" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xantho|phore}}
+===Noun===
+{{en-noun}}
+# {{lb|en|biology}} A [[xanthochrome]]-containing [[chromatophore]], frequently a [[lipophore]]
+====Translations====
+{{trans-top}}
+* Italian: {{t+|it|xantoforo|m}}
+{{trans-mid}}
+{{trans-bottom}}
+----
+==French==
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|biology}} {{l|en|xanthophore}}</text>
+<sha1>on0b3g4d0e55y7nwherry1dfst1qsop</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>Xanthochroi</title>
+<ns>0</ns>
+<id>1587729</id>
+<revision>
+<id>67901225</id>
+<parentid>67115033</parentid>
+<timestamp>2022-07-12T03:58:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="554" xml:space="preserve">{{also|xanthochroi}}
+==English==
+===Etymology===
+{{coinage|en|Thomas Henry Huxley}}, from {{der|en|grc|ξανθός||fair, yellow, golden, blond}} + {{m|grc|χρώς||skin}}.
+===Noun===
+{{en-plural noun}}
+# A division of the human population having fair skin and wavy blond hair.
+#* {{quote-book|en|title=On the Methods and Results of Ethnology|year=1865|author=[[w:Thomas Henry Huxley|Thomas H. Huxley]]|passage=The furthermost limit of the '''Xanthochroi''' north-westward is Iceland and the British Isles}}
+====See also====
+* {{pedia|Nordic race}}</text>
+<sha1>i7d6yr0let97jzvv5c81woj7fh9oaai</sha1>
+</revision>
+</page>

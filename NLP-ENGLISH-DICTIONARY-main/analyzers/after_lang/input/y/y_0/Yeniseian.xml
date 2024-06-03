@@ -1,0 +1,55 @@
+<page>
+<title>Yeniseian</title>
+<ns>0</ns>
+<id>1391878</id>
+<revision>
+<id>67900419</id>
+<parentid>51856738</parentid>
+<timestamp>2022-07-12T03:41:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1238" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Yenisseian}}
+===Etymology===
+{{suffix|en|Yenisei|an}}
+===Proper noun===
+{{en-proper noun}}
+# A [[family]] of [[language]]s spoken in central [[Siberia]].
+# [[Proto-Yeniseian]]: the hypothetical parent language of the Yeniseian language family.
+====Translations====
+{{trans-top|family of languages}}
+* Finnish: {{t|fi|jeniseiläiskielet|p}}
+{{trans-mid}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# A [[member]] of the original [[ethnolinguistic]] group hypothesized to have spoken [[Proto-Yeniseian]].
+====Translations====
+{{trans-top|member of the Yeniseian ethnolinguistic group}}
+* Finnish: {{t|fi|jeniseiläinen}}
+{{trans-mid}}
+{{trans-bottom}}
+===Adjective===
+{{en-adj|-}}
+# Of or relating to the languages comprising the Yeniseian language family, or their speakers.
+# Of or relating to the hypothetical parent language of the Yeniseian language family.
+====Translations====
+{{trans-top|of or relating to the languages of the Yeniseian family, or their speakers}}
+* Dutch: {{t|nl|Jenisejisch}}
+{{trans-mid}}
+* Finnish: {{t|fi|jeniseiläinen}}
+{{trans-bottom}}
+{{trans-see|Proto-Yeniseian}}
+===Further reading===
+* {{pedia|Yeniseian languages}}
+{{topics|en|Language families}}</text>
+<sha1>7lfyjet9dopbrsevuk92uuu2kivodyb</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>ydmyk</title>
+<ns>0</ns>
+<id>5842119</id>
+<revision>
+<id>60260678</id>
+<parentid>54472968</parentid>
+<timestamp>2020-09-05T03:51:13Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="408" xml:space="preserve">==Norwegian Bokmål==
+===Etymology 1===
+From {{inh|nb|non|auðmjúkr}}.
+====Adjective====
+{{head|nb|adjective|neuter singular|ydmykt|definite singular and plural|ydmyke}}
+# [[humble]], [[meek]]
+=====Derived terms=====
+* {{l|nb|ydmykhet}}
+====See also====
+* {{l-nn|audmjuk}}
+===Etymology 2===
+====Verb====
+{{nb-verb-form}}
+# {{imperative of|nb|ydmyke}}
+===References===
+* {{R:The Bokmål Dictionary}}</text>
+<sha1>2445babwrf2n5wyegsaflkszuiclvbr</sha1>
+</revision>
+</page>

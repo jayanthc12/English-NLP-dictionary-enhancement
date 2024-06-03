@@ -1,0 +1,31 @@
+<page>
+<title>xerofita</title>
+<ns>0</ns>
+<id>1625543</id>
+<revision>
+<id>62731378</id>
+<parentid>55334959</parentid>
+<timestamp>2021-06-12T07:44:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Convert synonyms in Italian subsection 4 to inline synonyms in subsection 3 based on synonyms with only one definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="280" xml:space="preserve">==Italian==
+===Etymology 1===
+{{rfe|it}}
+====Noun====
+{{it-noun|f}}
+# {{lb|it|biology}} [[xerophyte]]
+#: {{syn|it|xerobio}}
+===Etymology 2===
+A regularly inflected form of {{m|it|xerofito}}.
+====Adjective====
+{{head|it|adjective form}}
+# {{feminine singular of|it|xerofito}}</text>
+<sha1>ezf33rjrc1hadcjuqr26p3nj33jo5ai</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xiuxiuejats</title>
+<ns>0</ns>
+<id>5991122</id>
+<revision>
+<id>64460232</id>
+<parentid>54734270</parentid>
+<timestamp>2021-10-28T12:19:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="168" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ats|s=4}}
+===Verb===
+{{head|ca|past participle|g=m-p}}
+# {{ca-verb form of|g=mpl|m=ptc|t=past|xiuxiuejar}}</text>
+<sha1>14yde3eibzyvldkt3pgqfcg8fjncccf</sha1>
+</revision>
+</page>

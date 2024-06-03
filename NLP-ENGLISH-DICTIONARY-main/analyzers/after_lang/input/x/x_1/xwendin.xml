@@ -1,0 +1,28 @@
+<page>
+<title>xwendin</title>
+<ns>0</ns>
+<id>2132454</id>
+<revision>
+<id>66326677</id>
+<parentid>60775881</parentid>
+<timestamp>2022-04-01T19:10:45Z</timestamp>
+<contributor>
+<username>Djkcel</username>
+<id>331460</id>
+</contributor>
+<minor />
+<comment>/* Northern Kurdish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="441" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+From {{inh|kmr|ira-pro|*kanati}}, from {{inh|kmr|iir-pro|*karnati}}, from {{der|kmr|ine-pro|*keh₂n-}}. Compare {{cog|fa|خواندن|tr=xândan}}, {{cog|la|canō}}, {{m|la|cantō}}, {{cog|cy|canu}}.
+===Verb===
+{{kmr-verb}}
+# to [[read]]
+#: {{uxi|kmr|min pirtûkek xwend.|I read a book (''past'')}}
+# to [[study]]
+#: {{uxi|kmr|birayê wî li zankoyê dixwîne.|his brother studies at the university}}</text>
+<sha1>4dmxesabb7nyj3r89q62hja6n1nhrcx</sha1>
+</revision>
+</page>

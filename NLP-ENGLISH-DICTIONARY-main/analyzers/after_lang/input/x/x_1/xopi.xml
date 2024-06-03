@@ -1,0 +1,26 @@
+<page>
+<title>xopi</title>
+<ns>0</ns>
+<id>3657944</id>
+<revision>
+<id>40302505</id>
+<parentid>34746218</parentid>
+<timestamp>2016-09-12T04:21:26Z</timestamp>
+<contributor>
+<username>OrphicBot</username>
+<id>3186543</id>
+</contributor>
+<minor />
+<comment>{also|...} template updated; 1 item added.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">{{also|xopí}}
+==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|t=pres|m=sub|xopar}}
+# {{ca-verb form of|p=3|n=sg|t=pres|m=sub|xopar}}
+# {{ca-verb form of|p=3|n=sg|m=impr|xopar}}</text>
+<sha1>sb3480ckv79p6dgwejgjexs88snojir</sha1>
+</revision>
+</page>

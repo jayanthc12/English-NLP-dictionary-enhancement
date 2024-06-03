@@ -1,0 +1,32 @@
+<page>
+<title>yhteisrahoitteinen</title>
+<ns>0</ns>
+<id>7154658</id>
+<revision>
+<id>58593454</id>
+<parentid>52110864</parentid>
+<timestamp>2020-01-30T12:20:25Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|rahoite|-inen}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-rahoitteinen}}
+===Adjective===
+{{fi-adj}}
+# [[jointly]] [[funded]]
+====Declension====
+{{fi-decl-nainen|pos=adj|yhteisrahoittei|a}}
+====Derived terms====
+* {{l|fi|yhteisrahoitteisesti}}
+* {{l|fi|yhteisrahoitteisuus}}</text>
+<sha1>kis5q9j2yk24ztiqbn1ixzi6442qitw</sha1>
+</revision>
+</page>

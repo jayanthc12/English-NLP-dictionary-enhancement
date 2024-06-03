@@ -1,0 +1,37 @@
+<page>
+<title>xochihcualli</title>
+<ns>0</ns>
+<id>477627</id>
+<revision>
+<id>65038542</id>
+<parentid>65038540</parentid>
+<timestamp>2021-12-25T03:46:19Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1051" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xuchiqualli}} {{qualifier|obsolete spelling}}
+===Etymology===
+Possibly from a combining form *''xōchih-'' from {{m|nci|xōchitl||flower, blossom}}, + {{m|nci|cualli||something good}}.
+===Pronunciation===
+* {{IPA|nci|[ʃoː.t͡ʃiʔˈkʷá.lːi]}}
+===Noun===
+{{nci-noun|i|xōchihcualli|pl=xōchihcualli}}
+# {{gloss|it is}} the [[fruit]] of a tree or other plant
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aqui comienca un vocabulario en la lengua castellana y mexicana|Aqui comienca un vocabulario en la lengua castellana y mexicana]]'', f. 127r.
+#*: Fruta generalmente. '''xuchiqualli'''.
+#*:: Fruit in general. '''xuchiqualli'''.
+====Derived terms====
+* {{l|nci|xōchihcualcuahuitl}}
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 265.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 328.
+[[Category:nci:Fruits]]</text>
+<sha1>hht57b61crp0wcswni4v3202qoxofa1</sha1>
+</revision>
+</page>

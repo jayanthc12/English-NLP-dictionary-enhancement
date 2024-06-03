@@ -1,0 +1,36 @@
+<page>
+<title>ydinsolu</title>
+<ns>0</ns>
+<id>4616853</id>
+<revision>
+<id>69318259</id>
+<parentid>52039397</parentid>
+<timestamp>2022-09-18T17:08:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="752" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|solu|t1=core|t2=cell}}
+===Pronunciation===
+{{fi-p|ydin-solu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|botany}} [[pith]] [[cell]]
+# {{lb|fi|figuratively}} [[core cell]] {{gloss|basic unit of something}}
+#: ''Perhe on yhteiskunnan '''ydinsolu'''.''
+#:: Family is the '''core cell''' of the society.
+# {{lb|fi|figuratively}} [[core cell]] {{gloss|origin of a movement or similar, from which everything propagates}}
+#: ''Egyptin Muslimiveljeskunta muodosti nykyaikaisen islamilaisen fundamentalismin '''ydinsolun'''.''
+#:: The Muslim Brotherhood of Egypt formed the '''core cell''' of modern Islamic fundamentalism.
+====Declension====
+{{fi-decl-valo|ydinsol|||u|a}}
+====Derived terms====
+* {{l|fi|ydinsolukko}}</text>
+<sha1>gxqjrhwdhjytxtv28kc9cawasz6lqie</sha1>
+</revision>
+</page>

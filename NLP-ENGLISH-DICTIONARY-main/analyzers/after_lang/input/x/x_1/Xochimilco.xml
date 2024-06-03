@@ -1,0 +1,45 @@
+<page>
+<title>Xochimilco</title>
+<ns>0</ns>
+<id>3579165</id>
+<revision>
+<id>67907224</id>
+<parentid>62085090</parentid>
+<timestamp>2022-07-12T05:03:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="970" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+{{suffix|nci|xōchimīlli|t1=flower garden|-co|pos2=locative}}
+===Pronunciation===
+* {{IPA|nci|[ʃoː.t͡ʃi.ˈmiːl.ko]}}
+===Proper noun===
+{{head|nci|proper noun|head=Xōchimīlco}}
+# A former city in central Mexico.
+===References===
+* {{cite-book|year=2011|author=Michel Launey|coauthors=Christopher Mackay|title=An Introduction to Classical Nahuatl|location=Amazon Kindle|publisher=Cambridge University Press|pages=Loc 1643}}
+[[Category:nci:Towns]]
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+From {{der|es|nci|xōchimīlli||flower field}}, from {{m|nci|xōchitl||flower}} + {{m|nci|mīlli||cultivated field}}, + the locative suffix {{m|nci|-co}}.
+===Pronunciation===
+{{es-IPA}}
+{{es-IPA|shochimilco}}
+===Proper noun===
+{{es-proper noun|m}}
+# one of the sixteen [[mayorship|mayorship]]s ([[alcaldía|alcaldías]]) of the Mexico City
+====Related terms====
+* {{l|es|Xóchitl}}
+====See also====
+* {{pedia}}</text>
+<sha1>4gqgjof1i37oi34ter3etuyki8fbw4s</sha1>
+</revision>
+</page>

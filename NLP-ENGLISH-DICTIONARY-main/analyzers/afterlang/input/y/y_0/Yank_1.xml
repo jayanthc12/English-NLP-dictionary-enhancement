@@ -1,0 +1,64 @@
+<page>
+<title>Yank</title>
+<ns>0</ns>
+<id>170784</id>
+<revision>
+<id>69545704</id>
+<parentid>69534943</parentid>
+<timestamp>2022-10-19T09:28:25Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2842" xml:space="preserve">{{also|yank|þank}}
+==English==
+===Etymology===
+Shortened from {{m|en|Yankee}}.
+===Pronunciation===
+* {{IPA|en|/jæŋk/}}
+* {{audio|en|en-au-Yank.ogg|Audio (AU)}}
+* {{rhymes|en|æŋk|s=1}}
+===Noun===
+{{wikipedia|Yankee}}
+{{en-noun}}
+# {{lb|en|US}} A [[Yankee]], a [[Northerner]]: someone from the Northern United States, especially from [[New England]].
+#* '''1865''', unnamed Confederate officer, according to Lieutenant Joseph E. Moody, U.S.V., “Life in Confederate Prisons”, in ''Civil War Papers'', Volume II, Massachusetts Commandery (1900), [http://books.google.com/books?id=d7RYAAAAMAAJ&amp;pg=PA368&amp;dq=Yanks page 368]:
+#*: Halt! come down there, you '''Yanks''', come down!
+#* '''1944''', [[w:Howard Fast|Howard Fast]], ''Freedom Road'', M.E. Sharpe (1995), {{ISBN|978-1-56324-440-7}}, [http://books.google.com/books?id=S-fOlzPO400C&amp;pg=PA33&amp;dq=yanks page 33]:
+#*: “I do wish I might of found you in my sights when you was with them damn '''Yanks''',” Abner added.
+#* '''2004''', O. K. Williams, ''The Way the Cards Fall'', Trafford Publishing, {{ISBN|9781412022897}}, [http://books.google.com/books?id=XvanTnXFtxwC&amp;pg=PA16&amp;dq=Yanks page 16]:
+#*: Corporal Bob explained, “The '''Yanks''' has tha best weapons. But us Rebs know how to shoot tha damn things. {{...}}”
+# {{lb|en|slang|Australia|New Zealand|Ireland|Canada|United Kingdom|sometimes|pejorative}} An [[American]]: someone from the [[United States]].
+#* '''1951''', “The '''Yanks''' Are Coming: U.S. shows world we are playing for keeps as 4th Division leaves to join Eisenhower's NATO army”, in ''[[w:Life (magazine)|Life]]'', 11 June 1951, [http://books.google.com/books?id=c1EEAAAAMBAJ&amp;pg=PA38&amp;dq=Yanks page 38]:
+#*: “This time,” he [&lt;nowiki/&gt;[[w:Alphonse Juin|General Alphonse-Pierre Juin]]] told the '''Yanks''', “you have not crossed to win new victories but to preserve peace. {{...}}”
+====Synonyms====
+* {{sense|inhabitant of the USA}} {{l|en|American}}; see [[Thesaurus:American]]
+====Translations====
+{{trans-top|native of the Northern USA}}
+* Finnish: {{t+|fi|jenkki}}
+{{trans-mid}}
+* French: {{t+|fr|Yankee|m|f}}
+{{trans-bottom}}
+{{trans-top|native of the USA}}
+* Finnish: {{t+|fi|jenkki}}
+* French: {{t+|fr|ricain|m}}, {{t+|fr|ricaine|f}}, {{t+|fr|ricains|m-p}}, {{t+|fr|ricaines|f-p}}, {{t+|fr|amerloque|m|f}}, {{t+|fr|Yankee|m|f}}
+* German: {{t+|de|Ami|m}}, {{t+|de|Yankee|m}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|ianque}}
+* Russian: {{t+|ru|а́мер|m}}, {{t+|ru|я́нки|m}}, {{t+|ru|пиндо́с|m}} {{qualifier|offensive, ethnic slur}}
+* Spanish: {{t+|es|yanqui}}
+* Swedish: {{t+|sv|jänkare|c}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Japanese: {{t|ja|ヤンキー|tr=yankī}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:English informal demonyms]]
+[[Category:en:United States]]
+[[Category:en:Australian nicknames for people]]</text>
+<sha1>02k5j0e0kc3qjrfortyn8xnsmkihxgy</sha1>
+</revision>
+</page>

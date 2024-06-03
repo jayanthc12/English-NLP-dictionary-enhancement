@@ -1,0 +1,55 @@
+<page>
+<title>xalli</title>
+<ns>0</ns>
+<id>562827</id>
+<revision>
+<id>68780928</id>
+<parentid>64098152</parentid>
+<timestamp>2022-08-27T10:07:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1249" xml:space="preserve">==Central Nahuatl==
+===Etymology===
+From {{der|nhn|nci|xalli}}.
+===Pronunciation===
+* {{IPA|nhn|/ʃaːlli/}}
+===Noun===
+{{nhn-noun}}
+# {{lb|nhn|Cholula}} [[sand]]
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Etymology===
+Compare {{cog|ncl|xali}}, {{cog|nhg|xöli̱}}.
+===Pronunciation===
+* {{IPA|nci|/ʃaːlːi/}}
+===Noun===
+{{head|nci|noun}}
+# [[sand]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aqui comienca un vocabulario en la lengua castellana y mexicana|Aqui comienca un vocabulario en la lengua castellana y mexicana]]'', f. 23r.
+#*: Arena. '''xalli'''.
+{{rel-top3|Proper nouns derived from ''xalli''}}
+* {{l|nci|Xalixco}}
+* {{l|nci|Xallah}}
+{{rel-mid3}}
+* {{l|nci|Xaltepec}}
+{{rel-mid3}}
+{{rel-bottom}}
+===References===
+* {{cite-book|author=Karttunen, Frances|year=1983|title=An Analytical Dictionary of Nahuatl|location=Austin|publisher=University of Texas Press|page=321}}
+* {{cite-book|author=Lockhart, James|year=2001|title=Nahuatl as Written: Lessons in Older Written Nahuatl, with Copious Examples and Texts|location=Stanford|publisher=Stanford University Press|page=241}}
+----
+==Orizaba Nahuatl==
+===Noun===
+{{head|nlv|noun}}
+# [[sand]]</text>
+<sha1>abbv5xto5imutugfif0ns5dglprqw04</sha1>
+</revision>
+</page>

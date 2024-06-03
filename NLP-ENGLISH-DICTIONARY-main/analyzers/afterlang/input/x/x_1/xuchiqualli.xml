@@ -1,0 +1,23 @@
+<page>
+<title>xuchiqualli</title>
+<ns>0</ns>
+<id>485576</id>
+<revision>
+<id>55209554</id>
+<parentid>15553036</parentid>
+<timestamp>2019-10-14T04:11:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{head|nci|noun}}
+# {{alternative spelling of|nci|xochihcualli}}</text>
+<sha1>3fefhoxwcu3stv0rlnclvoo97hli1fy</sha1>
+</revision>
+</page>

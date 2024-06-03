@@ -1,0 +1,26 @@
+<page>
+<title>Yener</title>
+<ns>0</ns>
+<id>3169097</id>
+<revision>
+<id>68728718</id>
+<parentid>67830324</parentid>
+<timestamp>2022-08-26T05:58:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|tr}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="134" xml:space="preserve">{{also|yener}}
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}
+# {{given name|tr|female}}
+# {{surname|tr}}</text>
+<sha1>7dcvgbp8lssp0si7i7n0kpj5cvky85a</sha1>
+</revision>
+</page>

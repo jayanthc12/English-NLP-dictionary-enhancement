@@ -1,0 +1,61 @@
+<page>
+<title>xente</title>
+<ns>0</ns>
+<id>2996300</id>
+<revision>
+<id>68862976</id>
+<parentid>68862962</parentid>
+<timestamp>2022-08-28T05:18:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1129" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|gens|gēns, gentem}}.
+===Pronunciation===
+{{ast-IPA}}
+===Noun===
+{{ast-noun|f}}
+# [[people]]
+----
+==Galician==
+[[File:Homenaxe á xente do mar, Rianxo.jpg|thumb|&quot;Homenaxe ás xentes do mar&quot; (homage to the seamen)]]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|gente}}, from {{inh|gl|la|gens|gēns, gentem}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃente̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[people]]
+# [[nation]]
+#: {{syn|gl|nación|pobo}}
+# [[person]]
+#: {{uxi|gl|Podes afiuzar nel, é boa '''xente'''.|lit=You can trust him, he's good people.|You can trust him, he is a good '''person'''.}}
+#: {{syn|gl|persoa}}
+====Derived terms====
+* {{l|gl|xente bafúa|t=mob, rabble; scum}}
+* {{l|gl|xente do mar|t=mariners}}
+* {{l|gl|xente nova|t=young ones}}
+* {{l|gl|xentiña}}
+* {{l|gl|xentuza}}
+===References===
+* {{R:gl:DDGM|gente}}
+* {{R:gl:CX|gente}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+----
+==Venetian==
+===Etymology===
+From {{inh|vec|la|gēns}}, ''gentem''. Compare {{cog|it|gente}}.
+===Noun===
+{{vec-noun|xent|m|e|i}}
+# {{alternative form of|vec|zente}}</text>
+<sha1>tpp6owsczwm41v9zokrvjm08z9jnzt1</sha1>
+</revision>
+</page>

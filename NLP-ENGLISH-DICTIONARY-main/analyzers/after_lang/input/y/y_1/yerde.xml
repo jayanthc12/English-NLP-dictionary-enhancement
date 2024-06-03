@@ -1,0 +1,41 @@
+<page>
+<title>yerde</title>
+<ns>0</ns>
+<id>3643718</id>
+<revision>
+<id>65261186</id>
+<parentid>63641174</parentid>
+<timestamp>2022-01-10T00:24:23Z</timestamp>
+<contributor>
+<username>Thadh</username>
+<id>3494157</id>
+</contributor>
+<comment>/* Afar */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="469" xml:space="preserve">==Afar==
+===Pronunciation===
+* {{aa-IPA|yerdé}}
+===Verb===
+{{head|aa|verb form|head=yerdé}}
+# {{inflection of|aa|erdé||3|sg|m|perfective}}
+----
+==Middle English==
+===Etymology 1===
+From {{inh|enm|ang|ġeard}}.
+====Noun====
+{{head|enm|noun}}
+# {{alt form|enm|yerd}}
+===Etymology 2===
+From {{inh|enm|ang|ġerd}}.
+====Noun====
+{{head|enm|noun}}
+# {{alt form|enm|ȝerde}}
+----
+==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||loc|s}}</text>
+<sha1>8ngkfp38zybxecdq02vetxf3xi8c682</sha1>
+</revision>
+</page>

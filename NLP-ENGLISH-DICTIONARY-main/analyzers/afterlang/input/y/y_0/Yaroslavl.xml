@@ -1,0 +1,69 @@
+<page>
+<title>Yaroslavl</title>
+<ns>0</ns>
+<id>1123562</id>
+<revision>
+<id>61693664</id>
+<parentid>60194948</parentid>
+<timestamp>2021-01-30T22:00:11Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1920" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ru|Яросла́вль}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|oblast|c/Russia}}.
+# {{place|en|city/administrative center|obl/Yaroslavl|c/Russia}}.
+====Translations====
+{{trans-top|city}}
+* Arabic: {{t|ar|يَارُوسْلَافْل|m|tr=yaroslāfl}}
+* Armenian: {{t|hy|Յարոսլավլ}}
+* Belarusian: {{t|be|Ярасла́ўль|m}}
+* Bulgarian: {{t|bg|Яросла́въл|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|雅羅斯拉夫爾}}, {{t+|cmn|雅罗斯拉夫尔|tr=Yǎluósīlāfū'ěr}}
+* Czech: {{t|cs|Jaroslavl|m}}
+* Danish: {{t|da|Jaroslavl}}
+* Dutch: {{t|nl|Jaroslavl}}
+* Esperanto: {{t|eo|Jaroslavl}}
+* Finnish: {{t+|fi|Jaroslavl}}
+* French: {{t|fr|Iaroslavl|m}}
+* Georgian: {{t|ka|იაროსლავლი}}
+* German: {{t+|de|Jaroslawl|n}}
+* Hebrew: {{t|he|ירוסלבל}}
+* Hindi: {{t|hi|यारोस्लाव्ल|tr=yāroslāvl}}, {{t|hi|यारोस्लाव}}
+* Italian: {{t|it|Jaroslavl'|m}}
+* Japanese: {{t|ja|ヤロスラヴリ|tr=Yarosuravuri}}
+* Korean: {{t|ko|^야로슬라블}}
+{{trans-mid}}
+* Latvian: {{t|lv|Jaroslavļa}}
+* Lithuanian: {{t|lt|Jaroslavlis}}
+* Macedonian: {{t|mk|Јаросла́вљ|m}}
+* Marathi: {{t|mr|यारोस्लाव्ल|n}}
+* Mongolian: {{t|mn|Ярославль}}
+* Persian: {{t|fa|یاروسلاول|tr=yaruslâvl}}
+* Polish: {{t+|pl|Jarosław}}
+* Portuguese: {{t|pt|Iaroslavl|f}}
+* Russian: {{t+|ru|Яросла́вль|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јарослав|m}}, {{t|sh|Јарослављ|m}}
+*: Roman: {{t|sh|Jaroslav|m}}, {{t|sh|Jaroslavlj|m}}
+* Slovak: {{t|sk|Jaroslavľ|m}}
+* Slovene: {{t|sl|Jaroslavelj|m}}
+* Spanish: {{t|es|Yaroslavl|m}}
+* Swedish: {{t+|sv|Jaroslavl}}
+* Thai: {{t|th|ยาโรสลัฟล์|tr=yaarôhtláf}}
+* Ukrainian: {{t|uk|Яросла́вль|m}}
+* Vietnamese: {{t|vi|Yaroslavl}}
+{{trans-bottom}}</text>
+<sha1>n3pgds5pz70wu9dglyxexoq9nevymy3</sha1>
+</revision>
+</page>

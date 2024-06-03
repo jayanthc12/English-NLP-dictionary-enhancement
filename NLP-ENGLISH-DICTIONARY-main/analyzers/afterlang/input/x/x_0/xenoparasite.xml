@@ -1,0 +1,27 @@
+<page>
+<title>xenoparasite</title>
+<ns>0</ns>
+<id>3769083</id>
+<revision>
+<id>68813647</id>
+<parentid>51797629</parentid>
+<timestamp>2022-08-27T20:09:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xeno|parasite}}.
+===Noun===
+{{en-noun}}
+# An [[ectoparasite]] that becomes [[pathogenic]] only when the [[host]] is weakened or injured
+===Anagrams===
+* {{anagrams|en|a=aaeeinoprstx|exasperation}}</text>
+<sha1>lcch8ri884ln4x4p15dqszhta0ko151</sha1>
+</revision>
+</page>

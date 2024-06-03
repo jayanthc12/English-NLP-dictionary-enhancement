@@ -1,0 +1,28 @@
+<page>
+<title>ydinlaitos</title>
+<ns>0</ns>
+<id>748452</id>
+<revision>
+<id>69318197</id>
+<parentid>51994829</parentid>
+<timestamp>2022-09-18T17:05:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|laitos}}
+===Pronunciation===
+{{fi-p|ydin-laitos}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[facility]], [[nuclear]] [[power plant]]
+====Declension====
+{{fi-decl-vastaus|ydinlaito|a}}</text>
+<sha1>s996g1cfgkxzh69jw3l7hq4j0lq87ye</sha1>
+</revision>
+</page>

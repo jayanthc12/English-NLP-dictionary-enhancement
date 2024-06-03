@@ -1,0 +1,29 @@
+<page>
+<title>Yadkin</title>
+<ns>0</ns>
+<id>6150091</id>
+<revision>
+<id>58560835</id>
+<parentid>58350088</parentid>
+<timestamp>2020-01-27T01:01:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Rivers in the United States</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==English==
+{{wikipedia|Yadkin River}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|river|s/North Carolina|c/USA}}.
+====Derived terms====
+* {{l|en|Yadkin County}}
+* {{l|en|Yadkinville}}
+===Anagrams===
+* {{anagrams|en|a=adikny|Daykin}}</text>
+<sha1>hh5v6uhgpjwrsnadbth2rq0lxk53k0i</sha1>
+</revision>
+</page>

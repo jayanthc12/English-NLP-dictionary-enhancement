@@ -1,0 +1,32 @@
+<page>
+<title>xinich</title>
+<ns>0</ns>
+<id>5571749</id>
+<revision>
+<id>56398048</id>
+<parentid>44471314</parentid>
+<timestamp>2019-10-18T00:58:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="288" xml:space="preserve">==Tzotzil==
+===Alternative forms===
+* {{l|tzo|xinich'}}
+===Pronunciation===
+* {{qualifier|Zinacantán}} {{IPA|tzo|/ˈɕinit͡ɕʰ/}}
+===Noun===
+{{head|tzo|noun}}
+# {{l|en|ant}}
+====See also====
+* [[bolom chon]]
+===References===
+* {{R:Laughlin1975|šinič}}
+[[Category:tzo:Insects]]</text>
+<sha1>59e91lti1dryzf3q36mg8q19rljoi14</sha1>
+</revision>
+</page>

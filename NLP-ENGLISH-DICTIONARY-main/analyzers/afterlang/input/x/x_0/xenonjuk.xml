@@ -1,0 +1,29 @@
+<page>
+<title>xenonjuk</title>
+<ns>0</ns>
+<id>1791391</id>
+<revision>
+<id>52703884</id>
+<parentid>25651989</parentid>
+<timestamp>2019-05-07T21:34:28Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="289" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xenon|-juk|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|non|juk}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||3|p|spos|poss}}
+====Declension====
+{{hu-infl-nom|xenonjuka|o|n=sg|esm_sg=1}}</text>
+<sha1>k5robp3kkf1ye58ge91uzugdzjxm761</sha1>
+</revision>
+</page>

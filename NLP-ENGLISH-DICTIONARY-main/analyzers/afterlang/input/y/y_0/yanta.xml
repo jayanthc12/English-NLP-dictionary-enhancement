@@ -1,0 +1,40 @@
+<page>
+<title>yanta</title>
+<ns>0</ns>
+<id>5055844</id>
+<revision>
+<id>68313473</id>
+<parentid>57012796</parentid>
+<timestamp>2022-07-18T13:17:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yantar]] with 'yantar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="390" xml:space="preserve">{{also|yantá}}
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Adjective===
+{{pi-adj}}
+# {{inflection of|pi|yāti||pres|act|part|t=to go}}
+====Declension====
+{{pi-decl-noun|g=m}}
+{{pi-decl-noun|yantī|g=f}}
+{{pi-decl-noun|g=n}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yantar}}
+----
+==Waray-Waray==
+===Noun===
+{{head|war|noun|head=yantà}}
+# [[rim]]</text>
+<sha1>iyh4tl9eqcmfquslqypl7rn2z5urnkc</sha1>
+</revision>
+</page>

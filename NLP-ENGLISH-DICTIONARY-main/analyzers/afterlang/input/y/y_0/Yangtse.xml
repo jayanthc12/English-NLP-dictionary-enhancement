@@ -1,0 +1,94 @@
+<page>
+<title>Yangtse</title>
+<ns>0</ns>
+<id>4215124</id>
+<revision>
+<id>68621933</id>
+<parentid>66563358</parentid>
+<timestamp>2022-08-13T15:41:53Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1875 journal; #* {{seemoreCites|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3243" xml:space="preserve">{{also|Yangtsé}}
+==English==
+===Alternative forms===
+* {{l|en|Yang-tse}}
+===Etymology===
+An irregular romanization of the {{bor|en|cmn|-}} pronunciation of {{bor|en|zh|揚子}} and {{m|zh|揚子江|tr=Yángzǐ Jiāng}}, q.v.
+===Proper noun===
+{{en-proper noun}}
+# {{alternative form of|en|Yangtze}}
+#* {{quote-journal
+|en
+|year=1875
+|origdate=February 22, 1875
+|last=Oxenham
+|first=E. L.
+|title=VI.—On the Inundations of the Yang-tse-Kiang.
+|journal={{w|The Journal of the Royal Geographic Society of London}}
+|url=https://archive.org/details/s572id13663830/
+|volume=45
+|location=[[London]]
+|publisher={{w|John Murray (publishing house)|John Murray}}
+|issn=0266-6235
+|oclc=66168045
+|page=170
+|pageurl=https://archive.org/details/s572id13663830/page/170/
+|text=The only claim the writer has to deal with this subject is that of having resided some three years at Han-kow, a large city of 700,000 inhabitants, situated in the province of Hu-pe, on the banks of the '''Yang-tse''', at the place where the Han River enters it, some 600 miles from the sea, situated in the centre of the flooded districts.
+|brackets=on}}
+#* {{quote-book
+|en
+|url=https://archive.org/details/aav8314.0001.001.umich.edu/
+|year=1926
+|author=Lucian Swift Kirtland
+|title=Finding the Worth While in the Orient
+|location=[[New York]]
+|publisher={{w|Robert M. McBride}} &amp; Company
+|page=192
+|pageurl=https://archive.org/details/aav8314.0001.001.umich.edu/page/192/}}
+#*:A stream called the Han River separates Hankow from Hanyang, and these two towns, together with Wu-chang across the '''Yangtse''', are known as the Wu-Han cities. The steel mills, which are often referred to as the &quot;Hankow mills,&quot; are at Hanyang.
+#* {{quote-book
+|en
+|year=1938
+|last=Berkov
+|first=Robert
+|title=Strong Man of China: The Story of Chiang Kai-shek
+|url=https://archive.org/details/strongmanofchina0000berk
+|location=Boston
+|publisher=Houghton Mifflin Company
+|page=146
+|pageurl=https://archive.org/details/strongmanofchina0000berk/page/146/
+|text=War, real but undeclared, broke out at Shanghai on January 28, 1932. Two days later the National government which Chiang Kai-shek had established five years before at Nanking was moved to Loyang, far from the menace of Japanese men-of-war on the '''Yangtse'''.}}
+#* {{quote-book
+|en
+|url=https://archive.org/details/escapeofamethyst00phil/
+|year=1957
+|title=Escape of the ''Amethyst''
+|author=C. E. Lucas Phillips
+|location=[[New York]]
+|publisher={{w|Coward-McCann}}
+|page=10
+|pageurl=https://archive.org/details/escapeofamethyst00phil/page/10/}}
+#*:This is the '''Yangtse'''—the '''Yangtse''' of the low-lying province of Kiangsu, from the ancient walled city of Chinkiang to the open sea—upon whose waters and along whose banks we shall live and move in this story.
+#* {{quote-book
+|en
+|year=2015
+|author=Lawrie Ryan
+|title=Advanced Chemistry for You
+|url=https://archive.org/details/advancedchemistryforyou/
+|edition=2nd
+|publisher={{w|Oxford University Press}}
+|ISBN=978 140 852736 8
+|page=44
+|pageurl=https://archive.org/details/advancedchemistryforyou/page/n45/}}
+#*:The '''Yangtse''' River can burst its banks, flooding large areas of China.
+#* {{seemoreCites|en}}
+===Anagrams===
+* {{anagrams|en|a=aegnsty|Gyantse|ageynst}}</text>
+<sha1>sowcok28ayj4pg711dzgqff6fxko9o0</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>yakhni</title>
+<ns>0</ns>
+<id>4626070</id>
+<revision>
+<id>69634859</id>
+<parentid>67944995</parentid>
+<timestamp>2022-11-01T13:50:01Z</timestamp>
+<contributor>
+<username>Samubert96</username>
+<id>3098704</id>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="826" xml:space="preserve">==English==
+===Etymology===
+Ultimately from {{der|en|fa|یخنی|tr=yaxni}}.
+===Noun===
+{{en-noun|-}}
+# Any of various [[stock]]s, [[broth]]s and [[stew]]s found in many countries from the Balkan Peninsula to South Asia.
+====Translations====
+{{trans-top|any of various stocks, broths and stews}}
+* Arabic: {{t|ar|يَخْنِي|m}}, {{t|ar|يَخْنَة|f}}
+* Armenian: {{t+|hy|յախնի}}
+* Bulgarian: {{t|bg|яхни́я|f}}
+* Greek: {{t+|el|γιαχνί|n}}
+* Hindi: {{t|hi|यख़्नी|f}}, {{t+|hi|यखनी|f}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|yexnî}}
+{{trans-mid}}
+* Ottoman Turkish: {{t|ota|یخنی|tr=yahni}}
+* Persian: {{t+|fa|یخنی|tr=yaxni}}
+* Romanian: {{t+|ro|iahnie|f}}
+* Tajik: {{t|tg|яхни}}
+* Turkish: {{t+|tr|yahni}}
+* Urdu: {{t+|ur|یَخْنی|f|tr=yaxnī}}
+{{trans-bottom}}</text>
+<sha1>0obp0butw6whstfjglk6q6bqaxvw9ps</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xuratas</title>
+<ns>0</ns>
+<id>7327885</id>
+<revision>
+<id>56462792</id>
+<parentid>53978642</parentid>
+<timestamp>2019-10-18T03:31:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=f-p}}
+# {{plural of|es|xurata}}</text>
+<sha1>npsn5vg9grqjthw75kk0u45hei40o68</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Xylophonen</title>
+<ns>0</ns>
+<id>4229997</id>
+<revision>
+<id>66245013</id>
+<parentid>56338553</parentid>
+<timestamp>2022-03-27T17:35:17Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xylophonen.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-Xylophonen.ogg|Audio}}
+===Noun===
+{{head|de|noun form}} {{g|n}}
+# {{inflection of|de|Xylophon||dat|p}}</text>
+<sha1>ho7iy1q131bxroserbpkcnx93kc5ctp</sha1>
+</revision>
+</page>

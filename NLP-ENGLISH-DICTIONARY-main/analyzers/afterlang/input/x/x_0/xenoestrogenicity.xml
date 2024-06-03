@@ -1,0 +1,27 @@
+<page>
+<title>xenoestrogenicity</title>
+<ns>0</ns>
+<id>5569345</id>
+<revision>
+<id>54405463</id>
+<parentid>51578358</parentid>
+<timestamp>2019-09-29T09:10:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="933" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xenoestrogen|-icity}}
+===Noun===
+{{en-noun|-}}
+# The condition of being a [[xenoestrogen]]
+#* {{quote-journal|en|date=November 11, 2015|author=|title=Environmental Polychlorinated Biphenyl Exposure and Breast Cancer Risk: A Meta-Analysis of Observational Studies|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142513|doi=10.1371/journal.pone.0142513|volume=|issue=|pages=
+|passage=Interestingly, studies have extracted the fraction containing the mixture of legacy POPs, including the PCBs, and found a correlation between the chemical level of POP biomarkers and the '''xenoestrogenicity''' of the serum POP mixture related to the detected level: the xenoestrogenic activity of the Inuit's (high serum PCB levels) and Warsaw study groups (lower PCB levels) elicited high frequency of samples with ER antagonistic and agonistic activity, respectively. }}</text>
+<sha1>gn47gkgx1sm6inan1cmk86w60e3f5bv</sha1>
+</revision>
+</page>

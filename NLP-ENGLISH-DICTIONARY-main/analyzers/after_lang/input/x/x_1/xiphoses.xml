@@ -1,0 +1,24 @@
+<page>
+<title>xiphoses</title>
+<ns>0</ns>
+<id>3598652</id>
+<revision>
+<id>56104152</id>
+<parentid>53092392</parentid>
+<timestamp>2019-10-17T03:52:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="118" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xiphos}}
+[[Category:English plurals ending in &quot;-es&quot;]]</text>
+<sha1>lf8hclok3szcb2pniap9kufomf7xhpx</sha1>
+</revision>
+</page>

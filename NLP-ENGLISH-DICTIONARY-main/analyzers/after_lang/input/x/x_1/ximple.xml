@@ -1,0 +1,41 @@
+<page>
+<title>ximple</title>
+<ns>0</ns>
+<id>3081395</id>
+<revision>
+<id>62914454</id>
+<parentid>62519852</parentid>
+<timestamp>2021-06-18T11:31:32Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="461" xml:space="preserve">==Catalan==
+===Etymology===
+Variant of {{m|ca|simple}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{hyphenation|ca|xim|ple}}
+===Adjective===
+{{ca-adj|mf}}
+# [[simple-minded]], [[foolish]], [[silly]]
+#: {{syn|ca|totxo}}
+====Related terms====
+* {{l|ca|ximplejar}}
+* {{l|ca|ximpleria}}
+* {{l|ca|ximplesa}}
+* {{l|ca|ximplet}}
+===Noun===
+{{ca-noun|mf}}
+# [[nincompoop]], [[simpleton]]
+#: {{syn|ca|totxo}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}
+* {{R:GDLC}}</text>
+<sha1>8rovd6oe9q4p67noko85a52opg0ifk4</sha1>
+</revision>
+</page>

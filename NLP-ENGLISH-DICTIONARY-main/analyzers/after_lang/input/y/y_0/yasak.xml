@@ -1,0 +1,77 @@
+<page>
+<title>yasak</title>
+<ns>0</ns>
+<id>3099186</id>
+<revision>
+<id>68978825</id>
+<parentid>68978809</parentid>
+<timestamp>2022-08-29T12:00:19Z</timestamp>
+<contributor>
+<username>Rd1978</username>
+<id>3663272</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2001" xml:space="preserve">==English==
+{{wikipedia|lang=en}}
+===Alternative forms===
+* {{l|en|iasak}}, {{l|en|yasaq}}
+===Etymology===
+Borrowed from {{bor|en|ru|ясак}}, from {{der|en|trk}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|historical}} An [[in-kind]] [[tribute]] in [[Russian Empire|Imperial Russia]] exacted from the [[indigenous]] [[people]]s of [[Siberia]], usually in [[fur]].
+====Translations====
+{{trans-top|tribute}}
+* Bashkir: {{t|ba|яһаҡ}}
+* Dutch: {{t|nl|jasak|c}}
+* Finnish: {{t+|fi|jasakki}}
+{{trans-mid}}
+* Kazakh: {{t|kk|жасақ}}
+* Kumyk: {{t|kum|ясакъ|tr=yasaq}}
+* Russian: {{t+|ru|яса́к}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aaksy|kayas}}
+----
+==Tagalog==
+===Noun===
+{{tl-noun}}
+# [[act]] or [[manner]] of [[destroy]]ing [[plant]]s in a [[field]] or [[farm]] by [[trample|trampling]] or [[pass]]ing [[through]] it
+====Synonyms====
+* {{l|tl|pagyurak}}
+* {{l|tl|yurak}}
+===Adjective===
+{{tl-adj|yasák}}
+# [[crushed]] or [[destroyed]] by [[passer]]s {{gloss|referring to plants in a field or farm}}
+====Synonyms====
+* {{l|tl|yurak}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاساق|tr=yasak}}, {{m|ota|یاساغ|tr=yasağ}}, related to {{cog|mn|засаг||rule, power; law}}.
+Cognate with {{cog|tt|ясак}}, {{cog|chg|tr=yasak|||tribute; decree, law}}, {{cog|ba|яһаҡ|t=historical tax in Russia}}, {{cog|kk|жасақ}}. The following are borrowed from Turkic: {{cog|axm|ասախ}}, {{cog|ru|яса́к}}, {{cog|fa|یاساق|tr=yâsâq}}.
+===Pronunciation===
+* {{IPA|tr|[jɑˈsɑk]}}
+===Adjective===
+{{tr-adj}}
+# [[forbidden]]
+#: {{syn|tr|yasaklı|kadağa|q2=obsolete|memnu|q3=obsolete}}
+===Noun===
+{{tr-noun|yasağı|lar}}
+# [[prohibition]], [[ban]]
+====Declension====
+{{tr-infl-noun-c|a|stem=yasağ|poss=1|pred=1}}
+====Derived terms====
+* {{l|tr|yasaklamak}}
+* {{l|tr|yasaklı}}
+====Related terms====
+* {{l|tr|yasa}}
+* {{l|tr|yasamak}}
+===References===
+* {{R:xcl:HAB|ասախ|vol=I|page=267a}}
+* {{R:trk:Budagov|vol=II|page=329}}</text>
+<sha1>903le2fvjzegg6qr8al2ogk17dyurf7</sha1>
+</revision>
+</page>

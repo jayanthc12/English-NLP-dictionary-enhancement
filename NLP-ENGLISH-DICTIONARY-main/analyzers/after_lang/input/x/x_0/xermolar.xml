@@ -1,0 +1,41 @@
+<page>
+<title>xermolar</title>
+<ns>0</ns>
+<id>6998918</id>
+<revision>
+<id>68869157</id>
+<parentid>68834795</parentid>
+<timestamp>2022-08-28T06:00:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="492" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xarmolar}}
+===Etymology===
+From {{m|gl|xermolo|t=germ, sprout}}.
+===Pronunciation===
+* {{IPA|gl|/ʃermoˈlaɾ/}}
+===Verb===
+{{gl-verb|xermol|ar}}
+# to [[bud]]
+#: {{syn|gl|agromar|brotar|grelar|xenar}}
+# to [[sprout]], to  [[germinate]]
+#: {{syn|gl|agromar|brotar|xurdir}}
+====Conjugation====
+{{gl-conj-ar|xermol}}
+====Related terms====
+* {{l|gl|xerme}}
+* {{l|gl|xermolo}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>pvkcdy8v04ao9z69yto3rivwyzcm9fw</sha1>
+</revision>
+</page>

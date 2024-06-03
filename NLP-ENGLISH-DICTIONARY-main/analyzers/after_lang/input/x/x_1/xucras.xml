@@ -1,0 +1,23 @@
+<page>
+<title>xucras</title>
+<ns>0</ns>
+<id>4947152</id>
+<revision>
+<id>60672586</id>
+<parentid>48765843</parentid>
+<timestamp>2020-09-28T12:38:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pt-adj form of}} to {{adj form of|pt}} with appropriate param changes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Portuguese==
+===Adjective===
+{{head|pt|adjective form}}
+# {{adj form of|pt|xucro||f|p}}</text>
+<sha1>6zl2urn0cp4l8qkpb2mysucie5gl33a</sha1>
+</revision>
+</page>

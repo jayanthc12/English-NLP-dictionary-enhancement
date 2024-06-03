@@ -1,0 +1,25 @@
+<page>
+<title>yachtier</title>
+<ns>0</ns>
+<id>1584888</id>
+<revision>
+<id>51223238</id>
+<parentid>27645762</parentid>
+<timestamp>2019-01-08T18:35:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:en) change comparative &amp; superlative adjective &amp; adverb categorization</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="323" xml:space="preserve">==English==
+===Adjective===
+{{head|en|comparative adjective}}
+# {{en-comparative of|yachty}}
+#* '''1969''', Edgar L. Bloomster, ''Sailing and Small Craft Down the Ages''
+#*: These smart boats somewhat resemble the &quot;bawleys,&quot; except that their rig is '''yachtier''' in appearance and the boom mainsails have a loftier cut.</text>
+<sha1>n0j09l62i21ncz3rl8x73xsn3z1o211</sha1>
+</revision>
+</page>

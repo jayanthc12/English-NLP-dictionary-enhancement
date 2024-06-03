@@ -1,0 +1,26 @@
+<page>
+<title>yadim</title>
+<ns>0</ns>
+<id>1500937</id>
+<revision>
+<id>55649898</id>
+<parentid>53092581</parentid>
+<timestamp>2019-10-15T10:42:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="156" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yad}}
+===Anagrams===
+* {{anagrams|en|a=adimy|yidam}}
+[[Category:English 2-syllable words]]</text>
+<sha1>8ewxmixjmf7z2ayq6qbidbto1lohm8l</sha1>
+</revision>
+</page>

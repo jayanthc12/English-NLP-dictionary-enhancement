@@ -1,0 +1,28 @@
+<page>
+<title>ydinolemus</title>
+<ns>0</ns>
+<id>4617508</id>
+<revision>
+<id>69318215</id>
+<parentid>52039426</parentid>
+<timestamp>2022-09-18T17:06:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|olemus}}
+===Pronunciation===
+{{fi-p|ydin-olemus}}
+===Noun===
+{{fi-noun}}
+# [[core]] [[essence]]
+====Declension====
+{{fi-decl-vastaus|ydinolemu|a}}</text>
+<sha1>ajxx08qh1hfvppz2xoc3s3yz3gg1y2l</sha1>
+</revision>
+</page>

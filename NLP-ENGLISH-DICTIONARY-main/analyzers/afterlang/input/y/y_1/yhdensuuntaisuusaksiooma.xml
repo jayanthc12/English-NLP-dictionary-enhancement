@@ -1,0 +1,29 @@
+<page>
+<title>yhdensuuntaisuusaksiooma</title>
+<ns>0</ns>
+<id>7206849</id>
+<revision>
+<id>58603433</id>
+<parentid>58593393</parentid>
+<timestamp>2020-01-31T11:44:44Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) use slashes in fi-p to split main components that themselves are compounds</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="266" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdensuuntaisuus|aksiooma}}
+===Pronunciation===
+{{fi-pronunciation|yhden-suuntaisuus/aksiooma}}
+===Noun===
+{{fi-noun}}
+# {{synonym of|fi|paralleeliaksiooma}}
+====Declension====
+{{fi-decl-koira|yhdensuuntaisuusaksioom|||a}}</text>
+<sha1>kf2wz9zihz8uowqm19v9lj49iuiht47</sha1>
+</revision>
+</page>

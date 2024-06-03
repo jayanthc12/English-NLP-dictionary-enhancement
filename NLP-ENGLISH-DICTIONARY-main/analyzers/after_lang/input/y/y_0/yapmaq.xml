@@ -1,0 +1,48 @@
+<page>
+<title>yapmaq</title>
+<ns>0</ns>
+<id>950696</id>
+<revision>
+<id>66280109</id>
+<parentid>61900217</parentid>
+<timestamp>2022-03-30T14:11:56Z</timestamp>
+<contributor>
+<username>BurakD53</username>
+<id>3749209</id>
+</contributor>
+<comment>/* Azerbaijani */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1378" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јапмаг|r=yapmaq|a=یاپماق}}
+===Etymology 1===
+From {{cog|trk-pro|*yạp-}}.
+====Verb====
+{{head|az|verb}} {{tlb|az|transitive}}
+#  to [[stick]] or [[attach]] something onto a flat and vertical surface {{q|such as flatbread dough onto the inner walls of a [[tandoor]]}}
+=====Conjugation=====
+{{az-latin-conj|a}}
+=====Derived terms=====
+* {{l|az|yapışmaq||to glue}}
+===Etymology 2===
+Cognate with {{cog|otk||tr=yap-|t=to make}}, {{cog|tr|yapmak}}. From {{inh|az|trk-pro|*yap-}}.
+====Verb====
+{{head|az|verb}}
+# {{lb|az|archaic}} to [[make]], [[do]], [[pursue]]
+#* {{RQ:Rəsulzadə|M|[[istiqlal|İstiqlal]] [[uğrunda]] [[yapmaq|yapılan]] [[tarixi]] [[savaş|savaşların]] [[ən]] [[qanlı|qanlısı]] 19-cu [[əsr|əsrin]] [[baş|başlarında]] [[Rusiya Çarlığı|Rusiya Çarlığına]] [[qarşı]] [[yapmaq|yapılmışdır]].|Among '''purusued''' historical independence struggles, the bloodiest one '''was pursued''' against the Tsardom of Russia at the beginning of the 19th century. This struggle, lasting up to 30 years, is full of heroism.}}
+=====Conjugation=====
+{{az-latin-conj|a}}
+=====Derived terms=====
+* {{l|az|çörəkyapan||bread baker}}
+====Further reading====
+* {{r:obastan}}
+----
+==Crimean Tatar==
+===Etymology===
+Cognate with {{cog|otk||tr=yap-|t=to make}}.
+===Verb===
+{{head|crh|verb}}
+# to [[make]]</text>
+<sha1>meg92nh42ryokcvnzdg1fpmbmksrp52</sha1>
+</revision>
+</page>

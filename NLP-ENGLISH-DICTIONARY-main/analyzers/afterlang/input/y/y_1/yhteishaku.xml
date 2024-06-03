@@ -1,0 +1,29 @@
+<page>
+<title>yhteishaku</title>
+<ns>0</ns>
+<id>7132158</id>
+<revision>
+<id>58593439</id>
+<parentid>51677544</parentid>
+<timestamp>2020-01-30T12:19:46Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|haku}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-haku}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|education}} the [[period]] during which general [[application]]s to places of [[education]] are open; [[joint]] [[application]]
+====Declension====
+{{fi-decl-valo|yhteisha|k||u|a}}</text>
+<sha1>h4ip4qs07nmr4du29v704cfj96hzxx8</sha1>
+</revision>
+</page>

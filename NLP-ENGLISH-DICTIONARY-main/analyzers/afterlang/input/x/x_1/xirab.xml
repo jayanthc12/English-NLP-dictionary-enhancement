@@ -1,0 +1,30 @@
+<page>
+<title>xirab</title>
+<ns>0</ns>
+<id>883852</id>
+<revision>
+<id>62553562</id>
+<parentid>60944829</parentid>
+<timestamp>2021-05-19T17:54:09Z</timestamp>
+<contributor>
+<username>Hk5183</username>
+<id>3365555</id>
+</contributor>
+<comment>/* Northern Kurdish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="314" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+From {{der|kmr|ar|خراب|tr=ḵarāb|t=ruined, wrecked}}.
+===Adjective===
+{{kmr-adj|xirabtir|xirabtirîn|ar=خراب}}
+# [[bad]]
+# [[ruined]], [[destroyed]]
+#: {{syn|kmr|nebaş}}
+====Derived terms====
+* {{l|kmr|xirabî}}
+===References===
+* {{R:kmr:Chyet|xirab|Page=661}}</text>
+<sha1>88ed4pxobxbo0bqlgyabvny1qpvahxk</sha1>
+</revision>
+</page>

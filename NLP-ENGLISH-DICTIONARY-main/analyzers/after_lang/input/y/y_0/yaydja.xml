@@ -1,0 +1,28 @@
+<page>
+<title>yaydja</title>
+<ns>0</ns>
+<id>5864133</id>
+<revision>
+<id>60260792</id>
+<parentid>56423124</parentid>
+<timestamp>2020-09-05T03:55:22Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">==Gamilaraay==
+{{attn|kld|Is this entry spelled correctly? [[w:Gamilaraay language]] mentions ⟨dy⟩ but not ⟨dj⟩}}
+===Pronunciation===
+* {{IPA|kld|/ˈjajɟa/}}
+===Noun===
+{{head|kld|noun}}
+# [[skin]] [[cracks]]
+===References===
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary</text>
+<sha1>ddkkpqjsga07gyw7o26vuim029t21wj</sha1>
+</revision>
+</page>

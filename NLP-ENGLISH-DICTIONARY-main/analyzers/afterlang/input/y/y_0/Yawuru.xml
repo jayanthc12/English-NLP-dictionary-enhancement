@@ -1,0 +1,33 @@
+<page>
+<title>Yawuru</title>
+<ns>0</ns>
+<id>768893</id>
+<revision>
+<id>67898082</id>
+<parentid>64497853</parentid>
+<timestamp>2022-07-12T03:00:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="479" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|Jauor}}
+===Etymology===
+{{etystub|en}}
+===Proper noun===
+{{en-proper noun}}
+# A [[Nyulnyulan]] language of the indigenous people of [[w:Western Australia|Western Australia]].
+# An indigenous people of the area around [[w:Broome|Broome]] in Western Australia, who formerly used the Yawuru language.
+====See also====
+* {{pedia|Nyulnyulan languages}}
+====Further reading====
+* {{ethnologue|code=ywr}}
+[[Category:en:Languages]]</text>
+<sha1>pyf75jvcgc6a8brz60bcmsn4opfluqr</sha1>
+</revision>
+</page>

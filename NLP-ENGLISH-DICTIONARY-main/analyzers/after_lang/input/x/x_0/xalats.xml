@@ -1,0 +1,25 @@
+<page>
+<title>xalats</title>
+<ns>0</ns>
+<id>7124576</id>
+<revision>
+<id>64460118</id>
+<parentid>54738895</parentid>
+<timestamp>2021-10-28T12:13:47Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ats|s=2}}
+===Verb===
+{{head|ca|past participle|g=m-p}}
+# {{ca-verb form of|g=mpl|m=ptc|t=past|xalar}}</text>
+<sha1>hqpbg8f5pg6l5nabuisodpn0bd0zchi</sha1>
+</revision>
+</page>

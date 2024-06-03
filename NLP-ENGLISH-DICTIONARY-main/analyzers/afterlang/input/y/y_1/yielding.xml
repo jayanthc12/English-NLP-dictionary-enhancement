@@ -1,0 +1,63 @@
+<page>
+<title>yielding</title>
+<ns>0</ns>
+<id>85269</id>
+<revision>
+<id>69503777</id>
+<parentid>68671922</parentid>
+<timestamp>2022-10-12T21:03:45Z</timestamp>
+<contributor>
+<ip>160.34.89.153</ip>
+</contributor>
+<comment>t+la:[[facilis]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1579" xml:space="preserve">{{also|Yielding}}
+==English==
+===Pronunciation===
+* {{IPA|en|/ˈjiːldɪŋ/}}
+* {{rhymes|en|iːldɪŋ|s=2}}
+===Etymology 1===
+From {{inh|en|enm|ȝeldinge}}, {{m|enm|ȝeldynge}}, {{m|enm|ȝeldinde}}, {{m|enm|ȝeldand}}, from {{inh|en|ang|ġyldende}}, {{m|ang|ġieldende}}, present participle of {{m|ang|ġieldan|t=to yield, pay}}, equivalent to {{suffix|en|yield|ing}}.
+====Verb====
+{{head|en|verb form}}
+# {{present participle of|en|yield|nocat=1}}
+====Adjective====
+{{en-adj}}
+# [[docile|Docile]], or [[inclined]] to [[give way]] to [[pressure]].
+=====Derived terms=====
+* {{l|en|yieldingly}}
+* {{l|en|yieldingness}}
+=====Translations=====
+{{trans-top|docile}}
+* Bulgarian: {{t+|bg|податлив}}
+* Czech: {{t+|cs|poddajný}}
+* Dutch: {{t+|nl|toegeeflijk}}
+* Esperanto: {{t|eo|cedema}}
+* French: {{t+|fr|docile}}
+* Georgian: {{t|ka|დამთმობი}}, {{t|ka|დამყოლი}}
+* German: {{t+|de|ergiebig}}
+{{trans-mid}}
+* Italian: {{t+|it|docile}}, {{t+|it|mansueto}}
+* Latin: {{t+|la|facilis|m|f}}
+* Manx: {{t|gv|so-lhoobey}}
+* Occitan: {{t+|oc|docil}}, {{t|oc|manèl}}, {{t|oc|manse}}
+* Polish: {{t+|pl|ustępliwy}}
+* Russian: {{t+|ru|пода́тливый|m}}
+{{trans-bottom}}
+===Etymology 2===
+From {{inh|en|enm|yelding}}, {{m|enm|yeldinge}}, {{m|enm|ȝeldynge}}, equivalent to {{suffix|en|yield|ing}}.
+====Noun====
+{{en-noun}}
+# A [[concession]].
+=====Derived terms=====
+* {{l|en|overyielding}}
+=====Translations=====
+{{trans-top|A concession}}
+* French: {{t+|fr|concession|f}}
+{{trans-mid}}
+* Italian: {{t+|it|concessione}}
+{{trans-bottom}}</text>
+<sha1>a6a0da5n6wsyzbapk22yvm1iho71xab</sha1>
+</revision>
+</page>

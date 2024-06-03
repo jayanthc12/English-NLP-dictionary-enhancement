@@ -1,0 +1,27 @@
+<page>
+<title>xab</title>
+<ns>0</ns>
+<id>8511</id>
+<revision>
+<id>55309663</id>
+<parentid>49266562</parentid>
+<timestamp>2019-10-14T09:06:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==Volapük==
+===Pronunciation===
+* {{IPA|vo|[ksab]}}
+===Noun===
+{{vo-noun}}
+# [[axle]]
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>90abs8nokaxmp9fojl5o3ijbyzmc6f5</sha1>
+</revision>
+</page>

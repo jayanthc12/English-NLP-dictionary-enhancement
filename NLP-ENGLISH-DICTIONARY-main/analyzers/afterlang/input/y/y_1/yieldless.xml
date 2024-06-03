@@ -1,0 +1,29 @@
+<page>
+<title>yieldless</title>
+<ns>0</ns>
+<id>3038970</id>
+<revision>
+<id>51894449</id>
+<parentid>39428732</parentid>
+<timestamp>2019-03-15T13:05:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="604" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yield|less}}
+===Adjective===
+{{en-adj|-}}
+# Not providing any [[yield]] or return.
+#* '''1983''', Martin S. Feldstein, ''Capital taxation'' (page 197)
+#*: In the sample case of riskless and '''yieldless''' money, and a multivariate normal distribution for the yields of all other assets, Tobin's famous separation theorem implies that a proportional tax decreases the demand for money and increases the demand for all risky assets.
+# {{lb|en|archaic}} [[unyielding]]
+#: ''And Death's grim hands grip hard below / At mortared seams of the '''yieldless''' stone''</text>
+<sha1>rcpccyod0f5gttx3irdm1x5in4m52l8</sha1>
+</revision>
+</page>

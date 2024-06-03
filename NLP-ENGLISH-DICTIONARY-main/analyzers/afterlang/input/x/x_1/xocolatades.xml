@@ -1,0 +1,25 @@
+<page>
+<title>xocolatades</title>
+<ns>0</ns>
+<id>6419787</id>
+<revision>
+<id>56264266</id>
+<parentid>47836256</parentid>
+<timestamp>2019-10-17T10:43:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="110" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xocolatada}}</text>
+<sha1>2uejy3a33jqw28yo6ysoki1x2esrs8d</sha1>
+</revision>
+</page>

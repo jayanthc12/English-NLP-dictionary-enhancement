@@ -1,0 +1,41 @@
+<page>
+<title>yhteiskoulu</title>
+<ns>0</ns>
+<id>3065564</id>
+<revision>
+<id>69318435</id>
+<parentid>67449317</parentid>
+<timestamp>2022-09-18T17:18:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1261" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhteis|gloss1=joint, shared|koulu|gloss2=school}}
+===Pronunciation===
+{{fi-p|yhteis-koulu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|dated}} [[co-ed]] [[school]] {{gloss|school that teaches both girls and boys}}.
+====Usage notes====
+Currently all schools are co-ed in Finland and this term is therefore almost fallen out of use, except for the names of schools. For current school terminology, see {{m|fi|esikoulu}}, {{m|fi|peruskoulu}} and {{m|fi|lukio}}. In its time, '''''yhteiskoulu''''' referred either to a {{m|fi|keskikoulu||junior high school, grades 5 to 9}} or {{m|fi|oppikoulu||grammar school, grades 5 to 12}} which taught both girls and boys. Co-eds for grades 10 to 12 were called {{m|fi|yhteislukio}}. The schools above grade 5 teaching only boys were formerly called {{m|fi|lyseo}} and those teaching only girls were called {{m|fi|tyttölyseo}}. Grades 1 to 4 ({{m|fi|kansakoulu}}) became obligatory for both sexes in 1921.
+====Declension====
+{{fi-decl-valo|yhteiskoul|||u|a}}
+====Synonyms====
+* {{l|fi|yhteislyseo}}
+====See also====
+* {{l|fi|kansakoulu}}
+* {{l|fi|keskikoulu}}
+* {{l|fi|lukio}}
+* {{l|fi|lyseo}}
+* {{l|fi|oppikoulu}}
+* {{l|fi|oppivelvollisuus}}
+* {{l|fi|peruskoulu}}
+* {{l|fi|tyttölyseo}}</text>
+<sha1>f2doxx3z6zzbf52ctk220c8zrmmmfzb</sha1>
+</revision>
+</page>

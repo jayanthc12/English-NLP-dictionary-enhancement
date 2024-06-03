@@ -1,0 +1,23 @@
+<page>
+<title>xanthelasmoideae</title>
+<ns>0</ns>
+<id>5405268</id>
+<revision>
+<id>66994976</id>
+<parentid>56752747</parentid>
+<timestamp>2022-05-15T09:45:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthelasmoīdeus}} (3); combine {{inflection of|la|xanthelasmoīdeus}} tag sets gen|f|s and dat|f|s into gen//dat|f|s; combine {{inflection of|la|xanthelasmoīdeus}} tag sets nom|f|p and voc|f|p into nom//voc|f|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xanthelasmoīdeae}}
+# {{inflection of|la|xanthelasmoīdeus||nom//voc|f|p|;|gen//dat|f|s}}</text>
+<sha1>6zr4tjolddjqsumt8488ix88owtabe2</sha1>
+</revision>
+</page>

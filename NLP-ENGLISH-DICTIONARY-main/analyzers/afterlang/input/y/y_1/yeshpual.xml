@@ -1,0 +1,28 @@
+<page>
+<title>yeshpual</title>
+<ns>0</ns>
+<id>4966132</id>
+<revision>
+<id>56363692</id>
+<parentid>38979627</parentid>
+<timestamp>2019-10-17T14:53:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Pipil==
+===Etymology===
+Compound of {{m|ppl|yey|yēsh-|three}} + {{m|ppl|pual||count}}. Compare {{cog|nci|yēipōhualli||sixty}}.
+===Pronunciation===
+* {{a|standard}} {{IPA|ppl|/jeːʃˈpuwal/}}
+===Numeral===
+{{head|head=yēshpual|ppl|numeral}}
+# [[sixty]]
+#: {{ux|ppl|Nechtanewiltijket ini carroj '''yeshpual''' tunal|They lent me this car for '''sixty''' days}}</text>
+<sha1>4br2mg2wl81ep1o7f8qrjiibwscged6</sha1>
+</revision>
+</page>

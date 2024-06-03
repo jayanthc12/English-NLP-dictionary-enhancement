@@ -1,0 +1,24 @@
+<page>
+<title>xeretara</title>
+<ns>0</ns>
+<id>4638033</id>
+<revision>
+<id>48940537</id>
+<parentid>46603121</parentid>
+<timestamp>2018-02-06T14:50:31Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Orphaned RFD-failed templates, removed redundant genders that are already in the definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">{{also|xeretará}}
+==Portuguese==
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xeretar}}</text>
+<sha1>m2ilt0y4pzbyayj3ogogq3sjrtbxvoo</sha1>
+</revision>
+</page>

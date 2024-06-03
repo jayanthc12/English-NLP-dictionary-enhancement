@@ -1,0 +1,48 @@
+<page>
+<title>xeque</title>
+<ns>0</ns>
+<id>1184180</id>
+<revision>
+<id>69114390</id>
+<parentid>65166247</parentid>
+<timestamp>2022-09-04T16:53:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="976" xml:space="preserve">==Mecayapan Nahuatl==
+===Etymology===
+{{etystub|nhx}}
+===Pronunciation===
+* {{IPA|nhx|/ˈʃeke/}}
+===Noun===
+{{head|nhx|noun}}
+# {{l|en|nest}}
+#: {{synonyms|nhx|tapásol}}
+===References===
+* {{R:Wolgemuth et al. 2002|pages=69, 200}}
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA|chéque}}
+* {{homophones|pt|cheque}}
+* {{hyphenation|pt|xe|que}}
+===Etymology 1===
+From {{der|pt|ar|شَاه}}, from {{der|pt|fa|شاه|t=king|tr=šâh}}, from {{der|pt|pal|𐭬𐭫𐭪𐭠|t=king|tr=šāh}}, from {{der|pt|peo|𐏋|ts=xšāyaθiya|t=king}}, from {{der|pt|iir-pro|*ksayati|t=he rules, he has power over}}, from {{der|pt|ine-pro|*tke-|t=to gain power over, gain control over}}.
+====Noun====
+{{pt-noun|m}}
+# {{lb|pt|chess}} [[check]], in the meaning of a position in which an opposing piece is attacking a king
+=====Related terms=====
+* {{l|pt|xeque-mate}}
+===Etymology 2===
+From {{der|pt|ar|شَيْخ}}.
+====Noun====
+{{pt-noun|m}}
+# {{alt form|pt|xeique||sheikh}}</text>
+<sha1>svs4ngf1rptgczl3wpkniezcv758t9m</sha1>
+</revision>
+</page>

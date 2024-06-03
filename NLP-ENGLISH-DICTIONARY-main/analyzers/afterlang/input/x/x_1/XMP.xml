@@ -1,0 +1,29 @@
+<page>
+<title>XMP</title>
+<ns>0</ns>
+<id>3062033</id>
+<revision>
+<id>54612591</id>
+<parentid>51707962</parentid>
+<timestamp>2019-10-03T07:30:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}} (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="402" xml:space="preserve">==English==
+===Noun===
+{{en-noun|~}}
+# {{lb|en|chemistry}} {{initialism of|en|[[xanthosine]] [[monophosphate]]}}
+# {{lb|en|computing}} {{initialism of|en|[[extensible|Extensible]] [[metadata|Metadata]] [[platform|Platform]]}}
+# {{lb|en|computing}} {{initialism of|en|[[extreme|Extreme]] [[memory|Memory]] [[profile|Profile]]}}
+===References===
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=mpx|MXP}}</text>
+<sha1>nsu9wyxvi75shzj5mmxwkfvjzhhvde0</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xeramos</title>
+<ns>0</ns>
+<id>1852719</id>
+<revision>
+<id>57267923</id>
+<parentid>35200555</parentid>
+<timestamp>2019-10-19T17:17:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerar||1|p|pres|indc}}
+# {{inflection of|gl|xerar||1|p|pret|indc}}</text>
+<sha1>jm9v7g3rvt6yte52lr3yqwea17lgh0e</sha1>
+</revision>
+</page>

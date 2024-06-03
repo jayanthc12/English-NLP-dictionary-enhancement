@@ -1,0 +1,67 @@
+<page>
+<title>yakisoba</title>
+<ns>0</ns>
+<id>3639593</id>
+<revision>
+<id>69486613</id>
+<parentid>69114441</parentid>
+<timestamp>2022-10-10T00:03:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1406" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ja|焼きそば}}.
+===Noun===
+{{en-noun|-|s}}
+# A Japanese dish made of fried wheat flour noodles, pork, vegetables and a sweet sauce.
+====Translations====
+{{trans-top|Japanese dish made of fried wheat flour noodles, pork, vegetables and a sweet sauce}}
+* Hindi: {{t|hi|यकिसोबा}}
+* Indonesian: {{t|id|yakisoba}}
+* Korean: {{t|ko|야키소바}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|yakisoba|m}}, {{t+|pt|yakissoba|m}}
+* Sinhalese: {{t|si|යකිසොබා}}
+{{trans-bottom}}
+----
+==Indonesian==
+{{wikipedia||lang=id}}
+===Etymology===
+From {{bor|id|ja|-}} {{ja-r|焼きそば|やきそば}}.
+===Pronunciation===
+* {{IPA|id|[jakiˈsoba]}}
+* {{hyphenation|id|ya|ki|so|ba}}
+===Noun===
+{{id-noun|head=|pl=-}}
+# {{lb|id|cooking}} {{l|en|yakisoba}}
+====Related terms====
+{{rel4|id|
+| soba
+|}}
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やきそば}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|yakissoba}}
+===Pronunciation===
+{{pt-IPA|br=iáquissôba|pt=iáquisôba,iáquisóba}}&lt;!-- FIXME, Infopédia only has the first; formerly we only had the second for Portugal --&gt;
+===Noun===
+{{pt-noun|m}}
+# {{l|en|yakisoba}} {{gloss|Japanese dish made of fried wheat flour noodles, pork, vegetables and a sweet sauce}}
+{{C|pt|Foods}}</text>
+<sha1>p5j3p4emx5paqfjpv41bxrwg23ybf3q</sha1>
+</revision>
+</page>

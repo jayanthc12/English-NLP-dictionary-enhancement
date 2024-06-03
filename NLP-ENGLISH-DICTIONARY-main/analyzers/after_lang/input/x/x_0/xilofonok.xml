@@ -1,0 +1,28 @@
+<page>
+<title>xilofonok</title>
+<ns>0</ns>
+<id>1401344</id>
+<revision>
+<id>54784712</id>
+<parentid>52056507</parentid>
+<timestamp>2019-10-06T11:57:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}; move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="204" xml:space="preserve">==Hungarian==
+===Etymology===
+{{affix|hu|xilofon|-ok|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xi|lo|fo|nok}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||nom|p}}</text>
+<sha1>k2kc7was1d5xlqw53wz62cnreac3i45</sha1>
+</revision>
+</page>

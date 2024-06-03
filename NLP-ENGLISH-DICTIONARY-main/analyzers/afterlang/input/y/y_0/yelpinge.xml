@@ -1,0 +1,33 @@
+<page>
+<title>yelpinge</title>
+<ns>0</ns>
+<id>6904460</id>
+<revision>
+<id>61793174</id>
+<parentid>56594161</parentid>
+<timestamp>2021-02-10T08:28:23Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>/* References */Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="479" xml:space="preserve">==Middle English==
+===Alternative forms===
+* {{alter|enm|ȝelpingue|ȝelpyng|ȝelpynge|yelpyng|yelpingge|ȝulpinge|ȝelpunge }}
+===Etymology===
+From {{inh|enm|ang|ġilping}}; equivalent to {{af|enm|ȝelpen|-ing}}.
+===Pronunciation===
+* {{IPA|enm|/ˈjɛlpinɡ/}}
+===Noun===
+{{enm-noun|yelpinges}}
+# Self-aggrandisement; making boasts.
+====Descendants====
+* {{desc|en|yelping}}
+====References====
+* {{R:MED Online|entry=yelping(e |pos=ger|id=MED53814|accessdate=2018-09-25}}</text>
+<sha1>713geey7dusit7l7fenetxbm6jkxjpi</sha1>
+</revision>
+</page>

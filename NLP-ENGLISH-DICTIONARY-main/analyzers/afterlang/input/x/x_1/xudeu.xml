@@ -1,0 +1,46 @@
+<page>
+<title>xudeu</title>
+<ns>0</ns>
+<id>7096344</id>
+<revision>
+<id>68869785</id>
+<parentid>68865608</parentid>
+<timestamp>2022-08-28T06:03:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2245" xml:space="preserve">==Galician==
+[[File:Barrio xudeu. Ribadavia- Galiza-2.jpg |thumb |Barrio ''xudeu'', ancient Jewish quarter, Ribadavia, Galicia]]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|judeu}}, {{m|roa-opt|judio}}, from {{der|gl|la|iudaeus|t=Judaean}}, from {{der|gl|grc|Ἰουδαῖος}}, from {{der|gl|he|יהודי||tr=Yehudi}}. Cognate with {{cog|pt|judeu}} and {{cog|es|judío}}.
+===Pronunciation===
+* {{IPA|gl|/ʃuˈðew/}}
+===Noun===
+{{gl-noun|m|f=xudía}}
+# [[Jew]]
+#* '''c1350''', K. M. Parker (ed.), ''Historia Troyana.'' Santiago: Instituto &quot;Padre Sarmiento&quot;, page 185:
+#*: ''el RRey Faraõ, o que morreu ẽno mar RRubio quando ya pos los '''judeus'''''
+#*:: the Pharaoh king, the one who died at the Red Sea when going after the '''Jews'''
+#* '''1390''', J. L. Pensado Tomé (ed.), ''Os Miragres de Santiago. Versión gallega del Códice latino del siglo XII atribuido al papa Calisto I''. Madrid: C.S.I.C., page 216:
+#*: ''Hu he aquel que he nado Rrey dos '''judeus'''? que nos vimos a estrela en ouriente, et vymoslo adorar''
+#*:: Where is he who is born King of the '''Jews'''? Because in the East we saw the star and came here to adore him.
+#* '''1487''', X. Ferro Couselo (ed.), ''A vida e a fala dos devanceiros. Escolma de documentos en galego dos séculos XIII ao XVI''. Vigo: Galaxia, page 235:
+#*: ''querendo cunplir e aguardar la ley quel Rey e Reyna nros señores avían feito, en que se contyña que suas Alteças mandauan apartar e faser apartamento en todos seus regnos a los '''judíos''' pera que morasen apartados de los cristiaos''
+#*:: wanting to accomplish and to obey the law that our lords, the king and queen, have made, which contained this: that our Highnesses ordered to separate and made a separate quarter, in all of their kingdoms, for the '''Jews''', for them to live apart from the Christians
+===Adjective===
+{{gl-adj|m|f=xudía}}
+# [[Jewish]]
+===References===
+* {{R:gl:DDGM|judeu}}
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=+jud%5Bei%C3%AD%5D%5Boua%5D&amp;corpus=xelmirez judeu]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: ''Corpus Xelmírez - Corpus lingüístico da Galicia medieval''. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>26porx7cj9zxjbj3dr3mkjwnhgn7p5s</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xiro</title>
+<ns>0</ns>
+<id>1852396</id>
+<revision>
+<id>57267630</id>
+<parentid>46339256</parentid>
+<timestamp>2019-10-19T17:16:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">{{also|xi-rô}}
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xirar||1|s|pres|indc}}</text>
+<sha1>4gwqjb4n4oxnxcm13opro7kbqtm2fo3</sha1>
+</revision>
+</page>

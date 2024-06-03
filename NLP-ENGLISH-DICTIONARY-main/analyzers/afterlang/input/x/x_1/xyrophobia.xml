@@ -1,0 +1,22 @@
+<page>
+<title>xyrophobia</title>
+<ns>0</ns>
+<id>243266</id>
+<revision>
+<id>54530795</id>
+<parentid>26690500</parentid>
+<timestamp>2019-10-01T15:42:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{no entry}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="342" xml:space="preserve">==English==
+{{no entry|en|[[Appendix:English unattested phobias|Wiktionary's list of unattested phobias]]}}
+&lt;!-- Long comment to avoid listing as short page ..................................................................................................................................................................................... --&gt;</text>
+<sha1>7hqys7o0xve55mqrxzyzdy14yimzhwy</sha1>
+</revision>
+</page>

@@ -1,0 +1,47 @@
+<page>
+<title>yarray</title>
+<ns>0</ns>
+<id>321793</id>
+<revision>
+<id>55395863</id>
+<parentid>53734252</parentid>
+<timestamp>2019-10-14T14:06:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1139" xml:space="preserve">==Gamilaraay==
+===Alternative forms===
+* {{l|kld|yarē}}, {{l|kld|yărē}}
+* {{l|kld|yerre}}
+===Etymology===
+From {{inh|kld|aus-cww-pro|*yarrañ}}, cognate with {{cog|wrh|yarrayn}}.
+===Pronunciation===
+* {{IPA|kld|/jaraj/}} (''reconstructed'')
+===Noun===
+{{head|kld|noun}}
+# [[beard]]
+#* '''1856''', William Ridley, ''On the Kamilaroi Tribe of Australians and Their Dialect,'' in ''Journal of the Ethnological Society of London'', volume 4:
+#*: Beard . . '''yărē'''.
+#* '''1873''', William Ridley, ''Australian Languages and Traditions'', ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 2:
+#*: Beard | '''yarē'''
+#* '''1903''', R. H. Mathews, ''Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales'', in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 33:
+#*: Beard .... .... '''''yerre'''''
+===References===
+* {{R:kld:Austin}}
+[[Category:kld:Anatomy]]
+----
+==Ngiyambaa==
+===Etymology===
+From {{inh|wyb|aus-cww-pro|*yarrañ}}, cognate with {{cog|wrh|yarrayn}}.
+===Noun===
+{{head|wyb|noun}}
+# [[beard]]
+[[Category:wyb:Anatomy]]</text>
+<sha1>ad44xgxxlub6czqgpep15dz22qfa6e6</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>Yakobo</title>
+<ns>0</ns>
+<id>7295153</id>
+<revision>
+<id>61783069</id>
+<parentid>53743094</parentid>
+<timestamp>2021-02-08T20:38:29Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Sw-ke-Yakobo.flac; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="248" xml:space="preserve">==Swahili==
+===Pronunciation===
+* {{audio|sw|Sw-ke-Yakobo.flac|Audio (Kenya)}}
+===Proper noun===
+{{head|sw|proper noun}}
+# {{lb|sw|biblical}} [[James]] {{gl|book of the [[New Testament]]}}
+===See also===
+* {{list:books of the New Testament/sw}}</text>
+<sha1>gnltcaqqi10sa3mse2qw5ua9n964wtm</sha1>
+</revision>
+</page>

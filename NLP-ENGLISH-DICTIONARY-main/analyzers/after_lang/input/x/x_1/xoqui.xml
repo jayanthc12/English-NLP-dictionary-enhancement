@@ -1,0 +1,26 @@
+<page>
+<title>xoqui</title>
+<ns>0</ns>
+<id>3385036</id>
+<revision>
+<id>46439170</id>
+<parentid>43686723</parentid>
+<timestamp>2017-06-16T23:20:37Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Applying [[WT:NORM|NORMs]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">{{also|xoquí}}
+==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|t=pres|m=sub|xocar}}
+# {{ca-verb form of|p=3|n=sg|t=pres|m=sub|xocar}}
+# {{ca-verb form of|p=3|n=sg|m=impr|xocar}}</text>
+<sha1>ts0e2tn79nzvcsxpxiscbaxufqjxsbo</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>Yardies</title>
+<ns>0</ns>
+<id>467752</id>
+<revision>
+<id>55352596</id>
+<parentid>53092741</parentid>
+<timestamp>2019-10-14T11:45:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">{{also|yardies}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yardie}}
+===Anagrams===
+* {{anagrams|en|a=adeirsy|dayrise|yeridas}}</text>
+<sha1>68z11xfhmhtkjesrih9vv930ppkb54n</sha1>
+</revision>
+</page>

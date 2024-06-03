@@ -1,0 +1,24 @@
+<page>
+<title>xelan</title>
+<ns>0</ns>
+<id>4352080</id>
+<revision>
+<id>53120113</id>
+<parentid>40320185</parentid>
+<timestamp>2019-05-19T06:05:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'third-person plural present subjunctive' to 3|p|pres|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">{{also|xe lăn}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||3|p|pres|sub}}</text>
+<sha1>il2a9noi0lmxu5dn99tlkb7sc6vqh1i</sha1>
+</revision>
+</page>

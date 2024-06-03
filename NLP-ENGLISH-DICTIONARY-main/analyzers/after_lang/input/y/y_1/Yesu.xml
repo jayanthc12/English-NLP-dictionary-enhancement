@@ -1,0 +1,47 @@
+<page>
+<title>Yesu</title>
+<ns>0</ns>
+<id>1241646</id>
+<revision>
+<id>62413658</id>
+<parentid>61783072</parentid>
+<timestamp>2021-04-23T06:35:09Z</timestamp>
+<contributor>
+<username>Metaknowledge</username>
+<id>571271</id>
+</contributor>
+<comment>/* Etymology */ honestly not sure which language loaned it to Swahili, but we at least know this much...</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="671" xml:space="preserve">{{also|Yēsū}}
+==Ewe==
+===Proper noun===
+{{head|ee|proper noun}}
+# [[Jesus]]
+----
+==Rwanda-Rundi==
+===Etymology===
+Probably from {{bor|rw|sw|Yesu}}.
+===Proper noun===
+{{rw-proper noun|Yésu}}
+# [[Jesus]] {{q|used by Protestants}}
+#:{{syn|rw|Yezu|q1=used by Catholics}}
+{{C|rw|Christianity}}
+----
+==Swahili==
+{{wikipedia|lang=sw}}
+===Etymology===
+Ultimately from {{der|sw|la|Iēsūs}}.
+===Pronunciation===
+* {{audio|sw|Sw-ke-Yesu.flac|Audio (Kenya)}}
+===Proper noun===
+{{head|sw|proper noun}}
+# [[Jesus]] {{gloss|the Christian Messiah}}
+====Synonyms====
+* {{l|sw|Isa}} {{q|used by Muslims}}
+====See also====
+* {{l|sw|Kristo}}
+[[Category:sw:Christianity]]</text>
+<sha1>86tytkfbhyxi3zlc7hoscnfrc2m4cru</sha1>
+</revision>
+</page>

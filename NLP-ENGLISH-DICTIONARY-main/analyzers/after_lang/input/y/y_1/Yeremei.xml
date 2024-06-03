@@ -1,0 +1,35 @@
+<page>
+<title>Yeremei</title>
+<ns>0</ns>
+<id>4239851</id>
+<revision>
+<id>67299088</id>
+<parentid>59361172</parentid>
+<timestamp>2022-06-06T12:32:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|ru}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="419" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Yeremey}}
+===Etymology===
+From {{uder|en|ru|Ереме́й}}. {{doublet|en|Jeremy}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|A=A Russian|from=Russian}}
+====Related terms====
+* {{l|en|Jeremiah}}
+====Translations====
+{{trans-top|given name}}
+* Armenian: {{t|hy|Երեմեյ|sc=Armn}}
+{{trans-mid}}
+* Russian: {{t+|ru|Ереме́й}}
+{{trans-bottom}}</text>
+<sha1>ds7ocpzukuu72dk1e4qso0vi5olskzo</sha1>
+</revision>
+</page>

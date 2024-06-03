@@ -1,0 +1,25 @@
+<page>
+<title>Xanthien</title>
+<ns>0</ns>
+<id>1242620</id>
+<revision>
+<id>67264041</id>
+<parentid>46268739</parentid>
+<timestamp>2022-06-05T22:50:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[Xanthienne]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">==French==
+===Noun===
+{{fr-noun|m|f=+}}
+# [[Xanthian]]
+===Anagrams===
+* {{l|fr|xanthine}}</text>
+<sha1>hpion87gv0b6dkd3u4vjxx3guh8b9nl</sha1>
+</revision>
+</page>

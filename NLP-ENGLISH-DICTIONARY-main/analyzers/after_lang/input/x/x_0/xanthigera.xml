@@ -1,0 +1,26 @@
+<page>
+<title>xanthigera</title>
+<ns>0</ns>
+<id>4894442</id>
+<revision>
+<id>66995001</id>
+<parentid>56956239</parentid>
+<timestamp>2022-05-15T09:45:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthigerus}} (4); combine {{inflection of|la|xanthigerus}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xanthigerus}} tag sets nom|f|s and voc|f|s into nom//voc|f|s; combine {{inflection of|la|xanthigerus}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthigera}}
+# {{inflection of|la|xanthigerus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+===Adjective===
+{{la-adj-form|xanthigerā}}
+# {{inflection of|la|xanthigerus||abl|f|s}}</text>
+<sha1>2xmcpik5gugki6raeln7ref7mmtbbq5</sha1>
+</revision>
+</page>

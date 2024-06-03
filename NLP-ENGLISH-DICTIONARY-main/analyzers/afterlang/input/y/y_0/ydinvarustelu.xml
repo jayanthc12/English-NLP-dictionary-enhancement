@@ -1,0 +1,28 @@
+<page>
+<title>ydinvarustelu</title>
+<ns>0</ns>
+<id>4405286</id>
+<revision>
+<id>69318288</id>
+<parentid>52035635</parentid>
+<timestamp>2022-09-18T17:10:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="319" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|varustelu|t2=armament}}
+===Pronunciation===
+{{fi-p|ydin-varustelu}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[buildup]], nuclear [[armament]] {{gloss|process of building nuclear arms capacity}}
+====Declension====
+{{fi-decl-palvelu|ydinvarustelu|a}}</text>
+<sha1>gp3t22kombyni38l2jkgjjpu9dtkwtd</sha1>
+</revision>
+</page>

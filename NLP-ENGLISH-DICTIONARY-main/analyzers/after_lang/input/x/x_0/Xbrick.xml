@@ -1,0 +1,27 @@
+<page>
+<title>Xbrick</title>
+<ns>0</ns>
+<id>5651835</id>
+<revision>
+<id>54328517</id>
+<parentid>42453232</parentid>
+<timestamp>2019-09-28T08:10:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{synonym of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="211" xml:space="preserve">==English==
+===Etymology===
+{{blend|en|Xbox|brick}}
+===Noun===
+{{en-noun}}
+# {{lb|en|slang|pejorative}} {{synonym of|en|Xbox}}
+====Synonyms====
+* [[Xblocks]], [[Xbone]], [[Xcox]] {{qualifier|all pejorative}}</text>
+<sha1>mgh73cyd8pxvmpjaib1dgifzdrk4isg</sha1>
+</revision>
+</page>

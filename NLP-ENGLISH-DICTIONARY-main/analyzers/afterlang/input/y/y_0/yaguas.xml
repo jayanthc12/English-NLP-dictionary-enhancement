@@ -1,0 +1,28 @@
+<page>
+<title>yaguas</title>
+<ns>0</ns>
+<id>5211325</id>
+<revision>
+<id>62863340</id>
+<parentid>55868781</parentid>
+<timestamp>2021-06-17T07:24:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="157" xml:space="preserve">==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr| yagua}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yagua}}</text>
+<sha1>tgktbf41n1wi3cycllh6dyqqz7ki6qj</sha1>
+</revision>
+</page>

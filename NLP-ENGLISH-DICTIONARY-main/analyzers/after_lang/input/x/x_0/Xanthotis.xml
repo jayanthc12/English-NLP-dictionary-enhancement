@@ -1,0 +1,34 @@
+<page>
+<title>Xanthotis</title>
+<ns>0</ns>
+<id>3074391</id>
+<revision>
+<id>51778715</id>
+<parentid>51238850</parentid>
+<timestamp>2019-03-13T14:57:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="334" xml:space="preserve">==Translingual==
+{{rfi|mul}}
+===Etymology===
+{{prefix|mul|xantho|Otis}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Meliphagidae}}
+====Hypernyms====
+* {{sense|genus}} {{Meliphagidae Hypernyms}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>3lqmsnmyu73j82bu3ridjy5fv5nz52e</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>ydmyket</title>
+<ns>0</ns>
+<id>7156762</id>
+<revision>
+<id>53131368</id>
+<parentid>52123144</parentid>
+<timestamp>2019-05-19T09:09:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'simple past and past participle' to sim|past|and|past|part; replaced inflection tag sequence sim|past|and|past|part with sim|past|;|past|part</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="223" xml:space="preserve">==Norwegian Bokmål==
+===Alternative forms===
+* {{l|nb|ydmyka}}
+* {{l|nb|ydmykte}} {{q|simple past}}
+* {{l|nb|ydmykt}} {{q|past participle}}
+===Verb===
+{{nb-verb-form}}
+# {{inflection of|nb|ydmyke||sim|past|;|past|part}}</text>
+<sha1>s2fw7f9egww6b44sott9j2i2n2tl7oq</sha1>
+</revision>
+</page>

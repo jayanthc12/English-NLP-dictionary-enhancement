@@ -1,0 +1,26 @@
+<page>
+<title>xantoma</title>
+<ns>0</ns>
+<id>1605818</id>
+<revision>
+<id>64713326</id>
+<parentid>51978859</parentid>
+<timestamp>2021-11-22T11:27:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section; convert 3+ newlines to 2 newlines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==Italian==
+{{wikipedia|lang=it}}
+===Etymology===
+{{confix|it|xanto|oma}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|pathology}} [[xanthoma]]</text>
+<sha1>mf0vsbiyxxu3vgi7uxr7hu8l6l1xaa2</sha1>
+</revision>
+</page>

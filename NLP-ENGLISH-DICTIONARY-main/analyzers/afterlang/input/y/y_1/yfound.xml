@@ -1,0 +1,25 @@
+<page>
+<title>yfound</title>
+<ns>0</ns>
+<id>3046177</id>
+<revision>
+<id>58051748</id>
+<parentid>54536213</parentid>
+<timestamp>2019-11-24T06:17:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|found}}
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|find|nocat=1}}</text>
+<sha1>fvxzhg2f1jvkifcku4rccwn4phlr1rz</sha1>
+</revision>
+</page>

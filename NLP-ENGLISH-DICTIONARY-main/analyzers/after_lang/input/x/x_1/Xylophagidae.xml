@@ -1,0 +1,35 @@
+<page>
+<title>Xylophagidae</title>
+<ns>0</ns>
+<id>3035870</id>
+<revision>
+<id>68660190</id>
+<parentid>65366498</parentid>
+<timestamp>2022-08-17T20:17:44Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="800" xml:space="preserve">==Translingual==
+===Etymology===
+{{suffix|mul|Xylophagus|idae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|family|order|Diptera|the {{l|en|awl-fly|awl-flies}}}}
+====Hypernyms====
+* {{sense|family}} {{Diptera Hypernyms}}; [[Brachycera]]&amp;nbsp;- suborder; {{taxlink|Xylophagomorpha|infraorder}}&amp;nbsp;- infraorder
+====Hyponyms====
+* {{sense|family}} {{taxlink|Xylophaginae|subfamily}}, {{taxlink|Coenomyiinae|subfamily}}&amp;nbsp;- subfamilies
+** {{taxlink|Anacanthaspis|genus}}, {{taxlink|Arthropeas|genus}}, {{taxlink|Coenomyia|genus}}, {{taxlink|Dialysis|genus}}, {{taxlink|Exeretonevra|genus}}, {{taxlink|Heterostomus|genus}}, {{taxlink|Odontosabula|genus}}, {{taxlink|Rachicerus|genus}}, ''[[Xylophagus]]''&amp;nbsp;- genera
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:ITIS|}}</text>
+<sha1>65kf8azhi2532d92lyh9r4uro2pl353</sha1>
+</revision>
+</page>

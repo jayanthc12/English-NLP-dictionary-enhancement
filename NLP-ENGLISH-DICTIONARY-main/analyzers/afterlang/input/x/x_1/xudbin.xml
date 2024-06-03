@@ -1,0 +1,45 @@
+<page>
+<title>xudbin</title>
+<ns>0</ns>
+<id>7208850</id>
+<revision>
+<id>69497690</id>
+<parentid>69064600</parentid>
+<timestamp>2022-10-11T22:05:41Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="497" xml:space="preserve">==Azerbaijani==
+===Etymology===
+{{bor+|az|fa|خودبین}}.
+===Pronunciation===
+* {{IPA|az|[χudˈbin]}}
+* {{hyphenation|az|xud|bin}}
+===Noun===
+{{az-noun}}
+# [[egoist]]
+====Declension====
+{{az-decl-noun|i|c}}
+===Adjective===
+{{az-adj}}
+# [[selfish]]
+====Derived terms====
+* {{l|az|xudbinlik}}
+[[Category:Azerbaijani terms suffixed with -bin]]
+----
+==Uzbek==
+===Etymology===
+{{bor+|uz|fa|خودبین}}.
+===Noun===
+{{uz-noun}}
+# [[egoist]]
+===Adjective===
+{{uz-adj}}
+# [[selfish]]</text>
+<sha1>qrw7vim6pxtvbhyy87ybrwjds8s4qhm</sha1>
+</revision>
+</page>

@@ -1,0 +1,47 @@
+<page>
+<title>xana</title>
+<ns>0</ns>
+<id>1018568</id>
+<revision>
+<id>69476503</id>
+<parentid>69232520</parentid>
+<timestamp>2022-10-09T19:20:29Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="871" xml:space="preserve">{{also|Xana}}
+==Asturian==
+{{wikipedia|lang=ast}}
+===Etymology===
+Possibly from {{inh|ast|la|Diāna}} (compare {{cog|ro|zână}}, {{cog|rup|dzãnã}}, {{cog|sc|giàna}}, {{cog|sq|zanë}}).
+===Pronunciation===
+{{ast-IPA}}
+===Proper noun===
+{{ast-noun|f|xanes}}
+# {{lb|ast|Asturian mythology}} A very [[beautiful]] [[female]] [[nymph]] who sometimes exchanges her children for those of others.
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|chana}}
+===Pronunciation===
+{{pt-IPA|br=xana}}
+* {{hyphenation|pt|xa|na}}
+===Noun===
+{{pt-noun|f}}
+# {{rfv-sense|pt}} {{lb|pt|Brazil|vulgar}} [[pussy]] {{gloss|female genitalia}}
+====Synonyms====
+* {{sense|woman's genitalia}} See [[Thesaurus:vagina#Portuguese|here]]
+----
+==Yana==
+===Noun===
+{{head|ynn|noun}}
+# [[water]]
+===References===
+* Alfred Louis Kroeber, Edward Sapir, ''Yana Texts'' (as ''xa’na'')</text>
+<sha1>tr17rikiww7i9mkqliw2ak515fxwrze</sha1>
+</revision>
+</page>

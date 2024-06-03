@@ -1,0 +1,58 @@
+<page>
+<title>xanh</title>
+<ns>0</ns>
+<id>790676</id>
+<revision>
+<id>69583668</id>
+<parentid>69583666</parentid>
+<timestamp>2022-10-24T03:21:49Z</timestamp>
+<contributor>
+<ip>2402:800:63B9:A851:61FE:64AD:D7C9:8218</ip>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3813" xml:space="preserve">==Vietnamese==
+===Pronunciation===
+{{vi-pron}}
+*{{audio|vi|LL-Q9199 (vie)-Jessica Nguyen (Pamputt)-xanh.wav|Audio (Hồ Chí Minh City)}}
+===Etymology 1===
+{{vi-etym-sino|青|[[grue]]|thanh|hv=n}}.
+====Adjective====
+{{vi-adj|rdp=xanh xanh|[[𩇛]], [[𩇢]], [[𫕹]]}}
+# [[grue]] {{gl|green or blue}}
+#:{{mero|vi|lam|lục|t=blue|t2=green}}
+#:{{uxi|vi|bầu trời '''xanh''' thẳm|the deep '''blue''' sky}}
+#*{{quote-song|vi|1950|Hoàng Việt|Lá xanh|trans-title=Green Leaves|text=Lá còn '''xanh''' như anh đang còn trẻ. / Lá trên cành, như anh trong đoàn quân.|t=A leaf is '''green''', like he is young. / A leaf is on a branch, like he is in a troop.}}
+#*{{quote-song|vi||Mạnh Quân|Thiên đường gọi tên|trans-title=The Paradise is Saying Your Name|text=Em yêu anh, ngả nghiêng, bồng bềnh niềm kiêu hãnh. / Thiên đường '''xanh''' mướt, gió trong lành {{...}} Hãy yêu nhau, biển trời '''xanh''' mãi !|t=I love you, with drifting, floating pride. / A '''green''' paradise, with refreshing winds {{...}} Let's be in love so the sea and the sky remain forever '''blue'''!}}
+# {{lb|vi|of a complexion}} [[green]] {{gloss|[[sickly]], unwell}}
+# {{lb|vi|of fruit}} [[green]] {{gloss|[[unripe]]}}
+# {{lb|vi|literary|of people's head hair}} [[youthfully]] [[black]]
+#:{{syn|vi|đen}}
+#:{{ant|vi|bạc}}
+#:{{uxi|vi|[[người đầu bạc tiễn kẻ đầu xanh|người đầu bạc tiễn kẻ đầu '''xanh''']]|&quot;the young perish and the old linger&quot;; the old watch the young die|lit=the &quot;silver-haired&quot; say goodbye to the &quot;green-haired&quot;}}
+#*{{quote-song|vi||Trịnh Công Sơn|Ru ta ngậm ngùi|trans-title=Lull Me with Your Sorrow|text=Tóc nào hãy còn '''xanh''', cho ta chút hồn nhiên.|t=Whose hair is still '''black''', granting me a tad of innocence?}}
+#*{{quote-song|vi||Minh Khang|Lời nguyền|trans-title=The Oath|text=Được yêu em đến khi bạc mái đầu '''xanh'''.|t=That I could love you until our '''black''' hair turns gray.}}
+=====Usage notes=====
+* ''Xanh lá cây'' or ''xanh lục'' become clunky when overused. Most of the time, simply ''xanh'' is clear enough, and {{m|vi|lục}} and {{m|vi|lam}} can be used when necessary avoid confusion.
+=====Synonyms=====
+* {{s|green}} {{l|vi|xanh lá cây}}, {{l|vi|[[xanh]] [[lục]]}}, {{l|vi|lục}}
+* {{s|blue}} {{l|vi|lam}}, {{l|vi|[[xanh]] [[lam]]}}, {{l|vi|xanh dương}}, {{l|vi|lơ}}, {{l|vi|xanh lơ}}
+* {{s|unripe}} {{l|vi|non}}, {{l|vi|chưa}} {{vi-l|chín}}
+=====Antonyms=====
+* {{s|unripe}} {{l|vi|chín}}
+=====Derived terms=====
+{{vi-der|bánh đậu xanh|bật đèn xanh|cách mạng xanh|cây xanh|chắc xanh|chè xanh|chim xanh|chợ xanh|công nghệ xanh|cu xanh|đầu xanh|đậu xanh|đen xanh|đèn xanh đỏ|khố xanh|khuôn xanh|lầu xanh|mắt xanh|mây xanh|ông xanh|phân xanh|quai xanh vành chảo|ruồi xanh|rừng xanh núi đỏ|sử xanh|tái xanh|tái xanh tái xám|tóc xanh|tôm càng xanh|tuổi xanh|xanh biếc|xanh bủng|xanh cỏ|xanh hoà bình|xanh không thủng cá đi đằng nào|xanh lam|xanh lè|xanh lét|xanh lơ|xanh lướt|xanh mắt|xanh mét|xanh ngắt|xanh om|xanh rì|xanh rờn|xanh rớt|xanh tốt|xanh tuya|xanh tươi|xanh um|xanh vỏ đỏ lòng|xanh xanh|xanh xao|xuân xanh|xương quai xanh}}
+===Etymology 2===
+====Noun====
+{{vi-noun|cls=cái}}
+# [[wok]]
+#* {{quote-book|vi|title=Hàng cơm đêm|author=Nguyên Hồng|year=1938|passage=Xuống bếp, Vịnh đổ mỡ vào '''xanh'''. Mỡ chảy ra trong những tiếng xèo xèo.|translation=Entering the kitchen, Vịnh poured oil into the '''wok'''. Grease poured out with a sizzling sound.}}
+=====Synonyms=====
+* {{sense|wok}} {{vi-l|chảo}}
+===References===
+* {{R:FVDP}}
+{{C|vi|Greens|Blues|Blacks|Hair|Cookware and bakeware}}</text>
+<sha1>scb6u0l1synuxd0815jhoj01dip2wu7</sha1>
+</revision>
+</page>

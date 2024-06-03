@@ -1,0 +1,33 @@
+<page>
+<title>xifoide</title>
+<ns>0</ns>
+<id>1625379</id>
+<revision>
+<id>65158370</id>
+<parentid>63979343</parentid>
+<timestamp>2022-01-03T10:47:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Italian: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="221" xml:space="preserve">==Italian==
+===Etymology===
+{{affix|it||-oide}}
+===Adjective===
+{{it-adj}}
+# [[xiphoid]]
+===Noun===
+{{it-noun|mf}}
+# {{lb|it|anatomy}} [[xiphoid process]]
+----
+==Spanish==
+===Adjective===
+{{es-adj}}
+# [[xiphoid]]</text>
+<sha1>jxx7oai73uv8iojwpj9t65flq8fqpaw</sha1>
+</revision>
+</page>

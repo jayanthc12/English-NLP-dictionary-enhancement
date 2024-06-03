@@ -1,0 +1,3 @@
+import nlp from lib_nlp; text01 := 'The quick brown fox jumped over the lazy dog.'; parsedtext01 := nlp.AnalyzeText('parse_en-us',text01); output(parsedtext01);
+from Hugo Watanuki to Everyone21:18
+#G("output") = "out.xml"; //deixar essa linha comentada #G("output") << "<Row><tweet>"; #L("emocao") = down(G("emocao")); #while (L("emocao")) { # G("output") << "<resultado>"; # G("output") << "<emocao>" << conceptname(L("emocao")) << "</emocao>"; # G("output") << "<contagem>" << numval(L("emocao"),"contagem") << "</contagem>"; # G("output") << "</resultado>"; # L("emocao") = next(L("emocao")); #} #G("output") << "</tweet></Row>";

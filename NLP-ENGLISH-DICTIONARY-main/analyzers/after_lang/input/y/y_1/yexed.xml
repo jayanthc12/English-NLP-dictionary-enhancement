@@ -1,0 +1,26 @@
+<page>
+<title>yexed</title>
+<ns>0</ns>
+<id>703455</id>
+<revision>
+<id>65453986</id>
+<parentid>55451812</parentid>
+<timestamp>2022-01-26T09:04:21Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/jɛkst/}}
+* {{rhymes|en|ɛkst|s=1}}
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|yex}}</text>
+<sha1>iu17h0ahgz482ynm3glxzrcbw7h72kj</sha1>
+</revision>
+</page>

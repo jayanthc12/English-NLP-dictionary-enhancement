@@ -1,0 +1,27 @@
+<page>
+<title>xylofuranose</title>
+<ns>0</ns>
+<id>4842681</id>
+<revision>
+<id>50901233</id>
+<parentid>46828669</parentid>
+<timestamp>2018-11-27T17:47:40Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xylo|furanose}}
+===Noun===
+{{en-noun}}
+# {{lb|en|carbohydrate}} The [[furanose]] form of a [[xylose]]
+===Anagrams===
+* {{anagrams|en|a=aeflnoorsuxy|lyxofuranose}}</text>
+<sha1>fbaolx3xn451ekhthnxgab0vgvoakt9</sha1>
+</revision>
+</page>

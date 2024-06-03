@@ -1,0 +1,28 @@
+<page>
+<title>ydinhiukkanen</title>
+<ns>0</ns>
+<id>4405265</id>
+<revision>
+<id>69318153</id>
+<parentid>52035628</parentid>
+<timestamp>2022-09-18T17:03:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|hiukkanen|t2=particle}}
+===Pronunciation===
+{{fi-p|ydin-hiukkanen}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[particle]]
+====Declension====
+{{fi-decl-nainen|ydinhiukka|a}}</text>
+<sha1>ljyewfppow4vz60g6jmqowxul1i0y4w</sha1>
+</revision>
+</page>

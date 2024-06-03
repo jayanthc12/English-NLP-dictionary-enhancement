@@ -1,0 +1,38 @@
+<page>
+<title>xogral</title>
+<ns>0</ns>
+<id>7272952</id>
+<revision>
+<id>68870642</id>
+<parentid>68865771</parentid>
+<timestamp>2022-08-28T06:07:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="585" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|xograr}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jograr}} (13th century, ''{{w|Cantigas de Santa Maria}}''), ultimately from {{der|gl|la|ioculāris|t=jocular, laughable}}. Cognate with {{cog|pt|jogral}} and {{cog|gl|juglar}}.
+===Pronunciation===
+* {{IPA|gl|/ʃoˈɣɾal/}}
+===Noun===
+{{gl-noun|m|xograres}}
+# [[juggler]], [[minstrel]]
+#: {{syn|gl|segrel}}
+====Derived terms====
+* {{l|gl|Xogral}}
+===References===
+* {{R:gl:DDGM|jogral}}
+* {{R:gl:DDGM|jograr}}
+* {{R:gl:CX|jogra}}
+* {{R:gl:DDLG|xograr}}
+* {{R:gl:TILG}}</text>
+<sha1>pnrppw2ik42vlj47gypp4fpbn1tcwm6</sha1>
+</revision>
+</page>

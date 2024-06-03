@@ -1,0 +1,25 @@
+<page>
+<title>xylonic</title>
+<ns>0</ns>
+<id>3780573</id>
+<revision>
+<id>68814021</id>
+<parentid>51927370</parentid>
+<timestamp>2022-08-27T20:14:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="139" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|xylose|ic}}.
+===Adjective===
+{{en-adj|-}}
+# Relating to [[xylonic acid]] or its derivatives</text>
+<sha1>8ci6vrpxvqm6to3ab3u70jca4x9immu</sha1>
+</revision>
+</page>

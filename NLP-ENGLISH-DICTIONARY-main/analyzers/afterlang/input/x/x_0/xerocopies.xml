@@ -1,0 +1,29 @@
+<page>
+<title>xerocopies</title>
+<ns>0</ns>
+<id>453750</id>
+<revision>
+<id>68031213</id>
+<parentid>65291475</parentid>
+<timestamp>2022-07-18T01:41:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[xerocopiar]] with 'xerocopiar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="182" xml:space="preserve">{{also|xerocopiés}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xerocopy}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|xerocopiar}}</text>
+<sha1>04zydprstaoavl5w2sjtp7908xtq2m3</sha1>
+</revision>
+</page>

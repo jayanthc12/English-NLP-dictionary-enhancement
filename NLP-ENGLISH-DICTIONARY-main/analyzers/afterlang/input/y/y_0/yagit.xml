@@ -1,0 +1,35 @@
+<page>
+<title>yagit</title>
+<ns>0</ns>
+<id>4127102</id>
+<revision>
+<id>64460296</id>
+<parentid>54729246</parentid>
+<timestamp>2021-10-28T12:21:59Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="572" xml:space="preserve">==Cebuano==
+===Noun===
+{{head|ceb|noun}}
+# [[trash]]
+----
+==Tagalog==
+===Pronunciation===
+* {{IPA|tl|/ja.ˈɡit/}}
+* {{rhymes|tl|it|s=2}}
+===Noun===
+{{tl-noun|yagít}}
+# [[tosh]]; [[trash]]; [[rubbish]] (flotsam, jetsam) carried by the current and left on banks and edges of a [[river]]
+# [[fallen]] [[dried]] [[twig]]s or [[small]] [[branch]]es [[scatter]]ed around
+# [[tramp]]; [[vagrant]]; [[beggar]]; any [[useless]] [[individual]]
+====Synonyms====
+* {{sense|trash}} {{l|tl|layak}}, {{l|tl|sukal}}
+* {{sense|fallen dried twigs}} {{l|tl|yabat}}, {{l|tl|yangit}}</text>
+<sha1>di0xernxl1pffgf46uwz3mgjt9jrke5</sha1>
+</revision>
+</page>

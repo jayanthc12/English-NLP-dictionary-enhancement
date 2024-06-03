@@ -1,0 +1,37 @@
+<page>
+<title>Xochapa</title>
+<ns>0</ns>
+<id>7302362</id>
+<revision>
+<id>58725918</id>
+<parentid>53798624</parentid>
+<timestamp>2020-02-21T10:23:44Z</timestamp>
+<contributor>
+<username>Lvovmauro</username>
+<id>3369365</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="889" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|es|Xochapa}}, from a {{der|en|azc-nah}} language (equivalent to {{cog|nci|xōchitl|t=flower}} + {{m|nci|āpan|t=river}}), calqued from a {{der|en|omq-mxt}} language, e.g. {{noncog|xta|I̱ta Ita|lit=flower river}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|mun/Alcozauca de Guerrero|s/Guerrero|c/Mexico}}.
+====Translations====
+{{trans-top}}
+* Mixtec:
+*: Alcozauca: {{t|xta|I̱ta Ita}}, {{t|xta|Tètà}}
+{{trans-mid}}
+* Spanish: {{t|es|Xochapa}}
+{{trans-bottom}}
+----
+==Spanish==
+===Etymology===
+Borrowed from a {{der|es|azc-nah}} language (equivalent to {{cog|nci|xōchitl|t=flower}} + {{m|nci|āpan|t=river}}), calqued from a {{der|es|omq-mxt}} language, e.g. {{noncog|xta|I̱ta Ita|lit=flower river}}.
+===Proper noun===
+{{es-proper noun}}
+# {{place|es|t1=Xochapa|town|mun/Alcozauca de Guerrero|s/Guerrero|c/Mexico}}</text>
+<sha1>ptvpm8wnz1g9de3ef3wdzwjj6cxkrty</sha1>
+</revision>
+</page>

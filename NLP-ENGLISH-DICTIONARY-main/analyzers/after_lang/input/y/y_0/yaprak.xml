@@ -1,0 +1,42 @@
+<page>
+<title>yaprak</title>
+<ns>0</ns>
+<id>733477</id>
+<revision>
+<id>67120638</id>
+<parentid>65238046</parentid>
+<timestamp>2022-05-21T16:46:38Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="612" xml:space="preserve">{{also|Yaprak|ýaprak}}
+==Ladino==
+===Etymology===
+Borrowed from {{bor|lad|tr|yaprak}} &lt;ref&gt;{{R:DBLE}}&lt;/ref&gt;, from {{der|lad|ota|یپراق|tr=yapraq|t=leaf}}.
+===Pronunciation===
+* {{IPA|lad|[japˈrak]}}
+===Noun===
+{{lad-noun|g=m|pl=yaprakes}}
+# {{l|en|leaf}}
+===References===
+&lt;references/&gt;
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یپراق|tr=yapraq|t=leaf}}, from {{der|tr|trk-pro|*yapurgak|t=leaf}}.
+===Pronunciation===
+* {{IPA|tr|[jɑpˈɾɑk]}}
+* {{hyphenation|tr|yap|rak}}
+===Noun===
+{{tr-noun|yaprağı|lar}}
+# [[leaf]]
+====Declension====
+{{tr-infl-noun-c|a|stem=yaprağ|poss=1}}</text>
+<sha1>f31tscw3h1igg0nyf4a97bv6205pzjm</sha1>
+</revision>
+</page>

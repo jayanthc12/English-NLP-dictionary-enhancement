@@ -1,0 +1,44 @@
+<page>
+<title>yawo</title>
+<ns>0</ns>
+<id>4591202</id>
+<revision>
+<id>67014813</id>
+<parentid>67005769</parentid>
+<timestamp>2022-05-16T07:04:15Z</timestamp>
+<contributor>
+<username>Vorziblix</username>
+<id>393082</id>
+</contributor>
+<comment>/* Maquiritari */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="538" xml:space="preserve">==Maquiritari==
+===Pronunciation===
+* {{mch-IPA}}
+===Noun===
+{{head|mch|noun form}}
+# {{inflection of|mch|wo||first-person|possessed|form}}
+===References===
+* {{R:mch:Cáceres|head=yawo}}
+* {{R:mch:IDS|yawo|47}}
+* {{R:mch:Monterrey|69|head=yawo}}
+{{C|mch|Family members}}
+----
+==Nupe==
+===Etymology===
+Compare {{cog|yo|ìyàwó}}.
+===Pronunciation===
+* {{IPA|nup|/jà.wó/}}
+===Noun===
+{{nup-noun|yàwó|yàwózhì}}
+# [[bride]]
+{{c|nup|People|Marriage}}
+----
+==Sambali==
+===Noun===
+{{head|xsb|noun|head=yawò}}
+# [[dart]]</text>
+<sha1>rsf0l78gm0gr16own5vgag1j17d1bd5</sha1>
+</revision>
+</page>

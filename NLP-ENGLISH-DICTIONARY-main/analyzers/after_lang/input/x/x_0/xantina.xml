@@ -1,0 +1,49 @@
+<page>
+<title>xantina</title>
+<ns>0</ns>
+<id>703469</id>
+<revision>
+<id>69114365</id>
+<parentid>68914640</parentid>
+<timestamp>2022-09-04T16:53:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="667" xml:space="preserve">==Italian==
+===Noun===
+{{it-noun|f}}
+# {{lb|it|organic compound}} [[xanthine]]
+----
+==Portuguese==
+===Noun===
+{{pt-noun|f}}
+# {{lb|pt|chemistry}} [[xanthine]] {{gloss|any group of alkaloids, including caffeine}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+Borrowed from {{bor|es|de|Xanthin}}.
+===Pronunciation===
+{{es-IPA}}
+* {{rhymes|es|ina|s=3}}
+* {{hyph|es|xan|ti|na}}
+===Noun===
+{{es-noun|f}}
+# {{lb|es|organic compound}} [[xanthine]]
+====Derived terms====
+* {{l|es|astaxantina}}
+* {{l|es|cantaxantina}}
+* {{l|es|fucoxantina}}
+* {{l|es|neurosporaxantina}}
+* {{l|es|hipoxantina}}
+* {{l|es|zeaxantina}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>85yxk83m2u7e30l2tpix6cje6q9szmz</sha1>
+</revision>
+</page>

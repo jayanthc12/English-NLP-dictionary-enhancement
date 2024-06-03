@@ -1,0 +1,60 @@
+<page>
+<title>xenio</title>
+<ns>0</ns>
+<id>2391183</id>
+<revision>
+<id>68862673</id>
+<parentid>68830107</parentid>
+<timestamp>2022-08-28T05:16:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1373" xml:space="preserve">==Galician==
+===Etymology 1===
+Borrowed from {{bor|gl|la|genius}}.
+====Alternative forms====
+* {{alter|gl|xeño}}
+====Pronunciation====
+* {{IPA|gl|/ˈʃɛnjʊ/}}
+====Noun====
+{{gl-noun|m}}
+# {{lb|gl|uncountable}} [[genius]] {{gloss|extraordinary mental capacity}}
+#* '''1723''', Anselmo Feixó e Montenegro, ''E vós non vedes a teima?'':
+#*: ''E Vos non vedes à teima''
+#*: ''En que deu à mia gente,''
+#*: ''Que ey de glossar de repente''
+#*: ''Sin ter '''geño''' nin freima:''
+#*: ''Vàn à Madril eu a Reyma,''
+#*:: Don't you see the idée fixe
+#*:: my people have caught
+#*:: that I'm going to gloss at the moment
+#*:: having no '''genius''' or phlegm?
+#*:: They are going to Madrid, I to the ream,
+# {{lb|gl|countable}} [[genius]] {{gloss|someone possessing extraordinary intelligence or skill}}
+# {{lb|gl|uncountable}} [[irritability]] {{gloss|the tendency of getting angry, annoyed}}
+#: {{syn|gl|irritabilidade|irascibilidade}}
+=====Derived terms=====
+* {{l|gl|dar xenio}}
+===Etymology 2===
+Borrowed from {{bor|gl|ar|جِنّ}}.
+====Noun====
+{{gl-noun|m}}
+# [[genie]], [[Jinn]] {{gloss|a spirit, either good or evil, of pre-Islamic and Islamic mythology}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Mythological creatures]]
+----
+==Latin==
+===Noun===
+{{la-noun-form|xeniō}}
+# {{inflection of|la|xenium||dat//abl|s}}</text>
+<sha1>smqisqhw22m9dluvnzcowblrpz0hb84</sha1>
+</revision>
+</page>

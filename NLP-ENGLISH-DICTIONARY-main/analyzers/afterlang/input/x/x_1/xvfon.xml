@@ -1,0 +1,27 @@
+<page>
+<title>xvfon</title>
+<ns>0</ns>
+<id>2172694</id>
+<revision>
+<id>63426986</id>
+<parentid>45505143</parentid>
+<timestamp>2021-07-26T03:20:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[cough]]
+====Synonyms====
+* {{l|arn|cafo}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>c68lsp9gywqnq7ms0u7iz09zumfueaa</sha1>
+</revision>
+</page>

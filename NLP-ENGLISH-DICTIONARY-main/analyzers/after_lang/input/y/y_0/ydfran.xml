@@ -1,0 +1,32 @@
+<page>
+<title>ydfran</title>
+<ns>0</ns>
+<id>4321506</id>
+<revision>
+<id>60820418</id>
+<parentid>56277320</parentid>
+<timestamp>2020-10-11T07:53:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>{{cy-mut-auto}} -&gt; {{cy-mut}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="290" xml:space="preserve">==Welsh==
+===Etymology===
+From {{affix|cy|ŷd|gloss1=corn|brân|gloss2=crow}}.
+===Pronunciation===
+* {{IPA|cy|/ˈədvran/}}
+===Noun===
+{{cy-noun|f|ydfrain}}
+# [[rook]] {{qualifier|[[Corvus frugilegus]]}}
+===Mutation===
+{{cy-mut}}
+===References===
+* {{R:cy:GPC}}
+{{topics|cy|Corvids}}</text>
+<sha1>3loyhsb9yruewq69gtfpsj8b7m3tyew</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yeyuno</title>
+<ns>0</ns>
+<id>3480403</id>
+<revision>
+<id>68948704</id>
+<parentid>64801988</parentid>
+<timestamp>2022-08-28T20:36:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+Borrowed from {{bor|es|la|jejunum}}, {{m|la|ieiunum}}. Doublet of the inherited {{doublet|es|ayuno|notext=1}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|anatomy}} [[jejunum]]
+===Adjective===
+{{es-adj}}
+# [[jejune]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>h8d08xxgzb7srmbobr6d5pgltm6fpf8</sha1>
+</revision>
+</page>

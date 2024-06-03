@@ -1,0 +1,29 @@
+<page>
+<title>yardgoat</title>
+<ns>0</ns>
+<id>6615249</id>
+<revision>
+<id>54374049</id>
+<parentid>51578479</parentid>
+<timestamp>2019-09-28T23:43:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}} (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1489" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yard|goat}}
+===Noun===
+{{en-noun}}
+# A [[tractor]], smaller than a [[yardhorse]], for [[haul]]ing loads around a [[shipping]] [[yard]].
+#* {{quote-book|en|year=1959|title=Rolling Wheels |author=George S. Amsbary  |page= |ISBN= |passage=&quot;Go ahead and laugh,&quot; snapped the conductor. &quot;But I'll bet this kid will be bossin' a Monarch, maybe even No. 23, long before you get to be hogger of a '''yardgoat'''!&quot;  }}
+#* {{quote-book|en|year=1975|title=Jury Verdicts Weekly - Volume 19  |author= |page=4 |ISBN= |passage=Plaintiffs contended that on the night of the subject accident the decedent unhooked the yardhorse from a trailer and had parked it 10 feet in front of the trailer to drop a nosepin on the trailer; that after the decedent left the '''yardgoat'''- and while he was attempting to lower the nosepin, the '''yardgoat''', which apparently had been in neutral, silently engaged into reverse, moved back and crushed the decedent under the trailer.  }}
+#* {{quote-book|en|year=2011|title=Evergreen Review Reader, 1957-1966
+|author=Barney Rosset  |page= |ISBN= |passage=Workshoes covered with dust and some oil of engines—the crumpled jeans nearby, belt, blue railroad hank, knife, comb, keys, switch keys and caboose coach key, the knees white from Pajaro Riverbottom finedusts, the ass black from slick sandboxes in '''yardgoat''' after '''yardgoat'''—the gray workshorts, the dirty undershirt, sad shorts, tortured socks of my life. }}</text>
+<sha1>b4g2tvnen0q3uiiqdx5srjcm1rljn7e</sha1>
+</revision>
+</page>

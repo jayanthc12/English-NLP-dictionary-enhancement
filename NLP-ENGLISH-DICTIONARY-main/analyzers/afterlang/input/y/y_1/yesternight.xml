@@ -1,0 +1,38 @@
+<page>
+<title>yesternight</title>
+<ns>0</ns>
+<id>491662</id>
+<revision>
+<id>67405936</id>
+<parentid>65823795</parentid>
+<timestamp>2022-06-18T13:08:52Z</timestamp>
+<contributor>
+<username>Sonofcawdrey</username>
+<id>2848980</id>
+</contributor>
+<comment>/* Adverb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2118" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yesternyght}}, {{m|enm|yisternight}}, from {{inh|en|ang|ġiestranniht|t=yesternight}}, equivalent to {{af|en|yester-|night}}.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|archaic}} [[last night|Last night]].
+#* {{quote-book|en|year=c.1598|author=[[w:William Shakespeare|William Shakespeare]]|title=[[s:Much_Ado_About_Nothing_(Shakespeare)|Much Ado About Nothing]]|chapter=Act IV, Scene 1|edition=|passage=What man was he talk'd with you '''yesternight''' &lt;br&gt; Out at your window betwixt twelve and one?}}
+#* {{quote-book|en|year=1611|title={{w|King James Version}} of the {{w|Bible}}|section=[[w:Book of Genesis|Genesis]] 31:29|url=https://www.biblegateway.com/passage/?search=Genesis+31&amp;version=KJV|passage=It is in the power of my hand to do you hurt: but the God of your father spake unto me '''yesternight''', saying, Take thou heed that thou speak not to Jacob either good or bad.}}
+#* {{quote-book|en|year=1820|author={{w|Walter Scott}}|title={{w|Ivanhoe}}|chapter=6|url=http://www.gutenberg.org/files/82/82-h/82-h.htm|passage={{...}} when the Templar crossed the hall '''yesternight''', he spoke to his Mussulman slaves in the Saracen language, which I well understand, and charged them this morning to watch the journey of the Jew {{...}}}}
+#* {{quote-book|en|year=1847|author={{w|Emily Brontë}}|title={{w|Wuthering Heights}}|chapter=29|url=http://www.gutenberg.org/files/768/768-h/768-h.htm|passage={{...}} she has disturbed me, night and day, through eighteen years—incessantly—remorselessly—till '''yesternight'''; and '''yesternight''' I was tranquil.}}
+#* {{quote-book|1=en|year=1885|author=Richard F. Burton|authorlink=Richard Francis Burton|title=The Book of the Thousand Nights and a Night|publisher=The Burton Club|volume=I|chapter=xxii|page=228|passage=I came here '''yesternight''' for a call of nature and to do what none can do for me[.]}}
+====Synonyms====
+* ''see list in'' '''{{l|en|yestereve}}'''
+====Related terms====
+* {{l|en|yesterday}}
+* {{l|en|yesteryear}}
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} A preceding night.
+{{c|en|Past|Night}}</text>
+<sha1>1kvupa48syzaj85v32en9htq7ahvzko</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>Yeading</title>
+<ns>0</ns>
+<id>7145765</id>
+<revision>
+<id>58513187</id>
+<parentid>56652293</parentid>
+<timestamp>2020-01-23T10:25:35Z</timestamp>
+<contributor>
+<username>Benwing</username>
+<id>172432</id>
+</contributor>
+<minor />
+<comment>Semi-manually clean up England places with {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="279" xml:space="preserve">==English==
+{{wp}}
+===Pronunciation===
+* {{IPA|en|/jɛdɪŋ/}}, rhymes with {{m|en|Reading}} in Berkshire.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|suburban area|co/Greater London|between|area/Hayes|and|town/Northolt|mostly in|lbor/Hillingdon|partly in|lbor/Ealing}}.</text>
+<sha1>07h3b6pbwgdir0eccitaozakzervhbq</sha1>
+</revision>
+</page>

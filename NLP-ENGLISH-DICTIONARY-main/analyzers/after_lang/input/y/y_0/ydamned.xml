@@ -1,0 +1,26 @@
+<page>
+<title>ydamned</title>
+<ns>0</ns>
+<id>1265303</id>
+<revision>
+<id>58051717</id>
+<parentid>54535928</parentid>
+<timestamp>2019-11-24T06:16:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|damn|nocat=1}}
+#: ''But masters of worlds wisedome and their founder haue '''ydamned''' it for heresie and for error.''
+====Synonyms====
+* {{l|en|damned}}</text>
+<sha1>et0ddk3zwe9bn6zzytdeuxf58rsduwe</sha1>
+</revision>
+</page>

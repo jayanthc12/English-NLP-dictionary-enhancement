@@ -1,0 +1,23 @@
+<page>
+<title>yeir</title>
+<ns>0</ns>
+<id>6695040</id>
+<revision>
+<id>61793137</id>
+<parentid>58024828</parentid>
+<timestamp>2021-02-10T08:23:31Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="86" xml:space="preserve">==Middle English==
+===Determiner===
+{{head|enm|determiner}}
+# {{alt form|enm|þeir}}</text>
+<sha1>ncwdqs180s1fhizxjxpadgb1bu4etgy</sha1>
+</revision>
+</page>

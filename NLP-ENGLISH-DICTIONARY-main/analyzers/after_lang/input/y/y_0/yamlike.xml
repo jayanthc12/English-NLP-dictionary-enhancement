@@ -1,0 +1,29 @@
+<page>
+<title>yamlike</title>
+<ns>0</ns>
+<id>2137563</id>
+<revision>
+<id>62029302</id>
+<parentid>61114950</parentid>
+<timestamp>2021-03-11T23:33:12Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="386" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yam|like}}
+===Adjective===
+{{en-adj}}
+# Resembling or characteristic of a [[yam]].
+#* '''2015''', Ron Herbst, Sharon Tyler Herbst, ''The Deluxe Food Lover's Companion, 2nd edition''
+#*: A translucent, gelatinous cake made from the starch of a '''yamlike''' tuber known as ''devil's tongue''.
+===Anagrams===
+* {{anagrams|en|a=aeiklmy|yamilke}}</text>
+<sha1>hr6zbp8zllz7rvb4hz91yvf16yeev8x</sha1>
+</revision>
+</page>

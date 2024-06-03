@@ -1,0 +1,23 @@
+<page>
+<title>yeees</title>
+<ns>0</ns>
+<id>3210864</id>
+<revision>
+<id>54449250</id>
+<parentid>50728714</parentid>
+<timestamp>2019-09-30T06:45:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{elongated form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==English==
+===Interjection===
+{{en-interj}}
+# {{elongated form of|en|yes}}</text>
+<sha1>b4epdtbwopvy3bbbp3rfbwy75rw5lcl</sha1>
+</revision>
+</page>

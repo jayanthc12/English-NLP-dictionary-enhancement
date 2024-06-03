@@ -1,0 +1,63 @@
+<page>
+<title>xeito</title>
+<ns>0</ns>
+<id>2457657</id>
+<revision>
+<id>68862849</id>
+<parentid>68862713</parentid>
+<timestamp>2022-08-28T05:17:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2828" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{neuter singular of|ast|xeitu}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|geito}}, from a {{inh|gl|VL.||*iectus, jectus}}, alteration of {{inh|gl|la|iactus}}, perfect passive participle of {{m|la|iaciō|t=throw, hurl; emit}}, from {{der|gl|ine-pro|*(H)yeh₁-|t=to throw, let go}}. Compare {{cog|pt|jeito}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃejto̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[way]], [[manner]] or [[fashion]] (of doing something)
+#: {{ux|gl|Iso non che ten '''xeito'''!|that makes no '''sense'''! / This is not the '''correct way''' of doing it!}}
+#* '''1370''', Ramón Lorenzo (ed.), ''Crónica troiana'', page 461:
+#*: ''Et andaua asseiando a Éytor, hu veería '''jeyto''' ou ora pera o matar.''
+#*:: He was spying on Hector, where he would find the '''way''' and the opportunity of killing him
+#* '''1746''', Martín Sarmiento, ''Coloquio de 24 gallegos rústicos'', page 144:
+#*: ''eu seica cho nego? Eu falo o que sei, ti fala ao teu '''xeito'''''
+#*:: So, am I negating it? I speak what I know; you should speak in your '''way'''
+#: {{syn|gl|forma|maneira|modo}}
+# [[appearance]] {{gloss|how something appears}}
+#: {{syn|gl|aspecto|traza}}
+# [[skill]], [[ability]]
+#: {{syn|gl|habelencia|habilidade|maña}}
+# [[care]] {{gloss|close attention}}
+#: {{ux|gl|Vai con '''xeito''', non te apures|Drive with '''care''', don't run!}}
+#* '''1807''', Ramón Mariño Paz (ed.), ''Segundo diálogo dos esterqueiros'', page 4:
+#*: ''— [...] seique fostes á taberna? —Ó '''xeito''', ó '''xeito''' co'eso: estános a xente escoitando; non sea que perda o creto polas vosas faladuras.''
+#*:: —they say that you went to the tavern? —Take '''care''', take '''care''' with that: the people is listening; or else I'll lose all my credit because of your chit-chat.
+#: {{syn|gl|coidado|preacución}}
+# a technique of [[net]] [[fishing]]
+#* '''1869''', Domingo Blanco (ed.), ''A poesía popular en Galicia 1745-1885. Recopilación, estudio e edición crítica (vol. I)'', Vigo: Xerais, page 387:
+#*: ''Anque che veño do '''xeito''' non che veño de xeitar: veño de tomar sardiñas d'alá do medio do mar.''
+#*:: ''Although I came from '''fishing''' [&quot;xeito&quot;] I've haven't been resting [&quot;xeitar&quot;]: I've come from catching sardines in the middle of the sea''
+#*:: (there's a pun between ''xeitar'', resting, and ''xeito'', throwing, i.e. fishing)
+====Derived terms====
+* {{l|gl|xeitoso}}
+===References===
+* {{R:gl:DDGM|jeyto}}
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=%5Bgjx%5De%5Bijy%5Dto&amp;corpus=xelmirez jeito]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>18jf4pcl3m48y9i34aov6i46yaaskto</sha1>
+</revision>
+</page>

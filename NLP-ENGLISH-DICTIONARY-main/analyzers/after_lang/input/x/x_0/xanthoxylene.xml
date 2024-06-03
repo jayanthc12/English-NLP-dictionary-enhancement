@@ -1,0 +1,24 @@
+<page>
+<title>xanthoxylene</title>
+<ns>0</ns>
+<id>3035784</id>
+<revision>
+<id>59492778</id>
+<parentid>59492774</parentid>
+<timestamp>2020-06-07T15:34:21Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==English==
+===Etymology===
+Coined by {{w|John Stenhouse}} from {{suffix|en|{{ll|mul|Xanthoxylum}}|ene|t1=syn. of ''[[Zanthoxylum]]''}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|archaic|chemistry}} A [[terpene]] extracted from the [[seed]]s of the {{vern|Japanese prickly ash}} ({{taxlink|Zanthoxylum pipertium|species|ver=200607}}).</text>
+<sha1>80icfndta0p083yftldpjkjld9l159u</sha1>
+</revision>
+</page>

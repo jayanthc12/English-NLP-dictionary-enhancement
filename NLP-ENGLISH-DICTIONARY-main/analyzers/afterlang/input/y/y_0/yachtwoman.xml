@@ -1,0 +1,28 @@
+<page>
+<title>yachtwoman</title>
+<ns>0</ns>
+<id>1885127</id>
+<revision>
+<id>69046853</id>
+<parentid>67257900</parentid>
+<timestamp>2022-09-03T04:59:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA|yotwômane}}
+===Noun===
+{{fr-noun|f|+|yachtwomen}}
+# {{alternative spelling of|fr|yachtswoman}}
+===Further reading===
+* {{R:TLFi}}
+{{cln|fr|terms suffixed with -woman}}</text>
+<sha1>fscz0nj10jmt55dydq25q9rmvxgyoed</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xoay</title>
+<ns>0</ns>
+<id>6443992</id>
+<revision>
+<id>65806551</id>
+<parentid>65352972</parentid>
+<timestamp>2022-02-11T22:30:36Z</timestamp>
+<contributor>
+<username>Rodrigo5260</username>
+<id>3579806</id>
+</contributor>
+<comment>/* Pronunciation */ Added an audio link</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="368" xml:space="preserve">==Vietnamese==
+===Pronunciation===
+{{vi-pron}}
+*{{audio|vi|LL-Q9199 (vie)-Jessica Nguyen (Pamputt)-xoay.wav|Audio (Hồ Chí Minh City)}}
+===Etymology 1===
+====Verb====
+{{vi-verb}}
+# to [[turn]], to [[swivel]]
+=====Derived terms=====
+{{vi-der|xoay xở}}
+===Etymology 2===
+====Noun====
+{{vi-noun|cls=cây}}
+# {{taxlink|Dialium cochinchinense|species|noshow=1}}</text>
+<sha1>trb6d47hdzjrfxjnxfuqico9zzutb3m</sha1>
+</revision>
+</page>

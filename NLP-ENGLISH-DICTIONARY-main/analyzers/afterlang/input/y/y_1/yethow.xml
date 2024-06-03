@@ -1,0 +1,27 @@
+<page>
+<title>yethow</title>
+<ns>0</ns>
+<id>1909849</id>
+<revision>
+<id>64061951</id>
+<parentid>55793069</parentid>
+<timestamp>2021-09-29T10:29:05Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Alternative forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Cornish==
+===Alternative forms===
+* {{l|kw|'ethow}}
+===Etymology===
+From {{suffix|kw|yeth|ow}}.
+===Noun===
+{{head|kw|noun plural form|g=f-p}}
+# {{plural of|kw|yeth||language}}</text>
+<sha1>dzx6l8jfsftwlw05nitqq7rn9oqooxm</sha1>
+</revision>
+</page>

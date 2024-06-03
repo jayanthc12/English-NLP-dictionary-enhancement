@@ -1,0 +1,37 @@
+<page>
+<title>xefe</title>
+<ns>0</ns>
+<id>4352167</id>
+<revision>
+<id>65228329</id>
+<parentid>63329549</parentid>
+<timestamp>2022-01-07T05:15:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Asturian: remove extraneous space surrounding section header name in section 2 (Pronunciation)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==Asturian==
+===Etymology===
+Borrowed from {{bor|ast|fr|chef}}. Compare {{cog|es|jefe}}.
+===Pronunciation===
+{{ast-IPA}}
+===Noun===
+{{ast-noun|mf}}
+# {{l|en|boss}} {{gloss|person in charge}}
+----
+==Galician==
+===Etymology===
+Borrowed from {{bor|gl|fr|chef}}. Compare {{cog|es|jefe}}, {{cog|ast|xefe}}.
+===Noun===
+{{gl-noun|mf}}
+# {{l|en|boss}} {{gloss|person in charge}}
+====Synonyms====
+* {{l|gl|coudel}}
+* {{l|gl|cabedel}}</text>
+<sha1>fcgt7v1slebup7uwkkbwnfbvztjd55z</sha1>
+</revision>
+</page>

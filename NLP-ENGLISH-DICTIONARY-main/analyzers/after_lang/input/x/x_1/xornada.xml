@@ -1,0 +1,28 @@
+<page>
+<title>xornada</title>
+<ns>0</ns>
+<id>3560580</id>
+<revision>
+<id>48071415</id>
+<parentid>47384961</parentid>
+<timestamp>2017-11-12T18:10:18Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed notext=1</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="411" xml:space="preserve">==Asturian==
+{{attention|ast|check plural}}
+===Etymology===
+Possibly borrowed from {{bor|ast|pro|jornada}}, from {{der|ast|ML.|diurnāta||a day's work, a day's journey, a fixed day, a day}}, from {{inh|ast|la|diurnus||daily}}. Compare Spanish and Portuguese {{m|es|jornada}}, French {{m|fr|journée}}, Italian {{m|it|giornata}}.
+===Noun===
+{{ast-noun|f|xornades}}
+# [[day]]
+====See also====
+* {{l|ast|día}}</text>
+<sha1>op9ouhq5b1eg8hlq0kg3hmwf599jk1x</sha1>
+</revision>
+</page>

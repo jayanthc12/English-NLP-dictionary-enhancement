@@ -1,0 +1,31 @@
+<page>
+<title>yeasted</title>
+<ns>0</ns>
+<id>1482123</id>
+<revision>
+<id>69191112</id>
+<parentid>54386151</parentid>
+<timestamp>2022-09-10T07:47:52Z</timestamp>
+<contributor>
+<username>Peppermintpatty111</username>
+<id>3784807</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="546" xml:space="preserve">==English==
+===Etymology 1===
+{{af|en|yeast|pos1=noun|-ed}}
+====Adjective====
+{{en-adj|-}}
+# Treated with [[yeast]]; [[ferment]]ed.
+#* {{quote-journal|en|date=January 24, 2009|author=Vicky Sanderson|title=Healthy cooking, healthy eating|work=Toronto Star|url=http://www.thestar.com/YourHome/Money&amp;Shopping/article/575087
+|passage=I also made ridiculously delicious '''yeasted''' doughnut bits (and covered them with chocolate glaze).}}
+===Etymology 2===
+See {{m|en|yeast|pos=verb}}.
+====Verb====
+{{head|en|verb form}}
+# {{en-past of|yeast}}</text>
+<sha1>84ehse2rcubs0fvemiqo865uw5v80im</sha1>
+</revision>
+</page>

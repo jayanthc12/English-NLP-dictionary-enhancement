@@ -1,0 +1,25 @@
+<page>
+<title>Ybut</title>
+<ns>0</ns>
+<id>6598211</id>
+<revision>
+<id>69539270</id>
+<parentid>68741038</parentid>
+<timestamp>2022-10-18T01:27:47Z</timestamp>
+<contributor>
+<username>MartinMichlmayr</username>
+<id>1081677</id>
+</contributor>
+<minor />
+<comment>/* Cebuano */ Fix typo</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==Cebuano==
+===Etymology===
+From {{m|ceb|ibot}}.
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb|from=Cebuano}}</text>
+<sha1>tio7l37fbvqgvt7oaqogr88yta1quyn</sha1>
+</revision>
+</page>

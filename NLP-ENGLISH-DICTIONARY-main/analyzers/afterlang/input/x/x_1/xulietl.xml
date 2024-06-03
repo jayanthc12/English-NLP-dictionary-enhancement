@@ -1,0 +1,33 @@
+<page>
+<title>xulietl</title>
+<ns>0</ns>
+<id>7366427</id>
+<revision>
+<id>54710226</id>
+<timestamp>2019-10-05T07:02:03Z</timestamp>
+<contributor>
+<username>Lvovmauro</username>
+<id>3369365</id>
+</contributor>
+<comment>Created page with &quot;==Tetelcingo Nahuatl==  ===Etymology=== {{rfe|nhg}}  ===Pronunciation=== * {{IPA|nhg|/ʃuljet͜ɬ/|[ˈʃuljet͜ɬ]}}  ===Noun=== {{head|nhg|noun|plural|xulieme}}  # {{l|en|mus...&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==Tetelcingo Nahuatl==
+===Etymology===
+{{rfe|nhg}}
+===Pronunciation===
+* {{IPA|nhg|/ʃuljet͜ɬ/|[ˈʃuljet͜ɬ]}}
+===Noun===
+{{head|nhg|noun|plural|xulieme}}
+# {{l|en|mushroom}}
+====Derived terms====
+{{der2|nhg
+|cuasöhuaxulietl
+|sacaxulietl
+|xuliepi̱tzöhuac
+}}
+===References===
+* {{R:Brewer &amp; Brewer 1971|pages=52, 248}}</text>
+<sha1>95ga1c53leh6q9k9df3c2s1z9c768gl</sha1>
+</revision>
+</page>

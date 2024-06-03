@@ -1,0 +1,25 @@
+<page>
+<title>Yamai</title>
+<ns>0</ns>
+<id>6342965</id>
+<revision>
+<id>63450895</id>
+<parentid>62004875</parentid>
+<timestamp>2021-07-28T06:47:01Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<comment>add Hausa IPA using headword ([[User:ToilBot/edit logs/2021-07/Hausa IPA|log]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">{{also|yamai}}
+==Hausa==
+===Pronunciation===
+* {{ha-IPA|yàmài}}
+===Proper noun===
+{{ha-proper noun|f|Yàmài}}
+# {{place|ha|city|c/Niger|t=Niamey}}</text>
+<sha1>klcnqhkshaxgv3ck3m8e38o0tqvv8bj</sha1>
+</revision>
+</page>

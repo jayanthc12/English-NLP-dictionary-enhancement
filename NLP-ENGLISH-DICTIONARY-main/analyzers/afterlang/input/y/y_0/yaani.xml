@@ -1,0 +1,37 @@
+<page>
+<title>yaani</title>
+<ns>0</ns>
+<id>7238776</id>
+<revision>
+<id>66684524</id>
+<parentid>66172081</parentid>
+<timestamp>2022-05-13T01:15:50Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>/* Interjection */correct language code in {{lb}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="704" xml:space="preserve">==Bambara==
+===Conjunction===
+{{head|bm|conjunction}}
+# [[before]]
+====Synonyms====
+* {{l|bm|sani}}
+===References===
+* Richard Nci Diarra, [http://bambara.org/fr/index.htm ''Lexique bambara-français-anglais''], December 13, 2010
+----
+==Swahili==
+===Etymology===
+Ultimately from {{der|sw|ar|يَعْنِي|t=[he/she/it] [[means]]}}.
+===Pronunciation===
+* {{audio|sw|Sw-ke-yaani.flac|Audio (Kenya)}}
+===Interjection===
+{{head|sw|interjection}}
+# {{lb|sw|adverbial, conjunctive, prepositional, or adjectival}} [[in other words]], [[actually]], [[namely]], [[to wit]], [[kind of]], [[somewhat]], [[id est]], [[that is]], [[meaning]], [[you know]]
+# {{lb|sw|filler}} [[er]], [[so]], [[uh]], [[well]]</text>
+<sha1>qtn8ji137vpur8vrtezgc8lt9loff71</sha1>
+</revision>
+</page>

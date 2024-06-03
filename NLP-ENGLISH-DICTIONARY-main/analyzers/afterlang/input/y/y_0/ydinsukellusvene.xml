@@ -1,0 +1,28 @@
+<page>
+<title>ydinsukellusvene</title>
+<ns>0</ns>
+<id>4404967</id>
+<revision>
+<id>69318267</id>
+<parentid>52035586</parentid>
+<timestamp>2022-09-18T17:08:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="223" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|sukellusvene}}
+===Pronunciation===
+{{fi-p|ydin/sukellus-vene*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[submarine]]
+====Declension====
+{{fi-decl-hame|ydinsukellusven|||ä}}</text>
+<sha1>6h93a6nz80hdsflpr6jrphw8lqorich</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>xove</title>
+<ns>0</ns>
+<id>1579937</id>
+<revision>
+<id>68992989</id>
+<parentid>68992984</parentid>
+<timestamp>2022-08-31T12:51:06Z</timestamp>
+<contributor>
+<username>Froaringus</username>
+<id>268470</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="380" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xoven}}
+===Etymology===
+From {{der|gl|la|iuvenem|iuvenem, juvenem}}, accusative of {{m|la|iuvenis||young}}.
+===Adjective===
+{{gl-adj|f=xove}}
+# [[young]]
+#: {{syn|gl|novo}}
+#: {{ant|gl|vello}}
+====Related terms====
+* {{l|gl|xovenco}}
+* {{l|gl|viño xove}}
+===References===
+* {{R:gl:DDLG|xoven}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>mepuov51puihy5n9g8od3qvarj97l55</sha1>
+</revision>
+</page>

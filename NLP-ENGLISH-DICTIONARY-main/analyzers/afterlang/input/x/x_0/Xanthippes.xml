@@ -1,0 +1,28 @@
+<page>
+<title>Xanthippes</title>
+<ns>0</ns>
+<id>1611314</id>
+<revision>
+<id>55693403</id>
+<parentid>54031696</parentid>
+<timestamp>2019-10-15T12:36:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}; move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="189" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Xanthippe}}
+----
+==Latin==
+===Proper noun===
+{{la-proper noun-form|Xanthippēs}}
+# {{inflection of|la|Xanthippē||gen|s}}</text>
+<sha1>nfh4cppf80ro7uxwvgr9dzjrm346lo9</sha1>
+</revision>
+</page>

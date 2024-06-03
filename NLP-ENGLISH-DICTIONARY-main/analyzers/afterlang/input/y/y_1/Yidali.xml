@@ -1,0 +1,27 @@
+<page>
+<title>Yidali</title>
+<ns>0</ns>
+<id>7228639</id>
+<revision>
+<id>61605105</id>
+<parentid>53140191</parentid>
+<timestamp>2021-01-19T13:06:27Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="216" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{bor|za|cmn|-}} {{zh-l|意大利}}.
+===Pronunciation===
+* {{za-pron|new_bor=1}}
+===Proper noun===
+{{za-head|proper noun|意大利}}
+# {{place|za|t=Italy|country|continent/Europe}}</text>
+<sha1>dh5yvjqrvv0a73wo0n6sj9aji8np2bu</sha1>
+</revision>
+</page>

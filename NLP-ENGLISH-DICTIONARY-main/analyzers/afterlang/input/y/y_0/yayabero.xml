@@ -1,0 +1,33 @@
+<page>
+<title>yayabero</title>
+<ns>0</ns>
+<id>5964122</id>
+<revision>
+<id>62188500</id>
+<parentid>62164372</parentid>
+<timestamp>2021-03-19T07:58:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{es-adj-old}} to new {{es-adj}} format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="857" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# {{lb|es|relational}} of {{w|Sancti Spíritus}} {{gl|a municipality and city in Cuba}}
+#* {{quote-journal|es|year=|date=November 26 2016|author=|title=Los jóvenes en la vanguardia defensiva|work=Juventud Rebelde|url=http://www.juventudrebelde.cu/cuba/2016-11-17/los-jovenes-en-la-vanguardia-defensiva/
+|passage=Las prácticas en la región de concentración en predios '''yayaberos''' inspiraron mucho más a la joven Roxana Sámara Cruz, quien cumple con el servicio militar voluntario femenino, para continuar con sus aspiraciones de ser miembro activo de las Fuerzas Armadas Revolucionarias.}}
+#: {{syn|es|espirituano}}
+===Noun===
+{{es-noun|m|f=yayabera}}
+# an inhabitant of the municipality and city of {{w|Sancti Spíritus}}, Cuba
+#: {{syn|es|espirituano}}
+{{C|es|Demonyms}}</text>
+<sha1>6voxm7wz5b2btgi6etoaq1hc6036cub</sha1>
+</revision>
+</page>

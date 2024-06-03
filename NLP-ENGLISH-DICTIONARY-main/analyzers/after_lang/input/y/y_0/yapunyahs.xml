@@ -1,0 +1,23 @@
+<page>
+<title>yapunyahs</title>
+<ns>0</ns>
+<id>4055787</id>
+<revision>
+<id>56267600</id>
+<parentid>53092714</parentid>
+<timestamp>2019-10-17T10:51:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yapunyah}}</text>
+<sha1>2v3qsgp8ihzlm9v687vcsg26cs03yw6</sha1>
+</revision>
+</page>

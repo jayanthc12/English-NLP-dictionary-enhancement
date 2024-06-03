@@ -1,0 +1,50 @@
+<page>
+<title>yantar</title>
+<ns>0</ns>
+<id>4809681</id>
+<revision>
+<id>68958542</id>
+<parentid>66217321</parentid>
+<timestamp>2022-08-28T22:29:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1609" xml:space="preserve">==Old Spanish==
+===Etymology===
+From {{inh|osp|VL.|*ianto|*iantō, iantāre|eat lunch}}, from {{der|osp|la|iento|iēntō, iēntāre}}. See {{m|la|iēntāculum|t=the first meal of the day}}.
+===Verb===
+{{head|osp|verb}}
+# to [[eat]], [[dine]]
+#* {{Q|osp|anonymous|Cid|1057|year=between 1140 and 1207|quote=Con eſtos dos caual͠los a p&lt;sup&gt;i&lt;/sup&gt;eſſa va '''iãtando'''&lt;br&gt;(''normalized'') Con estos dos cavallos a p''r''iessa va '''jantando'''|t=With these two knights, he '''dines''' hastily}}
+===Noun===
+{{head|osp|noun|g=f}}
+# [[food]] {{gl|especially a lunch or [[banquet]]}}
+#* {{Q|osp|Berceo|Vida de Santo Domingo de Silos|year=1236|quote=non vos menguará nunqua nin cena nin '''yantar'''|t=He [Jesus] shall never reduce your dinner nor your '''lunch'''}}
+===Descendants===
+* {{desc|es|yantar}}
+----
+==Spanish==
+===Etymology===
+From {{inh|es|osp|yantar}}, from {{inh|es|VL.|*ianto|*iantō, *iantāre|t=to eat lunch}}, from {{der|es|la|iento|iēntō, iēntāre}}. See {{m|la|iēntāculum|t=the first meal of the day}}. Compare {{cog|pt|jantar}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|archaic}} [[food]]
+===Verb===
+{{es-verb}}
+# {{lb|es|archaic}} to [[lunch]], [[dine]] {{gloss|eat lunch}}
+#* {{Q|es|Cervantes|Don Quixote, 2nd part|year=1615|quote=Comed, amigo, y desayunaos con esta espuma, en tanto que se llega la hora del '''yantar'''.|t=You can all eat, my friend, and break your fast with this broth, as we wait for the hour to '''lunch'''.}}
+# {{lb|es|archaic}} to [[eat]]
+====Conjugation====
+{{es-conj|nocomb=1}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>kdvgum9w9jzwewclxhwqiylkm7deyzw</sha1>
+</revision>
+</page>

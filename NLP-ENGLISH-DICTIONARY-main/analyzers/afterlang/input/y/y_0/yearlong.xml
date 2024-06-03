@@ -1,0 +1,56 @@
+<page>
+<title>yearlong</title>
+<ns>0</ns>
+<id>243680</id>
+<revision>
+<id>58532886</id>
+<parentid>54347569</parentid>
+<timestamp>2020-01-25T01:31:57Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>quote-book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2880" xml:space="preserve">{{also|year-long}}
+==English==
+===Alternative forms===
+* {{l|en|year-long}}
+===Etymology===
+{{suffix|en|year|long}}
+===Adjective===
+{{en-adj|-}}
+# Lasting one [[year]]; of a [[timespan]] of one year.
+#* {{quote-book|en|title=Under the rainbow: nature and supernature among the Panare Indians|author=Jean-Paul Dumont|year=1976|page=81|passage=Both are congruent with a '''yearlong''' periodicity, which is apparently neutralized in the main settlement.}}
+#* {{quote-book|en|title=Making time to lead: how principals can stay on top of it all|page=3|author=Richard A. Simon|coauthors=James F. Newman|year=2003|passage=By saving your entire file of daily and weekly lists, you will create your '''yearlong''' list.}}
+# Which lasts throughout every year; which is not [[seasonal]]
+#* '''1957''', United States. Congress. House. Committee on Interior and Insular Affairs:
+#*: '''Yearlong''' manning is needed, although at a somewhat reduced level from the peak periods in the fall.
+#* {{quote-book|en|year=2002|author=Barbara Taylor and P. David Pearson|title=Teaching reading: effective schools, accomplished teachers|page=37|passage=During interviews, teachers and/or principals in three of the four most effective schools cited a '''yearlong''' staff development effort.}}
+====Derived terms====
+* {{l|en|yearlong rate}}
+====Translations====
+{{trans-top|lasting one year, or approximately so; of or relating to a timespan of one year}}
+* Georgian: {{t|ka|ერთწლიანი}}, {{t|ka|წლის განმავლობაში}}
+* German: {{t+|de|einjährig}}
+{{trans-mid}}
+* Yiddish: {{t|yi|יאָריק|sc=Hebr}}
+{{trans-bottom}}
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|mostly|farming}} Per [[year]].
+#* {{quote-book|en|title=Soil conservation|author=Hugh Hammond Bennett|year=1939|passage=The estimate of the number of sheep and cattle now using this range is equivalent to 250000 cattle units '''yearlong'''|page=807}}
+#* {{quote-book|en|title=Administration and use of public lands: Parts 5-9|author=U.S. Committee on Public Lands and Surveys|year=1946|passage=The carrying capacity of this area is 46 cattle '''yearlong'''.}}
+# Throughout every year; not [[seasonally]]
+#* {{quote-book|en|title=The western range livestock industry|page=73|author=Marion Clawson|year=1979|passage=Over much of the Great Plains, water was not available '''yearlong''' for units of land as small as the customary ownership units}}
+#* {{quote-book|en|title=Additions to the national wilderness preservation system|volume=2|author=United States. Congress. House. Committee on Interior and Insular Affairs. Subcommittee on National Parks and Public Lands|year=1989|passage=Black bear and mountain goats occur in the area '''yearlong'''.|page=898}}
+===See also===
+* {{l|en|monthlong}}
+* {{l|en|weeklong}}
+* {{l|en|yearslong}}
+===Anagrams===
+* {{anagrams|en|a=aeglnory|orangely}}</text>
+<sha1>fns9jamh6h3m1nvuw0968akq9bsjh13</sha1>
+</revision>
+</page>

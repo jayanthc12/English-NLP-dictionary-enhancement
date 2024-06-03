@@ -1,0 +1,28 @@
+<page>
+<title>xanomeline</title>
+<ns>0</ns>
+<id>1982480</id>
+<revision>
+<id>38462418</id>
+<parentid>8557120</parentid>
+<timestamp>2016-04-29T01:52:12Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Added {{l}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==English==
+{{wikipedia}}
+===Noun===
+{{en-noun|-}}
+# A [[muscarinic]] [[acetylcholine]] [[receptor]] [[agonist]] with reasonable selectivity for the M1 and M4 subtypes, possibly useful in treating [[Alzheimer's disease]] and [[schizophrenia]].
+====See also====
+* {{l|en|alvameline}}
+* {{l|en|milameline}}
+* {{l|en|sabcomeline}}</text>
+<sha1>t5y57979yyulv8nphldxu9h85u0wjx3</sha1>
+</revision>
+</page>

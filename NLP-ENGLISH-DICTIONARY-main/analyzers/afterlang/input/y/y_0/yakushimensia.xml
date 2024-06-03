@@ -1,0 +1,23 @@
+<page>
+<title>yakushimensia</title>
+<ns>0</ns>
+<id>3419739</id>
+<revision>
+<id>66995437</id>
+<parentid>57076987</parentid>
+<timestamp>2022-05-15T09:48:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|yakushimēnsis}} (2); combine {{inflection of|la|yakushimēnsis}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|yakushimēnsis}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|yakushimēnsia}}
+# {{inflection of|la|yakushimēnsis||nom//acc//voc|n|p}}</text>
+<sha1>9iyp4e1lnzlhi0p9coh7n6apaa4r1vm</sha1>
+</revision>
+</page>

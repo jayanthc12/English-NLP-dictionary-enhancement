@@ -1,0 +1,25 @@
+<page>
+<title>xylofoontje</title>
+<ns>0</ns>
+<id>4462306</id>
+<revision>
+<id>55983489</id>
+<parentid>44085939</parentid>
+<timestamp>2019-10-16T12:32:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="134" xml:space="preserve">==Dutch==
+===Pronunciation===
+* {{audio|nl|Nl-xylofoontje.ogg|Audio}}
+===Noun===
+{{nl-noun-dim}}
+# {{nl-noun form of|dim|xylofoon}}</text>
+<sha1>a5xwf979ihpig7z6n487coxg9k4ntjf</sha1>
+</revision>
+</page>

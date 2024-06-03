@@ -1,0 +1,58 @@
+<page>
+<title>yeasty</title>
+<ns>0</ns>
+<id>4300</id>
+<revision>
+<id>67301114</id>
+<parentid>66168914</parentid>
+<timestamp>2022-06-06T13:09:12Z</timestamp>
+<contributor>
+<username>Willy Obretenov</username>
+<id>319898</id>
+</contributor>
+<comment>t+bg:[[пенлив]] t+bg:[[пенест]] t+bg:[[кипящ]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1577" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yeast|y}}.
+===Pronunciation===
+* {{IPA|en|/ˈjiːsti/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yeasty.wav|Audio (RP)}}
+* {{rhymes|en|iːsti|s=2}}
+===Adjective===
+{{en-adj|er}}
+# Having or resembling [[yeast]].
+# [[foamy|Foamy]] and [[frothy]].
+#* {{RQ:Byron Don Juan|III|58|text=The Ocean when its '''yeasty''' war is waging / Is awful to the vessel near the rock [...].}}
+# [[emotionally|Emotionally]] bubbling over (as with [[exuberance]])
+# [[trivial|Trivial]].
+#* {{RQ:Shakespeare Hamlet|V|2|text=Thus has he, and many more of the same breed that I&lt;br&gt;know the drossy age dotes on, only got the tune of the&lt;br&gt;time and, out of an habit of encounter, a kind of&lt;br&gt;'''yeasty''' collection, which carries them through and&lt;br&gt;through the most profane and winnowed opinions}}
+====Translations====
+{{trans-top|having or resembling yeast}}
+* Finnish: {{t|fi|hiivainen}}
+* Ido: {{t+|io|hefala}}
+{{trans-mid}}
+* Irish: {{t|ga|giosta}}
+{{trans-bottom}}
+{{trans-top|foamy and frothy}}
+{{trans-mid}}
+* Bulgarian: {{t+|bg|пенлив}}, {{t+|bg|пенест}}
+* Georgian: {{t|ka|ქაფიანი}}, {{t|ka|აქაფებული}}
+{{trans-bottom}}
+{{trans-top|emotionally bubbling over}}
+{{trans-mid}}
+* Bulgarian: {{t+|bg|кипящ}}
+{{trans-bottom}}
+{{trans-top|trivial}}
+{{trans-mid}}
+* Georgian: {{t|ka|უშინაარსო}}, {{t|ka|უმნიშვნელო}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Interlingua: {{t-check|ia|levaturose}}
+{{trans-mid}}
+* Spanish: {{t-check|es|levaduroso}}
+{{trans-bottom}}</text>
+<sha1>33jby4zhctiw5abydp9ofibhwvcssrp</sha1>
+</revision>
+</page>

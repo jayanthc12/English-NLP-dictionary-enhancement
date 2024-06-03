@@ -1,0 +1,36 @@
+<page>
+<title>yidiz</title>
+<ns>0</ns>
+<id>4558928</id>
+<revision>
+<id>69316867</id>
+<parentid>46217310</parentid>
+<timestamp>2022-09-18T15:55:15Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="660" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|3o|3s|∅}} {{nv-link-to-stem|-diz|conclusive imperfective}} {{nv-link-to-root|-DIZ|twist}}.
+===Verb===
+{{head|nv|verb|transitive}}
+# he/she is [[twist#Verb|twisting]] it (yarn, wool, or cotton), [[spin#Verb|spinning]] it (yarn or thread)
+====Conjugation====
+{{nv-paradigm|conclusive|∅/si}}.
+{{nv-verbtable|IMPERFECTIVE
+|yisdiz|yiidiz|deiidiz|nidiz|wohdiz|daahdiz|yidiz|deidiz|jidiz|dajidiz}}
+{{nv-verbtable|PERFECTIVE
+|sédiz|siidiz|dasiidiz|sínídiz|soodiz|dasoodiz|yizdiz|deizdiz|jizdiz|dajizdiz}}
+====Verbal stems====
+* IMPERFECTIVE: -diz
+* PERFECTIVE: -diz
+* FUTURE: -dis
+* ITERATIVE: -dis
+* OPTATIVE: -diz</text>
+<sha1>gca59h58pnm8677nngmglnslxayo2wg</sha1>
+</revision>
+</page>

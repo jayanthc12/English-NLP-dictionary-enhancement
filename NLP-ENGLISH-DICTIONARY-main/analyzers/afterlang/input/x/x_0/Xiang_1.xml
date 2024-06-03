@@ -1,0 +1,60 @@
+<page>
+<title>Xiang</title>
+<ns>0</ns>
+<id>1883446</id>
+<revision>
+<id>69124797</id>
+<parentid>67815947</parentid>
+<timestamp>2022-09-04T22:51:37Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>/* English */ all these are found in news reports etc on youtube/youglish</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1938" xml:space="preserve">{{also|xiang|xiang1|xiang2|xiang3|xiang4|xiāng|xiáng|xiǎng|xiàng|Xiāng|Xiàng}}
+==English==
+{{wikipedia|Xiang Chinese|Xiang language}}
+===Pronunciation===
+* {{IPA|en|/ʃɒŋ/|/ʃæŋ/|/ʃɑŋ/|/ʃʌŋ/}}, ''sometimes'' {{IPAchar|/tʃɒŋ/|/tʃæŋ/}}
+===Etymology 1===
+From the [[Hanyu Pinyin]] romanization of {{bor|en|cmn|湘|tr=Xiāng}}.
+====Alternative forms====
+* {{l|en|Hsiang}}
+* {{l|en|Siang}} {{qualifier|obsolete}}
+====Proper noun====
+{{en-proper noun}}
+# A [[Chinese]] [[language]] spoken mainly in [[Hunan]] province, [[China]]&lt;ref&gt;[https://www.britannica.com/topic/Xiang-language Xiang language], in ''{{w|Encyclopædia Britannica}}'': &quot;Chinese language that is spoken in Hunan province&quot;&lt;/ref&gt;
+=====Synonyms=====
+* {{l|en|Hunanese}}
+=====Translations=====
+{{trans-top|one of the divisions of the Chinese language}}
+* Chinese:
+*: Mandarin: {{t+|cmn|湘語}}, {{t+|cmn|湘语|tr=Xiāngyǔ}}, {{t|cmn|湖南話}}, {{t|cmn|湖南话|tr=Húnánhuà}} {{qualifier|Hunanese}}
+*: Xiang: {{t|hsn|湘語}}, {{t|hsn|湘语}}
+{{trans-mid}}
+* Japanese: {{t+|ja|湘語|tr=しょうご, Shō-go|sc=Jpan}}
+* Russian: {{t|ru|сян|m}}, {{t+|ru|хуна́ньский|m}} {{qualifier|диале́кт, язы́к}}
+{{trans-bottom}}
+====References====
+&lt;references/&gt;
+=====Further reading=====
+* {{ISO 639|ref=1||hsn}}
+* {{ethnologue|hsn}}
+{{langcat|hsn}}
+===Etymology 2===
+From several {{bor|en|cmn|-}} surnames, including {{zh-l|項|Xiàng}}, {{zh-l|向|Xiàng}} and {{zh-l|相|Xiāng}}.
+====Proper noun====
+{{en-proper noun|s}}
+# {{surname|en|from=Chinese}}.
+=====Statistics=====
+* According to the 2010 United States Census, ''Xiang'' is the 19041&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 1430 individuals. ''Xiang'' is most common among Asian/Pacific Islander (97.34%) individuals.
+===Further reading===
+* {{R:en:DAFN}}
+===Anagrams===
+* {{anagrams|en|a=aginx|axing}}
+[[Category:en:Languages]]</text>
+<sha1>1duqf6uyl872bglenfnojo9glpjt17d</sha1>
+</revision>
+</page>

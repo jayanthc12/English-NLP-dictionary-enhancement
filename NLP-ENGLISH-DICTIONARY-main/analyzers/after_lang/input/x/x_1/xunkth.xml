@@ -1,0 +1,35 @@
+<page>
+<title>xunkth</title>
+<ns>0</ns>
+<id>4197074</id>
+<revision>
+<id>58650734</id>
+<parentid>58332541</parentid>
+<timestamp>2020-02-07T12:49:34Z</timestamp>
+<contributor>
+<username>Lingo Bingo Dingo</username>
+<id>3115733</id>
+</contributor>
+<comment>/* Noun */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="385" xml:space="preserve">==Albanian==
+===Etymology===
+Diminutive in {{m|sq|-th}} of {{bor|sq|it|giunco||rush}}.
+===Noun===
+{{sq-noun|m|xunktha|xunkthi|xunkthat}}
+# {{lb|sq|botany}} [[rush]] (''Juncus'')
+# [[withe]], [[wicker]]
+# {{lb|sq|dialectal}} [[gorse]], [[furze]]
+====Synonyms====
+* {{sense|rush}} {{l|sq|kashër}}
+====Derived terms====
+{{der3
+|sq|xunkthëri
+|xunkthëtar
+|xunkthore
+|xunkthpunues
+}}</text>
+<sha1>ifedvx1yjpxqp32lokpin1fi9fi9mct</sha1>
+</revision>
+</page>

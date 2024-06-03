@@ -1,0 +1,30 @@
+<page>
+<title>xavante</title>
+<ns>0</ns>
+<id>4580948</id>
+<revision>
+<id>69232522</id>
+<parentid>69217339</parentid>
+<timestamp>2022-09-11T11:48:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="287" xml:space="preserve">{{also|Xavante|Xavánte}}
+==Portuguese==
+===Noun===
+{{pt-noun|mfbysense}}
+# a member of the [[Xavánte]] people
+===Noun===
+{{pt-noun|m|-}}
+# [[Xavánte]] {{gloss|Ge language spoken by the Xavánte people}}
+===Adjective===
+{{pt-adj}}
+# {{lb|pt|relational}} of the [[Xavánte]] peple</text>
+<sha1>lxcyk2ib8grbk3jbocw4b6aoze9tymo</sha1>
+</revision>
+</page>

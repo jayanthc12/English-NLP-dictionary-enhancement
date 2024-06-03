@@ -1,0 +1,65 @@
+<page>
+<title>Xiongnu</title>
+<ns>0</ns>
+<id>3615145</id>
+<revision>
+<id>69601905</id>
+<parentid>69600138</parentid>
+<timestamp>2022-10-27T05:45:23Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/CanerDemirci281993|CanerDemirci281993]]. If you think this rollback is in error, please leave a message on my [[User talk:Surjection|talk page]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1789" xml:space="preserve">{{also|xiongnu}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{q|from {{w|Wade–Giles}}}} {{l|en|Hsiung-nu}}
+* {{l|en|Hiong-nu}}
+* {{q|re-etymologization}} {{l|en|Hunnu}}
+===Etymology===
+Borrowed from the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|匈奴|tr=Xiōngnú|sc=Hani}}. Possibly a {{doublet|en|Hun|nocap=y}}; their relationship to the Huns is disputed.
+===Pronunciation===
+* {{IPA|en|/ʃɒŋˈnuː/|/ʃʊŋˈnuː/}}
+===Noun===
+{{en-plural noun}}
+# {{lb|en|historical}} An ancient nomadic-based people that formed a state or confederation north of the agriculture-based empire of the Han dynasty.
+====Translations====
+{{trans-top|ancient nomadic-based people}}
+* Arabic: {{t|ar|شيونغنو|}}
+* Chinese:
+*: Mandarin: {{t+|cmn|匈奴|tr=Xiōngnú|sc=Hani}}
+* Finnish: {{t|fi|xiongnu|alt=xiongnut|p}}, {{t|fi|[[xiongnu]]-[[kansa]]}}
+* French: {{t+|fr|Xiongnu}}
+* Japanese: {{t+|ja|匈奴|tr=kyōdo}}
+{{trans-mid}}
+* Korean: {{t+|ko|흉노(匈奴)}}
+* Mongolian:
+*: Cyrillic: {{t|mn|хүннү|sc=Cyrl}}
+*: Mongolian: {{t|mn|ᠾᠦ᠋ᠩᠨ᠋ᠦ|sc=Mong}}
+* Russian: {{t+|ru|ху́нну|sc=Cyrl}}, {{t+|ru|хунну́|sc=Cyrl}}, {{t|ru|Сюнну|sc=Cyrl}}
+* Persian: {{t|fa|شیونگ‌نو|tr=fârs}}
+* Vietnamese: {{t|vi|Hung Nô}} ({{t|vi|匈奴}})
+{{trans-bottom}}
+{{C|en|Tribes|Ethnonyms}}
+----
+==French==
+===Etymology===
+From {{bor|fr|cmn|Xiōngnú}}, from {{der|fr|zh|匈奴}}. {{doublet|fr|Hun}}.
+===Proper noun===
+{{fr-proper noun|m}}
+# {{lb|fr|historical}} {{m|en|Xiongnu}}; An ancient nomadic people of the [[Steppe]], north of [[Han Dynasty]] [[China]]
+#: {{syn|fr|Hunnu}}
+====Derived terms====
+* {{l|fr|xiongnu}} {{gloss|adj.}}
+===Noun===
+{{fr-noun|mfbysense|-}}
+# {{lb|fr|historical}} a member of the Xiongnu
+#: {{syn|fr|Hunnu}}</text>
+<sha1>szuagdtfn2ua1htgky841pibhqiriyw</sha1>
+</revision>
+</page>

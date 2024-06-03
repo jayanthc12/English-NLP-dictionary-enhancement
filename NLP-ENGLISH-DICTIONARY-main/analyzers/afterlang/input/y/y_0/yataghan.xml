@@ -1,0 +1,63 @@
+<page>
+<title>yataghan</title>
+<ns>0</ns>
+<id>569819</id>
+<revision>
+<id>61915959</id>
+<parentid>61860888</parentid>
+<timestamp>2021-03-01T18:23:58Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Etymology */ from Ottoman Turkish</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2470" xml:space="preserve">==English==
+{{wikipedia|yatagan}}
+[[File:Yataghan.png|thumb|250px|yataghans]]
+===Alternative forms===
+* {{l|en|ataghan}}
+* {{l|en|yatagan}}
+* {{l|en|yatigan}}
+===Etymology===
+Borrowed from {{bor|en|ota|یتاغان}} (modern {{cog|tr|yatağan}}),&lt;ref name=&quot;NED&quot;&gt;{{R:Oxford English Dictionary|volume=X|part=2|page=21|column=1}}&lt;/ref&gt;&lt;ref&gt;[http://www.merriam-webster.com/dictionary/yataghan &quot;yataghan.&quot;] ''Merriam-Webster Online Dictionary'' Merriam-Webster. 2008.&lt;/ref&gt; related to {{cog|otk|tr=yat-|t=to bend, incline; to lie}},&lt;ref&gt;{{R:tr:Nishanyan|yatağan}}.&lt;/ref&gt; whence also words like {{m|tr|yatmak||to lie}}, {{m|tr|yatak||bed}}, {{m|tr|yatay||horizontal}}, etc.
+===Pronunciation===
+* {{IPA|en|/ˈjætəɡæn/}}
+===Noun===
+{{en-noun}}
+# A type of [[sword]] used in Muslim countries from the mid-16th to late 19th centuries.
+#* '''1855''', Sir Richard Burton, ''Personal Narrative of a Pilgrimage to Al-Madinah &amp; Meccah'', Dover 1964, p. 22:
+#*: The angry-faced official communicated the intelligence to a large group of Anadolian, Caramanian, Bosniac, and Roumelian Turks,— sturdy, undersized, broad-shouldered, bare-legged, splay-footed, horny-fisted, dark-browed, honest-looking mountaineers, who were lounging about with long pistols and '''yataghans''' stuck in their broad sashes [...].
+#* '''1942''', Rebecca West, ''Black Lamb and Grey Falcon'', Canongate 2006, p. 1041:
+#*: A Montenegrin perceived it and ran immediately to him and drew his '''yataghan''', saying, “You are very brave, and must wish that I should cut off your head rather than that you should fall into the hands of the enemy.”
+====Synonyms====
+* {{l|en|Turkish sword}}
+====Translations====
+{{trans-top|type of sword}}
+* Armenian: {{t+|hy|յաթաղան}}
+* Belarusian: {{t|be|ятага́н|m}}
+* Bulgarian: {{t+|bg|ятага́н|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|彎刀}}, {{t|cmn|弯刀|tr=wāndāo}}
+* French: {{t+|fr|yatagan|m}}
+* Georgian: {{t|ka|იატაგანი}}
+* German: {{t|de|Yatagan|m}}, {{t|de|Jatagan|m}}
+* Greek: {{t+|el|γιαταγάνι|n}}
+* Hungarian: {{t+|hu|jatagán}}
+{{trans-mid}}
+* Ido: {{t+|io|yatagano}}
+* Japanese: {{t|ja|ヤタガン|tr=yatagan}}
+* Macedonian: {{t|mk|јатаган|m}}
+* Portuguese: {{t+|pt|iatagã|m}}
+* Russian: {{t+|ru|ятага́н|m}}
+* Spanish: {{t+|es|yatagán|m}}
+* Turkish: {{t+|tr|yatağan}}
+* Ukrainian: {{t+|uk|ятага́н|m}}
+{{trans-bottom}}
+===References===
+&lt;references /&gt;
+[[Category:en:Swords]]</text>
+<sha1>4rfbr130elcemsyxilaht6v9tokv6gh</sha1>
+</revision>
+</page>

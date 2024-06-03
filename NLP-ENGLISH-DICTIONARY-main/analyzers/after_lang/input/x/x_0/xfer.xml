@@ -1,0 +1,31 @@
+<page>
+<title>xfer</title>
+<ns>0</ns>
+<id>2470321</id>
+<revision>
+<id>69048552</id>
+<parentid>67082982</parentid>
+<timestamp>2022-09-03T05:15:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|x|transfer|alt2=(trans)fer}}
+===Noun===
+{{en-noun}}
+# {{abbreviation of|en|transfer}}
+===Verb===
+{{en-verb}}
+# {{abbreviation of|en|transfer}}
+===Anagrams===
+* {{anagrams|en|a=efrx|frex}}
+[[Category:English terms prefixed with x-|fer]]</text>
+<sha1>p5tfrzurg5fcib35qpco741ubiey80q</sha1>
+</revision>
+</page>

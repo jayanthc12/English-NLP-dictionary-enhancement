@@ -1,0 +1,28 @@
+<page>
+<title>xerocopiando</title>
+<ns>0</ns>
+<id>453719</id>
+<revision>
+<id>68030922</id>
+<parentid>54666306</parentid>
+<timestamp>2022-07-18T01:40:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[xerocopiar]] with 'xerocopiar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="161" xml:space="preserve">==Italian==
+===Verb===
+{{head|it|gerund}}
+# {{gerund of|it|xerocopiare}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|xerocopiar}}</text>
+<sha1>iw23l1nbqsa13ex76ndoc91qrsyzpo3</sha1>
+</revision>
+</page>

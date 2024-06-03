@@ -1,0 +1,32 @@
+<page>
+<title>xerodermie</title>
+<ns>0</ns>
+<id>1625567</id>
+<revision>
+<id>62822215</id>
+<parentid>62328214</parentid>
+<timestamp>2021-06-17T04:14:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Italian plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xerodermia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xérodermie}}.
+===Noun===
+{{ro-noun|f|xerodermii}}
+# [[xeroderma]]
+====Declension====
+{{ro-noun-f-ie|xerodermi}}</text>
+<sha1>ip4qa414sh0k9pxfc4jchxsa6p7ulay</sha1>
+</revision>
+</page>

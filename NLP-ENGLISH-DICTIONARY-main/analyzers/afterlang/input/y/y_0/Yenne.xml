@@ -1,0 +1,29 @@
+<page>
+<title>Yenne</title>
+<ns>0</ns>
+<id>6362518</id>
+<revision>
+<id>67195506</id>
+<parentid>67148666</parentid>
+<timestamp>2022-05-30T08:36:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="249" xml:space="preserve">==French==
+{{wikipedia|lang=fr}}
+===Pronunciation===
+* {{fr-IPA}}
+===Proper noun===
+{{fr-proper noun}}
+# {{place|fr|small town/and/commune|dept/Savoie|r/Auvergne-Rhône-Alpes|c/France}}
+====Derived terms====
+* {{l|fr|yennois}}
+* {{l|fr|Yennois}}</text>
+<sha1>tc41jidfz395sfm2nb075ah9z3utaon</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>yetmek</title>
+<ns>0</ns>
+<id>3174045</id>
+<revision>
+<id>65817375</id>
+<parentid>63414724</parentid>
+<timestamp>2022-02-13T08:51:58Z</timestamp>
+<contributor>
+<username>Ardahan Karabağ</username>
+<id>3840298</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="730" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یتمك|tr=yetmek}}, from {{inh|tr|trk-pro|*yẹt-||to reach}}&lt;ref&gt;{{R:tr:Nishanyan|yetmek}}&lt;/ref&gt;&lt;ref&gt;{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2faltet&amp;text_number=2599&amp;root=config “*ǯi ( ~ *ǯi̯a)”]&lt;/ref&gt;.
+===Verb===
+{{tr-verb|yeter}}
+# {{lb|tr|intransitive}} to [[suffice]]
+# {{lb|tr|intransitive}} to [[do]] [[enough]]; to [[fulfill]].
+# {{lb|tr|intransitive}} to [[reach]]
+====Conjugation====
+{{tr-conj|yet|i|yeter|e|d}}
+====Derived terms====
+* {{l|tr|yetme}}
+* {{l|tr|yeter}}
+* {{l|tr|yetmez}}
+* {{l|tr|yetişmek}}
+* {{l|tr|yetinmek}}
+* {{l|tr|yetirmek}}
+* {{l|tr|yetiştirmek}}
+===References===
+&lt;references/&gt;</text>
+<sha1>lymqb12zfapzhimn29u3rpg192cldas</sha1>
+</revision>
+</page>

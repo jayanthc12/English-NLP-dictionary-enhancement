@@ -1,0 +1,28 @@
+<page>
+<title>xenografted</title>
+<ns>0</ns>
+<id>1581577</id>
+<revision>
+<id>38328280</id>
+<parentid>37997678</parentid>
+<timestamp>2016-04-27T19:16:18Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Added {{l}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==English==
+===Adjective===
+{{en-adj}}
+# [[grafted]] between different [[species]]
+====Related terms====
+* {{l|en|xenograft}}
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|xenograft}}</text>
+<sha1>a9g0944ufwnncqlmlayixgwupzlk6s3</sha1>
+</revision>
+</page>

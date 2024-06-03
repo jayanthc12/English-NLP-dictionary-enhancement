@@ -1,0 +1,52 @@
+<page>
+<title>yatmaq</title>
+<ns>0</ns>
+<id>555396</id>
+<revision>
+<id>62968748</id>
+<parentid>62136091</parentid>
+<timestamp>2021-06-27T12:43:00Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1372" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јатмаг|r=yatmaq|a=یاتماق}}
+===Etymology===
+From {{inh|az|trk-pro|*yạt-}}. Cognate with {{cog|tr|yatmak}}, {{cog|kk|жату|t=to lie}}, {{cog|uz|yotmoq|t=to lie}}.
+===Pronunciation===
+* {{IPA|az|[jɑtˈmɑχ]}}
+* {{hyphenation|az|jat|maq}}
+===Verb===
+{{head|az|verb}} {{tlb|az|intransitive}}
+# to [[sleep]] {{C|az|Sleep}}
+#: {{uxi|az|bütün gecə '''yatmamışam'''|I haven't '''slept''' all night}}
+#: {{uxi|az|Sakit ol, atan '''yatır'''|Be quiet, your father '''sleeps'''}}
+#: {{syn|az|uyumaq|q1=archaic}}
+# to be imprisoned, to [[do time]]
+#: {{uxi|az|Beş il həbsdə '''yatdım'''|I '''did''' five years in jail}}
+#: {{syn|az|içəridə olmaq}}
+# to [[lie]] down
+#: {{syn|az|uzanmaq}}
+# to [[become]] [[flat]], to [[die]] ''(of an electrical battery or accumulator; either being in need of recharge or completely)''
+#: {{ux|az|Maşın [[xodlanmaq|xodlanmır]]! Akkumulyatoru '''yatıb''' [[diyəsən]].|The car doesn't start! Looks like the battery '''is dead'''.}}
+====Conjugation====
+{{az-conj|a|t}}
+====Derived terms====
+* {{l|az|yatır}}
+* {{l|az|yatırmaq}}
+** {{l|az|yatırım}}
+----
+==Crimean Tatar==
+===Verb===
+{{head|crh|verb}}
+# to [[lie]] {{gloss|to rest in a horizontal position on a surface}}
+# {{lb|crh|Northern dialect}} to [[waken]] (see [[uyatmaq]])
+====Conjugation====
+{{crh-latin-conj|a|t}}</text>
+<sha1>623ag8cv5dzdlas9aqy31p6ixdex2zh</sha1>
+</revision>
+</page>

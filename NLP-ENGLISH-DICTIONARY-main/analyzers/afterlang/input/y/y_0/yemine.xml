@@ -1,0 +1,21 @@
+<page>
+<title>yemine</title>
+<ns>0</ns>
+<id>884576</id>
+<redirect title="yemin et" />
+<revision>
+<id>63163895</id>
+<parentid>3559875</parentid>
+<timestamp>2021-07-14T04:01:04Z</timestamp>
+<contributor>
+<username>JackBot</username>
+<id>393984</id>
+</contributor>
+<minor />
+<comment>Bot: Fixing double redirect to [[yemin et]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="22" xml:space="preserve">#REDIRECT [[yemin et]]</text>
+<sha1>bxf3xt5vse83ikphdwstjx3o3847zhu</sha1>
+</revision>
+</page>

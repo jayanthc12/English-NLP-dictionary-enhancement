@@ -1,0 +1,23 @@
+<page>
+<title>yecteneua</title>
+<ns>0</ns>
+<id>1135659</id>
+<revision>
+<id>55226201</id>
+<parentid>19932524</parentid>
+<timestamp>2019-10-14T04:53:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Classical Nahuatl==
+===Verb===
+{{head|nci|verb}}
+# {{alternative spelling of|nci|yectenehua}}</text>
+<sha1>nz6yq5cz27kxh9syd0hmakhrqjqxwn3</sha1>
+</revision>
+</page>

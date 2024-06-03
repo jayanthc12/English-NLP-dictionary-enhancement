@@ -1,0 +1,27 @@
+<page>
+<title>xilaskar</title>
+<ns>0</ns>
+<id>6468551</id>
+<revision>
+<id>60271385</id>
+<parentid>51970573</parentid>
+<timestamp>2020-09-05T09:42:25Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Azerbaijani==
+===Etymology===
+Morphologically {{suffix|az|xilas|kar}}.
+===Noun===
+{{head|az|noun}}
+# [[savior]]
+====Declension====
+{{az-latin-noun-decl|c|a}}</text>
+<sha1>slh9noj2tqrqjj96tfwhvmedgb5ts1h</sha1>
+</revision>
+</page>

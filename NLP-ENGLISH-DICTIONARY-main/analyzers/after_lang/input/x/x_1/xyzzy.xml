@@ -1,0 +1,37 @@
+<page>
+<title>xyzzy</title>
+<ns>0</ns>
+<id>1391712</id>
+<revision>
+<id>64460275</id>
+<parentid>58102516</parentid>
+<timestamp>2021-10-28T12:21:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1641" xml:space="preserve">==English==
+{{wikipedia|Xyzzy (computing)|xyzzy}}
+===Etymology===
+From the seminal [[text adventure]] game ''Adventure'' (c.1975), where it served as a &quot;magic word&quot;; possibly originated as a [[mnemonic]] for the subscripts of the [[cross product]] in mathematics.
+===Pronunciation===
+* {{enPR|zĭz'i}}, {{IPA|en|/ˈzɪzi/}}
+* {{rhymes|en|ɪzi|s=2}}
+* {{audio|en|en-uk-xyzzy.ogg|Audio (UK)}}
+===Noun===
+{{en-noun|-}}
+# {{non-gloss definition|Used as a [[placeholder]] word or [[metasyntactic variable]].}}
+#* '''2001''', Simson Garfinkel, Gene Spafford, ''Web Security, Privacy and Commerce''
+#*: Especially bad are &quot;magic words&quot; from computer games, such as '''xyzzy'''. These magic words look secret and unguessable, but in fact they are widely known.
+#* {{quote-book|en|year=2002|author=Mark Gaynor|title=Network Services Investment Guide|passage=Suppose stock '''xyzzy''' is selling at $100.00 on January 1, 2002. The classic call option is to pay a fixed amount per share (say $10) for the option to buy...}}
+#* {{quote-book|en|year=2005|author=Ruslan Mitkov|title=The Oxford Handbook of Computational Linguistics|passage=The path that relates '''xyzzy''' to XYZZY cycles many times through the single state of the transducer.}}
+#* '''2006''', Venkat Subramaniam, Andy Hunt, ''Practices of an Agile Developer''
+#*: How you even form the sentence makes a difference; if you say, &quot;We need technology '''xyzzy''' because...,&quot; then the battle for common sense is already lost.
+#* '''2008''', Randal L Schwartz, Tom Phoenix, Brian Foy, ''Learning Perl''
+#*: Perl doesn't care if you call your loop labels things like '''XYZZY''' or PLUGH.</text>
+<sha1>aly5j5ahvhy9kqan1dv1c4qy1hv9s07</sha1>
+</revision>
+</page>

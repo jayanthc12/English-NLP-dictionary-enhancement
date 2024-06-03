@@ -1,0 +1,83 @@
+<page>
+<title>xenofobia</title>
+<ns>0</ns>
+<id>92357</id>
+<revision>
+<id>69486597</id>
+<parentid>69114383</parentid>
+<timestamp>2022-10-10T00:03:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3942" xml:space="preserve">{{also|xenofóbia|xenofòbia}}
+==English==
+===Etymology===
+Compare {{bor|en|nl|xenofobie}}, {{bor|en|pt|xenofobia}}, {{bor|en|es|xenofobia}}, and {{bor|en|tr|zenofobi}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|NNSE}} {{alternative spelling of|en|xenophobia}}.
+#* {{quote-newsgroup|en|author=ri20556|title=From AUSTRIA - from Portugal|newsgroup=soc.college.org.aiesec|url=https://groups.google.com/g/soc.college.org.aiesec/c/EC1d2f0cme4/m/ZMWjBDD4OFAJ|accessdate=2022-04-18|date=Apr 16, 1997|passage=Greetings from Brigite from Portugal to Austria!&lt;br&gt;What do I know about your country?&lt;br&gt;Hardly nothing! I only know that you speak German, your capital is Vienna and that you have very beatifull palaces. oh yes, and that the film of &quot;Sissi&quot; was made there! (Actually I liked it a lot!)&lt;br&gt;What prejudices?&lt;br&gt;I heard of a lot of '''xenofobia''' and racism... is it true?}}
+#* {{quote-newsgroup|en|author=Dela|title=Restaurants in Brugges?|newsgroup=rec.travel.europe|url=https://groups.google.com/g/rec.travel.europe/c/SZsD-RuzNwU/m/FaYB21KUdm0J|accessdate=2022-04-18|date=Aug 25, 1998|passage=As an ex-inhabitant of Bruges, I'm sorry to read posts with complaints about bad behaviour in restaurants towards tourists. The problem is that in Bruges there are so many tourists that in some restaurants the Brugeois are in a 'minority'. Sometimes restaurant owners try to profile themselves as 'non-tourist' to attract more people from Bruges.&lt;br&gt;Though I completely lack any feeling of '''xenofobia''', I must say it is weird to be in a restaurant in your home-town and to be amongst only tourists. It makes you feel like being in a tourist trap - I'm sure the average tourist feels the same about that.}}
+#* {{quote-newsgroup|en|author=pipe...@my-dejanews.com|title=SEVEN MORE REPRESENTATIVES JOIN ARMENIAN CAUCUS (fwd)|newsgroup=soc.culture.turkish|url=https://groups.google.com/g/soc.culture.turkish/c/IApIwGymr2Y/m/BGw91xiv7VUJ|accessdate=2022-04-18|date=Nov 7, 1998|passage=Genocide is not a mistake. It is delibarete attempt to exterminate a people out of racial prejudice. Nobody exterminates anybody because they are an inconveniency, as you suggest. Armenians and Turks have coexisted peacefully in the Empire before 1915. Armenians and Turks coexist peacefully in Turkey today. So what was it, a brief attack of '''xenofobia''' by the young Turks? come on. You may consider this qubbling over a fine point, it is exactly that point you are trying to smear us with.}}
+#* {{quote-newsgroup|en|author=Rafa|title=Education in CzR|newsgroup=soc.culture.czecho-slovak|url=https://groups.google.com/g/soc.culture.czecho-slovak/c/HF1HFpMQbrY/m/iTWj77Ys0ygJ|accessdate=2022-04-18|date=Aug 29, 2002|passage=Also i see a shade of '''xenofobia''' in this treatment and i dont like this. In spain there are also people who see the tourists as inferior beings, not me.}}
+[[Category:en:Forms of discrimination]]
+[[Category:en:Phobias]]
+----
+==Asturian==
+===Noun===
+{{ast-noun|f|-}}
+# {{l|en|xenophobia}} {{gloss|a pathological fear or hatred of strangers or foreigners}}
+----
+==Galician==
+===Noun===
+{{gl-noun|f|-}}
+# [[xenophobia]]
+----
+==Italian==
+===Etymology===
+{{confix|it|xeno|fobia}}
+===Pronunciation===
+{{it-pr|xenofobìa}}
+===Noun===
+{{it-noun|f}}
+# [[xenophobia]]
+====Related terms====
+* {{l|it|xenofobico}}
+* {{l|it|xenofobo}}
+{{C|it|Phobias}}
+----
+==Portuguese==
+===Etymology===
+From {{affix|pt|xeno-|-fobia}}.
+===Pronunciation===
+{{pt-IPA|xenòfobia}}
+* {{hyph|pt|xe|no|fo|bi|a}}
+===Noun===
+{{pt-noun|f}}
+# [[xenophobia]] {{gloss|fear or hatred of foreigners}}
+#: {{syn|pt|xenofobismo}}
+{{C|pt|Phobias}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+From {{confix|es|xeno|fobia}}.
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|Es-xenofobia.ogg|Audio}}
+===Noun===
+{{es-noun|f}}
+# [[xenophobia]]
+#: {{ant|es|endofobia}}
+====Related terms====
+* {{l|es|xenófobo}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>cbjomikalcnp20gh2cjfinlpvzjyzwa</sha1>
+</revision>
+</page>

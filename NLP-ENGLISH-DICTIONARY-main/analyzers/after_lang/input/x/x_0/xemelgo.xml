@@ -1,0 +1,38 @@
+<page>
+<title>xemelgo</title>
+<ns>0</ns>
+<id>1728406</id>
+<revision>
+<id>68861940</id>
+<parentid>68829616</parentid>
+<timestamp>2022-08-28T05:11:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="558" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|ximelgo}}
+===Etymology===
+From {{inh|gl|VL.|*gemellicus}}, from {{inh|gl|la|gemellus}}, from {{m|la|geminus}}. Compare {{cog|es|mielgo}}, {{m|es|mellizo}}, {{m|es|gemelo}}, {{cog|ast|xemelgu}}, {{m|ast|ximielgu}}, Logudorese {{cog|sc|ameddiga}}.
+===Pronunciation===
+* {{IPA|gl|[ʃeˈmɛlɣʊ]}}
+===Noun===
+{{gl-noun|m|f=xemelga}}
+# [[twin]]
+===Adjective===
+{{gl-adj|f=xemelga}}
+# [[twin]]
+====Descendants====
+* {{desc|es|jimelga|bor=1}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>d57ezi1tvs217qp4w0if8egjwl3a2mf</sha1>
+</revision>
+</page>

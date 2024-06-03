@@ -1,0 +1,24 @@
+<page>
+<title>xylomarimbas</title>
+<ns>0</ns>
+<id>1345755</id>
+<revision>
+<id>55572444</id>
+<parentid>53092480</parentid>
+<timestamp>2019-10-15T07:11:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|xylo-marimbas}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylomarimba}}</text>
+<sha1>09ygtqc310m4fvcsk64zj5dili9wi5n</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xoe</title>
+<ns>0</ns>
+<id>2568427</id>
+<revision>
+<id>63927334</id>
+<parentid>48229773</parentid>
+<timestamp>2021-09-14T20:06:32Z</timestamp>
+<contributor>
+<username>Bula Hailan</username>
+<id>3789790</id>
+</contributor>
+<comment>/* Adjective */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="220" xml:space="preserve">{{also|xòe|xoè}}
+==Vietnamese==
+===Pronunciation===
+{{vi-pron}}
+===Adjective===
+{{vi-adj}}
+# {{lb|vi|literary|only in compounds}} [[perfectly]] [[round]]
+====Derived terms====
+{{vi-der|tròn xoe}}
+{{attention|vi}}</text>
+<sha1>tsw9lcbsoudv7bkge4t6nxzbewmnyze</sha1>
+</revision>
+</page>

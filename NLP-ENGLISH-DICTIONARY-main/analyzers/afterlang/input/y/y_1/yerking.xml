@@ -1,0 +1,25 @@
+<page>
+<title>yerking</title>
+<ns>0</ns>
+<id>496681</id>
+<revision>
+<id>55030410</id>
+<parentid>52485336</parentid>
+<timestamp>2019-10-11T15:42:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yerk|nocat=1}}
+===Anagrams===
+* {{anagrams|en|a=egiknry|Kingery|Kingrey|key ring|keyring}}</text>
+<sha1>48a2tvt3x8fqlv4xg4w2bopnofzumck</sha1>
+</revision>
+</page>

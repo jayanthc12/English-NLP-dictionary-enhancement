@@ -1,0 +1,28 @@
+<page>
+<title>xeriphyte</title>
+<ns>0</ns>
+<id>7035157</id>
+<revision>
+<id>54376465</id>
+<parentid>51578374</parentid>
+<timestamp>2019-09-29T00:24:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}; move lang= to 1= in {{quote-book}} (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1085" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeri|phyte}}
+===Noun===
+{{en-noun}}
+# {{lb|en|horticulture}} {{alt form|en|xerophyte}}
+#* {{quote-book|en|year=2008 |title=From Yard to Garden: The Domestication of America's Home Grounds|author=Christopher Grampp |page= |ISBN=1930066740 |passage=East Bay Mud began rationing water and implored homeowners to replace their dying gardens with '''xeriphytes'''.}}
+#* {{quote-book|en|year=2011 |title=The New Ornamental Garden |author=Simon Rickard |page=176 |ISBN= 0643102299|passage=They are definitely not '''xeriphytes''' but once established they display a fair degree of drought tolerance, surviving happily on the occasional handout of greywater.}}
+#* {{quote-book|en|year=2015 |title=Studies in Culture Contact: Interaction, Culture Change, and Archaeology |author=James G. Cusick |page=342 |ISBN=0809334097 |passage=Maguey (Agave spp., the century plant), a '''xeriphyte''', was a staple of life in central Mexico, its sap a significant dietary partner and its fibers used for cordage and textiles, to cite two of its best-known uses.}}</text>
+<sha1>eawg296a7t1ucfxvxcz2uua4mj6uqeu</sha1>
+</revision>
+</page>

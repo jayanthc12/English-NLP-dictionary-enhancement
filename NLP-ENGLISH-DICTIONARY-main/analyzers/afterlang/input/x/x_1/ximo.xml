@@ -1,0 +1,31 @@
+<page>
+<title>ximo</title>
+<ns>0</ns>
+<id>4342229</id>
+<revision>
+<id>63641153</id>
+<parentid>61388941</parentid>
+<timestamp>2021-08-12T19:21:59Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<comment>add Afar IPA using headword ([[User:ToilBot/edit logs/2021-08/Afar IPA|log]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="246" xml:space="preserve">==Afar==
+===Pronunciation===
+* {{aa-IPA|ximó}}
+===Noun===
+{{aa-noun|ximó|g=f}}
+# [[tear]]
+====References====
+* {{R:aa:Hassan Kamil:2015|page=74}}
+----
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|ximir||1|s|pres|ind}}</text>
+<sha1>7cs6e0a4t52kfy2nu607iddgq0br2y7</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>yanggal</title>
+<ns>0</ns>
+<id>343233</id>
+<revision>
+<id>55401958</id>
+<parentid>47711512</parentid>
+<timestamp>2019-10-14T14:27:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="500" xml:space="preserve">==Gamilaraay==
+===Alternative forms===
+* {{l|kld|yangal}}
+===Pronunciation===
+* {{IPA|kld|/jaŋɡal/}}
+===Noun===
+{{head|kld|nouns}}
+# [[vagina]]
+#* '''1903''', R. H. Mathews, ''Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales'', in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 33:
+#*: Vulva .... .... | '''''yangal'''''
+#*: [...]
+#*: Vagina .... .... | same as vulva
+===References===
+* {{R:kld:Austin}}
+[[Category:kld:Anatomy]]</text>
+<sha1>gkbpy6c3cmjs4yjri6ixy56c40w05pi</sha1>
+</revision>
+</page>

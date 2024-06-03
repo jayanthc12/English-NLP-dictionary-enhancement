@@ -1,0 +1,29 @@
+<page>
+<title>yhteiselin</title>
+<ns>0</ns>
+<id>7098183</id>
+<revision>
+<id>58620586</id>
+<parentid>58593437</parentid>
+<timestamp>2020-02-01T14:20:32Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="223" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|elin}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-elin}}
+===Noun===
+{{fi-noun}}
+# [[joint]] [[body]]
+====Declension====
+{{fi-decl-kytkin|yhteisel|||i|ä}}</text>
+<sha1>iw5jbpr20fqsmmwhgxyiip7p94ewljh</sha1>
+</revision>
+</page>

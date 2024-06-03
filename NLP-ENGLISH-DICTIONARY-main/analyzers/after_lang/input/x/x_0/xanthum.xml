@@ -1,0 +1,24 @@
+<page>
+<title>xanthum</title>
+<ns>0</ns>
+<id>3755003</id>
+<revision>
+<id>66995116</id>
+<parentid>57343410</parentid>
+<timestamp>2022-05-15T09:46:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthus}} (3); combine {{inflection of|la|xanthus}} tag sets nom|n|s and acc|n|s into nom//acc|n|s; combine {{inflection of|la|xanthus}} tag sets nom//acc|n|s and voc|n|s into nom//acc//voc|n|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">{{also|Xanthum}}
+==Latin==
+===Adjective===
+{{la-adj-form|xanthum}}
+# {{inflection of|la|xanthus||nom//acc//voc|n|s|;|acc|m|s}}</text>
+<sha1>jjm4w107z4k8sqb6k1upvp1riub9xvi</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xocolateria</title>
+<ns>0</ns>
+<id>3067134</id>
+<revision>
+<id>62379189</id>
+<parentid>19973202</parentid>
+<timestamp>2021-04-15T17:27:13Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==Catalan==
+===Etymology===
+{{af|ca|xocolater|-ia}}
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[chocolate]] shop
+# [[chocolate]] factory
+===Further reading===
+* {{R:IEC2}}
+{{c|ca|Businesses}}</text>
+<sha1>td83eeubirw4t96d70dyiwypicgippc</sha1>
+</revision>
+</page>

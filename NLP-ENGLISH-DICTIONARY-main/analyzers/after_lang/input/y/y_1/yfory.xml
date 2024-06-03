@@ -1,0 +1,36 @@
+<page>
+<title>yfory</title>
+<ns>0</ns>
+<id>4262715</id>
+<revision>
+<id>68465113</id>
+<parentid>64986107</parentid>
+<timestamp>2022-07-25T10:40:01Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="600" xml:space="preserve">==Welsh==
+===Alternative forms===
+* {{l|cy|fory}}
+===Etymology===
+Related to {{cog|cy|bore}}, from {{inh|cy|cel-pro|*bāregos||morning}}. Compare {{cog|ga|amáireach||tomorrow}}, a reduced form of {{m|ga|i mbáireach}}.
+===Pronunciation===
+* {{a|cy-N|standard}} {{IPA|cy|/əˈvɔrɨ/}}
+** {{a|cy-N|colloquial}} {{IPA|cy|/ˈvɔrɨ/}}
+* {{a|cy-S|standard}} {{IPA|cy|/əˈvoːri/|/əˈvɔri/}}
+** {{a|cy-S|colloquial}} {{IPA|cy|/ˈvoːri/|/ˈvɔri/}}
+* {{rhymes|cy|ɔrɨ|s=3}}
+===Adverb===
+{{head|cy|adverb}}
+# [[tomorrow]]
+===See also===
+* {{l|cy|trannoeth}}
+* {{l|cy|trennydd}}
+* {{l|cy|tradwy}}</text>
+<sha1>5hhg73ocknprpbma2cvh01ioa2ubv09</sha1>
+</revision>
+</page>

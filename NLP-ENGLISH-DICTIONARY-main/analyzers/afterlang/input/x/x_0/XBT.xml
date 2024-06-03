@@ -1,0 +1,23 @@
+<page>
+<title>XBT</title>
+<ns>0</ns>
+<id>4919794</id>
+<revision>
+<id>67362054</id>
+<parentid>67316407</parentid>
+<timestamp>2022-06-13T23:12:04Z</timestamp>
+<contributor>
+<ip>64.229.88.43</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 4217|unoff=1|crypto=1|Bitcoin}}
+#: {{syn|mul|BTC|₿}}
+====Usage notes====
+This code is sometimes used in place of {{l|mul|BTC}} due to its compliance with the currency coding standardization rules in {{w|ISO 4217}}.</text>
+<sha1>dmerst2f9aeqf4sbmmevzt69y1nh109</sha1>
+</revision>
+</page>

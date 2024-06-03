@@ -1,0 +1,40 @@
+<page>
+<title>Yandang</title>
+<ns>0</ns>
+<id>4498398</id>
+<revision>
+<id>67974600</id>
+<parentid>67888793</parentid>
+<timestamp>2022-07-17T10:40:33Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>{{bor|en|cmn-pinyin|-}} Basis: different from Gwoyeu Romatzyh: Yanndanq Wade–Giles: Yen4-tang4; ===Pronunciation=== {{rfp|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="775" xml:space="preserve">{{also|yandang|yándàng|Yàndàng}}
+==English==
+{{wikipedia|Yandang Mountains}}
+{{commonscat|Mount Yandang}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Yentang}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-l|雁蕩|lit=[[wild|Wild]] [[goose|Goose]] [[pond|Pond]]}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|county-level city/Yueqing|prefecture-level city/Wenzhou|p/Zhejiang|c/China}}.
+# A [[nearby]] [[mountain]].
+# The [[surrounding]] [[range]] of [[mountain]]s.
+====Translations====
+{{trans-top|town, mountains}}
+* Chinese:
+*: Mandarin: {{t+|cmn|雁蕩|sc=Hani}}, {{t|cmn|雁荡|tr=Yàndàng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>c1mtp0gh3cla6du3f7eld45qh08klkd</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>yedinci</title>
+<ns>0</ns>
+<id>658163</id>
+<revision>
+<id>64513741</id>
+<parentid>59395211</parentid>
+<timestamp>2021-11-02T10:11:07Z</timestamp>
+<contributor>
+<username>İtidal</username>
+<id>3008460</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="446" xml:space="preserve">==Crimean Tatar==
+{{ordinalbox|crh|6th|7th|8th|altıncı|sekizinci|card=yedi}}
+===Adjective===
+{{head|crh|adjective}}
+# {{cln|crh|ordinal numbers}} [[seventh]]
+----
+==Turkish==
+{{ordinalbox|tr|6'ncı|7'nci|8'inci|altıncı|sekizinci|card=yedi}}
+===Pronunciation===
+* {{IPA|tr|/je.din.dʒi/}}
+===Adjective===
+{{head|tr|adjectives}}
+# {{cln|tr|ordinal numbers}} [[seventh]]
+====Synonyms====
+* {{l|tr|7'nci}}
+* {{l|tr|7.}} {{i|abbreviation}}</text>
+<sha1>2jivuym97mbd2def27xegkmfb6gcat0</sha1>
+</revision>
+</page>

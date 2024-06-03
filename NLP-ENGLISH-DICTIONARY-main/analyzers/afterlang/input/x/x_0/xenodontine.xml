@@ -1,0 +1,31 @@
+<page>
+<title>xenodontine</title>
+<ns>0</ns>
+<id>5573098</id>
+<revision>
+<id>64638614</id>
+<parentid>59159889</parentid>
+<timestamp>2021-11-13T01:22:19Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Colubrid snakes]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="858" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|-odont|-ine}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|zoology}} Belonging to a group of [[colubrid]] [[snake]]s with [[unusual]] [[tooth|teeth]].
+#* {{quote-journal|en|date=February 18, 2016|author=|title=Are Diet Preferences Associated to Skulls Shape Diversification in Xenodontine Snakes?|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148375|doi=10.1371/journal.pone.0148375|volume=|issue=|pages=
+|passage=We characterized the skull morphology of 19 species of '''xenodontine''' snakes using geometric morphometric techniques, and used phylogenetic comparative methods to test the association between diet and skull morphology. }}
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any snake of the subfamily {{taxlink|Xenodontinae|subfamily}}
+[[Category:en:Colubrid snakes]]</text>
+<sha1>60mlc9m5d1w2dbppbs1ojj1ej3h1ms1</sha1>
+</revision>
+</page>

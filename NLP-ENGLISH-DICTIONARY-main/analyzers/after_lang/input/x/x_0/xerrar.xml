@@ -1,0 +1,49 @@
+<page>
+<title>xerrar</title>
+<ns>0</ns>
+<id>6021094</id>
+<revision>
+<id>64460193</id>
+<parentid>63624684</parentid>
+<timestamp>2021-10-28T12:17:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="931" xml:space="preserve">==Catalan==
+===Etymology===
+{{onomatopoeic|ca}}, compare {{cog|es|charlar}} and {{cog|oc|charrar}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|intransitve}} to [[chat]], to [[chatter]]
+# {{lb|ca|transitve}} to [[blab]], to [[let slip]], to [[reveal]]
+#: {{ux|ca|Va '''xerrar''' que havia tengut un fill amb un torero.|She '''let slip''' that she had had a son with a bullfighter.}}
+# {{lb|ca|intransitve}} to [[chatter]], to [[chirp]] {{q|of birds}}
+#: {{uxi|ca|Els lloros '''xerren''' molt.|Parrots '''chatter''' a lot.}}
+====Synonyms====
+* {{sense|chirp}} {{l|ca|xerrotejar}}
+====Conjugation====
+{{ca-conj-ar|xerr}}
+====Derived terms====
+* {{l|ca|xerrada}}
+* {{l|ca|xerraire}}
+* {{l|ca|xerrameca}}
+* {{l|ca|xerrera}}
+* {{l|ca|xerrotejar}}
+====Related terms====
+* {{l|ca|xerricar}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+{{C|ca|Talking}}</text>
+<sha1>ani852704vtgwr9q7op85v2hzsmudt6</sha1>
+</revision>
+</page>

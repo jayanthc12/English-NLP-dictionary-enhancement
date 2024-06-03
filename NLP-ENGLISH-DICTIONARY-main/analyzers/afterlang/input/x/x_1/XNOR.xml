@@ -1,0 +1,40 @@
+<page>
+<title>XNOR</title>
+<ns>0</ns>
+<id>2726466</id>
+<revision>
+<id>67015565</id>
+<parentid>67015072</parentid>
+<timestamp>2022-05-16T09:23:12Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/195.31.212.234|195.31.212.234]]. If you think this rollback is in error, please leave a message on my [[User talk:Surjection|talk page]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="657" xml:space="preserve">==English==
+{{wikipedia|XNOR gate}}
+===Etymology===
+{{blend|en|exclusive|NOR}}
+===Noun===
+{{en-noun|?}}
+# {{lb|en|electrical engineering}} A [[logic gate]] which is the [[inverse]] of [[XOR]].
+====Usage notes====
+* Boolean variables and states ({{l|en|AND}}, {{l|en|OR}}, {{l|en|NOT}}, {{l|en|TRUE}}, {{l|en|FALSE}} etc.) are commonly written in all uppercase in order to distinguish them from the ordinary uses of the words.
+====Synonyms====
+* {{l|en|XAND}}
+* {{l|en|XNOR gate}}
+* {{l|en|exclusive NOR}}
+====Antonyms====
+* {{l|en|XOR}}
+* {{l|en|XNAND}}
+====Related terms====
+* {{l|en|NOR}}
+* {{l|en|OR}}
+===Anagrams===
+* {{anagrams|en|a=norx|xorn}}</text>
+<sha1>ft7m2efulix9bkq0s3mvesotr4yq3o7</sha1>
+</revision>
+</page>

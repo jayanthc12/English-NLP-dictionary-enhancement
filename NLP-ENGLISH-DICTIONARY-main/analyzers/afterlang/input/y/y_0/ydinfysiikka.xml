@@ -1,0 +1,31 @@
+<page>
+<title>ydinfysiikka</title>
+<ns>0</ns>
+<id>748448</id>
+<revision>
+<id>58642113</id>
+<parentid>54765902</parentid>
+<timestamp>2020-02-05T15:33:19Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="283" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|ydin|fysiikka}}
+===Pronunciation===
+{{fi-pronunciation|ydin-fysiikka}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear physics]]
+====Declension====
+{{fi-decl-solakka|n=sg|ydinfysii|kk|k|a}}
+[[Category:fi:Nuclear physics]]</text>
+<sha1>2equequw7ivmoag10irqn0co2y21uq6</sha1>
+</revision>
+</page>

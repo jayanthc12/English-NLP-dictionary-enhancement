@@ -1,0 +1,27 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-10-6 18:54:12
+# MODIFIED:
+###############################################
+
+@PATH _ROOT  _LINE
+
+@POST
+S("header") = N("$text",2);
+X("header") = N("$text",2);
+S("lang") = N("lang",2);
+S("pofs") = N("pofs",2);
+X("up") = 1;
+X("level") = strlength(N("$text",1));
+"header.txt" << N("$text",2) << "\n";
+single();
+
+@RULES
+_header <-
+	_xWILD [min=2 match=(\=)]	### (1)
+	_xWILD [plus fail=(\=)]		### (2)
+	_xWILD [min=2 match=(\=)]	### (3)
+	@@
+

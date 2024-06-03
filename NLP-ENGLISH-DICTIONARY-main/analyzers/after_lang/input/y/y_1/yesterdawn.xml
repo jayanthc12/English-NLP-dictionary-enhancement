@@ -1,0 +1,34 @@
+<page>
+<title>yesterdawn</title>
+<ns>0</ns>
+<id>7156865</id>
+<revision>
+<id>61121840</id>
+<parentid>54377299</parentid>
+<timestamp>2020-11-14T09:51:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1547" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|yester|dawn}}
+===Noun===
+{{en-noun}}
+# The [[dawn]] of [[yesterday]].
+#* {{quote-book|en |year=1904 |title=Religious Telescope - Volume 70 |author=|page=1226|ISBN=|passage=They come to me from the years agone, Like echoes from far away :Like sunbeams that faded at '''yesterdawn''', Like the glory of yesterday. }}
+#* {{quote-book|en |year=1991 |title=Africa World Review |author=|page=32|ISBN=|passage=Who split the kola of words In the silence of '''yesterdawns'''?}}
+#* {{quote-book|en |year=2000 |title=Morgante: The Epic Adventures of Orlando and His Giant Friend Morgante|author=Luigi Pulci, Edoardo Lèbano |page=|ISBN=0253214076|passage=We've fasted when no fasting was prescribed, having been on our way since '''yesterdawn'''.&quot;}}
+#* {{quote-book|en |year=2006 |title=Shadows Of Prophecy |author=Rachel Lee |page=310|ISBN=1552543994|passage=“We fought well yesterday,” he said. “The enemy will be much weaker at dawn than he was yesterday. But there is much hard fighting left to do.” “Yes, Lord,” Jenah said. “And we, too, are weaker than we were at '''yesterdawn'''.&quot;}}
+===Adverb===
+{{en-adv}}
+# At dawn on yesterday.
+#* {{quote-book|en |year=1905 |title=Caroline of Courtlandt Street |author=Weymer Jay Mills |page=214|ISBN=|passage=But, now I know you love the lass, I'll say I saw her '''yesterdawn''' as blooming as her name.}}
+#* {{quote-book|en |year=1968 |title=Cophetua |author=John Drinkwater |page=83|ISBN=|passage=But '''yesterdawn''' the old joy came back to me. }}</text>
+<sha1>j5eyyl0irqrmcl80pg2hlivt2021r0c</sha1>
+</revision>
+</page>

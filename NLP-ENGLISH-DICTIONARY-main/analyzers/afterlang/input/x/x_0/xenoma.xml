@@ -1,0 +1,41 @@
+<page>
+<title>xenoma</title>
+<ns>0</ns>
+<id>1611614</id>
+<revision>
+<id>51978878</id>
+<parentid>45066720</parentid>
+<timestamp>2019-03-17T23:40:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="534" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|oma}}
+===Noun===
+{{en-noun}}
+# A [[growth]] caused by various [[protist]]s and [[fungi]], most notably [[microsporidia]].
+----
+==Asturian==
+===Noun===
+{{ast-noun|m|xenomes}}
+# {{lb|ast|genetics}} {{l|en|genome}} {{gloss|complete genetic information of an organism}}
+----
+==Galician==
+===Noun===
+{{gl-noun|m}}
+# [[genome]]
+====Related terms====
+* {{l|gl|xene}}
+* {{l|gl|xenética}}
+* {{l|gl|xenético}}
+[[Category:Galician nouns with irregular gender]]
+[[Category:gl:Genetics]]</text>
+<sha1>5wd7wgn2ra9v2hq7l0jlkd70sfmhawx</sha1>
+</revision>
+</page>

@@ -1,0 +1,65 @@
+<page>
+<title>Xanthi</title>
+<ns>0</ns>
+<id>4224300</id>
+<revision>
+<id>67299008</id>
+<parentid>66994999</parentid>
+<timestamp>2022-06-06T12:30:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|el}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1282" xml:space="preserve">{{also|xanthi}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|el|Ξάνθη}}.
+===Proper noun===
+{{en-prop}}
+# A city in [[Thrace]], northeastern [[Greece]].
+====Translations====
+{{trans-top|city in Greece}}
+* Albanian: {{t|sq|Ksanthi}}
+* Armenian: {{t|hy|Քսանթի}}
+* Basque: {{t|eu|Xanti}}
+* Bulgarian: {{t|bg|Ксанти}}, {{t|bg|Скеча}}
+* Chinese:
+*: Mandarin: {{t|cmn|克桑西|tr=Kèsāngxī}}
+* Finnish: {{t|fi|Xánthi}}
+* French: {{t|fr|Xánthi}}
+* German: {{t+|de|Xanthi|n}}
+* Greek: {{t+|el|Ξάνθη|f}}
+* Japanese: {{t|ja|クサンティ|tr=Kusanti}}
+* Korean: {{t|ko|크산티}}
+* Latin: {{t|la|Xanthe}}
+{{trans-mid}}
+* Lithuanian: {{t|lt|Ksantė|f}}
+* Macedonian: {{t|mk|Ксанти}}, {{t|mk|Скеча}}
+* Oriya: {{t|or|Ксанти}}
+* Polish: {{t|pl|Ksanti}}
+* Portuguese: {{t|pt|Xanti}}
+* Russian: {{t|ru|Кса́нти}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Ксанти}}
+*: Roman: {{t+|sh|Ksanti}}
+* Spanish: {{t|es|Xánthi}}
+* Swedish: {{t|sv|Xánthi}}
+* Turkish: {{t+|tr|İskeçe}}
+* Ukrainian: {{t|uk|Ксанті}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=ahintx|xanith}}
+[[Category:en:Cities in Greece]]
+----
+==Latin==
+===Proper noun===
+{{la-proper noun-form|Xanthī}}
+# {{inflection of|la|Xanthus||gen//loc|s}}</text>
+<sha1>mne6els04udobni0u0ojkpugvvxsl1u</sha1>
+</revision>
+</page>

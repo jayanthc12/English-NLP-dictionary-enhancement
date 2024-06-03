@@ -1,0 +1,31 @@
+<page>
+<title>xaser</title>
+<ns>0</ns>
+<id>7234652</id>
+<revision>
+<id>66057063</id>
+<parentid>53457749</parentid>
+<timestamp>2022-03-03T15:28:23Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="535" xml:space="preserve">==English==
+===Etymology===
+{{blend|en|X-ray|laser}}
+===Noun===
+{{en-noun}}
+# {{lb|en|science fiction}} An [[X-ray]] [[laser]].
+#* '''1970''', Henry Lipson, ''Crystals and X-rays'' (page 190)
+#*: If we could produce a ''''Xaser'''', could we also produce an image of a crystal structure?
+#* '''1978''', ''Laser Focus'' (volume 14, issues 7-12, page 57)
+#*: Perhaps some day there will be an x-ray system — a '''xaser''' — although it will probably self-destruct on each operation.
+===Anagrams===
+* {{anagrams|en|a=aersx|raxes}}</text>
+<sha1>1yjs8zf0ohyckbzr99yow78440099lg</sha1>
+</revision>
+</page>

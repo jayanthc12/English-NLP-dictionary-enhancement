@@ -1,0 +1,47 @@
+<page>
+<title>xenium</title>
+<ns>0</ns>
+<id>38555</id>
+<revision>
+<id>68766344</id>
+<parentid>58932696</parentid>
+<timestamp>2022-08-27T02:56:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="848" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|la|xenium}}.
+===Noun===
+{{en-noun|xenia}}
+# A [[gift]] or [[offering]].
+#* '''1872''', Mackenzie Edward C. Walcott, ''Traditions and customs of cathedrals'' (page 136)
+#*: At Rochester the Bishop received a '''xenium''' or pension on St. Andrew's Day from the convent.
+## {{lb|en|historical|Ancient Greece|Rome}} A gift given to guests or foreign ambassadors, often of food.
+====Related terms====
+* {{l|en|xenial}}
+----
+==Latin==
+===Etymology===
+From {{der|la|grc|ξένιον||sc=polytonic}}.
+===Pronunciation===
+* {{la-IPA|xenium}}
+===Noun===
+{{la-noun|xenium&lt;2&gt;}}
+# a [[present]], [[gift]], especially one for a [[host]] or vice-versa.
+====Declension====
+{{la-ndecl|xenium&lt;2&gt;}}
+====Derived terms====
+* {{l|la|xeniolum}}
+===References===
+* {{R:L&amp;S}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}</text>
+<sha1>n0duutbbt0d26g097c1ylw6xyefjz8m</sha1>
+</revision>
+</page>

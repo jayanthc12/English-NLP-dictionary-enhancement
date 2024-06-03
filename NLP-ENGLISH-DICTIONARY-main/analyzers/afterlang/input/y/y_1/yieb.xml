@@ -1,0 +1,28 @@
+<page>
+<title>yieb</title>
+<ns>0</ns>
+<id>7280871</id>
+<revision>
+<id>53655217</id>
+<parentid>53655214</parentid>
+<timestamp>2019-07-14T01:22:21Z</timestamp>
+<contributor>
+<username>Justinrleung</username>
+<id>1298227</id>
+</contributor>
+<comment>/* Zhuang */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="224" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{bor|za|zh|-}} {{ltc-l|頁|tr=jiᴇp̚}}.
+===Pronunciation===
+* {{za-pron}}
+===Classifier===
+{{za-head|classifier}}
+# [[page]] {{gl|of a book}}
+====Derived terms====
+* {{l|za|yiebdaeuz}}</text>
+<sha1>3pbs2wr2dnvwqwa0s8qu7kx9f7jb96s</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yelpings</title>
+<ns>0</ns>
+<id>4359570</id>
+<revision>
+<id>56344906</id>
+<parentid>53093050</parentid>
+<timestamp>2019-10-17T13:53:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yelping}}</text>
+<sha1>jfp4amchmtef9t6j1930kda0204bcca</sha1>
+</revision>
+</page>

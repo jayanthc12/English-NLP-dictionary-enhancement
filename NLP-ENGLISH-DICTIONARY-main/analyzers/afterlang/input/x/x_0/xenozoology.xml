@@ -1,0 +1,37 @@
+<page>
+<title>xenozoology</title>
+<ns>0</ns>
+<id>4708678</id>
+<revision>
+<id>59564799</id>
+<parentid>51811687</parentid>
+<timestamp>2020-06-19T11:47:52Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="543" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|zoology}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|scifi}} The branch of [[xenology]] dealing with [[extraterrestrial]] [[animals]].
+====Synonyms====
+* {{l|en|astrozoology}}
+* {{l|en|exozoology}}
+====Translations====
+{{trans-top|xenology dealing with extraterrestrial cultures}}
+* German: {{t|de|Xenozoologie|f}}
+* Latin: {{t|la|xenozoologia}}
+* Lithuanian: {{t|lt|xenozoologija|f}}
+{{trans-mid}}
+* Romanian: {{t|ro|xenozoologie}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|ksenozoologija}}
+{{trans-bottom}}</text>
+<sha1>ng6ireb4ib98xp9swo896n6ulkkvqji</sha1>
+</revision>
+</page>

@@ -1,0 +1,81 @@
+<page>
+<title>yachtsman</title>
+<ns>0</ns>
+<id>85244</id>
+<revision>
+<id>69423277</id>
+<parentid>67257899</parentid>
+<timestamp>2022-10-02T21:35:31Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Moved Anagrams to the bottom, per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3050" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|yachtman||dated}}
+===Etymology===
+From {{af|en|yacht|-s-|-man}}.
+===Noun===
+{{en-noun|yachtsmen}}
+# A [[man]] who [[sail]]s a [[yacht]].
+#* '''1840''', {{w|William Makepeace Thackeray}}, ''The Irish Sketch Book'' published together with ''The Paris Sketch Book of Mr. M. A. Titmarsh'' and ''Notes of a Journey from Cornhill to Grand Cairo'', New York: Caxton, Chapter 10, p. 379,&lt;sup&gt;[https://catalog.hathitrust.org/Record/000120733]&lt;/sup&gt;
+#*: {{...}} and so ended, not without a sigh on my part, one of the merriest six-hour rides that five '''yachtsmen''', one cockney, five women and a child, the carman, and a countryman with an alpeen, ever took in their lives.
+#* '''1913''', {{w|Joseph Conrad}}, ''{{w|Chance (Conrad novel)|Chance}}'', London: Methuen, 1914, Part 1, Chapter One, p. 3,&lt;sup&gt;[https://archive.org/details/chancetaleintwop00conruoft]&lt;/sup&gt;
+#*: We knew him already by sight as the owner of a little five-ton cutter, which he sailed alone apparently, a fellow '''yachtsman''' in the unpretending band of fanatics who cruise at the mouth of the Thames. But the first time he addressed the waiter sharply as ‘steward’ we knew him at once for a sailor as well as a '''yachtsman'''.
+#* '''1963''', {{w|Aldous Huxley}}, ''{{w|Island (Huxley novel)|Island}}'', New York: Bantam, Chapter 1, p. 6,&lt;sup&gt;[https://archive.org/details/island00huxlrich]&lt;/sup&gt;
+#*: {{...}} needless to say, the thing that all the cautious and experienced '''yachtsmen''' had warned him against happened. The black squall out of nowhere, the sudden, senseless frenzy of wind and rain and waves…
+====Hypernyms====
+* {{l|en|yachtist}}
+* {{l|en|yachtsperson}}
+====Derived terms====
+* {{l|en|yachtsmanlike}}
+* {{l|en|yachtsmanship}}
+====Related terms====
+{{col4|en
+|yachtswoman
+|yachtsperson
+}}
+====Translations====
+{{trans-top|man who sails a yacht}}
+* Chinese:
+*: Mandarin: {{t|cmn|帆船運動員}}, {{t|cmn|帆船运动员}} {{qualifier|sportsman}}, {{t|cmn|遊艇主}}, {{t|cmn|游艇主|tr=yóutǐngzhǔ}} {{qualifier|owner}}
+* Danish: {{t+|da|sejler|c}}, {{t|da|lystsejler|c}}
+* Dutch: {{t+|nl|zeiler|m}}
+* Finnish: {{t+|fi|purjehtija}}
+* French: {{t+|fr|yachtsman|m}}, {{t+|fr|yachtman|m}}
+* German: {{t+|de|Segler|m}}
+{{trans-mid}}
+* Irish: {{t|ga|luamhaire|m}}
+* Italian: {{t+|it|velista|m|f}}, {{t|it|diportista|m|f}}
+* Japanese: {{t|ja|ヨット乗り|tr=yotto-nori}}
+* Manx: {{t|gv|birlingagh|m}}, {{t|gv|shiaulteyr birling|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|seiler|m}}, {{t|nb|segler|m}}
+* Russian: {{t+|ru|яхтсме́н|m}}
+{{trans-bottom}}
+[[Category:English nouns with irregular plurals]]
+[[Category:en:Nautical]]
+[[Category:en:People]]
+----
+==French==
+===Alternative forms===
+* {{alt|fr|yachtman}}
+===Etymology===
+Borrowed from {{bor|fr|en|yachtsman}}.
+===Pronunciation===
+* {{fr-IPA|yotsmane}}
+===Noun===
+{{fr-noun|m|+|yachtsmen|f=yachtswoman}}
+# {{l|en|yachtsman}}
+===Further reading===
+* {{R:TLFi}}
+===Anagrams===
+* {{anagrams|fr|a=aachmnsty|yachtmans}}
+{{C|fr|People}}</text>
+<sha1>n49aeqbcmpih5n3yl9im7hcti6dag62</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yambuli</title>
+<ns>0</ns>
+<id>343235</id>
+<revision>
+<id>65354267</id>
+<parentid>55401971</parentid>
+<timestamp>2022-01-16T09:44:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Gamilaraay: correct indentation of section 3 (Synonyms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="474" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/jambuli/}} (''reconstructed'')
+===Noun===
+{{head|kld|nouns}}
+# [[old woman]]
+#* '''1903''', R. H. Mathews, ''Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales'', in ''The Journal of the Anthropological Institute of Great Britain and Ireland'', volume 33:
+#*: Old woman .... .... | '''''yambolinya'''''
+====Synonyms====
+* {{l|kld|yambi}}
+===References===
+* {{R:kld:Austin}}
+[[Category:kld:People]]</text>
+<sha1>k74mmhtlr5rpypj9yf03o36gtiy6pj7</sha1>
+</revision>
+</page>

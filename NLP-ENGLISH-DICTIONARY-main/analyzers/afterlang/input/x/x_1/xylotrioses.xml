@@ -1,0 +1,23 @@
+<page>
+<title>xylotrioses</title>
+<ns>0</ns>
+<id>4934650</id>
+<revision>
+<id>55785486</id>
+<parentid>53092524</parentid>
+<timestamp>2019-10-16T02:41:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylotriose}}</text>
+<sha1>bzk4jvablbis883o9pd8v2047xn16te</sha1>
+</revision>
+</page>

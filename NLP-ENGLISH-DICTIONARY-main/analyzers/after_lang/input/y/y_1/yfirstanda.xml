@@ -1,0 +1,26 @@
+<page>
+<title>yfirstanda</title>
+<ns>0</ns>
+<id>1098117</id>
+<revision>
+<id>47119573</id>
+<parentid>47119571</parentid>
+<timestamp>2017-07-27T11:38:14Z</timestamp>
+<contributor>
+<ip>220.240.83.61</ip>
+</contributor>
+<comment>/* Conjugation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="397" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{m|is|standa yfir||to last, to be in progress}}.
+===Verb===
+{{is-verb-strong|yfirstóð|yfirstóðu|yfirstaðið}}
+# to be [[occurring]], to be [[go on|going on]]
+#: {{ux|is|Nú '''yfirstendur''' hátíð [[heilagur andi|heilags anda]].|The celebration of the [[Holy Spirit]] is '''going on''' now.}}
+====Conjugation====
+{{is-conj-s6|yfirst|a|nd|mp=-|pp=-}}</text>
+<sha1>a1wqb3iyq01n3raek4ztgz2jif30wsj</sha1>
+</revision>
+</page>

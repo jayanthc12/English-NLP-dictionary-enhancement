@@ -1,0 +1,24 @@
+<page>
+<title>Yaban</title>
+<ns>0</ns>
+<id>2266690</id>
+<revision>
+<id>54928166</id>
+<parentid>46383108</parentid>
+<timestamp>2019-10-09T11:12:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{given name}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">{{also|yaban}}
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}</text>
+<sha1>87r3p8vclxtgj3eh5l4w2ill1ondnan</sha1>
+</revision>
+</page>

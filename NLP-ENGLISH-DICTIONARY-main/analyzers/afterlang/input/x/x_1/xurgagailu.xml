@@ -1,0 +1,33 @@
+<page>
+<title>xurgagailu</title>
+<ns>0</ns>
+<id>4174082</id>
+<revision>
+<id>64964287</id>
+<parentid>63506998</parentid>
+<timestamp>2021-12-15T13:43:50Z</timestamp>
+<contributor>
+<username>Santi2222</username>
+<id>2319339</id>
+</contributor>
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">==Basque==
+===Etymology===
+{{compound|eu|xurgatu|gailu|t1=absorb|t2=device}}
+===Pronunciation===
+{{eu-IPA}}
+===Noun===
+{{eu-noun|in}}
+# [[vacuum cleaner]]
+====Declension====
+{{eu-decl-inanim}}
+===Further reading===
+* {{R:EH}}
+* {{R:OEH}}
+[[Category:eu:Hygiene]]
+[[Category:eu:Machines]]</text>
+<sha1>ks4dn9ddc7r2hnn1ncfm4e6v2nr7skj</sha1>
+</revision>
+</page>

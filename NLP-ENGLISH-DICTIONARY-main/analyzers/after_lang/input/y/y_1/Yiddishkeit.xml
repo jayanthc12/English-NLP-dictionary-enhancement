@@ -1,0 +1,42 @@
+<page>
+<title>Yiddishkeit</title>
+<ns>0</ns>
+<id>4109788</id>
+<revision>
+<id>68819131</id>
+<parentid>67298780</parentid>
+<timestamp>2022-08-27T21:09:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1856" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alter|en|yidishkayt|yidishkeyt}}
+===Etymology===
+From {{uder|en|yi|ייִדישקייט}}.
+===Noun===
+{{en-noun|-}}
+# [[Jewishness]]; the [[Jewish]] way of life, particularly [[Ashkenazi]] and [[Yiddish]] culture.
+#* '''1892''', {{w|Israel Zangwill}}, ''The Grandchildren of the Ghetto'', London: J.M. Dent, Chapter 12, p. 175,&lt;sup&gt;[https://archive.org/details/grandchildrenofg00zanguoft]&lt;/sup&gt;
+#*: Wait! my Ezekiel will be ''Bar-mitzvah'' in a few years; then you shall see what I will do for that ''Shool''. You shall see what an example of '''''Yiddishkeit''''' I will give to a ''link'' generation.
+#* '''1969''', ''{{w|Chaim Potok}}'', ''{{w|The Promise (Potok novel)|The Promise}}'', New York: Anchor Books, 2005, Chapter Six,
+#*: “In America, everything is called '''Yiddishkeit''',” Rav Kalman said. “A Jew travels to synagogue on Shabbos in his car, that is called '''Yiddishkeit'''. A Jew eats ham but gives money to philanthropy, that is called '''Yiddishkeit'''. A Jew prays three times a year but is a member of a synagogue, that is called '''Yiddishkeit'''. Judaism”—he pronounced the word in English, contemptuously: Joo-dah-eeism—“everything in America calls itself Judaism.”
+#* '''2000''', {{w|Curt Leviant}} (translator), “The ''Shochet''’s Wife” in ''More Stories from My Father’s Court'' by {{w|Isaac Bashevis Singer}} (1956), New York: Farrar, Straus and Giroux, p. 17,&lt;sup&gt;[https://archive.org/details/morestoriesfromm00sing]&lt;/sup&gt;
+#*: He wants a loose girl, a bareheaded piece who doesn’t keep '''Yiddishkeit'''.
+====Translations====
+{{trans-top}}
+* German: {{t+|de|Jüdischkeit|f}}
+{{trans-mid}}
+* Hebrew: {{t|he|יִידִישְׁקַיְיט |m|tr=yidishkayt}}
+* Yiddish: {{t|yi|ייִדישקייט|f}}
+{{trans-bottom}}
+[[Category:en:Judaism]]</text>
+<sha1>bysemce01ncm2weliljqr81f5a496dg</sha1>
+</revision>
+</page>

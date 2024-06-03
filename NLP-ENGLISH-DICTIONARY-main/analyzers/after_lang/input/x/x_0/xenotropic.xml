@@ -1,0 +1,28 @@
+<page>
+<title>xenotropic</title>
+<ns>0</ns>
+<id>2184669</id>
+<revision>
+<id>66367779</id>
+<parentid>54388503</parentid>
+<timestamp>2022-04-06T22:12:49Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="754" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|-tropic}}
+===Pronunciation===
+* {{rhymes|en|ɒpɪk|s=4}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|biology}} Describing a [[virus]] growing in tissue of an organism other than its normal [[host]]
+#* {{quote-journal|en|date=October 9, 2009|author=Denise Grady|title=Virus Is Found in Many With Chronic Fatigue Syndrome|work=New York Times|url=http://www.nytimes.com/2009/10/09/health/research/09virus.html
+|passage=An article published online Thursday in the journal Science reports that 68 of 101 patients with the syndrome, or 67 percent, were infected with an infectious virus, '''xenotropic''' murine leukemia virus-related virus, or XMRV. By contrast, only 3.7 percent of 218 healthy people were infected.}}</text>
+<sha1>qdj0yt6ccvj88c238udvtgtvs3dlrrc</sha1>
+</revision>
+</page>

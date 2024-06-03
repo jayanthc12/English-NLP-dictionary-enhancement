@@ -1,0 +1,23 @@
+<page>
+<title>xones</title>
+<ns>0</ns>
+<id>4695578</id>
+<revision>
+<id>55703914</id>
+<parentid>32243476</parentid>
+<timestamp>2019-10-15T13:02:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="70" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xona}}</text>
+<sha1>q1yrazscvvukg4m0ez1fi3bimap7jbi</sha1>
+</revision>
+</page>

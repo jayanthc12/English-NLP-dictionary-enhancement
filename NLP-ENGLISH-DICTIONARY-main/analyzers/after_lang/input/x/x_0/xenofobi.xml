@@ -1,0 +1,54 @@
+<page>
+<title>xenofobi</title>
+<ns>0</ns>
+<id>600045</id>
+<revision>
+<id>68561692</id>
+<parentid>67939017</parentid>
+<timestamp>2022-08-08T06:29:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up broken Italian adjective form headwords (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="792" xml:space="preserve">==Italian==
+===Adjective===
+{{head|it|adjective form|g=m-p}}
+# {{adj form of|it|xenofobo||m|p}}
+===Noun===
+{{head|it|noun form|g=m-p}}
+# {{masculine plural of|it|xenofobo}}
+----
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+===Noun===
+{{head|nb|noun|g=m|definite singular|xenofobien}} {{lb|nb|uncountable}}
+# [[xenophobia]]
+----
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+===Noun===
+{{head|nn|noun|g=m|definite singular|xenofobien}} {{lb|nn|uncountable}}
+# [[xenophobia]]
+----
+==Swedish==
+===Noun===
+{{sv-noun|c}}
+# [[xenophobia]]
+====Declension====
+{{sv-noun-unc-irreg-c}}
+====Synonyms====
+* {{l|sv|främlingsfientlighet}}
+====Related terms====
+* {{l|sv|xenofob}}
+* {{l|sv|xenofobisk}}
+===References===
+* {{R:svenska.se|saol}}
+* {{R:svenska.se|so}}
+* {{R:svenska.se|saob}}</text>
+<sha1>91uzua9vwp0smq76do4bsmebkmvqd9f</sha1>
+</revision>
+</page>

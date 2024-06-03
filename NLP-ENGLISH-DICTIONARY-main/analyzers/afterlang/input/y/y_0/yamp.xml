@@ -1,0 +1,29 @@
+<page>
+<title>yamp</title>
+<ns>0</ns>
+<id>3400503</id>
+<revision>
+<id>67295843</id>
+<parentid>65661423</parentid>
+<timestamp>2022-06-06T11:36:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|shh}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="384" xml:space="preserve">==English==
+===Etymology===
+Probably related to {{m|en|yampah}}, from {{uder|en|shh|-}}.
+===Noun===
+{{en-noun|-}}
+# An [[umbelliferous]] [[plant]], {{taxlink|Perideridia gairdneri|species|noshow=1}}, native to [[California]], whose tubers were used as food by Native Americans.
+===See also===
+* {{l|en|yampah}}
+[[Category:en:Celery family plants]]
+[[Category:en:Root vegetables]]</text>
+<sha1>a0a1whnv8tm6tztoog0ciol1bmp3f2m</sha1>
+</revision>
+</page>

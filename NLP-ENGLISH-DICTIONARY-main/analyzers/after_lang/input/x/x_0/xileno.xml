@@ -1,0 +1,44 @@
+<page>
+<title>xileno</title>
+<ns>0</ns>
+<id>1589471</id>
+<revision>
+<id>69114409</id>
+<parentid>68880475</parentid>
+<timestamp>2022-09-04T16:54:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="589" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{af|pt|xilo-|alt1=xil(o)-|-eno}} (compare {{cog|fr|xylène}}).
+===Pronunciation===
+{{pt-IPA|xilêno}}
+* {{homophones|pt|chileno}}
+* {{hyph|pt|xi|le|no}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|organic compound}} [[xylene]] {{gloss|di-methyl-benzene}}
+===Further reading===
+* {{R:pt:Aulete}}
+* {{R:pt:Dicionário informal}}
+* {{R:pt:DAN}}
+* {{R:pt:Infopédia}}
+* {{R:pt:Michaelis}}
+* {{R:pt:Priberam}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Etymology===
+From {{af|es|xilo-|-eno}}.
+===Noun===
+{{es-noun|m}}
+# {{lb|es|organic compound}} [[xylene]]</text>
+<sha1>ttuz2s4gg7igblfc2nvzl8pryz1z7os</sha1>
+</revision>
+</page>

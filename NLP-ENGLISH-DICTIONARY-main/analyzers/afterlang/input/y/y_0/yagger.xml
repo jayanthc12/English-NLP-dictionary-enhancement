@@ -1,0 +1,28 @@
+<page>
+<title>yagger</title>
+<ns>0</ns>
+<id>5961869</id>
+<revision>
+<id>51668093</id>
+<parentid>41717659</parentid>
+<timestamp>2019-03-03T20:05:55Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>===Etymology 2=== {{der|en|nl|jager||huntsman}}  ====Noun==== {{en-noun}}  # {{lb|en|Scotland|archaic}} A [[peddler]] or [[vagrant]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==English==
+===Etymology 1===
+====Noun====
+{{en-noun}}
+# {{lb|en|obsolete}} A [[fishing boat]] used to catch [[herring]].
+===Etymology 2===
+{{der|en|nl|jager||huntsman}}
+====Noun====
+{{en-noun}}
+# {{lb|en|Scotland|archaic}} A [[peddler]] or [[vagrant]].</text>
+<sha1>72721h1ihptgn1u2fchj132mkkq299w</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>ydinosaaminen</title>
+<ns>0</ns>
+<id>1517714</id>
+<revision>
+<id>58593342</id>
+<parentid>54712300</parentid>
+<timestamp>2020-01-30T12:09:32Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|ydin|osaaminen}}
+===Pronunciation===
+{{fi-pronunciation|ydin-osaaminen}}
+===Noun===
+{{fi-noun}}
+# [[core competence]]
+====Declension====
+{{fi-decl-nainen|ydinosaami|a}}
+[[Category:Finnish buzzwords]]</text>
+<sha1>70svpqkuq1ka80vym7bfm1vafel372k</sha1>
+</revision>
+</page>

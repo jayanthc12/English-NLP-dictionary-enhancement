@@ -1,0 +1,21 @@
+<page>
+<title>xisclareu</title>
+<ns>0</ns>
+<id>7091333</id>
+<revision>
+<id>51376521</id>
+<timestamp>2019-01-29T04:07:57Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=pl|t=futr|m=ind|xisclar}}</text>
+<sha1>e3emj9bcctltrgzb6qspwjf0kjixuhx</sha1>
+</revision>
+</page>

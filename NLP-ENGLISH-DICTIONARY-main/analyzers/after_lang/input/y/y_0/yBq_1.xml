@@ -1,0 +1,24 @@
+<page>
+<title>yBq</title>
+<ns>0</ns>
+<id>935934</id>
+<revision>
+<id>46193277</id>
+<parentid>45865690</parentid>
+<timestamp>2017-06-13T17:56:34Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Applying [[WT:NORM|NORMs]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="111" xml:space="preserve">{{also|YBq}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{SI-unit-abb|yocto|becquerel|[[radioactivity]]}}</text>
+<sha1>nio014demwjqa2ztw5g2on36s6cv4rf</sha1>
+</revision>
+</page>

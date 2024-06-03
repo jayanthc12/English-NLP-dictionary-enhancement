@@ -1,0 +1,40 @@
+<page>
+<title>xoguete</title>
+<ns>0</ns>
+<id>4068261</id>
+<revision>
+<id>68864587</id>
+<parentid>68863800</parentid>
+<timestamp>2022-08-28T05:29:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="504" xml:space="preserve">==Galician==
+{{wikipedia|lang=gl}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|joguete}} (13th century), a diminutive of {{m|gl|xogo|t=game}}: {{suffix|gl|xogo|-ete}}.
+===Pronunciation===
+* {{IPA|gl|[ʃoˈɣetɪ]}}
+===Noun===
+{{gl-noun|m}}
+# [[toy]]
+#: {{syn|gl|enredo|lilelo}}
+# [[jest]]
+#: {{syn|gl|brinqueta|chufa}}
+====Related terms====
+* {{l|gl|xogar}}
+===References===
+* {{R:gl:DDGM|joguete}}
+* {{R:gl:CX|jogete}}
+* {{R:gl:CX|joguete}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>qed1av0d5b8osy09to5vy0jsehbx2cn</sha1>
+</revision>
+</page>

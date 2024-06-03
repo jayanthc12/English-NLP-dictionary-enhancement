@@ -1,0 +1,37 @@
+<page>
+<title>xeneize</title>
+<ns>0</ns>
+<id>4151835</id>
+<revision>
+<id>69591543</id>
+<parentid>69144335</parentid>
+<timestamp>2022-10-25T10:38:08Z</timestamp>
+<contributor>
+<ip>81.185.169.119</ip>
+</contributor>
+<comment>/* Noun */Boca Juniors is Argentinian Football club, not Brazil</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="672" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{bor|pt|es|xeneize}}, from {{der|pt|lij|zenéize}}. {{doublet|pt|genovês}}.
+===Adjective===
+{{pt-adj|hascomp=no}}
+# {{lb|pt|Brazil|soccer}} of or relating to the Argentinian sports team {{w|Boca Juniors}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Argentina|soccer}} a member or supporter of Boca Juniors
+----
+==Spanish==
+===Etymology===
+Derived from the {{der|es|lij|[[zeneize]]||Genoese}}. {{doublet|es|genovés}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|mf}}
+# {{lb|es|soccer}} a fan, player, or someone involved with {{w|Boca Juniors}}, a team from [[Buenos Aires]]
+====Alternative forms====
+* {{alter|es|xeneixe}}</text>
+<sha1>lqk1bpy9pkf7osqdxm059a8pwf8foiz</sha1>
+</revision>
+</page>

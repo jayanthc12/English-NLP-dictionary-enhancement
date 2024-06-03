@@ -1,0 +1,30 @@
+<page>
+<title>xeranticus</title>
+<ns>0</ns>
+<id>4151211</id>
+<revision>
+<id>53730850</id>
+<parentid>53676206</parentid>
+<timestamp>2019-07-21T22:03:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-adj-1&amp;2}} to {{la-adj}} with new params</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="200" xml:space="preserve">==Latin==
+===Pronunciation===
+* {{la-IPA|xēranticus}}
+===Adjective===
+{{la-adj|xēranticus}}
+# [[drying]]
+====Declension====
+{{la-adecl|xēranticus}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>c2u4zh8qxoas2c4mfyabyhsdgt53src</sha1>
+</revision>
+</page>

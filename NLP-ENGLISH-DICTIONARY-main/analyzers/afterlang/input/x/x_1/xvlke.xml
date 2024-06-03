@@ -1,0 +1,26 @@
+<page>
+<title>xvlke</title>
+<ns>0</ns>
+<id>1474978</id>
+<revision>
+<id>63426990</id>
+<parentid>44984398</parentid>
+<timestamp>2021-07-26T03:20:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[leather]]
+# {{lb|arn|anatomy}} Animal [[skin]].
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>qgtzqeeij0sszrmtsz7zg7dy01z04nn</sha1>
+</revision>
+</page>

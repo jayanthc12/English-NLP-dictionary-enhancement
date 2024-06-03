@@ -1,0 +1,23 @@
+<page>
+<title>xiphosurans</title>
+<ns>0</ns>
+<id>1582125</id>
+<revision>
+<id>55677340</id>
+<parentid>53092393</parentid>
+<timestamp>2019-10-15T11:55:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xiphosuran}}</text>
+<sha1>3220dzzjnmn4aovc3xcq4cun96ibf1o</sha1>
+</revision>
+</page>

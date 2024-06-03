@@ -1,0 +1,26 @@
+<page>
+<title>yhdysvaltalaiset</title>
+<ns>0</ns>
+<id>1015696</id>
+<revision>
+<id>53353263</id>
+<parentid>49429041</parentid>
+<timestamp>2019-06-19T11:43:31Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert |pl=plural to |case=nominative|pl=plural</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="211" xml:space="preserve">==Finnish==
+===Adjective===
+{{head|fi|adjective form}}
+# {{fi-form of|case=nominative|pl=plural|yhdysvaltalainen}}
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|yhdysvaltalainen|case=nominative|pl=plural}}</text>
+<sha1>hxd0unt8bhxlt35aofipohlkeknn2ok</sha1>
+</revision>
+</page>

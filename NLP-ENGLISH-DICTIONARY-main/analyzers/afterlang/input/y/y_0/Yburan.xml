@@ -1,0 +1,25 @@
+<page>
+<title>Yburan</title>
+<ns>0</ns>
+<id>6495664</id>
+<revision>
+<id>68740174</id>
+<parentid>67833008</parentid>
+<timestamp>2022-08-26T07:49:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{surname|ceb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|y|bu|ran}}
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb}}</text>
+<sha1>d5wi8w6t8mmvegq3zwnt146dxalx09z</sha1>
+</revision>
+</page>

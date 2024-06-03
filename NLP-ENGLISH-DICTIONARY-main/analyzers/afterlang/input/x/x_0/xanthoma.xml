@@ -1,0 +1,35 @@
+<page>
+<title>xanthoma</title>
+<ns>0</ns>
+<id>1077602</id>
+<revision>
+<id>68867903</id>
+<parentid>68787472</parentid>
+<timestamp>2022-08-28T05:52:34Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="503" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xanth|oma}}.
+===Noun===
+{{wikipedia}}
+{{en-noun|s|xanthomata}}
+# {{lb|en|medicine}} A small, yellow [[nodule]], rich in [[cholesterol]] and other [[lipid]]s, that occurs in the [[skin]], often near a joint
+====Related terms====
+* {{l|en|xanthomatosis}}
+* {{l|en|xanthomyeloma}}
+====Translations====
+{{trans-top|small yellow nodule}}
+* Finnish: {{t|fi|ksantooma}}
+{{trans-mid}}
+* French: {{t+|fr|xanthome|m}}
+* Romanian: {{t+|ro|xantom}}
+{{trans-bottom}}</text>
+<sha1>11jr8oxhlnjotwcvgdocjqvsyky2piq</sha1>
+</revision>
+</page>

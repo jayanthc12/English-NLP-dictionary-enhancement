@@ -1,0 +1,29 @@
+<page>
+<title>xoka</title>
+<ns>0</ns>
+<id>6683761</id>
+<revision>
+<id>60481969</id>
+<parentid>58114878</parentid>
+<timestamp>2020-09-24T13:48:02Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Xhosa */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="174" xml:space="preserve">==Xhosa==
+===Verb===
+{{xh-verb|xôka}}
+# {{lb|xh|transitive}} to [[lie]]
+====Inflection====
+{{rfinfl|xh|verb}}
+----
+==Yámana==
+===Noun===
+{{head|yag|noun}}
+# [[cloud]]</text>
+<sha1>qt64x9qoijasm9mh2qe9iclk6927cz6</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xeromorph</title>
+<ns>0</ns>
+<id>252548</id>
+<revision>
+<id>66663979</id>
+<parentid>64460184</parentid>
+<timestamp>2022-05-10T08:07:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|-}} to new-format {{de-adj}}; convert {{de-decl-adj-notcomp|xeromorph}} to {{de-adecl}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="380" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xero|morph}}
+===Noun===
+{{en-noun}}
+# any plant, with [[xeromorphic]] leaves, that is adapted to a dry atmosphere; a [[xerophyte]]
+[[Category:en:Plants]]
+----
+==German==
+===Pronunciation===
+* {{audio|de|De-xeromorph.ogg|Audio}}
+* {{rhymes|de|ɔʁf|s=3}}
+===Adjective===
+{{de-adj}}
+# [[xeromorphic]]
+====Declension====
+{{de-adecl}}</text>
+<sha1>7vlaykecl3xq99kafvwpn5sni89e227</sha1>
+</revision>
+</page>

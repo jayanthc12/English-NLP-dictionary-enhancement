@@ -1,0 +1,28 @@
+<page>
+<title>xebatkar</title>
+<ns>0</ns>
+<id>3841144</id>
+<revision>
+<id>62506703</id>
+<parentid>60848752</parentid>
+<timestamp>2021-05-10T23:50:09Z</timestamp>
+<contributor>
+<username>Balyozxane</username>
+<id>3654675</id>
+</contributor>
+<comment>/* Declension */ bi [[wikt:ku:MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]ê re</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="180" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+{{suffix|kmr|xebat|kar}}
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|mf}}
+# [[worker]]
+====Declension====
+{{kmr-decl-noun|mf}}</text>
+<sha1>tnde6bobtxpfah22resv1d6pb0dw4zg</sha1>
+</revision>
+</page>

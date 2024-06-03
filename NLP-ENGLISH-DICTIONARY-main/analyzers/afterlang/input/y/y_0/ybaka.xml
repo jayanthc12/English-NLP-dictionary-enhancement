@@ -1,0 +1,27 @@
+<page>
+<title>ybaka</title>
+<ns>0</ns>
+<id>4163697</id>
+<revision>
+<id>56254299</id>
+<parentid>43454119</parentid>
+<timestamp>2019-10-17T10:19:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Old Tupi==
+===Pronunciation===
+* {{IPA|tpw|/ʔɨˈβ̞aka/}}
+===Noun===
+{{head|tpw|noun}}
+# the [[sky]]
+===References===
+* LEMOS BARBOSA, A. ''[http://biblio.etnolinguistica.org/barbosa-1956-curso Curso de Tupi antigo]''. Rio de Janeiro: Livraria São José, 1956.</text>
+<sha1>bu71kz7kkbt0g25w86eg3sy8lucboi6</sha1>
+</revision>
+</page>

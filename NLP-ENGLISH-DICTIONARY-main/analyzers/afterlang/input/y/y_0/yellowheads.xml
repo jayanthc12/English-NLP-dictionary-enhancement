@@ -1,0 +1,23 @@
+<page>
+<title>yellowheads</title>
+<ns>0</ns>
+<id>3848378</id>
+<revision>
+<id>56197776</id>
+<parentid>53093024</parentid>
+<timestamp>2019-10-17T08:04:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yellowhead}}</text>
+<sha1>ptzqv37os724t3wcm2u3puqsqndenfr</sha1>
+</revision>
+</page>

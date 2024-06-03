@@ -1,0 +1,31 @@
+<page>
+<title>xyste</title>
+<ns>0</ns>
+<id>3169506</id>
+<revision>
+<id>64049852</id>
+<parentid>63570589</parentid>
+<timestamp>2021-09-27T20:57:29Z</timestamp>
+<contributor>
+<ip>86.145.59.18</ip>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-xyste.wav|Audio}}
+===Noun===
+{{fr-noun|m}}
+# [[xyst]]; [[xystus]]
+===Further reading===
+* {{R:TLFi}}
+----
+==Latin==
+===Noun===
+{{la-noun-form|xyste}}
+# {{inflection of|la|xystus||voc|s}}</text>
+<sha1>6nwsct021ts58v20cplcflifhxq7000</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xiphopagous</title>
+<ns>0</ns>
+<id>4503471</id>
+<revision>
+<id>54393688</id>
+<parentid>52221030</parentid>
+<timestamp>2019-09-29T05:56:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}; move lang= to 1= in {{quote-journal}} (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1163" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|obsolete}} {{alt form|en|xiphopagus}}
+#* {{quote-journal|en|journal=The American Journal of the Medical Sciences|volume=68|passage=Operations upon '''Xiphopagous''' Twins|url=https://books.google.com/books?id=1wkCAAAAYAAJ&amp;dq=%22xiphopagous%22&amp;pg=PA371#v=snippet&amp;q=%22xiphopagous%22&amp;f=false|page=371|title=Historical and Analogical Record of the Siamese Twins|author=Robert P. Harris|date=October 1874}}
+#* {{quote-journal|en|journal=Saint Louis Medical and Surgical Journal|volume=64|page=305|passage='''Xiphopagous''' Twins aged three Years|url=https://books.google.com/books?id=-ZcCAAAAYAAJ&amp;dq=%22xiphopagous%22&amp;pg=PA306#v=onepage&amp;q=%22xiphopagous%22&amp;f=false|date=May 1893}}
+#* {{quote-journal|en|journal=British Medical Journal|page=1759|passage=In a work on the Psycho-Physiology of Human Monstrosities, recently published, Drs. N. Vaschide and Cl. Vurpas have embodied the results of a close study of two monsters, one amencephalic, the other '''xiphopagous'''.|url=https://books.google.com/books?id=7o5MAQAAMAAJ&amp;dq=%22xiphopagous%22&amp;pg=PA1760#v=onepage&amp;q=%22xiphopagous%22&amp;f=false|date=December 31 1904}}</text>
+<sha1>8o25lobnfzp12wnbn9prgu1e0tyh8yg</sha1>
+</revision>
+</page>

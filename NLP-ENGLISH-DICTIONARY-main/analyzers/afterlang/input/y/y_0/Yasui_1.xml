@@ -1,0 +1,33 @@
+<page>
+<title>Yasui</title>
+<ns>0</ns>
+<id>4584334</id>
+<revision>
+<id>67778687</id>
+<parentid>67756490</parentid>
+<timestamp>2022-07-09T18:32:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="652" xml:space="preserve">{{also|yasui}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|ja|安井}} or {{m|ja|安居|tr=Yasui}}.
+===Proper noun===
+{{en-proper noun|Yasuis}}
+# {{surname|en|from=Japanese}}.
+#* '''2012''', Karen Latchana Kenney, ''Korematsu v. the United States: World War II Japanese-American Internment Camps'', ABDO Publishing Company, [https://books.google.com/books?id=py5XRHB6YJwC&amp;pg=PA89&amp;dq=Minoru+Yasui#v=onepage&amp;q=Minoru%20Yasui&amp;f=false 89]:
+#*: Minoru '''Yasui''' was a trained army officer with a legal education who worked in the Japanese consular office.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やすい}}</text>
+<sha1>l607pekrsz39bbi2ln24ywnqu69jpat</sha1>
+</revision>
+</page>

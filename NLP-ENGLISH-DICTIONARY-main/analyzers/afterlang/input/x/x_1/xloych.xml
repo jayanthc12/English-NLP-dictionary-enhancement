@@ -1,0 +1,31 @@
+<page>
+<title>xloych</title>
+<ns>0</ns>
+<id>3579858</id>
+<revision>
+<id>56151284</id>
+<parentid>51992640</parentid>
+<timestamp>2019-10-17T05:59:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="681" xml:space="preserve">==Hunsrik==
+===Etymology===
+From {{inh|hrx|gmh|slūch|t=slough, skin shed by a snake}}. Cognate with {{cog|de|Schlauch}} and {{cog|en|slough}}.
+===Pronunciation===
+* {{IPA|hrx|/ʃlɔjx/}}
+===Noun===
+{{head|hrx|noun}}
+# [[hose]] (flexible tube for water)
+#* '''2008''', Ursula Wiesemann, ''Contribuição ao desenvolvimento de uma ortografia da língua Hunsrik falada na América do Sul'', Associação Internacional de Lingüística – SIL Brasil, page 30:
+#*: {{quote|hrx|froynt, '''xloych''', toych – {{lang|pt|amigo, mangueira, massa}}|friend, '''hose''', dough – friend, hose, dough}}
+#*:: {{small|{{q|note: the words right of the hyphen are in Portuguese}}}}
+{{LDL}}</text>
+<sha1>k88plnp3h3u764piv6j1uppnzdrkws4</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>Yffiniac</title>
+<ns>0</ns>
+<id>6363747</id>
+<revision>
+<id>67195518</id>
+<parentid>67053047</parentid>
+<timestamp>2022-05-30T08:36:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==French==
+{{wikipedia|lang=fr}}
+===Pronunciation===
+* {{fr-IPA|Yffignac}}
+===Proper noun===
+{{fr-proper noun}}
+# {{place|fr|town/and/commune|dept/Côtes-d'Armor|r/Brittany|c/France}}
+====Derived terms====
+* {{l|fr|yffiniacais}}
+* {{l|fr|Yffiniacais}}</text>
+<sha1>g8ajbpiu9rayq5ynn438hzh917l2lin</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yeule</title>
+<ns>0</ns>
+<id>6363720</id>
+<revision>
+<id>67195514</id>
+<parentid>63571045</parentid>
+<timestamp>2022-05-30T08:36:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="353" xml:space="preserve">==French==
+===Etymology===
+Alternative form of {{m|fr|gueule|t=snout}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-LoquaxFR-yeule.wav|Audio}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|Quebec|slang}} [[gob]] {{gloss|[[mouth]]}}
+#: {{uxi|fr|(Ferme) ta '''yeule'''!|Shut up!|lit=(Shut) your mouth!}}
+====Derived terms====
+* {{l|fr|ta yeule}}</text>
+<sha1>9000fu1cub5jubw88bv15dmso6i0gj6</sha1>
+</revision>
+</page>

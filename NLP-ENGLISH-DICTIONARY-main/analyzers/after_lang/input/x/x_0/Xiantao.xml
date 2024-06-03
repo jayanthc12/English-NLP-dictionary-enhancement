@@ -1,0 +1,85 @@
+<page>
+<title>Xiantao</title>
+<ns>0</ns>
+<id>6843885</id>
+<revision>
+<id>68493520</id>
+<parentid>67890444</parentid>
+<timestamp>2022-07-30T09:59:44Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 2016 article; #* {{seemoreCites|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2775" xml:space="preserve">{{also|xiāntáo}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsien-t'ao}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation for {{zh-l|仙桃|Xiāntáo}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|sub-prefecture-level city|p/Hubei|c/China}}.
+#* {{quote-journal
+|en
+|year=1981
+|month=July
+|last=Alley
+|first=Rewi
+|authorlink=Rewi Alley
+|title=Flood Strikes again in Hubei
+|journal=Eastern Horizon
+|url=https://archive.org/details/sim_eastern-horizon_1981-07_20_7/
+|volume=XX
+|issue=7
+|location=[[Hong Kong]]
+|publisher=Eastern Horizon Press
+|issn=0012-8813
+|oclc=751117974
+|page=13
+|pageurl=https://archive.org/details/sim_eastern-horizon_1981-07_20_7/page/13/
+|text=Wuhan grows steadily, changing its face quite a bit each year one comes&lt;!--武汉每天不一样--&gt;. Hanyang spreads out, and Mianyang, where we halted for a meal and rest, at its county town of '''Xiantao''', which is now becoming a modern city.}}
+#* {{quote-book
+|en
+|year=2001
+|month=February
+|last=Hattaway
+|first=Paul
+|title=China's Unreached Cities
+|url=https://archive.org/details/chinasunreachedc0001hatt/
+|volume=1
+|location=[[Chiang Mai]], [[Thailand]]
+|publisher=Darawan Printing
+|ISBN=974-85303-8-8
+|OCLC=43922815
+|OL=9183612M
+|page=100
+|pageurl=https://archive.org/details/chinasunreachedc0001hatt/page/100/
+|text=Residing on the banks of the Hanshui River in south-central Hubei Province are more than 1.8 million inhabitants of '''Xiantao''' City. The central city area itself may only have about 250,000 people, but '''Xiantao''' has jurisdiction over a number of sprawling suburbs and surrounding villages which pushes its population up. Because of improved roads, '''Xiantao''' is now only a 50-minute drive from the provincial capital, Wuhan.}}
+#* {{quote-web
+|en
+|date=June 27, 2016
+|last=Rajagopalan
+|first=Megha
+|title=China city shuts down waste-burning plant project over protests
+|archiveurl=https://web.archive.org/web/20160628155419/https://www.reuters.com/article/us-china-protests-idUSKCN0ZD0HU
+|archivedate=28 June 2016
+|work={{w|Reuters}}
+|text=The mayor of a city in central China made a rare public address calling for calm after thousands of people protested against a waste incineration project over fears it would damage the environment and residents' health.{{...}}&lt;br&gt;The city of '''Xiantao''', in Hubei province, said on Sunday it would suspend the project but protests continued on Monday.}}
+#* {{seemoreCites|en}}
+====Translations====
+{{trans-top|sub-prefecture-level city in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|仙桃|tr=Xiāntáo|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>0lv43fd4w13zo64eeh94q3wyz15jgkz</sha1>
+</revision>
+</page>

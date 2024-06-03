@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "/home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/after_lang/input/test",
+            "currentPassFile": "/home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/after_lang/spec/Lines.nlp"
+        }
+    ]
+}

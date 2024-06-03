@@ -1,0 +1,25 @@
+<page>
+<title>yembe</title>
+<ns>0</ns>
+<id>6657288</id>
+<revision>
+<id>62085187</id>
+<parentid>49464536</parentid>
+<timestamp>2021-03-14T03:08:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="83" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[djembe]]</text>
+<sha1>3px4vw023t1uai7i67gf9cnthedm0z3</sha1>
+</revision>
+</page>

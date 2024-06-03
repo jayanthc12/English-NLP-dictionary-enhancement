@@ -1,0 +1,23 @@
+<page>
+<title>yazidismos</title>
+<ns>0</ns>
+<id>4830619</id>
+<revision>
+<id>55749158</id>
+<parentid>33030118</parentid>
+<timestamp>2019-10-15T15:07:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yazidismo}}</text>
+<sha1>bzdz6781hd0j2lcwjq2aelz9abvrury</sha1>
+</revision>
+</page>

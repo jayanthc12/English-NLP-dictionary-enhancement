@@ -1,0 +1,37 @@
+<page>
+<title>yeuse</title>
+<ns>0</ns>
+<id>3152889</id>
+<revision>
+<id>67053042</id>
+<parentid>48360899</parentid>
+<timestamp>2022-05-17T11:17:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize topical categories for lang=fr using {{C}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="622" xml:space="preserve">==French==
+===Etymology===
+From {{der|fr|oc|euse}} (older forms {{m|oc|elze}}), derived from Osco-Umbrian form of {{der|fr|la|ilex}}.
+===Pronunciation===
+* {{fr-IPA}}
+===Noun===
+{{fr-noun|f}}
+# [[holm oak]]
+# [[ilex]]
+# [[evergreen]]
+====Synonyms====
+* {{l|fr|chêne vert}}
+====Derived terms====
+* {{l|fr|yeusaie}}
+===Further reading===
+* {{R:TLFi}}
+* [https://books.google.com/books?id=TvENAAAAQAAJ&amp;pg=PA407&amp;lpg=PA407&amp;dq=yeuse+etymology&amp;source=bl&amp;ots=SvKHdfDqEX&amp;sig=Ufj60Yk3bF4tno5yU3oPy2wefHo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwig9MXWoIDYAhUJNiYKHT1sCFcQ6AEIDzAB#v=onepage&amp;q=yeuse%20etymology&amp;f=false Etymology]
+{{C|fr|Oaks}}</text>
+<sha1>jqh7zxtf4hm4zke53wq4tfw9du2anlw</sha1>
+</revision>
+</page>

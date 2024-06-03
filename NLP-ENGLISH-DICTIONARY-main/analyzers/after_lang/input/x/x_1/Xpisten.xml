@@ -1,0 +1,23 @@
+<page>
+<title>Xpisten</title>
+<ns>0</ns>
+<id>6641210</id>
+<revision>
+<id>55007144</id>
+<parentid>49399113</parentid>
+<timestamp>2019-10-11T06:47:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="112" xml:space="preserve">==Middle English==
+===Adjective===
+{{head|enm|adjective|head=Xp̄isten}}
+# {{alternative form of|enm|Cristen}}</text>
+<sha1>8du1klz1kgrj4sosps4m9vdglleooxc</sha1>
+</revision>
+</page>

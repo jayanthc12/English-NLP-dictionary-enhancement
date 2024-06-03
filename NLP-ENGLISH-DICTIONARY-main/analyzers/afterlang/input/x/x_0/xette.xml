@@ -1,0 +1,25 @@
+<page>
+<title>xette</title>
+<ns>0</ns>
+<id>6368549</id>
+<revision>
+<id>67052962</id>
+<parentid>54330817</parentid>
+<timestamp>2022-05-17T11:15:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{suffix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="109" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|X|-ette}}
+===Noun===
+{{fr-noun|f}}
+# {{synonym of|fr|polytechnicienne}}</text>
+<sha1>f11b3cfhjprvn47k18hnrhl02txjhls</sha1>
+</revision>
+</page>

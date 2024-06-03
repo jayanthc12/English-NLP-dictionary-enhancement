@@ -1,0 +1,31 @@
+<page>
+<title>yazidi</title>
+<ns>0</ns>
+<id>5099273</id>
+<revision>
+<id>62187201</id>
+<parentid>62162926</parentid>
+<timestamp>2021-03-19T07:30:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{es-adj-old}} to new {{es-adj}} format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="693" xml:space="preserve">{{also|Yazidi|yazidí}}
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[Yazidi]]
+===Noun===
+{{es-noun|mf}}
+# [[Yazidi]]
+#* {{quote-journal|es|date=October 17, 2015|author=|title=España impulsará en la ONU un estatuto para víctimas del terrorismo|work=El País|url=http://politica.elpais.com/politica/2015/10/15/actualidad/1444929774_080395.html
+|passage=También participarán en esta parte, al igual que la española, la activista nigeriana Saudatu Mahdi —que ha denunciado reiteradamente los abusos de Boko Haram—; y Pari Ibrahim, una kurda iraquí de la minoría '''yazidi''', muy perseguida por el Estado Islámico (ISIS, en sus siglas en inglés). }}</text>
+<sha1>dp7llfo3o0x33m2fkg16g9mk6esppwv</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xeroftalmico</title>
+<ns>0</ns>
+<id>1625369</id>
+<revision>
+<id>62769346</id>
+<parentid>38352340</parentid>
+<timestamp>2021-06-16T09:37:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">==Italian==
+===Adjective===
+{{it-adj}}
+# [[xerophthalmic]]
+====Related terms====
+* {{l|it|xeroftalmia}}</text>
+<sha1>k7c4ut6w3s8wbk5t3mah9vqpiicdeg6</sha1>
+</revision>
+</page>

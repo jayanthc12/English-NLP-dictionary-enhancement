@@ -1,0 +1,35 @@
+<page>
+<title>Xenopeltidae</title>
+<ns>0</ns>
+<id>252035</id>
+<revision>
+<id>68467848</id>
+<parentid>51832502</parentid>
+<timestamp>2022-07-25T20:59:19Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="599" xml:space="preserve">==Translingual==
+[[File:XenopeltisUnicolorRooij.jpg|thumb]]
+===Etymology===
+{{taxlink|Xenopeltis|genus}} {{suffix|mul||idae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|family|order|Serpentes|{{vern|sunbeam snake|pl=s}}, related to [[python]]s}}
+## {{taxon|family|superfamily|Booidea}}
+## {{taxon|family|superfamily|{{taxlink|Henophidea|superfamily|ver=220725}}}}
+====Hypernyms====
+* {{sense|family}} {{Squamata Hypernyms}}; [[Serpentes]]&amp;nbsp;- order
+====Hyponyms====
+* {{sense|family}} {{taxlink|Xenopeltis|genus}}&amp;nbsp;- genera
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}</text>
+<sha1>6798fqwz051tfjvr7vchhyh1ypjyyfv</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xats</title>
+<ns>0</ns>
+<id>3518346</id>
+<revision>
+<id>64460147</id>
+<parentid>63218942</parentid>
+<timestamp>2021-10-28T12:14:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xat}}
+===Anagrams===
+* {{anagrams|en|a=astx|Axts|StAX}}
+----
+==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ats|s=1}}
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xat}}</text>
+<sha1>bb2gypnsi30ppnl46owxyj2bmeugqeg</sha1>
+</revision>
+</page>

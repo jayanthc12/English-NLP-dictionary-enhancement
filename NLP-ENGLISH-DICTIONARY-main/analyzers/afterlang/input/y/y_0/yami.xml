@@ -1,0 +1,36 @@
+<page>
+<title>yami</title>
+<ns>0</ns>
+<id>500106</id>
+<revision>
+<id>59175822</id>
+<parentid>59175755</parentid>
+<timestamp>2020-04-19T06:34:26Z</timestamp>
+<contributor>
+<ip>113.210.194.223</ip>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="671" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やみ}}
+----
+==Pukapukan==
+===Etymology===
+From {{inh|pkp|poz-pol-pro|*masi}} by [[w:Metathesis (linguistics)|metathesis]], either from {{inh|pkp|poz-pro|*(ma-)qasin|gloss=salty}} or {{l|poz-pro|*maŋsit|gloss=stench}}.
+===Noun===
+{{head|pkp|noun}}
+# dish made from decayed coconut
+# [[food]]
+#: ''Na tangi te tamá ki tona matua ki tana '''yami'''.''
+#:: That child cried to his parent for some '''food'''.
+#: {{syn|pkp|kai|popoa}}
+====Derived terms====
+* {{l|pkp|yamiyami|gloss=something to eat}}
+===Further reading===
+* [http://pukapuka.world/dictionary/ Te Pukamuna | Pukapuka Dictionary]</text>
+<sha1>qon6bpjh4fhemkgu23de7eoukyii8qf</sha1>
+</revision>
+</page>

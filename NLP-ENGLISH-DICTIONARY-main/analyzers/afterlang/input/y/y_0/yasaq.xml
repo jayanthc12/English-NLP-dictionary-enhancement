@@ -1,0 +1,42 @@
+<page>
+<title>yasaq</title>
+<ns>0</ns>
+<id>7229524</id>
+<revision>
+<id>67245380</id>
+<parentid>67209266</parentid>
+<timestamp>2022-06-04T22:08:01Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="840" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јасаг|a=قاداغان}}
+===Pronunciation===
+* {{IPA|az|[jɑˈsɑχ]}}
+* {{hyph|az|ya|saq}}
+===Etymology 1===
+From {{der|az|xng|ᠵᠠᠰᠠᠭ}}, whence {{cog|mn|засаг||rule, power; law}} and {{cog|mn|засах||to fix, repair}}; ultimately from {{der|az|trk-cmn|*yasa-||determine, govern; create}}. Cognate with {{cog|tr|yasak||prohibition}}.
+====Noun====
+{{az-noun}}
+# [[prohibition]]
+# [[ban]]
+# {{lb|az|historical}} [[yasak]]
+=====Synonyms=====
+* {{l|az|qadağan}}
+=====Derived terms=====
+* {{l|az|yasaq etmək||to prohibit, ban}}
+* {{l|az|yasaq qoymaq||to prohibit, ban}}
+===Etymology 2===
+From {{der|az|xng|ᠵᠡᠪᠰᠡᠭ}}, cognate with {{cog|mn|зэвсэг||weapon}}.
+====Noun====
+{{az-noun}}
+# {{only in|az|yaraq-yasaq||weapons, arms}}
+===Declension===
+{{az-decl-noun|a|q}}</text>
+<sha1>7pff7zvqiflhvd45ldym82k2irjuajz</sha1>
+</revision>
+</page>

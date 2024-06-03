@@ -1,0 +1,58 @@
+<page>
+<title>yachtswoman</title>
+<ns>0</ns>
+<id>85245</id>
+<revision>
+<id>69041902</id>
+<parentid>67078028</parentid>
+<timestamp>2022-09-03T03:33:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1098" xml:space="preserve">==English==
+===Etymology===
+From {{affix|en|yacht|-s-|-woman}}.
+===Noun===
+{{en-noun|yachtswomen}}
+# A [[woman]] who [[sail]]s a [[yacht]].
+====Related terms====
+* {{l|en|yachter}}
+* {{l|en|yachtsman}}
+====Translations====
+{{trans-top|woman who sails a yacht}}
+* Dutch: {{t+|nl|zeilster|f}}
+* French: {{t+|fr|yachtswoman|f}}, {{t+|fr|yachtwoman|f}}
+* German: {{t+|de|Seglerin|f}}
+* Hebrew: {{t|he|מְשִׁיטַת יַכְטָה|f|tr=meshitat yakhta}}, {{t|he|יַכְטוֹנֵרִית|f|tr=yakhtonerit}}
+* Irish: {{t|ga|luamhaire|m}}
+{{trans-mid}}
+* Italian: {{t+|it|velista|m|f}}
+* Polish: {{t+|pl|żeglarka|f}}
+* Russian: {{t+|ru|яхтсме́нка|f}}
+{{trans-bottom}}
+[[Category:English nouns with irregular plurals]]
+[[Category:en:Nautical]]
+[[Category:en:People]]
+----
+==French==
+===Alternative forms===
+* {{alt|fr|yachtwoman}}
+===Etymology===
+Borrowed from {{bor|fr|en|-}}.
+===Pronunciation===
+* {{fr-IPA|yotswômane}}
+===Noun===
+{{fr-noun|f|m=yachtsman}}
+# {{l|en|yachtswoman}}
+===Anagrams===
+* {{l|fr|yachtwomans}}
+{{cln|fr|terms suffixed with -woman}}
+{{C|fr|People}}</text>
+<sha1>5oqb9y0akwvy45vxwztgdi0fc5xqcx8</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>xingamento</title>
+<ns>0</ns>
+<id>4589120</id>
+<revision>
+<id>69114419</id>
+<parentid>63492105</parentid>
+<timestamp>2022-09-04T16:54:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==Portuguese==
+===Etymology===
+{{suffix|pt|xingar|mento}}
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xin|ga|men|to}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Brazil|colloquial}} [[insult]] {{gloss|speech intended to be rude}}
+#: {{syn|pt|Thesaurus:insulto}}</text>
+<sha1>fa31d3pby165vf11nnztdzd2pnvceij</sha1>
+</revision>
+</page>

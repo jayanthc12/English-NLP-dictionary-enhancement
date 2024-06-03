@@ -1,0 +1,28 @@
+<page>
+<title>xiphosurous</title>
+<ns>0</ns>
+<id>3270454</id>
+<revision>
+<id>69050644</id>
+<parentid>49914612</parentid>
+<timestamp>2022-09-03T05:36:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="188" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# [[xiphosuran]].
+====Synonyms====
+* {{l|en|xiphosuran}}
+====References====
+* {{R:Century 1911}}
+[[Category:English terms suffixed with -ous]]</text>
+<sha1>g0ixl4a7s7u00d4h31kcudaakyoi0s4</sha1>
+</revision>
+</page>

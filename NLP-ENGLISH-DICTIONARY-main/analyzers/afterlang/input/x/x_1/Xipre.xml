@@ -1,0 +1,36 @@
+<page>
+<title>Xipre</title>
+<ns>0</ns>
+<id>3016842</id>
+<revision>
+<id>59335298</id>
+<parentid>50216593</parentid>
+<timestamp>2020-05-10T21:13:38Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="383" xml:space="preserve">==Asturian==
+{{wikipedia|lang=ast}}
+===Proper noun===
+{{ast-proper noun|m}}
+# [[Cyprus]]
+[[Category:ast:Countries]]
+----
+==Catalan==
+{{wikipedia|lang=ca}}
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Millars-Xipre.wav|Audio (Valencian)}}
+===Proper noun===
+{{ca-proper noun|m}}
+# [[Cyprus]]
+====Derived terms====
+* {{l|ca|xipriota}}
+[[Category:ca:Countries]]</text>
+<sha1>26dlx5r48ncrtdn66qkh3pl4xl1p2rj</sha1>
+</revision>
+</page>

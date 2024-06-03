@@ -1,0 +1,49 @@
+<page>
+<title>Yabut</title>
+<ns>0</ns>
+<id>6267942</id>
+<revision>
+<id>68848693</id>
+<parentid>68737137</parentid>
+<timestamp>2022-08-28T02:57:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="940" xml:space="preserve">==English==
+===Etymology===
+Of Filipino origin, mostly from {{bor|en|pam|-}}.
+===Proper noun===
+{{en-proper noun|Yabuts}}
+# {{surname|en|from=Philippine languages}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yabut'' is the 24665&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1012 individuals. ''Yabut'' is most common among Asian/Pacific Islander (92.0%) individuals.
+----
+==Cebuano==
+===Proper noun===
+{{head|ceb|proper noun}}
+#{{surname|ceb}}
+----
+==Kapampangan==
+===Etymology===
+From {{m|pam|iabut}}. {{Catálogo alfabético de apellidos|pam}}.
+===Proper noun===
+{{head|pam|proper noun|head=Yábut}}
+# {{surname|pam|from=Kapampangan}}
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|pam|Yabut}}. {{Catálogo alfabético de apellidos|tl}}.
+===Pronunciation===
+* {{hyph|tl|Ya|but}}
+* {{tl-IPA}}
+===Proper noun===
+{{tl-proper noun}}
+# {{surname|pam|from=Kapampangan|xlit=Yabut}}</text>
+<sha1>o7zn9yv6bwt15vybt386dp8jat6blte</sha1>
+</revision>
+</page>

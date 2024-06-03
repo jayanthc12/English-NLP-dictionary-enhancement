@@ -1,0 +1,24 @@
+<page>
+<title>ychcaconetl</title>
+<ns>0</ns>
+<id>4319633</id>
+<revision>
+<id>54606635</id>
+<parentid>50393990</parentid>
+<timestamp>2019-10-03T05:26:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="178" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{nci-noun|a}}
+# {{obsolete spelling of|nci|ichcaconetl|ichcaconētl}}
+[[Category:Classical Nahuatl terms using Alonso de Molina orthography]]</text>
+<sha1>5ligfgn3x5entqx5bh7fkxp70s1kae0</sha1>
+</revision>
+</page>

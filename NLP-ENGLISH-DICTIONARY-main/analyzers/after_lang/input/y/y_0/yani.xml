@@ -1,0 +1,50 @@
+<page>
+<title>yani</title>
+<ns>0</ns>
+<id>2218410</id>
+<revision>
+<id>69650454</id>
+<parentid>64629981</parentid>
+<timestamp>2022-11-03T18:12:10Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1208" xml:space="preserve">{{also|yañı}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やに}}
+----
+==Kalasha==
+===Etymology===
+Ultimately from {{der|kls|ar|يَعْنِي|t=[he/she/it] [[means]]}}.
+===Verb===
+{{head|kls|verb form}}
+# {{lb|kls|transitive}} [he/she/it] [[means]]
+===Interjection===
+{{head|kls|interjection}}
+# {{lb|kls|adverbial, conjunctive, prepositional, or adjectival}} [[in other words]], [[actually]], [[namely]], [[to wit]], [[kind of]], [[somewhat]], [[id est]], [[that is]], [[meaning]], [[you know]]
+# {{lb|kls|filler}} [[er]], [[so]], [[uh]], [[well]]
+====Synonyms====
+* {{l|kls|laka}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یعنی|tr=yani}}, from {{der|tr|ar|يَعْنِي|t=[he/she/it] [[means]]}}.
+===Pronunciation===
+* {{IPA|tr|[jɑːni]}}
+* {{hyphenation|tr|ya|ni}}
+===Interjection===
+{{head|tr|interjection}}
+# {{lb|tr|adverbial, conjunctive, prepositional, or adjectival}} [[in other words]], [[actually]], [[namely]], [[to wit]], [[kind of]], [[somewhat]], [[id est]], [[that is]], [[meaning]], [[you know]]
+# {{lb|tr|filler}} [[er]], [[so]], [[uh]], [[well]]
+===References===
+* {{R:tr:Nishanyan|yani}}
+* {{R:ota:Redhouse|یعنی|page=2204}}</text>
+<sha1>b14x71m98fnrijieo7un3ymcnlvjx83</sha1>
+</revision>
+</page>

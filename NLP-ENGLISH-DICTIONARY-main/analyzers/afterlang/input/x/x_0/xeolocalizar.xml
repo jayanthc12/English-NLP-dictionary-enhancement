@@ -1,0 +1,33 @@
+<page>
+<title>xeolocalizar</title>
+<ns>0</ns>
+<id>7247801</id>
+<revision>
+<id>68875946</id>
+<parentid>60310458</parentid>
+<timestamp>2022-08-28T06:29:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="343" xml:space="preserve">==Galician==
+===Etymology===
+From {{prefix|gl|xeo|localizar}}.
+===Verb===
+{{gl-verb|xeolocaliz|ar|pret=xeolocalicei}}
+# to [[geolocate]]
+====Conjugation====
+{{gl-conj-zar|xeolocaliz|xeolocalic}}
+====Derived terms====
+* {{l|gl|xeolocalización}}
+* {{l|gl|xeolocalizador}}
+====Related terms====
+* {{l|gl|xeobloqueo}}
+* {{l|gl|xeobloquear}}</text>
+<sha1>nrqjykue7rvqghu99rhxca3qizbo33b</sha1>
+</revision>
+</page>

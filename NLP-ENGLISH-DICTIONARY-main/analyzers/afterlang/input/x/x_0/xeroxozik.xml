@@ -1,0 +1,33 @@
+<page>
+<title>xeroxozik</title>
+<ns>0</ns>
+<id>2194128</id>
+<revision>
+<id>64460191</id>
+<parentid>58846635</parentid>
+<timestamp>2021-10-28T12:17:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==Hungarian==
+===Etymology===
+{{affix|hu|xerox|-ozik|pos=verb}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|ro|xo|zik}}
+* {{rhymes|hu|ozik|s=4}}
+===Verb===
+{{hu-verb}}
+# {{lb|hu|transitive}} to [[xerox]], [[photocopy]]
+====Conjugation====
+{{hu-conj-ok|xerox|o|z}}
+====Synonyms====
+* {{l|hu|fénymásol}}
+* {{l|hu|másol}}</text>
+<sha1>gybejbiu80dn7zyry21eulm2omfkg8k</sha1>
+</revision>
+</page>

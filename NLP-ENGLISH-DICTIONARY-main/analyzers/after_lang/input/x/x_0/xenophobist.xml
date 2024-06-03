@@ -1,0 +1,24 @@
+<page>
+<title>xenophobist</title>
+<ns>0</ns>
+<id>4567052</id>
+<revision>
+<id>69055300</id>
+<parentid>50551414</parentid>
+<timestamp>2022-09-03T06:18:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# [[xenophobe]]
+[[Category:English terms suffixed with -ist]]</text>
+<sha1>2dgvhap7l8fqzl3zk451fhuhr0joidn</sha1>
+</revision>
+</page>

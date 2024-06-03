@@ -1,0 +1,28 @@
+<page>
+<title>Xylotrya</title>
+<ns>0</ns>
+<id>3035778</id>
+<revision>
+<id>49872264</id>
+<parentid>42961294</parentid>
+<timestamp>2018-07-03T13:24:18Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Translingual */ cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="379" xml:space="preserve">==Translingual==
+===Etymology===
+{{der|mul|NL.|-}}, from {{der|mul|grc|ξύλον||sawn wood}} + possibly {{m|grc|τρύω||to wear out}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{lb|mul|obsolete}} {{taxon|genus|family|Teredinidae|certain [[shipworm]]s}}
+===Further reading===
+* {{pedia|Shipworms}}
+* {{specieslite|Teredinidae}}
+[[Category:mul:Taxonomic names (obsolete)]]</text>
+<sha1>5gt025c5xbkj2cbfisawna0ttm4gyp1</sha1>
+</revision>
+</page>

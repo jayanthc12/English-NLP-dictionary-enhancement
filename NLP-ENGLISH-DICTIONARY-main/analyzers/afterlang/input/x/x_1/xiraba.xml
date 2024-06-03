@@ -1,0 +1,24 @@
+<page>
+<title>xiraba</title>
+<ns>0</ns>
+<id>1852401</id>
+<revision>
+<id>57267655</id>
+<parentid>35200422</parentid>
+<timestamp>2019-10-19T17:16:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xirar||1|s|impf|indc}}
+# {{inflection of|gl|xirar||3|s|impf|indc}}</text>
+<sha1>p0jh0kq2tsae0y67349odaw1o7bg9dt</sha1>
+</revision>
+</page>

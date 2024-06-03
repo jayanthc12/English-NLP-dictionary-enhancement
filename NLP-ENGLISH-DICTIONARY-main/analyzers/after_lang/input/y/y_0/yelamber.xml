@@ -1,0 +1,28 @@
+<page>
+<title>yelamber</title>
+<ns>0</ns>
+<id>1215526</id>
+<revision>
+<id>58637045</id>
+<parentid>51095674</parentid>
+<timestamp>2020-02-05T04:27:17Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="294" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|*yelwambre}}, from {{m|enm|yelwe||yellow}} + {{m|enm|*ambre||yellowhammer}}, from {{inh|en|ang|amore}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} [[yellowhammer]]
+===Anagrams===
+* {{anagrams|en|a=abeelmry|Amberley}}
+[[Category:en:Emberizids]]</text>
+<sha1>9av8sb82q1hke0xkalmpnf1rce0lyp4</sha1>
+</revision>
+</page>

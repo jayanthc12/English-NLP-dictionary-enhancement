@@ -1,0 +1,33 @@
+<page>
+<title>yibutiano</title>
+<ns>0</ns>
+<id>1623594</id>
+<revision>
+<id>68935450</id>
+<parentid>62181011</parentid>
+<timestamp>2022-08-28T17:32:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Spanish==
+===Etymology===
+{{af|es|Yibuti|-ano}}
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[Djiboutian]]
+===Noun===
+{{es-noun|m|f=yibutiana}}
+# [[Djiboutian]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Djibouti|Nationalities}}</text>
+<sha1>na23gmeduxpkm6ny0wnlz2m234cr7dk</sha1>
+</revision>
+</page>

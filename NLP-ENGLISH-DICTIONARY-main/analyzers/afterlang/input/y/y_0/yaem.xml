@@ -1,0 +1,49 @@
+<page>
+<title>yaem</title>
+<ns>0</ns>
+<id>7209190</id>
+<revision>
+<id>61605514</id>
+<parentid>52647928</parentid>
+<timestamp>2021-01-19T13:29:57Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="749" xml:space="preserve">==Zhuang==
+===Pronunciation===
+* {{za-pron}}
+===Etymology 1===
+From {{bor|za|zh|-}} {{ltc-l|音}}.
+====Noun====
+{{za-head|noun|音}}
+# [[sound]]; [[noise]]
+# [[voice]]
+====Verb====
+{{za-head|verb|音}}
+# to give the [[phonetic]] [[notation]] of a [[word]] or [[character]]; to [[transcribe]]
+===Etymology 2===
+From {{bor|za|zh|-}} {{ltc-l|陰}}.
+====Noun====
+{{za-head|noun}}
+# {{lb|za|philosophy}} [[yin]]
+#: {{ant|za|yiengz}}
+# [[netherworld]]; [[hell]]
+====Adjective====
+{{za-head|adjective}}
+# [[engraved]]; [[incise]]d; in [[intaglio]]
+#: {{ant|za|yiengz}}
+# [[treacherous]]; [[deceitful]]
+# [[gloomy]]; [[ghastly]]
+====Verb====
+{{za-head|verb|喑}}
+# to [[hide]]; to [[conceal]] (a [[matter]])
+{{za-head|verb}}
+# to [[embezzle]]</text>
+<sha1>eprapv6xvi44cycsqrafl1s5pg1x9zn</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xemeneia</title>
+<ns>0</ns>
+<id>3521696</id>
+<revision>
+<id>68694602</id>
+<parentid>59374600</parentid>
+<timestamp>2022-08-22T16:43:38Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="465" xml:space="preserve">==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|fro|cheminee}}, from {{der|ca|la|camīnus}}, from {{der|ca|grc|κάμινος||furnace}}.
+===Pronunciation===
+* {{ca-IPA|è}}
+* {{audio|ca|LL-Q7026 (cat)-Toniher-xemeneia.wav|Audio (Catalonia)}}
+===Noun===
+{{ca-noun|f}}
+# [[chimney]]
+====Derived terms====
+{{der3|ca|escura-xemeneies|xemeneia d’aire|xemeneia francesa|xemeneia de fades}}
+====Further reading====
+* {{R:IEC2}}
+{{C|ca|Architectural elements}}</text>
+<sha1>gm28wec837ezu5kbt8x02bdc0u1sxzd</sha1>
+</revision>
+</page>

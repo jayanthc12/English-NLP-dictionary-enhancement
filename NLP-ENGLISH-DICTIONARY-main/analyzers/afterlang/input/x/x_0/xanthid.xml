@@ -1,0 +1,29 @@
+<page>
+<title>xanthid</title>
+<ns>0</ns>
+<id>3270415</id>
+<revision>
+<id>67295225</id>
+<parentid>61680622</parentid>
+<timestamp>2022-06-06T11:26:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="252" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|-}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any [[crab]] in the  {{taxlink|Xanthidae|family|noshow=1}}.
+# A compound of [[xanthogen]].
+====References====
+* {{R:Century 1911}}
+[[Category:en:Crabs]]</text>
+<sha1>7g6xeco609agawsppuofqmealjr12b1</sha1>
+</revision>
+</page>

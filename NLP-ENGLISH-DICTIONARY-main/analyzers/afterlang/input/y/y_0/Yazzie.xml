@@ -1,0 +1,25 @@
+<page>
+<title>Yazzie</title>
+<ns>0</ns>
+<id>3886313</id>
+<revision>
+<id>68729637</id>
+<parentid>67766001</parentid>
+<timestamp>2022-08-26T06:06:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|nv}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Navajo==
+===Etymology===
+From {{m|nv|yázhí||little one}}, a commonly adopted surname when the [[BIA]] required Native Americans to take surnames for the purpose of official records.
+===Proper noun===
+{{head|nv|proper noun}}
+# {{surname|nv}}</text>
+<sha1>ip5oztms4dafbby4qtx3cfpppx6m1kc</sha1>
+</revision>
+</page>

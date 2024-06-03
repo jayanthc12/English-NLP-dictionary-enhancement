@@ -1,0 +1,23 @@
+<page>
+<title>yidahistas</title>
+<ns>0</ns>
+<id>5096522</id>
+<revision>
+<id>55840304</id>
+<parentid>35510352</parentid>
+<timestamp>2019-10-16T05:37:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yidahista}}</text>
+<sha1>70xb7jhpk5jhn83nq42k2xzu3pv0763</sha1>
+</revision>
+</page>

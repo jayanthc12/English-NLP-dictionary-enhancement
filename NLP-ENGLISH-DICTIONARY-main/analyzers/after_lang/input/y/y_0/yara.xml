@@ -1,0 +1,114 @@
+<page>
+<title>yara</title>
+<ns>0</ns>
+<id>687898</id>
+<revision>
+<id>67246447</id>
+<parentid>67201649</parentid>
+<timestamp>2022-06-04T23:31:22Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2704" xml:space="preserve">{{also|ýara|þara}}
+==Anguthimri==
+===Noun===
+{{head|awg|noun}}
+# {{lb|awg|Mpakwithi}} [[seagull]]
+===References===
+* Terry Crowley, ''The Mpakwithi dialect of Anguthimri'' (1981), page 189
+----
+==Azerbaijani==
+{{az-variant|c=јара|a=یارا|r=yara}}
+===Etymology===
+From {{inh|az|trk-pro|*yara||wound}}&lt;ref&gt;{{R:tut-pro:SDM|*dal-g-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=384&amp;root=config}}&lt;/ref&gt;, from which {{cog|az|yarıq}} with the same meaning is also derived.
+===Pronunciation===
+* {{IPA|az|[jɑˈrɑ]}}
+* {{hyphenation|az|ya|ra}}
+===Noun===
+{{az-noun}}
+# [[wound]]
+#:{{uxi|az|ağır yara|severe wound}}
+#:{{uxi|az|güllə yarası|gunshot wound}}
+#:{{ux|az|[[kiməsə]]/[[nəyəsə]] dərin '''yara '''vurmaq|to inflict a deep '''wound '''upon someone/something}}
+====Declension====
+{{az-decl-noun|a}}
+====Derived terms====
+* {{l|az|yara yeri||scar}}
+* {{l|az|yara-xora||soars, scabs, ulcers}}
+* {{l|az|yaralamaq||to wound, injure}}
+** {{l|az|yaralanmaq||to get wounded, injured}}
+* {{l|az|yaralı||wounded}}
+====Descendants====
+* {{desc|tly|yara|bor=on}}
+===References===
+&lt;references/&gt;
+----
+==Crimean Tatar==
+===Noun===
+{{crh-noun}}
+# [[scar]], [[wound]]
+====Declension====
+{{crh-latin-noun|nıñ|ğa|nı|da|dan}}
+===References===
+* {{R:Useinov-Mireev 2002}}
+----
+==Ido==
+===Etymology===
+From {{affix|io|yaro|gloss1=year|-a|pos2=adjectival suffix}}.
+===Adjective===
+{{io-adj}}
+# [[annual]]
+====Related terms====
+* {{l|io|yare}}
+----
+==Talysh==
+===Etymology===
+From {{bor|tly|az|yara}}.
+===Noun===
+{{head|tly|noun|Cyrillic|јара}}
+# [[wound]]
+===References===
+* {{R:tly:Pireyko|јара|page=115}}
+----
+==Tatar==
+===Noun===
+{{head|tt|noun}}
+# [[wound]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاره|tr=yara}}, from {{inh|tr|trk-pro|*yara||wound}}. Cognate with {{cog|kk|жара|t=wound}}.
+===Pronunciation===
+* {{IPA|tr|[jɑɾɑ]}}
+* {{hyphenation|tr|ya|ra}}
+===Noun===
+{{tr-noun|yı|lar}}
+# [[wound]], [[injury]]
+#: {{ux|tr|Kolundaki yara nasıl oldu?|inline=1|How did you get the wound on your arm?}}
+# [[breach]], [[crack]]
+#: {{ux|tr|geminin omurgasındaki yara|inline=1|the breach on the keel of the ship}}
+# {{lb|tr|figuratively}} [[pain]], [[suffering]]; [[sorrow]]
+====Declension====
+{{tr-infl-noun-v|a|poss=1|pred=1}}
+====Derived terms====
+{{der2|tr|yaralı|yaralamak|yaralanmak|yara bandı}}
+----
+==Yoruba==
+===Alternative forms===
+* {{alt|yo|iyàrá}}
+===Etymology===
+Compare with {{cog|bba|yaara|yàara|t=courtyard, open space}}
+===Pronunciation===
+* {{yo-IPA|yàrá}}
+===Noun===
+{{yo-noun|yàrá}}
+# [[room]]
+#: {{syn|yo|ìyẹ̀wù}}
+{{c|yo|Rooms}}</text>
+<sha1>nsrcgzqr9n645gcsi04wqo3ds7726qk</sha1>
+</revision>
+</page>

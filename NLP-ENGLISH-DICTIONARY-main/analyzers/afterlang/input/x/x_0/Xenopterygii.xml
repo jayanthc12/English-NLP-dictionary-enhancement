@@ -1,0 +1,32 @@
+<page>
+<title>Xenopterygii</title>
+<ns>0</ns>
+<id>245621</id>
+<revision>
+<id>58056875</id>
+<parentid>51593996</parentid>
+<timestamp>2019-11-24T21:24:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{rfelite}} to {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="512" xml:space="preserve">==Translingual==
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|order|class|Actinopterygii|[[bony fish]]es; coextensive with the family {{taxlink|Gobiesocidae|family|ver=190214}}}}
+====Usage notes====
+* Now often replaced by {{taxlink|Gobiesocoidei|suborder|ver=190222}} in order {{l|mul|Blenniiformes}} or order {{taxlink|Gobiesociformes|order|ver=190214}}.
+===References===
+* {{pedia|Gobiesocidae}}
+* {{specieslite|Gobiesocidae}}
+* {{comcatlite|Gobiesocidae}}
+[[Category:mul:Fish]]</text>
+<sha1>bp29ys42hl9ha54pf8zbyzk14jzzwkv</sha1>
+</revision>
+</page>

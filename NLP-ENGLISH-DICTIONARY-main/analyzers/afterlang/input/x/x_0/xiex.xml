@@ -1,0 +1,31 @@
+<page>
+<title>xiex</title>
+<ns>0</ns>
+<id>7038571</id>
+<revision>
+<id>58048120</id>
+<parentid>56613469</parentid>
+<timestamp>2019-11-24T03:23:00Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<comment>/* Etymology */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="688" xml:space="preserve">==Maltese==
+===Etymology===
+From {{m|mt|x'}} + earlier {{m|mt||*iex|t=what}}, of which latter {{m|mt|x'}} is itself a contraction, thus a reduplicative formation. {{m|mt||*Iex}} is from {{der|mt|ar|[[أَيُّ]] [[شَيْء]]|lit=what thing}}, exactly equivalent to {{cog|ary|آش|tr=ʔāš}}. Also cognate with {{cog|acw|إيش|tr=ēš}}, where the contracted vowel is different, however.
+===Pronunciation===
+* {{IPA|mt|/ʃɪːʃ/}}
+===Pronoun===
+{{head|mt|pronoun}}
+# {{lb|mt|interrogative}} [[what]]
+====Usage notes====
+* Used following a verb or preposition and in isolation. For details on usage, see the notes at {{m|mt|x'}}.
+====See also====
+* {{l|mt|x'}}
+* {{l|mt|x'inhu}}</text>
+<sha1>joa2l3qdevmq4thad0q9px0k9uwiq7u</sha1>
+</revision>
+</page>

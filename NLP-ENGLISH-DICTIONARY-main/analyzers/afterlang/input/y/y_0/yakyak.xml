@@ -1,0 +1,79 @@
+<page>
+<title>yakyak</title>
+<ns>0</ns>
+<id>6086217</id>
+<revision>
+<id>65199441</id>
+<parentid>60261752</parentid>
+<timestamp>2022-01-05T08:58:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Tagalog: correct indentation of section 3 (Synonyms) to 5, section 6 (Synonyms) to 5, section 9 (Synonyms) to 5, section 12 (Synonyms) to 5, section 15 (Derived terms) to 5, section 18 (Derived terms) to 5, section 19 (Synonyms) to 5, section 22 (Derived terms) to 5, section 23 (Synonyms) to 5, section 2 (Adjective) to 4, section 4 (Noun) to 4, section 8 (Adjective) to 4, section 10 (Noun) to 4, section 14 (Noun) to 4, section 17 (Noun) to 4 and section 21 (Adjective) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1778" xml:space="preserve">==Tagalog==
+===Etymology 1===
+====Adjective====
+{{tl-adj|yakyák}}
+# [[given]] to [[foolish]] and [[meaningless]] [[talk]]; [[fond]] of [[chat]]ting or [[babble|babbling]]
+=====Synonyms=====
+* {{l|tl|maabla}}
+* {{l|tl|madaldal}}
+* {{l|tl|masatsat}}
+====Noun====
+{{tl-noun|yakyák}}
+# [[foolish]], [[empty]] [[talk]]; [[babble]]; [[foolish]] or [[meaningless]] [[talk]]; [[chatter]]
+====Derived terms====
+* {{l|tl|yakyakan}}
+=====Synonyms=====
+* {{sense|foolish, empty talk}} {{l|tl|abla}}, {{l|tl|daldal}}, {{l|tl|satsat}}, {{l|tl|yapyap}}
+===Etymology 2===
+====Adjective====
+{{tl-adj|yakyák}}
+# [[crushed]], [[destroyed]], or [[trample]]d on by [[passers-by]]
+=====Synonyms=====
+* {{l|tl|tahak}}
+* {{l|tl|yurak}}
+====Noun====
+{{tl-noun|yakyák}}
+# [[act]] of [[crush]]ing or [[destroy]]ing (a planted field, etc.) by passing across it
+# [[act]] of [[trample|trampling]] on [[something]] under one's [[feet]]
+====Derived terms====
+* {{l|tl|yakyakin}}
+=====Synonyms=====
+* {{sense|act of crushing}} {{l|tl|pagtahak}}, {{l|tl|tahak}}
+* {{sense|act of trampling}} {{l|tl|pagyurak}}, {{l|tl|yurak}}
+===Etymology 3===
+====Noun====
+{{tl-noun|yakyák}}
+# [[impetuosity]]
+=====Derived terms=====
+* {{l|tl|pagkamayakyak}}
+===Etymology 4===
+====Noun====
+{{tl-noun|yakyák}}
+# {{lb|tl|dated|uncommon}} [[envy]]; [[jealousy]]
+=====Derived terms=====
+* {{l|tl|kayakyakan}}
+* {{l|tl|pagkayakyak}}
+=====Synonyms=====
+* {{l|tl|hili}}
+* {{l|tl|inggit}}
+* {{l|tl|pagkahili}}
+* {{l|tl|pagkainggit}}
+* {{l|tl|panaghili}}
+===Etymology 5===
+====Adjective====
+{{tl-adj|yakyák}}
+# {{lb|tl|uncommon}} [[fallen]] {{gloss|as of flowers or petals, found in some areas only}}
+=====Derived terms=====
+* {{l|tl|nakayakyak}}
+=====Synonyms=====
+* {{l|tl|lagas}}
+* {{l|tl|laglag}}</text>
+<sha1>2x5upgnsb71xrlmgvj6pmt2l7i65poe</sha1>
+</revision>
+</page>

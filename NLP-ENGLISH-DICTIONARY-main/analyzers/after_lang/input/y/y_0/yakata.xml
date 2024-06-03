@@ -1,0 +1,37 @@
+<page>
+<title>yakata</title>
+<ns>0</ns>
+<id>230591</id>
+<revision>
+<id>65215165</id>
+<parentid>48071459</parentid>
+<timestamp>2022-01-06T07:31:53Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="501" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|やかた}}.
+===Noun===
+{{en-noun|yakata}}
+# {{lb|en|sumo}} The structure, suspended over the [[sumo]] [[dohyo]], that resembles the [[roof]] of a [[Shinto]] [[shrine]].
+====Synonyms====
+* {{l|en|tsuriyane}}
+====Translations====
+{{trans-top|structure suspended over the sumo dohyo}}
+* Japanese: {{t+|ja|屋形|tr=yakata}}
+{{trans-mid}}
+{{trans-bottom}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やかた}}</text>
+<sha1>msbsed4nhjiwlsdsrfatsaj7t8gwk9z</sha1>
+</revision>
+</page>

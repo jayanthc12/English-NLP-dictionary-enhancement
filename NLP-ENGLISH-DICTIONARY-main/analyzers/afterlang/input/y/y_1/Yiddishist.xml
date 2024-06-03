@@ -1,0 +1,47 @@
+<page>
+<title>Yiddishist</title>
+<ns>0</ns>
+<id>4099132</id>
+<revision>
+<id>67298775</id>
+<parentid>62712674</parentid>
+<timestamp>2022-06-06T12:26:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|yi}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1129" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|yi|ייִדישיסט||Yiddishist (person)}}, or by surface analysis, from {{suffix|en|Yiddish|ist}}.
+===Noun===
+{{en-noun}}
+# A [[proponent]] of the [[Yiddish]] language and culture.
+====Translations====
+{{trans-top|Yiddishist (noun)}}
+* German: {{t+|de|Jiddist|m}}, {{t|de|Jiddistin|f}}
+* Polish: {{t|pl|jidyszysta|m}}, {{t|pl|jidyszystka|f}}
+{{trans-mid}}
+* Yiddish: {{t|yi|ייִדישיסט|m}}, {{t|yi|ייִדישיסטקע|f}}
+{{trans-bottom}}
+===Adjective===
+{{en-adj|-}}
+# Of or relating to the efforts of the Yiddishists.
+====Synonyms====
+* {{l|en|Yiddishistic}}
+====Translations====
+{{trans-top|Yiddishist (adjective)}}
+* German: {{t+|de|jiddischistisch}}
+{{trans-mid}}
+* Yiddish: {{t|yi|ייִדישיסטיש}}
+{{trans-bottom}}
+===See also===
+* {{l|en|Yiddishism||German: [[Jiddischismus]] (Yiddishist movement), Polish: [[jidyszyzm]], Yiddish: {{l|yi|ײִדישיזם|tr=yidishizm}}; German: [[Jiddismus]] (word or phrase), Polish: [[jidyszyzm]]}}
+* {{l|en|Yiddish studies||German: [[Jiddistik]], Polish: [[jidyszystyka]]}}
+[[Category:English 3-syllable words]]</text>
+<sha1>q7jhe3y57k0lirtixjgc94fd728mog6</sha1>
+</revision>
+</page>

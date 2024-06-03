@@ -1,0 +1,42 @@
+<page>
+<title>xamixcalli</title>
+<ns>0</ns>
+<id>4648018</id>
+<revision>
+<id>56337278</id>
+<parentid>52039655</parentid>
+<timestamp>2019-10-17T13:35:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1135" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|xamitl|ixca|t1=brick|t2=to cook, bake}}; compare {{m|nci|texcalli||oven}} and {{l|nci|tlaxcalli||tortilla}}.
+===Pronunciation===
+* {{IPA|nci|[ʃa.miʃˈka.lːi]}}
+===Noun===
+{{nci-noun|i}}
+# a [[brick]] of [[fired]] [[adobe]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 151v.
+#*: Ladrillo de barro cozido. &amp;nbsp;&amp;nbsp;'''xamixcalli'''.
+#*:: A brick of fired clay. '''xamixcalli'''.&lt;!--
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. . col. .
+#*:
+#*::
+#* ''Idem'', f. . col. .
+#*: '''
+#*:: '''
+--&gt;
+====Derived terms====
+* {{l|nci|xamixcalchīhualōyān}}
+* {{l|nci|xamixcalcopīnalōyān}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=}}</text>
+<sha1>0iadk8zv2ha0e6cmqhhv2r5glcudws6</sha1>
+</revision>
+</page>

@@ -1,0 +1,92 @@
+<page>
+<title>yerba</title>
+<ns>0</ns>
+<id>1747679</id>
+<revision>
+<id>69567452</id>
+<parentid>69270579</parentid>
+<timestamp>2022-10-22T13:05:06Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Aragonese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2776" xml:space="preserve">==English==
+[[File:Yerba_Mate.jpg|thumb|A '''yerba''' bush]]
+===Etymology===
+From {{m|en|yerba mate}}.
+===Noun===
+{{en-noun|-|s}}
+# ''[[Ilex paraguariensis]]'', a species of [[holly]] native to southern South America; or the dried leaves and twigs of this plant, used to make the caffeine-rich beverage [[maté]].
+#* {{quote-book|en|year=1839|author={{w|Charles Darwin}}| title=The Voyage of the ''Beagle''| url=http://www.gutenberg.org/etext/3704| passage=The storehouses at Talcahuano had been burst open, and great bags of cotton, '''yerba''', and other valuable merchandise were scattered on the shore.}}
+#* {{quote-book|en|year=1854|author=P. L. Simmonds|title=The Commercial Products of the Vegetable Kingdom| url=http://www.gutenberg.org/etext/15191| passage=This was the place at which the leaves and small sprigs of the '''yerba''' tree, when brought from the woods, were first scorched--fire being set to the logs of wood within it.}}
+#* {{quote-book|en|year=1910|author=Various| title=Argentina From A British Point Of View| url=http://www.gutenberg.org/etext/14366| passage=His preparations for breakfast are simple, and he is ready to start out after half an hour spent in imbibing a few mates full of '''yerba''' infusion.}}
+===Further reading===
+* {{pedia|Yerba mate}}
+* {{specieslite|Ilex paraguariensis|i=1}}
+===Anagrams===
+* {{anagrams|en|a=abery|Bayer|Beary|Earby|Yebra|barye|bayer|beary|beray|by ear}}
+----
+==Aragonese==
+===Etymology===
+{{inh+|an|la|herba}}.
+===Noun===
+{{an-noun|f}}
+# [[grass]]
+===References===
+* {{R:DBLA}}
+----
+==Asturian==
+===Etymology===
+From {{inh|ast|la|herba}}.
+===Noun===
+{{ast-noun|f|yerbes}}
+# {{l|en|grass}}
+----
+==Istriot==
+===Alternative forms===
+* {{l|ist|gièrba}}
+===Etymology===
+From {{inh|ist|la|herba}}.
+===Noun===
+{{head|ist|noun|g=f}}
+# [[grass]]
+----
+==Papiamentu==
+[[File:Grass-JW.jpg|250px|right]]
+===Etymology===
+From {{der|pap|es|yerba}} and {{m|es|hierba}}.
+===Noun===
+{{head|pap|noun}}
+# [[grass]]
+# [[herb]]
+----
+==Spanish==
+{{was fwotd|es|2022|September|16}}
+===Etymology===
+See {{m|es|hierba}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# {{alternative form of|es|hierba}}
+#* {{RQ:Cervantes Don Quijote I|XX|passage=No es posible, señor mío, sino que estas '''yerbas''' dan testimonio de que por aquí cerca debe de estar alguna fuente o arroyo que estas yerbas humedece;|translation=It cannot be, my lord, but that this '''grass''' gives proof that there must be nearby some spring or brook to give it moisture;}}
+# [[#English|yerba]] (''[[Ilex paraguariensis]]'')
+# [[tarantula]]
+====Derived terms====
+{{col3|es
+|yerba buena
+|yerba del manso
+|yerba dulce
+|yerba mansa
+|yerba mate
+|enyerbar
+|yerboso}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Plants}}</text>
+<sha1>e5t8g0z672xk047b8ox7hlvz1slhmb4</sha1>
+</revision>
+</page>

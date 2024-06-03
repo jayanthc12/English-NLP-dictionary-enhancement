@@ -1,0 +1,25 @@
+<page>
+<title>yelves</title>
+<ns>0</ns>
+<id>809573</id>
+<revision>
+<id>55444859</id>
+<parentid>53093053</parentid>
+<timestamp>2019-10-15T01:21:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="135" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yelve}}
+===Anagrams===
+* {{anagrams|en|a=eelsvy|Leveys|Selvey|Vesely}}</text>
+<sha1>hzhohw2fucvnnoups7ea30gn637n4oi</sha1>
+</revision>
+</page>

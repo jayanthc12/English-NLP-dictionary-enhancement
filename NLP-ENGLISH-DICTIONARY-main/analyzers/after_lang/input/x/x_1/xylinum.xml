@@ -1,0 +1,28 @@
+<page>
+<title>xylinum</title>
+<ns>0</ns>
+<id>4151351</id>
+<revision>
+<id>53816479</id>
+<parentid>53646663</parentid>
+<timestamp>2019-08-04T12:09:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="148" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun|xylinum&lt;2&gt;}}
+# [[cotton]]
+====Declension====
+{{la-ndecl|xylinum&lt;2&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>s2bix2udu5cdy44y3m9x86he852i5an</sha1>
+</revision>
+</page>

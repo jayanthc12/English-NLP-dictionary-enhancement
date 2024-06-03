@@ -1,0 +1,25 @@
+<page>
+<title>xerundio</title>
+<ns>0</ns>
+<id>1581211</id>
+<revision>
+<id>60889022</id>
+<parentid>45041829</parentid>
+<timestamp>2020-10-20T10:18:08Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|gerundium}}, from {{m|la|gerundus||which is to be carried out}}, future passive participle ([[gerundive]]) of {{m|la|gerō||carry, bear}}.
+===Noun===
+{{gl-noun|m}}
+# [[gerund]]
+[[Category:gl:Grammar]]</text>
+<sha1>0c6y00jp1yvblw0vy2uydonimh86lfr</sha1>
+</revision>
+</page>

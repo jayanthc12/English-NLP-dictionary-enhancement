@@ -1,0 +1,48 @@
+<page>
+<title>xar</title>
+<ns>0</ns>
+<id>1427787</id>
+<revision>
+<id>68417096</id>
+<parentid>64867500</parentid>
+<timestamp>2022-07-20T03:51:55Z</timestamp>
+<contributor>
+<username>WhoAlone</username>
+<id>3682832</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="605" xml:space="preserve">{{also|хаг|XAR}}
+==Kangjia==
+===Etymology===
+From {{inh|kxs|xgn-pro|*gar-}}, compare {{cog|mn|гарах}}, {{cog|sce|khirei}}.
+===Verb===
+{{head|kxs|verbs}}
+# to [[go out]]
+----
+==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+[[Image:Balls of glass.jpg|thumb|xar]]
+===Noun===
+{{kmr-noun|f}}
+# [[marble]] (spherical ball)
+{{-}}
+{{cln|kmr|three-letter words}}
+----
+==Wolof==
+===Verb===
+{{head|wo|verb}}
+# to [[cut]] in [[half]]
+===Noun===
+{{wo-noun|wi}}
+# [[piece]], [[portion]]
+====Related terms====
+* {{l|wo|xarit}}
+===Noun===
+{{wo-noun|mi}}
+# [[sheep]]
+{{topics|wo|Mammals}}</text>
+<sha1>n6whrcvo9ux9lxlsk2972v6w3lcq4tf</sha1>
+</revision>
+</page>

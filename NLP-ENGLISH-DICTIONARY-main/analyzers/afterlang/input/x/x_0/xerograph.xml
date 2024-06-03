@@ -1,0 +1,25 @@
+<page>
+<title>xerograph</title>
+<ns>0</ns>
+<id>85362</id>
+<revision>
+<id>44294538</id>
+<parentid>42441357</parentid>
+<timestamp>2017-05-25T01:10:55Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="123" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xero|graph}}
+===Noun===
+{{en-noun}}
+# a [[photocopy]] produced by [[xerography]]</text>
+<sha1>go718x14q3hrc00w8xuo0ol8dd42qxr</sha1>
+</revision>
+</page>

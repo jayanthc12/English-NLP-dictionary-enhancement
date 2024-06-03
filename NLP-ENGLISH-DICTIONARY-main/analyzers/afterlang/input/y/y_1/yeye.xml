@@ -1,0 +1,53 @@
+<page>
+<title>yeye</title>
+<ns>0</ns>
+<id>4715156</id>
+<revision>
+<id>68830622</id>
+<parentid>66338053</parentid>
+<timestamp>2022-08-27T22:54:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1054" xml:space="preserve">{{also|yéye|yéyé|yé-yé}}
+==Sranan Tongo==
+===Noun===
+{{head|srn|noun}}
+# {{l|en|spirit}}, [[ghost]]
+====Derived terms====
+* {{l|srn|Santa Yeye}}
+----
+==Swahili==
+===Pronunciation===
+* {{audio|sw|Sw-ke-yeye.flac|Audio (Kenya)}}
+===Pronoun===
+{{head|sw|pronoun}}
+# [[he]]/[[she]]/[[it]]/[[they#English|they (singular)]] {{gloss|third-person singular pronoun}}
+====See also====
+{{sw-personal pronouns}}
+----
+==Yoruba==
+====Alternative forms====
+*{{alter|yo|èyé}} ''(Èkìtì)''
+====Pronunciation====
+*{{yo-IPA|yèyé}}
+====Noun====
+{{yo-noun|yèyé}}
+# [[mother]], a title of [[respect]] for an older woman or a [[priestess]] of the [[orisha]]
+#: {{syn|yo|ìyá|màmá|mọ́mì|abiyamọ|iye|màámi|ìmọ́ọ̀}}
+====Derived terms====
+{{der3|yo
+|{{l|yo|yèyé Ọ̀ṣun|t=A priestess of Osun, a nickname for Osun}}
+|{{l|yo|yèyé Kare}}
+|{{l|yo|yèyé omi|t=A general name for female river orisha, A priestess of any one of the river orisha}}
+|{{l|yo|yèyé Onírá|t=A nickname for the orisha Oya}}
+|{{l|yo|yèyélúwa|t=Queen}}
+}}</text>
+<sha1>j7tj4pljq88h2jxw82lspxjsns7h5qi</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>xec</title>
+<ns>0</ns>
+<id>1453103</id>
+<revision>
+<id>67334363</id>
+<parentid>54051119</parentid>
+<timestamp>2022-06-10T15:16:53Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */ der</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="483" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA|è}}
+===Etymology 1===
+From {{bor|ca|en|cheque}}.
+====Noun====
+{{ca-noun|m}}
+# [[check]]/[[cheque]]
+#: {{syn|ca|taló}}
+=====Derived terms=====
+{{der3|ca|xec barrat|xec en blanc|xec de viatge}}
+===Etymology 2===
+From {{bor|ca|fr|échec}}.
+====Interjection====
+{{head|ca|interjection}}
+# {{lb|ca|chess}} [[check]]!
+#: {{syn|ca|escac}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+[[Category:ca:Banking]]</text>
+<sha1>mrb4smn9ddk7kmfkhcy32ae20jbizkk</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>Yeovilton</title>
+<ns>0</ns>
+<id>6080174</id>
+<revision>
+<id>58365217</id>
+<parentid>58349346</parentid>
+<timestamp>2020-01-11T20:53:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Villages in England</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="211" xml:space="preserve">==English==
+{{wikipedia}}
+===Pronunciation===
+* {{IPA|en|/ˈjoʊvɪltən/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|village|co/Somerset|cc/England}}.
+# a Royal Naval Air Station next to the village.</text>
+<sha1>8c7rhgd68eyjiexh0bd486af86cxx78</sha1>
+</revision>
+</page>

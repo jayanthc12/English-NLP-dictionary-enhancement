@@ -1,0 +1,33 @@
+<page>
+<title>xenoglossia</title>
+<ns>0</ns>
+<id>1608603</id>
+<revision>
+<id>64713328</id>
+<parentid>62570372</parentid>
+<timestamp>2021-11-22T11:27:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="328" xml:space="preserve">==English==
+===Etymology===
+From {{af|en|xeno-|-glossia}}.
+===Pronunciation===
+* {{IPA|en|/ˌziːnəˈɡlɒsi.ə/|/ˌzɛnəˈɡlɒsi.ə/}}
+===Noun===
+{{en-noun|-}}
+# {{syn of|en|xenoglossy|t=knowledge of a language one has never learned}}.
+----
+==Italian==
+{{wikipedia|lang=it}}
+===Noun===
+{{it-noun|f}}
+# [[xenoglossy]]</text>
+<sha1>ctzb9hdcfbvz419llzsrjeaqbn0i26d</sha1>
+</revision>
+</page>

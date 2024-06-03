@@ -1,0 +1,43 @@
+<page>
+<title>yie</title>
+<ns>0</ns>
+<id>6669115</id>
+<revision>
+<id>68857781</id>
+<parentid>68740837</parentid>
+<timestamp>2022-08-28T04:40:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="745" xml:space="preserve">==Iu Mien==
+===Pronoun===
+{{ium-pronoun}}
+# [[I]]
+# [[me]]
+----
+==Middle English==
+===Pronoun===
+{{head|enm|pronoun}}
+# {{lb|enm|chiefly|Northern ME}} {{alt form|enm|ye|t=you|id=you}}
+----
+==Yola==
+===Alternative forms===
+* {{alter|yol|ye|yive}}
+===Etymology===
+From {{inh|yol|enm|ȝiven}}, from {{inh|yol|ang|ġiefan}}. Doublet of {{m|yol|gee}}.
+===Verb===
+{{head|yol|verb|simple past|ya}}
+# to [[give]]
+#* {{quote-book|yol|year=1867|chapter=A YOLA ZONG|number=13|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=Y'oure w' thee crookeen, an '''yie''' mee thee hoane.|translation=Give over your crossness, and '''give''' me your hand.}}
+====Derived terms====
+* {{l|yol|y'oure}}
+===References===
+* {{R:Poole 1867|page=90}}</text>
+<sha1>jayfliia9d0pbjjdnsaw5aiirz7vb0t</sha1>
+</revision>
+</page>

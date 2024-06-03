@@ -1,0 +1,26 @@
+<page>
+<title>xerecista</title>
+<ns>0</ns>
+<id>7019898</id>
+<revision>
+<id>62192481</id>
+<parentid>62168654</parentid>
+<timestamp>2021-03-19T09:25:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{es-adj-old}} to new {{es-adj}} format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Spanish==
+===Adjective===
+{{es-adj}}
+# {{lb|es|relational}} of or supporting {{w|Xerez CD}} {{gl|a Spanish football team}}
+===Noun===
+{{es-noun|mf}}
+# a person associated with {{w|Xerez CD}}, as a player, coach, supporter, etc.</text>
+<sha1>j4l7gwl3e5b50x43mv9f7mtfd46ehp2</sha1>
+</revision>
+</page>

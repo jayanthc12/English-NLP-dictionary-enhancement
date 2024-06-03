@@ -1,0 +1,25 @@
+<page>
+<title>Yiddishlike</title>
+<ns>0</ns>
+<id>4099235</id>
+<revision>
+<id>69528708</id>
+<parentid>51935926</parentid>
+<timestamp>2022-10-16T08:24:25Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>Are there really at least 3 uses? Not in GNV</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="175" xml:space="preserve">==English==
+{{rfv|en|not obviously 3-attested in Google Books}}
+===Etymology===
+{{suffix|en|Yiddish|like}}
+===Adjective===
+{{en-adj}}
+# {{rare spelling of|en|Yiddish-like}}</text>
+<sha1>478adank5vzsc3v7s8qei8f7csrr23r</sha1>
+</revision>
+</page>

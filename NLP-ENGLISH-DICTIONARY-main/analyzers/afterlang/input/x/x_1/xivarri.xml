@@ -1,0 +1,31 @@
+<page>
+<title>xivarri</title>
+<ns>0</ns>
+<id>6353757</id>
+<revision>
+<id>65808700</id>
+<parentid>65808652</parentid>
+<timestamp>2022-02-12T09:51:30Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="266" xml:space="preserve">==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|fr|charivari}}, via {{der|ca|oc|chavari}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# [[clamor]], [[uproar]]
+#: {{syn|ca|rebombori}}
+===Further reading===
+* {{R:DCVB}}
+* {{R:GDLC}}
+* {{R:IEC2}}</text>
+<sha1>t2jpnnk2hohkp97qheklcc4mza7sy1b</sha1>
+</revision>
+</page>

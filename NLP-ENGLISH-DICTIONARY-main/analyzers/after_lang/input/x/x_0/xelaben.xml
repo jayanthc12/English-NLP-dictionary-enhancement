@@ -1,0 +1,23 @@
+<page>
+<title>xelaben</title>
+<ns>0</ns>
+<id>4352051</id>
+<revision>
+<id>53120089</id>
+<parentid>25807619</parentid>
+<timestamp>2019-05-19T06:05:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'third-person plural imperfect preterite indicative' to 3|p|impf|pret|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||3|p|impf|pret|ind}}</text>
+<sha1>5ypiojebdodqfrtcdeezkaoerxglsh7</sha1>
+</revision>
+</page>

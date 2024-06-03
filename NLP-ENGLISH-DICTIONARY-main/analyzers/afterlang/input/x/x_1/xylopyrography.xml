@@ -1,0 +1,26 @@
+<page>
+<title>xylopyrography</title>
+<ns>0</ns>
+<id>252527</id>
+<revision>
+<id>64460270</id>
+<parentid>59371817</parentid>
+<timestamp>2021-10-28T12:20:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xylo|pyrography}}
+===Pronunciation===
+* {{rhymes|en|ɒɡɹəfi|s=6}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|arts}} The art of [[burning]] [[picture]]s onto [[wood]].</text>
+<sha1>sfv0zyh5nir29ancy9tgf9pgocxrx3t</sha1>
+</revision>
+</page>

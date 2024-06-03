@@ -1,0 +1,27 @@
+<page>
+<title>xenysalate</title>
+<ns>0</ns>
+<id>3540132</id>
+<revision>
+<id>69051718</id>
+<parentid>65314677</parentid>
+<timestamp>2022-09-03T05:44:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="275" xml:space="preserve">==English==
+===Etymology===
+From {{af|en||salicylate|alt2=sal(icyl)ate}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pharmaceutical drug}} A particular [[antiseborrheic]] [[compound]].
+[[Category:English terms interfixed with -sal-]]
+[[Category:English terms suffixed with -ate]]</text>
+<sha1>6yqea3rwbvclsedztfsvrvgyutreu7k</sha1>
+</revision>
+</page>

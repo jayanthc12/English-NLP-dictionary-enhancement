@@ -1,0 +1,25 @@
+<page>
+<title>Yassin</title>
+<ns>0</ns>
+<id>6269395</id>
+<revision>
+<id>67779109</id>
+<parentid>67747780</parentid>
+<timestamp>2022-07-09T18:34:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yassins}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yassin'' is the 24802&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 1004 individuals. ''Yassin'' is most common among White (47.21%) and Black/African American (36.95%) individuals.</text>
+<sha1>576za2esbec0ba0g1g5sdc4hl2xv3ez</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>Yamagawa</title>
+<ns>0</ns>
+<id>7272582</id>
+<revision>
+<id>68742824</id>
+<parentid>67797242</parentid>
+<timestamp>2022-08-26T08:36:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|pt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="414" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|山川|tr=Yamagawa}}.
+===Proper noun===
+{{en-proper noun|Yamagawas}}
+# {{surname|en|from=Japanese}}.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまがわ}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|山川|tr=Yamagawa}}.
+===Proper noun===
+{{pt-proper noun|m|g2=f}}
+# {{surname|pt|from=Japanese}}</text>
+<sha1>nb8vntln877hnxjaa0evcmtgyhlxe1n</sha1>
+</revision>
+</page>

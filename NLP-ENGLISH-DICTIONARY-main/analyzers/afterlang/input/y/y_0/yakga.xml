@@ -1,0 +1,27 @@
+<page>
+<title>yakga</title>
+<ns>0</ns>
+<id>6859931</id>
+<revision>
+<id>62309778</id>
+<parentid>50218260</parentid>
+<timestamp>2021-04-05T10:27:25Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Inflection */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="194" xml:space="preserve">==Phuthi==
+===Etymology===
+From {{bor|bnt-phu|af|agt}}.
+===Relative===
+{{bnt-phu-rel|yákga}}
+# [[eight]]
+====Inflection====
+{{bnt-phu-infl-rel}}&lt;!-- HL --&gt;
+{{cln|bnt-phu|cardinal numbers}}</text>
+<sha1>ogt4y9s9a4uxgyfy35955xk774373bv</sha1>
+</revision>
+</page>

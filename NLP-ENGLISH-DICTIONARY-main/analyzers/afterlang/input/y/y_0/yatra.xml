@@ -1,0 +1,50 @@
+<page>
+<title>yatra</title>
+<ns>0</ns>
+<id>1901413</id>
+<revision>
+<id>67292884</id>
+<parentid>61532051</parentid>
+<timestamp>2022-06-06T10:41:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|sa}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2761" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Yatra}}
+* {{l|en|yaatra}}
+===Etymology===
+From {{uder|en|sa|यात्रा}}.
+===Noun===
+{{en-noun}}
+# A [[Hindu]] [[pilgrimage]].
+#* {{quote-book|en|url=http://books.google.com/books?id=JPeQ7Vf6hYwC&amp;pg=PA261&amp;dq=yatra|page=261|title=The Saffron Wave: Democracy and Hindu Nationalism in Modern India|author=Thomas Blom Hansen|publisher|publisher=Princeton University Press|year=1999|ISBN=9780691006710}}
+#*: Thousands of activists and vehicles therefore diffused quietly out of Delhi in the following days to reassemble in a '''yatra''' that now swelled to 40–50,000 people.
+#* {{quote-book|en|page=80|url=http://books.google.com/books?id=qWMbQI5BkXwC&amp;pg=PT94&amp;dq=yatra|title=Lighting the Lamp of Wisdom: a Week Inside a Yoga Ashram|author=John Ittner|publisher=SkyLight Paths Publishing|year=2002|ISBN=9781893361522}}
+#*: By calling this little stroll a '''''yatra''''' I am making a mild joke to myself, because in India a '''''yatra''''' can be a grueling expedition such as a hike to the top of Mount Kailas in the Himalayas.
+#* {{quote-book|en|url=http://books.google.com/books?id=2-wsjaChM_QC&amp;pg=PA71&amp;dq=yatra|page=71|title=Contemporary Society: Identity, Intervention and Ideology in Tribal India and Beyond|volume=7|editor=Georg Pfeffer|chapter=Forts and Camps in Tribal Orissa: Kshatriyaization and Industrialization Compared|author=Christian Strümpell|publisher=Concept Publishing Company|year=2005|ISBN=9788180695346}}
+#*: At the inauguration of this temple a '''yatra''' for her was performed attracting again a big part of Chatamput's mostly female inhabitants, who all claimed that Kondamakalamma now is the &quot;real&quot; goddess of the village.
+#* {{quote-book|en|title=Ritual and Identity: Performative Practices as Effective Transformations of Social Reality|volume=8|publisher=LIT Verlag Berlin-Hamburg-Münster|year=2006|ISBN=9783825880422|url=http://books.google.com/books?id=BkBh1Nl4dHwC&amp;pg=PA287&amp;dq=yatra|page=287}}
+#*: I thus wonder whether the '''yatra''' was not primarily &quot;efficient&quot; for the upper middle classes who - physically removed from direct participation - enjoyed the BJP going on a '''yatra''', presenting them with ready-made edutainment about nationality, easy to digest, without much physical and mental effort.
+===Anagrams===
+* {{anagrams|en|a=aarty|atray|tayra|yarta}}
+----
+==Javanese==
+===Alternative forms===
+* Carakan: {{l|jv|ꦪꦠꦿ|tr=-}}
+* Roman: {{l|jv|arta}}, {{l|jv|arto}} {{qualifier|nonstandard}}, {{l|jv|yotro}} {{qualifier|nonstandard}}
+===Etymology===
+Perhaps ultimately from {{der|jv|sa|अर्थ}}. Compare {{cog|ban|ᬅᬃᬣ|tr=arta}}.
+===Noun===
+{{jv-noun|n=dhuwit|k=yatra}}
+# {{jv-krama of|dhuwit}}
+===References===
+* {{R:Kamus Basa Jawa}}</text>
+<sha1>maios6rka1y5tcfmy2filbgpr3kam4t</sha1>
+</revision>
+</page>

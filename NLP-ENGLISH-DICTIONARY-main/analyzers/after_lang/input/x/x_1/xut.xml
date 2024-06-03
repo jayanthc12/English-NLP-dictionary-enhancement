@@ -1,0 +1,41 @@
+<page>
+<title>xut</title>
+<ns>0</ns>
+<id>6420679</id>
+<revision>
+<id>68478105</id>
+<parentid>68477944</parentid>
+<timestamp>2022-07-27T18:40:08Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<minor />
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="484" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Etymology===
+Onomatopoeic.
+====Noun====
+{{ca-noun|m}}
+# [[hoot]] {{gloss|cry of an owl}}
+=====Derived terms=====
+* {{l|ca|xuta}}
+===Etymology 2===
+Borrowed from {{bor|ca|en|shoot}}.
+====Noun====
+{{ca-noun|m}}
+# {{lb|ca|sports}} [[kick]] {{gloss|a hit with the foot}}
+=====Derived terms=====
+* {{l|ca|xut de sobrebot}}
+* {{l|ca|xut de transformació}}
+* {{l|ca|xutar}}
+===Further reading===
+* {{R:IEC2}}
+{{C|ca|Animal sounds}}</text>
+<sha1>p7f7a3slwzeqmo4iy72qi8bo3sr3puf</sha1>
+</revision>
+</page>

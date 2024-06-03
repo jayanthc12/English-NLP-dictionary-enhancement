@@ -1,0 +1,40 @@
+<page>
+<title>yasemin</title>
+<ns>0</ns>
+<id>2523583</id>
+<revision>
+<id>62167151</id>
+<parentid>62167106</parentid>
+<timestamp>2021-03-18T10:40:01Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="594" xml:space="preserve">{{also|Yasemin}}
+==Turkish==
+===Etymology===
+From {{der|tr|fa|یاسمن|tr=yâsaman|sc=fa-Arab}}.
+===Pronunciation===
+* {{IPA|tr|[jɑːsɛˈmin]}}
+* {{hyphenation|tr|ya|se|min}}
+===Noun===
+{{tr-noun|i|ler}}
+# [[jasmine]]
+====Declension====
+{{tr-infl-noun-c|i|poss=1}}
+[[Category:tr:Flowers]]
+----
+==Zazaki==
+[[File:2006-11-16Jasminum nudiflorum07.jpg|thumb|180px|the {{vern|winter jasmine}} ({{taxlink|Jasminum nudiflorum|species|ver=170623}})]]
+===Etymology===
+Compare {{cog|fa|-}} {{m|ar|ياسمين|tr=yāsamīn}},
+===Noun===
+{{zza-noun}}
+# [[jasmine]]
+[[Category:zza:Flowers]]</text>
+<sha1>3hhmx00nh01r99w74dgszonp4p9zdzw</sha1>
+</revision>
+</page>

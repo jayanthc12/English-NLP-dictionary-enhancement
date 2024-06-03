@@ -1,0 +1,27 @@
+<page>
+<title>xiib</title>
+<ns>0</ns>
+<id>1662434</id>
+<revision>
+<id>55658163</id>
+<parentid>45108006</parentid>
+<timestamp>2019-10-15T11:04:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Yucatec Maya==
+===Pronunciation===
+* {{IPA|yua|/ʃiːb˩/}}
+===Noun===
+{{yua-noun}}
+# [[man]]
+====Derived terms====
+* {{l|yua|xiibil}}</text>
+<sha1>l5cf7zy4msv733jyuhfe54ebpj7xzz4</sha1>
+</revision>
+</page>

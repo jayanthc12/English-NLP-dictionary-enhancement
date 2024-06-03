@@ -1,0 +1,25 @@
+<page>
+<title>yarmelka</title>
+<ns>0</ns>
+<id>4816863</id>
+<revision>
+<id>55273207</id>
+<parentid>50899822</parentid>
+<timestamp>2019-10-14T07:05:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yarmulke}}
+===Anagrams===
+* {{anagrams|en|a=aaeklmry|Malarkey|malarkey|yarmalke}}</text>
+<sha1>ef0g25tyzki8abdk1q6inqj41vyrgks</sha1>
+</revision>
+</page>

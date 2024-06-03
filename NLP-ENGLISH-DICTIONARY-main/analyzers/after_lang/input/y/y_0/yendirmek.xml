@@ -1,0 +1,31 @@
+<page>
+<title>yendirmek</title>
+<ns>0</ns>
+<id>3893125</id>
+<revision>
+<id>67134890</id>
+<parentid>67114724</parentid>
+<timestamp>2022-05-23T08:05:42Z</timestamp>
+<contributor>
+<username>MhmtÖ</username>
+<id>3714419</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==Turkish==
+===Etymology===
+{{suf|tr|yenmek|dir|mek|alt1=yen-}}.
+===Pronunciation===
+* {{IPA|tr|[jɛndiɾmɛk]}}
+* {{hyphenation|tr|yen|dir|mek}}
+===Verb===
+{{tr-verb|yendirir}}
+# {{lb|tr|rare}} to find someone who [[defeat]]s/[[overcome]]s
+====Conjugation====
+{{tr-conj|yendir|i|yendirir|i|d}}
+====Derived terms====
+* {{l|tr|yendirtmek}}</text>
+<sha1>np06e2mayzymadrmhhyl55as8u6wrzb</sha1>
+</revision>
+</page>

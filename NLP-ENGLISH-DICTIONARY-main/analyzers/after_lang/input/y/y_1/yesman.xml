@@ -1,0 +1,36 @@
+<page>
+<title>yesman</title>
+<ns>0</ns>
+<id>1865877</id>
+<revision>
+<id>64542696</id>
+<parentid>61083093</parentid>
+<timestamp>2021-11-06T20:05:25Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="413" xml:space="preserve">{{also|yes-man|yes man}}
+==English==
+===Etymology===
+From {{compound|en|yes|man}}.
+===Noun===
+{{en-noun|yesmen}}
+# {{alternative spelling of|en|yes man}}
+===Anagrams===
+* {{anagrams|en|a=aemnsy|Eymans|Maneys|Mayens|Maynes|Meanys|saymen|synema|yamens}}
+----
+==Romanian==
+===Etymology===
+{{ubor|ro|en|yesman}}.
+===Noun===
+{{ro-noun|m|yesmeni}}
+# {{l|en|yesman}}
+====Declension====
+{{ro-noun-m|pl=yesmeni}}</text>
+<sha1>r8i5u9v8bi3elk3r0b3embrvb1hf4us</sha1>
+</revision>
+</page>

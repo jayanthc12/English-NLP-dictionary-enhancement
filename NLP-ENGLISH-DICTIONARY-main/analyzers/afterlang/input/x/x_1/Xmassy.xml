@@ -1,0 +1,27 @@
+<page>
+<title>Xmassy</title>
+<ns>0</ns>
+<id>3375363</id>
+<revision>
+<id>54430887</id>
+<parentid>51578399</parentid>
+<timestamp>2019-09-29T19:29:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{abbreviation of}}; move lang= to 1= in {{quote-text}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="665" xml:space="preserve">==English==
+===Etymology===
+{{affix|en|Xmas|-y}}
+===Adjective===
+{{en-adj}}
+# {{abbreviation of|en|Christmassy}}
+#* {{quote-text|en|year=1996|author=Don Webb|title=A spell for the fulfillment of desire|page=84|passage=To the attics where thin pink salamanders writhed through crushed red Xmas balls and turned all silver and red and '''Xmassy'''.}}
+#* {{quote-text|en|year=2010|author=A. L. Kennedy|title=So I Am Glad|page=135|passage=And then I closed the front door, trying to resist the first wave of '''Xmassy''' memories. For some very odd reason, Arthur's shambling retreat down the icy front path had summoned up a buming recollection of Christmas past.}}</text>
+<sha1>mqz9qcpqap8ax6879lv9otlxozayddo</sha1>
+</revision>
+</page>

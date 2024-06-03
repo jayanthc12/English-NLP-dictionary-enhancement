@@ -1,0 +1,30 @@
+<page>
+<title>yhteiskuntasopimus</title>
+<ns>0</ns>
+<id>3654249</id>
+<revision>
+<id>69318451</id>
+<parentid>52023321</parentid>
+<timestamp>2022-09-18T17:18:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="367" xml:space="preserve">==Finnish==
+===Etymology===
+{{calque|fi|de|Gesellschaftsvertrag}}; {{compound|fi|yhteiskunta|sopimus|gloss1=society|gloss2=contract}}.
+===Pronunciation===
+{{fi-p|yhteis-kunta/sopimus}}
+===Noun===
+{{fi-noun}}
+# [[social contract]]
+====Declension====
+{{fi-decl-vastaus|yhteiskuntasopimu|a}}
+===Anagrams===
+* {{anagrams|fi|a=aehiikmnopsssttuuy|sopimusyhteiskunta}}</text>
+<sha1>dw0csq2o1yvgb5obm2xaxtiy75iu4u4</sha1>
+</revision>
+</page>

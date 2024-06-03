@@ -1,0 +1,24 @@
+<page>
+<title>Xirdalan</title>
+<ns>0</ns>
+<id>4223578</id>
+<revision>
+<id>58344847</id>
+<parentid>34833695</parentid>
+<timestamp>2020-01-11T05:34:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize town place spec into {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|c/Azerbaijan}}.</text>
+<sha1>e76x8pf1frnbxgbro4azl4n5qkm31oc</sha1>
+</revision>
+</page>

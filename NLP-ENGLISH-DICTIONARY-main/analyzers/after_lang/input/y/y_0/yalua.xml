@@ -1,0 +1,44 @@
+<page>
+<title>yalua</title>
+<ns>0</ns>
+<id>4965556</id>
+<revision>
+<id>58576445</id>
+<parentid>58576443</parentid>
+<timestamp>2020-01-28T16:38:01Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="840" xml:space="preserve">==Northern Puebla Nahuatl==
+===Etymology===
+From {{inh|ncj|azc-nah-pro|*yaːlwa}}. Compare {{cog|nci|yālhua||yesterday}}.
+===Adverb===
+{{head|ncj|adverb}}
+# {{l|en|yesterday}}
+====Derived terms====
+* {{l|ncj|yalua tiotlac}}
+===References===
+* {{R:Brockway et al. 2018|page=249}}
+----
+==Pipil==
+===Etymology===
+From {{inh|ppl|azc-nah-pro|*yaːlwa}}. Compare {{cog|nci|yālhua||yesterday}}.
+===Pronunciation===
+* {{a|standard}} {{IPA|ppl|/jaːˈluwa/}}
+* {{a|Nahuizalco}} {{IPA|ppl|/jaˈluwa/}}
+* {{a|Jicalapa}} {{IPA|ppl|/jaˈlʲuwa/}}
+===Adverb===
+{{head|head=yālua|ppl|adverb}}
+# [[yesterday]]
+#: {{ux|ppl|Nikujki ne kawayu ne tikitak '''yalua'''|I bought the horse you saw '''yesterday'''}}
+====Related terms====
+* {{m|ppl|yepta|yēpta|day before yesterday}}
+* {{m|ppl|ashan|āshān|today}}
+* {{m|ppl|musta|mūsta|tomorrow}}</text>
+<sha1>fl8pmq7g92ousgp4p20jpjqk7imxkr2</sha1>
+</revision>
+</page>

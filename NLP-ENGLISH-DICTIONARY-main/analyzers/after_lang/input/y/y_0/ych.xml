@@ -1,0 +1,67 @@
+<page>
+<title>ych</title>
+<ns>0</ns>
+<id>186293</id>
+<revision>
+<id>69117790</id>
+<parentid>68543973</parentid>
+<timestamp>2022-09-04T18:02:27Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1441" xml:space="preserve">{{also|-ych}}
+==Middle English==
+===Determiner===
+{{head|enm|determiner}}
+# {{alt form|enm|ech}}
+----
+==Vilamovian==
+===Etymology===
+{{dercat|wym|gmw-pro|gem-pro|ine-pro|inh=2}}
+From {{inh|wym|gmh|ich}}, from {{inh|wym|goh|ih}}.
+===Pronunciation===
+* {{IPA|wym|/ɨç/}}
+* {{audio|wym|Wym-ych (wersja Józefa Gary).ogg|Audio}}
+===Pronoun===
+{{head|wym|pronoun|g=m}}
+# [[I]] (personal first person singular)
+----
+==Welsh==
+===Etymology 1===
+From {{inh|cy|wlm|ychen}}, from {{inh|cy|cel-bry-pro|*uxī}}, from {{m|cel-bry-pro|*uxsū}} (compare {{cog|kw|ohen|g=p}}, Breton {{m|br|oc'hen|oc’hen|g=p}}), from {{inh|cy|cel-pro|*uxsū}}, from {{inh|cy|ine-pro|*uksḗn}}.
+====Pronunciation====
+* {{a|cy-N}} {{IPA|cy|/ɨːχ/}}
+* {{a|cy-S}} {{IPA|cy|/iːχ/}}
+====Noun====
+{{cy-noun|m|ychen|pl2=ychain}}
+# [[ox]]
+===Etymology 2===
+Shortened form of {{m|cy|ydych}}.
+====Pronunciation====
+* {{a|cy-S}} {{IPA|cy|/iːχ/}}
+====Verb====
+{{cy-verb form}}
+# {{cln|cy|colloquial verb forms}} {{lb|cy|South Wales}} {{infl of|cy|bod||2p|and|polite|pres|colloq}}
+=====Synonyms=====
+* {{l|cy|dach}} {{qualifier|North Wales}}
+* {{l|cy|ŷch}}, {{l|cy|ydych}} {{qualifier|literary}}
+===Etymology 3===
+====Alternative forms====
+{{alter|cy|ach|och}}
+====Pronunciation====
+* {{IPA|cy|/əχ/}}
+====Interjection====
+{{head|cy|interjection}}
+# [[yuck]]
+=====Derived terms=====
+* {{l|cy|ych a fi}}
+===Mutation===
+{{cy-mut}}
+{{topics|cy|Cattle}}</text>
+<sha1>c3s8kb4220uyfikbl023rdo5rpsbun9</sha1>
+</revision>
+</page>

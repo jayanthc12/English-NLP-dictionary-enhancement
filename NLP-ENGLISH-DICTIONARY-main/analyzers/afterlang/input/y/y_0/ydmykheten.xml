@@ -1,0 +1,25 @@
+<page>
+<title>ydmykheten</title>
+<ns>0</ns>
+<id>7032308</id>
+<revision>
+<id>57797252</id>
+<parentid>51076730</parentid>
+<timestamp>2019-10-20T17:12:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==Norwegian Bokmål==
+===Alternative forms===
+* {{l|nb|ydmykheta}}
+===Noun===
+{{head|nb|noun form|g=m|g2=f}}
+# {{inflection of|nb|ydmykhet||def|m|s}}</text>
+<sha1>ewoipssxoqzlegm5m7k68bs6qypajql</sha1>
+</revision>
+</page>

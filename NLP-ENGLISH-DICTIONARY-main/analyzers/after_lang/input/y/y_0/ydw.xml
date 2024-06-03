@@ -1,0 +1,30 @@
+<page>
+<title>ydw</title>
+<ns>0</ns>
+<id>685843</id>
+<revision>
+<id>69117810</id>
+<parentid>69117805</parentid>
+<timestamp>2022-09-04T18:05:01Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="508" xml:space="preserve">==Welsh==
+===Pronunciation===
+* {{a|cy-N|standard|colloquial}} {{IPA|cy|/ˈədu/}}
+** {{a|cy-N|colloquial}} {{IPA|cy|/ˈəndu/|/ndu/|[ˈn̩du]|[ndu]}}
+* {{a|cy-S|standard|colloquial}} {{IPA|cy|/ˈədu/}}
+** {{a|cy-S|colloquial}} {{IPA|cy|/ˈɔdu/}}
+===Verb===
+{{cy-verb form}}
+# {{cln|cy|colloquial verb forms}} {{infl of|cy|bod||1s|pres|colloq}} {{qualifier|in interrogative or identification statements}}
+#: {{ux|cy|'''Ydw''' i yn yr ysbyty?|'''Am''' I in the hospital?}}
+====See also====
+* {{l|cy|dw}}</text>
+<sha1>tgj6ss92eimpbvvc30ckyw6d9ovcqq6</sha1>
+</revision>
+</page>

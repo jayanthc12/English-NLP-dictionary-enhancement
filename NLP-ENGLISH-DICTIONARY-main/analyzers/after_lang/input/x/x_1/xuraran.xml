@@ -1,0 +1,24 @@
+<page>
+<title>xuraran</title>
+<ns>0</ns>
+<id>4330201</id>
+<revision>
+<id>53115715</id>
+<parentid>40114335</parentid>
+<timestamp>2019-05-19T04:57:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'third-person plural pluperfect indicative' to 3|p|plup|ind; canonicalized multiword inflection tag 'third-person plural imperfect preterite subjunctive' to 3|p|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">{{also|xurarán}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xurar||3|p|plup|ind|;|3|p|impf|pret|sub}}</text>
+<sha1>21c3o8y9zsp6or3vffg5ewe1nt1wgt3</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>yfele</title>
+<ns>0</ns>
+<id>6779716</id>
+<revision>
+<id>67622960</id>
+<parentid>66433508</parentid>
+<timestamp>2022-07-03T13:46:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 2 {{l}} links into {{desc|enm}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1113" xml:space="preserve">==Middle English==
+===Adverb===
+{{enm-adv}}
+# {{tlb|enm|Early ME}} {{alt form|enm|yvel|t=evilly|id=evilly}}
+----
+==Old English==
+===Alternative forms===
+* {{alter|ang|yfle}}
+===Etymology===
+{{suffix|ang|yfel|e}}
+===Pronunciation===
+* {{ang-IPA|yfele}}
+===Adverb===
+{{ang-adv|comp=wiers|sup=wierrest}}
+# [[badly]]
+#* '''late 9th century''', [https://books.google.com/books?id=YD9HAQAAMAAJ&amp;pg=PA484 translation] of [[w:Bede|Bede's]] ''[[w:Ecclesiastical History of the English People|Ecclesiastical History]]''
+#*: {{quote|ang|''Līfes bōc and þrōwunge Sancte Anastase martyre, sēo wæs '''yfele''' of Crēċisċe on Lǣden ġehwierfedu and ġīet '''wiers''' fram sumum unġetȳdum ġeryhtedu, iċ ġeryhte swā swā iċ meahte.''|A book on the life and passion of Saint Anastasius, which was '''poorly''' translated from Greek to Latin by some illiterate person and then revised even '''worse''', I corrected as well as I could.}}
+# [[evilly]], [[wickedly]]
+====Synonyms====
+* {{l|ang|untela}}
+====Descendants====
+* {{desc|enm|yvel|id=evilly|evel|uvel}}
+** {{desc|en|evil|id=evilly}} {{q|obsolete}}</text>
+<sha1>4samtmtkmjcjgtdv7j10bw5glcjcocw</sha1>
+</revision>
+</page>

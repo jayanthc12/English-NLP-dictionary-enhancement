@@ -1,0 +1,48 @@
+<page>
+<title>Yazidi</title>
+<ns>0</ns>
+<id>3062074</id>
+<revision>
+<id>66470995</id>
+<parentid>63697356</parentid>
+<timestamp>2022-04-19T21:36:29Z</timestamp>
+<contributor>
+<username>Koavf</username>
+<id>5455</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Yazidism]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1465" xml:space="preserve">{{also|yazidi|yazidí}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Izedi}}
+* {{l|en|Yezdi}}
+* {{l|en|Yezidee}}
+* {{l|en|Yezidi}}
+===Etymology===
+From {{bor|en|ckb|ئێزیدی}}.
+===Noun===
+{{en-noun}}
+# member of a [[Kurdish]]-speaking people of northern [[Iraq]], Armenia and Caucasus, whose [[religion]] is [[Yazidism]]
+====Translations====
+{{trans-top|member of a Kurdish-speaking people of northern Iraq, whose religion is Yazidism}}
+* Armenian: {{t+|hy|եզդի|sc=Armn}}
+* Bengali: {{t|bn|ইয়েজীদী|tr=iyezīdī}}
+* Finnish: {{t+|fi|jesidi}}
+* French: {{t+|fr|Yézidi|m}} {{qualifier|ethnic}}, {{t|fr|Yézidie|f}} {{qualifier|ethnic}}, {{t+|fr|yézidi|m}} {{qualifier|religious}}, {{t+|fr|yézidie|f}} {{qualifier|religious}}, {{t+|fr|Yazidi|m}} {{qualifier|ethnic}}, {{t|fr|Yazidie|f}} {{qualifier|ethnic}}, {{t+|fr|yazidi|m}} {{qualifier|religious}}, {{t|fr|yazidie|f}} {{qualifier|religious}}
+* Georgian: {{t|ka|იეზიდი|sc=Geor}}
+* German: {{t+|de|Jeside|m}}, {{t+|de|Jesidin|f}}, {{t|de|Jezide|m}}, {{t|de|Jezidin|f}}, {{t+|de|Yezide|m}}, {{t|de|Yezidin|f}}
+{{trans-mid}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|êzdî}}
+* Polish: {{t+|pl|jezyd|m}} {{qualifier|religious}}, {{t+|pl|Jezyd|m}} {{qualifier|ethnic}}, {{t+|pl|jezydka|f}} {{qualifier|religious}}, {{t+|pl|Jezydka|f}} {{qualifier|ethnic}}
+* Russian: {{t+|ru|ези́д}}
+* Swedish: {{t+|sv|yazidier|c}}
+{{trans-bottom}}
+[[Category:en:Yazidism]]</text>
+<sha1>kalglv2d6mzl4sqzyh8k4ubb6jhc550</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xenonjaink</title>
+<ns>0</ns>
+<id>1791388</id>
+<revision>
+<id>60415904</id>
+<parentid>53045263</parentid>
+<timestamp>2020-09-17T05:13:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>n=sg -&gt; n=isg in {{hu-infl-nom}} in the context of {{inflection of|hu|...|mpos|poss}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="297" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xenon|-jaink|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|non|ja|ink}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||1|p|mpos|poss}}
+====Declension====
+{{hu-infl-nom|xenonjainka|o|n=isg|esm_sg=1}}</text>
+<sha1>riskolhwuwuqozxu7gh3kp4i0i1i7a8</sha1>
+</revision>
+</page>

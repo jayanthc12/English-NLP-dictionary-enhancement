@@ -1,0 +1,38 @@
+<page>
+<title>yhe</title>
+<ns>0</ns>
+<id>3101869</id>
+<revision>
+<id>66593865</id>
+<parentid>61793274</parentid>
+<timestamp>2022-05-07T10:37:23Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>/* Pronoun */correct language code en -&gt; enm using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="901" xml:space="preserve">==Middle English==
+===Etymology 1===
+====Noun====
+{{head|enm|noun}}
+# {{alt form|enm|eie}}
+#* {{quote-book|enm|title=The Canterbury Tales|section=Prologue|year=1386|author=Geoffrey Chaucer|passage=And smale fowles maken melodie / That slepen al the night with open '''yhe'''|url=http://books.google.com/books?id=EZTsklGiypIC&amp;dq=Smale%20fowles%20maken%20melodie%2C%20That%20slepen%20al%20the%20night%20with%20open%20yhe.&amp;pg=PA43#v=onepage&amp;q=Smale%20fowles%20maken%20melodie,%20That%20slepen%20al%20the%20night%20with%20open%20yhe.&amp;f=false}}
+===Etymology 2===
+====Pronoun====
+{{head|enm|pronoun}}
+# {{lb|enm|chiefly Northern dialectal}} {{alt form|enm|þe|t=thee|id=thee}}
+===Etymology 3===
+====Pronoun====
+{{head|enm|pronoun}}
+# {{alt form|enm|ye|t=you|id=you}}
+===Etymology 4===
+====Pronoun====
+{{head|enm|pronoun}}
+# {{alt form|enm|heo|t=she|id=she}}
+[[Category:Northern Middle English]]</text>
+<sha1>5btspra1fehhj71c096c6im1r3g164i</sha1>
+</revision>
+</page>

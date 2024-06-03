@@ -1,0 +1,27 @@
+<page>
+<title>xelatgir</title>
+<ns>0</ns>
+<id>3541936</id>
+<revision>
+<id>60848756</id>
+<parentid>60833684</parentid>
+<timestamp>2020-10-14T04:19:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+* {{suffix|kmr|xelat|gir}}
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|mf}}
+# [[prize winner]]</text>
+<sha1>e5ld5g0ld2indwf3xxi4q5xijbk314j</sha1>
+</revision>
+</page>

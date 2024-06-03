@@ -1,0 +1,35 @@
+<page>
+<title>yeyo</title>
+<ns>0</ns>
+<id>2542261</id>
+<revision>
+<id>69465590</id>
+<parentid>68943477</parentid>
+<timestamp>2022-10-07T17:28:54Z</timestamp>
+<contributor>
+<username>JeffDoozan</username>
+<id>3700253</id>
+</contributor>
+<minor />
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="625" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{alternative spelling of|en|yayo}}
+#* {{quote-book|en|year=2014|author=[[w:Marlon James (novelist)|Marlon James]]|title=[[w:A Brief History of Seven Killings|A Brief History of Seven Killings]]|publisher=Oneworld Publications (2015)|page=501|passage=I just say lemon, or '''yeyo''', or weasel dust or big C, or just fucking cocaine.}}
+----
+==Spanish==
+===Etymology===
+Dialectal variant of {{m|es|desmayo||faint, swoon}}
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|Dominican Republic|Puerto Rico|slang}} [[dizziness]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>bw6f5hsaazho199smgaa4g6afnkmcjg</sha1>
+</revision>
+</page>

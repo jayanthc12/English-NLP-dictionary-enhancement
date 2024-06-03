@@ -1,0 +1,40 @@
+<page>
+<title>xeonlleira</title>
+<ns>0</ns>
+<id>6999088</id>
+<revision>
+<id>68869163</id>
+<parentid>68865451</parentid>
+<timestamp>2022-08-28T06:00:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="954" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xeolleira|xoelleira}}
+===Etymology===
+{{suffix|gl|xeonllo|eira|alt1=Xeonllo|t1=knee}}; from Old Galician and {{inh|gl|roa-opt||geolheira, geoleyra}}. Compare {{cog|fr|genouillère}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeonˈʎejɾa̝/}}
+===Noun===
+{{gl-noun|f}}
+# {{lb|gl|historical}} [[genouillère]], [[poleyn]]
+#* '''1290''', Clarinda de Azevedo Maia (ed.), ''História do galego-português. Estado linguístico da Galiza e do Noroeste de Portugal do século XII ao século XVI (com referência á situação do galego moderno)''. Coimbra: I.N.I.C., page 139:
+#*: ''Item mando a ma loriga τ aſ maſ '''geoleyraſ''' a Martin Eaneſ, meu ſobrjno''
+#*:: Item, I send my mail and my '''poleyns''' to Martin Anes, my nephew
+# [[knee pad]]
+====Related terms====
+* {{l|gl|xeonllo}}
+===References===
+* {{R:gl:DDGM|geolheira}}
+* {{R:gl:CX|geoleyra}}
+* {{R:gl:DDLG|xoelleira}}
+* {{R:gl:TILG|xoelleira}}</text>
+<sha1>054kmimt8l5fobkotqll7btxicgbjit</sha1>
+</revision>
+</page>

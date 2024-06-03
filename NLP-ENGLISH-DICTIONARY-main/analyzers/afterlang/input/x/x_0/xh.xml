@@ -1,0 +1,32 @@
+<page>
+<title>xh</title>
+<ns>0</ns>
+<id>2102918</id>
+<revision>
+<id>67491879</id>
+<parentid>67417117</parentid>
+<timestamp>2022-06-21T21:12:58Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 639|1}}
+----
+==Albanian==
+===Pronunciation===
+* {{IPA|sq|/d͡ʒ/}}
+===Letter===
+{{head|sq|letter|upper case|Xh}}
+# {{Latn-def|sq|letter|33}}
+====See also====
+* {{list:Latin script letters/sq}}</text>
+<sha1>df6tf4qkodiqtpx3owbwfjq76tbplcl</sha1>
+</revision>
+</page>

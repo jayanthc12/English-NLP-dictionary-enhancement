@@ -1,0 +1,29 @@
+<page>
+<title>xitwa</title>
+<ns>0</ns>
+<id>4026908</id>
+<revision>
+<id>66569476</id>
+<parentid>61409740</parentid>
+<timestamp>2022-05-04T00:15:49Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="244" xml:space="preserve">==Maltese==
+{{mt-root|x-t-w}}
+===Etymology===
+From {{inh|mt|ar|شَتْوة}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɪt.wa/}}
+===Noun===
+{{mt-noun|g=f|p=xtiewi|pauc=xitwiet}}
+# [[winter]] {{gloss|season}}
+===See also===
+{{table:seasons/mt}}</text>
+<sha1>a3xexmp2a5norhqr4cji6jj1l8sdvv9</sha1>
+</revision>
+</page>

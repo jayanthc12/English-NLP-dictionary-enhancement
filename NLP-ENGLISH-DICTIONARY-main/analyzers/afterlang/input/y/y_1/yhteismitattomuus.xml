@@ -1,0 +1,28 @@
+<page>
+<title>yhteismitattomuus</title>
+<ns>0</ns>
+<id>3629814</id>
+<revision>
+<id>69318458</id>
+<parentid>51922274</parentid>
+<timestamp>2022-09-18T17:19:19Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="218" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteismitaton|uus}}
+===Pronunciation===
+{{fi-p|yhteis-mitattomuus}}
+===Noun===
+{{fi-noun}}
+# [[incommensurability]]
+====Declension====
+{{fi-decl-kalleus|yhteismitattomuu|a}}</text>
+<sha1>ttr1dkrdz4i1wtb4eq0fn9ludnwnckv</sha1>
+</revision>
+</page>

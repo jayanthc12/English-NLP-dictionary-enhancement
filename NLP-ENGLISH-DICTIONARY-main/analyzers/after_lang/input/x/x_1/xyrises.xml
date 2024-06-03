@@ -1,0 +1,24 @@
+<page>
+<title>xyrises</title>
+<ns>0</ns>
+<id>3473555</id>
+<revision>
+<id>56046652</id>
+<parentid>53092532</parentid>
+<timestamp>2019-10-17T01:05:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xyris}}
+[[Category:English plurals ending in &quot;-es&quot;]]</text>
+<sha1>tv550bh7ltf7o5exnnh14vob0sqj7c2</sha1>
+</revision>
+</page>

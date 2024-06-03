@@ -1,0 +1,25 @@
+<page>
+<title>yamukunaun</title>
+<ns>0</ns>
+<id>4586035</id>
+<revision>
+<id>55660698</id>
+<parentid>46217891</parentid>
+<timestamp>2019-10-15T11:11:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">==Wauja==
+===Etymology===
+From {{affix|wau|yamukutai|t1=child|-naun|pos2=plural}}.
+===Noun===
+{{head|wau|noun form}}
+# {{plural of|wau|yamukutai}}</text>
+<sha1>hli95v84dhxax01cnutcbsb3wf78osn</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>yhdenvertaisesti</title>
+<ns>0</ns>
+<id>613608</id>
+<revision>
+<id>58593395</id>
+<parentid>53451117</parentid>
+<timestamp>2020-01-30T12:17:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdenvertainen|sti}}
+===Pronunciation===
+{{fi-pronunciation|yhden-vertaisesti*}}
+===Adverb===
+{{fi-adv|yhdenvertaisemmin|yhdenvertaisimmin}}
+# [[equally]]</text>
+<sha1>1sp94bj5ketusqi4tkq69volmij5hvt</sha1>
+</revision>
+</page>

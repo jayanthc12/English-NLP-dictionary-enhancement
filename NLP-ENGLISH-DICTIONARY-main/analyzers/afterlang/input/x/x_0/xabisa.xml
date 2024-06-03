@@ -1,0 +1,27 @@
+<page>
+<title>xabisa</title>
+<ns>0</ns>
+<id>6683757</id>
+<revision>
+<id>65319441</id>
+<parentid>59629379</parentid>
+<timestamp>2022-01-12T03:49:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Xhosa: correct indentation of section 3 (Derived terms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="139" xml:space="preserve">==Xhosa==
+===Verb===
+{{xh-verb|xábísa}}
+# to [[value]]
+====Inflection====
+{{rfinfl|xh|verb}}
+====Derived terms====
+* {{l|xh|ixabiso}}</text>
+<sha1>cvdngou4n9hu05po4hffiig2o23hxmm</sha1>
+</revision>
+</page>

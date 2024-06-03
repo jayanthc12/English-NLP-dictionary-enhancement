@@ -1,0 +1,27 @@
+<page>
+<title>yankees</title>
+<ns>0</ns>
+<id>4678821</id>
+<revision>
+<id>64470030</id>
+<parentid>55690204</parentid>
+<timestamp>2021-10-28T23:04:56Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Added forms (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="178" xml:space="preserve">{{also|Yankees}}
+==Spanish==
+===Adjective===
+{{head|es|adjective form|g=m-p|g2=f-p}}
+# {{adj form of|es|yankee||p}}
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yankee}}</text>
+<sha1>mtjo1zf9l1w37xk96xh91gr4rn6yfd5</sha1>
+</revision>
+</page>

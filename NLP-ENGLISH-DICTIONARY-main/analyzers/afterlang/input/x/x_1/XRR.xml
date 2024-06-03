@@ -1,0 +1,27 @@
+<page>
+<title>XRR</title>
+<ns>0</ns>
+<id>4686254</id>
+<revision>
+<id>63220519</id>
+<parentid>54613939</parentid>
+<timestamp>2021-07-19T21:46:10Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="186" xml:space="preserve">==English==
+===Noun===
+{{en-noun|?}}
+# {{lb|en|spectroscopy}} {{initialism of|en|[[X-ray]] [[reflectivity]]}}
+===See also===
+* {{l|en|XRF}}
+===Anagrams===
+* {{anagrams|en|a=rrx|RXR}}</text>
+<sha1>4u8wttxwlieip06ce39o0i9q885sjnv</sha1>
+</revision>
+</page>

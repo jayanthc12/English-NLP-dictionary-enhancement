@@ -1,0 +1,24 @@
+<page>
+<title>ximios</title>
+<ns>0</ns>
+<id>4811974</id>
+<revision>
+<id>62952533</id>
+<parentid>55739751</parentid>
+<timestamp>2021-06-25T07:11:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Old Spanish plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|ximíos}}
+==Old Spanish==
+===Noun===
+{{head|osp|noun form|g=m-p}}
+# {{plural of|osp|ximio}}</text>
+<sha1>h86dm9vepx6ree6pw08t7tu37ask8f6</sha1>
+</revision>
+</page>

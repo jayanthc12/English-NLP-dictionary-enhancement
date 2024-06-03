@@ -1,0 +1,27 @@
+<page>
+<title>xanthorrhoea</title>
+<ns>0</ns>
+<id>3476303</id>
+<revision>
+<id>61115561</id>
+<parentid>46445187</parentid>
+<timestamp>2020-11-14T07:42:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="219" xml:space="preserve">{{also|Xanthorrhoea}}
+==English==
+===Etymology===
+From the genus name.
+===Noun===
+{{en-noun}}
+# {{lb|en|botany}} Any of the [[genus]] ''[[Xanthorrhoea]]'' of [[grass tree]]s.
+[[Category:en:Asparagales order plants]]</text>
+<sha1>itmwegyjzvthpz3n9g77gx52v34iidr</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yestersols</title>
+<ns>0</ns>
+<id>3632488</id>
+<revision>
+<id>56118878</id>
+<parentid>53093128</parentid>
+<timestamp>2019-10-17T04:32:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yestersol}}
+===Anagrams===
+* {{anagrams|en|a=eelorsssty|oysterless}}</text>
+<sha1>0l6j3pdmscz7jwksxzdanfjrhnead13</sha1>
+</revision>
+</page>

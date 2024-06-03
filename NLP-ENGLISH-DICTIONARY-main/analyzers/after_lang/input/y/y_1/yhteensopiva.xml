@@ -1,0 +1,39 @@
+<page>
+<title>yhteensopiva</title>
+<ns>0</ns>
+<id>664947</id>
+<revision>
+<id>61653672</id>
+<parentid>61653669</parentid>
+<timestamp>2021-01-25T20:23:11Z</timestamp>
+<contributor>
+<username>ShakespeareFan00</username>
+<id>103672</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="933" xml:space="preserve">==Finnish==
+===Etymology===
+{{com|fi|yhteen|t1=together|sopiva|t2=fitting}}; &quot;that fits together&quot;
+===Pronunciation===
+{{fi-pronunciation|yhteen-sopiva}}
+===Adjective===
+{{fi-adj|yhteensopiv|ampi|in}}
+# [[compatible]]
+#: {{ux|fi|Englantilaisen sähkölaitteen pistoke ei ole '''yhteensopiva''' suomalaisen rakennuksen seinässä olevan pistorasian kanssa.|The plug of an English electronic device is not '''compatible''' with a socket in the wall of a Finnish building.}}
+#: {{ux|fi|Armenia on kehittänyt prikaatiluokan rauhanturva- ja Nato-'''yhteensopivia''' yksiköitä.|Armenia has created brigade-sized peacekeeping and NATO-'''compatible''' units.}}
+# [[coincident]]
+# [[matching]], [[mating]]
+====Declension====
+{{fi-decl-koira|pos=adj|yhteensopiv|||a}}
+====Antonyms====
+* {{l|fi|yhteensopimaton}}
+====Derived terms====
+* {{l|fi|yhteensopivasti}}
+* {{l|fi|yhteensopivuus}}
+====Related terms====
+* {{l|fi|sopia yhteen}}</text>
+<sha1>4yt5y5qg39ztxvdzb9hpjmfs3pdm4yp</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>xeriscaping</title>
+<ns>0</ns>
+<id>758962</id>
+<revision>
+<id>54417769</id>
+<parentid>52485268</parentid>
+<timestamp>2019-09-29T12:39:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-web}}; move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="662" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xeriscape|ing}}
+===Noun===
+{{en-noun|-|s}}
+# [[landscaping|Landscaping]] in ways that do not require supplemental [[irrigation]].
+#* {{quote-web
+|en
+|date=2016-10-31
+|title=Trolls for Trump
+|work=The New Yorker
+|url=https://www.newyorker.com/magazine/2016/10/31/trolls-for-trump
+|author=Andrew Marantz
+|passage=I visited him in mid-September. He had recently moved to a cul-de-sac where every house has stucco walls, a ceramic tile roof, and bland '''xeriscaping'''.
+|accessdate=December 2, 2017}}
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|xeriscape|nocat=1}}
+===See also===
+* {{l|en|xerogarden}}</text>
+<sha1>5f1i6j6p9l08j6dtptoffk9tkhiavd2</sha1>
+</revision>
+</page>

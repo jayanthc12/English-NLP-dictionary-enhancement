@@ -1,0 +1,33 @@
+<page>
+<title>xoxohuic</title>
+<ns>0</ns>
+<id>6952790</id>
+<revision>
+<id>68864020</id>
+<parentid>65318875</parentid>
+<timestamp>2022-08-28T05:25:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Milpa Alta}} {{l|nhn|xoxoctic}}
+* {{sense|Tlaxcala}} {{l|nhn|xoxoktik}}
+===Adjective===
+{{head|nhn|adjective}}
+# [[green]].
+[[Category:Amecameca Central Nahuatl]]
+[[Category:nhn:Colors]]
+----
+==Eastern Huasteca Nahuatl==
+===Adjective===
+{{head|nhe|adjective}}
+# [[green]]</text>
+<sha1>3rflfw314b71hetq5up31tphv7o6ya1</sha1>
+</revision>
+</page>

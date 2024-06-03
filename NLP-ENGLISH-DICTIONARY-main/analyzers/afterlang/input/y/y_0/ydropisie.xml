@@ -1,0 +1,25 @@
+<page>
+<title>ydropisie</title>
+<ns>0</ns>
+<id>4628392</id>
+<revision>
+<id>60256767</id>
+<parentid>50469626</parentid>
+<timestamp>2020-09-05T01:25:05Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="302" xml:space="preserve">==Old French==
+===Etymology===
+From {{der|fro|LL.||hydropisia}}, from {{der|fro|la|hydropisis}}, from {{der|fro|grc|ὕδρωψ||edema}}, from {{m|grc|ὕδωρ||water}}. Compare with {{cog|en|dropsy}}.
+===Noun===
+{{fro-noun|f}}
+# {{lb|fro|medicine}} [[swelling]] of the [[abdomen]] due to [[serum]]</text>
+<sha1>15g6ru3qoyyqzrxhn3qp1qd0r11md7h</sha1>
+</revision>
+</page>

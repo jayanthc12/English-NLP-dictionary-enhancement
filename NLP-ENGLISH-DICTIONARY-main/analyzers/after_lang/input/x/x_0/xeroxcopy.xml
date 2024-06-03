@@ -1,0 +1,28 @@
+<page>
+<title>xeroxcopy</title>
+<ns>0</ns>
+<id>4395627</id>
+<revision>
+<id>60456850</id>
+<parentid>55266798</parentid>
+<timestamp>2020-09-21T08:03:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">{{also|xerox copy}}
+==English==
+===Etymology===
+{{compound|en|xerox|copy}}
+===Noun===
+{{en-noun}}
+# {{lb|en|rare}} {{alternative spelling of|en|xerox copy}}
+====Translations====
+{{trans-see|xerox copy}}</text>
+<sha1>9ucukljycgmefu7lqauswidcy4qfjx5</sha1>
+</revision>
+</page>

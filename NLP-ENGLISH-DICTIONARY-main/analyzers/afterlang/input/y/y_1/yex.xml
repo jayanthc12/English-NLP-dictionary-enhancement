@@ -1,0 +1,49 @@
+<page>
+<title>yex</title>
+<ns>0</ns>
+<id>267607</id>
+<revision>
+<id>69476538</id>
+<parentid>65332499</parentid>
+<timestamp>2022-10-09T19:26:10Z</timestamp>
+<contributor>
+<ip>85.64.90.34</ip>
+</contributor>
+<comment>t+he:[[שיהוק]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1154" xml:space="preserve">==English==
+===Alternative forms===
+* {{alt|en|yesk}}
+===Pronunciation===
+* {{IPA|en|/jɛks/}}
+* {{rhymes|en|ɛks|s=1}}
+===Etymology 1===
+From {{inh|en|enm|yexen}}, {{m|enm|yixen}}, {{m|enm|yesken}}, from {{inh|en|ang|ġeocsian}}, {{m|ang|ġiscian||to hiccup}}, from {{inh|en|gmw-pro|*giskōn||to yawn}}, from {{der|en|ine-pro|*ǵeys-||gaping, cracked}}. Cognate with {{cog|gml|gischen||to sob, sigh}}, {{cog|gmh|geschen}}, {{m|gmh|gischen||to yawn, gape}}.
+====Verb====
+{{en-verb}}
+# {{lb|en|archaic}} to [[hiccup]]
+# {{lb|en|archaic}} to [[belch]] or [[burp]]
+=====Derived terms=====
+* {{l|en|yexing}}
+=====Translations=====
+{{trans-top|Hiccup}}
+* French: {{t+|fr|hoqueter}}
+{{trans-mid}}
+* Hebrew: {{t+|he|שיהוק|m|tr=shihuk}}
+{{trans-bottom}}
+{{trans-top|Belch or burp}}
+* French: {{t+|fr|roter}}
+{{trans-mid}}
+{{trans-bottom}}
+===Etymology 2===
+From {{inh|en|enm|ȝeoxe}}, {{m|enm|ȝoxe}}, from {{inh|en|ang|ġeoxa}}, {{m|ang|ġeocsa}}, {{m|ang|ġicsa|t=hiccough; sobbing}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|archaic|or|dialectal}} a [[hiccup]]
+===Anagrams===
+* {{anagrams|en|a=exy|exy|xey}}
+[[Category:English three-letter words]]</text>
+<sha1>gevzhnbjmi5zvb07h845hvo0ar7q0yl</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yaaku</title>
+<ns>0</ns>
+<id>6361432</id>
+<revision>
+<id>67148639</id>
+<parentid>47347785</parentid>
+<timestamp>2022-05-24T09:03:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="64" xml:space="preserve">==French==
+===Noun===
+{{fr-noun|m|-}}
+# the [[Yaaku]] language</text>
+<sha1>rm3eyczafg2azz93puo1r6cwykv59qd</sha1>
+</revision>
+</page>

@@ -1,0 +1,54 @@
+<page>
+<title>yhteiskunta</title>
+<ns>0</ns>
+<id>479553</id>
+<revision>
+<id>65147847</id>
+<parentid>63747672</parentid>
+<timestamp>2022-01-02T23:22:11Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1029" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|yhteinen|alt1=yhteis-|kunta|t1=common|t2=community, group}}
+===Pronunciation===
+{{fi-p|yhteis-kunta}}
+===Noun===
+{{head|fi|noun}}
+# [[society]] {{gloss|group of people sharing culture; social system}}
+====Declension====
+{{fi-decl-koira|yhteisku|nt|nn|a}}
+====Derived terms====
+* {{l|fi|yhteiskunnallinen}}
+* {{l|fi|yhteiskunnallistaa}}
+{{rel-top3|compounds}}
+* {{l|fi|holhousyhteiskunta}}
+* {{l|fi|hyvinvointiyhteiskunta}}
+* {{l|fi|luokkayhteiskunta}}
+* {{l|fi|yhteiskuntafilosofi}}
+* {{l|fi|yhteiskuntajärjestelmä}}
+* {{l|fi|yhteiskuntajärjestys}}
+{{rel-mid3}}
+* {{l|fi|yhteiskuntakeskustelu}}
+* {{l|fi|yhteiskuntakoneisto}}
+* {{l|fi|yhteiskuntakriitikko}}
+* {{l|fi|yhteiskuntaluokka}}
+* {{l|fi|yhteiskuntamalli}}
+* {{l|fi|yhteiskuntamuutos}}
+{{rel-mid3}}
+* {{l|fi|yhteiskuntapalvelu}}
+* {{l|fi|yhteiskuntapolitiikka}}
+* {{l|fi|yhteiskuntarakenne}}
+* {{l|fi|yhteiskuntatiede}}
+* {{l|fi|yhteiskuntatieteilijä}}
+* {{l|fi|yhteiskuntatutkija}}
+{{rel-bottom}}</text>
+<sha1>akivuao5kr4jplvhgml561nqwspbqrn</sha1>
+</revision>
+</page>

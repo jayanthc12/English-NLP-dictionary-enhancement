@@ -1,0 +1,34 @@
+<page>
+<title>Xenoglaux</title>
+<ns>0</ns>
+<id>3073475</id>
+<revision>
+<id>57919136</id>
+<parentid>57919132</parentid>
+<timestamp>2019-10-31T15:34:34Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="507" xml:space="preserve">==Translingual==
+===Etymology===
+{{prefix|mul|xeno|Glaux}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Strigidae|{{vern|long-whiskered owlet}} of Andean Peru }}
+====Hypernyms====
+* {{sense|genus}} {{Strigidae Hypernyms}}; [[Surniinae]]&amp;nbsp;- subfamily
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xenoglaux loweryi|species|ver=191031}}&amp;nbsp;- sole accepted species
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>nqi9t7mmql0xzej9p6oms2pllu60skl</sha1>
+</revision>
+</page>

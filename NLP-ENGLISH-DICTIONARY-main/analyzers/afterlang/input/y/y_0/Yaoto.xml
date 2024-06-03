@@ -1,0 +1,27 @@
+<page>
+<title>Yaoto</title>
+<ns>0</ns>
+<id>6500887</id>
+<revision>
+<id>68740231</id>
+<parentid>67833557</parentid>
+<timestamp>2022-08-26T07:50:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{surname|ceb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==Cebuano==
+===Etymology===
+From {{der|ceb|ja|-}}.
+===Pronunciation===
+* {{hyphenation|ceb|yao|to}}
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb}}</text>
+<sha1>cof6omzl6txdgjqde43w1w9i99wn4yf</sha1>
+</revision>
+</page>

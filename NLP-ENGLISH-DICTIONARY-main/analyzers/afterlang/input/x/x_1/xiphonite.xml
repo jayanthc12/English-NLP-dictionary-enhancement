@@ -1,0 +1,33 @@
+<page>
+<title>xiphonite</title>
+<ns>0</ns>
+<id>1472772</id>
+<revision>
+<id>67052973</id>
+<parentid>50315780</parentid>
+<timestamp>2022-05-17T11:15:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize topical categories for lang=fr using {{C}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="392" xml:space="preserve">==English==
+===Etymology===
+Named in 1893 by either Dr Gaetano Platania or Giovanni Platania after Xiphonia, Italy, a town near the [[type locality]].
+===Noun===
+{{en-noun|-}}
+# {{lb|en|mineral|obsolete}} A [[scoriaceous]] [[amphibole]] with [[yellow]] [[crystal]]s.
+----
+==French==
+===Noun===
+{{fr-noun|f|-}}
+# {{l|en|xiphonite}}
+===Further reading===
+* {{R:TLFi}}
+{{C|fr|Minerals}}</text>
+<sha1>g4iwue9iicxix7g2xspee2h5ij432r6</sha1>
+</revision>
+</page>

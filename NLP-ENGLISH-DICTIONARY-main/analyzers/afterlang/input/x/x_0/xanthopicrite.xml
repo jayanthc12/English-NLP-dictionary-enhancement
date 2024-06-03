@@ -1,0 +1,25 @@
+<page>
+<title>xanthopicrite</title>
+<ns>0</ns>
+<id>3111901</id>
+<revision>
+<id>51779707</id>
+<parentid>49338496</parentid>
+<timestamp>2019-03-13T15:14:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xantho|picrite}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|organic compound|archaic}} A [[bitter]] [[crystalline]] [[alkaloid]] extracted from plants of family {{taxlink|Xanthoxylaceae|family}}.</text>
+<sha1>bpf0qckeu9rd8z6i7tmd9x300bfltt2</sha1>
+</revision>
+</page>

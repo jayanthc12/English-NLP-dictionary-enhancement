@@ -1,0 +1,26 @@
+<page>
+<title>yashamoq</title>
+<ns>0</ns>
+<id>1758480</id>
+<revision>
+<id>62232336</id>
+<parentid>60921634</parentid>
+<timestamp>2021-03-23T08:16:57Z</timestamp>
+<contributor>
+<username>DanielWhernchend</username>
+<id>3677925</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="135" xml:space="preserve">==Uzbek==
+===Etymology===
+From {{der|uz|trk-pro|*jāĺ}}.
+===Verb===
+{{uz-verb}}
+# to [[live]]
+====Conjugation====
+{{uz-verb-conj}}</text>
+<sha1>gaifzb7xudsfkce3d3mmpujg3j1zvfu</sha1>
+</revision>
+</page>

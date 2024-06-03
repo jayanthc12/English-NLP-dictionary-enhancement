@@ -1,0 +1,31 @@
+<page>
+<title>xenomorphism</title>
+<ns>0</ns>
+<id>7155123</id>
+<revision>
+<id>61121835</id>
+<parentid>54377288</parentid>
+<timestamp>2020-11-14T09:51:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1996" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|morph|ism}}
+===Noun===
+{{en-noun|~}}
+# The process or result of taking a form that reflects the surrounding environment.
+#* {{quote-book|en |year=1953 |title=Treatise on Invertebrate Paleontology: Protista 2. vols. 1-2. c1964|author=Raymond Cecil Moore, Curt Teichert |page=95|ISBN=|passage='''Xenomorphism''' in oysters remains restricted to the umbonal region of the right valve.}}
+#* {{quote-book|en |year=1969 |title=Smithsonian Contributions to Paleobiology - Issue 53 |author=|page=487|ISBN=|passage=The form of the enigma basis is inherently functional; the details and form of the locus in the Mercenaria are responsive and the juxtaposition of the Mclellania basis with the Mercenaria produces '''xenomorphism''' in both.}}
+#* {{quote-book|en |year=1970|title=Doklady of the Academy of Sciences of the U.S.S.R.|author=|page=|ISBN=|passage=The '''xenomorphism''' of sylvite is consistent with the fact that even after the complete solidification of halite this mineral must have ...}}
+#* {{quote-book|en |year=1975|title=Geology of Central Badakhshan and Surrounding Countries |author=E.J. Grill|page=200|ISBN=|passage=Without change in the percentage of the other components, there is a structural variation, that is a general '''xenomorphism'''.}}
+#* {{quote-book|en |year=1981|title=Principles of Benthic Marine Paleoecology |author=Arthur James Boucot, Robert S. Carney |page=102|ISBN=|passage=The importance of '''xenomorphism''' and impressions for the paleoecologist is that they reveal the presence of certain soft-bodied organisms that may have served as substrates and have been critical to the establishment of communities. }}
+#* {{quote-book|en |year=1988|title=Pacific oyster culture in British Columbia - Issue 218 |author=D. B. Quayle |page=77|ISBN=0660128691|passage=If an oyster is attached to a solid object, the left or lower valve will follow the contour of that object and this is called '''xenomorphism''' (Fig. 73).}}</text>
+<sha1>kykg2je7g5dwwrt499d5j3o8soe7ip5</sha1>
+</revision>
+</page>

@@ -1,0 +1,77 @@
+<page>
+<title>yaku</title>
+<ns>0</ns>
+<id>2467666</id>
+<revision>
+<id>58114092</id>
+<parentid>58043973</parentid>
+<timestamp>2019-12-05T04:02:17Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1398" xml:space="preserve">{{also|yakuʔ}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やく}}
+# {{ja-romanization of|ヤク}}
+----
+==Lindu==
+===Pronoun===
+{{head|klw|pronoun}}
+# [[I]]; [[me]]
+----
+==Padoe==
+===Alternative forms===
+* {{l|pdo|jaku}}
+===Etymology===
+From {{inh|pdo|poz-btk-pro|*ku}}, from {{inh|pdo|poz-pro|*(i-)aku}}, from {{inh|pdo|map-pro|*(i-)aku}}.
+===Pronoun===
+{{head|pdo|pronoun}}
+# [[I]] {{gloss|personal pronoun}}
+# [[me]] {{gloss|direct object of a verb}}
+# [[me]] {{gloss|object of a preposition}}
+# [[me]] {{gloss|indirect object of a verb}}
+# [[my]] {{gloss|belonging to me}}
+----
+==Quechua==
+===Noun===
+{{head|qu|noun}}
+# [[water]]
+#* '''2012''', ''Languages of the Amazon'' {{ISBN|0199593566}}:
+#*: chay-chru lurin '''yaku'''-kuna-si llalla-ku-n-mi
+#*:: that-LOC Lurin water-PL-also be.salty-REF-3-DIR.EV
+#*::: Even the '''water''' around Lurin is salty. [I know because I tasted it.]
+====Declension====
+{{qu-noun-v}}{{qu-poss-v}}
+====Synonyms====
+* {{l|qu|unu}}
+====Derived terms====
+* {{l|qu|misk'i yaku}}
+* {{l|qu|q’uñi yaku}}
+* {{l|qu|yaku t'impuchina}}
+----
+==Thao==
+===Etymology===
+From {{inh|ssf|map-pro|*(i-)aku}}.
+===Pronoun===
+{{head|ssf|pronoun}}
+# [[I]] {{gloss|personal pronoun}}
+----
+==Totoli==
+===Pronoun===
+{{head|txe|pronoun}}
+# {{alternative form of|txe|aku}}
+----
+==Yámana==
+===Noun===
+{{head|yag|noun}}
+# [[wood]]</text>
+<sha1>aulep223sblmjzn16tby87yo5tqbl49</sha1>
+</revision>
+</page>

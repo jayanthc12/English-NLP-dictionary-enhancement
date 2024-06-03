@@ -1,0 +1,25 @@
+<page>
+<title>Xenxo</title>
+<ns>0</ns>
+<id>7037052</id>
+<revision>
+<id>60889008</id>
+<parentid>55062204</parentid>
+<timestamp>2020-10-20T10:13:43Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="285" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|Genesius}}, from Ancient Greek {{m|grc|Γενέσιος}}.
+Cognates include: {{cog|ca|Genís}}, {{cog|es|Ginés}}, {{cog|eu|Giñex}}, {{cog|it|Genesio}}, {{cog|fr|Genès}}.
+===Proper noun===
+{{gl-proper noun|m}}
+# {{given name|gl|male}}</text>
+<sha1>izmxnq16k387rcz0ukhr9caqxdnm60w</sha1>
+</revision>
+</page>

@@ -1,0 +1,61 @@
+<page>
+<title>yaotl</title>
+<ns>0</ns>
+<id>473431</id>
+<revision>
+<id>65321334</id>
+<parentid>63842268</parentid>
+<timestamp>2022-01-12T05:48:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Classical Nahuatl: correct indentation of section 4 (Usage notes) to 4 and section 5 (Derived terms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1403" xml:space="preserve">==Central Huasteca Nahuatl==
+===Pronunciation===
+* {{IPA|nch|/jaːˈoːtɬ/}}
+===Noun===
+{{head|nch|noun}}
+# [[soldier]]
+===References===
+* Vocabulario básico náhuatl-español (2004); Secretaría de Educación Pública, Gobierno del Estado de Hidalgo; Mexico.
+[[Category:nch:Military]]
+----
+==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[enemy]]
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|iautl}}
+===Pronunciation===
+* {{IPA|nci|/jaːˈoːtɬ/}}
+* {{IPA|nci|[ˈjáːˈ.oːtɬ]}}
+===Noun===
+{{head|nci|noun|head=yāōtl}}
+# [[enemy|Enemy]].
+#* '''1555:''' [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Enemigo. '''teyaouh'''.
+====Usage notes====
+As an element of compounds, '''yao-''' usually has the meaning &quot;war; warfare&quot; (see '''[[yaoyotl]]''').
+====Derived terms====
+{{der-top}}
+* {{l|nci|necoc yaotl}}
+* {{l|nci|yaomiqui}}
+* {{l|nci|yaotenco}}
+{{der-mid}}
+* {{l|nci|yaotenhuah}}
+* {{l|nci|yaoyotl}}
+{{der-bottom}}
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 266–267.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 335.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 242.
+[[Category:nci:People]]</text>
+<sha1>gdmli1qey7xtg6xln2jzf3yuexw4alk</sha1>
+</revision>
+</page>

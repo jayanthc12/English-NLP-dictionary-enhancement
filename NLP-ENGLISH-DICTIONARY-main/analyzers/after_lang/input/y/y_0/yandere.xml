@@ -1,0 +1,97 @@
+<page>
+<title>yandere</title>
+<ns>0</ns>
+<id>1405862</id>
+<revision>
+<id>69288918</id>
+<parentid>69287499</parentid>
+<timestamp>2022-09-16T19:42:01Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/217.229.89.244|217.229.89.244]]. If you think this rollback is in error, please leave a message on my talk page.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3889" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ja|ヤンデレ|tr=yandere}}, a portmanteau of {{m|ja|病んでる|tr=yanderu}}, contraction of {{m|ja|[[病んで]][[いる]]|tr=yande iru}}, progressive tense of {{m|ja|病む|tr=yamu||to be sick}}, and {{m|ja|デレデレ|tr=dere-dere||in a lovey-dovey, infatuated, or lovestruck manner|pos=adverb}}.&lt;ref&gt;
+{{cite-book
+|year=2010
+|author=Richard W. Kroon
+|title=A/V A to Z: An Encyclopedic Dictionary of Media, Entertainment and Other Audiovisual Terms
+|publisher=McFarland &amp; Company
+|ISBN=9780786457403
+|pageurl=https://books.google.com/books?id=HjmNAgAAQBAJ&amp;pg=PA760&amp;dq=%22yandere%22
+|page=760
+}}&lt;/ref&gt;&lt;ref&gt;{{cite-web|url=http://www.japanesewithanime.com/2016/07/tsundere-kuudere-yandere-meaning.html|title=Tsundere, Yandere, Kuudere, Dandere - Meaning|site=Japanese with Anime|section=Yandere ヤンデレ|sectionurl=http://www.japanesewithanime.com/2016/07/tsundere-kuudere-yandere-meaning.html#yandere-meaning|date=21 July 2016}}
+&lt;/ref&gt;
+&lt;br/&gt;Developed on the model of {{m|en|tsundere||being cold and even hostile towards another person before gradually showing a warm and caring side over time}}.
+===Pronunciation===
+* {{IPA|en|/ˈjɑːndɛɹeɪ/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|chiefly|Japanese fiction}} A [[character]], usually a [[girl]], who has a [[obsessive]] and [[possessive]] side in regards to their [[crush]], ready to use [[violent]] and [[murderous]] [[mean]]s to [[maintain]] an [[exclusive]] [[bond]].
+#* {{quote-newsgroup
+|en
+|date=4 October 2009
+|author=sanjian [username]
+|title=Re: Bakemonogatari - comments on the end of the TV broadcast
+|url=https://groups.google.com/forum/#!original/rec.arts.anime.misc/07femC8T_8M/_64l4BM5M-oJ
+|newsgroup=rec.arts.anime.misc
+|passage=And it finally answered the question as to whether Senjougahara is tsundere or '''yandere'''.
+}}
+#* {{quote-book
+|en
+|year=2012
+|author=Jazmine Brusola
+|url=http://issuu.com/tilad/docs/alaflyleaf
+|title=Rabble Rousers: A Fate/Zero Anime Review
+|publisher=Flyleaf (Ateneo Literary Association)
+|page=14
+|passage=Looking at anime charts, there's always the harem series with the dense hero and a bunch of girls whose personalities are pulled out of a set cast of tropes (the Childhood Friend, ''Tsundere'', '''''Yandere''''', and Lolita, for instance).
+}}
+#* {{quote-book
+|en
+|year=2014
+|author=Olivia D. Knight
+|title=Please, Let Me Be a Seiyuu!
+|publisher=BookRix
+|ISBN=9783730998380
+|http://books.google.com/books?id=O9tcAwAAQBAJ&amp;pg=PT31&amp;dq=%22Yandere+stalker:#v=onepage&amp;q=%22Yandere%20stalker%3A&amp;f=false
+|page=unnumbered
+|passage=“Believe it, man. In fact, she's seriously creepy. Like creepier than that pink-haired girl from Future Diary.” &lt;br&gt; “Wait, what?” Sam got that reference quickly, but was not happy with the comparison. She wasn't a psychopathic, murderous '''Yandere''' stalker, from what he could see.
+}}
+#* {{seemoreCites|en}}
+====Related terms====
+* {{l|en|dandere}}, {{l|en|kamidere}}, {{l|en|kuudere}}, {{l|en|tsundere}}
+====Translations====
+{{trans-top|character who fits the archetype of being genuinely kind, loving, or gentle, but suddenly switching to being aggressive or deranged}}
+* Arabic: {{t|ar|يَانْدِرِي|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|病嬌}}, {{t+|cmn|病娇|tr=bìngjiāo}}
+* French: {{t+|fr|yandere|f}}
+* German: {{t|de|Yandere|f}}
+* Italian: {{t|it|yandere|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|ヤンデレ|tr=yandere}}
+* Korean: {{t|ko|얀데레}}
+* Russian: {{t|ru|я́ндэрэ|n}}
+* Swedish: {{t+|sv|avundsjuk|s}}
+* Ukrainian: {{t|uk|я́ндере|n}}
+{{trans-bottom}}
+===References===
+&lt;references /&gt;
+===Anagrams===
+* {{anagrams|en|a=adeenry|deanery|renayed|year-end|yearend|yearned}}
+{{topics|en|Fictional characters|Japanese fiction|Stock characters}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|ヤンデレ}}</text>
+<sha1>pafqbb1flnpe55ge20ngunqjkrfphc5</sha1>
+</revision>
+</page>

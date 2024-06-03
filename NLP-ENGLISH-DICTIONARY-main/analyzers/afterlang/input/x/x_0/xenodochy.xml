@@ -1,0 +1,27 @@
+<page>
+<title>xenodochy</title>
+<ns>0</ns>
+<id>3035093</id>
+<revision>
+<id>67294386</id>
+<parentid>50233429</parentid>
+<timestamp>2022-06-06T11:09:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="497" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|-}}.
+===Noun===
+{{en-noun|-}}
+# [[reception|Reception]] of [[stranger]]s; [[hospitality]].
+#* '''1872''', William Mark Hugo, ''History of the first Bushmen's club in the Australian colonies''
+#*: Bushmen, as a class, are a very hospitable race — generous in their sympathies, fond of practising the virtue of '''xenodochy''', entertain strangers with a rough but ready welcome; and it is a pity to see men of this stamp tossed about as they are.</text>
+<sha1>lf9l7rpfmzlwtqj1yptg809bmwnnejz</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>xanthochromic</title>
+<ns>0</ns>
+<id>3704060</id>
+<revision>
+<id>68812162</id>
+<parentid>51796334</parentid>
+<timestamp>2022-08-27T19:49:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xantho|chromic}}.
+===Adjective===
+{{en-adj|-}}
+# Having a [[yellow]] colour
+====Synonyms====
+* {{l|en|xanchromatic}}</text>
+<sha1>oh42oqlrml41eed68hq7p7ahi74o6ah</sha1>
+</revision>
+</page>

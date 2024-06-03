@@ -1,0 +1,28 @@
+<page>
+<title>xylites</title>
+<ns>0</ns>
+<id>3034853</id>
+<revision>
+<id>62863100</id>
+<parentid>55946341</parentid>
+<timestamp>2021-06-17T07:23:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="158" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylite}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=f-p}}
+# {{plural of|fr|xylite}}</text>
+<sha1>dntjlj212s6r4rf5d22hitzvrz25dhx</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>yerpvn</title>
+<ns>0</ns>
+<id>2210667</id>
+<revision>
+<id>63427000</id>
+<parentid>53446648</parentid>
+<timestamp>2021-07-26T03:20:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# to [[defeat]], to [[win]], to [[conquer]].
+# {{inflection of|arn|yerpvn||1|s|realis|form}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>0mv9yz8o5naaaefnj9691d1ylsq02qo</sha1>
+</revision>
+</page>

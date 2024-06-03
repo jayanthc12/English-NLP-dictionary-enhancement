@@ -1,0 +1,40 @@
+<page>
+<title>yarm</title>
+<ns>0</ns>
+<id>3079238</id>
+<revision>
+<id>64460328</id>
+<parentid>59986249</parentid>
+<timestamp>2021-10-28T12:23:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1060" xml:space="preserve">{{also|Yarm}}
+==English==
+===Pronunciation===
+* {{rhymes|en|ɑː(ɹ)m|s=1}}
+===Etymology 1===
+From {{inh|en|enm|ȝarmen}}, {{m|enm|ȝermen}}, from {{inh|en|ang|gyrman}}, {{m|ang|ġierman||to cry, mourn, cry out, roar, lament}}, from {{inh|en|gem-pro|*germijaną||to bleat}}, of unknown origin. Cognate with {{cog|sco|yirm||to whine, wail}}, dialectal {{cog|da|jærme||to lament, shriek}}, dialectal {{cog|no|jerme||to bleat}}, dialectal {{cog|sv|jarma||to lament, shriek}}, {{cog|is|jarma||to whine, complain, bleat}}. Compare {{cog|sq|jerm||to rave, be delirious}}.
+====Verb====
+{{en-verb}}
+# {{lb|en|UK|_|dialectal}} To [[cry out]]; make a loud, unpleasant [[noise]]; [[shriek]]; [[yell]].
+# {{lb|en|UK|_|dialectal}} To [[scold]]; [[grumble]].
+===Etymology 2===
+From {{inh|en|enm|ȝarm}}, from {{m|enm|ȝarmen}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|UK|_|dialectal}} An [[outcry]]; [[noise]].
+===Anagrams===
+* {{anagrams|en|a=amry|ARMY|Army|Mary|Mayr|Myra|army|mary}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[measure]], [[measurement]]</text>
+<sha1>4qfhqi3we6rb74wt8nm7hlg1te4r3u6</sha1>
+</revision>
+</page>

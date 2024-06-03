@@ -1,0 +1,26 @@
+<page>
+<title>xompilelo</title>
+<ns>0</ns>
+<id>6867261</id>
+<revision>
+<id>50395000</id>
+<parentid>50240492</parentid>
+<timestamp>2018-09-27T09:01:19Z</timestamp>
+<contributor>
+<username>Lvovmauro</username>
+<id>3369365</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="668" xml:space="preserve">==Northern Puebla Nahuatl==
+===Etymology===
+Borrowed from {{bor|ncj|es|sombrero}}. Compare {{cog|nci|sombrero}}, {{cog|azz|sombre̱roj}}, {{cog|nhm|xomplelo}}, {{cog|nhg|xomplielojtli̱}}, {{cog|nhi|sombrero}}.
+===Noun===
+{{head|ncj|noun}}
+# [[hat|Hat]].
+===References===
+{{cite-book|last=Brockway|first=Earl|last2=Hershey de Brockway|first2=Trudy|last3=Santos Valdés|first3=Leodegario|title=Diccionario náhuatl del norte del estado de Puebla|url=http://mexico.sil.org/resources/archives/74580|edition=segunda ILV edición (versión electrónica)|publisher=Instituto Lingüístico de Verano, A.C.|year=2000|year_published=2018|page=247}}
+{{topics|ncj|Headwear}}</text>
+<sha1>5581kklvnig17ea8wmvxia01uvtf62v</sha1>
+</revision>
+</page>

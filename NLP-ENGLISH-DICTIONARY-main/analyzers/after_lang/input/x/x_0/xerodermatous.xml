@@ -1,0 +1,24 @@
+<page>
+<title>xerodermatous</title>
+<ns>0</ns>
+<id>4503447</id>
+<revision>
+<id>69055141</id>
+<parentid>51486414</parentid>
+<timestamp>2022-09-03T06:15:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==English==
+===Adjective===
+{{en-adj}}
+# Exhibiting or relating to [[xeroderma]].
+[[Category:English terms suffixed with -ous]]</text>
+<sha1>td9jizkmfzlvyunfo8paqpr82rk0xhx</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xale</title>
+<ns>0</ns>
+<id>4019551</id>
+<revision>
+<id>69232517</id>
+<parentid>69217335</parentid>
+<timestamp>2022-09-11T11:48:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (remove redundant plural 's')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">{{also|xałe|xalé}}
+==Portuguese==
+===Noun===
+{{pt-noun|m}}
+# {{alternative form of|pt|xaile}}
+----
+==Wolof==
+===Pronunciation===
+* {{IPA|wo|/ˈxalɛ/}}
+* {{audio|wo|Wo-xale.ogg|Audio}}
+===Noun===
+{{wo-noun|bi}}
+# [[child]]</text>
+<sha1>k3njxsno4ytecz830mqrerlvx76y3cx</sha1>
+</revision>
+</page>

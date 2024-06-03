@@ -1,0 +1,24 @@
+<page>
+<title>Yffiniacais</title>
+<ns>0</ns>
+<id>6363745</id>
+<revision>
+<id>67264049</id>
+<parentid>67195520</parentid>
+<timestamp>2022-06-05T22:50:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[Yffiniacaise]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">{{also|yffiniacais}}
+==French==
+===Noun===
+{{fr-noun|m|f=+}}
+# resident or native of [[Yffiniac]]</text>
+<sha1>h5rrj8xtt1sz9t377qmd66hlifo87an</sha1>
+</revision>
+</page>

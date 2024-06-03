@@ -1,0 +1,31 @@
+<page>
+<title>ydinaikaskaala</title>
+<ns>0</ns>
+<id>4404909</id>
+<revision>
+<id>69318107</id>
+<parentid>69255666</parentid>
+<timestamp>2022-09-18T17:00:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="525" xml:space="preserve">==Finnish==
+===Etymology===
+{{com|fi|ydin|aikaskaala|t1=nuclear|t2=time scale}}
+===Pronunciation===
+{{fi-p|ydin/aika-skaala}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|astronomy}} [[nuclear time scale]] {{gloss|the time in which a star consumes all the energy which it is capable of producing through nuclear reactions}}
+====Declension====
+{{fi-decl-kala|ydinaikaskaal|||a}}
+====Related terms====
+* {{l|fi|dynaaminen aikaskaala}} {{qualifier|dynamical time scale}}
+* {{l|fi|terminen aikaskaala}} {{qualifier|thermal time scale}}</text>
+<sha1>4pd76demajsgp1378kjfbha545vm161</sha1>
+</revision>
+</page>

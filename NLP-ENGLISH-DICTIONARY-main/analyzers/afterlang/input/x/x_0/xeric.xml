@@ -1,0 +1,62 @@
+<page>
+<title>xeric</title>
+<ns>0</ns>
+<id>66762</id>
+<revision>
+<id>69600102</id>
+<parentid>69600070</parentid>
+<timestamp>2022-10-26T20:27:30Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1067" xml:space="preserve">{{also|xèric}}
+==English==
+===Etymology===
+From {{af|en|lang1=grc|ξηρός|t1=dry|-ic}}.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ˈzɪɚ.ɪk/}}
+* {{a|RP}} {{IPA|en|/ˈzɪə.ɹɪk/}}
+* {{hyph|en|xe|ric}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|of an environment or habitat}} very [[dry]], lacking humidity and water
+#: {{syn|en|arid}}
+# {{lb|en|of an organism}} [[adapt|Adapted]] to [[live]] in a very dry [[habitat]]
+#: {{syn|en|xerophilic}}
+====Derived terms====
+{{der4|en
+|subxeric
+|xericity
+}}
+====Translations====
+{{trans-top|very dry}}
+* Catalan: {{t|ca|xèric}}
+* French: {{t+|fr|xérique}}
+{{trans-mid}}
+* Italian: {{t|it|xerico}}
+* Spanish: {{t|es|xérico}}
+{{trans-bottom}}
+{{cln|en|collateral adjectives}}
+----
+==Catalan==
+===Alternative forms===
+* {{alter|ca|xiric}}
+===Etymology===
+{{deverbal|ca|xericar}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# [[peep]] {{gloss|cry of a chick}}
+# {{lb|ca|dialectal}} [[shriek]], [[scream]]
+#: {{syn|ca|xiscle}}
+===Further reading===
+* {{R:IEC2}}
+{{C|ca|Animal sounds|Vocalizations}}</text>
+<sha1>pfzuf77pydalpaori48juxkg8ugur1j</sha1>
+</revision>
+</page>

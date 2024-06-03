@@ -1,0 +1,27 @@
+<page>
+<title>xbow</title>
+<ns>0</ns>
+<id>3099446</id>
+<revision>
+<id>67073942</id>
+<parentid>54449360</parentid>
+<timestamp>2022-05-19T05:55:49Z</timestamp>
+<contributor>
+<username>Binarystep</username>
+<id>1186500</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="420" xml:space="preserve">==English==
+===Etymology===
+{{pre|en|x|bow}}
+===Noun===
+{{en-noun}}
+# {{abbr of|en|crossbow}}
+#* '''1998''', &quot;Dundee&quot;, ''Heavy xbows for 80 gold?!'' (on newsgroup ''rec.games.computer.ultima.online'')
+#*: It might actually be more profitable for a master bowyer to make and sell heavy '''xbows''' now (instead of bows)... unless this was just some weird one-time deal.
+[[Category:en:Archery]]
+[[Category:en:Weapons]]</text>
+<sha1>gaos4vy4eqvx5nbp7rf0kurhz4vdwye</sha1>
+</revision>
+</page>

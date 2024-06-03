@@ -1,0 +1,28 @@
+<page>
+<title>yamun</title>
+<ns>0</ns>
+<id>1213840</id>
+<revision>
+<id>58304351</id>
+<parentid>54955842</parentid>
+<timestamp>2020-01-06T07:25:40Z</timestamp>
+<contributor>
+<username>Fish bowl</username>
+<id>522410</id>
+</contributor>
+<comment>#* {{RQ:zhx-teo:Fielde Dictionary|en|{{l|zhx-teo||屯|tr=thûn}}|600}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="407" xml:space="preserve">==English==
+===Etymology===
+Irregular romanization of {{bor|en|cmn|-}} {{zh-m|衙門}}.
+===Noun===
+{{en-noun}}
+# {{alternative form of|en|yamen}}
+#* {{RQ:zhx-teo:Fielde Dictionary|en|{{l|zhx-teo||屯|tr=thûn}}|600}}
+#*: {{quote|en|[The] Hai Ie district '''yamun''' has a department whose sole business is the rental of fields alloted to resident troops.}}
+===Anagrams===
+* {{anagrams|en|a=amnuy|Yuman}}</text>
+<sha1>cvs5djdpb3qpgdxvllqeew3o4dfcnzf</sha1>
+</revision>
+</page>

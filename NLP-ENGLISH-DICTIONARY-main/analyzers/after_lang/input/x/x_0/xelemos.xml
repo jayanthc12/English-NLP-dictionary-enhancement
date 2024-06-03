@@ -1,0 +1,23 @@
+<page>
+<title>xelemos</title>
+<ns>0</ns>
+<id>4352057</id>
+<revision>
+<id>53120094</id>
+<parentid>25807629</parentid>
+<timestamp>2019-05-19T06:05:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'first-person plural indefinite preterite indicative' to 1|p|indef|pret|ind; canonicalized multiword inflection tag 'first-person plural present subjunctive' to 1|p|pres|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="108" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||1|p|indef|pret|ind|;|1|p|pres|sub}}</text>
+<sha1>kdpw3rio3h0700jhr7mgzsdpil3bl7r</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yhteensopimaton</title>
+<ns>0</ns>
+<id>1048404</id>
+<revision>
+<id>69318420</id>
+<parentid>59682851</parentid>
+<timestamp>2022-09-18T17:17:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteen|sopimaton}}
+===Pronunciation===
+{{fi-p|yhteen-sopimaton}}
+===Adjective===
+{{fi-adj|yhteensopimattom|ampi|in}}
+# [[incompatible]]
+====Declension====
+{{fi-decl-onneton|pos=adj|yhteensopima|a}}
+====Antonyms====
+* {{l|fi|yhteensopiva}}
+====Derived terms====
+* {{l|fi|yhteensopimattomasti}}
+* {{l|fi|yhteensopimattomuus}}</text>
+<sha1>q6gtlpiof8z3ugedx8paem9qxq785mx</sha1>
+</revision>
+</page>

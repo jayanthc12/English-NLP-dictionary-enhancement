@@ -1,0 +1,84 @@
+<page>
+<title>xali</title>
+<ns>0</ns>
+<id>6865284</id>
+<revision>
+<id>68861845</id>
+<parentid>67857052</parentid>
+<timestamp>2022-08-28T05:10:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1963" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{bor|az|ar|خَالٍ}}. {{root|az|ar|خ ل و}}
+===Pronunciation===
+* {{IPA|az|[xɑːˈli]}}
+* {{hyph|az|xa|li}}
+===Adjective===
+{{az-adj}}
+# {{lb|az|poetic}} [[empty]], [[devoid]]
+#: {{syn|az|boş}}
+# {{lb|az|poetic}} [[desolate]], [[deserted]]
+#: {{syn|az|boş|tənha}}
+# [[uncultivated]]
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=sg|m=impr|xalar}}
+# {{ca-verb form of|p=3|n=sg|t=pres|m=sub|xalar}}
+# {{ca-verb form of|p=1|n=sg|t=pres|m=sub|xalar}}
+----
+==Central Huasteca Nahuatl==
+===Noun===
+{{head|nch|noun}}
+# [[sand]].
+----
+==Michoacán Nahuatl==
+===Etymology===
+Compare {{cog|nci|xalli}}, {{cog|nhg|xöli̱}}.
+===Noun===
+{{head|ncl|noun}}
+# [[sand]]
+===References===
+* {{cite-book|author=Instituto Lingüístico de Verano|authorlink=Instituto Lingüístico de Verano (Mexico)|title=Ma timomaxtican totlajtol: Lecturas para desarrollar habilidad en la lectura del nahuatl|url=https://www.sil.org/resources/archives/12578|edition=segunda edición|location=México, D.F.|publisher=Instituto Lingüístico de Verano|year=1981|page=7}}
+* {{cite-book|last=Sischo H.|first=Guillermo|editor=Elena Erickson de Hollenbach|title=Vocabulario del náhuatl de Michoacán|url=https://www.sil.org/resources/archives/63307|year=2015|month=September|page=122}}
+{{c|ncl|Natural materials}}
+----
+==Northern Puebla Nahuatl==
+===Noun===
+{{head|ncj|noun}}
+# {{l|en|sand}}
+====Derived terms====
+* {{l|ncj|xalcoscatl}}
+* {{l|ncj|xaltlali}}
+* {{l|ncj|xalxocotl}}
+* {{l|ncj|xalyo}}
+===References===
+* {{R:Brockway et al. 2018|page=241}}
+----
+==Western Huasteca Nahuatl==
+===Noun===
+{{head|nhw|noun}}
+# [[sand]].
+----
+==Zazaki==
+===Etymology===
+From {{bor|zza|ota|خالی|tr=halı}}, from {{der|zza|fa|خالی|tr=xâli}}.
+===Pronunciation===
+* {{IPA|zza|[xɑˈli]}}
+* {{hyphenation|zza|xa|li}}
+===Noun===
+{{zza-noun|m}}
+# [[carpet]]</text>
+<sha1>firni9ew8oz943q9l49w8g296kw4t7i</sha1>
+</revision>
+</page>

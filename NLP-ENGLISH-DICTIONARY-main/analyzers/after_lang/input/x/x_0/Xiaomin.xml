@@ -1,0 +1,25 @@
+<page>
+<title>Xiaomin</title>
+<ns>0</ns>
+<id>3569230</id>
+<revision>
+<id>67330671</id>
+<parentid>54949615</parentid>
+<timestamp>2022-06-10T02:04:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up {{etyl}}/{{uder}} (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==English==
+===Etymology===
+{{bor+|en|cmn|晓敏|tr=Xiǎomǐn}}, probably originally {{m|cmn|小敏|tr=Xiǎomǐn}}, [[diminutive]] of {{m|cmn|敏|tr=Mǐn}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|from=Mandarin}}</text>
+<sha1>5wrahmdy2wx4nlndhne6leb2pezlit1</sha1>
+</revision>
+</page>

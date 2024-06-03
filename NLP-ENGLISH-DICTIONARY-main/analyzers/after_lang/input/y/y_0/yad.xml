@@ -1,0 +1,109 @@
+<page>
+<title>yad</title>
+<ns>0</ns>
+<id>1500903</id>
+<revision>
+<id>67245366</id>
+<parentid>67224317</parentid>
+<timestamp>2022-06-04T22:07:45Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2608" xml:space="preserve">{{also|yâd|y'ad|það|यद्}}
+==English==
+{{wikipedia}}
+===Etymology 1===
+Borrowed from {{bor|en|he|יד|tr=yád||hand}}
+[[Image:Torah and jad.jpg|thumb|right|A yad with a [[Torah]]]]
+====Noun====
+{{en-noun|s|yadim}}
+# {{lb|en|Judaism}} A [[pointer]] used in the ritual of [[Torah]]-reading.
+===Etymology 2===
+From the [[w:Tifinagh|Tifinagh]] alphabet.
+====Noun====
+{{en-noun|?}}
+# The letter [[ⴷ]] in the [[Tifinagh]] alphabet.
+===Anagrams===
+* {{anagrams|en|a=ady|Day|d'ya|day|π Day}}
+----
+==Azerbaijani==
+===Pronunciation===
+* {{IPA|az|[jɑd]}}
+===Etymology 1===
+{{inh+|az|trk-cmn|*yāt|gloss=alien, foreign, unfamiliar}}. Cognate with {{cog|ba|ят}}, {{cog|kk|жат}},
+{{cog|uz|yot||alien, foreign}}, {{cog|tk|ýat}} etc.
+====Adjective====
+{{az-adj}}
+# [[alien]], [[strange]], [[foreign]]
+# [[unfamiliar]]
+#: {{syn|az|özgə}}
+=====Derived terms=====
+* {{l|az|yadplanetli||extraterrestrial}}
+====Noun====
+{{az-noun}}
+# [[stranger]]
+#: {{syn|az|özgə}}
+=====Declension=====
+{{az-decl-noun|a|c}}
+=====Derived terms=====
+* {{l|az|yadplanetli||alien}}
+===Etymology 2===
+{{bor+|az|fa|یاد|tr=yâd}}.
+====Noun====
+{{az-noun}}
+# [[memory]]
+#: {{ux|az|Bu [[daha]] '''yadımda '''[[deyil]].|I don't remember this anymore.|lit=It's not '''in my memory''' anymore.}}
+#: {{ux|az|'''Yadındadırsa''', biz səninlə artıq görüşmüşük.|If you remember, we've already met.|lit='''If it's in your memory''', we've already met.}}
+=====Declension=====
+{{az-decl-noun|a|c}}
+=====Derived terms=====
+* {{l|az|yaddaş||memory}}
+* {{l|az|yadda qalmaq||to remember}}
+* {{l|az|yadda saxlamaq||to remember}}
+* {{l|az|yaddan çıxmaq||to forget}}
+* {{l|az|yada düşmək||to come to mind}}
+* {{l|az|yada salmaq||to remind}}
+=====Related terms=====
+* {{l|az|yadigar||memento}}
+----
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Pronoun===
+{{head|pi|pronoun form}}
+# {{inflection of|pi|ya||n|nom//acc|s|t=which {{lb|pi|relative}}}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاد|tr=yad|t=foreign}}, from {{der|tr|trk-cmn|*yāt|gloss=alien, foreign, unfamiliar}}. Cognate with {{cog|az|yad}}, {{cog|ba|ят}}, {{cog|kk|жат}} {{cog|uz|yot}}.
+===Pronunciation===
+* {{IPA|tr|/jad/}}
+===Adjective===
+{{tr-adj}}
+# [[foreign]]
+# [[unfamiliar]]
+====Declension====
+{{tr-pred-c-adj|a|d}}
+===Noun===
+{{tr-noun|ı|lar}}
+# [[foreigner]]
+====Declension====
+{{tr-infl-noun-c|a|pred=1}}
+====See also====
+* {{l|tr|yâd}}
+----
+==Volapük==
+===Etymology===
+Borrowed from non-rhotic {{bor|vo|en|yard}}.
+===Noun===
+{{vo-noun}}
+# [[yard]]
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>3o6frphs836gr9rtq1vjuicdwgou9c0</sha1>
+</revision>
+</page>

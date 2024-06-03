@@ -1,0 +1,78 @@
+<page>
+<title>Xena</title>
+<ns>0</ns>
+<id>69978</id>
+<revision>
+<id>69243920</id>
+<parentid>65230571</parentid>
+<timestamp>2022-09-13T01:21:02Z</timestamp>
+<contributor>
+<ip>82.68.22.94</ip>
+</contributor>
+<comment>/* Etymology 1 */Fixed Greek translation; compare with xebophobe - same etymological route, different English translation. I think maybe people with this name changed its etymology to sound more favourable.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3226" xml:space="preserve">{{also|xena}}
+==English==
+{{wikipedia|Xena (disambiguation)|Xena}}
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈziː.nə/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-Xena.wav|Audio (Berkshire)}}
+* {{rhymes|en|iːnə|s=2}}
+===Etymology 1===
+Possibly a variant of {{m|en|Xenia}}, from {{der|en|la|Xenia}}, from {{der|en|grc|ξενία|t=hospitable}}, the assumed name of a fifth-century saint venerated in the [[Eastern Orthodox Church]], from {{m|grc|ξένος|t=foreign, strange}}.
+====Proper noun====
+{{en-proper noun}}
+# {{given name|en|female|from=Ancient Greek}} of modern usage.
+=====Translations=====
+{{trans-top|a female given name}}
+* Arabic: {{t|ar|زِينَا|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|齊娜}}, {{t|cmn|齐娜|tr=Zīnà}}
+* Greek: {{t+|el|Ζήνα|f}}
+* Hebrew: {{t|he|זינה|f}}
+{{trans-mid}}
+* Hindi: {{t|hi|क्षेन}}
+* Japanese: {{t|ja|ジーナ|tr=Jīna}}
+* Korean: {{t|ko|^제나}}
+* Macedonian: {{t|mk|Зи́на|f}}
+* Russian: {{t+|ru|Зе́на|f}}, {{t+|ru|Зи́на|f}}
+{{trans-bottom}}
+===Etymology 2===
+The lead character in the television series ''{{w|lang=en|Xena: Warrior Princess}}'' (1995–2001) was the inspiration for the dwarf planet's nickname and for comparisons to the character.
+====Proper noun====
+{{en-proper noun}}
+# {{lb|en|astronomy|obsolete|informal}} [[Eris]] {{gloss|[[dwarf planet]]}}
+=====Coordinate terms=====
+* {{sense|formerly the 10th planet}} {{l|en|Gabrielle}} {{gloss|the moon of Xena}}
+=====Translations=====
+{{trans-top|another name for the dwarf planet Eris}}
+* Japanese: {{t|ja|ジーナ|tr=Jīna}}
+{{trans-mid}}
+* Russian: {{t|ru|Ксе́на|f}}, {{t+|ru|Зе́на|f}}
+{{trans-bottom}}
+====Noun====
+{{en-noun}}
+# A tough, [[physical]], [[confident]] woman.
+#* '''1999''' (Dec), David Lansing, &quot;My Neighborhood&quot;, ''Orange Coast Magazine'', '''25'''(12): 189
+#*: I am raising a little '''Xena''', a water warrior. Fierce, sure of herself.
+#* '''2000''', Lynn Harris. ''Breakup Girl to the Rescue!'', page 120
+#*: How do I drill self-confidence into the illogical half of my brain. or train my logical half to become my inner '''Xena''' and shout it down?
+#* '''2001''', Judith Arnold, Muriel Jensen, &amp; Bobby Hutchinson, ''All Summer Long'', page 148
+#*: &quot;Okay, '''Xena''',&quot; he said, taking the rope from Haley and tugging the branch toward the back door. &quot;You push, and we'll get this outside.&quot;
+#* {{quote-text|en|year=2005|author=Melissa Jacobs|title=Lexi James and the Council of Girlfriends|page=78|passage=She is a beautiful woman, the result of a family tree that includes African and Irish blood. But there's no getting around her five-eleven frame and muscular body. The rest of her staff calls her '''Xena'''. She likes that.}}
+#* {{quote-text|en|year=2006|author=Elaine Overton|title=Promises of the Heart|page=107|passage=Julian shook his head at her brazenness. &quot;That's okay, I believe you. You are a regular '''Xena'''.&quot;}}
+=====Synonyms=====
+{{sense|A tough, physical, confident, woman}}
+* [[Amazon]]
+=====Translations=====
+{{trans-top|a tough, physical, confident woman}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aenx|anex|axen}}
+[[Category:English eponyms]]
+[[Category:en:Xena: Warrior Princess]]</text>
+<sha1>ka1ewrqcd670u660pj1izksiomq8n0i</sha1>
+</revision>
+</page>

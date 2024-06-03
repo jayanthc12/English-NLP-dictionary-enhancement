@@ -1,0 +1,23 @@
+<page>
+<title>yeares</title>
+<ns>0</ns>
+<id>913760</id>
+<revision>
+<id>55471809</id>
+<parentid>53092852</parentid>
+<timestamp>2019-10-15T02:36:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yeare}}</text>
+<sha1>p5nv68ag2547h6cm60li2h37td9vmz7</sha1>
+</revision>
+</page>

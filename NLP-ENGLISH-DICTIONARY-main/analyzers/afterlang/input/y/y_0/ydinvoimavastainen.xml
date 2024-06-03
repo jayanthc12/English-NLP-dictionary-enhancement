@@ -1,0 +1,33 @@
+<page>
+<title>ydinvoimavastainen</title>
+<ns>0</ns>
+<id>4576749</id>
+<revision>
+<id>69318299</id>
+<parentid>54259136</parentid>
+<timestamp>2022-09-18T17:10:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="457" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinvoima|vastainen}}
+===Pronunciation===
+{{fi-p|ydin-voima/vastainen}}
+===Adjective===
+{{fi-adj|ydinvoimavastais|empi|in}}
+# [[antinuclear]] {{gloss|opposed to the generation of electricity from nuclear power}}
+====Declension====
+{{fi-decl-nainen|pos=adj|ydinvoimavastai|a}}
+====Synonyms====
+* {{l|fi|ydinvoiman}} {{l|fi|vastainen}}
+====Related terms====
+* {{l|fi|ydinasevastainen}}
+* {{l|fi|ydinvastainen}}</text>
+<sha1>sduv5su75fkj2q9ceb2qqhek1rzsnmh</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xerminaba</title>
+<ns>0</ns>
+<id>1211486</id>
+<revision>
+<id>56575317</id>
+<parentid>34989108</parentid>
+<timestamp>2019-10-18T07:53:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerminar||1|s|impf|indc}}
+# {{inflection of|gl|xerminar||3|s|impf|indc}}</text>
+<sha1>4cg5sgq2he7540q7w7j01gez3ggr92t</sha1>
+</revision>
+</page>

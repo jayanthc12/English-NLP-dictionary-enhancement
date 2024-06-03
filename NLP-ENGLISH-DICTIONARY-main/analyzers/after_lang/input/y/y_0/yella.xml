@@ -1,0 +1,35 @@
+<page>
+<title>yella</title>
+<ns>0</ns>
+<id>1394277</id>
+<revision>
+<id>60932082</id>
+<parentid>60478474</parentid>
+<timestamp>2020-10-24T05:31:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{PIE root}} to {{root|...|ine-pro}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="335" xml:space="preserve">==English==
+===Adjective===
+{{head|en|adjective}}
+# {{pronunciation spelling of|en|yellow}}
+===Anagrams===
+* {{anagrams|en|a=aelly|Alley|alley|elayl}}
+----
+==Scots==
+===Etymology===
+{{root|sco|ine-pro|*ǵʰelh₃-}}
+{{rfe|sco}}
+===Pronunciation===
+* {{IPA|sco|/ˈjɛ.lə/|/ˈjɛ.lɪ/}}
+===Adjective===
+{{sco-adj}}
+# [[yellow]]</text>
+<sha1>to3if90f6kuw5drvrisjiz6k3iyfypi</sha1>
+</revision>
+</page>

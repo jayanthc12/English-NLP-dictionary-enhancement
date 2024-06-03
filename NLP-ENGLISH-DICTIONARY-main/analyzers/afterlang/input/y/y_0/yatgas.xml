@@ -1,0 +1,25 @@
+<page>
+<title>yatgas</title>
+<ns>0</ns>
+<id>6468015</id>
+<revision>
+<id>56278790</id>
+<parentid>53092799</parentid>
+<timestamp>2019-10-17T11:19:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="121" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yatga}}
+===Anagrams===
+* {{anagrams|en|a=aagsty|Tayags}}</text>
+<sha1>ttowcl3zrq87er3nu6i7v70o4p20aea</sha1>
+</revision>
+</page>

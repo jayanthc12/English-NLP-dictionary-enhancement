@@ -1,0 +1,28 @@
+<page>
+<title>xalams</title>
+<ns>0</ns>
+<id>1607450</id>
+<revision>
+<id>62862701</id>
+<parentid>55691707</parentid>
+<timestamp>2021-06-17T07:22:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="156" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xalam}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|xalam}}</text>
+<sha1>ow3tu6h5pv5zli7xbjf91ekrdgqpfpo</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Yagyagan</title>
+<ns>0</ns>
+<id>6554950</id>
+<revision>
+<id>68740471</id>
+<parentid>67839560</parentid>
+<timestamp>2022-08-26T07:54:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant article A=a in {{surname|ceb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="134" xml:space="preserve">==Cebuano==
+===Etymology===
+{{af|ceb|yagyag|-an|nocat=1}}
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb|from=Cebuano}}</text>
+<sha1>qor64egz53smr9qawk4i0c5btnh98i2</sha1>
+</revision>
+</page>

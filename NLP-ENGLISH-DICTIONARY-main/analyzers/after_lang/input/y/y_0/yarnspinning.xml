@@ -1,0 +1,25 @@
+<page>
+<title>yarnspinning</title>
+<ns>0</ns>
+<id>6332908</id>
+<revision>
+<id>52049622</id>
+<parentid>47188106</parentid>
+<timestamp>2019-03-19T17:39:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yarn|spinning}}. See {{m|en|spin a yarn}}.
+===Noun===
+{{en-noun|-}}
+# The [[tell]]ing of [[story|stories]].</text>
+<sha1>ghqd5e9s6rolkx5smveh75v5t5ws6wr</sha1>
+</revision>
+</page>

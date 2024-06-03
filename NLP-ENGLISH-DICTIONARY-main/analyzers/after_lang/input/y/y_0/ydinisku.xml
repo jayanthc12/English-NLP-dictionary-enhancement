@@ -1,0 +1,28 @@
+<page>
+<title>ydinisku</title>
+<ns>0</ns>
+<id>748450</id>
+<revision>
+<id>69318158</id>
+<parentid>51994827</parentid>
+<timestamp>2022-09-18T17:03:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="195" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|isku}}
+===Pronunciation===
+{{fi-p|ydin-isku}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[strike]]
+====Declension====
+{{fi-decl-valo|ydinisk|||u|a}}</text>
+<sha1>fgrax3109s3omuf4rc11cmv9a9s58le</sha1>
+</revision>
+</page>

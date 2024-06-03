@@ -1,0 +1,28 @@
+<page>
+<title>ydinjauho</title>
+<ns>0</ns>
+<id>4624756</id>
+<revision>
+<id>69318165</id>
+<parentid>52039540</parentid>
+<timestamp>2022-09-18T17:03:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|jauho}}
+===Pronunciation===
+{{fi-p|ydin-jauho}}
+===Noun===
+{{fi-noun}}
+# [[white flour]] {{gloss|wheat flour made of the endosperm of the grain only}}
+====Declension====
+{{fi-decl-valo|ydinjauh|||o|a}}</text>
+<sha1>i9ilh3r7jsgkmhqsj6bzcizbdbmcu3i</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>ydinenergia</title>
+<ns>0</ns>
+<id>1474955</id>
+<revision>
+<id>69318146</id>
+<parentid>59682783</parentid>
+<timestamp>2022-09-18T17:02:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|energia}}
+===Pronunciation===
+{{fi-p|ydin-energia}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear energy]]
+====Declension====
+{{fi-decl-kulkija|ydinenergi|a}}
+====Synonyms====
+* {{l|fi|atomienergia}} (''obsolete'')</text>
+<sha1>hzjrm2n2b84tgg06dis9aa3sgub7fal</sha1>
+</revision>
+</page>

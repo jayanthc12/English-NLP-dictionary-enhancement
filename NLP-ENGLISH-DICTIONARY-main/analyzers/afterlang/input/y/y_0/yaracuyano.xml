@@ -1,0 +1,35 @@
+<page>
+<title>yaracuyano</title>
+<ns>0</ns>
+<id>5594974</id>
+<revision>
+<id>68963844</id>
+<parentid>62187771</parentid>
+<timestamp>2022-08-29T00:07:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="748" xml:space="preserve">==Spanish==
+===Etymology===
+{{af|es|Yaracuy|-ano}}
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# {{lb|es|relational}} of {{l|es|Yaracuy}} {{gl|a state of Venezuela}}
+===Noun===
+{{es-noun|m|f=yaracuyana}}
+# someone from the state of {{l|es|Yaracuy}}, Venezuela
+#* {{quote-journal|es|year=2016|month=May|author=|title=La Vinotinto de Rafael Dudamel abre las puertas a nuevos talentos|work=El Nacional|url=http://www.el-nacional.com/deportes/Vinotinto-Rafael-Dudamel-puertas-talentos_0_853714841.html
+|passage=Con una media de edad de 22 años en la plantilla y un total de siete debutantes, comenzó el trabajo del '''yaracuyano''', ex arquero de la Selección Nacional.}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Demonyms}}</text>
+<sha1>7xqatmdmwyuz69cv566su3hr0zkadpu</sha1>
+</revision>
+</page>

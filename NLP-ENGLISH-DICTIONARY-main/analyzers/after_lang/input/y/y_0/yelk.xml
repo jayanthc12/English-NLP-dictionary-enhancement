@@ -1,0 +1,32 @@
+<page>
+<title>yelk</title>
+<ns>0</ns>
+<id>2140353</id>
+<revision>
+<id>65594034</id>
+<parentid>65000549</parentid>
+<timestamp>2022-01-31T19:11:00Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="590" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/jɛlk/}}
+* {{rhymes|en|ɛlk|s=1}}
+===Noun===
+{{en-noun}}
+# {{obsolete form of|en|yolk}}
+====Usage notes====
+* Some 19th-century authorities regarded this as the correct spelling.
+** '''1828''', [[w:Noah Webster|Noah Webster]], ''An American Dictionary of the English Language'', &quot;[https://web.archive.org/web/20100609203426/http://machaut.uchicago.edu/?resource=Webster%27s yelk]&quot;:
+**: It is sometimes written and pronounced yolk, but yelk is the proper word. Yolk is a corruption.
+===Anagrams===
+* {{anagrams|en|a=ekly|Kyle|Lyke|kyle|lyke}}</text>
+<sha1>n76fr4kb4zoq7kmmqt1649cmpten6o9</sha1>
+</revision>
+</page>

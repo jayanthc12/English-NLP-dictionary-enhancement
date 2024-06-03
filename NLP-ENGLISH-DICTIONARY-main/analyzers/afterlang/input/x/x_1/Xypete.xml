@@ -1,0 +1,32 @@
+<page>
+<title>Xypete</title>
+<ns>0</ns>
+<id>7256362</id>
+<revision>
+<id>54018272</id>
+<parentid>53934453</parentid>
+<timestamp>2019-08-30T01:20:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>capitalize xypetē in {{la-IPA}} to match page title</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="345" xml:space="preserve">==Latin==
+===Etymology===
+Borrowed from {{bor|la|grc|Ξυπέτη}}.
+===Pronunciation===
+* {{la-IPA|Xypetē}}
+===Proper noun===
+{{la-proper noun|Xypetē&lt;1.loc&gt;}}
+# One of the [[demoi]] of [[Attica]], situated near [[Phalerum]]
+====Declension====
+{{la-ndecl|Xypetē&lt;1.loc&gt;}}
+===References===
+* {{R:Smith's Geography}}
+{{C|la|Towns|Greece}}</text>
+<sha1>nvorglz92lk0rrp6e0qpfnioduczpsn</sha1>
+</revision>
+</page>

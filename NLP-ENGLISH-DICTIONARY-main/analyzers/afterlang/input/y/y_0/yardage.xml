@@ -1,0 +1,35 @@
+<page>
+<title>yardage</title>
+<ns>0</ns>
+<id>250779</id>
+<revision>
+<id>62714397</id>
+<parentid>59350089</parentid>
+<timestamp>2021-06-11T06:58:34Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<comment>~</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="898" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yard|age}}
+===Noun===
+{{en-noun|~}}
+# An amount or [[length]] measured in [[yard]]s.
+# The use of a yard, or the fee charged for it.
+# {{lb|en|American football}} [[territory|Territory]].
+#* {{quote-journal|en|date=April 24 2020|work={{w|New York Time}}|author=Ken Belson and Ben Shpigel|url=https://www.nytimes.com/2020/04/23/sports/football/nfl-draft-live.html|title=Full Round 1 2020 N.F.L. Picks and Analysis|text=Aiyuk a junior college transfer excels in grabbing '''yardage''' after the catch. No, like, really excels. In mid-October, according a story by The Athletic, Aiyuk was averaging more yards after the catch (13.6) than Jerry Jeudy was averaging per catch}}
+====Translations====
+{{trans-top|length in yards}}
+* Spanish: {{t|es|medida en yardas|f}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aadegry|day-ager|drayage}}</text>
+<sha1>cibu9igvzec7tghr6khn7n2ohpf2mwd</sha1>
+</revision>
+</page>

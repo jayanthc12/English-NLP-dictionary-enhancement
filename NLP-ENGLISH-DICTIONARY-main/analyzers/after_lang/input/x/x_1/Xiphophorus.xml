@@ -1,0 +1,37 @@
+<page>
+<title>Xiphophorus</title>
+<ns>0</ns>
+<id>4533843</id>
+<revision>
+<id>49937926</id>
+<parentid>49937739</parentid>
+<timestamp>2018-07-13T14:48:43Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="852" xml:space="preserve">==Translingual==
+===Etymology===
+{{der|mul|NL.|-}}, from {{der|mul|grc|ξιφηφόρος||bearing a sword}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Poeciliidae|[[platyfish]] and [[swordtail]]s}}.
+====Hypernyms====
+* {{sense|genus}} {{Poeciliidae Hypernyms}}; {{taxlink|Poeciliinae|subfamily|ver=170709}}&amp;nbsp;- subfamily; {{taxlink|Poeciliini|tribe|ver=170709}}&amp;nbsp;- tribe
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xiphophorus hellerii|species|ver=170709}}&amp;nbsp;- type species; for other species see [http://www.fishbase.org/identification/SpeciesList.php?genus=Xiphophorus ''Xiphophorus'' species list] at {{w|FishBase}}.
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:WoRMS|271258|i=1}}
+* {{R:ITIS|165919|i=1}}
+* {{R:COL|18237057|i=1}}
+* {{R:EOL|24761|i=1}}
+* {{R:NCBI|87082|i=1}}</text>
+<sha1>ila1pxyz9bseo8utarw99hrb8hxga06</sha1>
+</revision>
+</page>

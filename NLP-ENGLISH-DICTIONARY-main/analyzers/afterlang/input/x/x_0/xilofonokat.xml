@@ -1,0 +1,23 @@
+<page>
+<title>xilofonokat</title>
+<ns>0</ns>
+<id>1791349</id>
+<revision>
+<id>60726096</id>
+<parentid>25522309</parentid>
+<timestamp>2020-10-03T00:51:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{hu-inflection of}} to {{inflection of|hu}} with appropriate param changes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="86" xml:space="preserve">==Hungarian==
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||acc|p}}</text>
+<sha1>4778av0diiif8rds2eb1qzn176doa5w</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xenosomes</title>
+<ns>0</ns>
+<id>3796069</id>
+<revision>
+<id>56180178</id>
+<parentid>53092277</parentid>
+<timestamp>2019-10-17T07:15:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenosome}}</text>
+<sha1>h5o6e91gw9ygofa9jy234by5i5w72br</sha1>
+</revision>
+</page>

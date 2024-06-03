@@ -1,0 +1,23 @@
+<page>
+<title>xefs</title>
+<ns>0</ns>
+<id>3583508</id>
+<revision>
+<id>56096033</id>
+<parentid>43792431</parentid>
+<timestamp>2019-10-17T03:30:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="69" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xef}}</text>
+<sha1>63dz1m1kljesylthrbis8xc2bzzlyp6</sha1>
+</revision>
+</page>

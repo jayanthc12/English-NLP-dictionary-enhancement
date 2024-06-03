@@ -1,0 +1,41 @@
+<page>
+<title>xhasa</title>
+<ns>0</ns>
+<id>6683758</id>
+<revision>
+<id>54005867</id>
+<parentid>54005866</parentid>
+<timestamp>2019-08-28T03:23:54Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Xhosa */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="481" xml:space="preserve">==Xhosa==
+===Verb===
+{{xh-verb|xhása}}
+# to [[support]]
+#: {{ant|xh|chasa|alt1=-chasa}}
+====Inflection====
+{{rfinfl|xh|verb}}
+====Derived terms====
+* {{l|xh|inkxaso}}
+----
+==Zulu==
+===Pronunciation===
+{{zu-IPA|xhása}}
+===Verb===
+{{zu-verb|xhása}}
+# {{lb|zu|transitive}} to [[compel]], to [[force]]
+# {{lb|zu|transitive}} to [[support]], to [[sponsor]]
+====Inflection====
+{{zu-infl-verb|H}}
+====Derived terms====
+* {{l|zu|inxaso}}
+===References===
+* {{R:zu:ZED||3.9}}</text>
+<sha1>5oidaiosbbfr57n946el14lcbd5b2cp</sha1>
+</revision>
+</page>

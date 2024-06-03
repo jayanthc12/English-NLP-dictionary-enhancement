@@ -1,0 +1,54 @@
+<page>
+<title>yale</title>
+<ns>0</ns>
+<id>4134124</id>
+<revision>
+<id>66330450</id>
+<parentid>63219898</parentid>
+<timestamp>2022-04-02T10:24:18Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1202" xml:space="preserve">{{also|Yale}}
+==English==
+{{wikipedia|Yale (mythical creature)}}
+[[Image:Yale salient.gif|thumb|250px|right|Heraldic image of a yale.]]
+===Alternative forms===
+* {{alter|en|eale}}
+===Etymology===
+Possibly derived from {{der|en|he|יָעֵל||tr=ya'el|mountain goat}}. Possibly from {{der|en|cy|iâl|t=clearing, glade}}. Compare {{cog|la|eale}}.
+===Noun===
+{{en-noun}}
+# A [[mythical]] [[beast]] in [[European]] [[mythology]] and [[heraldry]], usually portrayed as an [[antelope]]- or [[goat]]-like four-legged creature with large [[horn]]s that it can swivel in any direction.
+# A [[fertile]] [[upland]].
+====Translations====
+{{trans-top|mythical beast}}
+* Belarusian: {{t|be|іэйл|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|耶魯|tr=yēlǔ}}
+* French: {{t|fr|éale|m}}
+* Hebrew: {{t|he|יֵיל}}
+* Italian: {{t|it|eale|m}}
+{{trans-mid}}
+* Latin: {{t|la|eale}}
+* Russian: {{t|ru|йейл|m}}
+* Spanish: {{t|es|eale|m}}
+* Ukrainian: {{t|uk|єйл|m}}
+* Welsh: {{t|cy|iâl|f}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aely|Ealy|Laye|Yael|aley|ayle|laye}}
+----
+==Swahili==
+===Alternative forms===
+* {{l|sw|yaleyale}}
+===Adjective===
+{{head|sw|adjective form}}
+# {{sw-adj form of|ma|le}}</text>
+<sha1>kw9mh1rq3dsfouff49uamfnbussxjl1</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yean</title>
+<ns>0</ns>
+<id>685808</id>
+<revision>
+<id>68782232</id>
+<parentid>65628184</parentid>
+<timestamp>2022-08-27T10:35:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1510" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|*yenen}}, {{m|enm|ȝenen}}, {{m|enm|eanen}}, from {{inh|en|ang|*ġeēanian}}, {{m|ang|ēanian||to yean, bring forth young (usually lambs), bring forth as a ewe}} (for the prefixed form, compare {{cog|ang|ġeēan}}, {{m|ang|ġeēane||yeaning|pos=adjective}}), from {{inh|en|gmw-pro|*gaaunōn}}, {{m|gmw-pro|*aunōn||to yean, lamb}}, from {{m|gem-pro|*aunōną||to yean, lamb}},  from {{der|en|ine-pro|*h₂egʷnós||lamb}}.
+Cognate with {{cog|sco|yean||to yean}}, {{cog|stq|bejänne||to produce; show signs of calving}}, {{cog|fy|antsje}}, {{m|fy|eandsje}}, {{m|fy|inje||to yean}}, {{cog|nl|onen||to yean}}, {{cog|sv|öna||to yean|pos=dialectal}}. Akin also to Latin {{m|la|agnus}}&lt;ref name = &quot;WE&quot;&gt;{{cite-web |title=Etymology in Webster's Unabridged Dictionary |url=http://machaut.uchicago.edu/?action=search&amp;word=yean&amp;resource=Webster%27s&amp;quicksearch=on |accessdate=27 October 2008 |archiveurl=https://web.archive.org/web/20100619122315/http://machaut.uchicago.edu/?action=search&amp;resource=Webster%27s&amp;word=Yean&amp;quicksearch=on |archivedate=19 June 2010 }}&lt;/ref&gt;, {{cog|grc|ἀμνός}}&lt;ref&gt;[http://www.merriam-webster.com/dictionary/yean Etymology in Merriam-Webster's Dictionary]&lt;/ref&gt;, {{cog|sga|úan||lamb}}&lt;ref name =&quot;WE&quot;/&gt;. See also {{m|en|ean}}.
+===Verb===
+{{en-verb}}
+# {{lb|en|transitive|archaic|of goats or sheep}} To give birth to.
+===Quotations===
+* {{seeCites|en}}
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=aeny|Enya|ayen}}</text>
+<sha1>qjtgwtav4qhll6t9rlfpjt8ksvugjp8</sha1>
+</revision>
+</page>

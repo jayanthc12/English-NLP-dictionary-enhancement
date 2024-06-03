@@ -1,0 +1,26 @@
+<page>
+<title>Xue</title>
+<ns>0</ns>
+<id>6140563</id>
+<revision>
+<id>67823634</id>
+<parentid>67700673</parentid>
+<timestamp>2022-07-09T21:22:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">{{also|xue}}
+==English==
+===Proper noun===
+{{en-proper noun|Xues}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Xue'' is the 9932&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 3248 individuals. ''Xue'' is most common among Asian/Pacific Islander (97.88%) individuals.</text>
+<sha1>nz5k7a6wgke8xdcbq343xlnpysvzwd5</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xurareis</title>
+<ns>0</ns>
+<id>4330198</id>
+<revision>
+<id>53115713</id>
+<parentid>40279393</parentid>
+<timestamp>2019-05-19T04:57:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'second-person plural pluperfect indicative' to 2|p|plup|ind; canonicalized multiword inflection tag 'second-person plural imperfect preterite subjunctive' to 2|p|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">{{also|xuraréis}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xurar||2|p|plup|ind|;|2|p|impf|pret|sub}}</text>
+<sha1>6jrpsxp70wo6nihrwufjut8dhjxtenh</sha1>
+</revision>
+</page>

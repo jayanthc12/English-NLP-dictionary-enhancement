@@ -1,0 +1,31 @@
+<page>
+<title>xyloliet</title>
+<ns>0</ns>
+<id>7243236</id>
+<revision>
+<id>59233484</id>
+<parentid>54739699</parentid>
+<timestamp>2020-04-29T02:07:03Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Nl-xyloliet.ogg</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="404" xml:space="preserve">==Dutch==
+===Etymology===
+From {{con|nl|xylo|liet}}. Cf. {{cog|en|xylolite}}.
+===Pronunciation===
+* {{IPA|nl|/ˌksi.loːˈlit/}}
+* {{audio|nl|Nl-xyloliet.ogg|Audio}}
+* {{hyphenation|nl|xy|lo|liet}}
+* {{rhymes|nl|it}}
+===Noun===
+{{nl-noun|n|-|-}}
+# {{lb|nl|dated}} An [[artificial]] [[stone]] made of compressed [[magnesite]] and [[cellulose]]. {{defdate|late 19th c.-1960s}}
+#: {{syn|nl|houtgraniet}}</text>
+<sha1>li9i5m4bo4xtzjmy111lhd3vnx8fkrx</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>Xenonfluorid</title>
+<ns>0</ns>
+<id>4241849</id>
+<revision>
+<id>65754843</id>
+<parentid>52032302</parentid>
+<timestamp>2022-02-07T15:52:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-noun|n|Xenonfluorids|Xenonfluoride}} to new-format {{de-noun|n}}; convert {{de-decl-noun-n|s|e}} to {{de-ndecl|n}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="225" xml:space="preserve">==German==
+===Etymology===
+{{compound|de|Xenon|Fluorid}}
+===Noun===
+{{de-noun|n}}
+# {{lb|de|inorganic chemistry}} [[xenon]] [[fluoride]]
+====Declension====
+{{de-ndecl|n}}
+====Related terms====
+* {{l|de|Xenonhexafluorid}}</text>
+<sha1>h5pg394bogafr1l5b2x0ay36fsc2yw5</sha1>
+</revision>
+</page>

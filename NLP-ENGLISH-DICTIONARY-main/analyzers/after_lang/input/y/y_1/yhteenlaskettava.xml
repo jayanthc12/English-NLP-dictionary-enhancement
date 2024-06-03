@@ -1,0 +1,29 @@
+<page>
+<title>yhteenlaskettava</title>
+<ns>0</ns>
+<id>1482744</id>
+<revision>
+<id>69318410</id>
+<parentid>58620580</parentid>
+<timestamp>2022-09-18T17:16:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="334" xml:space="preserve">==Finnish==
+===Etymology===
+From {{m|fi|laskea yhteen}}; {{compound|fi|yksi|alt1=yhteen|laskea|alt2=laskettava}}.
+===Pronunciation===
+{{fi-p|yhteen-laskettava}}
+===Noun===
+{{fi-noun}}
+# [[addend]], [[summand]] {{gloss|any terms added together}}
+====Declension====
+{{fi-decl-koira|yhteenlaskettav|||a}}
+[[Category:fi:Arithmetic]]</text>
+<sha1>p878ouds0hlzp1xio37mkged939z813</sha1>
+</revision>
+</page>

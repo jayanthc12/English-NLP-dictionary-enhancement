@@ -1,0 +1,28 @@
+<page>
+<title>xenonymy</title>
+<ns>0</ns>
+<id>5640801</id>
+<revision>
+<id>61118057</id>
+<parentid>54368640</parentid>
+<timestamp>2020-11-14T08:32:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1503" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|onymy}}
+===Noun===
+{{en-noun|-}}
+# The [[juxtaposition]] of [[semantic]]ally [[incompatible]] words.
+#* {{quote-book|en|year=2000|title=Contextualized Stylistics: In Honour of Peter Verdonk|author=Tony Bex, Michael Burke, &amp; Peter Stockwell|page=28|ISBN=9042014911|passage=Cruse calls lexical items which create such dissonance xenonyms; where such odd or incompatible lexical semantic relations are arranged across and between sentences we might call the overall effect cognitive '''xenonymy'''.}}
+#* {{quote-book|en|year=2012|title=The Routledge Companion to Experimental Literature|author=Joe Bray, Alison Gibbons, &amp; Brian McHale|page=57|ISBN=1136301747|passage=The lobster telephone, the dissonant '''xenonymy''' of accidents in a chainpoem, the urinal in the art gallery and the sound poem at a literary evening are all only singularly convulsive.}}
+#* {{quote-journal|en|year=2013|work=Digital Humanitiesin Biblical, Early Jewish and Early Christian Studies|title=Aspects of Polysemy in Biblical Greek. A Preliminary Study for a New Lexicographical Resource|ISBN=9789004264434|author=Romina Vergari|passage=A lexicon can therefore be said to correspond more to a dynamic system of relations: a) syntagmatic sense relations between lexical units in the same string, ie philonymy, '''xenonymy''', tautonymy; b) paradigmatic sense relations between lexical units occurring in a given combination, and a set of possibilities provided by the language...}}</text>
+<sha1>odqlwpjdddy588xtvw4rqu96cz1on38</sha1>
+</revision>
+</page>

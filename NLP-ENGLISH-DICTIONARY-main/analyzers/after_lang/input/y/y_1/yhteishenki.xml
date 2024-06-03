@@ -1,0 +1,31 @@
+<page>
+<title>yhteishenki</title>
+<ns>0</ns>
+<id>1377297</id>
+<revision>
+<id>69318431</id>
+<parentid>52003343</parentid>
+<timestamp>2022-09-18T17:17:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="334" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteinen|alt1=yhteis-|t1=common, community-|henki|t2=spirit}}
+===Pronunciation===
+{{fi-p|yhteis-henki}}
+===Noun===
+{{fi-noun}}
+# [[community spirit]], [[esprit de corps]]
+====Declension====
+{{fi-decl-ovi|yhteishe|nk|ng|ä}}
+====Synonyms====
+* {{l|fi|ryhmähenki}}
+* {{l|fi|toverihenki}}</text>
+<sha1>frtsv5abh4whju0i66wqwzkr2th2pqo</sha1>
+</revision>
+</page>

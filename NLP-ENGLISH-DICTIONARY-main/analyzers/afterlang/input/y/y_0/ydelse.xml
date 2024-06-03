@@ -1,0 +1,35 @@
+<page>
+<title>ydelse</title>
+<ns>0</ns>
+<id>4828955</id>
+<revision>
+<id>56356124</id>
+<parentid>51956897</parentid>
+<timestamp>2019-10-17T14:24:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="291" xml:space="preserve">==Danish==
+===Etymology===
+{{suffix|da|yde|else}}
+===Pronunciation===
+* {{IPA|da|[ˈyːð̠ˠəlsə]}}
+===Noun===
+{{da-noun|n|r}}
+# [[yield]], [[output]]
+# [[granting]]
+# [[performance]]
+# [[service]]
+# [[rating]]
+# [[payment]]
+# [[contribution]]
+====Inflection====
+{{da-noun-infl|n|r}}</text>
+<sha1>mwbq6pce6p4hxbwrfq6d23nf04ybdv8</sha1>
+</revision>
+</page>

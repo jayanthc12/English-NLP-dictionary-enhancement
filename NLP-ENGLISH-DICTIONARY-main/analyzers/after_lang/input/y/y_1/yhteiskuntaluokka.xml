@@ -1,0 +1,32 @@
+<page>
+<title>yhteiskuntaluokka</title>
+<ns>0</ns>
+<id>664631</id>
+<revision>
+<id>58642124</id>
+<parentid>54764661</parentid>
+<timestamp>2020-02-05T15:33:49Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="343" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|yhteiskunta|luokka|t1=society|t2=class}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunta/luokka}}
+===Noun===
+{{fi-noun}}
+# [[social class]]
+====Declension====
+{{fi-decl-koira|yhteiskuntaluo|kk|k|a}}
+===Anagrams===
+* {{anagrams|fi|a=aaehikkklnosttuuy|luokkayhteiskunta}}</text>
+<sha1>7gq259flcpu5lzelo3u7mjx1twdhvkr</sha1>
+</revision>
+</page>

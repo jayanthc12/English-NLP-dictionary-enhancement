@@ -1,0 +1,31 @@
+<page>
+<title>yhdenlainen</title>
+<ns>0</ns>
+<id>3622659</id>
+<revision>
+<id>69318352</id>
+<parentid>60290618</parentid>
+<timestamp>2022-09-18T17:13:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yksi|alt1=yhden|lainen|id2=similarity}}
+===Pronunciation===
+{{fi-p|yhden-lainen}}
+===Adjective===
+{{fi-adj|-}}
+# only one kind of
+# [[similar]]
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdenlai|a}}
+====Synonyms====
+* {{sense|similar}} {{l|fi|samanlainen}}</text>
+<sha1>hhu50sj82ftr30jq3uh1lmy1nyid2g7</sha1>
+</revision>
+</page>

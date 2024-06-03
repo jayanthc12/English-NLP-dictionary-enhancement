@@ -1,0 +1,43 @@
+<page>
+<title>xicamatl</title>
+<ns>0</ns>
+<id>3275506</id>
+<revision>
+<id>65321321</id>
+<parentid>63198677</parentid>
+<timestamp>2022-01-12T05:48:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Nahuatl: correct misformatted language section divider at end; Central Nahuatl: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="964" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Cholula}} {{l|nhn|catzotl}}
+===Noun===
+{{head|nhn|noun}}
+# [[jicama]].
+[[Category:Amecameca Central Nahuatl]]
+{{c|nhn|Plants}}
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xicama}}
+===Pronunciation===
+* {{IPA|nci|/ʃiːkamatɬ/}}
+===Noun===
+{{head|nci|noun|head=xīcamatl}}
+# [[jicama]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 159r. col. 1.
+#*: '''xicamatl'''. cierta rayz que se come cruda y es muy dulce.
+#*: ('''xicamatl'''. a certain root that is eaten raw and is very sweet.)
+====Descendants====
+* {{desc|es|jícama}}
+===References===
+* “[https://web.archive.org/web/20161203034759/http://whp.uoregon.edu/dictionaries/nahuatl/index.lasso xicamatl]” in the ''Nahuatl Dictionary'', University of Oregon, 2011.</text>
+<sha1>374v1szhsey6bt3e53tvoqg1z25btsr</sha1>
+</revision>
+</page>

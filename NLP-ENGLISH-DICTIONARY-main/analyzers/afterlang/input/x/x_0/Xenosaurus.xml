@@ -1,0 +1,26 @@
+<page>
+<title>Xenosaurus</title>
+<ns>0</ns>
+<id>7215088</id>
+<revision>
+<id>60309485</id>
+<parentid>52819732</parentid>
+<timestamp>2020-09-06T19:07:31Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==Translingual==
+{{wikipedia}}
+===Etymology===
+From {{der|mul|grc|ξένος||alien}} + {{af|mul|-saurus}}.
+===Proper noun===
+{{taxoninfl|g=m|i=1}}
+# {{taxon|genus|family|Xenosauridae|the [[knob-scaled lizard]]s of [[Central America]]}}</text>
+<sha1>9v3gfhbplzcntz6jcpxy1632dz52oc0</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xipollejat</title>
+<ns>0</ns>
+<id>5991143</id>
+<revision>
+<id>64460212</id>
+<parentid>54734271</parentid>
+<timestamp>2021-10-28T12:18:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|at|s=4}}
+===Verb===
+{{ca-pp|xipolleja}}
+# {{ca-verb form of|m=ptc|t=past|xipollejar}}</text>
+<sha1>s3lnwl5njqq7blxjyv187ax3dvorv2v</sha1>
+</revision>
+</page>

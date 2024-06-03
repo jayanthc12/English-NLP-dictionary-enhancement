@@ -1,0 +1,27 @@
+<page>
+<title>yawingly</title>
+<ns>0</ns>
+<id>3056750</id>
+<revision>
+<id>67565777</id>
+<parentid>51894934</parentid>
+<timestamp>2022-06-27T15:05:19Z</timestamp>
+<contributor>
+<username>Zumbacool</username>
+<id>3930515</id>
+</contributor>
+<comment>/* Adverb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="642" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yawing|ly}}
+===Adverb===
+{{en-adv}}
+# With a [[yaw]]ing motion.
+#* {{RQ:Melville Moby-Dick|passage={{...}} while still she rushed along, as if two antagonistic influences were struggling in her — one to mount direct to heaven, the other to drive '''yawingly''' to some horizontal goal.|page=237}}
+#* '''2004''', Robert Silverberg, ''The 13th Immortal'' (page 124)
+#*: Reality seemed to slide '''yawingly''' from moment to moment. He had loved Narella five years ago? He had been at Winslow's court, and been sentenced to death? Possibly. But it was as if those things had happened to someone else.</text>
+<sha1>se15st6pqk721vhfq6vvl0019ooy16v</sha1>
+</revision>
+</page>

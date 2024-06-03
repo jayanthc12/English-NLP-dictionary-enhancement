@@ -1,0 +1,101 @@
+<page>
+<title>yapa</title>
+<ns>0</ns>
+<id>241185</id>
+<revision>
+<id>68896861</id>
+<parentid>68019627</parentid>
+<timestamp>2022-08-28T10:20:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2003" xml:space="preserve">{{also|yapá|Yapa|yapa-}}
+==Kaurna==
+===Noun===
+{{head|zku|noun}}
+# [[hole]], [[den]]
+===See also===
+* [[yaparra]], [[yapa-yaparri]]
+----
+==Quechua==
+{{was fwotd|qu|2016|December|14}}
+===Pronunciation===
+* {{IPA|qu|/ˈjapa/}}
+===Adjective===
+{{head|qu|adjective}}
+# [[added]], [[remaining]]
+===Adverb===
+{{head|qu|adverb}}
+# [[again]], [[once more]]
+# [[very]]
+===Noun===
+{{head|qu|noun}}
+# [[addition]], [[supplement]], [[increase]], [[repetition]]
+# a small [[gift]] or [[additional]] [[quantity]] given to a [[valued]] [[customer]]
+# [[sum]]
+====Usage notes====
+Not to be confused with {{m|qu|llapa}}.
+====Declension====
+{{qu-noun-v}}{{qu-poss-v}}
+====Descendants====
+* {{desc|es|ñapa|bor=1}}
+** {{desc|fr|lagniappe|bor=1}}
+*** {{desc|en|lagniappe|bor=1}}
+====See also====
+* {{l|qu|yapay}}
+===References===
+* {{R:Diccionario AMLQ}}
+* “yapa” in Teofilo Laime Ajacopa (2007), ''Diccionairo bilingüe: Quechua – Castellano'', 2nd edition.
+----
+==Spanish==
+===Etymology===
+Borrowed from {{bor|es|qu|yapay}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# Something that is added, especially something that a merchant gives to a buyer to complete the amount requested, or something [[extra]] given as a [[bonus]]; a [[gratuity]], [[lagniappe]]
+#: {{syn|es|añadidura|ñapa}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yapar}}
+===Further reading===
+* {{R:es:DRAE}}
+----
+==Tagalog==
+===Noun===
+{{tl-noun|yapá}}
+# [[tastelessness]] or [[insipidity]] {{q|of solid food}}
+#: {{syn|tl|pagkawalang-lasa}}
+# [[dryness]]; [[lacking]] [[juice]] {{q|of fruit}}
+#: {{syn|tl|pagkawalang-katas}}
+====Related terms====
+{{rel2
+|tl|kayapahan
+|mayapa
+}}
+----
+==Ternate==
+===Pronunciation===
+* {{IPA|tft|[ˈja.pa]}}
+===Verb===
+{{tft-verb}}
+# {{lb|tft|stative}} to be [[filthy]], [[dirty]]
+====Conjugation====
+{{tft-conj}}
+===References===
+* {{R:tft:Hayami-Allen:2001}}
+----
+==Warlpiri==
+===Noun===
+{{head|wbp|noun}}
+# [[person]]
+[[Category:wbp:People]]</text>
+<sha1>foh32efj2suxr9bujmx4akkjx3dia3x</sha1>
+</revision>
+</page>

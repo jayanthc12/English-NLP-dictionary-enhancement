@@ -1,0 +1,41 @@
+<page>
+<title>xabon</title>
+<ns>0</ns>
+<id>4794726</id>
+<revision>
+<id>65007892</id>
+<parentid>63797711</parentid>
+<timestamp>2021-12-21T06:55:52Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<minor />
+<comment>/* Old Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="625" xml:space="preserve">{{also|xabón}}
+==Old Spanish==
+===Etymology===
+From {{inh|osp|la|sāpō}}, from {{der|osp|gem-pro|*saipǭ}}.
+===Pronunciation===
+* {{IPA|osp|/ʃaˈbon/}}
+===Noun===
+{{osp-noun|m|xabones}}
+# [[soap]]
+#* '''c. 1250''', [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 29v.
+#*: […] Et es muy lezne amanera de la piedra del '''xabon'''.
+#*:: […] And it is very soft, like the stone of '''soap'''.
+====Descendants====
+* {{desc|lad|-}}
+*: {{desc|sclb=1|lad|שאבון}}
+*: {{desc|sclb=1|lad|shavón}}
+* {{desc|es|jabón}} {{see desc}}
+----
+==Spanish==
+===Noun===
+{{es-noun|m|xabones}}
+# {{obsolete spelling of|es|jabón}}</text>
+<sha1>92f1c51fl28lqckjyumru4612v4ex9a</sha1>
+</revision>
+</page>

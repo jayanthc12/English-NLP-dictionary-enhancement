@@ -1,0 +1,23 @@
+<page>
+<title>xubilaron</title>
+<ns>0</ns>
+<id>4352003</id>
+<revision>
+<id>53120050</id>
+<parentid>25807549</parentid>
+<timestamp>2019-05-19T06:04:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'second-person plural indefinite preterite indicative' to 2|p|indef|pret|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xubilar||2|p|indef|pret|ind}}</text>
+<sha1>8h4s53tv9b81j6g3ewd60qsyppb2i5c</sha1>
+</revision>
+</page>

@@ -1,0 +1,61 @@
+<page>
+<title>yhteys</title>
+<ns>0</ns>
+<id>743895</id>
+<revision>
+<id>69196939</id>
+<parentid>68978728</parentid>
+<timestamp>2022-09-10T14:47:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2671" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yksi|alt1=yhte-|us|alt2=ys|gloss1=one|id2=quality}}; literally &quot;oneness&quot;
+===Pronunciation===
+{{fi-p}}
+===Noun===
+{{fi-noun}}
+# [[connection]] {{gloss|point at which two or more things are connected}}
+#: ''Ylensyönnin ja liikalihavuuden '''yhteys''' on ilmeinen.''
+#:: The '''connection''' between overeating and obesity is obvious.
+#: ''Päänsärylläni ei ole '''yhteyttä''' siihen, että olin eilen ulkona.''
+#:: My headache has no '''connection''' with me going out last night.
+# connection {{gloss|feeling of understanding and ease of communication between two or more people}}
+#: ''Koska olimme huoneessa ainoat, jotka nauroivat vitsille, tunsin välillämme '''yhteyden'''.''
+#:: As we were the only people in the room to laugh at the joke, I felt a connection between us.
+# connection {{gloss|established communications or transportation link}}
+#: ''Tietokoneet on linkitetty verkko'''yhteyden''' kautta.''
+#:: The computers are linked by a network '''connection'''.
+#: ''Puhuin hänen kanssaan, mutta sitten tuli salamanisku, ja '''yhteys''' katkesi.''
+#:: I was talking to him, but there was lightning and we lost the '''connection'''.
+# [[access]], connection {{gloss|connection to or communication with the Internet}}
+#: ''Onko hotellissanne internet-'''yhteyttä'''?''
+#:: Do you have internet '''access''' in your hotel?
+# {{lb|fi|transport}} connection {{gloss|transfer from one transportation vehicle to another in scheduled transportation service}}
+#: ''Bussi oli myöhässä, joten hän myöhästyi '''yhteydestään''' Penn Stationilla ja joutui odottamaan kuusi tuntia seuraavaa junaa.''
+#:: The bus was late so he/she missed his/her '''connection''' at Penn Station and had to wait six hours for the next train.
+# {{lb|fi|usually|in the plural}} [[contact]]
+#: ''Onko sinulla '''yhteyksiä''' Venäjän mafiaan?''
+#:: Do you have any '''contacts''' with the Russian mafia?
+# [[context]]
+#: ''Tämänkin sanan merkitys riippuu siitä '''yhteydestä''', jossa sitä käytetään.''
+#:: Also this word's meaning depends on the '''context''' in which it is used.
+# [[touch]], contact; in expressions [[in contact]], [[in touch]], [[out of touch]]
+#: '''''En''' ollut pitkään aikaan ollut '''yhteydessä''' vanhaan ystävääni, kun hän soitti.''
+#:: I had been '''out of touch''' with my old friend for a long time when he/she called.
+#: ''Saitko häneen '''yhteyttä'''?''
+#:: Did you get '''in touch''' with him/her?
+====Declension====
+{{fi-decl-kalleus|yhtey|ä}}
+====Synonyms====
+* {{sense|transfer}} {{l|fi|jatkoyhteys}}
+* {{sense|contact}} {{l|fi|kontakti}}
+* {{sense|context}} {{l|fi|asiayhteys}}</text>
+<sha1>b3se90zkjhzl5eg902c0byfqqoegwt5</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yete</title>
+<ns>0</ns>
+<id>2624535</id>
+<revision>
+<id>61019298</id>
+<parentid>59864588</parentid>
+<timestamp>2020-11-03T07:59:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==English==
+===Verb===
+{{en-verb}}
+# {{alternative form of|en|yet|nodot=1}} (&quot;to melt, found&quot;).
+===Anagrams===
+* {{anagrams|en|a=eety|eyet|tyee|yeet}}</text>
+<sha1>8tocv03jlnbujz6jihc8ltfll79f2sc</sha1>
+</revision>
+</page>

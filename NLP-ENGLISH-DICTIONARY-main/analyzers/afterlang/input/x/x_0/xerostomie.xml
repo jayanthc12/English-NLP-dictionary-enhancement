@@ -1,0 +1,31 @@
+<page>
+<title>xerostomie</title>
+<ns>0</ns>
+<id>1616337</id>
+<revision>
+<id>65434025</id>
+<parentid>62822262</parentid>
+<timestamp>2022-01-25T12:23:25Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xerostomia}}
+----
+==Romanian==
+===Etymology===
+{{bor+|ro|fr|xérostomie}}.
+===Noun===
+{{ro-noun|f|-}}
+# [[dry mouth]]
+====Declension====
+{{ro-noun-f-ie|xerostomi|n=sg}}</text>
+<sha1>b3beq9kqz8kneqvjwpx91bowydlvyoh</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>xituculumucumba</title>
+<ns>0</ns>
+<id>5865602</id>
+<revision>
+<id>69577988</id>
+<parentid>69117721</parentid>
+<timestamp>2022-10-23T02:21:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, usexes, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="725" xml:space="preserve">==Portuguese==
+{{was fwotd|pt|2016|October|31}}
+===Etymology===
+From {{der|pt|rng}}.
+===Pronunciation===
+{{pt-IPA|}}
+* {{a|Mozambique}} {{IPA|pt|[ʃi.tu.ku.lu.muˈkũ.bɐ]}}
+* {{hyph|pt|xi|tu|cu|lu|mu|cum|ba}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Mozambique}} a kind of [[evil]] [[spirit]] or [[bogeyman]] that appears in [[nightmare]]s
+#* '''1988''', Albino Magaia, ''Yô Mabalane!'', p. 56:
+#*: {{quote|pt|De facto era '''xituculumucumba'''. Tinha dois pés mas era '''xituculumucumba'''. Tinha muitos dentes mas era '''xituculumucumba'''.|In fact, it was a ''xituculumucumba''. It had two feet, but it was a ''xituculumucumba''. It had a lot of teeth, but it was a ''xituculumucumba''.}}
+{{C|pt|Mythological creatures}}</text>
+<sha1>dzt15nz28yno0gby4eevezvow43lehq</sha1>
+</revision>
+</page>

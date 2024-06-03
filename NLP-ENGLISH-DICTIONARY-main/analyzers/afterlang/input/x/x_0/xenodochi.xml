@@ -1,0 +1,28 @@
+<page>
+<title>xenodochi</title>
+<ns>0</ns>
+<id>1625553</id>
+<revision>
+<id>66995169</id>
+<parentid>62822116</parentid>
+<timestamp>2022-05-15T09:46:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xenodochus}} (2); combine {{inflection of|la|xenodochus}} tag sets nom|p and voc|p into nom//voc|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="192" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=m}}
+# {{plural of|it|xenodochio}}
+----
+==Latin==
+===Noun===
+{{la-noun-form|xenodochī}}
+# {{inflection of|la|xenodochus||nom//voc|p|;|gen|s}}</text>
+<sha1>3d3dddozxkt8vghaonnav0je2msv9yb</sha1>
+</revision>
+</page>

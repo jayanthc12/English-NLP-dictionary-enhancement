@@ -1,0 +1,23 @@
+<page>
+<title>yaralan</title>
+<ns>0</ns>
+<id>3753298</id>
+<revision>
+<id>67658606</id>
+<parentid>57341282</parentid>
+<timestamp>2022-07-06T14:16:16Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert imperatives to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">==Turkish==
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yaralanmak}}</text>
+<sha1>cm70dqy9oc9g1e6ny4gf611ukt2hrbl</sha1>
+</revision>
+</page>

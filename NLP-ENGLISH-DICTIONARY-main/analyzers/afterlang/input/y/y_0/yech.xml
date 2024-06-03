@@ -1,0 +1,37 @@
+<page>
+<title>yech</title>
+<ns>0</ns>
+<id>1215452</id>
+<revision>
+<id>60467594</id>
+<parentid>60438942</parentid>
+<timestamp>2020-09-22T02:56:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove new= from {{en-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="459" xml:space="preserve">==English==
+===Alternative forms===
+* [[yecch]]
+===Pronunciation===
+* {{a|US}} {{IPA|en|[jɛx]|[jɛχ]}}
+===Interjection===
+{{en-interj}}
+# {{lb|en|chiefly|US}} An exclamation of [[disgust]].
+#: '''''Yech'''! This jelly donut is the worst on the planet!''
+====Synonyms====
+* See [[Thesaurus:yuck]]
+====Derived terms====
+* [[yechy]]
+====Translations====
+{{trans-see|yuck}}
+===Noun===
+{{en-noun|s}}
+# {{lb|en|chiefly|US}} An exclamation of [[disgust]].</text>
+<sha1>6mhrk0pqfrvof7erj6xc1uyc3iogjxw</sha1>
+</revision>
+</page>

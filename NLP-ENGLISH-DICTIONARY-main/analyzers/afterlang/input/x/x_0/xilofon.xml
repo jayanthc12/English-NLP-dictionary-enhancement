@@ -1,0 +1,74 @@
+<page>
+<title>xilofon</title>
+<ns>0</ns>
+<id>987775</id>
+<revision>
+<id>68786346</id>
+<parentid>66414131</parentid>
+<timestamp>2022-08-27T11:59:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1365" xml:space="preserve">{{also|xilòfon}}
+==Hungarian==
+===Etymology===
+From {{bor|hu|de|Xylophon}}, from {{der|hu|fr|xylophone}}, from {{der|hu|grc|ξύλον||wood}} + {{m|grc|φωνή||sound}}.
+===Pronunciation===
+* {{hu-IPA}}
+* {{rhymes|hu|on|s=3}}
+* {{hyphenation|hu|xi|lo|fon}}
+===Noun===
+{{hu-noun|ok}}
+# [[xylophone]]
+====Declension====
+{{hu-infl-nom|xilofono|o|-}}{{hu-pos-otok|xilofon|j|jai}}
+===Further reading===
+* {{R:ErtSz}}
+{{topics|hu|Musical instruments}}
+----
+==Indonesian==
+===Alternative forms===
+*''(rare, nonstandard)'' {{l|id|silofon}}, {{l|id|silopon}}, {{l|id|xilopon}}, {{l|id|zilofon}}
+===Etymology===
+From {{der|id|en|xylophone}} or {{der|id|nl|xylofoon}}.
+===Pronunciation===
+* {{IPA|id|[sɪˈlɔfɔn]}}
+* {{hyph|id|xi|lo|fon}}
+===Noun===
+{{id-noun}}
+# [[xylophone]]
+===Further reading===
+* {{R:KBBI Daring}}
+{{C|id|Musical instruments}}
+----
+==Malay==
+===Alternative forms===
+* {{l|ms|zilofon}}
+===Etymology===
+From {{bor|ms|en|xylophone}}.
+===Pronunciation===
+* {{IPA|ms|/zilofon/}}
+* {{rhymes|ms|ofon|fon|on}}
+===Noun===
+{{ms-noun|j=زيلوفون}}
+# [[xylophone]] {{gloss|musical instrument}}
+===Further reading===
+* {{R:PRPM}}
+[[Category:ms:Musical instruments]]
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xylophone}}.
+===Noun===
+{{ro-noun|n|xilofoane}}
+# [[xylophone]]
+====Declension====
+{{ro-noun-n|pl=xilofoane}}</text>
+<sha1>0ur9xmwnt3ad4gm4m1j18nm21qsraiq</sha1>
+</revision>
+</page>

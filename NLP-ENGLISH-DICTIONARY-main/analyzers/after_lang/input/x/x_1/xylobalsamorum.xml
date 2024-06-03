@@ -1,0 +1,23 @@
+<page>
+<title>xylobalsamorum</title>
+<ns>0</ns>
+<id>2917136</id>
+<revision>
+<id>57551962</id>
+<parentid>21923364</parentid>
+<timestamp>2019-10-20T03:38:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xylobalsamōrum}}
+# {{inflection of|la|xylobalsamum||gen|p}}</text>
+<sha1>mch7u33yda2lowgeu97163rc4yu87wg</sha1>
+</revision>
+</page>

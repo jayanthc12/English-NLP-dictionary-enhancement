@@ -1,0 +1,41 @@
+<page>
+<title>xylophonist</title>
+<ns>0</ns>
+<id>228088</id>
+<revision>
+<id>69440298</id>
+<parentid>67656506</parentid>
+<timestamp>2022-10-03T19:46:14Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>t+ca:[[xilofonista]] t+de:[[Xylofonist]] t+de:[[Xylofonistin]] t-balance ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="735" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylophone|ist}}
+===Noun===
+{{en-noun}}
+# Someone who plays a [[xylophone]].
+====Translations====
+{{trans-top|xylophone player}}
+* Catalan: {{t|ca|xilofonista|m|f}}
+* Estonian: {{t|et|ksülofonimängija}}
+* Finnish: {{t|fi|ksylofonisti}}
+* French: {{t+|fr|xylophoniste}}
+* Galician: {{t+|gl|xilofonista}}
+* German: {{t|de|Xylofonist|m}}, {{t|de|Xylofonistin|f}}
+{{trans-mid}}
+* Irish: {{t|ga|xileafónaí|m}}
+* Polish: {{t|pl|ksylofonista|m}}, {{t|pl|ksylofonistka|f}}
+* Russian: {{t|ru|ксилофони́ст|m}}, {{t|ru|ксилофони́стка|f}}
+* Spanish: {{t+|es|xilofonista|f}}
+* Swedish: {{t+|sv|xylofonist|c}}
+{{trans-bottom}}
+[[Category:en:Musicians]]
+[[Category:en:People]]</text>
+<sha1>24rf163udi6xo93hjutcxunv8ajk83i</sha1>
+</revision>
+</page>

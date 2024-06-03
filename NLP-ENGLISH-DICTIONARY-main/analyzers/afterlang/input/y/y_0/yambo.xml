@@ -1,0 +1,45 @@
+<page>
+<title>yambo</title>
+<ns>0</ns>
+<id>3441308</id>
+<revision>
+<id>68948191</id>
+<parentid>65160884</parentid>
+<timestamp>2022-08-28T20:31:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="565" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Etymology 1===
+{{wikipedia|lang=es}}
+From {{bor|es|la|iambus}}, from {{der|es|grc|ἴαμβος}}.
+====Noun====
+{{es-noun|m}}
+# {{lb|es|poetry}} [[iamb]]
+=====Related terms=====
+* {{l|es|yámbico}}
+===Etymology 2===
+From {{bor|es|sa|जम्बु|tr=jambū||[[w:Syzygium jambos|rose apple]], jambul}}.
+====Alternative forms====
+* {{alter|es|jambul}}
+====Noun====
+{{es-noun|m}}
+# [[jambul]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Trees}}
+----
+==Tok Pisin==
+===Noun===
+{{head|tpi|noun}}
+# [[guava]]</text>
+<sha1>8vho2hcjy8jgfbcnhpn4gqqjgq3xelg</sha1>
+</revision>
+</page>

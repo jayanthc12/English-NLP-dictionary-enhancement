@@ -1,0 +1,46 @@
+<page>
+<title>Xia</title>
+<ns>0</ns>
+<id>6099451</id>
+<revision>
+<id>68585820</id>
+<parentid>67889405</parentid>
+<timestamp>2022-08-11T23:41:52Z</timestamp>
+<contributor>
+<username>Cjmuse</username>
+<id>3964104</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="862" xml:space="preserve">{{also|xia|xiā|xiá|xiǎ|xià|xía|xỉa}}
+==English==
+{{wikipedia}}
+{{commonscat|Xia Dynasty}}
+===Alternative forms===
+* {{q|from [[Wade-Giles]]}} {{l|en|Hsia}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{der|en|cmn|-}} Chinese pronunciation for {{zh-l|夏|tr=Xià}}.
+===Pronunciation===
+{{rfp|en}}
+* {{a|US}} {{IPA|en|/ʃɑ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|historical}} an ancient dynasty in [[China]].
+# {{surname|en}}.
+# {{place|en|county|prefecture-level city/Yuncheng|province/Shanxi|c/China}}.
+====Translations====
+{{trans-top|dynasty; surname; county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|夏|tr=Xià|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aix|axi-}}
+[[Category:en:Chinese dynasties]]
+[[Category:en:History of China]]
+{{C|en|China|Nobility}}</text>
+<sha1>r10qel2jgop2t40of0rdszkl40a2trf</sha1>
+</revision>
+</page>

@@ -1,0 +1,48 @@
+<page>
+<title>xunco</title>
+<ns>0</ns>
+<id>6958217</id>
+<revision>
+<id>68868870</id>
+<parentid>68865392</parentid>
+<timestamp>2022-08-28T05:58:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="924" xml:space="preserve">==Galician==
+[[File:Juncus acutus2.jpg|thumb|''Xuncos'' (&quot;rushes&quot;)]]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|junco}}, from {{inh|gl|la|iūncus}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃuŋko̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[rush]], [[reed]]
+#* '''1300''', R. Martínez López (ed.), ''General Estoria. Versión gallega del siglo XIV''. Oviedo: Publicacións de Archivum, page 87:
+#*: ''Et nõ vestiam vestidura nẽgũa cõmo os de agora; mays [hũus] ajuntauã cõ eruas et cõ '''juncos''' omellor que podiã das follas das aruores et das cortezas delas''
+====Derived terms====
+{{top3}}
+* {{l|gl|Xanceda}}
+* {{l|gl|xuncal}}
+* {{l|gl|Xuncal}}
+* {{l|gl|Xuncedo}}
+* {{l|gl|Xuncido}}
+* {{l|gl|xunqueira}}
+* {{l|gl|Xunqueira}}
+* {{l|gl|Xunqueira de Ambía}}
+* {{l|gl|Xunqueira de Espadanedo}}
+{{bottom}}
+===References===
+* {{R:gl:DDGM|junco}}
+* {{R:gl:CX|junco}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>4gfuwkv2rnyp6rgruaw03whzbycvcvj</sha1>
+</revision>
+</page>

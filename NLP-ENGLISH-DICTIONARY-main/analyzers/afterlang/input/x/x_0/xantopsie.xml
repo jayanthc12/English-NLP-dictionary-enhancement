@@ -1,0 +1,32 @@
+<page>
+<title>xantopsie</title>
+<ns>0</ns>
+<id>1605829</id>
+<revision>
+<id>68793352</id>
+<parentid>62822078</parentid>
+<timestamp>2022-08-27T14:14:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xantopsia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xanthopsie}}.
+===Noun===
+{{ro-noun|f|xantopsii}}
+# [[xanthopsia]]
+====Declension====
+{{ro-noun-f-ie|xantopsi}}</text>
+<sha1>rk6j8l2kj2evy8c3c3e3nuvtbl1f759</sha1>
+</revision>
+</page>

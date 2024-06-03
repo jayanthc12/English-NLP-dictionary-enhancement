@@ -1,0 +1,39 @@
+<page>
+<title>Yala</title>
+<ns>0</ns>
+<id>6402400</id>
+<revision>
+<id>65325257</id>
+<parentid>58366940</parentid>
+<timestamp>2022-01-12T16:59:40Z</timestamp>
+<contributor>
+<username>Ffffrr</username>
+<id>3832888</id>
+</contributor>
+<comment>/* English */Wikipedia</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="492" xml:space="preserve">{{also|yala}}
+==English==
+{{wikipedia|Yala Province}}
+{{wikipedia}}
+===Etymology===
+From {{bor|en|th|ยะลา}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|province|c/Thailand}}.
+# {{place|en|city|c/Thailand}}.
+====Translations====
+{{trans-top|a province of Thailand}}
+* Thai: {{t+|th|ยะลา}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|a city in Thailand}}
+* Thai: {{t+|th|ยะลา}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aaly|alay|laya}}</text>
+<sha1>fsavs2rc7fkq4x6hzjbgcz4isynaao0</sha1>
+</revision>
+</page>

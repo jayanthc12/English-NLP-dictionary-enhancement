@@ -1,0 +1,26 @@
+<page>
+<title>xerocratic</title>
+<ns>0</ns>
+<id>4552442</id>
+<revision>
+<id>54363436</id>
+<parentid>51947197</parentid>
+<timestamp>2019-09-28T20:45:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="423" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xerox|cratic}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|rare}} Relating to [[xerocracy]].
+#* {{quote-book|en|title=One Less Car: Bicycling and the Politics of Automobility|page=106|author=Zack Furness|year=2010|passage=Critical Mass serves an important ritual function that gives a tangible, human expression to the oft-used '''xerocratic''' slogan “ride Daily, Celebrate Monthly.}}</text>
+<sha1>gd9clr14mpx6ob5ybiy2recv5d9mtq2</sha1>
+</revision>
+</page>

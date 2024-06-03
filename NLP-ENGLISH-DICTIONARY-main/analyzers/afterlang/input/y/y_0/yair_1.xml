@@ -1,0 +1,41 @@
+<page>
+<title>yair</title>
+<ns>0</ns>
+<id>6695034</id>
+<revision>
+<id>64460298</id>
+<parentid>63224561</parentid>
+<timestamp>2021-10-28T12:22:09Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1566" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yare}}
+===Etymology===
+From Northern {{inh|en|enm|yare}}, from {{inh|en|ang|*ġear}} (in {{m|ang|mylenġear}}). Compare {{m|en|yard}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/jɛː/}}
+* {{a|GA}} {{IPA|en|/jɛɹ/}}
+* {{a|Scotland}} {{IPA|en|/jeːɹ/}}
+* {{rhymes|en|ɛə(ɹ)|s=1}}
+===Noun===
+{{en-noun}}
+# {{tlb|en|Northern England|Scotland}} An enclosure for catching salmon as the tide ebbs.&lt;ref&gt;{{cite-book|title=Kirkcudbright Shipping 1300-2005|year=2007|author=David R. Collin|publisher=Kirkcudbright History Society|isbn=9780955163852|passage=A form of fish trap peculiar to the River of Dee at Kirkcudbright, consisting of two wings of wattled or netted stobs, driven into the ground at low tide, in a ‘V’ shape, with a net at the point at which they meet. The net was operated by a fisherman who sat on a platform bridging the two wings. There were up to fourteen yairs on the River Dee, some of which were fished on the flood tide, and others on the ebb tide. Yairs were of an average height of thirteen feet, and varied considerably in length, extending into the edge of the navigable channel. Yairs were fished from at least 1400's until the late twentieth century. The main structure of the last yair, at Castle Sod, was only removed in 2001.}}&lt;/ref&gt;
+====References====
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=airy|Airy|Iyar|Riya|airy|yari}}
+[[Category:en:Fishing]]
+----
+==Middle English==
+===Determiner===
+{{head|enm|determiner}}
+# {{lb|enm|chiefly|Northern ME}} {{alt form|enm|þeir}}</text>
+<sha1>n3scfsmji4z9z2tk68vc2dm5qvaz7wi</sha1>
+</revision>
+</page>

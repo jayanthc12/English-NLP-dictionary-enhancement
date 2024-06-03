@@ -1,0 +1,29 @@
+<page>
+<title>xinesi</title>
+<ns>0</ns>
+<id>3703281</id>
+<revision>
+<id>50876863</id>
+<parentid>49640075</parentid>
+<timestamp>2018-11-27T10:53:41Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|chenesi}}
+===Etymology===
+Borrowed from {{bor|en|cad|xinesi}}, {{m|cad|chenesi||priest}}.
+===Noun===
+{{en-noun}}
+# High priest of the Hasinai confederacy.
+===Anagrams===
+* {{anagrams|en|a=eiinsx|nixies}}</text>
+<sha1>qeqyalmyncetm48dea2wsd11l59ew92</sha1>
+</revision>
+</page>

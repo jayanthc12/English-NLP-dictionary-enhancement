@@ -1,0 +1,26 @@
+<page>
+<title>xanemuu</title>
+<ns>0</ns>
+<id>3786228</id>
+<revision>
+<id>55355818</id>
+<parentid>50367417</parentid>
+<timestamp>2019-10-14T11:55:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="158" xml:space="preserve">==Cahuilla==
+===Etymology===
+{{rfe|chl}}
+===Noun===
+{{head|chl|noun|head=xanemúu}} (''plural'' {{m|chl|xanemúu'um}})
+# [[chicken]]
+[[Category:chl:Fowls]]</text>
+<sha1>tl95kwpj9h5l4ands6v3zmhdrz0i5ow</sha1>
+</revision>
+</page>

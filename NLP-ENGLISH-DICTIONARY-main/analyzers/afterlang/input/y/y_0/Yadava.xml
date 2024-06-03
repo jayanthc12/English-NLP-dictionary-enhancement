@@ -1,0 +1,26 @@
+<page>
+<title>Yadava</title>
+<ns>0</ns>
+<id>5784970</id>
+<revision>
+<id>68844122</id>
+<parentid>67300484</parentid>
+<timestamp>2022-08-28T01:36:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="212" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|sa|यादव}}.
+===Noun===
+{{en-plural noun}}
+# {{label|en|Hinduism}} An ancient Indian people who believed themselves to be descended from [[Yadu]].</text>
+<sha1>grjapillxqxa3a8rut8ykuh95001xgg</sha1>
+</revision>
+</page>

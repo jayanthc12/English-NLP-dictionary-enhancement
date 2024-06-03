@@ -1,0 +1,24 @@
+<page>
+<title>xerult</title>
+<ns>0</ns>
+<id>4076604</id>
+<revision>
+<id>69054416</id>
+<parentid>50193120</parentid>
+<timestamp>2022-09-03T06:05:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# A kind of [[ultisol]] found in areas with very dry summers and moist winters.
+[[Category:English terms prefixed with xer-]]</text>
+<sha1>9ew7mkdcsfm5hxk83ndmdpajx6m3o7u</sha1>
+</revision>
+</page>

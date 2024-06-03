@@ -1,0 +1,36 @@
+<page>
+<title>Yasmina</title>
+<ns>0</ns>
+<id>2168825</id>
+<revision>
+<id>67339626</id>
+<parentid>67267400</parentid>
+<timestamp>2022-06-11T07:58:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns, clean up etyms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="600" xml:space="preserve">==English==
+===Etymology===
+Variant of {{m|en|Jasmine}}, often representing a transliteration of the corresponding {{uder|en|ar|-}} and {{uder|en|fa|-}} names.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|from=Arabic}}.
+===Anagrams===
+* {{anagrams|en|a=aaimnsy|Minayas|Miyanas|sinamay}}
+----
+==French==
+===Etymology===
+Variant of {{m|fr|Jasmine}}, often representing a transliteration of the corresponding {{bor|fr|ar|-}} and {{bor|fr|fa|-}} names.
+===Pronunciation===
+* {{fr-IPA}}
+===Proper noun===
+{{fr-proper noun|f}}
+# {{given name|fr|female|from=Arabic|from2=Persian}}</text>
+<sha1>m9ftme2b9l0vjt8pyv2kvt29g6o52rd</sha1>
+</revision>
+</page>

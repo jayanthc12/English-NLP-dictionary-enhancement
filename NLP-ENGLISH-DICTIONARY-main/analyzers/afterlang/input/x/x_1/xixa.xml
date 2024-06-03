@@ -1,0 +1,31 @@
+<page>
+<title>xixa</title>
+<ns>0</ns>
+<id>5111695</id>
+<revision>
+<id>69114429</id>
+<parentid>66575834</parentid>
+<timestamp>2022-09-04T16:54:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s) (3); standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="547" xml:space="preserve">==Portuguese==
+{{attention|pt|please verify, expand if necessary, create synonyms}}
+===Etymology===
+Borrowed from {{bor|pt|en|shisha}}, from {{der|pt|arz|شيشة|tr=šīša}}, from {{der|pt|ota|شیشه|tr={{m|tr|şişe}}}}, from {{der|pt|fa|شیشه|tr=šīša||glass, mirror}}.
+===Pronunciation===
+{{pt-IPA|xicha}}
+* {{hyph|pt|xi|xa}}
+===Noun===
+{{pt-noun|m}}
+# [[shisha]]; [[hookah]]; [[narghile]] {{gloss|Oriental tobacco pipe wherein the smoke is drawn through water}}
+#: {{syn|pt|narguile|narguilé|narguilê|arguile}}
+{{C|pt|Smoking}}</text>
+<sha1>max7d5x6bu22j5dcj7sx8o3ktve943k</sha1>
+</revision>
+</page>

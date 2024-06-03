@@ -1,0 +1,25 @@
+<page>
+<title>xweitl</title>
+<ns>0</ns>
+<id>7126996</id>
+<revision>
+<id>56642346</id>
+<parentid>51655820</parentid>
+<timestamp>2019-10-18T10:20:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==Tlingit==
+===Pronunciation===
+{{IPA|tli|[xʷèːtɬʰ]}}
+===Noun===
+{{head|tli|noun|possessed|xweidlí}}
+# [[weariness]], [[fatigue]], [[tiredness]]</text>
+<sha1>2t987xena96e1gtrl4c7es0a4aaoxno</sha1>
+</revision>
+</page>

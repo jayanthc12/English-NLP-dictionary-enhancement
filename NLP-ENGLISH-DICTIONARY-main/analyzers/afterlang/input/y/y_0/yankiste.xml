@@ -1,0 +1,29 @@
+<page>
+<title>yankiste</title>
+<ns>0</ns>
+<id>6364491</id>
+<revision>
+<id>67257902</id>
+<parentid>67148651</parentid>
+<timestamp>2022-06-05T08:44:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant 1=mf in {{fr-adj}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==French==
+===Etymology===
+From {{af|fr|yankee|-iste}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-yankiste.wav|Audio}}
+* {{rhymes|fr|ist}}
+===Adjective===
+{{fr-adj}}
+# {{lb|fr|relational}} [[Yankee]]; [[American]]</text>
+<sha1>ss44foije9qbc6t7qdrwy6ew1jkqin9</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>xochipalli</title>
+<ns>0</ns>
+<id>548042</id>
+<revision>
+<id>64030743</id>
+<parentid>55428674</parentid>
+<timestamp>2021-09-25T07:47:12Z</timestamp>
+<contributor>
+<username>Rua</username>
+<id>21371</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="662" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{affix|nci|xōchitl|t1=flower|pā|t2=to dye|-lli}}.
+===Pronunciation===
+* {{IPA|nci|/ʃoːtʃipalli/}}
+===Noun===
+{{head|nci|noun|head=xōchipalli}}
+# [[pink]]; [[red]]; [[orange]]; [[yellow]]
+# a kind of [[plant]]
+====Derived terms====
+{{der-top}}
+* {{l|nci|xochipalaquia}}
+* {{l|nci|xochipalcacahuatl}}
+* {{l|nci|xochipalhuia}}
+{{der-mid}}
+* {{l|nci|xochipalpa}}
+* {{l|nci|xochipaltic}}
+{{der-bottom}}
+====Further reading====
+* {{cite-web|author=Wimmer, Alexis|year=2006|title=Dictionnaire de la langue nahuatl classique|url=http://sites.estvideo.net/malinal/}}
+[[Category:nci:Colors]]
+[[Category:nci:Plants]]</text>
+<sha1>ad1vrfvyu4b5587yuo5wxceovlvv86l</sha1>
+</revision>
+</page>

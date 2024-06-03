@@ -1,0 +1,31 @@
+<page>
+<title>xegisa</title>
+<ns>0</ns>
+<id>6944829</id>
+<revision>
+<id>53998433</id>
+<parentid>50536071</parentid>
+<timestamp>2019-08-26T10:55:42Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Zulu */ low-toned stem</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="315" xml:space="preserve">==Zulu==
+===Etymology===
+From {{affix|zu|xega|alt1=-xega|-isa}}.
+===Pronunciation===
+{{zu-IPA|xegisa}}
+===Verb===
+{{zu-verb|xegisa}}
+# {{lb|zu|transitive}} to [[loosen]]
+# {{lb|zu|transitive}} to [[relax]] {{gloss|make less strict}}
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||3.2.9}}</text>
+<sha1>ox1hdkt52r2luj3rozzwru3jxn7c7ix</sha1>
+</revision>
+</page>

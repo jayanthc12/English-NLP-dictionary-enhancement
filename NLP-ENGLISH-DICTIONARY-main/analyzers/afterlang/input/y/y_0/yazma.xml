@@ -1,0 +1,45 @@
+<page>
+<title>yazma</title>
+<ns>0</ns>
+<id>953000</id>
+<revision>
+<id>67658387</id>
+<parentid>64997997</parentid>
+<timestamp>2022-07-06T13:56:09Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert imperatives to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="654" xml:space="preserve">==Crimean Tatar==
+===Alternative forms===
+* {{alter|crh|cazma||Northern dialect}}
+===Noun===
+{{head|crh|noun}}
+# [[airan]], drink made of [[yogurt]] and water
+{{c|crh|Beverages}}
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jazma]}}
+* {{hyphenation|tr|yaz|ma}}
+===Noun===
+{{tr-noun|yı|lar}}
+# act of [[writing]]
+# [[manuscript]]
+# a kind of traditional headscarf worn on the head for warmth, cleanliness or fashion.
+====Declension====
+{{tr-infl-noun-v|a|poss=1}}
+====Synonyms====
+* {{l|tr|el yazması}} (2)
+* {{l|tr|çember}}, {{l|tr|tülbent}} (3)
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yazmak}}
+[[Category:tr:Headwear]]</text>
+<sha1>rx5v097dggw5anjnghq3o8hrgdf7r5t</sha1>
+</revision>
+</page>

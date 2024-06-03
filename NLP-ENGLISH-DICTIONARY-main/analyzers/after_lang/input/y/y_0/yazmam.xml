@@ -1,0 +1,29 @@
+<page>
+<title>yazmam</title>
+<ns>0</ns>
+<id>4072053</id>
+<revision>
+<id>54850089</id>
+<parentid>34332589</parentid>
+<timestamp>2019-10-07T15:38:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{hyphenation}}; move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="234" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jazmam]}}
+* {{hyphenation|tr|yaz|mam}}
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yazma||1|s|poss}}
+===Verb===
+{{head|tr|verb form}}
+# {{inflection of|tr|yazmamak||1|s|pres}}</text>
+<sha1>m2jvhjxvaza04dnosynfmcczia6xy2d</sha1>
+</revision>
+</page>

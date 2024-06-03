@@ -1,0 +1,27 @@
+<page>
+<title>Yeater</title>
+<ns>0</ns>
+<id>6285313</id>
+<revision>
+<id>67787455</id>
+<parentid>67678486</parentid>
+<timestamp>2022-07-09T19:08:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="360" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yeaters}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yeater'' is the 17249&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1642 individuals. ''Yeater'' is most common among White (94.52%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aeerty|eatery}}</text>
+<sha1>1pfk1nwfz7tbbd6lf0u8uhep7sn5h40</sha1>
+</revision>
+</page>

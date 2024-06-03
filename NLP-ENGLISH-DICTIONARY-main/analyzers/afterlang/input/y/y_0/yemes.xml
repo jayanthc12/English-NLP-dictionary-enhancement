@@ -1,0 +1,23 @@
+<page>
+<title>yemes</title>
+<ns>0</ns>
+<id>4352228</id>
+<revision>
+<id>56342422</id>
+<parentid>25807980</parentid>
+<timestamp>2019-10-17T13:47:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|yema}}</text>
+<sha1>hckr2x2dirbvfdu3s0m2de9ewlk9lb2</sha1>
+</revision>
+</page>

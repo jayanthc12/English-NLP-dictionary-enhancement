@@ -1,0 +1,25 @@
+<page>
+<title>yarded</title>
+<ns>0</ns>
+<id>3038955</id>
+<revision>
+<id>59083639</id>
+<parentid>50856008</parentid>
+<timestamp>2020-04-05T04:56:46Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|yard}}
+===Anagrams===
+* {{anagrams|en|a=addery|dryade|yadder}}</text>
+<sha1>ihspzprylsicxt2g6mdckr2125g5ba2</sha1>
+</revision>
+</page>

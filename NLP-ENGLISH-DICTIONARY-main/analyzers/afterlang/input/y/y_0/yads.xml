@@ -1,0 +1,40 @@
+<page>
+<title>yads</title>
+<ns>0</ns>
+<id>1500933</id>
+<revision>
+<id>54712143</id>
+<parentid>53092583</parentid>
+<timestamp>2019-10-05T07:36:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}; move lang= to 1= in {{IPA}}; move lang= to 1= in {{rhymes}}; move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="770" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yad}}
+===Anagrams===
+* {{anagrams|en|a=adsy|YASD|dasy-|days|sayd}}
+----
+==Cebuano==
+===Etymology===
+[[reverse|Reverse]] [[spelling]] of {{m|ceb|day}} + ''s'', from initial clipping of {{m|ceb|inday}}.
+===Pronunciation===
+* {{a|General Cebuano}} {{IPA|ceb|/ˈjad̪s̪/|/ˈjadʒ/}}
+* {{rhymes|ceb|adʒ|ad̪s̪}}
+* {{hyphenation|ceb|yads}}
+===Noun===
+{{head|ceb|noun}}
+# {{lb|ceb|colloquial}} a familiar term of address {{qualifier|see usage notes}}
+====Usage notes====
+* Strictly between gay friends or between a gay guy and his female friends. May be offensive towards [[masculine]] gay men. May be offensive coming from a straight guy.
+[[Category:Cebuano clippings]]
+[[Category:Cebuano gay slang]]</text>
+<sha1>qh1avsob2ungz0sxyn5kjy4qbidzzdd</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhteensointuva</title>
+<ns>0</ns>
+<id>1476385</id>
+<revision>
+<id>69318418</id>
+<parentid>64065278</parentid>
+<timestamp>2022-09-18T17:17:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteen|sointuva}}
+===Pronunciation===
+{{fi-p|yhteen-sointuva}}
+===Adjective===
+{{fi-adj|yhteensointuv|ampi|in}}
+# {{lb|fi|prosody}} [[assonant]]
+====Declension====
+{{fi-decl-koira|pos=adj|yhteensointuv|||a}}</text>
+<sha1>bn79083rsswqrt2r5u5x3aj1v4s1ooy</sha1>
+</revision>
+</page>

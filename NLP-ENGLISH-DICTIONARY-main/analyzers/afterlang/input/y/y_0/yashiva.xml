@@ -1,0 +1,23 @@
+<page>
+<title>yashiva</title>
+<ns>0</ns>
+<id>6361990</id>
+<revision>
+<id>55002254</id>
+<parentid>47350901</parentid>
+<timestamp>2019-10-11T05:24:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==French==
+===Noun===
+{{fr-noun|f}}
+# {{alternative form of|fr|yeshiva}}</text>
+<sha1>53gsjchxloxdmf3swx33mdbldt5cjr3</sha1>
+</revision>
+</page>

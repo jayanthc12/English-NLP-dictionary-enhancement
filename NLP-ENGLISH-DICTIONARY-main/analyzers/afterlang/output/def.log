@@ -1,0 +1,12 @@
+Sequence file is:
+dicttok
+NOHASH rule: _LINE [] [] <- _xWILD [0,0 fails=( 
+)] [] _xWILD [1,1 matches=(
+ _xEND)] [] @@
+NOHASH rule: _word [] [] <- _xSTART [1,1] [] _LINE [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xWHITE [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xWHITE [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] : [0,1] [] # [1,1] [] @@
+
+Passes: (dicttok,nil) (nlp,kbInit) (nlp,KBFuncs) (nlp,funcs) (nlp,tagsSpaces) (nlp,tagsSpacesTwo) (nlp,removes) (,tags) (,textZone) (,notText) (,onlyText) (nlp,Lines) (nlp,firstLine) (nlp,RemoveWhiteSpace) (nlp,conjuWhiteSpace) (nlp,list) (nlp,headers) (nlp,ups) (nlp,headerZones) (nlp,pof) (nlp,lineHeader) (nlp,langZone) (nlp,attributes) (nlp,languageZone) (nlp,kbBuild) (,XMLOutput) (nlp,output) 
+

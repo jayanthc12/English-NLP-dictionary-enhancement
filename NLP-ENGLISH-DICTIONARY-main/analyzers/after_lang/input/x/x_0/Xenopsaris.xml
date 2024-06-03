@@ -1,0 +1,34 @@
+<page>
+<title>Xenopsaris</title>
+<ns>0</ns>
+<id>3074321</id>
+<revision>
+<id>51778714</id>
+<parentid>51205541</parentid>
+<timestamp>2019-03-13T14:57:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="647" xml:space="preserve">==Translingual==
+[[File:Xenopsaris albinucha - White-naped Xenopsaris.jpg|thumb|'''''Xenopsaris''' albinucha'']]
+===Etymology===
+{{prefix|mul|xeno||t1=strange, foreign}} {{der|mul|grc|ψάρις}}, alternative form of {{m|grc|ψάρ||starling}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Tityridae|a single species, the {{vern|white-naped xenopsaris}} ({{taxlink|Xenopsaris albinucha|species|noshow=1}}), also known as the {{vern|reed becard}}}}
+====Hypernyms====
+* {{sense|genus}} {{Tityridae Hypernyms}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>ga386yro5sj6ag0w8lfmit5o3pohdz8</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinvaraus</title>
+<ns>0</ns>
+<id>4616919</id>
+<revision>
+<id>69318287</id>
+<parentid>52039407</parentid>
+<timestamp>2022-09-18T17:10:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="364" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|varaus|alt1=ydin-|t1=nuclear|t2=charge}}
+===Pronunciation===
+{{fi-p|ydin-varaus}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|physics}} [[nuclear charge]] {{gloss|[[electric charge]] of a nucleus of an atom, equal to the number of protons times the [[elementary charge]]}}
+====Declension====
+{{fi-decl-vastaus|ydinvarau|a}}</text>
+<sha1>9j0l9ns5xhwx2noxd1sx32tgdzgldnp</sha1>
+</revision>
+</page>

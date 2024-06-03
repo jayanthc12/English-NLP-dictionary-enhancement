@@ -1,0 +1,101 @@
+<page>
+<title>yena</title>
+<ns>0</ns>
+<id>3700893</id>
+<revision>
+<id>65311749</id>
+<parentid>65311728</parentid>
+<timestamp>2022-01-11T12:46:54Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<comment>/* Ibanag */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2262" xml:space="preserve">==Ibanag==
+===Etymology===
+From {{inh|ibg|phi-pro|*ina}}, from {{inh|ibg|poz-pro|*ina}}, from {{inh|ibg|map-pro|*ina}} .
+===Noun===
+{{head|ibg|noun}}
+# [[mother]]
+====Coordinate terms====
+* {{l|ibg|yama}}
+----
+==Northern Ndebele==
+===Etymology===
+From {{inh|nd|bnt-ngu-pro|*yená}}.
+===Pronoun===
+{{head|nd|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+----
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Adverb===
+{{head|pi|adverb}}
+# [[where]]
+===Pronoun===
+{{head|pi|pronoun form}}
+* {{inflection of|pi|ya||m//n|ins|s|t=who {{lb|pi|relative}}}}
+----
+==Phuthi==
+===Etymology===
+From {{inh|bnt-phu|bnt-ngu-pro|*yená}}.
+===Pronoun===
+{{head|bnt-phu|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+----
+==Southern Ndebele==
+===Etymology===
+From {{inh|nr|bnt-ngu-pro|*yená}}.
+===Pronoun===
+{{head|nr|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+----
+==Swazi==
+===Etymology===
+From {{inh|ss|bnt-ngu-pro|*yená}}.
+===Pronoun===
+{{head|ss|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+----
+==Tagalog==
+===Alternative forms===
+* {{alter|tl|hiyena}}
+===Etymology===
+Borrowed from {{bor|tl|es|hiena||hyena}}.
+===Pronunciation===
+* {{hyph|tl|ye|na}}
+* {{tl-IPA}}
+===Noun===
+{{tl-noun}}
+# [[hyena]]
+----
+==Tsonga==
+===Pronoun===
+{{head|ts|pronoun|cat2=personal pronouns}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|third-person singular pronoun.}}
+----
+==Xhosa==
+===Etymology===
+From {{inh|xh|bnt-ngu-pro|*yená}}.
+===Pronoun===
+{{head|xh|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+----
+==Zulu==
+===Etymology===
+From {{inh|zu|bnt-ngu-pro|*yená}}.
+===Pronunciation===
+* {{zu-IPA|yená}}
+===Pronoun===
+{{head|zu|pronoun|cat2=personal pronouns|head=yená}}
+# [[he]], [[she]], [[him]], [[her]], [[it]]; {{n-g|class 1 absolute pronoun.}}
+====Inflection====
+{{zu-infl-pron|LH|ye|L|khe|H}}
+===References===
+* {{R:zu:ZED||6.3}}</text>
+<sha1>67vj9r2q6gme9a0xiptel6dppxcoxb3</sha1>
+</revision>
+</page>

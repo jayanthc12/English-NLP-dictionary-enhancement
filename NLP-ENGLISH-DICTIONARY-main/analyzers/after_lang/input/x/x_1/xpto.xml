@@ -1,0 +1,43 @@
+<page>
+<title>xpto</title>
+<ns>0</ns>
+<id>7204016</id>
+<revision>
+<id>69577989</id>
+<parentid>69486610</parentid>
+<timestamp>2022-10-23T02:21:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, usexes, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1187" xml:space="preserve">==Portuguese==
+===Etymology===
+From the abbreviated form of {{der|pt|grc|Χριστός||Christ}} found in manuscripts.&lt;ref&gt;{{R:pt:Infopédia}}&lt;/ref&gt;&lt;ref&gt;{{R:pt:Priberam}}&lt;/ref&gt;&lt;ref&gt;{{cite-web
+|work=Ciberdúvidas
+|title=A história e o significado da expressão XPTO
+|author=Gonçalo Neves
+|url=https://ciberduvidas.iscte-iul.pt/artigos/rubricas/idioma/xpto/3531
+|date=April 15, 2017}}&lt;/ref&gt;
+===Pronunciation===
+{{pt-IPA|pt=xis pê tê ó}}
+===Adjective===
+{{pt-adj|inv=1}}
+# {{lb|pt|colloquial}} [[cutting-edge]] {{gloss|representing the forefront, or position of greatest advancement}}
+#* {{quote-web
+|1=pt
+|date=09.07.2014
+|author=Catarina Fonseca
+|title=Tudo o que os homens e as mulheres deviam saber uns sobre os outros
+|work=Activa
+|url=http://activa.sapo.pt/sexo/2014-07-09-Tudo-o-que-os-homens-e-as-mulheres-deviam-saber-uns-sobre-os-outros
+|text=É o carro topo de gama, a aparelhagem '''xpto''', a televisão e o computador última geração, a par de CDs, DVDs, livros, e outros gadgets.
+|t=It's the high-end car, the '''cutting-edge''' stereo, the next generation television and computer, along with CDs, DVDs, books, and other gadgets.}}
+===References===
+&lt;references/&gt;</text>
+<sha1>o62o8picov47jujnsfzgtrfvpdnsvrk</sha1>
+</revision>
+</page>

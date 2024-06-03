@@ -1,0 +1,36 @@
+<page>
+<title>ygreja</title>
+<ns>0</ns>
+<id>3401242</id>
+<revision>
+<id>56086060</id>
+<parentid>50658813</parentid>
+<timestamp>2019-10-17T03:01:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="844" xml:space="preserve">==Old Portuguese==
+===Alternative forms===
+* {{alter|roa-opt|eigreja|egreja}}
+===Etymology===
+From {{inh|roa-opt|la|ecclēsia|t=church}}, from {{der|roa-opt|grc|ἐκκλησία|t=congregation}}.
+===Pronunciation===
+* {{IPA|roa-opt|/i.ˈɡɾe.d͡ʒa/}}
+===Noun===
+{{head|roa-opt|noun|g=f|plural|ygrejas}}
+# [[church]]
+#* {{roa-opt-cite-cantigas|E|266|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/478.html}}
+#*: como ſṫa M de caſtro xerez guardou agente que sija na '''ygreia''' oyndo ſermon dũa traue que caeu de çima da '''ygreia''' ſobreles.
+#*:: How holy Mary of Castrojeriz saved the people, who were in the '''church''' listening to the sermon, from a beam which fell from above the '''church''' on them.
+====Descendants====
+* {{desc|gl|igrexa}}
+* {{desc|pt|igreja}} {{see desc}}
+[[Category:roa-opt:Places of worship]]</text>
+<sha1>aj9fk4d1dyv89sui2a1lg1lazd6sxx4</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>YASD</title>
+<ns>0</ns>
+<id>4838856</id>
+<revision>
+<id>50900924</id>
+<parentid>46135529</parentid>
+<timestamp>2018-11-27T17:41:46Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="420" xml:space="preserve">==English==
+===Etymology===
+Initialism of ''yet another stupid death''.
+===Noun===
+{{en-noun}}
+# {{lb|en|video games|[[roguelike]]s|slang}} The [[player]]'s [[accidental]] [[death]], caused by [[carelessness]], in a [[roguelike]] [[video game]].
+====References====
+* Usenet newsgroups: [https://groups.google.com/forum/?q=%22yasds%22#!search/%22yasds%22]
+===Anagrams===
+* {{anagrams|en|a=adsy|dasy-|days|sayd|yads}}</text>
+<sha1>rwglfdyrpc205ywmb269cmc4crwk9fz</sha1>
+</revision>
+</page>

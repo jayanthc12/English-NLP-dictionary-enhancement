@@ -1,0 +1,29 @@
+<page>
+<title>yachtsperson</title>
+<ns>0</ns>
+<id>1643947</id>
+<revision>
+<id>68516925</id>
+<parentid>68516888</parentid>
+<timestamp>2022-08-02T13:28:46Z</timestamp>
+<contributor>
+<username>AG202</username>
+<id>698498</id>
+</contributor>
+<comment>/* Coordinate terms */ Maybe should be hyponyms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="238" xml:space="preserve">==English==
+===Etymology===
+From {{affix|en|yacht|-s-|-person}}.
+===Noun===
+{{en-noun|s|yachtspeople}}
+# One who [[sail]]s a [[yacht]].
+====Synonyms====
+* {{l|en|yachtist}}
+====Hyponyms====
+* {{l|en|yachtsman}}
+* {{l|en|yachtswoman}}</text>
+<sha1>9uhl95kk0hopou0buwiixlkqs56k3nh</sha1>
+</revision>
+</page>

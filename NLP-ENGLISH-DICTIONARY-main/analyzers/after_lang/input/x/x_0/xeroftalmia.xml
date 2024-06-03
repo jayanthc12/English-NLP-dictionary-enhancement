@@ -1,0 +1,39 @@
+<page>
+<title>xeroftalmia</title>
+<ns>0</ns>
+<id>1605820</id>
+<revision>
+<id>69232532</id>
+<parentid>69217349</parentid>
+<timestamp>2022-09-11T11:48:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (replace default plural 'xeroftalmias' with '+')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="460" xml:space="preserve">==Italian==
+{{wikipedia|lang=it}}
+===Etymology===
+{{prefix|it|xero|oftalmia}}
+===Noun===
+{{it-noun|f}}
+# {{lb|it|pathology}} [[xerophthalmia]]
+#: {{syn|it|xeroftalmo}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|f|-|pl2=+}}
+# {{lb|pt|ophthalmology}} [[xerophthalmia]] {{gloss|condition where the conjunctiva and cornea become dry}}
+----
+==Spanish==
+===Noun===
+{{es-noun|f}}
+# {{lb|es|pathology}} [[xerophthalmia]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>iwn57725rlyswuw7pmtafgt56e5u11y</sha1>
+</revision>
+</page>

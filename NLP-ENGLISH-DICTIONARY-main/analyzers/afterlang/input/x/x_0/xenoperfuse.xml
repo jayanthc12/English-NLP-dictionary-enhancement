@@ -1,0 +1,25 @@
+<page>
+<title>xenoperfuse</title>
+<ns>0</ns>
+<id>7246764</id>
+<revision>
+<id>61026858</id>
+<parentid>53245441</parentid>
+<timestamp>2020-11-03T10:59:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="111" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|perfuse}}
+===Verb===
+{{en-verb}}
+# To undergo [[xenoperfusion]]</text>
+<sha1>kld2qwtfiyvouk9tyyy6zyri20qqrhi</sha1>
+</revision>
+</page>

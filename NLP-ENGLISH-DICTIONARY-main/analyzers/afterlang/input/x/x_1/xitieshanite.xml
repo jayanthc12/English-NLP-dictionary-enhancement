@@ -1,0 +1,28 @@
+<page>
+<title>xitieshanite</title>
+<ns>0</ns>
+<id>1597189</id>
+<revision>
+<id>49620639</id>
+<parentid>42943327</parentid>
+<timestamp>2018-06-01T19:07:23Z</timestamp>
+<contributor>
+<username>TheDaveRoss</username>
+<id>4492</id>
+</contributor>
+<minor />
+<comment>mineralogy -&gt; mineral</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==English==
+===Etymology===
+{{af|en|Xitieshan|t1=a place name in China|-ite}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|mineral}} A [[conchoidal]] green or yellow [[mineral]] with the [[chemical formula]] Fe&lt;sup&gt;3+&lt;/sup&gt;(SO&lt;sub&gt;4&lt;/sub&gt;)(OH)·7H&lt;sub&gt;2&lt;/sub&gt;O.
+===Further reading===
+* {{R:WebMineral}}
+* {{R:mindat}}</text>
+<sha1>ov3aftn9p0jrvjailhcprw9q3mrabyv</sha1>
+</revision>
+</page>

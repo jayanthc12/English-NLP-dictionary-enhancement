@@ -1,0 +1,31 @@
+<page>
+<title>Yair</title>
+<ns>0</ns>
+<id>1746850</id>
+<revision>
+<id>54926789</id>
+<parentid>52188967</parentid>
+<timestamp>2019-10-09T10:48:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{given name}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==English==
+===Etymology===
+Transliteration of {{der|en|he|יַאִיר}}, meaning &quot;he will light up&quot;.
+===Pronunciation===
+* {{IPA|en|/jaʔiɹ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|from=Hebrew}}
+====Translations====
+{{trans-see|male given name|Jair}}
+===Anagrams===
+* {{anagrams|en|a=airy|Airy|Iyar|Riya|airy|yari}}</text>
+<sha1>79dnu9omtkcqjdco9yxqn5e4rcqvhh6</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>yaup</title>
+<ns>0</ns>
+<id>782461</id>
+<revision>
+<id>64149292</id>
+<parentid>59827618</parentid>
+<timestamp>2021-10-09T22:23:54Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot) remove &quot;* terms with multiple etymologies&quot;; see [[Wiktionary:Requests for deletion/Others#Category:Terms with multiple etymologies by language]], [[Category talk:Terms with multiple etymologies by language]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="375" xml:space="preserve">==English==
+===Etymology 1===
+====Noun====
+{{en-noun}}
+# {{obsolete spelling of|en|yawp}}
+====Verb====
+{{en-verb}}
+# {{obsolete spelling of|en|yawp}}
+===Etymology 2===
+====Adjective====
+{{en-adj|?}}
+# {{lb|en|Scotland}} [[hungry]]
+====Verb====
+{{en-verb}}
+# {{lb|en|Scotland|intransitive}} To be hungry.
+===Anagrams===
+* {{anagrams|en|a=apuy|PuYa|ay up|ayup|puya}}</text>
+<sha1>k3432ujqgq69bjxq6xovnhf2f1sx3g9</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yezhoniezh</title>
+<ns>0</ns>
+<id>2117525</id>
+<revision>
+<id>55339255</id>
+<parentid>45472804</parentid>
+<timestamp>2019-10-14T11:02:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==Breton==
+{{wikipedia|lang=br}}
+===Etymology===
+{{rfe|br}}
+Compare {{m|br|yezh||language}}.
+===Noun===
+{{br-noun|f}}
+# [[linguistics]]
+{{topics|br|Linguistics}}</text>
+<sha1>sdt4z8e0vg2ziryuzdhcw4un86mcwoo</sha1>
+</revision>
+</page>

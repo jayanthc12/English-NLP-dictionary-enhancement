@@ -1,0 +1,28 @@
+<page>
+<title>xenologist</title>
+<ns>0</ns>
+<id>6025905</id>
+<revision>
+<id>62415645</id>
+<parentid>62415644</parentid>
+<timestamp>2021-04-23T15:34:08Z</timestamp>
+<contributor>
+<username>The Ice Mage</username>
+<id>62915</id>
+</contributor>
+<comment>t+it:[[esologo]] t+fr:[[{{t-needed}}]] t-balance ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|science fiction}} someone who studies [[xenology]].
+====Translations====
+{{trans-top|someone who studies xenology}}
+* French: {{t-needed|fr}}
+{{trans-mid}}
+* Italian: {{t|it|esologo|m}}
+{{trans-bottom}}</text>
+<sha1>ec5sbzll5xf75r4f9752g9gpvlgyscd</sha1>
+</revision>
+</page>

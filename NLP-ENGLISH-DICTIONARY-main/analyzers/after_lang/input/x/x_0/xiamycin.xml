@@ -1,0 +1,26 @@
+<page>
+<title>xiamycin</title>
+<ns>0</ns>
+<id>5919243</id>
+<revision>
+<id>69057779</id>
+<parentid>50196736</parentid>
+<timestamp>2022-09-03T06:40:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|organic compound}} Any of a group of [[pentacyclic]] [[indole]]-[[sesquiterpenoid]]s isolated from ''[[Streptomyces]]''
+====Derived terms====
+* [[dixiamycin]]
+[[Category:English terms suffixed with -mycin]]</text>
+<sha1>l3mu4xd9r9hcyyvofg665a35l3rawgp</sha1>
+</revision>
+</page>

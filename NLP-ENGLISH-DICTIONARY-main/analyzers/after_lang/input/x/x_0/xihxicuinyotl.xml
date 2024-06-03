@@ -1,0 +1,30 @@
+<page>
+<title>xihxicuinyotl</title>
+<ns>0</ns>
+<id>479969</id>
+<revision>
+<id>55414237</id>
+<parentid>51836890</parentid>
+<timestamp>2019-10-14T15:14:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="428" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{suffix|nci|xihxicuin|yōtl|t1=glutton}}.
+===Pronunciation===
+* {{IPA|nci|/ʃiʔʃikʷinjoːtɬ/}}
+===Noun===
+{{head|nci|noun|head=xihxicuinyōtl}}
+# [[gluttony|Gluttony]].
+===References===
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 324.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.</text>
+<sha1>9icfg5lpmv0zwrhyipx6o8fpqyesr7z</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhteensopimattomuus</title>
+<ns>0</ns>
+<id>6014470</id>
+<revision>
+<id>69318422</id>
+<parentid>44595654</parentid>
+<timestamp>2022-09-18T17:17:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="221" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteensopimaton|uus}}
+===Pronunciation===
+{{fi-p|yhteen-sopimattomuus}}
+===Noun===
+{{fi-noun}}
+# [[incompatibility]]
+====Declension====
+{{fi-decl-kalleus|yhteensopimattomuu|a}}</text>
+<sha1>4vrnj3e2hppo9ri58btx3sszgx4ityc</sha1>
+</revision>
+</page>

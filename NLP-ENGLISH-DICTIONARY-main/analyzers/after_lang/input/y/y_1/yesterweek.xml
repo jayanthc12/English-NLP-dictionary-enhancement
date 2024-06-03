@@ -1,0 +1,29 @@
+<page>
+<title>yesterweek</title>
+<ns>0</ns>
+<id>3001920</id>
+<revision>
+<id>63798241</id>
+<parentid>63798231</parentid>
+<timestamp>2021-08-31T08:39:03Z</timestamp>
+<contributor>
+<username>Saltmarsh</username>
+<id>6800</id>
+</contributor>
+<comment>/* Translations */ rem - duplicates</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|yester-|week}}
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|obsolete}} On the week preceding the {{l|en|current}} week.
+====Translations====
+{{trans-see|last week|last week}}
+===Noun===
+{{en-noun|-}}
+# [[previous|Previous]] week, the last week before the current one.</text>
+<sha1>k9u867rscj4aonm7esx4pyq4yo4x1ef</sha1>
+</revision>
+</page>

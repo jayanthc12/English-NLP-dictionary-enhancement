@@ -1,0 +1,30 @@
+<page>
+<title>ydmyghed</title>
+<ns>0</ns>
+<id>4580944</id>
+<revision>
+<id>56322866</id>
+<parentid>51951032</parentid>
+<timestamp>2019-10-17T13:01:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Danish==
+{{wikipedia|lang=da}}
+===Etymology===
+From {{suffix|da|ydmyg|hed}}.
+===Pronunciation===
+* {{IPA|da|/ˈyðmyˌheðˀ/}}
+===Noun===
+{{da-noun|en|-}}
+# {{l|en|humility}}
+====Inflection====
+{{da-noun-infl|en|n=sg}}</text>
+<sha1>21h0tiqa1b7jb138i7zk1nrpaakgb0s</sha1>
+</revision>
+</page>

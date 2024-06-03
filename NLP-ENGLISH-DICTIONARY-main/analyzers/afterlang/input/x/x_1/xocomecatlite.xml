@@ -1,0 +1,28 @@
+<page>
+<title>xocomecatlite</title>
+<ns>0</ns>
+<id>1312574</id>
+<revision>
+<id>67291629</id>
+<parentid>49620665</parentid>
+<timestamp>2022-06-06T10:18:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|nah}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="320" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|nah|xocomecatl||grapevine}} (alluding to its appearance as a set of green [[spherule]]s), and [[-ite]].
+===Noun===
+{{en-noun|-}}
+# {{lb|en|mineral}} A [[telluride]] [[mineral]] found in cracks in altered [[rhyolite]].
+===Further reading===
+* {{R:WebMineral}}
+* {{R:mindat}}</text>
+<sha1>66rqpq91vo0drpb30utkrtqmym8kizj</sha1>
+</revision>
+</page>

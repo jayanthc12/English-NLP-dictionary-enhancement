@@ -1,0 +1,42 @@
+<page>
+<title>yaocalli</title>
+<ns>0</ns>
+<id>4451127</id>
+<revision>
+<id>56297576</id>
+<parentid>52036811</parentid>
+<timestamp>2019-10-17T12:01:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1330" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|yāōtl|calli|t1=war|t2=house, structure}}.
+===Pronunciation===
+* {{IPA|nci|[yaː.oːˈka.lːi]}}
+===Noun===
+{{nci-noun|i|yāōcalli}}
+# [[fortress]], [[stronghold]]
+#* '''1555:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 126r.
+#*: Fortaleza edificio. &amp;nbsp;'''yaocalli'''.
+#*:: Fortress, the building. '''yaocalli'''.
+#* '''1571:''' ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 63v. col. 2.
+#*: Fortaleza edificio. '''yaocalli'''.
+#*:: Fortress, the building. '''yaocalli'''.
+#* ''Idem'', f. 31r. col. 1.
+#*: '''Yaocalli'''. fortaleza, el edificio.
+#*:: '''Yaocalli'''. a fortress, the building.
+====Usage notes====
+* Not to be confused with {{m|nci|yāōācalli||war canoe}}.
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|pages=63v, 31r}}
+[[Category:nci:Buildings]]
+[[Category:nci:War]]</text>
+<sha1>2ps2ux427df2td4kquf5vou1reihhyr</sha1>
+</revision>
+</page>

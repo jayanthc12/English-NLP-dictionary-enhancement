@@ -1,0 +1,35 @@
+<page>
+<title>xebrar</title>
+<ns>0</ns>
+<id>6247364</id>
+<revision>
+<id>68866433</id>
+<parentid>68832633</parentid>
+<timestamp>2022-08-28T05:40:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="685" xml:space="preserve">==Galician==
+===Etymology===
+Inherited, from a {{inh|gl|VL.|*sēperāre}} (or {{m|la||*ex-sēperāre}}), from {{inh|gl|la|sēparāre}}, present active infinitive of {{m|la|sēparō|t=I separate}}, from {{af|la|sē-|t1=apart|parō|t2=prepare|nocat=1}}. Compare {{cog|ast|dixebrar}}, {{cog|osp|xebrar}}, {{m|osp|exebrar}}, {{m|osp|dessebrar}}, {{cog|oc|sebrar}}, {{cog|fr|sevrer}}. {{doublet|gl|separar}}, a borrowing.
+===Pronunciation===
+* {{IPA|gl|/ʃeˈβɾaɾ/}}
+===Verb===
+{{gl-verb|xebr|ar}}
+# to [[separate]] (a herd, the cattle)
+====Conjugation====
+{{gl-conj-ar|xebr}}
+====Derived terms====
+* {{l|gl|enxebre}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>e5zpmc0d35trousw2azvh71mzoxhrgo</sha1>
+</revision>
+</page>

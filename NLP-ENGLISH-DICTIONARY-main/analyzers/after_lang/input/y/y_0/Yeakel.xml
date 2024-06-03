@@ -1,0 +1,27 @@
+<page>
+<title>Yeakel</title>
+<ns>0</ns>
+<id>6295213</id>
+<revision>
+<id>67796649</id>
+<parentid>67687476</parentid>
+<timestamp>2022-07-09T19:43:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="373" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yeakels}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yeakel'' is the 29626&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 795 individuals. ''Yeakel'' is most common among White (96.48%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aeekly|Kaylee|Kealey|Leakey}}</text>
+<sha1>6a67ya5ksew08193rldcgmt78wr8kf5</sha1>
+</revision>
+</page>

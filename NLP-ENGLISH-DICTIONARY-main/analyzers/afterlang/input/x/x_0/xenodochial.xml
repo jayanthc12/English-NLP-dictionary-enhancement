@@ -1,0 +1,43 @@
+<page>
+<title>xenodochial</title>
+<ns>0</ns>
+<id>207370</id>
+<revision>
+<id>69042290</id>
+<parentid>68772779</parentid>
+<timestamp>2022-09-03T03:43:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2055" xml:space="preserve">==English==
+{{was wotd|2010|August|13}}
+===Etymology===
+From {{uder|en|grc|ξενοδοχή||strangers' banquet}} + {{m|en|-al}}.
+===Pronunciation===
+* {{IPA|en|/ˌzɛnəˈdoʊkiəl/|/ˌziːnəˈdoʊkiəl/}}
+* {{audio|en|en-us-xenodochial.ogg|Audio (US)}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|rare}} [[friendly|Friendly]] to [[stranger]]s.
+#* {{quote-book|en|1716|Myles Davies|Athenae Britannicae|page=3|url=http://books.google.com/books?id=6CcJAAAAQAAJ|text=At least, those intemperate Reflections may serve as Precautionary Documents for Dignitaries of all sorts to humble as well as to steer themselves by, especially in their unfrequented and almost wholly neglected Duty of Christian Hospitality and Oecumenial as well as Oeconomical Reception of '''Xenodochial''' Providence-Conformists; who must nevertheless ‘Take “Heart, nor of the Laws of Fate complain, tho’ “now ’tis cloudy, ’twill clear up again.}}
+#* {{quote-book|en|1949|Elizabeth Marion Jamieson &amp; Mary F. Sewall|Trends in nursing history: their relationship to world events|page=313|url=http://books.google.com/books?id=df9sAAAAMAAJ|text=They both departed from the '''xenodochial''' type, in limiting admission to the sick only, and from the city hospital tradition by depending for support entirely on privately donated funds.}}
+#* {{quote-book|en|2002|Rajani Sudan|Fair exotics: xenophobic subjects in English literature, 1720-1850|page=91|url=http://books.google.com/books?id=kdV4gkMYF2oC|text=But to prefer Oxford-street to Dove Cottage is too dramatic a shift for De Quincey to make without mediation; Ann's body — purified by De Quincey's narrative — glosses the brute reality of this preference, this instance of '''xenodochial''' pleasure.}}
+====Antonyms====
+* {{sense|friendly to strangers}} {{l|en|xenophobic}}
+====Related terms====
+* {{l|en|xenodochium}}
+* {{l|en|xenodochy}}
+====Translations====
+{{trans-top|friendly to strangers}}
+* Finnish: {{t|fi|muukalaisystävällinen}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:English terms suffixed with -al]]</text>
+<sha1>1o402fryo38ciqg5k2od6mjv2du379n</sha1>
+</revision>
+</page>

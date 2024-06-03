@@ -1,0 +1,29 @@
+<page>
+<title>xiblida</title>
+<ns>0</ns>
+<id>4218341</id>
+<revision>
+<id>43470495</id>
+<parentid>32204434</parentid>
+<timestamp>2017-05-24T11:23:55Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==Asturian==
+{{attention|ast|check plural}}
+===Noun===
+{{ast-noun|f|xiblides}}
+# [[whistle]] (act of whistling)
+====Synonyms====
+* {{l|ast|xiblíu}}
+====Related terms====
+* {{l|ast|xiblar}}
+* {{l|ast|xiblatu}}</text>
+<sha1>kwbtja90prvg15b8xmqjz1ojmpqmj4o</sha1>
+</revision>
+</page>

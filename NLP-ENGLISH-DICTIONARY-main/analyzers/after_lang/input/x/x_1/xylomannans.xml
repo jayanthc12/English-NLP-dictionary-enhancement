@@ -1,0 +1,23 @@
+<page>
+<title>xylomannans</title>
+<ns>0</ns>
+<id>7093609</id>
+<revision>
+<id>56424042</id>
+<parentid>53092479</parentid>
+<timestamp>2019-10-18T01:59:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylomannan}}</text>
+<sha1>3gos3uuobtpy8dqjvk75nudk7fvg8tq</sha1>
+</revision>
+</page>

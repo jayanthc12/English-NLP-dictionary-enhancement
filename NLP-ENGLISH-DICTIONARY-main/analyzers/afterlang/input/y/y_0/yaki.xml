@@ -1,0 +1,44 @@
+<page>
+<title>yaki</title>
+<ns>0</ns>
+<id>1921798</id>
+<revision>
+<id>67292933</id>
+<parentid>55773562</parentid>
+<timestamp>2022-06-06T10:42:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|ja}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="463" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|ja|焼|tr=yaki}}.
+===Noun===
+{{en-noun|-}}
+# [[teppanyaki]]
+===Anagrams===
+* {{anagrams|en|a=aiky|kyai}}
+----
+==Baure==
+===Pronunciation===
+* {{IPA|brg|/jaki/}}
+===Noun===
+{{head|brg|noun}}
+# [[fire]]
+----
+==Ido==
+===Noun===
+{{head|io|noun form}}
+# {{plural of|io|yako}}
+----
+==Indonesian==
+===Noun===
+{{id-noun|}}
+# {{vern|Celebes crested macaque|lang=en}} ({{taxlink|Macaca nigra|species|ver=180527}})</text>
+<sha1>2xakgqb0efnd41pb5p6wyzlnewlvgoi</sha1>
+</revision>
+</page>

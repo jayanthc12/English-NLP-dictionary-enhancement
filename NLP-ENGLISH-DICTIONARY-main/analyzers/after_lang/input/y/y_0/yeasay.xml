@@ -1,0 +1,29 @@
+<page>
+<title>yeasay</title>
+<ns>0</ns>
+<id>4149247</id>
+<revision>
+<id>52031057</id>
+<parentid>47771792</parentid>
+<timestamp>2019-03-19T03:28:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="302" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yea|say}}
+===Verb===
+{{en-verb|yeasays|yeasaying|yeasaid}}
+# To say [[yes]] to; to [[agree]] with, or [[approve]].
+====Antonyms====
+* {{l|en|naysay}}
+====Related terms====
+* {{l|en|yeasayer}} &lt;!--may have come first, rather than being derived from this--&gt;</text>
+<sha1>hay1ktlx4nr3tdxs4k4amnt5nokij9t</sha1>
+</revision>
+</page>

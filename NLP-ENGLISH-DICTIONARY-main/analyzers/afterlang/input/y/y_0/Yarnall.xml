@@ -1,0 +1,25 @@
+<page>
+<title>Yarnall</title>
+<ns>0</ns>
+<id>6247423</id>
+<revision>
+<id>67766291</id>
+<parentid>67734118</parentid>
+<timestamp>2022-07-09T17:45:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="313" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yarnalls}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yarnall'' is the 20780&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1271 individuals. ''Yarnall'' is most common among White (96.54%) individuals.</text>
+<sha1>2x95nf5khsi89bs4hbef51dd47e32y1</sha1>
+</revision>
+</page>

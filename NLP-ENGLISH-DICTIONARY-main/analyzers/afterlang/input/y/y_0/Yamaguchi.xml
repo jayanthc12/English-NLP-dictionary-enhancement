@@ -1,0 +1,61 @@
+<page>
+<title>Yamaguchi</title>
+<ns>0</ns>
+<id>1746798</id>
+<revision>
+<id>69648237</id>
+<parentid>69241471</parentid>
+<timestamp>2022-11-03T10:46:59Z</timestamp>
+<contributor>
+<username>Sarilho1</username>
+<id>522155</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1168" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|ja|山口|tr=Yamaguchi}}.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/jɑməˈɡut͡ʃi/}}
+===Proper noun===
+{{en-proper noun|Yamaguchis}}
+# {{place|en|city|c/Japan}}.
+# {{place|en|prefecture|c/Japan}}.
+# {{surname|en|from=Japanese}}.
+====Translations====
+{{trans-top|Yamaguchi, Japan}}
+* Arabic: {{t|ar|يَامَاغُوتْشِي|m|tr=yamaḡūtšī}}
+* Chinese:
+*: Mandarin: {{t+|cmn|山口|tr=Shānkǒu|sc=Hani}}
+* Czech: {{t|cs|Jamaguči}}
+{{trans-mid}}
+* Japanese: {{t+|ja|山口|tr=やまぐち, Yamaguchi}}
+* Korean: {{t|ko|^야마구치}}
+* Marathi: {{t|mr|यामागुचि|n}}
+* Russian: {{t|ru|Ямагу́ти|m|f}}
+{{trans-bottom}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|ja|山口|tr=Yamaguchi}}.
+===Pronunciation===
+* {{fr-IPA|Yamagoutchi}}
+===Proper noun===
+{{fr-proper noun}}
+# {{surname|fr|from=Japanese}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまぐち}}
+----
+==Spanish==
+===Etymology===
+Borrowed from {{bor|es|ja|山口|tr=Yamaguchi}}.
+===Proper noun===
+{{es-proper noun}}
+# {{surname|es|from=Japanese}}</text>
+<sha1>ryyzhz6ksvx7o9ku6p0bbyah5k35w6e</sha1>
+</revision>
+</page>

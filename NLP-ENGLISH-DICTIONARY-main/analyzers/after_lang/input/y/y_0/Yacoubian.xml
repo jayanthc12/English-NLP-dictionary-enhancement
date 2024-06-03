@@ -1,0 +1,37 @@
+<page>
+<title>Yacoubian</title>
+<ns>0</ns>
+<id>2930827</id>
+<revision>
+<id>67820089</id>
+<parentid>67727323</parentid>
+<timestamp>2022-07-09T21:09:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="705" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|Yacoubyan|Yagoubyan|Yakoubian|Yagoubian|Yakoubyan|Yakubian|Yagubian|Yakubyan|Yagubyan}}
+===Etymology===
+Borrowed from {{bor|en|hy|Յակուբյան}}.
+===Proper noun===
+{{en-proper noun|s}}
+# {{surname|en|from=Armenian}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yacoubian'' is the 98553&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 184 individuals. ''Yacoubian'' is most common among White (90.22%) individuals.
+====Translations====
+{{trans-top|Yacoubian}}
+* Armenian: {{t|hy|Յակուբյան}}
+{{trans-mid}}
+* Russian: {{t|ru|Якубян}}
+{{trans-bottom}}
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>027uy13y0r8rcs676t7c9do7rmb8rdm</sha1>
+</revision>
+</page>

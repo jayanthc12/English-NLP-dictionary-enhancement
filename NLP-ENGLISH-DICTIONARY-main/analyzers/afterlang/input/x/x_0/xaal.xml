@@ -1,0 +1,24 @@
+<page>
+<title>xaal</title>
+<ns>0</ns>
+<id>6368338</id>
+<revision>
+<id>60265560</id>
+<parentid>53303267</parentid>
+<timestamp>2020-09-05T06:34:16Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="82" xml:space="preserve">==Wolof==
+===Noun===
+{{wo-noun|bi}}
+# [[watermelon]]
+{{topics|wo|Foods|Fruits}}</text>
+<sha1>iw0dgx3ikdljclni0soycvzklzvekdc</sha1>
+</revision>
+</page>

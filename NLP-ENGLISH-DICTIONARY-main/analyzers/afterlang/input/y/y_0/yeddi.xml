@@ -1,0 +1,31 @@
+<page>
+<title>yeddi</title>
+<ns>0</ns>
+<id>3439181</id>
+<revision>
+<id>56089611</id>
+<parentid>52525318</parentid>
+<timestamp>2019-10-17T03:12:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="439" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=једди|r=yeddi|a=}}
+{{cardinalbox|az|6|7|8|altı|səkkiz|ord=yeddinci}}
+===Etymology===
+From {{inh|az|trk-pro|*yẹt(t)i||seven}}. Cognate with {{cog|otk|𐰘𐰃𐱅𐰃|tr=yeti|t=seven}}&lt;ref&gt;{{R:otk:Bitig|jiti|110}}&lt;/ref&gt;, {{cog|tr|yedi}}, etc.
+===Pronunciation===
+* {{IPA|az|[jeˈtːi]}}
+===Numeral===
+{{head|az|numeral}}
+# {{cln|az|cardinal numbers}} {{l|en|seven}}
+===References===
+&lt;references/&gt;</text>
+<sha1>07i8967yft42eok94bvozoz9abyhfbz</sha1>
+</revision>
+</page>

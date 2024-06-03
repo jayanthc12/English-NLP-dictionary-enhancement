@@ -1,0 +1,32 @@
+<page>
+<title>yabok</title>
+<ns>0</ns>
+<id>6787728</id>
+<revision>
+<id>56565651</id>
+<parentid>50141320</parentid>
+<timestamp>2019-10-18T07:33:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="503" xml:space="preserve">==Gunwinggu==
+===Pronunciation===
+* {{IPA|gup|/ˈjapok/}}
+===Noun===
+{{head|gup|noun}}
+# A term used by men to address their sister, who would reply with {{l|gup|rdarda}}.
+# A term used by women to address their older sister, who would reply with {{l|gup|rdarda}}.
+====Related terms====
+* {{l|gup|kokok}}
+* {{l|gup|ngadburrung}}
+* {{l|gup|rdarda}}
+===References===
+* Steven and Narelle Etherington, ''Kunwinjku Kunwok: A Short Introduction to Kunwinjku Language and Society'' (third edition, 1998)</text>
+<sha1>b4vwi12ieuyu97go2q86hkflw325gyo</sha1>
+</revision>
+</page>

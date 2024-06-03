@@ -1,0 +1,23 @@
+<page>
+<title>ydinaseneuvottelut</title>
+<ns>0</ns>
+<id>4405253</id>
+<revision>
+<id>32949416</id>
+<parentid>27836303</parentid>
+<timestamp>2015-06-09T20:44:45Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed unnecessary type= parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|ydinaseneuvottelu|case=nominative|pl=plural}}</text>
+<sha1>1d0qlecjmuz358lmz118ak0gm1boy33</sha1>
+</revision>
+</page>

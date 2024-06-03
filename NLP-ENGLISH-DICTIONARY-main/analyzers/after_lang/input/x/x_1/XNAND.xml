@@ -1,0 +1,35 @@
+<page>
+<title>XNAND</title>
+<ns>0</ns>
+<id>3925281</id>
+<revision>
+<id>62369453</id>
+<parentid>60253287</parentid>
+<timestamp>2021-04-13T15:20:43Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>/* Synonyms */ SoP</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="535" xml:space="preserve">==English==
+===Etymology===
+{{blend|en|exclusive|NAND}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|electrical engineering|rare}} [[XOR]], a logic gate
+====Usage notes====
+* Boolean variables and states ({{l|en|AND}}, {{l|en|OR}}, {{l|en|NOT}}, {{l|en|TRUE}}, {{l|en|FALSE}} etc.) are commonly written in all uppercase in order to distinguish them from the ordinary uses of the words.
+====Synonyms====
+* {{l|en|XOR}}
+* {{l|en|ex-nand}}
+====Antonyms====
+* {{l|en|XAND}}
+* {{l|en|XNOR}}
+====Related terms====
+* {{l|en|NAND}}
+* {{l|en|AND}}</text>
+<sha1>po7cwhdz7dzut0nuq83zq35ai3ijtkd</sha1>
+</revision>
+</page>

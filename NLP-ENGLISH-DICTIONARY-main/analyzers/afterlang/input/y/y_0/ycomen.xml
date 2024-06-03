@@ -1,0 +1,26 @@
+<page>
+<title>ycomen</title>
+<ns>0</ns>
+<id>3521731</id>
+<revision>
+<id>59643444</id>
+<parentid>54969309</parentid>
+<timestamp>2020-06-29T04:00:39Z</timestamp>
+<contributor>
+<username>OR AlexMC</username>
+<id>3683083</id>
+</contributor>
+<comment>T:etyl cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="342" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|icomen}}
+===Etymology===
+From {{inh|en|enm|ycomen}}, {{m|enm|icumen}}, {{m|enm|ȝecumen}}, from {{inh|en|ang|ġecumen}}, past participle of {{m|ang|cuman||to come}}, equivalent to {{prefix|en|y|comen}}. More at {{l|en|come}}.
+===Verb===
+{{head|en|verb form}}
+# {{alternative form of|en|comen}}</text>
+<sha1>2u9sci3bhcd3un4sjvp6q9mxzugnctl</sha1>
+</revision>
+</page>

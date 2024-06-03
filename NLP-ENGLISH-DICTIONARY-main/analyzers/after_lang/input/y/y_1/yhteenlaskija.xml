@@ -1,0 +1,29 @@
+<page>
+<title>yhteenlaskija</title>
+<ns>0</ns>
+<id>6818367</id>
+<revision>
+<id>58620581</id>
+<parentid>58593431</parentid>
+<timestamp>2020-02-01T14:20:20Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="236" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteen|laskija}}
+===Pronunciation===
+{{fi-pronunciation|yhteen-laskija}}
+===Noun===
+{{fi-noun}}
+# [[adder]], one who performs [[addition]]
+====Declension====
+{{fi-decl-kulkija|yhteenlaskij|a}}</text>
+<sha1>lg7z4jn65z7676iqvw9jnuninbk8p4g</sha1>
+</revision>
+</page>

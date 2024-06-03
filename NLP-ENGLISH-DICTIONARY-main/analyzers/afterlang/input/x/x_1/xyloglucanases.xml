@@ -1,0 +1,23 @@
+<page>
+<title>xyloglucanases</title>
+<ns>0</ns>
+<id>5875439</id>
+<revision>
+<id>55965456</id>
+<parentid>53092465</parentid>
+<timestamp>2019-10-16T11:36:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xyloglucanase}}</text>
+<sha1>l7q8fptahw6lqpkkfagzgnujesd08ny</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>yazidisme</title>
+<ns>0</ns>
+<id>6362102</id>
+<revision>
+<id>67195495</id>
+<parentid>67053030</parentid>
+<timestamp>2022-05-30T08:36:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+*{{hyph|ca|ya|zi|dis|me}}
+===Noun===
+{{ca-noun|m}}
+# {{l|en|Yazidism}}
+{{C|ca|Yazidism}}
+----
+==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-yazidisme.wav|Audio}}
+* {{hyph|fr|ya|zi|disme}}
+===Noun===
+{{fr-noun|m}}
+# {{l|en|Yazidism}}
+{{C|fr|Yazidism}}</text>
+<sha1>id9caa8ugypnn8q5o4y1o85tpd9wfxu</sha1>
+</revision>
+</page>

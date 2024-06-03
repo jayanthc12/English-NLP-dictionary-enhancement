@@ -1,0 +1,26 @@
+<page>
+<title>Xylofonen</title>
+<ns>0</ns>
+<id>4230119</id>
+<revision>
+<id>66245007</id>
+<parentid>56338980</parentid>
+<timestamp>2022-03-27T17:34:56Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xylofonen.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">{{also|xylofonen}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xylofonen.ogg|Audio}}
+===Noun===
+{{head|de|noun form}} {{g|n}}
+# {{inflection of|de|Xylofon||dat|p}}</text>
+<sha1>tsg6hv3ze2lt21aau9xrsnao0d1in70</sha1>
+</revision>
+</page>

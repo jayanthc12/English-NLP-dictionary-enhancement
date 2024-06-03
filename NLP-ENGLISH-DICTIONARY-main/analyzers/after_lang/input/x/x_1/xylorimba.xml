@@ -1,0 +1,39 @@
+<page>
+<title>xylorimba</title>
+<ns>0</ns>
+<id>1253626</id>
+<revision>
+<id>67148637</id>
+<parentid>67052993</parentid>
+<timestamp>2022-05-24T09:03:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="510" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{blend|en|xylophone|marimba}}
+===Pronunciation===
+* {{audio|en|en-uk-xylorimba.ogg|Audio (UK)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|musical instrument}} A pitched [[percussion]] [[instrument]] corresponding to a [[xylophone]] with an extended [[range]].
+====Derived terms====
+* {{l|en|xylorimbist}}
+[[Category:en:Percussion instruments]]
+----
+==French==
+===Noun===
+{{fr-noun|m}}
+# a xylorimba
+===Further reading===
+* {{R:TLFi}}
+{{C|fr|Percussion instruments}}</text>
+<sha1>9fxcieemf5bmbnidhv85vq53uaggywp</sha1>
+</revision>
+</page>

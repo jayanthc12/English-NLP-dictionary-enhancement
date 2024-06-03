@@ -1,0 +1,32 @@
+<page>
+<title>yhteissuoli</title>
+<ns>0</ns>
+<id>6769772</id>
+<revision>
+<id>61954747</id>
+<parentid>58620595</parentid>
+<timestamp>2021-03-07T19:13:27Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) fix declension based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="262" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteis-|suoli}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-suoli}}
+===Noun===
+{{fi-noun}}
+# [[cloaca]]
+====Declension====
+{{fi-decl-pieni|yhteissuol|a}}
+====Synonyms====
+* {{l|fi|kloaakki}}
+* {{l|fi|viemärisuoli}}</text>
+<sha1>252ksdhtwcfh0q388l54ta711ao0h2y</sha1>
+</revision>
+</page>

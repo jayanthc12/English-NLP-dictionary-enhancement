@@ -1,0 +1,31 @@
+<page>
+<title>Yemenize</title>
+<ns>0</ns>
+<id>7301029</id>
+<revision>
+<id>61026997</id>
+<parentid>58534084</parentid>
+<timestamp>2020-11-03T11:03:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="857" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yemen|ize}}
+===Verb===
+{{en-verb}}
+# {{lb|en|transitive}} To make [[Yemeni]].
+#* '''1982''', Abdul Rahman al-Haddad, Unesco, ''Cultural Policy in the Yemen Arab Republic'', United Nations Educational
+#*: The most difficult problem that faced the revolution in expanding schools and developing education, however, was the problem of '''Yemenizing''' curricula and training qualified teachers.
+#* '''1988''', ''External Mid-term Evaluation Improving the Efficiency of Education System II''
+#*: To what extent is the project likely to provide results useful in the effort to '''Yemenize''' the teacher corps?
+#* '''1989''', ''Yemen Arab Republic: Development Needs of the Education Sector''
+#*: This output would be insufficient to '''Yemenize''' the preparatory and secondary teaching force by the end of the decade.</text>
+<sha1>rxkfdkvir29n8nx9u8sdgu5xbxp0ad4</sha1>
+</revision>
+</page>

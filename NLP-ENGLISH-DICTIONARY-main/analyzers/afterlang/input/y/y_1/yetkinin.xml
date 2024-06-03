@@ -1,0 +1,24 @@
+<page>
+<title>yetkinin</title>
+<ns>0</ns>
+<id>3669175</id>
+<revision>
+<id>57275317</id>
+<parentid>34332782</parentid>
+<timestamp>2019-10-19T17:33:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yetki||gen|s}}
+# {{inflection of|tr|yetki||2|s|poss|gen}}</text>
+<sha1>jhszd3bopdxr9r8f91q3kkqizxllfe2</sha1>
+</revision>
+</page>

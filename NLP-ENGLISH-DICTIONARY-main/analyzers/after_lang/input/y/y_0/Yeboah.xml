@@ -1,0 +1,25 @@
+<page>
+<title>Yeboah</title>
+<ns>0</ns>
+<id>6213167</id>
+<revision>
+<id>67844844</id>
+<parentid>67722677</parentid>
+<timestamp>2022-07-09T22:44:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="327" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yeboahs}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yeboah'' is the 17142&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 1653 individuals. ''Yeboah'' is most common among Black/African American (96.49%) individuals.</text>
+<sha1>5buw7jixyybjz5kp2rq1cx4nftgcrgj</sha1>
+</revision>
+</page>

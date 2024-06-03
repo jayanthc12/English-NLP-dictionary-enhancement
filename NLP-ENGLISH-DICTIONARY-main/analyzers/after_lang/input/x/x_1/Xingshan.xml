@@ -1,0 +1,51 @@
+<page>
+<title>Xingshan</title>
+<ns>0</ns>
+<id>6969553</id>
+<revision>
+<id>68424250</id>
+<parentid>67918048</parentid>
+<timestamp>2022-07-21T08:15:31Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1976 report</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1233" xml:space="preserve">{{also|xīngshān|xíngshān|xíngshàn|xìngshàn}}
+==English==
+{{wikipedia}}
+{{commonscat|Xingshan County}}
+===Alternative forms===
+* {{sense|{{w|postal romanization}}}} {{l|en|Hingshan}}
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsing-shan}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|興山}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Hegang|p/Heilongjiang|c/China}}.
+# {{place|en|county|prefecture-level city/Yichang|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=1976
+|title=Summary of World Broadcasts: Far East
+|url=https://books.google.com/books?id=1kzRAAAAMAAJ
+|publisher={{w|British Broadcasting Corporation}}
+|ISSN=0960-0388
+|OCLC=10807079
+|page=9
+|text=HUPEH In the struggle to criticize Teng, '''Hsingshan''' County CCP Committee has persisted in running theory courses by radio. About 70% of the peasant households in the county can receive wired broadcasts.
+|brackets=on}}
+====Translations====
+{{trans-top|county in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|興山|sc=Hani}}, {{t+|cmn|兴山|tr=|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>i7sp121lj4gb8zha5rb4oc7xlxu3la9</sha1>
+</revision>
+</page>

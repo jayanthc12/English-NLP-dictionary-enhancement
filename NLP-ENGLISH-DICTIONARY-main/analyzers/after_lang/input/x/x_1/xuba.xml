@@ -1,0 +1,36 @@
+<page>
+<title>xuba</title>
+<ns>0</ns>
+<id>6683763</id>
+<revision>
+<id>53998420</id>
+<parentid>50535403</parentid>
+<timestamp>2019-08-26T10:53:24Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Verb */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="440" xml:space="preserve">==Xhosa==
+===Verb===
+{{xh-verb|xuba}}
+# {{lb|xh|transitive}} to [[mix]]
+====Inflection====
+{{rfinfl|xh|verb}}
+----
+==Zulu==
+===Pronunciation===
+{{zu-IPA|xuba}}
+===Verb===
+{{zu-verb|xuba}}
+# {{lb|zu|intransitive}} to [[grey]], to [[become]] grey {{gloss|of hair}}
+# {{lb|zu|transitive}} to [[blend]], to [[compound]], to [[fuse]], to [[mix]], to [[mingle]]
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||6.3}}</text>
+<sha1>l5m4gu7mfyby3pcdzxaxoyabdtarp4k</sha1>
+</revision>
+</page>

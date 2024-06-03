@@ -1,0 +1,49 @@
+<page>
+<title>xeyir</title>
+<ns>0</ns>
+<id>7359318</id>
+<revision>
+<id>67208228</id>
+<parentid>66451126</parentid>
+<timestamp>2022-05-31T14:50:49Z</timestamp>
+<contributor>
+<username>Sahib1609</username>
+<id>3692630</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="959" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{bor|az|ar|خَيْر}}. {{root|az|ar|خ ي ر}}
+===Pronunciation===
+* {{IPA|az|[χe(j)ir]}}
+* {{hyph|az|xe|yir}}
+===Noun===
+{{az-head-noun|stem=xeyr}}
+# [[benefit]], [[utility]]
+# [[profit]]
+# [[good]]
+#: {{uxi|az|'''xeyir''' və şər|'''good''' and evil}}
+====Declension====
+{{az-decl-noun|i|c|stem=xeyr}}
+===Adjective===
+{{az-adj}}
+# [[good]]
+#: {{uxi|az|'''xeyir''' xəbər|'''good''' news}}
+#: {{uxi|az|'''xeyir''' iş|a '''good''' deed}}
+====Derived terms====
+* {{l|az|xeyirli}}
+* {{l|az|xeyirsiz}}
+====Related terms====
+* {{l|az|xeyriyyə||charity}}
+* {{l|az|xeyriyyəçi||benefactor, donor}}
+** {{l|az|xeyriyyəçilik||charity}}
+====See also====
+* {{l|az|sabahınız xeyir||good morning}}
+* {{l|az|günortanız xeyir||good day, good afternoon}}
+* {{l|az|axşamınız xeyir||good evening}}
+* {{l|az|hər vaxtınız xeyir olsun||hello}}
+* {{l|az|abatınız xeyir}}  - used as a reply to the above phrases</text>
+<sha1>fcgw2c5v7ktyul7t2k30t379wrxopoa</sha1>
+</revision>
+</page>

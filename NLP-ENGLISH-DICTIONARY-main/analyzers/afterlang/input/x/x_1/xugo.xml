@@ -1,0 +1,58 @@
+<page>
+<title>xugo</title>
+<ns>0</ns>
+<id>1613800</id>
+<revision>
+<id>68862182</id>
+<parentid>68861560</parentid>
+<timestamp>2022-08-28T05:12:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1243" xml:space="preserve">==Galician==
+[[File:Lalín, Casa do Patrón 03-02c.jpg|thumb|Galician ''xugos'' (&quot;yokes&quot;)]]
+[[File:Museo Liste, xugos para o gando.JPG |thumb|A parir of Galician ''xugos de molida'' (&quot;head yokes&quot;)]]
+===Etymology===
+Attested since the 13th century ({{m|gl||jugo}}). From Old Galician and {{inh|gl|roa-opt|-}}, from {{inh|gl|la|jugum}}, {{m|la|iugum}}. Compare {{cog|pt|jugo}}, {{cog|es|yugo}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃuɣʊ]}}
+===Noun===
+{{gl-noun|m}}
+# [[yoke]]
+#: {{syn|gl|canga}}
+# chain or strap that connects both parts of a [[flail]]
+#: {{syn|gl|cedoiro|entrecarto|inzadoiro|loro|pealla}}
+====Derived terms====
+* {{l|gl|xugo de cancís|t=withers yoke}}
+* {{l|gl|xugo de canga|t=bow yoke}}
+* {{l|gl|xugo de mulida|t=head yoke}}
+====Related terms====
+* {{l|gl|xunguir}}
+===See also===
+* {{pedia|lang=gl}}
+===References===
+* {{R:gl:DDGM|jugo}}
+* {{R:gl:CX|jugo}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+----
+==Venetian==
+===Alternative forms===
+* [[xógo]], [[xogo]], {{l|vec|zugo}}
+===Etymology===
+From {{inh|vec|la|jocus}}, {{m|la|iocus}}. Compare {{cog|it|gioco}}.
+===Noun===
+{{vec-noun|xug|m|o|hi}}
+# [[game]]
+====Related terms====
+* {{l|vec|xugadore}}
+* {{l|vec|xugar}}, {{l|vec|xogar}}, {{l|vec|zugar}}</text>
+<sha1>n5q7o5f1hyuw8odt72v9f3ceqcyfj5q</sha1>
+</revision>
+</page>

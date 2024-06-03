@@ -1,0 +1,36 @@
+<page>
+<title>ximnasia</title>
+<ns>0</ns>
+<id>1880989</id>
+<revision>
+<id>54257921</id>
+<parentid>46086861</parentid>
+<timestamp>2019-09-21T13:01:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Replace raw links with templated links: [[ximnasia rítmica]],[[ximnasio]],[[ximnasta]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="312" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|f|-}}
+# [[gymnastics]]
+====Related terms====
+* {{l|ast|ximnasio}}
+----
+==Galician==
+===Noun===
+{{gl-noun|f|-}}
+# [[gymnastics]]
+====Derived terms====
+* {{l|gl|ximnasia rítmica}}
+====Related terms====
+* {{l|gl|ximnasio}}
+* {{l|gl|ximnasta}}
+[[Category:gl:Gymnastics]]</text>
+<sha1>m44bafc1oi2c5q6j4fcr9adru11c7vl</sha1>
+</revision>
+</page>

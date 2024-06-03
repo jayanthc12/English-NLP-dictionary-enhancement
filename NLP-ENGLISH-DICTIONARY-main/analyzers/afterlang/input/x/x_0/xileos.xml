@@ -1,0 +1,31 @@
+<page>
+<title>xileos</title>
+<ns>0</ns>
+<id>2987736</id>
+<revision>
+<id>55343097</id>
+<parentid>48881145</parentid>
+<timestamp>2019-10-14T11:14:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="263" xml:space="preserve">==Irish==
+===Alternative forms===
+* {{alter|ga|xiolós}}
+===Etymology===
+{{rfe|ga}}
+===Noun===
+{{ga-noun|m|xileois|-}}
+# {{lb|ga|organic compound}} [[xylose]]
+====Declension====
+{{ga-decl-m1-nopl|x|ileos|ileois}}
+===Further reading===
+* {{R:ga:Ó Dónaill}}</text>
+<sha1>hokdmnkm22ydiqwgxn33xopvl2hn9xo</sha1>
+</revision>
+</page>

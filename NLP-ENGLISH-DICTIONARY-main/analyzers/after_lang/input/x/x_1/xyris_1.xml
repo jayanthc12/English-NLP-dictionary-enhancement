@@ -1,0 +1,26 @@
+<page>
+<title>xyris</title>
+<ns>0</ns>
+<id>3473554</id>
+<revision>
+<id>60454475</id>
+<parentid>39457931</parentid>
+<timestamp>2020-09-21T07:26:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="161" xml:space="preserve">{{also|Xyris}}
+==English==
+===Etymology===
+From the genus name.
+===Noun===
+{{en-noun}}
+# {{lb|en|botany}} Any member of the [[plant]] [[genus]] ''[[Xyris]]''.</text>
+<sha1>e48u1tvile30jqkzukfbf4woxu5opk5</sha1>
+</revision>
+</page>

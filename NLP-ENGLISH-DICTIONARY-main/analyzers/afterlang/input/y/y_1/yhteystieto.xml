@@ -1,0 +1,32 @@
+<page>
+<title>yhteystieto</title>
+<ns>0</ns>
+<id>3635280</id>
+<revision>
+<id>69318506</id>
+<parentid>66668144</parentid>
+<timestamp>2022-09-18T17:22:14Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="575" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteys|tieto|t1=contact, connection|t2=data, information}}
+===Pronunciation===
+{{fi-p|yhteys-tieto}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|usually|in the plural}} [[contact details]], [[contact]] [[information]]
+#: {{ux|fi|Onko sinulla hänen '''yhteystietonsa'''?|Do you have her '''contact details'''?}}
+#: {{ux|fi|Onko sinulla hänelle mitään '''yhteystietoa'''?|Do you have any '''contact information''' on her?}}
+====Declension====
+{{fi-decl-valo|yhteystie|t|d|o|a}}
+===Anagrams===
+* {{anagrams|fi|a=eehiostttyy|tietoyhteys}}</text>
+<sha1>if9hm0klixn1ccpwe5gdk7e9eokxrjy</sha1>
+</revision>
+</page>

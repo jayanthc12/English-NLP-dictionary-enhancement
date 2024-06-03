@@ -1,0 +1,27 @@
+<page>
+<title>Xipholena</title>
+<ns>0</ns>
+<id>3074288</id>
+<revision>
+<id>22802505</id>
+<parentid>13593420</parentid>
+<timestamp>2013-09-13T00:36:52Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Proper noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">==Translingual==
+{{wikipedia}}
+{{wikispecies}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Cotingidae}}
+===References===
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>qso9n45tmrcjccdv5nwokt61lunnb2q</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yaratmak</title>
+<ns>0</ns>
+<id>736081</id>
+<revision>
+<id>64641106</id>
+<parentid>63401762</parentid>
+<timestamp>2021-11-13T15:52:23Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Derived terms */ yaradılış</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="432" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یراتمق|tr=yaratmak}}.
+===Verb===
+{{tr-verb|yaratır}}
+# to [[create]]
+#: {{ux|tr|Kendime [[hayalî arkadaş|hayalî bir arkadaş]] yarattım.|I have ''created'' myself an imaginary friend.}}
+====Conjugation====
+{{tr-conj|yarat|a|yaratır|ı|t}}
+====Derived terms====
+* {{l|tr|yaradılış}}
+* {{l|tr|yaratık}}
+* {{l|tr|yaratılış}}
+* {{l|tr|yaratıcı}}
+* {{l|tr|yaratma}}</text>
+<sha1>3g8k7vzqfjed97z4tmraennnx64ty5o</sha1>
+</revision>
+</page>

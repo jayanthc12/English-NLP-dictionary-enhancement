@@ -1,0 +1,30 @@
+<page>
+<title>yhteenlaskea</title>
+<ns>0</ns>
+<id>3404294</id>
+<revision>
+<id>69318409</id>
+<parentid>54967870</parentid>
+<timestamp>2022-09-18T17:16:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="295" xml:space="preserve">==Finnish==
+===Etymology===
+From {{compound|fi|yhteen|laskea}}.
+===Pronunciation===
+{{fi-p|yhteen-laskea*}}
+===Verb===
+{{fi-verb}}
+# {{alternative form of|fi|laskea yhteen}}
+====Conjugation====
+{{fi-conj-laskea|yhteenlask|||a}}
+===Anagrams===
+* {{anagrams|fi|a=aaeeehklnsty|laskea yhteen}}</text>
+<sha1>aqk921ue9w2p2fk27cegjgovsvi93x9</sha1>
+</revision>
+</page>

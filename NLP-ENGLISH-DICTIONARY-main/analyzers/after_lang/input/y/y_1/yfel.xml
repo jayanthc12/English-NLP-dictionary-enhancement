@@ -1,0 +1,62 @@
+<page>
+<title>yfel</title>
+<ns>0</ns>
+<id>295336</id>
+<revision>
+<id>67607095</id>
+<parentid>64863635</parentid>
+<timestamp>2022-07-03T07:38:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 2 {{l}} links into {{desc|enm}} (2); incorporate 1 {{l}} link into {{desc|sco}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1295" xml:space="preserve">==Middle English==
+===Adjective===
+{{enm-adj}}
+# {{tlb|enm|Early ME}} {{alt form|enm|yvel|t=evil|id=evil}}
+----
+==Old English==
+===Alternative forms===
+* {{alter|ang|efel|eofel}}
+===Etymology===
+From {{inh|ang|gmw-pro|*ubil}}, from {{inh|ang|gem-pro|*ubilaz}}.
+===Pronunciation===
+* {{ang-IPA|yfel}}
+===Adjective===
+{{ang-adj||wiersa|wierrest}}
+# [[bad]]
+# [[bad]] in a moral sense, [[evil]]
+====Usage notes====
+* ''Yfel'' was the general word for “bad,” not just “evil.” Hence phrases such as ''yfel ġesihþ'' (“bad eyesight”), ''yfel hlyst'' (“bad hearing”), ''yfel wyrd'' (“bad fortune”), and ''yfel bȳsn'' (“bad example”).
+====Declension====
+{{ang-adecl|yfel}}
+====Descendants====
+* {{desc|enm|yvel|uvel|evel}}
+** {{desc|en|evil}}
+** {{desc|sco|evil|ewil}}
+===Noun===
+{{ang-noun|n}}
+# something [[bad]] or bad things collectively; [[harm]], [[misfortune]]
+# [[evil]]
+====Declension====
+{{ang-decl-noun-a-n|yfel}}
+====Synonyms====
+* ''(adjective)'': {{l|ang|un-}}
+====Antonyms====
+* {{l|ang|gōd||good}}
+====Derived terms====
+* {{l|ang|yfele||badly}}
+* {{l|ang|yfelian||to wrong}}
+* {{l|ang|yfelwillende||malicious}}
+====Descendants====
+* {{desc|enm|yvel|uvel|evel}}
+** {{desc|en|evil}}
+** {{desc|sco|evil|ewil}}
+{{cln|ang|suppletive adjectives}}</text>
+<sha1>8adsiisqidbx8fddsxa7snoszrw9gdy</sha1>
+</revision>
+</page>

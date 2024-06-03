@@ -1,0 +1,28 @@
+<page>
+<title>yhdistyneet</title>
+<ns>0</ns>
+<id>1848581</id>
+<revision>
+<id>54801848</id>
+<parentid>37449207</parentid>
+<timestamp>2019-10-06T16:46:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="267" xml:space="preserve">==Finnish==
+===Pronunciation===
+* {{hyphenation|fi|yh|dis|ty|neet}}
+===Verb===
+{{head|fi|verb form}}
+# {{fi-verb form of|pn=p|tm=past|c=1|yhdistyä}}
+===Participle===
+{{head|fi|participle form}}
+# {{fi-participle of|t=past|yhdistyä|case=nominative|plural=true}}</text>
+<sha1>1frw4w1z6ho6kg6uc17jqk67ias5vkt</sha1>
+</revision>
+</page>

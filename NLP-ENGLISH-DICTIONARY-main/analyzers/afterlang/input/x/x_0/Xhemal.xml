@@ -1,0 +1,25 @@
+<page>
+<title>Xhemal</title>
+<ns>0</ns>
+<id>4832709</id>
+<revision>
+<id>67277366</id>
+<parentid>36830806</parentid>
+<timestamp>2022-06-06T06:43:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|sq|ar}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Albanian==
+===Etymology===
+From {{uder|sq|ar|جَمَال||beauty}}.
+===Proper noun===
+{{head|sq|proper noun}}
+# A male [[given name]].</text>
+<sha1>t0ewj49d00xk9uywzythldfkoktb3dd</sha1>
+</revision>
+</page>

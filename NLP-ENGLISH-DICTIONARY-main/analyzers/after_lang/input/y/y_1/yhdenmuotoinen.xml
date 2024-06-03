@@ -1,0 +1,31 @@
+<page>
+<title>yhdenmuotoinen</title>
+<ns>0</ns>
+<id>7144574</id>
+<revision>
+<id>58593389</id>
+<parentid>51931923</parentid>
+<timestamp>2020-01-30T12:17:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="300" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yksi|alt1=yhden|muoto|-inen}}
+===Pronunciation===
+{{fi-pronunciation|yhden-muotoinen}}
+===Adjective===
+{{fi-adj}}
+# {{lb|fi|geometry}} [[similar]]
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdenmuotoi|a}}
+====Derived terms====
+* {{l|fi|yhdenmuotoisuus}}</text>
+<sha1>aor3h0uzr0wbrssbqt8ls1lzwvsef21</sha1>
+</revision>
+</page>

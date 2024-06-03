@@ -1,0 +1,39 @@
+<page>
+<title>yaourter</title>
+<ns>0</ns>
+<id>5575105</id>
+<revision>
+<id>67228617</id>
+<parentid>63570941</parentid>
+<timestamp>2022-06-02T06:07:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: use {{fr-*}} in place of {{head}}; remove use of 1=/2= from {{fr-conj-auto}}; remove unnecessary caps in defns; use {{place}}; fix pronouns; make plurals of nouns in -eu explicit; remove unnecessary adj plurals/fems; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="888" xml:space="preserve">==French==
+===Etymology===
+From {{af|fr|yaourt|t1=yoghurt|-er}}.
+{{rfe|fr|What is the relevance of yoghurt to this topic?}}
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-WikiLucas00-yaourter.wav|Audio}}
+* {{fr-homophones-er|yaourt}}
+===Verb===
+{{head|fr|verb}}{{rfc|fr}}
+# to attempt to [[speak]] or [[sing]] in a foreign language, usually [[English]], and incorporating many [[mondegreen]]s
+#* '''2010''', Stéphane Daniel, ''Si par hasard c'était l'amour'', [https://books.google.com/books?id=sNKlCAAAQBAJ&amp;pg=PT82 unnumbered page]:
+#*: Et il programmait la plage aussitôt, repartait, ''one, two, three, four'' ! en '''yaourtant''' avec son accent épouvantable.
+#: {{syn|fr|chanter en yaourt}}
+====Conjugation====
+{{fr-conj-auto}}
+====See also====
+* {{l|fr|baragouiner}}
+===References===
+* [http://languagelog.ldc.upenn.edu/nll/?p=1593 Language Log: ''Yaourter'']</text>
+<sha1>rlunxjkw33o2u90et06pzifbljezpkp</sha1>
+</revision>
+</page>

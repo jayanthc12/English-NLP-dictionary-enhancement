@@ -1,0 +1,24 @@
+<page>
+<title>xulgaremos</title>
+<ns>0</ns>
+<id>4334427</id>
+<revision>
+<id>53116651</id>
+<parentid>40204986</parentid>
+<timestamp>2019-05-19T05:11:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person plural future' to 1|p|fut</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">{{also|xulgáremos}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xulgar||1|p|fut}}</text>
+<sha1>er2zeyj9nnhsf58v5sx2r48p1s8yt7e</sha1>
+</revision>
+</page>

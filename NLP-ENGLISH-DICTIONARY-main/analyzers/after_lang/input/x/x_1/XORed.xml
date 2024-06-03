@@ -1,0 +1,25 @@
+<page>
+<title>XORed</title>
+<ns>0</ns>
+<id>1396468</id>
+<revision>
+<id>50828895</id>
+<parentid>46142787</parentid>
+<timestamp>2018-11-26T21:40:48Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|XOR}}
+===Anagrams===
+* {{anagrams|en|a=deorx|EXORD|doxer|exord|redox}}</text>
+<sha1>sw2wjcvgoa630ahuu4l3ksoyoagn92e</sha1>
+</revision>
+</page>

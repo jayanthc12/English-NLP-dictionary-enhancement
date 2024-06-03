@@ -1,0 +1,47 @@
+<page>
+<title>xicohcuitlatl</title>
+<ns>0</ns>
+<id>4307068</id>
+<revision>
+<id>63345528</id>
+<parentid>56275066</parentid>
+<timestamp>2021-07-24T14:14:12Z</timestamp>
+<contributor>
+<ip>2806:105E:F:52FF:3475:ACC2:7D88:BCCF</ip>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1422" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[wax]]
+[[Category:Amecameca Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xicocuitlatl}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{compound|nci|xīcohtli|cuitlatl|t1=large bee|t2=excrement}}.
+===Pronunciation===
+* {{IPA|nci|[ʃiː.koʔˈkʷi.t͡ɬat͡ɬ]}}
+===Noun===
+{{nci-noun|i|xīcohcuitlatl}}
+# [[wax]], [[beeswax]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 62v.
+#*: Cera. &amp;nbsp;&amp;nbsp;'''xicocuitlatl'''.
+#*:: Wax. &amp;nbsp;&amp;nbsp;'''xicocuitlatl'''.
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 34r. col. 1.
+#*: Cera. '''xicocuitlatl'''.
+#*:: Wax. '''xicocuitlatl'''.
+#* ''Idem'', f. 159r. col. 1.
+#*: '''Xicocuitlatl'''. cera.
+#*:: '''Xicocuitlatl'''. wax.
+====Derived terms====
+* {{l|nci|xīcohcuitlaocōtl}}
+* {{l|nci|zoquixīcohcuitlatl}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|pages=34, 159}}</text>
+<sha1>qtunnl2tffsxzybo75xyumat1tkfzw4</sha1>
+</revision>
+</page>

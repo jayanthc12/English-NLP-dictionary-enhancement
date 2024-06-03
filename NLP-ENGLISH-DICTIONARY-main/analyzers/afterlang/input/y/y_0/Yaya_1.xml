@@ -1,0 +1,32 @@
+<page>
+<title>Yaya</title>
+<ns>0</ns>
+<id>3537575</id>
+<revision>
+<id>54949350</id>
+<parentid>52189859</parentid>
+<timestamp>2019-10-10T04:35:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{rfe}}; move lang= to 1= in {{given name}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="336" xml:space="preserve">{{also|yaya|yayá}}
+==English==
+===Etymology===
+{{rfe|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female}}.
+# {{given name|en|male}}.
+====See also====
+* {{l|en|get one's ya-yas out}}
+====References====
+* [http://www.babynamewizard.com/baby-name/girl/yaya?results=sound Yaya]
+[[Category:English unisex given names]]</text>
+<sha1>fqh7xa5ynvfdmp7q8j0kl2hyo37xcx0</sha1>
+</revision>
+</page>

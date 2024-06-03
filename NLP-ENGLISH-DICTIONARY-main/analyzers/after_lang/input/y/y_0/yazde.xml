@@ -1,0 +1,24 @@
+<page>
+<title>yazde</title>
+<ns>0</ns>
+<id>4603244</id>
+<revision>
+<id>60833749</id>
+<parentid>60831086</parentid>
+<timestamp>2020-10-12T02:51:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move &quot;Kurdish&quot; lemmas to Northern Kurdish and clean up (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==Northern Kurdish==
+===Numeral===
+{{head|kmr|numeral}}
+# [[eleven]]
+{{cln|kmr|cardinal numbers}}</text>
+<sha1>f0w6m6voemx12117zqus73ricpl97fd</sha1>
+</revision>
+</page>

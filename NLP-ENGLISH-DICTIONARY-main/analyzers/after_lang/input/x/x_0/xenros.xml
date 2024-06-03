@@ -1,0 +1,27 @@
+<page>
+<title>xenros</title>
+<ns>0</ns>
+<id>1610005</id>
+<revision>
+<id>64036218</id>
+<parentid>62899247</parentid>
+<timestamp>2021-09-25T17:35:55Z</timestamp>
+<contributor>
+<username>Roger the Rodger</username>
+<id>3839861</id>
+</contributor>
+<comment>Adding forms of [[xenru]] ([[WT:ACCEL|Accelerated]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xenru}}
+----
+==Galician==
+===Noun===
+{{head|gl|noun form|g=m-p}}
+# {{plural of|gl|xenro}}</text>
+<sha1>elft0kmwq6q5umrrth2ec1mimk9vy0s</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>xaveco</title>
+<ns>0</ns>
+<id>6937387</id>
+<revision>
+<id>69486595</id>
+<parentid>66575805</parentid>
+<timestamp>2022-10-10T00:03:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="719" xml:space="preserve">==Portuguese==
+===Etymology===
+The boat sense comes ultimately from {{der|pt|ar|شَبَّاك||fishing boat; small warship}}.
+===Pronunciation===
+{{pt-IPA|xavéco}}
+* {{hyphenation|pt|xa|ve|co}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|historical}} [[xebec]] {{gloss|Arabic transport ship}}
+# a small, old and poorly built boat that is likely to sink
+# {{lb|pt|Brazil|slang}} [[flirting]] {{gloss|talk in which one intends to seduce a person}}
+#: {{syn|pt|paquera|cantada}}
+# {{lb|pt|Brazil}} [[knavery]], [[trickery]]
+#: {{syn|pt|patifaria}}
+# {{lb|pt|Brazil}} [[trifle]] (something or someone without much importance)
+# {{lb|pt|Brazil|derogatory}} [[hag]] (old and ugly woman)
+====Related terms====
+* {{l|pt|xavecar}}</text>
+<sha1>0edex7vscfq2xco6f1f6vh8bskrtc6r</sha1>
+</revision>
+</page>

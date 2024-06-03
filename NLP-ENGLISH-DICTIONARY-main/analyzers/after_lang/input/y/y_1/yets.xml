@@ -1,0 +1,34 @@
+<page>
+<title>yets</title>
+<ns>0</ns>
+<id>2753078</id>
+<revision>
+<id>62863651</id>
+<parentid>55916023</parentid>
+<timestamp>2021-06-17T07:25:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="316" xml:space="preserve">{{also|yet's}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yet}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yet}}
+===Anagrams===
+* {{anagrams|en|a=esty|Tyes|etys|stey|stye|teys|tyes|yest}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|yet}}</text>
+<sha1>fv7cw6rbgt2u79aq48qkkrkxxl8ecb3</sha1>
+</revision>
+</page>

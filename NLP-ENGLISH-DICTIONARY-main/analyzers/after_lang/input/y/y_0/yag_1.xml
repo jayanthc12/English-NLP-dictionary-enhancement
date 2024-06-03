@@ -1,0 +1,56 @@
+<page>
+<title>yag</title>
+<ns>0</ns>
+<id>5000259</id>
+<revision>
+<id>52614264</id>
+<parentid>52507274</parentid>
+<timestamp>2019-05-03T01:44:17Z</timestamp>
+<contributor>
+<username>InternetArchiveBot</username>
+<id>3438671</id>
+</contributor>
+<comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta14)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1078" xml:space="preserve">{{also|YAG|yağ}}
+==Maia==
+===Noun===
+{{head|sks|noun}}
+# [[water]]
+===Further reading===
+* ''[https://web.archive.org/web/20160313140458/http://www-01.sil.org/pacific/png/pubs/50696/Maia_dict_a4.pdf Maia - English - Tok Pisin dictionary]''
+----
+==Papiamentu==
+===Etymology===
+From {{der|pap|nl|jagen}}.
+===Verb===
+{{head|pap|verb}}
+# to [[hunt]]
+----
+==Rerau==
+===Noun===
+{{head|rea|noun}}
+# [[water]]
+===Further reading===
+* J. A. Z'graggen, ''A comparative word list of the Rai Coast Languages, Madang Province, Papua New Guinea'' (1980, Canberra: Pacific Linguistics)
+* ''[http://archive.org/stream/rosettaproject_rea_swadesh-1/rea.txt Rerau Swadesh List]'' (The Rosetta Project: A Long Now Foundation Library of Human Language)
+----
+==San Juan Guelavía Zapotec==
+===Etymology===
+From {{inh|zab|omq-zpc-pro|*yaka}}, from {{inh|zab|omq-zap-pro|*yaka}}.
+===Noun===
+{{head|zab|noun}}
+# {{l|en|tree}}
+===References===
+* {{R:López, Jones &amp; Jones 2012|pages=20, 23}}
+----
+==Volapük==
+===Noun===
+{{vo-noun}}
+# [[hunt]]
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>rp9sno45pzh6b12r41ob92cui7gx31p</sha1>
+</revision>
+</page>

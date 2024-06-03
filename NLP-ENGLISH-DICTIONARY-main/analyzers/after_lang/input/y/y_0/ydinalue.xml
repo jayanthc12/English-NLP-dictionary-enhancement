@@ -1,0 +1,28 @@
+<page>
+<title>ydinalue</title>
+<ns>0</ns>
+<id>4617512</id>
+<revision>
+<id>69318112</id>
+<parentid>52039429</parentid>
+<timestamp>2022-09-18T17:00:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="185" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alue}}
+===Pronunciation===
+{{fi-p|ydin-alue*}}
+===Noun===
+{{fi-noun}}
+# [[heartland]]
+====Declension====
+{{fi-decl-hame|ydinalu|||a}}</text>
+<sha1>b0ct6ub9calgzzq1zzstjhv9qx7geu8</sha1>
+</revision>
+</page>

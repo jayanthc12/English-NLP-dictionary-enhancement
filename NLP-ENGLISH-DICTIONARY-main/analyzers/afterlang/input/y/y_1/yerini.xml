@@ -1,0 +1,24 @@
+<page>
+<title>yerini</title>
+<ns>0</ns>
+<id>3669228</id>
+<revision>
+<id>52602295</id>
+<parentid>43834140</parentid>
+<timestamp>2019-05-02T14:47:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>moved lang= in {{inflection of}} to 1= (2); replaced bad multiword inflection tag 'second person' with 2; replaced bad multiword inflection tag 'third person' with 3</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="170" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||2|s|simple present|possessive|acc}}
+# {{inflection of|tr|yer||3|s|simple present|possessive|acc}}</text>
+<sha1>hj6wezewik62lvfww9h9tkfy5djjuuq</sha1>
+</revision>
+</page>

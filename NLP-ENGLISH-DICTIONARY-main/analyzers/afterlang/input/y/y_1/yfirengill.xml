@@ -1,0 +1,28 @@
+<page>
+<title>yfirengill</title>
+<ns>0</ns>
+<id>6944232</id>
+<revision>
+<id>50532074</id>
+<timestamp>2018-10-20T14:38:59Z</timestamp>
+<contributor>
+<username>Ofkosinn</username>
+<id>3419535</id>
+</contributor>
+<comment>Created page with &quot;==Old Norse==  ===Etymology=== From {{prefix|non|yfir|engill}}.  ===Noun=== {{non-noun|m}}  # [[archangel]]  ====Declension==== {{non-decl-m-a|yfirengil|3=yfirengl|ns=yfirengi...&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==Old Norse==
+===Etymology===
+From {{prefix|non|yfir|engill}}.
+===Noun===
+{{non-noun|m}}
+# [[archangel]]
+====Declension====
+{{non-decl-m-a|yfirengil|3=yfirengl|ns=yfirengill}}
+===References===
+* {{R:Zoega}}
+{{topics|non|Christianity}}</text>
+<sha1>7uf9s8gsapahxh4668kdlo1eqyx1yg8</sha1>
+</revision>
+</page>

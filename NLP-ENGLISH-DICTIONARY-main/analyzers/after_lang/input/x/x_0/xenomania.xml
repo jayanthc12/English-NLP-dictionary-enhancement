@@ -1,0 +1,36 @@
+<page>
+<title>xenomania</title>
+<ns>0</ns>
+<id>223253</id>
+<revision>
+<id>68416185</id>
+<parentid>64460164</parentid>
+<timestamp>2022-07-19T22:29:38Z</timestamp>
+<contributor>
+<username>OriginReboot</username>
+<id>3939274</id>
+</contributor>
+<comment>/* Noun */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="660" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|mania}}.  The components are of Ancient Greek origin.  When used in the context of Greece, the word is likely borrowed from modern {{m+|el|ξενομανία}}.
+===Pronunciation===
+* {{rhymes|en|eɪniə|s=5}}
+===Noun===
+{{en-noun|-}}
+# A strong or excessive preference for foreigners or for foreign customs, manners, or institutions.
+#: {{ant|en|xenophobia}}
+====Translations====
+{{trans-top|strong preference for foreign customs etc.}}
+* Greek: {{t+|el|ξενομανία|f}}
+{{trans-mid}}
+* Italian: {{t+|it|esterofilia|f}}
+{{trans-bottom}}
+====See also====
+* {{l|en|multiculturalism}}
+* {{l|en|xenophilia}}</text>
+<sha1>kafx7auz1yg3m3i31uttp1091uc0370</sha1>
+</revision>
+</page>

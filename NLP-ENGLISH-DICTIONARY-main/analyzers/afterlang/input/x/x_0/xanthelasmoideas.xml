@@ -1,0 +1,23 @@
+<page>
+<title>xanthelasmoideas</title>
+<ns>0</ns>
+<id>5405275</id>
+<revision>
+<id>56752781</id>
+<parentid>54024556</parentid>
+<timestamp>2019-10-18T14:42:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="108" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xanthelasmoīdeās}}
+# {{inflection of|la|xanthelasmoīdeus||acc|f|p}}</text>
+<sha1>tmsfo4p9qp0fj2aiisbuzklqquaybpv</sha1>
+</revision>
+</page>

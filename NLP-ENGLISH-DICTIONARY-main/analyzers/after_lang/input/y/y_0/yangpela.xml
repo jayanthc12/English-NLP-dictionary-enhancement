@@ -1,0 +1,25 @@
+<page>
+<title>yangpela</title>
+<ns>0</ns>
+<id>6565327</id>
+<revision>
+<id>68853950</id>
+<parentid>49062078</parentid>
+<timestamp>2022-08-28T04:13:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Tok Pisin==
+===Etymology===
+From {{der|tpi|en|young}} {{suffix|tpi||pela}}.
+===Adjective===
+{{head|tpi|adjective}}
+# [[young]]</text>
+<sha1>tw6rqh9eoogi3mvletwfxivmat6g06h</sha1>
+</revision>
+</page>

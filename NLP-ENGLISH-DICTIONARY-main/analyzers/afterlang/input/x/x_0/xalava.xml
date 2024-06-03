@@ -1,0 +1,22 @@
+<page>
+<title>xalava</title>
+<ns>0</ns>
+<id>7124577</id>
+<revision>
+<id>51645092</id>
+<timestamp>2019-02-28T01:50:24Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|t=impf|m=ind|xalar}}
+# {{ca-verb form of|p=3|n=sg|t=impf|m=ind|xalar}}</text>
+<sha1>c55jy3axj6hlpzrwta4snqzporoy3zv</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>ydinase</title>
+<ns>0</ns>
+<id>519134</id>
+<revision>
+<id>63747654</id>
+<parentid>58593335</parentid>
+<timestamp>2021-08-24T21:06:39Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) remove [[Template:Finnish index]] (see [[Wiktionary:Votes/2021-07/Deleting the Index]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="552" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|ase|t1=nuclear|t2=weapon}}
+===Pronunciation===
+{{fi-pronunciation|ydin-ase*}}
+===Noun===
+{{wikipedia|lang=fi}}
+{{fi-noun}}
+# [[nuclear weapon]]
+====Declension====
+{{fi-decl-hame|ydinas|||a}}
+====Synonyms====
+* {{l|fi|atomiase}}
+====Derived terms====
+* {{l|fi|ydinaseistaa}}
+* {{l|fi|ydinaseistus}}
+* {{l|fi|ydinaseeton}}
+=====Compounds=====
+* {{l|fi|ydinasearsenaali}}
+* {{l|fi|ydinasevalta}}
+* {{l|fi|ydinasevaltio}}
+* {{l|fi|ydinasevarustelu}}
+* {{l|fi|ydinasevarustus}}
+[[Category:fi:Weapons]]</text>
+<sha1>r3ufq4pbydnmo4ebas33ooiwg0uslt4</sha1>
+</revision>
+</page>

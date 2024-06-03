@@ -1,0 +1,25 @@
+<page>
+<title>xanthorhodopsin</title>
+<ns>0</ns>
+<id>4221536</id>
+<revision>
+<id>51805503</id>
+<parentid>50997588</parentid>
+<timestamp>2019-03-14T07:17:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xantho|rhodopsin}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|biochemistry}} A [[light]]-driven [[carotenoid]] [[proton pump]] found in {{taxlink|Salinibacter ruber|species}}</text>
+<sha1>7fczvsmipkr5bmowyj6jpf2weikqrv7</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>Ychoux</title>
+<ns>0</ns>
+<id>6362107</id>
+<revision>
+<id>67195496</id>
+<parentid>67148656</parentid>
+<timestamp>2022-05-30T08:36:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==French==
+{{wikipedia|lang=fr}}
+===Etymology===
+{{bor+|fr|oc|Ishós}}.
+===Pronunciation===
+* {{fr-IPA|Ychouxe}}
+===Proper noun===
+{{fr-proper noun}}
+# {{place|fr|small town/and/commune|dept/Landes|r/Nouvelle-Aquitaine|c/France}}</text>
+<sha1>ihu9e1xo0oodb8yamsire3lhiklpro6</sha1>
+</revision>
+</page>

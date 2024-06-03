@@ -1,0 +1,24 @@
+<page>
+<title>yantan</title>
+<ns>0</ns>
+<id>5055846</id>
+<revision>
+<id>68313486</id>
+<parentid>46653650</parentid>
+<timestamp>2022-07-18T13:17:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yantar]] with 'yantar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="93" xml:space="preserve">{{also|yántán}}
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yantar}}</text>
+<sha1>4hv9k24zn4wh1mcffpyaezmi6yaqvwj</sha1>
+</revision>
+</page>

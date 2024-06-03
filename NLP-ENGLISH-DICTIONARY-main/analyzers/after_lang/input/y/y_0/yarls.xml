@@ -1,0 +1,28 @@
+<page>
+<title>yarls</title>
+<ns>0</ns>
+<id>3624168</id>
+<revision>
+<id>56115417</id>
+<parentid>53759231</parentid>
+<timestamp>2019-10-17T04:23:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yarl}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yarl}}
+===Anagrams===
+* {{anagrams|en|a=alrsy|Larys|Rayls|aryls|lyars|lyras|ryals}}</text>
+<sha1>onbuscbormgv0hu4slz4h8ji2rsme5z</sha1>
+</revision>
+</page>

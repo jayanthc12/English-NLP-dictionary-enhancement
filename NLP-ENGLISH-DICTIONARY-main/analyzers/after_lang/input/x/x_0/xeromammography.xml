@@ -1,0 +1,32 @@
+<page>
+<title>xeromammography</title>
+<ns>0</ns>
+<id>3392808</id>
+<revision>
+<id>64460182</id>
+<parentid>59407887</parentid>
+<timestamp>2021-10-28T12:16:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="468" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|mammography}}
+===Pronunciation===
+* {{rhymes|en|ɒɡɹəfi|s=6}}
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+# A [[photoelectric]] method of recording an [[X-ray]] [[image]] on a coated [[metal]] [[plate]], using low-energy [[photon]] beams, long [[exposure]] time, and dry [[chemical]] [[developer]]s.
+====Hypernyms====
+* {{l|en|xeroradiography}}
+====Related terms====
+* {{l|en|xeromammogram}}
+* {{l|en|xeromammographic}}</text>
+<sha1>38rwduqwd64q7a8m6foc13ldynnqwkr</sha1>
+</revision>
+</page>

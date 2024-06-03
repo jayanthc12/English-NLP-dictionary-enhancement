@@ -1,0 +1,32 @@
+<page>
+<title>xilofago</title>
+<ns>0</ns>
+<id>1025869</id>
+<revision>
+<id>65158374</id>
+<parentid>64579873</parentid>
+<timestamp>2022-01-03T10:47:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Italian: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">{{also|xilófago}}
+==Italian==
+===Alternative forms===
+* {{alter|it|silofago}}
+===Etymology===
+{{confix|it|xilo|fago}}
+===Pronunciation===
+{{it-pr|xilòfago}}
+===Adjective===
+{{it-adj|mpl=xilofagi}}
+# {{lb|it|biology}} [[xylophagous]]
+===Further reading===
+* {{R:it:Treccani}}</text>
+<sha1>c94bqnrduivyyms7ryaen4q4vulfdt6</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yhdyslukusana</title>
+<ns>0</ns>
+<id>5779389</id>
+<revision>
+<id>69318393</id>
+<parentid>39752882</parentid>
+<timestamp>2022-09-18T17:15:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="412" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhdys|lukusana}}
+===Pronunciation===
+{{fi-p|yhdys/luku-sana}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|grammar}} [[compound]] [[numeral]] {{gloss|in Finnish grammar, a cardinal numeral that is expressed as compound of &quot;elementary&quot; numerals; ''see'' {{m|fi|peruslukusana}}}}
+====Declension====
+{{fi-decl-kala|yhdyslukusan|||a}}
+====Hypernyms====
+* {{l|fi|kardinaalilukusana}}</text>
+<sha1>n5qlkt3d5x3b7v3vdxedmlm2am8opos</sha1>
+</revision>
+</page>

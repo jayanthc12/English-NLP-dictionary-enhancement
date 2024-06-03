@@ -1,0 +1,23 @@
+<page>
+<title>xordu</title>
+<ns>0</ns>
+<id>3664384</id>
+<revision>
+<id>54971921</id>
+<parentid>43831929</parentid>
+<timestamp>2019-10-10T11:24:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="83" xml:space="preserve">==Asturian==
+===Adjective===
+{{ast-adj|xord}}
+# {{alternative form of|ast|sordu}}</text>
+<sha1>6eaelbkfdnb98ct55c4dc6vm9x83w5r</sha1>
+</revision>
+</page>

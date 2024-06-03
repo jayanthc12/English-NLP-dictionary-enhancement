@@ -1,0 +1,29 @@
+<page>
+<title>ydinvoimakeskustelu</title>
+<ns>0</ns>
+<id>4646813</id>
+<revision>
+<id>69318293</id>
+<parentid>52039627</parentid>
+<timestamp>2022-09-18T17:10:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="308" xml:space="preserve">==Finnish==
+{{wikipedia|Nuclear power debate}}
+===Etymology===
+{{compound|fi|ydinvoima|keskustelu|t1=nuclear power|t2=debate, discussion}}
+===Pronunciation===
+{{fi-p|ydin-voima/keskustelu}}
+===Noun===
+{{fi-noun}}
+# [[nuclear power]] [[debte]]
+====Declension====
+{{fi-decl-palvelu|ydinvoimakeskustelu|a}}</text>
+<sha1>p6vvzpqekagr6zm0yetkxl5s4a5ovrp</sha1>
+</revision>
+</page>

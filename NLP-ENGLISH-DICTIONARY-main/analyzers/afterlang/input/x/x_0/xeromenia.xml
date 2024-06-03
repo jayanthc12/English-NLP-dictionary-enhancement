@@ -1,0 +1,24 @@
+<page>
+<title>xeromenia</title>
+<ns>0</ns>
+<id>3779942</id>
+<revision>
+<id>69053670</id>
+<parentid>50202434</parentid>
+<timestamp>2022-09-03T05:59:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="178" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{lb|en|obsolete|pathology}} The absence of [[menses]] during a [[menstrual]] [[period]].
+[[Category:English terms prefixed with xero-]]</text>
+<sha1>k715mcv96dc5wmx79kzwxajnykldmem</sha1>
+</revision>
+</page>

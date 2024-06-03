@@ -1,0 +1,31 @@
+<page>
+<title>yellowmouth</title>
+<ns>0</ns>
+<id>4974996</id>
+<revision>
+<id>52043432</id>
+<parentid>38376889</parentid>
+<timestamp>2019-03-19T15:08:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="355" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yellow|mouth}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|zoology|in the names of [[fish]]es}} Having yellow markings around the mouth.
+====Derived terms====
+* {{l|en|yellowmouth barracuda}}
+* {{l|en|yellowmouth grouper}}
+* {{l|en|yellowmouth jawfish}}
+* {{l|en|yellowmouth moray}}
+* {{l|en|yellowmouth rockfish}}</text>
+<sha1>0nhi5odwsqgewrc07yv15isbcl5p86u</sha1>
+</revision>
+</page>

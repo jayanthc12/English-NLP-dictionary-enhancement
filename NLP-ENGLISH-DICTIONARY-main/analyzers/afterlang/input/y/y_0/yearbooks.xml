@@ -1,0 +1,26 @@
+<page>
+<title>yearbooks</title>
+<ns>0</ns>
+<id>717285</id>
+<revision>
+<id>55423269</id>
+<parentid>53092847</parentid>
+<timestamp>2019-10-15T00:13:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">{{also|year-books}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yearbook}}
+===Anagrams===
+* {{anagrams|en|a=abekoorsy|Saybrooke}}</text>
+<sha1>cfb78gcvit3mshc33h8l2efcpev3fnz</sha1>
+</revision>
+</page>

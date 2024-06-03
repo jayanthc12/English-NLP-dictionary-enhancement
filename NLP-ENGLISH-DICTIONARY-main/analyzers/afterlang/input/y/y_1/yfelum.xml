@@ -1,0 +1,25 @@
+<page>
+<title>yfelum</title>
+<ns>0</ns>
+<id>4584264</id>
+<revision>
+<id>57925053</id>
+<parentid>56323833</parentid>
+<timestamp>2019-11-01T16:02:59Z</timestamp>
+<contributor>
+<username>Erutuon</username>
+<id>156858</id>
+</contributor>
+<minor />
+<comment>replaced /v/ with /f/ and /ð/ with /θ/ in Old English phonemic transcriptions because voiced fricatives are allophones; [[WT:NORM|normalize]] if necessary (via JWB)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="144" xml:space="preserve">==Old English==
+===Pronunciation===
+* {{IPA|ang|/ˈyfelum/}}
+===Adjective===
+{{head|ang|adjective forms}}
+# {{inflection of|ang|yfel||dat|p}}</text>
+<sha1>qwt0m8qz3olkecxr1rmma9xya2achjf</sha1>
+</revision>
+</page>

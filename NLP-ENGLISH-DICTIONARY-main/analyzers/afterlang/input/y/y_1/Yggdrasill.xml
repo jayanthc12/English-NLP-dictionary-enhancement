@@ -1,0 +1,38 @@
+<page>
+<title>Yggdrasill</title>
+<ns>0</ns>
+<id>4775820</id>
+<revision>
+<id>69339097</id>
+<parentid>69339096</parentid>
+<timestamp>2022-09-20T19:55:16Z</timestamp>
+<contributor>
+<username>Eiliv</username>
+<id>3231768</id>
+</contributor>
+<minor />
+<comment>/* Descendants */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="796" xml:space="preserve">==English==
+===Proper noun===
+{{en-prop}}
+# {{alternative spelling of|en|Yggdrasil}}
+----
+==Old Norse==
+===Etymology===
+{{af|non|Yggr|drasill||t1=the terrifying one; Odin|t2=steed}}, where “steed” refers to a hanging tree or possibly from {{m|ine-pro|*dʰer-||to hold, support}}, in any case referring to the story of Odin hanging himself on the tree for nine nights.
+===Proper noun===
+{{non-proper noun|m}}
+# {{lb|non|Norse mythology}} The world tree in Norse mythology; {{l|en|Yggdrasil}}
+====Descendants====
+* {{desc|is|Yggdrasill|bor=1}}
+* {{desc|fo|Yggdrasil|bor=1}}
+* {{desc|nn|Yggdrasil|Yggdrasel|bor=1}}
+* {{desc|sv|Yggdrasil|bor=1}}
+* {{desc|da|Yggdrasil|bor=1}}
+===References===
+* Winterbourne, Anthony (2004): When the Norns Have Spoken: Time and Fate in Germanic Paganism</text>
+<sha1>495vhm597d26y28d1z80h9o9c6ixgcz</sha1>
+</revision>
+</page>

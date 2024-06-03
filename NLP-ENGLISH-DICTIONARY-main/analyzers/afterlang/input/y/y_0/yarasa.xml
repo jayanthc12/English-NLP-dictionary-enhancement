@@ -1,0 +1,44 @@
+<page>
+<title>yarasa</title>
+<ns>0</ns>
+<id>733241</id>
+<revision>
+<id>67246451</id>
+<parentid>67201648</parentid>
+<timestamp>2022-06-04T23:31:49Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="682" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јараса|r=yarasa|a=یاراسا}}
+===Etymology===
+From {{inh|az|trk-pro|[[*yar-]], [[*yer-]]}}.
+===Pronunciation===
+* {{IPA|az|[jɑrɑˈsɑ]}}
+* {{hyph|az|ya|ra|sa}}
+===Noun===
+{{az-noun}}
+# [[bat]] {{gl|winged mammal}}
+#: {{syn|az|şəbpərə|gecəquşu}} {{c|az|Mammals}}
+====Declension====
+{{az-decl-noun|a}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یراسه}}, from {{inh|tr|trk-pro|*jar-}}, {{m|trk-pro|*jer-||bat}}.
+===Pronunciation===
+* {{IPA|tr|[jaɾása]}}
+* {{hyph|tr|ya|ra|sa}}
+===Noun===
+{{tr-noun|yı|lar}}
+# [[bat]] {{gl|winged mammal}}
+====Declension====
+{{tr-infl-noun-v|a|poss=1|pred=1}}
+{{c|tr|Mammals}}</text>
+<sha1>9t69wm2v1z5j55zv107f17u3qtih87k</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yarri</title>
+<ns>0</ns>
+<id>6922774</id>
+<revision>
+<id>68863378</id>
+<parentid>54334254</parentid>
+<timestamp>2022-08-28T05:21:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="129" xml:space="preserve">==English==
+===Etymology===
+From Queensland Aboriginal Australian.
+===Noun===
+{{en-noun}}
+# {{synonym of|en|Queensland tiger}}</text>
+<sha1>bpbmwcg3vp6p009k35kkt6r1dc29p0o</sha1>
+</revision>
+</page>

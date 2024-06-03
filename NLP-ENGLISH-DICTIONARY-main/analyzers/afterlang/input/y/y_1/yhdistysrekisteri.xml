@@ -1,0 +1,29 @@
+<page>
+<title>yhdistysrekisteri</title>
+<ns>0</ns>
+<id>3687963</id>
+<revision>
+<id>69318380</id>
+<parentid>52023597</parentid>
+<timestamp>2022-09-18T17:15:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="465" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhdistys|rekisteri|gloss1=association|gloss2=register}}
+===Pronunciation===
+{{fi-p|yhdistys-rekisteri}}
+===Noun===
+{{fi-noun}}
+# [[register|Register]] [[association|of Associations]] {{gloss|government agency maintaining a register of associations that exist as [[legal person|legal persons]] separate of their members}}
+# the [[register]] thus maintained
+====Declension====
+{{fi-decl-paperi|n=sg|yhdistysrekister|ä}}</text>
+<sha1>fvqc8yjq1m4me3rf13myi4vyfvzgjgb</sha1>
+</revision>
+</page>

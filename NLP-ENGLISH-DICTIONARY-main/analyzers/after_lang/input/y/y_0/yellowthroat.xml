@@ -1,0 +1,44 @@
+<page>
+<title>yellowthroat</title>
+<ns>0</ns>
+<id>1219364</id>
+<revision>
+<id>67571681</id>
+<parentid>67224135</parentid>
+<timestamp>2022-06-28T14:30:34Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1304" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia}}
+===Etymology===
+[[bahuvrihi|Bahuvrihi]] compound of {{compound|en|yellow|throat}}
+===Noun===
+{{en-noun}}
+# Any of a mostly yellow-colored group of [[New World]] [[warbler]]s in the [[genus]] ''[[Geothlypis]]''
+====Derived terms====
+* {{vern|Altamira yellowthroat}}, {{taxlink|Geothlypis flavovelata|species|noshow=1}}
+* {{vern|Bahama yellowthroat}}, {{taxlink|Geothlypis rostrata|species|noshow=1}}
+* {{vern|Belding's yellowthroat}}, {{taxlink|Geothlypis beldingi|species|noshow=1}}
+* {{vern|black-polled yellowthroat}}, {{taxlink|Geothlypis speciosa|species|noshow=1}}
+* {{vern|common yellowthroat}}, {{taxlink|Geothlypis trichas|species|noshow=1}}
+* {{vern|gray-crowned yellowthroat}}, {{taxlink|Geothlypis poliocephala|species|noshow=1}}
+* {{vern|hooded yellowthroat}}, {{taxlink|Geothlypis nelsoni|species|noshow=1}}
+* {{vern|masked Yellowthroat}}, {{taxlink|Geothlypis aequinoctialis|species|noshow=1}}
+* {{vern|olive-crowned yellowthroat}}, {{taxlink|Geothlypis semiflava|species|noshow=1}}
+====Translations====
+{{trans-top|warbler of the genus ''Geothlypis''}}
+* Finnish: {{t+|fi|naamiokerttuli}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:English bahuvrihi compounds]]
+[[Category:en:New World warblers]]
+[[Category:English adjective-noun compound nouns]]</text>
+<sha1>5ba8lwunq7fja2vo8lt40n0d7t3gwie</sha1>
+</revision>
+</page>

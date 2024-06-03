@@ -1,0 +1,30 @@
+<page>
+<title>xylol</title>
+<ns>0</ns>
+<id>1253594</id>
+<revision>
+<id>64484562</id>
+<parentid>46271775</parentid>
+<timestamp>2021-10-29T03:36:01Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>French: Added &quot;Further reading&quot; section with TLFi link (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="138" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# [[xylene]]
+----
+==French==
+===Noun===
+{{fr-noun|m}}
+# xylol
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>8ep2s0c5onvhwuc2fn3yc1far7ujr4v</sha1>
+</revision>
+</page>

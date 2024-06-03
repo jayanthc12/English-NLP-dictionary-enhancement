@@ -1,0 +1,28 @@
+<page>
+<title>yeswoman</title>
+<ns>0</ns>
+<id>3666923</id>
+<revision>
+<id>68647479</id>
+<parentid>67374413</parentid>
+<timestamp>2022-08-16T07:08:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add categories en:Female people in new {{C}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="192" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yes|woman}}
+===Noun===
+{{en-noun|yeswomen}}
+# A [[female]] [[yes man]].
+===Anagrams===
+* {{anagrams|en|a=aemnoswy|yawnsome}}
+{{C|en|Female people}}</text>
+<sha1>c177u7ryhytpbntts247gsrt1r7z9jt</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xeado</title>
+<ns>0</ns>
+<id>1631286</id>
+<revision>
+<id>53342006</id>
+<parentid>50169473</parentid>
+<timestamp>2019-06-17T17:11:37Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==Galician==
+===Adjective===
+{{gl-adj|f=xeada}}
+# [[frozen]]; at the [[temperature]] of [[ice]]
+#: {{syn|gl|glacial}}
+===Noun===
+{{gl-noun|m}}
+# [[ice cream]], [[gelato]]
+===Related terms===
+{{rel3|gl
+|xeada
+|xelo
+|xeo}}
+[[Category:gl:Desserts]]</text>
+<sha1>duuniyi5t3cr752rohonil8ym6fn1nf</sha1>
+</revision>
+</page>

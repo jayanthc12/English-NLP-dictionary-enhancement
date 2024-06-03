@@ -1,0 +1,25 @@
+<page>
+<title>xerrats</title>
+<ns>0</ns>
+<id>6022681</id>
+<revision>
+<id>64460195</id>
+<parentid>54735186</parentid>
+<timestamp>2021-10-28T12:17:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ats|s=2}}
+===Verb===
+{{head|ca|past participle|g=m-p}}
+# {{ca-verb form of|g=mpl|m=ptc|t=past|xerrar}}</text>
+<sha1>nz5dfnstt8er0y85z8ussl7xg4bo63o</sha1>
+</revision>
+</page>

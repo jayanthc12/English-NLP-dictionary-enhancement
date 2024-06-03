@@ -1,0 +1,26 @@
+<page>
+<title>xineru</title>
+<ns>0</ns>
+<id>2463644</id>
+<revision>
+<id>65343866</id>
+<parentid>64036227</parentid>
+<timestamp>2022-01-15T03:09:03Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|roa-ole|jenero}}, {{m|roa-ole|jeneyro}}, from {{inh|ast|VL.|ienuārius}}, from {{inh|ast|la|iānuārius}}.
+===Noun===
+{{ast-noun|m|xineros}}
+# [[January]]
+===See also===
+* {{list:Gregorian calendar months/ast}}</text>
+<sha1>rejg5zwad9jgbmqibcwglkfoxi13icf</sha1>
+</revision>
+</page>

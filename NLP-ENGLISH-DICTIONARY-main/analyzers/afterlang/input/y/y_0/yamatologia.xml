@@ -1,0 +1,26 @@
+<page>
+<title>yamatologia</title>
+<ns>0</ns>
+<id>1682295</id>
+<revision>
+<id>62731392</id>
+<parentid>51867752</parentid>
+<timestamp>2021-06-12T07:45:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Convert synonyms in Italian subsection 4 to inline synonyms in subsection 3 based on synonyms with only one definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Italian==
+===Etymology===
+{{suffix|it|Yamato|logia}}
+===Noun===
+{{it-noun|f|yamatologie}}
+# [[Japanology]]
+#: {{syn|it|iamatologia}}</text>
+<sha1>qapiwswtbrg23omlx2hrx15kvbaephm</sha1>
+</revision>
+</page>

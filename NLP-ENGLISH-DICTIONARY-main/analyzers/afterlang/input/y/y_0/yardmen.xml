@@ -1,0 +1,29 @@
+<page>
+<title>yardmen</title>
+<ns>0</ns>
+<id>285450</id>
+<revision>
+<id>55318563</id>
+<parentid>53092745</parentid>
+<timestamp>2019-10-14T09:47:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{audio}}; move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="280" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/ˈjɑɹdmɛn/}}
+* {{audio|en|en-us-yardmen.ogg|Audio (US)}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yardman}}
+===Anagrams===
+* {{anagrams|en|a=ademnry|draymen|dynamer|meandry}}
+[[Category:English plurals ending in &quot;-en&quot;]]</text>
+<sha1>az30od8ro0v07tk780nz4mzj49gnrxm</sha1>
+</revision>
+</page>

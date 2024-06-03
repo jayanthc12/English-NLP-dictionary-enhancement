@@ -1,0 +1,25 @@
+<page>
+<title>yaguranage</title>
+<ns>0</ns>
+<id>258371</id>
+<revision>
+<id>49640096</id>
+<parentid>48026573</parentid>
+<timestamp>2018-06-04T04:39:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Remove withtext= from {{bor}}/{{borrowed}}/{{borrowing}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|櫓投げ}}, meaning ''[[inner]] [[thigh]] [[throw]]''.
+===Noun===
+{{en-noun|yaguranage}}
+# {{lb|en|sumo}} A [[kimarite]] in which the [[attacker]] pulls his opponent towards him, places his knee against his opponent's inner thigh and drives the leg upwards while forcing him over.</text>
+<sha1>1vlq0g7rnh5zeu9lj4wn6rsym65r9y7</sha1>
+</revision>
+</page>

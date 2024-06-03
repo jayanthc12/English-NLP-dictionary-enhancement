@@ -1,0 +1,58 @@
+<page>
+<title>xis</title>
+<ns>0</ns>
+<id>763235</id>
+<revision>
+<id>69232539</id>
+<parentid>69217357</parentid>
+<timestamp>2022-09-11T11:48:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (replace default plural 'xises' with '+', replace lemma-containing term 'xis' with '#'); replace {{pt-noun}} with new syntax (replace lemma-containing term 'xis' with '#') (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1062" xml:space="preserve">{{also|Xis|XIs}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xi}}
+===Anagrams===
+* {{anagrams|en|a=isx|ISX|Six|six}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|xi}}
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA}}
+* {{rhymes|pt|is|q1=Brazil|iʃ|q2=Portugal, Rio de Janeiro|s=1}}
+* {{hyphenation|pt|xis}}
+===Etymology 1===
+====Noun====
+{{pt-noun|m|#|pl2=+}}
+# [[ex]] {{gloss|name of the Latin letter X, x}}
+===Etymology 2===
+{{psm|pt|en|cheese}}
+====Interjection====
+{{pt-interj}}
+# {{lb|pt|Brazil|photography}} [[cheese]] {{gloss|said while being photographed}}
+===Etymology 3===
+Short for {{m|pt|xisbúrguer}} (borrowed from {{bor|pt|en|cheeseburger}}) and derived terms.
+====Noun====
+{{pt-noun|m|#}}
+# {{lb|pt|Brazil|informal}} [[burger]] {{gloss|large sandwich with a patty}}
+===Etymology 4===
+====Noun====
+{{pt-noun|m|#}}
+# {{lb|pt|figuratively}} [[main]] {{gloss|the main part of something}}
+=====Derived terms=====
+* {{l|pt|o xis da questão}}
+{{C|pt|Latin letter names|Sandwiches}}</text>
+<sha1>jmxq2wfrscj1gvxg1to2g81yfgboysh</sha1>
+</revision>
+</page>

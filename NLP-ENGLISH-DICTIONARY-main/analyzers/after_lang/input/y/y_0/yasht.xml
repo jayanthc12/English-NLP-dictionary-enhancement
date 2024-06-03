@@ -1,0 +1,32 @@
+<page>
+<title>yasht</title>
+<ns>0</ns>
+<id>6405350</id>
+<revision>
+<id>65631631</id>
+<parentid>61860853</parentid>
+<timestamp>2022-02-03T23:45:50Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="510" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|pal|yšt'|tr=yašt||prayer, worship}}, probably from {{der|en|ae|𐬫𐬀𐬱𐬙𐬀||honored}}, from {{m|ae|𐬫𐬀𐬰||to worship, honor}}, from {{der|en|ine-pro|*h₁yaǵ-}}.
+===Pronunciation===
+* {{IPA|en|/jæʃt/|/jʌʃt/}}
+* {{rhymes|en|æʃt|ʌʃt|s=1}}
+===Noun===
+{{en-noun}}
+# {{lb|en|Zoroastrianism}} Any of a collection of [[hymn]]s and [[prayer]]s.
+====Related terms====
+* {{l|en|yazata}}
+===Anagrams===
+* {{anagrams|en|a=ahsty|Hasty|hasty|sayth}}</text>
+<sha1>a4r9b4o13wati0ryirwkm0nfs9qy8c6</sha1>
+</revision>
+</page>

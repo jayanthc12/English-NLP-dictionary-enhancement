@@ -1,0 +1,38 @@
+<page>
+<title>xol</title>
+<ns>0</ns>
+<id>3320880</id>
+<revision>
+<id>69426836</id>
+<parentid>68805249</parentid>
+<timestamp>2022-10-02T22:46:05Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>moved categories to end of language, per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==Wolof==
+===Pronunciation===
+* {{audio|wo|Wo-xol.ogg|Audio}}
+===Verb===
+{{head|wo|verb}}
+# to [[nurse]] a [[child]] or [[patient]]
+===Noun===
+{{wo-noun|bi}}
+# [[heart]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=260
+|isbn=978-1-59703-017-5}}
+{{topics|wo|Anatomy}}</text>
+<sha1>mdpba1dncush2n737t1cjdvh1iy3pjk</sha1>
+</revision>
+</page>

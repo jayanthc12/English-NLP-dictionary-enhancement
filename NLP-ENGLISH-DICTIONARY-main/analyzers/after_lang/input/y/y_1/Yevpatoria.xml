@@ -1,0 +1,41 @@
+<page>
+<title>Yevpatoria</title>
+<ns>0</ns>
+<id>4372754</id>
+<revision>
+<id>69625091</id>
+<parentid>69625089</parentid>
+<timestamp>2022-10-31T01:15:12Z</timestamp>
+<contributor>
+<username>Diddy-sama6</username>
+<id>711136</id>
+</contributor>
+<comment>t+fr:[[Eupatoria]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="961" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|ru|Евпато́рия}}, from {{der|en|grc|Εὐπατορία}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|A &lt;&lt;resort city&gt;&gt; in &lt;&lt;pen/Crimea&gt;&gt;, internationally recognized as part of &lt;&lt;c/Ukraine&gt;&gt; but de facto in &lt;&lt;c/Russia&gt;&gt;}}. It is located on the Black Sea coast.
+====Translations====
+{{trans-top|resort city}}
+* Armenian: {{t+|hy|Եվպատորիա}}
+* Belarusian: {{t|be|Еўпаторыя}}
+* Crimean Tatar: {{t|crh|Kezlev}}
+* French: {{t+|fr|Eupatoria}}
+* Greek: {{t|el|Κερκινίτις|m}}, {{t|el|Ευπατορία|f}}
+*: Ancient Greek: {{t|grc|Εὐπατορία|f}}, {{t|grc|Κερκινίτις|m}}
+* Krymchak: {{t|jct|Кезлев}}
+{{trans-mid}}
+* Polish: {{t+|pl|Eupatoria|f}}
+* Russian: {{t+|ru|Евпато́рия|f}}
+* Tatar: {{t|tt|Кизләү}}
+* Turkish: {{t|tr|Gözleve}}
+* Ukrainian: {{t+|uk|Євпато́рія|f}}, {{t|uk|Ґьозлеве}}
+{{trans-bottom}}</text>
+<sha1>mexst59asntc9p6qf7ctz58y696vhp6</sha1>
+</revision>
+</page>

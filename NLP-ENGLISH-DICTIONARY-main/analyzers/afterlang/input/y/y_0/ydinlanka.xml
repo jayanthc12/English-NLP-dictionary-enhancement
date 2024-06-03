@@ -1,0 +1,28 @@
+<page>
+<title>ydinlanka</title>
+<ns>0</ns>
+<id>4647526</id>
+<revision>
+<id>69318203</id>
+<parentid>52039643</parentid>
+<timestamp>2022-09-18T17:05:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="400" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|lanka|t1=core|t2=thread}}
+===Pronunciation===
+{{fi-p|ydin-lanka}}
+===Noun===
+{{fi-noun}}
+# [[corespun thread]] {{gloss|type of sewing thread with multiple [[ply|plies]], each ply consisting of a strong - usually polyester - [[filament]] core with shorter finishing fibres wrapped around the core}}
+====Declension====
+{{fi-decl-kala|ydinla|nk|ng|a}}</text>
+<sha1>m1een3f8v4edeqy8qn5oyylilcvoug5</sha1>
+</revision>
+</page>

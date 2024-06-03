@@ -1,0 +1,36 @@
+<page>
+<title>ydy</title>
+<ns>0</ns>
+<id>3446077</id>
+<revision>
+<id>64460356</id>
+<parentid>64126170</parentid>
+<timestamp>2021-10-28T12:25:02Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="709" xml:space="preserve">==Welsh==
+===Alternative forms===
+* {{alter|cy|ydi|yw}}
+===Pronunciation===
+* {{a|cy-N|standard|colloquial}} {{IPA|cy|/ˈədɪ/}}
+** {{a|cy-N|colloquial}} {{IPA|cy|/ˈəndɪ/|/ndɪ/|[ˈn̩dɪ]|[ndɪ]}}
+* {{a|cy-S|standard|colloquial}} {{IPA|cy|/ˈədi/}}
+** {{a|cy-S|colloquial}} {{IPA|cy|/ˈɔdi/}}
+* {{rhymes|cy|ədɨ|s=2}}
+====Usage notes====
+Despite being written with a &quot;y&quot;, the final vowel here is pronounced [ɪ] in the north.
+===Verb===
+{{cy-verb form}}
+# {{inflection of|cy|bod||3|s|pres|indc}} {{qualifier|used in questions and responses}}
+#: {{ux|cy|&quot;'''Ydy''' Gwen yma?&quot; — &quot;'''Ydy'''.&quot;|t=&quot;'''Is''' Gwen here?&quot; — &quot;'''Yes, she is'''.&quot;}}
+====Related terms====
+* {{l|cy|mae}}
+* {{l|cy|sydd}}</text>
+<sha1>gnfhsrgiincpfyeou8l6jpferb615p6</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>xerophile</title>
+<ns>0</ns>
+<id>2151500</id>
+<revision>
+<id>69438490</id>
+<parentid>60597337</parentid>
+<timestamp>2022-10-03T13:45:38Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophile.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="391" xml:space="preserve">{{also|xérophile}}
+==English==
+===Etymology===
+{{confix|en|xero|phile}}
+===Noun===
+{{en-noun}}
+# Any [[xerophilic]] [[organism]].
+----
+==German==
+===Pronunciation===
+* {{audio|de|De-xerophile.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xerophil}}
+----
+==Latin==
+===Adjective===
+{{la-adj-form|xērophile}}
+# {{inflection of|la|xērophilus||voc|m|s}}</text>
+<sha1>361xxn3k7yqobvtyjjefwndxh5rlmmo</sha1>
+</revision>
+</page>

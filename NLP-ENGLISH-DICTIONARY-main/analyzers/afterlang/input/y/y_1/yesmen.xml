@@ -1,0 +1,26 @@
+<page>
+<title>yesmen</title>
+<ns>0</ns>
+<id>1865878</id>
+<revision>
+<id>55774472</id>
+<parentid>53093110</parentid>
+<timestamp>2019-10-16T02:07:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">{{also|yes-men|yes men}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yesman}}
+===Anagrams===
+* {{anagrams|en|a=eemnsy|semeny}}</text>
+<sha1>72auw1ztpoj9wbhcjreb54b810v7tzk</sha1>
+</revision>
+</page>

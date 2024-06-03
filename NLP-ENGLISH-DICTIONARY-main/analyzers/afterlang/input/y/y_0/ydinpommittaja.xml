@@ -1,0 +1,28 @@
+<page>
+<title>ydinpommittaja</title>
+<ns>0</ns>
+<id>1151666</id>
+<revision>
+<id>69318230</id>
+<parentid>52001716</parentid>
+<timestamp>2022-09-18T17:07:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|pommittaja}}
+===Pronunciation===
+{{fi-p|ydin-pommittaja}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear bomber]]
+====Declension====
+{{fi-decl-koira|ydinpommittaj|||a}}</text>
+<sha1>4wyc2i9a7m89omycnhm9o3zr3ik317g</sha1>
+</revision>
+</page>

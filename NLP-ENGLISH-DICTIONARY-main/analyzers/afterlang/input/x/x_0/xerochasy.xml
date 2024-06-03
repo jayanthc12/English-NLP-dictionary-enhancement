@@ -1,0 +1,26 @@
+<page>
+<title>xerochasy</title>
+<ns>0</ns>
+<id>4481640</id>
+<revision>
+<id>69055114</id>
+<parentid>52838779</parentid>
+<timestamp>2022-09-03T06:14:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{lb|en|biology}} [[dehiscence]] that occurs upon [[dry]]ing
+====Related terms====
+* [[xerochastic]]
+[[Category:English terms prefixed with xero-]]</text>
+<sha1>n96ug3u0lz3bh9ynj6ya73hcmq0nd2m</sha1>
+</revision>
+</page>

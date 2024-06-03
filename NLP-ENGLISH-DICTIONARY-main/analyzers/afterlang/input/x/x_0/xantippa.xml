@@ -1,0 +1,29 @@
+<page>
+<title>xantippa</title>
+<ns>0</ns>
+<id>1975748</id>
+<revision>
+<id>60969225</id>
+<parentid>48007061</parentid>
+<timestamp>2020-10-28T09:39:12Z</timestamp>
+<contributor>
+<username>Lundgren8</username>
+<id>159982</id>
+</contributor>
+<comment>/* Swedish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Swedish==
+{{wikipedia|lang=sv}}
+===Etymology===
+Borrowed from {{bor|sv|grc|Ξανθίππη}}.
+===Pronunciation===
+*{{IPA|sv|/ksan²tɪpa/}}
+===Noun===
+{{sv-noun|c}}
+# [[Xanthippe]] (ill-tempered woman)
+====Declension====
+{{sv-infl-noun-c-or|xantipp}}</text>
+<sha1>q8jvxrqa9t5swl3f9n8fbv6q1w3ux71</sha1>
+</revision>
+</page>

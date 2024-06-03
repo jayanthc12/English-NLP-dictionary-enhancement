@@ -1,0 +1,26 @@
+<page>
+<title>Xudit</title>
+<ns>0</ns>
+<id>7339480</id>
+<revision>
+<id>68737374</id>
+<parentid>61248531</parentid>
+<timestamp>2022-08-26T07:19:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|gl}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|Xudite}}
+===Proper noun===
+{{head|gl|proper noun}}
+# {{lb|gl|biblical character}} [[Judith]].
+# {{given name|gl|female}}</text>
+<sha1>k2ezacflbecj5mdnbxeykq8wewu06qf</sha1>
+</revision>
+</page>

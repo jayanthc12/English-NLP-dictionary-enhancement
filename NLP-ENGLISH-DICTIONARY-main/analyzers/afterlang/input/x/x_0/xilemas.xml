@@ -1,0 +1,28 @@
+<page>
+<title>xilemas</title>
+<ns>0</ns>
+<id>4683475</id>
+<revision>
+<id>62205804</id>
+<parentid>61535352</parentid>
+<timestamp>2021-03-20T15:53:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Spanish 'noun plural form' -&gt; 'noun form' (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==Portuguese==
+===Noun===
+{{head|pt|noun form}}
+# {{plural of|pt|xilema}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{inflection of|es|xilema||p}}</text>
+<sha1>rds7a4pqzexc2fnpdb7idvwkcjuo9bd</sha1>
+</revision>
+</page>

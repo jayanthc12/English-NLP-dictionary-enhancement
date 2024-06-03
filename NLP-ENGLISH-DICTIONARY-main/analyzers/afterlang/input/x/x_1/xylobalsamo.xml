@@ -1,0 +1,23 @@
+<page>
+<title>xylobalsamo</title>
+<ns>0</ns>
+<id>2917137</id>
+<revision>
+<id>66995358</id>
+<parentid>57551968</parentid>
+<timestamp>2022-05-15T09:47:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xylobalsamum}}; combine {{inflection of|la|xylobalsamum}} tag sets dat|s and abl|s into dat//abl|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xylobalsamō}}
+# {{inflection of|la|xylobalsamum||dat//abl|s}}</text>
+<sha1>7j7da9ev9qha4633r249nnb1lmq7i08</sha1>
+</revision>
+</page>

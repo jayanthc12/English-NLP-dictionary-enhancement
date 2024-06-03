@@ -1,0 +1,27 @@
+<page>
+<title>yalhua</title>
+<ns>0</ns>
+<id>1138399</id>
+<revision>
+<id>55524366</id>
+<parentid>47663413</parentid>
+<timestamp>2019-10-15T05:02:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="368" xml:space="preserve">==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/jaːlwa/}}
+===Adverb===
+{{head|nci|adverb|head=yālhua}}
+# [[yesterday|Yesterday]].
+#* '''1555:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aqui comienca un vocabulario en la lengua castellana y mexicana|Aqui comienca un vocabulario en la lengua castellana y mexicana]]'', f. 12v.
+#*: Ayer. '''yalhua'''.</text>
+<sha1>ggpw5oqcuvt7kxovduzd0wpdgw0km3y</sha1>
+</revision>
+</page>

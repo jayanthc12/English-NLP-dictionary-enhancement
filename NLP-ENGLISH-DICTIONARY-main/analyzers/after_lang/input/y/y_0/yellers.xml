@@ -1,0 +1,25 @@
+<page>
+<title>yellers</title>
+<ns>0</ns>
+<id>852056</id>
+<revision>
+<id>55457043</id>
+<parentid>53092905</parentid>
+<timestamp>2019-10-15T01:55:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yeller}}
+===Anagrams===
+* {{anagrams|en|a=eellrsy|Seyller|sellery}}</text>
+<sha1>rwts9xxfuthhx1knh4b7xdvqifb0ypw</sha1>
+</revision>
+</page>

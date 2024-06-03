@@ -1,0 +1,26 @@
+<page>
+<title>yapmaz</title>
+<ns>0</ns>
+<id>3731899</id>
+<revision>
+<id>67659210</id>
+<parentid>67651554</parentid>
+<timestamp>2022-07-06T15:53:15Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert aorist forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|/japˈmaz/}}
+* {{hyphenation|tr|yap|maz}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yapmak}}</text>
+<sha1>sbxaqkiqm3jqh2p1l7qkwhyh868crsf</sha1>
+</revision>
+</page>

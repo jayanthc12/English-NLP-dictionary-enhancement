@@ -1,0 +1,32 @@
+<page>
+<title>xystra</title>
+<ns>0</ns>
+<id>6107485</id>
+<revision>
+<id>53816489</id>
+<parentid>53646673</parentid>
+<timestamp>2019-08-04T12:09:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Latin==
+===Etymology===
+Borrowed from {{bor|la|grc|ξύστρα}}.
+===Pronunciation===
+* {{la-IPA}}
+===Noun===
+{{la-noun|xystra&lt;1&gt;}}
+# A [[currycomb]]
+====Declension====
+{{la-ndecl|xystra&lt;1&gt;}}
+===References===
+* {{R:Gaffiot}}
+[[Category:la:Tools]]</text>
+<sha1>2xn95e4oqmywiv6jt93yfp8tsfgbnwx</sha1>
+</revision>
+</page>

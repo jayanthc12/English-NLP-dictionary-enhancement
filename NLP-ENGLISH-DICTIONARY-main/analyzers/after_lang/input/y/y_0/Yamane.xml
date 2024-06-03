@@ -1,0 +1,53 @@
+<page>
+<title>Yamane</title>
+<ns>0</ns>
+<id>5072543</id>
+<revision>
+<id>68732230</id>
+<parentid>67786069</parentid>
+<timestamp>2022-08-26T06:32:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|pt}} line; remove final dot from non-English {{surname|tl}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1051" xml:space="preserve">==English==
+{{wp|Yamane (surname)}}
+===Etymology===
+Borrowed from {{bor|en|ja|山根|tr=Yamane}}.
+===Proper noun===
+{{en-proper noun|Yamanes}}
+# {{surname|en|from=Japanese}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yamane'' is the 23785&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1063 individuals. ''Yamane'' is most common among Asian/Pacific Islander (74.41%) and Mixed Race (13.92%) individuals.
+===Further reading===
+* {{R:en:DAFN}}
+===Anagrams===
+* {{anagrams|en|a=aaemny|aye man}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまね}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|山根|tr=Yamane}}.
+===Proper noun===
+{{pt-proper noun|m|g2=f}}
+# {{surname|pt|from=Japanese}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{bor|tl|ja|山根|tr=Yamane}}.
+===Proper noun===
+{{tl-proper noun}}
+#{{surname|tl|Filipino-Japanese|from=Japanese}}
+===Statistics===
+{{surname-philippines-forebears|name=Yamane|rank=34,535|count=323}}</text>
+<sha1>eylvfz9vrsgf793eaj586x4tsim4jvd</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>yamutmot</title>
+<ns>0</ns>
+<id>5698453</id>
+<revision>
+<id>56411309</id>
+<parentid>44523410</parentid>
+<timestamp>2019-10-18T01:30:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="152" xml:space="preserve">==Tagalog==
+===Pronunciation===
+* {{IPA|tl|/ja.mut.ˈmot/}}
+===Noun===
+{{tl-noun|yamutmót}}
+# [[rubbish]]; [[refuse]]
+# loose, frayed ends of thread</text>
+<sha1>k0hik4u4umshfbipej70gu3pv8sigmj</sha1>
+</revision>
+</page>

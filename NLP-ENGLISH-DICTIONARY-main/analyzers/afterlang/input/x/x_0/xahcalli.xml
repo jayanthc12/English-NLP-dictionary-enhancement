@@ -1,0 +1,43 @@
+<page>
+<title>xahcalli</title>
+<ns>0</ns>
+<id>476877</id>
+<revision>
+<id>65321318</id>
+<parentid>63198662</parentid>
+<timestamp>2022-01-12T05:48:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Nahuatl: correct misformatted language section divider at end; Central Nahuatl: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="954" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Tlaxcala}} {{l|nhn|xajkal}}
+===Noun===
+{{head|nhn|noun}}
+# [[hut]].
+[[Category:Amecameca Central Nahuatl]]
+{{c|nhn|Architecture}}
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xacalli}}
+===Etymology===
+Possibly ''*xahtli'' &quot;thatch (?)&quot; + '''[[calli#Classical_Nahuatl|calli]]''' &quot;house&quot;.
+''Xahcalli'' is the source of Spanish and English ''[[jacal]]'', and possibly of English ''[[shack]]''.
+===Pronunciation===
+* {{IPA|nci|/ʃaʔkalli/}}
+===Noun===
+{{head|nci|nouns}}
+# A [[jacal]]; a [[hut]] made with [[pole]]s and [[thatch]].
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', Univeristy of Oklahoma Press, p. 263.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 321.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.</text>
+<sha1>8cz8foim3lq2pvgd2mk5oee7puniya7</sha1>
+</revision>
+</page>

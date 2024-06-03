@@ -1,0 +1,51 @@
+<page>
+<title>xenofobe</title>
+<ns>0</ns>
+<id>1189079</id>
+<revision>
+<id>68562549</id>
+<parentid>67939997</parentid>
+<timestamp>2022-08-08T06:45:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up broken Italian adjective form headwords (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3097" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|nl|xenofoob}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|NNSE}} {{missp|en|xenophobe}}
+#* {{quote-newsgroup|en|author=Henk Senster|title=I would like to know|newsgroup=pl.soc.polityka|url=https://groups.google.com/g/pl.soc.polityka/c/xc_DnPGp9K8/m/BpZNRJ0kv4QJ|accessdate=2022-06-08|date=Feb 10, 2003|passage=Another one in this thread called us the most racial mixed nation of the world cause he saw three or four coloured players in our national footballteam. And you call us '''xenofobes''' probably cause I was a little to disappointed and sarcastically about the support of the Polish Government for the USA and against the 'old Europe'. Ce que la vérité?}}
+#* {{quote-newsgroup|en|author=Ioannis Borbelis|title=Alexander Writes to the Persian King, Darius|newsgroup=alt.news.macedonia|url=https://groups.google.com/g/alt.news.macedonia/c/NprB1Hzf8-E/m/pBwRUdGjtOIJ|accessdate=2022-06-08|date=Jan 31, 2005|passage=But yeah, I know... we have our fair share of '''xenofobes''' and down right idiots to show for it as well... Let's call those the &quot;bad&quot; genes then, shall we ? :-)}}
+#* {{quote-newsgroup|en|author=Ron van Sommeren|title=instructive pictures of all winding diagrams|newsgroup=pl.rec.modelarstwo|url=https://groups.google.com/g/pl.rec.modelarstwo/c/thcE3y0LwxI/m/ljx4cjaCuG4J|accessdate=2022-06-08|date=Oct 7, 2005|passage=You'll find silly '''xenofobes''' in every country, alas :-(}}
+#* {{quote-newsgroup|en|author=Peter Martel|title=Shhh....don't say Islam is the problem...|newsgroup=misc.immigration.canada|url=https://groups.google.com/g/misc.immigration.canada/c/AfdysmWaLqU/m/lKmQNWpWd6cJ|accessdate=2022-06-08|date=Nov 3, 2005|passage=One year after Theo van Gogh was murdered we are forced to acknowledge that that event has been a benefit to Islam. Anyone who is critical of Islam will still be branded as a &quot;'''xenofobe'''&quot; or an &quot;Islamofobe.&quot; Islamophobia is a newly coined word which has already been used by Kofi Annan.}}
+#* {{quote-newsgroup|en|author=regn.pickford|title=Xenophobes lament|newsgroup=aus.politics|url=https://groups.google.com/g/aus.politics/c/SJ67KQ9okKE/m/9p50v5XJkUgJ|accessdate=2022-06-08|date=Apr 25, 2009|passage=I'm not sure how your neo nasties, '''xenofobes''' or nationalists take it but from what I see the author would have likely supported the White Australia Policy.}}
+#* {{quote-newsgroup|en|author=Heinrich|title=Speech Geert Wilders in Turin|newsgroup=alt.france|url=https://groups.google.com/g/alt.france/c/wIyPWLFbFUs/m/OIq-zwgo3b0J|accessdate=2022-06-08|date=Dec 17, 2013|passage=We are no extremist, no racist, no '''xenofobes''', we are true patriots.}}
+====Related terms====
+* {{l|en|xenofobia}}
+{{c|en|People}}
+----
+==Czech==
+===Pronunciation===
+* {{cs-IPA}}
+* {{rhymes|cs|obɛ|s=4}}
+* {{hyphenation|cs|xe|no|fo|be}}
+===Noun===
+{{head|cs|noun form}}
+# {{inflection of|cs|xenofob||voc|s}}
+----
+==Italian==
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+# {{adj form of|it|xenofobo||f|p}}
+===Noun===
+{{head|it|noun form|g=f-p}}
+# {{feminine plural of|it|xenofobo}}</text>
+<sha1>c5q4mtm9llgfu9ax2dcs59ze8qdzr2l</sha1>
+</revision>
+</page>

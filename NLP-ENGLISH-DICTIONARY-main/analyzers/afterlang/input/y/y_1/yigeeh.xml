@@ -1,0 +1,40 @@
+<page>
+<title>yigeeh</title>
+<ns>0</ns>
+<id>4526538</id>
+<revision>
+<id>69320043</id>
+<parentid>46217038</parentid>
+<timestamp>2022-09-18T18:43:09Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="794" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|y-peg|3s|∅}} {{nv-link-to-stem|-geeh|conclusive imperfective}} {{nv-link-to-root|-GOʼ|AnO falls|an animate object falls}}.
+===Verb===
+{{head|nv|verb}}
+# he/she is [[fall#Verb|falling]]
+====Conjugation====
+{{nv-paradigm|momentaneous|∅/yi|da}}.
+{{nv-verbtable|IMPERFECTIVE
+|yishgeeh|yiigeeh|deiigeeh|nigeeh|wohgeeh|daahgeeh|yigeeh|daageeh|jigeeh|dajigeeh}}
+{{nv-verbtable|PERFECTIVE
+|yígoʼ|yiigoʼ|dasiigoʼ|yínígoʼ|woogoʼ|dasoogoʼ|yígoʼ|daazgoʼ|jíígoʼ|dajizgoʼ}}
+{{nv-verbtable|FUTURE
+|deeshgoh|diigoh|dadiigoh|díígoh|doohgoh|dadoohgoh|doogoh|dadoogoh|jidoogoh|dazhdoogoh}}
+====Verbal stems====
+* IMPERFECTIVE: -geeh
+* PERFECTIVE: -goʼ
+* FUTURE: -goh
+* ITERATIVE: -goh
+* OPTATIVE: -geeh
+====Related terms====
+* {{l|nv|digeeh}}</text>
+<sha1>48sct3iwg9ulzz93k1gxk4mw8mgj115</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhteensattuma</title>
+<ns>0</ns>
+<id>1129714</id>
+<revision>
+<id>69318417</id>
+<parentid>59682847</parentid>
+<timestamp>2022-09-18T17:17:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="204" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteen|sattuma}}
+===Pronunciation===
+{{fi-p|yhteen-sattuma}}
+===Noun===
+{{head|fi|noun}}
+# [[coincidence]]
+====Declension====
+{{fi-decl-koira|yhteensattum|||a}}</text>
+<sha1>pdevsovhx0rp5z5z7y1q9ii31rgc25b</sha1>
+</revision>
+</page>

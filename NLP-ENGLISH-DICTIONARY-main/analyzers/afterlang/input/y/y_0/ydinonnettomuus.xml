@@ -1,0 +1,28 @@
+<page>
+<title>ydinonnettomuus</title>
+<ns>0</ns>
+<id>748455</id>
+<revision>
+<id>69318217</id>
+<parentid>51994831</parentid>
+<timestamp>2022-09-18T17:06:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|onnettomuus}}
+===Pronunciation===
+{{fi-p|ydin-onnettomuus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[accident]], nuclear [[disaster]]
+====Declension====
+{{fi-decl-kalleus|ydinonnettomuu|a}}</text>
+<sha1>23tsslg7ctyuyu40k275jgoqkp0kped</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>ycpitl</title>
+<ns>0</ns>
+<id>1085114</id>
+<revision>
+<id>54604530</id>
+<parentid>29233827</parentid>
+<timestamp>2019-10-03T04:49:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{nci-noun}}
+# {{obsolete spelling of|nci|icpitl}}</text>
+<sha1>nkzwi84ngq4f12eh8m1eah33dgasfj3</sha1>
+</revision>
+</page>

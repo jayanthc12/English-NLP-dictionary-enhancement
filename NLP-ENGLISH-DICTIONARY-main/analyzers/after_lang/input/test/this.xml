@@ -1,0 +1,567 @@
+<page>
+<title>this</title>
+<ns>0</ns>
+<id>3974</id>
+<revision>
+<id>69637328</id>
+<parentid>69425033</parentid>
+<timestamp>2022-11-01T20:59:43Z</timestamp>
+<contributor>
+<username>Ri132</username>
+<id>3977588</id>
+</contributor>
+<comment>t+bho:[[ई]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="26312" xml:space="preserve">{{also|This|thîs|þis}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{inh|en|enm|this}}, from {{inh|en|ang|þis}} (neuter demonstrative), from North Sea Germanic base *þa- &quot;that&quot;, from {{der|en|gem-pro|*þat}}, from {{der|en|ine-pro|*tód}}, extended form of demonstrative base {{m|ine-pro|*to-}}; + North-West Germanic definitive suffix '''-s''', from {{der|en|ine-pro|*só||this, that}}.
+Cognate with {{cog|sco|this||this}}, {{cog|stq|dusse||this}}, {{cog|fy|dizze||this}}, {{cog|de|dies}}, {{m|de|dieses||this}}, {{cog|non-ogt|þissi||this}}.
+===Pronunciation===
+* {{enPR|''th''ĭs|''th''əs}}, {{IPA|en|/ðɪs/|/ðəs/}}
+* {{audio|en|en-us-this.ogg|Audio (US)}}
+* {{audio|en|LL-Q1860 (eng)-Back ache-this.wav|Audio (UK male)}}
+* {{rhymes|en|ɪs|s=1}}
+===Determiner===
+{{head|en|determiner|plural|these}}
+# The (thing) here {{qualifier|used in indicating something or someone nearby}}.
+#: {{ux|en|'''This''' classroom is where I learned to read and write.}}
+# The known (thing) {{qualifier|used in indicating something or someone just mentioned}}.
+#: {{ux|en|They give the appearance of knowing what they're doing. It's '''this''' appearance that lets them get away with so much.}}
+# The known (thing) {{qualifier|used in indicating something or someone about to be mentioned}}.
+#: {{ux|en|When asked what he wanted for his birthday, he gave '''this''' reply: “[…]”}}
+# {{lb|en|informal}} A known (thing) {{qualifier|used in first mentioning a person or thing that the speaker does not think is known to the audience}}. Compare with &quot;''a [[certain#Determiner|certain]] ...''&quot;.
+#: {{ux|en|I met '''this''' woman the other day who's allergic to wheat. I didn't even know that was possible!}}
+#: {{ux|en|There's just '''this''' nervous mannerism that Bob has with his hands, and it drives me crazy.}}
+# {{lb|en|of a time reference}} {{n-g|Designates the current or next instance.}}
+#: {{cot|en|next}}
+#: {{ux|en|It's cold '''this''' morning.}}
+#: {{ux|en|I plan to go to London '''this''' Friday.}}
+====Related terms====
+* {{l|en|that}}, {{l|en|these}}, {{l|en|those}}
+====Derived terms====
+* {{l|en|thisness}}
+* {{l|en|this, that, and the other}}
+====Translations====
+{{trans-top|the (thing) here}}
+* Afrikaans: {{t+|af|dit}}
+* Albanian: {{t+|sq|ky|m}}, {{t+|sq|kjo|f}}
+* Apache:
+*: Western Apache: {{t|apw|dii}}
+* Arabic: {{t+|ar|هٰذَا|m}}, {{t|ar|هٰذِهِ|f}}, {{t|ar|هٰذَانِ|m-d}}, {{t|ar|هَاتَانِ|f-d}}, {{t|ar|هٰؤُلَاءِ|p}}
+*: Egyptian Arabic: {{t|arz|ده|m|tr=da}}, {{t|arz|دي|f|tr=di}}, {{t|arz|دول|p|tr=dūl}}
+*: Moroccan Arabic: {{t|ary|هاد|tr=hād}}
+*: Tunisian Arabic: {{t|aeb|هاذ|tr=hāḏ}}
+*: South Levantine Arabic: {{t|ajp|هاد|m|tr=hād}}, {{t|ajp|هادا|m|tr=hāda}}, {{t|ajp|هادي|f|tr=hādi}}, {{t|ajp|هاي|f|tr=hāy}}, {{t|ajp|هدول|p|tr=hadōl}}
+* Aramaic:
+*: Assyrian Neo-Aramaic: {{t|aii|ܐܘܐ|tr=ʾawwā, ʾāwā|m}}, {{t|aii|ܐܝܐ|tr=ʾayyā, ʾāyā|f}}, {{t|aii|ܐܗܐ|tr=ʾāhā|c}}
+*: Classical Syriac: {{t|syc|ܗܢܐ|tr=hānā|m}}, {{t|syc|ܗܕܐ|tr=hāḏē|f}}
+*: Jewish Aramaic: {{t|arc|הנא|tr=hānā|m}}, {{t|arc|הדא|tr=hāḏē|f}}
+* Armenian: {{t+|hy|այս}}
+* Aromanian: {{t|rup|aistu}}, {{t|rup|aestu}}
+* Ashkun: {{t|ask|iāk}}
+* Asturian: {{t+|ast|esti|m}}, {{t+|ast|esta|f}}
+* Azerbaijani: {{t+|az|bu}}
+* Bashkir: {{t|ba|был}}, {{t|ba|ошо}}
+* Belarusian: {{t+|be|гэ́ты|m}}, {{t|be|гэ́тая|f}}, {{t+|be|гэ́та|n}}, {{t|be|гэ́тыя|p}}
+* Bengali: {{qualifier|adjective}} {{t+|bn|এই}}, {{qualifier|pronoun|informal}} {{t|bn|এইটা}}, {{t|bn|এটা}}, {{qualifier|pronoun|formal}} {{t|bn|এইটি}}, {{t|bn|এটি}}
+* Bhojpuri: {{t|bho|ई}}
+* Bikol Central: {{t+|bcl|ini}}
+* Bulgarian: {{t|bg|то́зи}}, {{t|bg|та́зи|f}}, {{t|bg|това́|n}}, {{t+|bg|те́зи|p}}
+* Burmese: {{t+|my|ဟောဒီ}}, {{t+|my|အနှီ}}
+* Buryat: {{t|bua|энэ}}
+* Catalan: {{t+|ca|aquest|m}}, {{t+|ca|aquesta|f}}, {{t+|ca|est}}, {{t+|ca|este}}
+* Cebuano: {{qualifier|closer to the speaker}} {{t|ceb|kari}}, {{qualifier|close to both listener and speaker}} {{t|ceb|kani}}
+* Chamicuro: {{t|ccc|ana'ye}}
+* Chechen: {{t|ce|хӏара}}
+* Cherokee: {{t|chr|ᎯᎠ}}
+* Chinese:
+*: Cantonese: {{t|yue|這}}, {{t+|yue|这|tr=ze5}} {{qualifier|literary}}, {{t+|yue|呢|tr=ni1}} {{qualifier|vernacular}}, {{t|yue|此|tr=chi2}} {{qualifier|vernacular or classical}}
+*: Dungan: {{t|dng|җы}}
+*: Hakka: {{t|hak|這}}, {{t|hak|这|tr=ché}}
+*: Mandarin: {{t+|cmn|這}}, {{t+|cmn|这|tr=zhè, zhèi}}, {{t+|cmn|此|tr=cǐ}} {{qualifier|literary, classical}}
+*: Min Dong: {{t|cdo|之|tr=cĭ}}, {{t|cdo|茲}}, {{t|cdo|兹|tr=cī}}
+*: Wu: {{t|wuu|搿|tr=geq}}
+* Classical Nahuatl: {{t|nci|inin}}
+* Cree:
+*: Plains Cree: {{t|crk|awa|an-s}}, {{t|crk|ôki|an-p}}, {{t|crk|ôma|in-s}}, {{t|crk|ôhi|in-p}}
+* Czech: {{t+|cs|tento|m}}, {{t+|cs|tato|f}}, {{t+|cs|toto|n}}
+* Danish: {{t+|da|denne|c}}, {{t+|da|dette|n}}
+* Dhivehi: {{t|dv|މި}}
+* Dolgan: {{t|dlg|бу|tr=bu}}
+* Dutch: {{t+|nl|deze|m|f|p}}, {{t+|nl|dit|n}}
+* Emilian: {{t|egl|sté}}
+* Esperanto: {{t|eo|ĉi tiu}}, {{t|eo|tiu ĉi}}
+* Estonian: {{t+|et|see}}
+* Extremaduran: {{t|ext|esti}}
+* Faroese: {{t+|fo|hesin|m}}, {{t+|fo|henda|f}}, {{t|fo|hetta|n}}
+* Finnish: {{t+|fi|tämä}}
+* French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}, {{t|fr|[[ce]] ... [[ci]]|m}}, {{t|fr|[[cette]] ... [[ci]]|f}}
+*: Old French: {{t|fro|cist}}, {{t|fro|cest}}, {{t|fro|cestui}}
+* Friulian: {{t|fur|chest}}
+* Galician: {{t+|gl|este|m}}
+* Georgian: {{t+|ka|ის}}, {{t|ka|ეს}}
+* German: {{t+|de|dieser}}
+* Gothic: {{t|got|𐌷𐌹𐌽𐌰}}
+* Greek: {{t+|el|αυτός|m}}, {{t+|el|τούτος|m}} {{qualifier|colloquial}}, {{t+|el|ετούτος|m}} {{qualifier|colloquial}}
+*: Ancient: {{t|grc|οὗτος|m}}, {{t|grc|αὕτη|f}}, {{t|grc|τοῦτο|n}}; {{t|grc|ὅδε|m}}, {{t|grc|ἥδε|f}}, {{t|grc|τόδε|n}}
+* Greenlandic: {{t|kl|manna}}, {{t|kl|matuma}}
+* Hausa: {{t|ha|wannan}}
+* Hawaiian: {{t|haw|kēia}}
+* Hebrew: {{t+|he|זֶה|m|tr=ze}}, {{t+|he|זֹאת|f|tr=zot}}, {{t+|he|זוֹ|f|tr=zo}}
+* Hindi: {{t+|hi|यह}}, {{t+|hi|इस}}
+* Hopi: {{t|hop|iˈ}}
+* Hungarian: {{t+|hu|ez}} {{q|followed by the article {{m|hu|[[a]]/[[az]]}}}}
+* Icelandic: {{t+|is|þessi|m|f}}, {{t+|is|þetta|n}}
+* Ido: {{t+|io|ico}}
+* Indonesian: {{t+|id|ini}}
+* Ingrian: {{t|izh|tämä}}
+* Interlingua: {{t+|ia|iste}}
+* Irish: {{t|ga|seo}}
+*: Old Irish: {{t|sga|so}}
+* Istriot: {{t|ist|quisto|m}}, {{t|ist|quista|f}}, {{t|ist|sto|m}}, {{t|ist|stu|m}}, {{t|ist|sta|f}}
+* Italian: {{t+|it|questo|m}}, {{t+|it|questa|f}}, {{t+|it|sto|m}}, {{t+|it|sta|f}}
+* Japanese: {{t+|ja|この|tr=kono}}
+* Javanese: {{t+|jv|iki}}
+* Kalmyk: {{t|xal|эн}}
+* Kamkata-viri: {{t|bsh|ina}}
+* Kannada: {{t+|kn|ಇವನು|m}}, {{t+|kn|ಇವ|m}}, {{t+|kn|ಇವಳು|f}}, {{t+|kn|ಇದು|n}}
+* Kapampangan: {{t|pam|ini}}
+* Karakhanid: {{t|xqa|بُو|tr=bū}}
+* Kashubian: {{t|csb|ten}}
+* Kazakh: {{t+|kk|бұл}}
+* Khakas: {{t|kjh|пу}}
+* Khmer: {{t+|km|នេះ|tr=nih}}
+* Kikai: {{t|kzg|ふり|tr=furi}}
+* Kongo: {{t|kg|yayi}}
+* Korean: {{t+|ko|이}}, {{t+|ko|이것}}
+* Kunigami: {{t|xug|ふりー|tr=furī}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ئەم ...ە}}
+* Kyrgyz: {{t+|ky|бул}}
+* Ladin: {{t|lld|chest}}
+* Lakota: {{t|lkt|le|s}}, {{t|lkt|lena|p}}
+* Lao: {{t|lo|ນີ້}}
+* Latgalian: {{t|ltg|itys|m}}, {{t|ltg|itei|f}}
+* Latin: {{t+|la|hīc}}, {{t+|la|is}}
+* Latvian: {{t+|lv|šis|m}}, {{t+|lv|šī|f}}, {{t|lv|šie|m-p}}, {{t+|lv|šīs}}, {{t|lv|šās|f-p}}
+* Ligurian: {{t|lij|quésto}}, {{t|lij|sto}}
+* Lithuanian: {{t|lt|šis|m}}, {{t|lt|ši|f}}, {{t|lt|šitas|m}}, {{t|lt|šita|f}}
+* Low German: {{t|nds|disse}}, {{t|nds|düsse}} {{q|(also) Altmärkisch|Münsterländisch|Paderbornisch}}, {{t|nds|düse}} {{q|(also) Sauerländisch}}, {{t|nds|düße}} {{q|Paderbornisch}}
+*: Middle Low German: {{t|gml|düsse}} {{q|16th century}}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|dës}}
+* Lü: {{t|khb|ᦓᦲᦰ}}
+* Macedonian: {{t|mk|овој|m}}, {{t|mk|оваа|f}}, {{t|mk|ова|n}}
+* Malay:
+*: Jawi: {{t|ms|اين}}, {{t|ms|ني}}
+*: Rumi: {{t+|ms|ini}}, {{t+|ms|ni}}
+* Malayalam: {{t+|ml|ഇത്}}
+* Maltese: {{t|mt|dan|m}}, {{t|mt|din|f}}, {{t|mt|dawn|p}}
+* Manchu: {{t|mnc|ᡝᡵᡝ}}
+* Maore Comorian: {{t|swb|nu|alt=-nu}}
+* Maori: {{t+|mi|tēnei}}
+* Marathi: {{t+|mr|हा}}
+* Miyako: {{t|mvi|くり|tr=kuri}}, {{t|mvi|くい|tr=kui}}
+* Mongolian: {{t+|mn|энэ}}
+*: Classical Mongolian: {{t|cmg|ᠡᠨ᠋ᠡ}}
+* Nahuatl: {{t+|nah|ye}}
+* Nanai: {{t|gld|эй|tr=ej}}
+* Navajo: {{t|nv|díí}}
+* Neapolitan: {{t|nap|chist}}
+* Ngazidja Comorian: {{t|zdj|nu|alt=-nu}} {{qualifier|classes 2–11, 16–18}}, {{t|zdj|oyi}}, {{qualifier|class 1}}
+* Northern Amami-Oshima: {{t|ryn|く゚りぃ|tr=xurï}}
+* Norwegian:
+*: Bokmål: {{t+|nb|den}}, {{t+|nb|denne}}, {{t+|nb|det}}, {{t+|nb|dette}}
+* Okinawan: {{t|ryu|くり|tr=kuri}}
+* Occitan: {{t+|oc|aqueste|m}}, {{t+|oc|aquesta|f}}
+* Oki-No-Erabu: {{t|okn|ふり|tr=furi}}
+* Old Church Slavonic: {{t|cu|тъ}}
+* Old English: {{t+|ang|þēs}}
+* Old Turkic: {{t|otk|𐰉𐰆}}
+* Ottoman Turkish: {{t|ota|بو|tr=bu}}
+* Persian: {{t+|fa|این|tr=in}}
+* Pipil: {{t|ppl|ini}}
+* Pitcairn-Norfolk: {{t|pih|dieh}}
+* Polish: {{t+|pl|ten}}
+* Portuguese: {{t+|pt|este|m}}, {{t+|pt|esta|f}}, {{t+|pt|isto|n}}, {{t+|pt|estes|m-p}}, {{t+|pt|estas|f-p}}
+* Punjabi: {{t+|pa|ਏਸ}}
+* Quechua: {{t+|qu|kay}}
+* Romagnol: {{t|rgn|stè}}, {{t|rgn|sta|f}}
+* Romanian: {{t+|ro|acest|m|n}}, {{t+|ro|această|f}}, {{t+|ro|ăsta|m|n}} {{qualifier|informal}}, {{t|ro|asta|f}} {{qualifier|informal}}
+* Romansch: {{t|rm|quest|m}}, {{t|rm|questa|f}}
+* Russian: {{t+|ru|э́тот|m}}, {{t+|ru|э́та|f}}, {{t+|ru|э́то|n}}, {{qualifier|these}} {{t+|ru|э́ти|p}}, {{t+|ru|сей|m}} {{qualifier|dated, poetic}}
+* Scottish Gaelic: {{t|gd|seo}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тај}}
+*: Latin: {{t|sh|taj}}
+* Shan: {{t|shn|ၼီ့}} (nii)
+* Shor: {{t|cjs|по|tr=po}}
+* Sicilian: {{t+|scn|chistu|m}}, {{t+|scn|stu|m}}, {{t+|scn|chista|f}}, {{t+|scn|sta|f}}
+* Sinhalese: {{t+|si|මේ}}
+* Slovak: {{t|sk|tento|m}}, {{t|sk|táto|f}}, {{t|sk|toto|n}}
+* Slovene: {{t+|sl|ta|m|f}}, {{t+|sl|to|n}}, {{t+|sl|ti|p}}
+* Somali: {{t|so|kan}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|ten}}
+*: Upper Sorbian: {{t+|hsb|tón}}
+* Southern Altai: {{t|alt|бу}}
+* Southern Amami-Oshima: {{t|ams|く゚るっ|tr=xur}}
+* Spanish: {{t+|es|este}}, {{t+|es|esta}}
+* Sundanese: {{t|su|iyeu}}
+* Swedish: {{t+|sv|den här}}, {{t+|sv|denna}}
+* Tagalog: {{t|tl|ito}}, {{t|tl|ire}} {{qualifier|dialectal}}, {{t+|tl|are}} {{qualifier|dialectal}}
+* Tajik: {{t+|tg|ин}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|ام|tr=əm}}
+* Tamil: {{t+|ta|இது}}
+* Tatar: {{t+|tt|бу}}, {{t|tt|шушы}}
+* Tausug: {{t|tsg|ini}}
+* Telugu: {{t+|te|ఈ}}, {{t+|te|ఇది}}
+* Tetum: {{t|tet|ne'e}}
+* Thai: {{t+|th|นี้}}
+* Tibetan: {{t|bo|འདི}}
+* Tofa: {{t|kim|бо|tr=bo}}
+* Toku-No-Shima: {{t|tkn|く゚りぃ|tr=xurï}}
+* Tregami: {{t|trm|i}}
+* Turkish: {{t+|tr|bu}}, {{t+|tr|bunlar|p}}
+* Turkmen: {{t+|tk|bu}}
+* Tuvan: {{t|tyv|бо}}
+* Ukrainian: {{t+|uk|цей}}, {{t+|uk|ця|f}}, {{t+|uk|це|n}}, {{t|uk|ці|p}}
+* Urdu: {{t|ur|یہ|tr=ye}}
+* Uyghur: {{t|ug|بۇ}}
+* Uzbek: {{t+|uz|bu}}
+* Venetian: {{t|vec|cuesto|m}}, {{t|vec|cuesta|f}}, {{t|vec|sto|m}}, {{t|vec|sta|f}}
+* Vietnamese: {{t+|vi|này}}
+* Volapük: {{t+|vo|at}}
+* Waigali: {{t|wbk|iki}}
+* Walloon: {{t+|wa|ci|m|f}}, {{t+|wa|cisse|f}} {{qualifier|from Eastern Walloon}}, {{t+|wa|èç|m|f}} {{qualifier|from Western Walloon}}, {{t+|wa|cist|m}} {{qualifier|before vowel}}, {{t|wa|ciste|f}} {{qualifier|before vowel}}, {{t|wa|èç-n|m|f}} {{qualifier|before vowel; all followed by adverb &quot;ci&quot; or &quot;cial&quot; or &quot;vola&quot; after noun}}
+* Waray-Waray: {{t|war|ini}}, {{t|war|i-ni}}
+* Welsh: {{t|cy|hwn|m}}, {{t|cy|'ma}}, {{t|cy|hon|f}}, {{t|cy|hyn}}
+* West Frisian: {{t+|fy|dizze}} ({{t+|fy|dit|n}})
+* White Hmong: {{t|mww|qhov no}}
+* Winnebago: {{t|win|teʼe}}
+* Written Oirat: {{t|xwo|ᡄᠨ᠋ᡄ}}
+* Yaeyama: {{t|rys|くり|tr=kuri}}
+* Yakut: {{t|sah|бу}}
+* Yiddish: {{t|yi|דאָזיק}}, {{t|yi|אָט}} {{qualifier|with definite article}}
+* Yonaguni: {{t|yoi|くー|tr=kū}}
+* Yoron: {{t|yox|ふり|tr=furi}}
+* Yoruba: {{t|yo|yìí}}
+* Zealandic: {{t|zea|dezen|m}}, {{t|zea|deze|f}}, {{t|zea|dit|n}}
+* Zhuang: {{t-needed|za}}
+* ǃXóõ: {{t|nmn|ʻVV}}, {{t|nmn|tVʻV}}, {{t|nmn|tVʻVV}}, {{t|nmn|tVVʻVV}}
+{{trans-bottom}}
+{{trans-top|known (thing) just mentioned}}
+* Arabic: {{t+|ar|هٰذَا|m}}, {{qualifier|nonhuman pl}} {{t|ar|هٰذِهِ|f}}, {{qualifier|variant of هذه}} {{t|ar|هٰذِي}}, {{qualifier|m dual}} {{t|ar|هٰذَانِ|m}}, {{qualifier|f dual}} {{t|ar|هٰتَانِ|f}}, {{qualifier|human plural}} {{t|ar|هٰؤُلَاءِ|p}}
+* Chechen: {{t|ce|и}}, {{t|ce|иза}}
+* Chinese:
+*: Mandarin: {{t+|cmn|這}}, {{t+|cmn|这|tr=zhè, zhèi}}
+* Czech: {{t+|cs|tento|m}}
+* Finnish: {{t+|fi|se}}
+* French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
+* German: {{t+|de|dieser}}
+* Greek: {{t+|el|αυτός|m}}
+*: Ancient: {{t|grc|οὗτος|m}}, {{t|grc|αὕτη|f}}, {{t|grc|τοῦτο|n}}
+* Ingrian: {{t|izh|se}}
+* Japanese: {{t+|ja|これ|tr=kore}} {{q|on its own}}, {{t+|ja|この|tr=kono}} {{q|before a noun phrase}}
+* Korean: {{t+|ko|그}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ئەم ...ە}}
+{{trans-mid}}
+* Latin: {{t+|la|hīc}}
+* Macedonian: {{t|mk|овој|m}}, {{t|mk|оваа|f}}, {{t|mk|ова|n}}
+* Malay:
+*: Jawi: {{t|ms|اين}}, {{t|ms|ني}}
+*: Rumi: {{t+|ms|ini}}, {{t+|ms|ni}}
+* Norwegian:
+*: Bokmål: {{t+|nb|den}}, {{t+|nb|denne}}, {{t+|nb|det}}, {{t+|nb|dette}}
+* Polish: {{t+|pl|ten}}
+* Portuguese: {{t+|pt|este|m}}, {{t+|pt|esse|m}}
+* Russian: {{t+|ru|э́тот|m}}
+* Scottish Gaelic: {{t|gd|seo}}
+* Slovak: {{t|sk|tento|m}}
+* Spanish: {{t+|es|este|m}}
+* Swedish: {{t+|sv|den}}, {{t+|sv|denna}}
+* Turkish: {{t+|tr|bu}}
+{{trans-bottom}}
+{{trans-top|known (thing) about to be mentioned}}
+* Arabic: {{t+|ar|هَٰذَا|m}}, {{t|ar|هَٰذِهِ|f}}
+* Bikol Central: {{t+|bcl|ini}}
+* Chechen: {{t|ce|хӏара}}
+* Finnish: {{t+|fi|tämä}}, {{t+|fi|tällainen}}
+* French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
+* German: {{t+|de|folgend}}, {{t+|de|dieser}}
+* Greek: {{t+|el|αυτός|m}}, {{t|el|ο εξής|m}}
+*: Ancient: {{t|grc|ὅδε|m}}, {{t|grc|ἥδε|f}}, {{t|grc|τόδε|n}}
+* Korean: {{t+|ko|이런}}
+* Macedonian: {{t|mk|ваков|m}}, {{t|mk|ваква|f}}, {{t|mk|вакво|n}}
+* Malay:
+*: Jawi: {{t|ms|اين}}, {{t|ms|ني}}
+*: Rumi: {{t+|ms|ini}}, {{t+|ms|ni}}
+* Maltese: {{t|mt|dan|m}}, {{t|mt|din|f}}, {{t|mt|dawn|p}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|den}}, {{t+|nb|denne}}, {{t+|nb|det}}, {{t+|nb|dette}}
+* Polish: {{t+|pl|taki}}
+* Portuguese: {{t+|pt|este|m}}, {{t+|pt|esse|m}}
+* Russian: {{t+|ru|тако́й|m}}
+* Slovak: {{t|sk|tento|m}}
+* Swedish: {{t+|sv|den}}, {{t+|sv|denna}}
+* Walloon: {{t+|wa|ci}}
+{{trans-bottom}}
+{{trans-top|known (thing) that the speaker does not think is known to the audience}}
+* Finnish: {{t+|fi|eräs}}
+* French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
+* German: {{t|de|so ein}}
+* Greek: {{t+|el|ένας|m}}
+* Malay:
+*: Jawi: {{t|ms|اين}}, {{t|ms|ني}}
+*: Rumi: {{t+|ms|ini}}, {{t+|ms|ni}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|den}}, {{t+|nb|denne}}, {{t+|nb|det}}, {{t+|nb|dette}}
+* Polish: {{t+|pl|ten}}
+* Portuguese: {{t+|pt|um|m}}
+* Slovak: {{t|sk|tento|m}}
+* Swedish: {{t+|sv|den}}, {{t+|sv|denna}}
+* Walloon: {{t+|wa|ci}}
+{{trans-bottom}}
+{{trans-top|which is current}}
+* Arabic: {{t+|ar|هَٰذَا|m}}, {{t|ar|هَٰذِهِ|f}}
+* Finnish: {{t+|fi|tämä}}
+* French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
+* Hungarian: {{q|before time of day}} {{t+|hu|ma}}, {{q|before {{m|hu|hét||week}} or {{m|hu|hónap||month}}}} {{t+|hu|e}}, {{q|before {{m|hu|év||year}}}} {{t+|hu|ez}}, {{q|otherwise}} {{t|hu|[[ezen]] [[a]]/[[az]]…}}, {{t|hu|[[ebben]] [[a]]/[[az]]…}}
+* Korean: {{t+|ko|이번}}
+{{trans-mid}}
+* Ngazidja Comorian: {{t|zdj|nu|alt=-nu}}
+* Norwegian:
+*: Bokmål: {{t+|nb|denne}}, {{t+|nb|dette}}, {{t+|nb|nå}}, {{t+|nb|nå|alt=nå på}} {{qualifier|concerning coming day}}, {{t+|nb|nå|alt=nå til}} {{qualifier|concerning coming week, weekend or season}}
+* Slovak: {{t|sk|tento|m}}
+* Uyghur: {{t|ug|شۇ}}, {{t|ug|بۇ}}, {{t|ug|مۇشۇ}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Bulgarian: {{t-check|bg|този|m}}, {{t-check|bg|тази|f}}, {{t-check|bg|това|n}}, {{t+check|bg|тези|p}}, {{t+check|bg|тоя|m}}, {{t+check|bg|тая|f}}, {{t-check|bg|туй|n}}, {{t-check|bg|тия|p}}
+* Central Atlas Tamazight: {{t-check|tzm|ⴰⴷ}}
+* Cornish: {{qualifier|Kernewek Kemmyn}}: {{t-check|kw|[[an]] ... [[ma]]}}
+* Dutch: {{t+check|nl|deze|m}}, {{g|f}}, {{g|p}}, {{t+check|nl|dit|n}}
+* Esperanto: {{t-check|eo|[[tiu]] [[ĉi]]}}, {{t-check|eo|[[ĉi]] [[tiu]]}}
+* Kannada: {{t-check|kn|ಈ}}
+* Korean: {{t+check|ko|이}}, {{t+check|ko|이것}}
+* Lakota: {{t-check|lkt|le|s}}, {{t-check|lkt|lena|p}}
+* Latin: {{t+check|la|hic}}
+{{trans-mid}}
+* Norwegian: {{t+check|no|denne|m}}, {{t+check|no|dette|n}}, {{t+check|no|disse|p}}
+* Old English: {{t+check|ang|þes|m}}, {{t-check|ang|þēos|f}}, {{t+check|ang|þis|n}}
+* Serbo-Croatian: {{t-check|sh|ovaj|m}}, {{t+check|sh|ova|f}}, {{t+check|sh|ovi|m}}, {{t+check|sh|ove|f-p}}, {{t-check|sh|taj|m}}, {{t+check|sh|ta|f}}, {{t+check|sh|ti|p}}, {{t+check|sh|te|f-p}}
+* Spanish: {{t+check|es|este}}
+* Telugu: {{t+check|te|ఈ}}
+* Thai: {{t+check|th|นี้|tr=nēē}}
+{{trans-bottom}}
+===Adverb===
+{{en-adv|-}}
+# To the degree or extent indicated.
+#: {{ux|en|I need '''this''' much water.}}
+#: {{ux|en|Do we need '''this''' many recommendations?}}
+#: {{ux|en|We've already come '''this''' far, we can't turn back now.}}
+====Translations====
+{{trans-top|to the degree or extent indicated}}
+* Dutch: {{t+|nl|zo}}
+* Finnish: {{t+|fi|näin}}
+* German: {{t+|de|so}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|ilyen}}, {{t+|hu|ennyi}}
+* Ingrian: {{t|izh|näin}}
+* Slovak: {{t|sk|toľko}}, {{t|sk|toľkoto}}, {{t|sk|tak}}, {{t|sk|takto}}
+* Spanish: {{t+|es|tanto|m}}
+* Zealandic: {{t|zea|zò}}
+{{trans-bottom}}
+===Pronoun===
+{{en-pron|plural|these}}
+# The thing, item, etc. being indicated.
+#: {{ux|en|'''This''' isn't the item that I ordered.}}
+#* {{RQ:Shakespeare King Lear|1|2|passage='''This''' is the excellent foppery of the world, that, when we are sick in fortune,—often the surfeit of our own behaviour,—we make guilty of our disasters the sun, the moon, and the stars{{...}}}}
+====Related terms====
+* {{l|en|that}}, {{l|en|these}}, {{l|en|those}}
+====Translations====
+{{trans-top|the thing, item, etc. being indicated}}
+* Albanian: {{t+|sq|ky}}
+* Arabic: {{t+|ar|هٰذَا|m}}, {{qualifier|nonhuman pl}} {{t|ar|هٰذِهِ|f}}, {{qualifier|variant of هذه}} {{t|ar|هٰذِي}}, {{qualifier|m dual}} {{t|ar|هٰذَانِ|m}}, {{qualifier|f dual}} {{t|ar|هٰتَانِ|f}}, {{qualifier|human plural}} {{t|ar|هٰؤُلَاءِ|p}}
+*: Egyptian Arabic: {{t|arz|ده|m|tr=da}}, {{t|arz|دي|f|tr=di}}, {{t|arz|دول|p|tr=dūl}}
+*: Moroccan Arabic: {{t|ary|هدا|m|tr=hāda}}, {{t|ary|هدي|f|tr=hādi}}, {{t|ary|هدو|p|tr=hādu}}
+*: North Levantine Arabic: {{t|apc|هيدا|m|tr=haydā}}, {{t|apc|هيدي|tr=haydī}}
+*: Tunisian Arabic: {{t|aeb|هذا|m|alt=هَذَا|tr=haḏā}}, {{t|aeb|هذا|f|alt=هَذِهْ|tr=haḏi}}
+* Aramaic:
+*: Assyrian Neo-Aramaic: {{t|aii|ܐܘܐ|tr=ʾawwā, ʾāwā|m}}, {{t|aii|ܐܝܐ|tr=ʾayyā, ʾāyā|f}}, {{t|aii|ܐܗܐ|tr=ʾāhā|c}}
+*: Classical Syriac: {{t|syc|ܗܢܐ|tr=hānā|m}}, {{t|syc|ܗܕܐ|tr=hāḏē|f}}
+*: Jewish Aramaic: {{t|arc|הנא|tr=hānā|m}}, {{t|arc|הדא|tr=hāḏē|f}}
+* Armenian: {{t+|hy|սա}}
+* Belarusian: {{t+|be|гэ́ты|m}}, {{t+|be|гэ́та}}
+* Bengali: {{qualifier|informal}} {{t|bn|এইটা}}, {{t|bn|এটা}}; {{qualifier|formal}} {{t|bn|এইটি}}, {{t|bn|এটি}}
+* Bulgarian: {{t+|bg|ето}}, {{t|bg|това}}
+* Burmese: {{t+|my|ဒါ}}
+* Catalan: {{t+|ca|això|n}}, {{t+|ca|aquest|m}}, {{t+|ca|aquesta|f}}, {{t+|ca|açò}}
+* Cherokee: {{t|chr|ᎯᎠ}}
+* Chinese:
+*: Dungan: {{t|dng|җы}}, {{t|dng|җыгә}}
+*: Mandarin: {{t+|cmn|這}}, {{t+|cmn|这|tr=zhè, zhèi}}, {{t+|cmn|這個}}, {{qualifier|this one (with measure words)}} {{t+|cmn|这个|tr=zhège, zhèige}}, {{t+|cmn|這些}}, {{qualifier|these}} {{t+|cmn|这些|p|tr=zhèxiē}}
+* Classical Nahuatl: {{t|nci|in}}
+* Cornish:
+*: Kernewek Kemmyn: {{t|kw|hemm|m}}, {{t|kw|hemma|m}}; {{t|kw|homm|f}}, {{t|kw|homma|f}}
+* Cree:
+*: Plains Cree: {{t|crk|awa|an-s}}, {{t|crk|ôki|an-p}}, {{t|crk|ôma|in-s}}, {{t|crk|ôhi|in-p}}
+* Czech: {{t+|cs|toto|n}}
+* Danish: {{t+|da|dette}}
+* Dutch: {{t+|nl|deze|m|f|p}}, {{t+|nl|dit|n}}
+* Esperanto: {{t|eo|tio ĉi}}, {{t|eo|ĉi tio}}
+* Even: {{t|eve|эрэк}}
+* Evenki: {{t|evn|эр}}
+* Finnish: {{t+|fi|tämä}}
+* French: {{t+|fr|ceci}}
+* German: {{t+|de|dieser|m}}, {{t+|de|diese|f}}, {{t+|de|dieses|n}}, {{t+|de|diese|p}}
+* Greek:
+*: Ancient: {{t|grc|οὗτος}}, {{t|grc|αὕτη}}, {{t|grc|τοῦτο}}
+*: Katharevousa: {{t+|el|ούτος|m}}, {{t|el|αύτη|f}}, {{t+|el|τούτο|n}}
+*: [[Demotic Greek]]: {{t+|el|αυτός|m}}, {{t+|el|αυτή|f}}, {{t+|el|αυτό|n}}
+* Greenlandic: {{t|kl|manna}}, {{t|kl|matuma}}
+* Hebrew:
+* Hindi: {{t+|hi|यह}}, {{t+|hi|ये}}
+* Hungarian: {{t+|hu|ez}}
+* Icelandic: {{t+|is|þessi}}, {{t+|is|þetta}}, {{t+|is|það}}
+* Ido: {{t+|io|ca}}
+* Ingrian: {{t|izh|tämä}}
+* Interlingua: {{t+|ia|isto}}
+* Irish: {{t|ga|seo}}
+*: Old Irish: {{t|sga|inso}}
+* Istriot: {{t|ist|quisto|m}}, {{t|ist|quista|f}}
+* Italian: {{t+|it|questo|m}}, {{t+|it|questa|f}}
+* Japanese: {{t+|ja|これ|tr=kore}}
+{{trans-mid}}
+* Kabuverdianu: {{t|kea|es}}
+* Karakhanid: {{t|xqa|بُو|tr=bū}}
+* Korean: {{t+|ko|이것}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ئەمە}}
+* Lao: {{t|lo|ອັນນີ້}}
+* Latin: {{t+|la|hoc|m|alt=hic}}, {{t+|la|hoc|f|alt=haec}}, {{t+|la|hoc|n}}
+* Latvian: {{t+|lv|šis|m}}, {{t+|lv|šī|f}}
+* Macedonian: {{t|mk|овој|m}}, {{t|mk|оваа|f}}, {{t|mk|ова|n}}
+* Malay:
+*: Jawi: {{t|ms|اين}}, {{l|ms|ني}}
+*: Rumi: {{t+|ms|ini}}, {{l|ms|ni}}
+* Maltese: {{t|mt|dan|m}}, {{t|mt|din|f}}
+* Manchu: {{t|mnc|ᡝᡵᡝ}}
+* Nanai: {{t|gld|эй}}
+* Norwegian: {{t+|no|denne|m|f}}, {{t+|no|dette|n}}
+* Old English: {{t+|ang|þes|m}}, {{t|ang|þēos|f}}, {{t+|ang|þis|n}}
+* Persian: {{t+|fa|این|tr=in}}
+* Pipil: {{t|ppl|ini}}
+* Polish: {{t+|pl|ten|m}}, {{t+|pl|ta|f}}, {{t+|pl|to|n}}
+* Portuguese: {{t+|pt|isto}}, {{t+|pt|isso|m}}
+* Rapa Nui: {{t|rap|nei}}
+* Romagnol: {{t|rgn|quest}}, {{t|rgn|questa|f}}
+* Romanian: {{t+|ro|acest}}, {{t+|ro|ăsta|m}}, {{t+|ro|această}}, {{t|ro|asta|f}}
+* Russian: {{t+|ru|э́то}}, {{t+|ru|э́тот|m}}, {{t+|ru|э́та|f}}, {{t+|ru|э́то|n}}, {{qualifier|these}} {{t+|ru|э́ти|p}}
+* Sardinian: {{t|sc|custu}}
+* Scottish Gaelic: {{t|gd|seo}}
+* Serbo-Croatian: {{t|sh|ovaj}}
+* Sicilian: {{t+|scn|chistu}}
+* Sindhi: {{t|sd|هيءُ|m}}, {{t|sd|هِيءَ|f}}
+* Slovak: {{t|sk|toto}}
+* Slovene: {{t+|sl|tá}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|to}}
+* Spanish: {{t+|es|esto}}
+* Swedish: {{t+|sv|den här|c}}, {{t+|sv|denna|c}}, {{t+|sv|det här|n}}, {{t+|sv|detta|n}}
+* Tajik: {{t+|tg|ин}}
+* Telugu: {{t+|te|ఇది}}
+* Thai: {{t+|th|นี่}}
+* Tofa: {{t|kim|бо}}
+* Turkish:
+*: Modern Turkish: {{t+|tr|bu}}, {{t+|tr|bunlar|p}}
+*: Old Turkic: {{t|otk|𐰉𐰆}}
+*: Ottoman Turkish: {{t|ota|بو|tr=bu}}
+* Ukrainian: {{t+|uk|цей|m}}, {{t+|uk|це}}
+* Uyghur: {{t|ug|بۇ}}
+* Venetian: {{t|vec|cuesto|m}}, {{t|vec|cuesta|f}}
+* Vietnamese: {{t+|vi|đây}}, {{t|vi|cái này}}
+* Volapük: {{t|vo|atos}}
+* Welsh: {{t|cy|hyn}}
+* West Frisian: {{t+|fy|dit|n}}, {{t+|fy|dizze|m|f}}
+* Yagnobi: {{t|yai|ин}}
+* Yakut: {{t|sah|бу}}
+* Zealandic: {{t|zea|dit}}, {{t|zea|ditte}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# {{lb|en|philosophy}} Something being indicated that is [[here]]; one of [[these]].
+#* {{quote-book|en|year=2001|author=James G. Lennox|title=Aristotle's Philosophy of Biology|page=151|passage=Terms like 'house', 'sphere', 'animal', and 'human' do not refer to other '''thises''' distinct from these ones here &amp;mdash; they refer to the sort of thing these ones here are.}}
+===Interjection===
+{{en-interj}}
+# {{lb|en|Internet slang}} {{non-gloss definition|Indicates the speaker's strong [[approval]] or [[agreement]] with the previous material.}}
+#: {{ux|en|― I wish trolls could be banned from the forum immediately, without any discussion.&lt;br&gt;― '''This'''!}}
+====Synonyms====
+* {{l|en|+1}}
+* {{l|en|IAWTP}}
+* {{l|en|QFT}}
+===Anagrams===
+* {{anagrams|en|a=hist|HITs|Hist|Tish|hist|hist-|hist.|hits|iths|shit|sith|tish}}
+{{cln|en|third person pronouns}}
+----
+==Middle English==
+===Etymology 1===
+====Determiner====
+{{head|enm|determiner}}
+# {{alt sp|enm|þis||this}}
+====Pronoun====
+{{head|enm|pronoun}}
+# {{alt sp|enm|þis||this}}
+====Adverb====
+{{enm-adv}}
+# {{alt sp|enm|þis||this}}
+===Etymology 2===
+====Determiner====
+{{head|enm|determiner}}
+# {{alt sp|enm|þis||these}}
+====Pronoun====
+{{head|enm|pronoun}}
+# {{alt sp|enm|þis||these}}
+----
+==Quechua==
+{{was fwotd|qu|2013|October|28}}
+===Etymology===
+[[Onomatopoeia]].
+===Pronunciation===
+* {{IPA|qu|/tʰis/}}
+===Interjection===
+{{head|qu|interjection}}
+# {{non-gloss definition|the sound a cat makes when preparing to attack something}}
+# {{non-gloss definition|the sound of damp wood burning}}
+===References===
+* {{R:Diccionario AMLQ|pg=207}}
+{{catlangname|qu|onomatopoeias}}
+----
+==Scots==
+===Determiner===
+{{head|sco|determiner|plural|thir}}
+# [[this#English|this]]
+# {{alt form|sco|thir|from=Doric Scots|t=these}}
+#: {{ux|sco|'''This''' plants is deid.|t='''These''' plants are dead.}}
+===Pronoun===
+{{head|sco|pronoun|plural|thir}}
+# [[this#English|this]]
+# {{alt form|sco|thir|from=Doric Scots|t=these}}
+----
+==Yola==
+===Etymology===
+From {{inh|yol|enm|this}}, from {{inh|yol|ang|þis}}.
+===Determiner===
+{{head|yol|determiner}}
+# {{l|en|this}}
+#* {{quote-book|yol|year=1867|chapter=CASTEALE CUDDE'S LAMENTATION|number=4|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=Fan ich aam in '''this''' miseree.|translation=When I am in '''this''' misery.}}
+===References===
+* {{R:Poole 1867|page=104}}</text>
+<sha1>ecwcrvl1obmd33i7k81vf1zgny045hz</sha1>
+</revision>
+</page>

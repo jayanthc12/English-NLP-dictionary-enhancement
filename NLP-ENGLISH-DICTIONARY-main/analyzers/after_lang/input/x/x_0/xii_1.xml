@@ -1,0 +1,47 @@
+<page>
+<title>xii</title>
+<ns>0</ns>
+<id>4725134</id>
+<revision>
+<id>64062705</id>
+<parentid>60364120</parentid>
+<timestamp>2021-09-29T10:58:40Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Interjection</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="950" xml:space="preserve">{{character info|ⅻ}}
+==Translingual==
+===Alternative forms===
+* [[XII]], [[xii]], [[Ⅻ]], [[VVII]], [[vvii]]
+===Symbol===
+{{mul-number}}
+# '''Ⅻ''', the [[Roman numeral]] [[twelve]] ([[12]])
+====See also====
+* Previous: [[ⅺ]] ([[eleven]], [[11]])
+* Next: [[ⅼ]] ([[fifty]], [[50]])
+[[Category:Roman numerals]]
+[[Category:mul:Twelve]]
+----
+==Dumbea==
+===Pronunciation===
+* {{IPA|duf|/xiː/}}
+===Noun===
+{{head|duf|noun}}
+# [[rain]]
+===References===
+* {{R:ABVD|lang=ⁿDuᵐbea|id=1487|cite={{cite|author=Leenhardt, M.|year=1946|title=Langues et dialectes de l'Austro-Mèlanèsie}}.}}
+* {{R:ABVD|lang=Drubea|id=1369|cite={{cite|title=Dictionnaire de la langue de Païta|author=Shintani, T.L.A. &amp; Païta, Y.|year=1990|publisher=Sociéte d'etudes historiques de Nouvelle-Calédonie|location={{w|Nouméa}}}}.}}
+{{C|duf|Atmospheric phenomena|Water}}
+----
+==Portuguese==
+===Interjection===
+{{pt-interj}}
+# {{alternative form of|pt|xi}}</text>
+<sha1>bs1yzw1lqvq2jotr9elta1unr4kdnad</sha1>
+</revision>
+</page>

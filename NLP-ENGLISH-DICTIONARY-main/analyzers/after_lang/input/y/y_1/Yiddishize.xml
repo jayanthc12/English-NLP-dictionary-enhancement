@@ -1,0 +1,26 @@
+<page>
+<title>Yiddishize</title>
+<ns>0</ns>
+<id>4099231</id>
+<revision>
+<id>61022583</id>
+<parentid>51935925</parentid>
+<timestamp>2020-11-03T09:14:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="185" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yiddish|ize}}
+===Verb===
+{{en-verb}}
+# {{lb|en|transitive}} To make more [[Yiddish]] or [[Yiddishist]].
+[[Category:English 3-syllable words]]</text>
+<sha1>ilfamlel5ghel63flqipvl10b71ndel</sha1>
+</revision>
+</page>

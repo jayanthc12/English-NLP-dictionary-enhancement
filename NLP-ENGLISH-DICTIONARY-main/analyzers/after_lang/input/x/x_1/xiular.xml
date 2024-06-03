@@ -1,0 +1,35 @@
+<page>
+<title>xiular</title>
+<ns>0</ns>
+<id>2042432</id>
+<revision>
+<id>68992800</id>
+<parentid>65646060</parentid>
+<timestamp>2022-08-31T12:15:54Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="593" xml:space="preserve">==Catalan==
+===Alternative forms===
+* {{l|ca|siular}} {{q|dialectal}}
+===Etymology===
+From alteration of {{inh|ca|roa-oca|siular}}, from {{inh|ca|la|sībilāre}}, present active infinitive of {{m|la|sībilō}}. Cognate with {{cog|oc|fiular}}, {{m|oc|siular}}, {{m|oc|siblar}}, {{cog|fr|siffler}}, {{cog|es|silbar}}, {{m|es|chiflar}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# to [[whistle]]
+====Conjugation====
+{{ca-conj-ar|xiul}}
+====Derived terms====
+{{der3|ca|xiulada|xiuladissa|xiulador|xiulaire|xiulet}}
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>m3j8p4vxk5jb37z23ieyu7ixce7v9ke</sha1>
+</revision>
+</page>

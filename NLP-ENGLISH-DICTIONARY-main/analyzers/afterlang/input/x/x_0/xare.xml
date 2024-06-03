@@ -1,0 +1,31 @@
+<page>
+<title>xare</title>
+<ns>0</ns>
+<id>6368544</id>
+<revision>
+<id>67078017</id>
+<parentid>65163229</parentid>
+<timestamp>2022-05-19T07:13:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up French etymologies, pronun sections, participles, toponyms, extraneous spaces, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="180" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA|charé}}
+===Noun===
+{{fr-noun|m}}
+# [[Basque pelota]]
+----
+==Wolof==
+===Noun===
+{{wo-noun}}
+# [[conflict]]
+# [[battle]], [[combat]]</text>
+<sha1>h1wemswuvtu3l6gbbgbs2osbkfza49p</sha1>
+</revision>
+</page>

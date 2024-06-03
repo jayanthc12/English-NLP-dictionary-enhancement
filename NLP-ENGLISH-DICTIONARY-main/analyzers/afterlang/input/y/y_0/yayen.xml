@@ -1,0 +1,28 @@
+<page>
+<title>yayen</title>
+<ns>0</ns>
+<id>6582009</id>
+<revision>
+<id>56525827</id>
+<parentid>49128873</parentid>
+<timestamp>2019-10-18T06:02:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="303" xml:space="preserve">==Bukiyip==
+===Pronunciation===
+* {{IPA|ape|[jæjɛn]}}
+===Noun===
+{{head|ape|noun}}
+# [[father]]
+===References===
+* 2007. [http://archive.phonetics.ucla.edu/Language/APE/ape.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+{{C|ape|Family members|Male|People}}</text>
+<sha1>oplqov2risju0ndyyl1j5vke3ayi2qj</sha1>
+</revision>
+</page>

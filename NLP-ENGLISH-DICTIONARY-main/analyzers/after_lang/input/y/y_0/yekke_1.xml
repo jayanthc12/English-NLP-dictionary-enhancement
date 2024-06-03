@@ -1,0 +1,24 @@
+<page>
+<title>yekke</title>
+<ns>0</ns>
+<id>1215525</id>
+<revision>
+<id>54471136</id>
+<parentid>52174586</parentid>
+<timestamp>2019-09-30T13:22:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative case form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="129" xml:space="preserve">{{also|Yekke}}
+==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|sometimes|mildly|derogatory}} {{alternative case form of|en|Yekke}}</text>
+<sha1>c723d8vm0c28b2e2a8owzvnt2af6xqg</sha1>
+</revision>
+</page>

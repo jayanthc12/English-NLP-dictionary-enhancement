@@ -1,0 +1,29 @@
+<page>
+<title>yhteismaa</title>
+<ns>0</ns>
+<id>3980548</id>
+<revision>
+<id>69318453</id>
+<parentid>51800917</parentid>
+<timestamp>2022-09-18T17:18:59Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="351" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhteis|maa|t1=common, joint|t2=land}}
+===Pronunciation===
+{{fi-p|yhteis-maa}}
+===Noun===
+{{fi-noun}}
+# [[common]], [[common land]] {{gloss|land free for anybody in the community to graze their animals on}}
+# in [[Monopoly]] [[board game]], [[community chest]]
+====Declension====
+{{fi-decl-maa|yhteismaa|a}}</text>
+<sha1>l56ocvh6hv7xqncqzktt776o7at2aim</sha1>
+</revision>
+</page>

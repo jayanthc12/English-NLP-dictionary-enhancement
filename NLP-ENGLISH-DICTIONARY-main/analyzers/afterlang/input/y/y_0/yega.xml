@@ -1,0 +1,27 @@
+<page>
+<title>yega</title>
+<ns>0</ns>
+<id>7362617</id>
+<revision>
+<id>68881209</id>
+<parentid>54421979</parentid>
+<timestamp>2022-08-28T07:07:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="188" xml:space="preserve">==Papiamentu==
+===Etymology===
+From {{der|pap|pt|chegar}} and {{der|pap|es|llegar}} and {{der|pap|kea|tchiga}}.
+===Verb===
+{{head|pap|verb}}
+# to [[arrive]]
+# to [[reach]]
+# to [[come]]</text>
+<sha1>dfb0fm2lwi6ihtzv2izv2ndu49suq62</sha1>
+</revision>
+</page>

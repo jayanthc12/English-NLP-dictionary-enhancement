@@ -1,0 +1,27 @@
+<page>
+<title>yellowstonensis</title>
+<ns>0</ns>
+<id>3778281</id>
+<revision>
+<id>66438586</id>
+<parentid>50337550</parentid>
+<timestamp>2022-04-16T11:14:45Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="408" xml:space="preserve">==Translingual==
+===Adjective===
+{{head|mul|adjective|g=m|g2=f|neuter|yellowstonense}}
+# {{n-g|a [[specific epithet]]:}} [[Yellowstone]] {{q|attributive}}
+====Derived terms====
+* {{taxlink|Metallosphaera yellowstonensis|species|ver=170527}}
+* {{taxlink|Stephanodiscus yellowstonensis|species|ver=170527}}
+* {{taxlink|Sulfurihydrogenibium yellowstonense|species|ver=170527}}
+[[Category:Specific epithets]]</text>
+<sha1>r5li36usedi2wufc7xvisb36nkjsrva</sha1>
+</revision>
+</page>

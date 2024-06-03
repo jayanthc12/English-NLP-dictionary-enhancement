@@ -1,0 +1,28 @@
+<page>
+<title>ydintekniikka</title>
+<ns>0</ns>
+<id>4404963</id>
+<revision>
+<id>69318275</id>
+<parentid>52035584</parentid>
+<timestamp>2022-09-18T17:09:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="216" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|tekniikka}}
+===Pronunciation===
+{{fi-p|ydin-tekniikka}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[technology]]
+====Declension====
+{{fi-decl-solakka|ydinteknii|kk|k|a}}</text>
+<sha1>mwm9sal51836wyyz0zzwjpugmcy99wr</sha1>
+</revision>
+</page>

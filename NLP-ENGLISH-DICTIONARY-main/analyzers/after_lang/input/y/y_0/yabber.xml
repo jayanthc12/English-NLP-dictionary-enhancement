@@ -1,0 +1,34 @@
+<page>
+<title>yabber</title>
+<ns>0</ns>
+<id>269390</id>
+<revision>
+<id>67288615</id>
+<parentid>64460285</parentid>
+<timestamp>2022-06-06T09:14:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|wyi}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="473" xml:space="preserve">==English==
+===Etymology===
+Dating back to 1855. Most likely a modification of {{uder|en|wyi|yaba||to speak}}.
+===Pronunciation===
+* {{IPA|en|/ˈjæb.ə(ɹ)/}}
+* {{audio|en|en-au-yabber.ogg|Audio (AU)}}
+* {{rhymes|en|æbə(ɹ)|s=2}}
+===Verb===
+{{en-verb}}
+# {{lb|en|Australia|NZ}} To [[talk]], [[jabber]].
+#: {{ux|en|Fair dinkum! Will you stop '''yabbering''' at me?}}
+====Synonyms====
+* See also [[Thesaurus:prattle]]
+===Anagrams===
+* {{anagrams|en|a=abbery|babery}}</text>
+<sha1>b57lygyd1bfuk8stw8z535zqwrod7bz</sha1>
+</revision>
+</page>

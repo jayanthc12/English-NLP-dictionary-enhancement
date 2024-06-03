@@ -1,0 +1,55 @@
+<page>
+<title>yark</title>
+<ns>0</ns>
+<id>1058720</id>
+<revision>
+<id>68650763</id>
+<parentid>68650761</parentid>
+<timestamp>2022-08-16T12:05:16Z</timestamp>
+<contributor>
+<username>Zff19930930</username>
+<id>3346621</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1744" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/jɑːk/}}
+* {{rhymes|en|ɑː(ɹ)k|s=1}}
+===Etymology 1===
+From {{inh|en|enm|ȝarken}}, {{m|enm|ȝerken}}, from {{inh|en|ang|ġearcian||to prepare, make ready, procure, furnish, supply}}, from {{inh|en|gem-pro|*garwakōną||to prepare}}, from {{der|en|ine-pro|*gʰrebʰ-||to grab, take, rake}}, equivalent to {{suffix|en|yare|k|nocat=1}}. Related to {{cog|ang|ġearc||ready, active, quick}}, {{m|ang|ġearu||prepared, ready, equipped, complete, finished, yare}}. More at {{l|en|yare}}.
+====Verb====
+{{en-verb}}
+# {{lb|en|transitive|UK|_|dialectal}} To make [[ready]]; [[prepare]].
+#* '''1881''', Walter Gregor, ''Notes on the Folk-Lore of the North-East of Scotland'':
+#*: [...] Yet thou hast given us leather to '''yark''', and leather to bark, [...]
+# {{lb|en|transitive|obsolete}} To [[dispose]]; be set in order for; be destined or intended for.
+# {{lb|en|transitive|obsolete}} To set open; [[open]].
+=====Derived terms=====
+* {{l|en|yarking}}
+===Etymology 2===
+Origin uncertain, probably originally imitative; compare {{m|en|jerk}} etc.
+====Alternative forms====
+* [[yerk]]
+====Verb====
+{{en-verb}}
+# To draw (stitches etc.) tight.
+# To [[hit]], [[strike]], especially with a [[cane]] or [[whip]].
+# To [[crack]] (a whip).
+#* {{RQ:Montaigne Florio Essayes}}, Folio Society, 2006, vol.1, p.96:
+#*: he would throw a Dagger, and make a whip to '''yarke''' and lash [''tr. faisoit [[craqueter]]''], as cunningly as any Carter in ''France''.
+===Anagrams===
+* {{anagrams|en|a=akry|Kary|Kray|Kyra|aryk|kary-|kray}}
+----
+==Yola==
+===Etymology===
+Perhaps cognate with {{cog|en|ark||A large box}}.
+===Noun===
+{{head|yol|noun}}
+# [[barn]]
+===References===
+* {{R:Poole 1867|page=79}}</text>
+<sha1>esnrfw6xtxc3aohzrjsqu51xmxv8qf3</sha1>
+</revision>
+</page>

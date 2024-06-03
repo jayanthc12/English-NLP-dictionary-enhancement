@@ -1,0 +1,28 @@
+<page>
+<title>yhteistila</title>
+<ns>0</ns>
+<id>7186593</id>
+<revision>
+<id>58721922</id>
+<parentid>58593458</parentid>
+<timestamp>2020-02-20T13:12:01Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<comment>/* Declension */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|tila}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-tila}}
+===Noun===
+{{fi-noun}}
+# [[common]] or [[shared]] [[room]] or [[space]]
+====Declension====
+{{fi-decl-kala|yhteistil|||a}}</text>
+<sha1>fcckyklbw4mwnadqagplpxkhfwp7zvx</sha1>
+</revision>
+</page>

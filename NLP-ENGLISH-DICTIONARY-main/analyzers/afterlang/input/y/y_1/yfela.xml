@@ -1,0 +1,25 @@
+<page>
+<title>yfela</title>
+<ns>0</ns>
+<id>4584265</id>
+<revision>
+<id>57925050</id>
+<parentid>56323838</parentid>
+<timestamp>2019-11-01T16:02:53Z</timestamp>
+<contributor>
+<username>Erutuon</username>
+<id>156858</id>
+</contributor>
+<minor />
+<comment>replaced /v/ with /f/ and /ð/ with /θ/ in Old English phonemic transcriptions because voiced fricatives are allophones; [[WT:NORM|normalize]] if necessary (via JWB)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="151" xml:space="preserve">==Old English==
+===Pronunciation===
+* {{IPA|ang|/ˈyfelɑ/}}
+===Adjective===
+{{head|ang|adjective forms}}
+# {{inflection of|ang|yfel||weak|m|nom|s}}</text>
+<sha1>5cmnh565r65lpb5qelu92kh2kq0mps8</sha1>
+</revision>
+</page>

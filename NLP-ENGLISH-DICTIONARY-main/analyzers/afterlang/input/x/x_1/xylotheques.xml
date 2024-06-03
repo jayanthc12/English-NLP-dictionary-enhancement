@@ -1,0 +1,23 @@
+<page>
+<title>xylotheques</title>
+<ns>0</ns>
+<id>6367101</id>
+<revision>
+<id>56247775</id>
+<parentid>53092522</parentid>
+<timestamp>2019-10-17T10:04:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylotheque}}</text>
+<sha1>jbdp8z8zs54dvevv7m5puirfmil1vey</sha1>
+</revision>
+</page>

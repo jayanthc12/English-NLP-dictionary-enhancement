@@ -1,0 +1,38 @@
+<page>
+<title>xenoanthropology</title>
+<ns>0</ns>
+<id>4708675</id>
+<revision>
+<id>67656490</id>
+<parentid>67656484</parentid>
+<timestamp>2022-07-06T08:06:21Z</timestamp>
+<contributor>
+<username>Svartava</username>
+<id>3850963</id>
+</contributor>
+<minor />
+<comment>Reverted edit(s) by [[Special:Contributions/2A00:23C7:13:E001:CD56:133F:DB36:E69F|2A00:23C7:13:E001:CD56:133F:DB36:E69F]]; if you disagree with this rollback, please [[Special:NewSection/User talk:Svartava|leave me a message]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="565" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|anthropology}}
+===Noun===
+{{en-noun|-}}
+# The branch of [[xenology]] dealing with [[extraterrestrial]] [[cultures]].
+====Synonyms====
+* {{l|en|astroanthropology}}
+* {{l|en|exoanthropology}}
+====Translations====
+{{trans-top|xenology dealing with extraterrestrial cultures}}
+* German: {{t|de|Xenoanthropologie|f}}
+* Latin: {{t|la|xenoanthropologia}}
+* Lithuanian: {{t|lt|xenoantropologija|f}}
+{{trans-mid}}
+* Romanian: {{t|ro|xenoantropologie}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|ksenoantropologija}}
+{{trans-bottom}}</text>
+<sha1>mk5ja6hpxl5m1fdujd0jw8s2pyy3n41</sha1>
+</revision>
+</page>

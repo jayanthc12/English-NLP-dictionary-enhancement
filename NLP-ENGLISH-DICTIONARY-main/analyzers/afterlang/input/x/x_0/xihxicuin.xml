@@ -1,0 +1,34 @@
+<page>
+<title>xihxicuin</title>
+<ns>0</ns>
+<id>479967</id>
+<revision>
+<id>55414233</id>
+<parentid>48433959</parentid>
+<timestamp>2019-10-14T15:14:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="710" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xixicuin}}
+===Pronunciation===
+* {{IPA|nci|/ʃiʔʃikʷin/}}
+===Noun===
+{{head|nci|nouns}}
+# a [[glutton]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Gloton. uey tlaca çolli. '''xixicuin'''. ...
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 264.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 324.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.
+[[Category:nci:People]]</text>
+<sha1>e2uy9pw6ggmqngpynnky4cwecuk7t10</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xanthoproteate</title>
+<ns>0</ns>
+<id>4194903</id>
+<revision>
+<id>51939882</id>
+<parentid>39513962</parentid>
+<timestamp>2019-03-16T22:55:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xanthoproteic|ate}}
+===Noun===
+{{en-noun}}
+# {{lb|en|chemistry}} Any [[salt]] or [[ester]] of [[xanthoproteic acid]].</text>
+<sha1>8wt4nt6hbdjocyad1ennmjrg9wb1548</sha1>
+</revision>
+</page>

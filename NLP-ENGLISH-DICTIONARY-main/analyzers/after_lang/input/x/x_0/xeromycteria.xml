@@ -1,0 +1,25 @@
+<page>
+<title>xeromycteria</title>
+<ns>0</ns>
+<id>3779944</id>
+<revision>
+<id>67298249</id>
+<parentid>51797882</parentid>
+<timestamp>2022-06-06T12:16:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xero}} {{uder|en|grc|μυκτήρ||nostril, nose}} {{suffix|en||ia}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pathology}} [[dryness]] of the [[nasal]] [[mucous membrane]]</text>
+<sha1>rujap6x0v45pi7kbp40tmnkdcl470m7</sha1>
+</revision>
+</page>

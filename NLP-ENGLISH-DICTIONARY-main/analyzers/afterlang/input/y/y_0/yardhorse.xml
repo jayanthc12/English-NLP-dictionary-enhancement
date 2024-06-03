@@ -1,0 +1,30 @@
+<page>
+<title>yardhorse</title>
+<ns>0</ns>
+<id>6615245</id>
+<revision>
+<id>61120395</id>
+<parentid>54374048</parentid>
+<timestamp>2020-11-14T09:22:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1375" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yard|horse}}
+===Noun===
+{{en-noun}}
+# A heavy-duty [[tractor]] designed for moving [[shipping container]]s on [[chassis]] around a [[shipping]] [[terminal]].
+#* {{quote-book|en|year=1975|title=Jury Verdicts Weekly - Volume 19  |author= |page=4 |ISBN= |passage=Plaintiffs contended that on the night of the subject accident the decedent unhooked the '''yardhorse''' from a trailer and had parked it 10 feet in front of the trailer to drop a nosepin on the trailer; that after the decedent left the yardgoat- and while he was attempting to lower the nosepin, the yardgoat, which apparently had been in neutral, silently engaged into reverse, moved back and crushed the decedent under the trailer.  }}
+#* {{quote-book|en|year=1980|title=The Airport City: Development Concepts for the 21st Century  |author=Hobart McKinley Conway  |page=139 |ISBN= |passage=A '''yardhorse''' is used to move the air-truck container to the 747 containership. }}
+#* {{quote-book|en|year=2017|title=Intermodal Container Emergencies  |author=Hildebrand, Gregory G. Noll, &amp; Bill Hand  |page=89 |ISBN=1284112756 |passage=For example, containers are constantly being loaded and unloaded, '''yardhorses''' are moving containers throughout the terminal, cranes and stackers are at work, and so forth. }}
+===Anagrams===
+* {{anagrams|en|a=adehorrsy|horse-yard}}</text>
+<sha1>dpke2d0ofcy6vb4giowqgqnukxh52c0</sha1>
+</revision>
+</page>

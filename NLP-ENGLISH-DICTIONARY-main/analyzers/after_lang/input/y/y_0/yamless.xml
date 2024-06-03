@@ -1,0 +1,32 @@
+<page>
+<title>yamless</title>
+<ns>0</ns>
+<id>4073685</id>
+<revision>
+<id>54526765</id>
+<parentid>51935140</parentid>
+<timestamp>2019-10-01T14:27:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{seemoreCites}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1401" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yam|less}}
+===Adjective===
+{{en-adj|-}}
+# Without a [[yam]] or yams.
+#* '''1974''', Frederick Goodridge, &quot;[http://newspapers.bc.edu/cgi-bin/bostonsh?a=d&amp;d=bcheights19741125.2.44# Of fermented malt and grain beverages]&quot;, ''The Heights'' (Boston College), Volume LV, Number 13, 25 November 1974, page 11:
+#*: Advice, merely. Beer is brewed from grain (cereal), malt, hops, yeast and water. It is full of starch and carbohydrates. Those who quaff more than a couple a week would find it wise (if their waistlines want worrying) to eliminate certain other sources of these elements from their diets: no morning Kellogg's, '''yamless''' meals, a saladal substitute for a sandwich.
+#* '''2000''', Cathy Gant Hill, &quot;Let Others Cook On Turkey Day&quot;, ''News &amp; Record'', 22 November 2000:
+#*: If you don't feel like cooking this Thanksgiving, that's no reason to go hamless, '''yamless''' and - heaven forbid - Spamless.
+#* '''2011''', David Freid, &quot;[http://www.huffingtonpost.com/david-freid/surviving-thanksgiving_b_1111186.html Surviving the Thanksgiving Apocalypse]&quot;, ''The Huffington Post'', 23 November 2011:
+#*: I was lucky with this one, as my roommate's girlfriend left me the aforementioned yams. She took care of this step for me. But if you find yourself '''yamless''', get out and fill your home with a small reminder of the holiday.
+#* {{seemoreCites|en}}</text>
+<sha1>j513c6gt7na8uk3ke5gdn2vxrwcxnfn</sha1>
+</revision>
+</page>

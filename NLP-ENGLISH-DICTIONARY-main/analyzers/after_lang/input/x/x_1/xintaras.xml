@@ -1,0 +1,24 @@
+<page>
+<title>xintaras</title>
+<ns>0</ns>
+<id>4329474</id>
+<revision>
+<id>53115228</id>
+<parentid>40449742</parentid>
+<timestamp>2019-05-19T04:50:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'second-person singular pluperfect indicative' to 2|s|plup|ind; canonicalized multiword inflection tag 'second-person singular imperfect preterite subjunctive' to 2|s|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">{{also|xintarás}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xintar||2|s|plup|ind|;|2|s|impf|pret|sub}}</text>
+<sha1>pqkkv2y4sg0308zaxm6s06rebc0b7x0</sha1>
+</revision>
+</page>

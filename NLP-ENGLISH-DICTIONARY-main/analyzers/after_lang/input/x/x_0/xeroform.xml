@@ -1,0 +1,33 @@
+<page>
+<title>xeroform</title>
+<ns>0</ns>
+<id>2140605</id>
+<revision>
+<id>64981236</id>
+<parentid>50846772</parentid>
+<timestamp>2021-12-17T13:18:44Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="395" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{lb|en|medicine}} A [[wound]] [[dressing]] consisting of a [[gauze]] soaked in a mixture of [[bismuth tribromophenate]] and [[petroleum jelly]]
+===Anagrams===
+* {{anagrams|en|a=efmoorrx|morforex}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xéroforme}}.
+===Noun===
+{{ro-noun|n|-}}
+# {{l|en|xeroform}}
+====Declension====
+{{ro-noun-n|n=sg}}</text>
+<sha1>te7qpbobsqund5rm6vr0uqcv6cidb9q</sha1>
+</revision>
+</page>

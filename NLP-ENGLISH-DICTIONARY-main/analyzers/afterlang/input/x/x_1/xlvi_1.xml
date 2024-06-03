@@ -1,0 +1,24 @@
+<page>
+<title>xlvi</title>
+<ns>0</ns>
+<id>4990472</id>
+<revision>
+<id>54471752</id>
+<parentid>46642773</parentid>
+<timestamp>2019-09-30T13:32:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative case form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|XLVI}}
+==Translingual==
+===Number===
+{{mul-number}}
+# {{alternative case form of|mul|XLVI}}</text>
+<sha1>g8alcstrhxg40qyv9e2pko0fvgg453s</sha1>
+</revision>
+</page>

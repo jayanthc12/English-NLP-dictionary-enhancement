@@ -1,0 +1,45 @@
+<page>
+<title>xuro</title>
+<ns>0</ns>
+<id>4330145</id>
+<revision>
+<id>68864992</id>
+<parentid>68863993</parentid>
+<timestamp>2022-08-28T05:31:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1091" xml:space="preserve">{{also|xuró}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xurar||1|s|pres|ind}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jur}}, from {{inh|gl|la|jūre}}, {{m|la|iūre}}, ablative of {{m|la|iūs}}, with inflection later altered in Galician and Portuguese, as if a derivative of the verb {{m|gl|xurar}}; compare {{cog|pt|juro}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃu.ɾʊ]}}
+===Noun===
+{{gl-noun|m}}
+# {{lb|gl|finance|usually|in the plural}} [[interest]]
+# {{lb|gl|finance|usually|in the plural}} [[yield]]
+# {{lb|gl|now|_|rare|law}} [[right]]; [[possession]]
+#* '''1347''', M. Romaní Martínez (ed.), ''La colección diplomática de Santa María de Oseira (1025-1310)'', IV. Santiago: Tórculo Edicións, page 207:
+#*: ''que vos et todos vossos sucesores a aiades et poseiades para senpre en '''juro''' de herdade''
+#*:: for you and all of your successors to have and own forever as '''right''' of heritage
+===References===
+* {{R:gl:DDGM|juro}}
+* {{R:gl:DDGM|jor}}
+* {{R:gl:CX|juro}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>sse2iklas3h5b5ybmu4owm2mw61id4r</sha1>
+</revision>
+</page>

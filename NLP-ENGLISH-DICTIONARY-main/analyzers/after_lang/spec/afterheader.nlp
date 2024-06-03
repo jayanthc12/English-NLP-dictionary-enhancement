@@ -1,0 +1,16 @@
+###############################################
+# FILE: afterheader
+# SUBJ: comment
+# AUTH: Adarsh
+# CREATED: 2023-1-30 22:50:28
+# MODIFIED:
+###############################################
+
+@NODES _ROOT _textZone _headerZone _LINE
+
+@RULES
+_heading <-
+	en	### (1)
+	-	### (2)
+	adv	### (3)
+	@@

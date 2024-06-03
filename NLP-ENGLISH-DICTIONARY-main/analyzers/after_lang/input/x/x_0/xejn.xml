@@ -1,0 +1,30 @@
+<page>
+<title>xejn</title>
+<ns>0</ns>
+<id>5958334</id>
+<revision>
+<id>69470802</id>
+<parentid>69470800</parentid>
+<timestamp>2022-10-08T16:37:07Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="392" xml:space="preserve">==Maltese==
+{{mt-root|x-j-n}}
+===Etymology===
+From {{inh|mt|ar|شَيْئًا}}, indefinite accusative of {{m|ar|شَيْء||thing}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɛjn/}}
+===Pronoun===
+{{mt-pronoun}}
+# [[nothing]], (not) [[anything]]
+#: {{uxi|mt|Ma naf '''xejn''' fuq dan is-suġġett.|t=I don’t know '''anything''' about this topic.}}
+====Related terms====
+{{col3|mt|x'|xi|xiex}}</text>
+<sha1>84pjpdepvl6qib51n9edup69908wjg4</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xerobi</title>
+<ns>0</ns>
+<id>5552557</id>
+<revision>
+<id>62822198</id>
+<parentid>60654634</parentid>
+<timestamp>2021-06-17T04:14:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Italian plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="156" xml:space="preserve">==Italian==
+===Adjective===
+{{head|it|adjective form}}
+# {{adj form of|it|xerobio||m|p}}
+===Noun===
+{{head|it|noun form|g=m}}
+# {{plural of|it|xerobio}}</text>
+<sha1>1re63gtefuypa0z723790e6kcacjixw</sha1>
+</revision>
+</page>

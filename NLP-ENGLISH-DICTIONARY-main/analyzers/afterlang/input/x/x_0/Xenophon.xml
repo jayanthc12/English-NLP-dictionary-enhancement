@@ -1,0 +1,70 @@
+<page>
+<title>Xenophon</title>
+<ns>0</ns>
+<id>248740</id>
+<revision>
+<id>68522122</id>
+<parentid>62494966</parentid>
+<timestamp>2022-08-03T04:10:18Z</timestamp>
+<contributor>
+<username>Diddy-sama6</username>
+<id>711136</id>
+</contributor>
+<comment>/* Latin */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1734" xml:space="preserve">{{also|Xénophon}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|grc|Ξενοφῶν}}.
+===Proper noun===
+{{en-proper noun}}
+# [[Athenian]] [[historian]] and [[philosopher]] born 427 {{B.C.E.}} and author of the ''Anabasis'' and ''Memorabilia''. He was a [[pupil]] of [[Socrates]] and became a [[general]] during the [[Persian]] wars.
+====Translations====
+{{trans-top|historian and philosopher}}
+* Armenian: {{t|hy|Քսենոփոն}}
+* Greek:
+*: Ancient: {{t|grc|Ξενοφῶν|m|sc=polytonic}}
+* Irish: {{t|ga|Seineafón|m}}
+* Italian: {{t|it|Senofonte|m}}
+* Japanese: {{t|ja|クセノポーン|tr=kusenopōn}}, {{t|ja|クセノポン|tr=kusenopon}}
+{{trans-mid}}
+* Latin: {{t|la|Xenophōn|m}}
+* Polish: {{t|pl|Ksenofont|m}}
+* Russian: {{t+|ru|Ксенофонт|m}}
+* Slovak: {{t|sk|Xenofón|m}}
+* Spanish: {{t|es|Jenofonte}}
+* Swedish: {{t|sv|Xenofon}}
+{{trans-bottom}}
+===Further reading===
+* {{R:OneLook}}
+[[Category:en:Individuals]]
+----
+==Latin==
+===Etymology===
+From the {{der|la|grc|Ξενοφῶν}}.
+===Alternative forms===
+* {{alt|la|Xenofōn||Vulgate spelling}}
+===Pronunciation===
+* {{la-IPA|Xenophōn}}
+===Proper noun===
+{{la-proper noun|Xenophōn/Xenophōnt&lt;3&gt;|g=m}}
+# {{l|en|Xenophon}} {{gloss|a celebrated Greek historian and philosopher, born 445 B.C., a pupil of Socrates and a leader of the Greeks in the army of Cyrus the younger}}
+====Declension====
+{{la-ndecl|Xenophōn/Xenophōnt&lt;3&gt;}}
+====Related terms====
+* {{l|la|Xenophontēus}}
+* {{l|la|Xenophontīus}}
+===References===
+* {{R:L&amp;S|Xĕnŏphon}}
+* {{R:Gaffiot|Xĕnŏphōn|p=1,699/2}}
+* {{R:PersEnc}}
+* {{R:Peck}}
+* {{R:Smith's Persons}}
+* {{R:OLD|1|Xenophōn|2,124/2}}
+===Further reading===
+* {{pedia|Xenophon (scriptor)|lang=la}}</text>
+<sha1>h8l4c07o7zfic756lp693niafshm7xq</sha1>
+</revision>
+</page>

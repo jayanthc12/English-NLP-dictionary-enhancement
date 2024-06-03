@@ -1,0 +1,44 @@
+<page>
+<title>Yellowknife</title>
+<ns>0</ns>
+<id>6242</id>
+<revision>
+<id>67882181</id>
+<parentid>67058370</parentid>
+<timestamp>2022-07-12T00:39:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1321" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yellow|knife|gloss1=a colour like that of copper|gloss2=a tool prominently made, used, owned, and traded, by the T'satsąot'ınę}}.
+From {{der|en|dgr|T'satsąot'ınę}}.
+Named after the {{m|en|Tsatsaotine|gloss=Copper People}} {{gloss|the {{w|lang=en|Yellowknives}}}}, a local {{l|en|Dene}} tribe that made {{l|en|copper}} tools.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|The &lt;&lt;capital&gt;&gt; of and only &lt;&lt;city&gt;&gt; in the &lt;&lt;terr/Northwest Territories&gt;&gt;, &lt;&lt;c/Canada&gt;&gt;}}.
+====Translations====
+{{trans-top|Capital of the Northwest Territories, Canada}}
+* Armenian: {{t+|hy|Ելոունայֆ}}
+* Bengali: {{t|bn|হলুদচাকু}}, {{t|bn|ইয়েলোনাইফ}}
+* Chinese:
+*: Mandarin: {{t|cmn|耶洛奈夫|tr=Yēluònàifū|sc=Hani}}, {{t|cmn|黃刀鎮|sc=Hani}}, {{t|cmn|黄刀镇|tr=Huángdāo zhèn|sc=Hani}}
+* Esperanto: {{t|eo|Yellowknife}}, {{qualifier|Esperantized}} {{t|eo|Jelonajfo}}
+* French: {{t+|fr|Yellowknife}}
+{{trans-mid}}
+* German: {{t+|de|Yellowknife}}
+* Greek: {{t|el|Γέλοουναϊφ|n}}
+* Japanese: {{t|ja|イエローナイフ|tr=Ierōnaifu|sc=Jpan}}
+* Korean: {{t|ko|^옐로나이프}}
+* Russian: {{t+|ru|Йе́ллоунайф|m}}, {{t+|ru|Йеллоуна́йф|m}}
+{{trans-bottom}}
+====Further reading====
+* {{pedia|lang=en}}</text>
+<sha1>ew2eegtxjoole0sk9o582fydpfv9vdj</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xanthochroid</title>
+<ns>0</ns>
+<id>825334</id>
+<revision>
+<id>55475652</id>
+<parentid>47120728</parentid>
+<timestamp>2019-10-15T02:48:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="331" xml:space="preserve">==English==
+===Etymology===
+From ''[[Xanthochroi]]''.
+===Pronunciation===
+* {{IPA|en|/zænˈθəʊkɹɔɪd/}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|anthropology}} Pertaining to the [[Xanthochroi]]; having fair [[hair]] and a pale [[complexion]].
+===Noun===
+{{en-noun}}
+# {{lb|en|anthropology}} A member of the [[Xanthochroi]].</text>
+<sha1>tu6abvzxb4vfl6rnslwmlf6i2f7bbjq</sha1>
+</revision>
+</page>

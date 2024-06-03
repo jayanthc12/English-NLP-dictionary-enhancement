@@ -1,0 +1,36 @@
+<page>
+<title>yeomanlike</title>
+<ns>0</ns>
+<id>1917938</id>
+<revision>
+<id>54356044</id>
+<parentid>51874644</parentid>
+<timestamp>2019-09-28T18:37:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}; move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="896" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yeoman|like}}
+===Adjective===
+{{en-adj}}
+# Resembling a [[yeoman]] or yeoman's work: [[brave]] and [[stout]]
+#* {{quote-journal|en|date=March 31, 1995|author=Sarah Bryan Miller|title=Despot Measures|work=Chicago Reader|url=https://securesite.chireader.com/cgi-bin/Archive/abridged2.bat?path=1995/950331/POPPEA
+|passage=The small orchestra played superbly under Wikman's direction; of special note is David Schrader's '''yeomanlike''' service on the harpsichord.}}
+====Synonyms====
+* {{l|en|yeomanly}}
+===Adverb===
+{{en-adv}}
+# In the manner of a [[yeoman]]; [[bravely]] and [[stoutly]]
+#* {{quote-book|en|year=1819|author=Walter Scott|title=Ivanhoe|chapter=13|edition=|url=http://www.gutenberg.org/etext/82
+|passage=One by one the archers, stepping forward, delivered their shafts '''yeomanlike''' and bravely.}}
+====Synonyms====
+* {{l|en|yeomanly}}</text>
+<sha1>0kfavofl7n817br0yykcx4hyafheac7</sha1>
+</revision>
+</page>

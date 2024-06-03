@@ -1,0 +1,25 @@
+<page>
+<title>yiarnrey</title>
+<ns>0</ns>
+<id>2475041</id>
+<revision>
+<id>51887464</id>
+<parentid>43240437</parentid>
+<timestamp>2019-03-15T11:05:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Manx==
+===Etymology===
+{{suffix|gv|yiarn|rey}}
+===Noun===
+{{gv-noun|m}}
+# [[hardware]]</text>
+<sha1>hnggc9upndtzuw018ctgutb4b6at1ke</sha1>
+</revision>
+</page>

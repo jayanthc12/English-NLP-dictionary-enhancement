@@ -1,0 +1,42 @@
+<page>
+<title>yachay</title>
+<ns>0</ns>
+<id>4072963</id>
+<revision>
+<id>49419804</id>
+<parentid>48253136</parentid>
+<timestamp>2018-05-01T14:09:03Z</timestamp>
+<contributor>
+<username>Γαλαδριήλ</username>
+<id>936289</id>
+</contributor>
+<comment>/* See also */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="653" xml:space="preserve">==Quechua==
+===Noun===
+{{head|qu|noun}}
+# [[knowledge]], [[wisdom]]
+# [[science]]
+# [[skill]], [[experience]], practical knowledge
+# [[subject]]
+====Declension====
+{{qu-noun-c}}{{qu-poss-c}}
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|ambitransitive}} to [[know]], to [[learn]], to [[realize]], to [[find out]]
+# {{lb|qu|intransitive}} to [[dwell]], to [[live]]
+====Conjugation====
+{{qu-conj|yacha}}
+===See also===
+* {{l|qu|yacha}}
+* {{l|qu|yachachiq}}
+* {{l|qu|yachachiy}}
+* {{l|qu|yachakuy}}, {{l|qu|yachachikuy}}
+* {{l|qu|yachakuq}}, {{l|qu|yachachikuq}}
+* {{l|qu|yachana wasi}}, {{l|qu|yachay wasi}}
+* {{l|qu|jatun yachay wasi}}
+* {{l|qu|yachapay}}</text>
+<sha1>s7c5nu4fo7s1gwvxlqj4f9n6xmg2znn</sha1>
+</revision>
+</page>

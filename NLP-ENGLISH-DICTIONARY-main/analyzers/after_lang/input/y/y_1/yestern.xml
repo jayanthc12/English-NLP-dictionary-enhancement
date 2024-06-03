@@ -1,0 +1,138 @@
+<page>
+<title>yestern</title>
+<ns>0</ns>
+<id>3061091</id>
+<revision>
+<id>54358897</id>
+<parentid>54260812</parentid>
+<timestamp>2019-09-28T19:27:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}} (6)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3414" xml:space="preserve">==English==
+===Etymology===
+Perhaps from {{suffix|en|yester|en}}. Compare also {{cog|ang|ġiestran||yesterday}}.
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|archaic|rare}} Of or pertaining to [[yesterday]].
+#* '''1868''', John Conington (translator), ''The Iliad of Homer''
+#*: Argos, I fear, will pay us soon again&lt;br&gt;Her '''yestern''' debt{{...}}
+#* {{quote-book
+|en
+|year=1970
+|year_published=
+|edition=
+|editor=
+|author=Trumbull Stickney
+|title=Dramatic Verses
+|chapter=
+|url=http://books.google.com/books?id=MP_IxKA1vsQC&amp;pg=PA35&amp;dq=%22yestern%22&amp;hl=en&amp;sa=X&amp;ei=8g0_UeT9BuaL0QHQ8IHgDA&amp;redir_esc=y#v=onepage&amp;q=%22yestern%22&amp;f=false
+|genre=
+|publisher=Ardent Media
+|isbn=9780839818724
+|page=35
+|passage=For men born of yesterday are '''yestern'''
+}}
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|archaic}} [[yesterday|Yesterday]].
+#* {{quote-book
+|en
+|year=1949
+|year_published=
+|edition=
+|editor=
+|author=Lionel Trilling
+|title=Matthew Arnold
+|chapter=
+|url=http://books.google.com/books?id=Q9QOAAAAQAAJ&amp;pg=PA169&amp;dq=%22yestern%22&amp;hl=en&amp;sa=X&amp;ei=h0U_UcCbKYqB0AGdrYGwBw&amp;redir_esc=y#v=onepage&amp;q=%22yestern%22&amp;f=false
+|genre=
+|publisher=Taylor &amp; Francis
+|isbn=9780049280182
+|page=169
+|passage=&quot;F. Newman's book I saw '''yestern''' at our ouse,&quot; Arnold writes to Clough. &quot;He seems to have written himself down an hass.
+}}
+===Noun===
+{{en-noun}}
+# {{lb|en|archaic}} [[yesterday|Yesterday]].
+#* {{quote-book
+|en
+|year=1839
+|year_published='''2006'''
+|edition=Digitized
+|editor=Montagu Montagu
+|author=Johann Christoph Friedrich von Schiller
+|title=The Song of the Bell, and other Poems
+|chapter=Knight Toggenburg
+|url=http://books.google.com/books?id=sdcDAAAAQAAJ&amp;pg=PA84&amp;dq=%22yestern%22&amp;hl=en&amp;sa=X&amp;ei=h0U_UcCbKYqB0AGdrYGwBw&amp;redir_esc=y#v=onepage&amp;q=%22yestern%22&amp;f=false
+|genre=
+|publisher=
+|isbn=
+|page=85
+|passage='''Yestern''' was the day of hail, {{...}}
+}}
+#* {{quote-book
+|en
+|year=1840
+|year_published='''2012'''
+|edition=Digitized
+|editor=
+|author=Amelia Lane
+|title=The Fortress: An Historical Tale of the Fifteenth Century
+|chapter=
+|url=http://books.google.com/books?id=dDg1AQAAMAAJ&amp;pg=PA305&amp;dq=%22yestern%22&amp;hl=en&amp;sa=X&amp;ei=h0U_UcCbKYqB0AGdrYGwBw&amp;redir_esc=y#v=onepage&amp;q=%22yestern%22&amp;f=false
+|genre=
+|publisher=
+|isbn=
+|page=305
+|passage='''Yestern''', who was there could compete with me in strength?
+}}
+#* {{quote-book
+|en
+|year=1977
+|year_published='''2009'''
+|edition=Digitized
+|editor=
+|author=Bill Reed
+|title=Dogod
+|chapter=
+|url=http://books.google.com/books?id=ccdHAAAAYAAJ&amp;q=%22yesterns%22&amp;dq=%22yesterns%22&amp;hl=en&amp;sa=X&amp;ei=kE8_UfeCKen-0gGbp4HwBA&amp;redir_esc=y
+|genre=
+|publisher=
+|isbn=9780170051460
+|page=76
+|passage=For this day ought to promise not so much mulch as yesterday or all the other '''yesterns''' all back in a row of boredowndom.
+}}
+#* {{quote-book
+|en
+|year=2011
+|year_published=
+|edition=
+|editor=
+|author=Glenn P. Wolfe
+|title=Mneme's Place: Book One
+|chapter=
+|url=http://books.google.com/books?id=gbRH1bScT5kC&amp;pg=PA22&amp;dq=%22yestern%22&amp;hl=en&amp;sa=X&amp;ei=h0U_UcCbKYqB0AGdrYGwBw&amp;redir_esc=y#v=onepage&amp;q=%22yestern%22&amp;f=false
+|genre=fiction
+|publisher=iUniverse
+|isbn=9781462017157
+|page=22
+|passage=Jestern, was Joyce's '''yestern'''.
+}}
+====Translations====
+{{trans-top|yesterday}}
+* Persian: {{t+|fa|دینه|tr=dine|sc=fa-Arab}}
+* Russian: {{t+|ru|вчера́шний|m}}
+{{trans-mid}}
+* Spanish: {{t|es|ayereño}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eenrsty|sentery|styrene}}</text>
+<sha1>ip67asdik0rlmxl1nmljye2rt8nj82m</sha1>
+</revision>
+</page>

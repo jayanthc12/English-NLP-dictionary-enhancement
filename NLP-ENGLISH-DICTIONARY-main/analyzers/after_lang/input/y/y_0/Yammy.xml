@@ -1,0 +1,26 @@
+<page>
+<title>Yammy</title>
+<ns>0</ns>
+<id>6659987</id>
+<revision>
+<id>60461236</id>
+<parentid>49478024</parentid>
+<timestamp>2020-09-21T09:27:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="229" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yamaha|y}}
+===Noun===
+{{en-noun}}
+# {{lb|en|informal}} A [[product]] manufactured by {{w|Yamaha Corporation}}, such as a [[piano]], [[guitar]] or [[motorcycle]].
+{{C|en|Music|Vehicles}}</text>
+<sha1>hfef9i4o13nljyrqk8mtwb0epm3c3om</sha1>
+</revision>
+</page>

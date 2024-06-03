@@ -1,0 +1,60 @@
+<page>
+<title>xunto</title>
+<ns>0</ns>
+<id>1213388</id>
+<revision>
+<id>68861592</id>
+<parentid>68860596</parentid>
+<timestamp>2022-08-28T05:08:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="847" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{l|ast|xuntu}}
+===Etymology===
+From {{inh|ast|la|iūnctus}}.
+===Pronunciation===
+{{ast-IPA}}
+===Adjective===
+{{ast-adj|xunt}}
+# {{alt sp|ast|xuntu}}
+====Related terms====
+* {{l|ast|xuntar}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|junto}}, from {{inh|gl|la|iūnctus}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃunto̝/}}
+===Adjective===
+{{gl-adj|f=xunta}}
+# [[joined]]
+# at the same time
+# [[near]], [[next]] to
+====Derived terms====
+* {{l|gl|á xunta}}
+* {{l|gl|de xunto}}
+* {{l|gl|xunta}}
+* {{l|gl|Xunta}}
+* {{l|gl|xunto a}}
+* {{l|gl|xunto de}}
+====Related terms====
+* {{l|gl|xuntar}}
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||1|s|pres|indc}}
+===References===
+* {{R:gl:DDGM|junto}}
+* {{R:gl:CX|junto}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>b4o4fmw26ld5p3oazhhryuc4bbg0iir</sha1>
+</revision>
+</page>

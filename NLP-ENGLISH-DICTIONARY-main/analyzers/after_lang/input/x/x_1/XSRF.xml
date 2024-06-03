@@ -1,0 +1,27 @@
+<page>
+<title>XSRF</title>
+<ns>0</ns>
+<id>3174779</id>
+<revision>
+<id>63218362</id>
+<parentid>54612673</parentid>
+<timestamp>2021-07-19T20:55:36Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==English==
+===Alternative forms===
+* [[CSRF]]
+===Noun===
+{{en-noun|~}}
+# {{lb|en|computer security}} {{initialism of|en|cross-site request forgery}}
+===Anagrams===
+* {{anagrams|en|a=frsx|RFXs}}</text>
+<sha1>0sl906qesmbgk9toy17490uj5by0r6y</sha1>
+</revision>
+</page>

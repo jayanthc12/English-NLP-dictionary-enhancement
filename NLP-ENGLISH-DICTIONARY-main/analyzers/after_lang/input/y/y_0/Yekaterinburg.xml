@@ -1,0 +1,95 @@
+<page>
+<title>Yekaterinburg</title>
+<ns>0</ns>
+<id>1215523</id>
+<revision>
+<id>66392641</id>
+<parentid>66392639</parentid>
+<timestamp>2022-04-09T11:33:48Z</timestamp>
+<contributor>
+<username>ToprakM</username>
+<id>3207747</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2974" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alter|en|Ekaterinburg|Yekaterinbourg}}
+===Etymology===
+Borrowed from {{bor|en|ru|Екатеринбу́рг}}, referring to [[w:Catherine I of Russia|Catherine I of Russia]].
+===Pronunciation===
+* {{IPA|en|/jɛkətərɪnˈbɜːrɡ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|city/administrative center|obl/Sverdlovsk|c/Russia}}, the fifth-largest in the country by population.
+====Synonyms====
+* [[Sverdlovsk]] (name from 1924 to 1991)
+====Translations====
+{{trans-top|city in Russia}}
+* Arabic: {{t|ar|ييكاتيرينبرغ|m|tr=yikatirinbūrgh}}
+* Armenian: {{t+|hy|Եկատերինբուրգ}}
+* Belarusian: {{t|be|Екацерынбу́рг|m}}
+* Bengali: {{t|bn|ইয়েকাতেরিনবুর্গ}}
+* Bulgarian: {{t|bg|Екатеринбу́рг|m}}
+* Catalan: {{t|ca|Iekaterinburg}}
+* Chinese:
+*: Mandarin: {{t+|cmn|葉卡捷琳堡}}, {{t+|cmn|叶卡捷琳堡|tr=Yèkǎjiélínbǎo}}
+* Czech: {{t|cs|Jekatěrinburg|m}}
+* Danish: {{t|da|Jekaterinburg}}
+* Dutch: {{t|nl|Jekaterinenburg}}
+* Esperanto: {{t|eo|Jekaterinburg}}
+* Finnish: {{t+|fi|Jekaterinburg}}
+* French: {{t+|fr|Iekaterinbourg|m}}, {{t+|fr|Ekaterinbourg|m}}
+* Georgian: {{t|ka|ეკატერინბურგი}}
+* German: {{t+|de|Jekaterinburg|n}}
+* Greek: {{t|el|Γεκατερίνμπουργκ|m}}, {{t|el|Αικατερινούπολη|f}}
+* Hebrew: {{t|he|יקטרינבורג|m}}
+* Hindi: {{t|hi|येकातेरिनबर्ग|m}}
+* Hungarian: {{t+|hu|Jekatyerinburg}}
+* Japanese: {{t|ja|エカテリンブルク|tr=Ekaterinburuku}}
+{{trans-mid}}
+* Korean: {{t+|ko|^예카테린부르크}}
+* Latin: {{t|la|Catharinoburgum|n}}
+* Latvian: {{t|lv|Jekaterinburga}}
+* Lithuanian: {{t|lt|Jekaterinburgas}}
+* Macedonian: {{t|mk|Екате́ринбург|m}}
+* Mongolian: {{t|mn|Екатеринбург}}
+* Norwegian: {{t|no|Jekaterinburg}}
+* Persian: {{t|fa|یکاترینبورگ|tr=yekâterinburg}}
+* Polish: {{t+|pl|Jekaterynburg|m}}
+* Portuguese: {{t|pt|Ecaterimburgo|f}}
+* Russian: {{t+|ru|Екатеринбу́рг|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јека̀теринбург|m}}, {{t|sh|Ека̀теринбург|m}}
+*: Roman: {{t|sh|Jekàterinburg|m}}, {{t+|sh|Ekàterinburg|m}}
+* Spanish: {{t+|es|Ekaterimburgo|m}}
+* Swedish: {{t|sv|Jekaterinburg}}
+* Thai: {{t|th|เยคาเตรินบุร์ก|tr=yaykaatayrinbùk}}
+* Turkish: {{t|tr|Yekaterinburg}}
+* Ukrainian: {{t|uk|Єкатеринбу́рг|m}}
+* Vietnamese: {{t|vi|Yekaterinburg}}
+{{trans-bottom}}
+{{trans-see|Sverdlovsk}}
+[[Category:English eponyms]]
+----
+==Turkish==
+{{wikipedia|lang=tr}}
+===Etymology===
+From {{bor|tr|ru|Екатеринбу́рг}}.
+===Proper noun===
+{{tr-proper noun}}
+# {{place|tr|city/administrative center|obl/Sverdlovsk|c/Russia}}.
+====Declension====
+{{tr-decl-noun-unc
+|Yekaterinburg
+|Yekaterinburg'u
+|Yekaterinburg'a
+|Yekaterinburg'da
+|Yekaterinburg'dan
+|Yekaterinburg'un
+}}</text>
+<sha1>o4wiikk35434aqut37a6e4vab7tq3qt</sha1>
+</revision>
+</page>

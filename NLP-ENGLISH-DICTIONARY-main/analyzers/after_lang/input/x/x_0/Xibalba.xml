@@ -1,0 +1,44 @@
+<page>
+<title>Xibalba</title>
+<ns>0</ns>
+<id>3708243</id>
+<revision>
+<id>69114401</id>
+<parentid>68812233</parentid>
+<timestamp>2022-09-04T16:53:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="646" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|es|Xibalbá}}, from {{der|en|myn}}.
+===Pronunciation===
+* {{IPA|en|/ʃiˈbɑːlbə/}}
+===Proper noun===
+{{en-proper noun}}
+# The [[underworld]] in [[Mayan]] [[mythology]].
+====Derived terms====
+* {{l|en|Xibalban}}
+====Translations====
+{{trans-top|the underworld in Mayan mythology}}
+* Spanish: {{t|es|Xibalbá|f}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:en:Mythological locations]]
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA}}
+===Proper noun===
+{{pt-proper noun|f}}
+# {{l|en|Xibalba}} {{gloss|the underworld in Mayan mythology}}
+{{C|pt|Mythological locations}}</text>
+<sha1>mqlr4h8ihaedp0uvrwpwgo6ijnrtwqb</sha1>
+</revision>
+</page>

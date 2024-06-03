@@ -1,0 +1,24 @@
+<page>
+<title>xinola</title>
+<ns>0</ns>
+<id>471775</id>
+<revision>
+<id>68646899</id>
+<parentid>67373388</parentid>
+<timestamp>2022-08-16T06:56:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>standardize templatized topical categories for lang=nci using {{C}}; add categories nci:Female people to existing {{C}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{head|nci|noun}}
+# {{alternative spelling of|nci|señora}}
+{{C|nci|Titles|Female people}}</text>
+<sha1>gczarim85g4jlquwo3ir89f561ofxcb</sha1>
+</revision>
+</page>

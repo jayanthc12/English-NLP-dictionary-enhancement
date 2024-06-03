@@ -1,0 +1,27 @@
+<page>
+<title>yhteiskunnallisesti</title>
+<ns>0</ns>
+<id>7190971</id>
+<revision>
+<id>58593442</id>
+<parentid>52400324</parentid>
+<timestamp>2020-01-30T12:19:55Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteiskunnallinen|-sti}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-kunnallisesti*}}
+===Adverb===
+{{fi-adv|yhteiskunnallisemmin|yhteiskunnallisimmin}}
+# [[socially]], [[civilly]], [[societally]]</text>
+<sha1>k8hpyz7w7b8pg7it141pd5ca6jvdopx</sha1>
+</revision>
+</page>

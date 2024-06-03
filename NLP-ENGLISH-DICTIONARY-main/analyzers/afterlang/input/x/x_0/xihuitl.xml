@@ -1,0 +1,87 @@
+<page>
+<title>xihuitl</title>
+<ns>0</ns>
+<id>479961</id>
+<revision>
+<id>65318870</id>
+<parentid>63121938</parentid>
+<timestamp>2022-01-12T03:12:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Eastern Huasteca Nahuatl: correct indentation of section 3 (Derived terms) to 5, section 2 (Noun) to 4 and section 5 (Noun) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2091" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[year#en|Year]]
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+[[Category:Milpa Alta Central Nahuatl]]
+{{c|nhn|Time}}
+----
+==Classical Nahuatl==
+{{was fwotd|nci|2013|September|18}}
+===Etymology 1===
+====Alternative forms====
+* {{l|nci|xiuitl}}
+====Pronunciation====
+* {{IPA|nci|/ʃiwitɬ/}}
+====Noun====
+{{head|nci|nouns}}
+# [[year]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Año. '''xiuitl'''.
+===Etymology 2===
+====Alternative forms====
+* {{l|nci|xiuitl}}
+====Pronunciation====
+* {{IPA|nci|/ʃiwitɬ/}}
+====Noun====
+{{head|nci|nouns}}
+# [[grass]]
+# [[turquoise]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Turqueſa. tlaquauac xiuitl. '''xiuitl'''. xiuhtomolli.
+=====Derived terms=====
+* {{l|nci|teoxihuitl}}
+* {{l|nci|xiuhtototl}}
+====See also====
+* {{l|nci|chalchihuitl}}
+===Etymology 3===
+====Alternative forms====
+* {{l|nci|xiuitl}}
+====Pronunciation====
+* {{IPA|nci|/ʃiːwitɬ/}}
+====Noun====
+{{head|nci|noun|head=xīhuitl}}
+# [[comet]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Comete grande que parece correr. '''xiuitl'''.
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 264.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 324.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.
+[[Category:nci:Plants]]
+[[Category:nci:Time]]
+----
+==Eastern Huasteca Nahuatl==
+===Etymology 1===
+Cognate to {{cog|nci|xihuitl}}
+====Noun====
+{{head|nhe|noun}}
+# [[grass]]
+=====Derived terms=====
+* {{l|nhe|tlamantli xihuitl}}
+* {{l|nhe|xihuitzontli}}
+===Etymology 2===
+Cognate to {{cog|nci|xihuitl}}
+====Noun====
+{{head|nhe|noun}}
+# [[year]]</text>
+<sha1>8xa6tinp34eipvdce9mhur8yv5c5y4z</sha1>
+</revision>
+</page>

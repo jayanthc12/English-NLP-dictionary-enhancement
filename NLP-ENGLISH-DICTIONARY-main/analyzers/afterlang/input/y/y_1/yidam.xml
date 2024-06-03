@@ -1,0 +1,35 @@
+<page>
+<title>yidam</title>
+<ns>0</ns>
+<id>4603730</id>
+<revision>
+<id>67299637</id>
+<parentid>58296059</parentid>
+<timestamp>2022-06-06T12:41:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|bo}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1448" xml:space="preserve">==English==
+[[File:Chakrasamvara Vajravarahi.jpg|thumb|A painting depicting the '''yidam''' Chakrasamvara]]
+{{wikipedia}}
+===Etymology===
+from {{uder|en|bo|ཡི་དམ}}, (Sanskrit: {{m|sa|समादान|tr=samādān}}&lt;ref&gt;{{cite|type=book|author=Lokesh Chandra|year=1976|title=Tibetan-Sanskrit Dictionary|page=2148}} &lt;/ref&gt; or {{m|sa|སམཱདཱནི|tr=samādāni}})&lt;ref&gt;སཾ་བོད་རྒྱ་གསུམ་ཤན་སྦྱར་གྱི་ཚིག་མཛོད། (Sanskrit-Tibetan-Chinese Dictionary)(p 615) &lt;/ref&gt;
+The word is said to be a contraction of {{m|bo|ཡིད་ཀྱི་དམ་ཚིག}}, which means to bind one’s mind {{m|bo|ཡིད}}་ by promise་{{m|bo|དམ་ཚིག}}.་
+===Noun===
+{{en-noun}}
+# {{lb|en|Tibetan Buddhism}} A type of deity associated with tantric or [[Vajrayana]] [[Buddhism]] said to be manifestations of Buddhahood or enlightened mind.
+#* {{quote-book|en|title=The Collected Works of Chogyam Trungpa|volume=7|author=Chogyam Trungpa|passage='''Yidams''' are not to be equated with the patron saints or guardian angels found in the Jewish, Christian, and Muslim traditions.|url=https://books.google.com/books?id=172yMBZKvpEC&amp;lpg=PA272&amp;dq=%22yidams%22&amp;pg=PA272#v=onepage&amp;q=%22yidams%22&amp;f=false|year=2004}}
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=adimy|yadim}}
+[[Category:English 2-syllable words]]
+[[Category:en:Buddhist deities]]</text>
+<sha1>bp8l22rr1ifjvr9un4cbo81xd7w8fh9</sha1>
+</revision>
+</page>

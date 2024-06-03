@@ -1,0 +1,27 @@
+<page>
+<title>yalliy</title>
+<ns>0</ns>
+<id>4784845</id>
+<revision>
+<id>44201284</id>
+<parentid>39540633</parentid>
+<timestamp>2017-05-25T00:00:44Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==Quechua==
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|transitive}} to [[overtake]], [[pass]], [[exceed]], [[overcome]]
+====Conjugation====
+{{qu-conj|yalli}}
+====See also====
+* {{l|qu|yalli}}</text>
+<sha1>kiffqqrf9yf1g3zexo1zeqkblrhl3jv</sha1>
+</revision>
+</page>

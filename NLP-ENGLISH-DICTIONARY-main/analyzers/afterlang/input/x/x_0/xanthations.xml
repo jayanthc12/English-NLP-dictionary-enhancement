@@ -1,0 +1,23 @@
+<page>
+<title>xanthations</title>
+<ns>0</ns>
+<id>1342956</id>
+<revision>
+<id>55563335</id>
+<parentid>53092121</parentid>
+<timestamp>2019-10-15T06:45:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthation}}</text>
+<sha1>39f45eikpqvmj8p3v28mxhotxdaoa7e</sha1>
+</revision>
+</page>

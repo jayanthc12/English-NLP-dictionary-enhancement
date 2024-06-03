@@ -1,0 +1,28 @@
+<page>
+<title>ydinskandaali</title>
+<ns>0</ns>
+<id>4405282</id>
+<revision>
+<id>69318258</id>
+<parentid>52035634</parentid>
+<timestamp>2022-09-18T17:08:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|skandaali|t2=scandal}}
+===Pronunciation===
+{{fi-p|ydin-skandaali}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[scandal]]
+====Declension====
+{{fi-decl-paperi|ydinskandaal|a}}</text>
+<sha1>jjkf0keookm4aksuvttvpcr6v687l1u</sha1>
+</revision>
+</page>

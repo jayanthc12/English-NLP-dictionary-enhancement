@@ -1,0 +1,29 @@
+<page>
+<title>xenonotok</title>
+<ns>0</ns>
+<id>1791389</id>
+<revision>
+<id>52703725</id>
+<parentid>25652002</parentid>
+<timestamp>2019-05-07T20:53:40Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xenon|-otok|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|no|no|tok}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||2|p|spos|poss}}
+====Declension====
+{{hu-infl-nom|xenonotoka|o|n=sg|esm_sg=1}}</text>
+<sha1>cgamjqh9qwknrt4dje6z8xd44a8tdhe</sha1>
+</revision>
+</page>

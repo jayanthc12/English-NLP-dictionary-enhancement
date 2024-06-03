@@ -1,0 +1,30 @@
+<page>
+<title>ydinvaltio</title>
+<ns>0</ns>
+<id>4405087</id>
+<revision>
+<id>69318286</id>
+<parentid>52035602</parentid>
+<timestamp>2022-09-18T17:10:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="337" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|valtio|t2=state}}
+===Pronunciation===
+{{fi-p|ydin-valtio}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[state]], [[nuclear power]] {{gloss|country possessing nuclear weapons}}
+====Declension====
+{{fi-decl-valtio|ydinvaltio|a}}
+====Synonyms====
+* {{l|fi|ydinasevaltio}}</text>
+<sha1>m06x35xe9e6rv81tjhmk2pp13kbvshd</sha1>
+</revision>
+</page>

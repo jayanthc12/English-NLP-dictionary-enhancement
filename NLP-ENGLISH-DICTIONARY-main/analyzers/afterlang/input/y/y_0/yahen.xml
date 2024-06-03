@@ -1,0 +1,25 @@
+<page>
+<title>yahen</title>
+<ns>0</ns>
+<id>5586781</id>
+<revision>
+<id>61594147</id>
+<parentid>61534365</parentid>
+<timestamp>2021-01-18T08:29:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{de-verb-weak|...}} with new-style {{de-verb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==German==
+===Verb===
+{{de-verb}}
+# {{dated form of|de|iahen}}
+====Conjugation====
+{{de-conj}}</text>
+<sha1>n2vqtvrpgf27ne8pdpsnl97wonv576x</sha1>
+</revision>
+</page>

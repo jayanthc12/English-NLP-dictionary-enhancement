@@ -1,0 +1,32 @@
+<page>
+<title>xaboi</title>
+<ns>0</ns>
+<id>1734283</id>
+<revision>
+<id>64973375</id>
+<parentid>63506580</parentid>
+<timestamp>2021-12-16T16:33:43Z</timestamp>
+<contributor>
+<username>Santi2222</username>
+<id>2319339</id>
+</contributor>
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="426" xml:space="preserve">==Basque==
+{{wikipedia|lang=eu}}
+===Etymology===
+Borrowed from {{bor|eu|osp|xabon}} (compare modern Spanish {{m|es|jabón}}), from {{der|eu|LL.|sāpōne}}, singular ablative of {{m|la|[[sāpō]], [[sāpōnis]]}}, from {{der|eu|gem-pro|*saipǭ}}.
+===Pronunciation===
+{{eu-IPA}}
+===Noun===
+{{eu-noun|in}}
+# [[soap]]
+====Declension====
+{{eu-decl-inanim}}
+====Derived terms====
+* {{l|eu|xaboiontzi}}
+[[Category:eu:Hygiene]]</text>
+<sha1>3nwgn9c072dyh1k13skhwg2334v53ek</sha1>
+</revision>
+</page>

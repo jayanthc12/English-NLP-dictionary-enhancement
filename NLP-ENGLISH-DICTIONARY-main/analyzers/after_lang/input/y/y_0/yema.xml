@@ -1,0 +1,102 @@
+<page>
+<title>yema</title>
+<ns>0</ns>
+<id>92057</id>
+<revision>
+<id>69588189</id>
+<parentid>69259808</parentid>
+<timestamp>2022-10-24T18:54:28Z</timestamp>
+<contributor>
+<username>Isagani Chua</username>
+<id>3913151</id>
+</contributor>
+<minor />
+<comment>/* Descendants */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2247" xml:space="preserve">{{also|þema}}
+==Asturian==
+===Etymology===
+From {{inh|ast|la|gemma}}.
+===Noun===
+{{ast-noun|f|yemes}}
+# [[yolk]] {{gloss|yellow of egg}}
+----
+==Cebuano==
+===Etymology===
+Borrowed from {{bor|ceb|es|yema}}, from {{der|ceb|la|gemma}}.
+===Pronunciation===
+* {{hyphenation|ceb|ye|ma}}
+===Noun===
+{{head|ceb|noun}}
+# A [[sweet]] [[custard]] [[candy]] [[ball]] made with [[egg yolks]] and [[condensed milk]].
+====Synonyms====
+* {{l|ceb|yemas}}
+----
+==Ga'anda==
+===Noun===
+{{head|gqa|noun|head=yèma}}
+# {{lb|gqa|Ga'anda}} [[water]]
+====Synonyms====
+* {{l|gqa|yeme|yème}} {{qualifier|Gabin}}
+===References===
+* {{R:egy:EDE|v=3|p=201}}:
+*: Ga'anda yèma [Zima], Gabin yème [Zima]
+----
+==Lindu==
+===Adverb===
+{{head|klw|adverb}}
+# [[who]]
+----
+==Old Spanish==
+===Etymology===
+Inherited from {{inh|osp|la|gemma}}.
+===Noun===
+{{head|osp|noun|g=f}}
+# [[yolk]] (of an [[egg]])
+#* {{Q|osp|Alfonso X|Lapidario|fol. 22v|year=1250|quote=Et su color es assi como '''yema''' de ueuo.|t=And its colour is similar to that of egg '''yolk'''.}}
+# [[bud]], [[shoot]]
+====Descendants====
+* {{desc|es|yema}}
+----
+==Phuthi==
+===Etymology===
+From {{inh|bnt-phu|bnt-pro|*-jɪ́ma}}.
+===Verb===
+{{bnt-phu-verb|yéma}}
+# to [[stop]]
+====Inflection====
+{{rfinfl|bnt-phu}}
+----
+==Spanish==
+===Etymology===
+From {{inh|es|osp|yema}}, inherited from {{inh|es|la|gemma}}. {{doublet|es|gema}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[yolk]] (of an [[egg]])
+#: {{ux|es|Le quité las '''yemas''' a los huevos antes de mezclarlos en el guacamole.|I removed the '''yolk''' from the eggs before mixing them in the guac.}}
+# [[tip]] (of a [[finger]])
+#: {{ux|es|Ponga la '''yema''' de su pulgar sobre la superficie.|Please put the '''tip''' of your thumb on the surface.}}
+# {{lb|es|botany}} [[bud]]; [[shoot]]
+#: {{syn|es|botón|retoño|brote|vástago|pimpollo}}
+====Derived terms====
+* {{l|es|pan de yema}}
+* {{l|es|yema del dedo}}
+====Descendants====
+* {{desc|ca|gema|bor=1}} {{q|dialectal, Castilianism}}
+* {{desc|ceb|yema|bor=1}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Eggs}}
+----
+==Tabancale==
+===Noun===
+{{head|sai-tab|noun}}
+# [[water]]
+===References===
+* Willem F. H. Adelaar, ''The Languages of the Andes''</text>
+<sha1>56nlf7dx81lb5gv99emq1ng67rigkw6</sha1>
+</revision>
+</page>

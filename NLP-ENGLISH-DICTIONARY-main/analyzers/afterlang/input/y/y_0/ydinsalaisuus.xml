@@ -1,0 +1,28 @@
+<page>
+<title>ydinsalaisuus</title>
+<ns>0</ns>
+<id>4405287</id>
+<revision>
+<id>69318250</id>
+<parentid>52035636</parentid>
+<timestamp>2022-09-18T17:08:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|salaisuus|t2=secret}}
+===Pronunciation===
+{{fi-p|ydin-salaisuus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[secret]]
+====Declension====
+{{fi-decl-kalleus|ydinsalaisuu|a}}</text>
+<sha1>9mfrn5yrhprqyaze36kg92ndkxfha4n</sha1>
+</revision>
+</page>

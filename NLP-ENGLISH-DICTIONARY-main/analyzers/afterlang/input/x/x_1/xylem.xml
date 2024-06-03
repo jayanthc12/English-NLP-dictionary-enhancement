@@ -1,0 +1,65 @@
+<page>
+<title>xylem</title>
+<ns>0</ns>
+<id>61119</id>
+<revision>
+<id>69382684</id>
+<parentid>67285657</parentid>
+<timestamp>2022-09-26T21:30:11Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1501" xml:space="preserve">{{also|Xylem}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|de|Xylem}}, from {{uder|en|grc|ξύλον||wood}}.
+===Pronunciation===
+* {{enPR|zīʹləm}}, {{IPA|en|/ˈzaɪ.ləm/}}
+* {{rhymes|en|aɪləm|s=2}}
+===Noun===
+{{en-noun}}
+# {{lb|en|botany}} A [[vascular]] [[tissue]] in land plants primarily responsible for the distribution of water and minerals taken up by the roots; also the primary component of [[wood]].
+====Derived terms====
+* {{l|en|metaxylem}}
+* {{l|en|protoxylem}}
+* [[xylematic]]
+* [[xylemian]]
+====Translations====
+{{trans-top|botany: vascular tissue in land plants}}
+* Bulgarian: {{t|bg|дървесна тъкан|f}}
+* Catalan: {{t|ca|xilema|m}}
+* Dutch: {{t+|nl|xyleem|n}}
+* Esperanto: {{t|eo|ksilemo}}
+* Finnish: {{t|fi|puusolukko}}, {{t+|fi|ksyleemi}}
+* French: {{t+|fr|xylème}}
+* German: {{t+|de|Xylem|n}}
+* Hungarian: {{t|hu|farész}}
+* Indonesian: {{t+|id|xilem}}
+* Irish: {{t|ga|xiléim|f}}
+* Italian: {{t|it|xilema|m}}
+* Malay: {{t+|ms|xilem}}
+{{trans-mid}}
+* Maori: {{t|mi|tariwai}}
+* Occitan: {{t|oc|xilèma|m}}
+* Persian: {{t+|fa|آوند چوبی|tr=āvand-e ĉūbī}}
+* Polish: {{t+|pl|drewno|n}}, {{t|pl|ksylem|m}}
+* Portuguese: {{t+|pt|xilema|m}}
+* Romanian: {{t+|ro|xilem|n}}
+* Russian: {{t+|ru|ксилема|f}}
+* Spanish: {{t+|es|xilema|m}}
+* Tagalog: {{t|tl|danumdaluyan}}
+* Telugu: {{t+|te|దారువు}}
+* Thai: {{t+|th|ไซเล็ม}}
+{{trans-bottom}}
+====Coordinate terms====
+* {{l|en|phloem}}
+[[Category:en:Plant tissues]]</text>
+<sha1>3d2lgvl2xde48r2bzrtyi8w5s479ovw</sha1>
+</revision>
+</page>

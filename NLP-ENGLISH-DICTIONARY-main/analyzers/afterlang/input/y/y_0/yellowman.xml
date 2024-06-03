@@ -1,0 +1,30 @@
+<page>
+<title>yellowman</title>
+<ns>0</ns>
+<id>4531712</id>
+<revision>
+<id>54983106</id>
+<parentid>49195197</parentid>
+<timestamp>2019-10-10T14:25:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1066" xml:space="preserve">{{also|yellow man|Yellowman}}
+==English==
+===Noun===
+{{en-noun|yellowmen}}
+# {{alternative form of|en|yellow man}}
+#* '''1878''' February 11, ''This Newfoundland of Ours: A lecture delivered by the Rev. M. Harvey'', in ''Across Newfoundland with the Governor'', page 104:
+#*: In the United States we see going on a commingling of types of mankind, of all nationalities, whitemen, blackmen, '''yellowmen''', redmen, producing an amalgam {{...}}
+#* '''1891''', Francis William Bain, ''Antichrist: A Short Examination of the Spirit of the Age'', page 95:
+#*: That which the complaints of the ousted white labourers had been unable to effect — the expulsion of the '''yellowmen''' who undersold them in the labour-market {{...}}
+#* '''1909''', Robert Maclauchlan Macdonald, ''Chillagoe Charlie'', page 181:
+#*: [If they] hope to prospect peaceably and thus avoid trouble with the '''yellowmen''' they will be disappointed; I know the pigtails too well, and I also know they have found something good or they wouldn't have risked a fight with such a party as we were.</text>
+<sha1>elwwrttjofy9m4fzjgksuyc738a2mzh</sha1>
+</revision>
+</page>

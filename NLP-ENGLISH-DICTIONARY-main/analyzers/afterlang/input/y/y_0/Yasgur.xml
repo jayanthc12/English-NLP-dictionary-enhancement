@@ -1,0 +1,28 @@
+<page>
+<title>Yasgur</title>
+<ns>0</ns>
+<id>7321899</id>
+<revision>
+<id>67798354</id>
+<parentid>67696674</parentid>
+<timestamp>2022-07-09T19:49:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="202" xml:space="preserve">==English==
+===Proper noun===
+{{wikipedia|Max Yasgur}}
+{{en-proper noun}}
+# {{surname|en}}. of Russian Jewish ancestry
+===See also===
+* [[Woodstock]]
+===Anagrams===
+* {{anagrams|en|a=agrsuy|sugary}}</text>
+<sha1>dhpepb2agmv212wmqibknnsq4610op9</sha1>
+</revision>
+</page>

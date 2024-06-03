@@ -1,0 +1,29 @@
+<page>
+<title>xunetu</title>
+<ns>0</ns>
+<id>2463648</id>
+<revision>
+<id>54168891</id>
+<parentid>43233698</parentid>
+<timestamp>2019-09-18T10:26:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{cog}} for cognates in place of LANG {{m|CODE|...}} or {{etyl|CODE|-}} {{m|CODE|...}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="392" xml:space="preserve">==Asturian==
+===Etymology===
+From a diminutive of {{m|ast|xunu||June}}, from {{der|ast|la|iūnius}}. Compare {{cog|scn|giugnettu}}, {{cog|fr|juillet}} (cf. also the Old French form {{m|fro|juignet}}), Occitan {{m|oc|julhet}}, Walloon {{m|wa|djulete}}.
+===Noun===
+{{ast-noun|m|xunetos}}
+# [[July]]
+====Synonyms====
+* {{l|ast|xuliu}}
+===See also===
+* {{list:Gregorian calendar months/ast}}</text>
+<sha1>ojlb8ldu0d5kqo76m5r5tvfdbl7tl12</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>Yael</title>
+<ns>0</ns>
+<id>3503134</id>
+<revision>
+<id>67297080</id>
+<parentid>63218923</parentid>
+<timestamp>2022-06-06T11:57:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|he}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="395" xml:space="preserve">==English==
+{{wikipedia|Yael (name)}}
+===Alternative forms===
+* {{l|en|Yaël}}, {{l|en|Jael}}, {{l|en|Jaël}}
+===Etymology===
+Rendering of the modern Israeli {{uder|en|he|יעל}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|from=Hebrew}}
+====Translations====
+{{trans-see|female given name|Jael}}
+===Anagrams===
+* {{anagrams|en|a=aely|Ealy|Laye|Yale|aley|ayle|laye|yale}}</text>
+<sha1>0siao8nxd105sdf40uwxnnpkyivxxab</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>ydinalus</title>
+<ns>0</ns>
+<id>1151675</id>
+<revision>
+<id>59682777</id>
+<parentid>58642110</parentid>
+<timestamp>2020-07-04T23:50:27Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add etymology based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|alus}}
+===Pronunciation===
+{{fi-pronunciation|ydin-alus}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear]]-powered [[ship]]
+====Declension====
+{{fi-decl-vastaus|ydinalu|a}}</text>
+<sha1>9b035hfsr8bspkkwrbkg870a3lznbbt</sha1>
+</revision>
+</page>

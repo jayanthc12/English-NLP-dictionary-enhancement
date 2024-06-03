@@ -1,0 +1,27 @@
+<page>
+<title>xoong</title>
+<ns>0</ns>
+<id>6340299</id>
+<revision>
+<id>65386816</id>
+<parentid>49640080</parentid>
+<timestamp>2022-01-19T16:37:21Z</timestamp>
+<contributor>
+<ip>123.27.247.216</ip>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="266" xml:space="preserve">==Vietnamese==
+===Etymology===
+Borrowed from {{bor|vi|fr|casserole|cas'''serole'''}}.
+===Pronunciation===
+{{vi-pron}}
+===Noun===
+{{vi-noun}}
+# {{lb|vi|cooking}} [[pan]]; wide, flat receptacle used for [[cooking]]
+====Synonyms====
+* {{sense|pan}} {{l|vi|chảo}}</text>
+<sha1>3ybbn7m31me03r5eut7z8827slozycm</sha1>
+</revision>
+</page>

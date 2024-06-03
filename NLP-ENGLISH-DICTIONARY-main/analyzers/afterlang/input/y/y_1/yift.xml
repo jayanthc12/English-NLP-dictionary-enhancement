@@ -1,0 +1,29 @@
+<page>
+<title>yift</title>
+<ns>0</ns>
+<id>7246921</id>
+<revision>
+<id>64434820</id>
+<parentid>61177393</parentid>
+<timestamp>2021-10-27T03:11:21Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ Add rhyme. (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==English==
+===Etymology===
+{{root|en|ine-pro|*gʰebʰ-}}
+From {{inh|en|ang|gift}}. {{doublet|en|gift}}.
+===Pronunciation===
+* {{IPA|en|/jɪft/}}
+* {{rhymes|en|ɪft|s=1}}
+===Noun===
+{{en-noun}}
+# {{lb|en|nonstandard|West Country}} a [[gift]]</text>
+<sha1>gnlgm35fjyk8sti9f3v0aqeh241dexq</sha1>
+</revision>
+</page>

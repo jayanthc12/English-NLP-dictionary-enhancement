@@ -1,0 +1,23 @@
+<page>
+<title>xarrupis</title>
+<ns>0</ns>
+<id>2522357</id>
+<revision>
+<id>15872525</id>
+<parentid>14663318</parentid>
+<timestamp>2012-01-10T15:48:21Z</timestamp>
+<contributor>
+<username>MglovesfunBot</username>
+<id>264304</id>
+</contributor>
+<minor />
+<comment>bot: bypassing template redirects, minor spacing</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=sg|t=pres|m=sub|xarrupar}}</text>
+<sha1>p9jb4tosls432076be9t9jwl3t4mpc7</sha1>
+</revision>
+</page>

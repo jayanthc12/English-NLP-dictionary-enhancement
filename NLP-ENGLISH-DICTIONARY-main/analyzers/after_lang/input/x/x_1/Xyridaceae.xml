@@ -1,0 +1,32 @@
+<page>
+<title>Xyridaceae</title>
+<ns>0</ns>
+<id>4204067</id>
+<revision>
+<id>69162339</id>
+<parentid>51940541</parentid>
+<timestamp>2022-09-07T19:53:32Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==Translingual==
+===Etymology===
+{{suffix|mul|Xyris|idae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|family|order|Poales}}
+====Hypernyms====
+* {{sense|family}} {{Poales Hypernyms}}
+====Hyponyms====
+* {{sense|family}} {{taxlink|Abolboda|genus}}, {{taxlink|Achlyphila|genus}}, {{taxlink|Aratitiyopea|genus}}, {{taxlink|Orectanthe|genus}}, ''[[Xyris]]''&amp;nbsp;- genera
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}</text>
+<sha1>hshs95qf7sb6eyj3yd5k2uorlblsyut</sha1>
+</revision>
+</page>

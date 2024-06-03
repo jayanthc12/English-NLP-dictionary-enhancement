@@ -1,0 +1,24 @@
+<page>
+<title>xintaran</title>
+<ns>0</ns>
+<id>4329480</id>
+<revision>
+<id>53115233</id>
+<parentid>40139951</parentid>
+<timestamp>2019-05-19T04:50:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'third-person plural pluperfect indicative' to 3|p|plup|ind; canonicalized multiword inflection tag 'third-person plural imperfect preterite subjunctive' to 3|p|impf|pret|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">{{also|xintarán}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xintar||3|p|plup|ind|;|3|p|impf|pret|sub}}</text>
+<sha1>ha0p97zstm3l86j7tnwfmjm14c8l2aa</sha1>
+</revision>
+</page>

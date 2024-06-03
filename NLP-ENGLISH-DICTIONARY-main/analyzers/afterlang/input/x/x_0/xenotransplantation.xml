@@ -1,0 +1,57 @@
+<page>
+<title>xenotransplantation</title>
+<ns>0</ns>
+<id>68879</id>
+<revision>
+<id>66134732</id>
+<parentid>66134731</parentid>
+<timestamp>2022-03-13T06:53:47Z</timestamp>
+<contributor>
+<username>Koavf</username>
+<id>5455</id>
+</contributor>
+<comment>/* English */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1963" xml:space="preserve">{{also|xénotransplantation}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{prefix|en|xeno|transplantation}}.
+===Noun===
+{{en-noun|~}}
+# The [[transplantation]] of [[biological]] or [[organic]] [[matter]] from a given [[species]] into a [[different]] one, especially when this matter has been [[alter]]ed (such as by [[genetic engineering]])
+#: {{quote-web |en |url=https://www.bbc.com/news/health-60708120 |title='''Xenotransplantation''': Are pigs the future of organ transplants? |publisher={{w|BBC}} |work=Inside Health |date=2022-03-12 |accessdate=2022-03-12 |author=James Gallagher}}
+====Translations====
+{{trans-top|transplantation between species}}
+* Arabic: {{t|ar|زرع الأعضاء}}
+* Basque: {{t|eu|xenotransplante}}
+* Chinese:
+*: Mandarin: {{t|cmn|異種器官移植|sc=Hani}}, {{t|cmn|异种器官移植|tr=yǐzhǒngqìguānyízhí|sc=Hani}}
+* Danish: {{t|da|xenotransplantation|c}}
+* Dutch: {{t+|nl|xenotransplantatie|f}}
+* Esperanto: {{t|eo|ksenotransplantado}}
+* Finnish: {{t|fi|vieraslajisiirto}}, {{t|fi|ksenotransplantaatio}}
+* French: {{t+|fr|xénogreffe|f}}
+* German: {{t+|de|Xenotransplantation|f}}
+* Greek: {{t|el|ξενομεταμόσχευση|f}}
+* Hebrew: {{t|he|השתלה שלא מבן-מינו|f}}
+* Hindi: {{t-needed|hi}}
+{{trans-mid}}
+* Hungarian: {{t|hu|xenotranszplantáció}}
+* Italian: {{t+|it|xenotrapianto|m}}
+* Japanese: {{t|ja|異種移植|tr=ishuishoku}}
+* Korean: {{t-needed|ko}}
+* Malay: {{t|ms|xenotransplan}}
+* Portuguese: {{t|pt|xenotransplante|m}}
+* Russian: {{t+|ru|ксенотранспланта́ция|f}}
+* Spanish: {{t|es|xenotrasplante|m}}
+* Swedish: {{t|sv|xenotransplantation|c}}
+* Thai: {{t|th|ผลิตอวัยวะของสัตว์เพื่อการย้ายฝาก|tr=pàlìt àwaiwá kŏng sàt pêua gaanyáai fàak}}
+* Turkish: {{t|tr|zenotransplantasyon}}, {{t|tr|ksenotransplantasyon}}
+* Vietnamese: {{t-needed|vi}}
+{{trans-bottom}}
+[[Category:en:Surgery]]</text>
+<sha1>acqwnovo9z3as5sbgvnbr1nzyonrrq3</sha1>
+</revision>
+</page>

@@ -1,0 +1,73 @@
+<page>
+<title>xitomatl</title>
+<ns>0</ns>
+<id>315169</id>
+<revision>
+<id>68776985</id>
+<parentid>64677476</parentid>
+<timestamp>2022-08-27T08:35:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2266" xml:space="preserve">==Central Nahuatl==
+[[File:20160913Solanum lycopersicum2.jpg|thumb|'''Xitomatl''', “tomato”.]]
+===Alternative forms===
+* {{sense|Cholula}} {{l|nhn|xihtomatl}}
+===Etymology===
+From {{der|nhn|nci|xitomatl}}.
+===Pronunciation===
+* {{IPA|nhn|/ʃiː.ˈto.matɬ/}}
+===Noun===
+{{head|nhn|noun}}
+# [[tomato]]
+===References===
+* Aguilar Carrera, Sergio (2012); ''Método práctico de lengua náhuatl del Altiplano Mexicano''; Amecameca variant, Dirección de Casa de Cultura de Tecámac, State of Mexico, Mexico. ISBN 03-2012-030812540200-01.
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Milpa Alta Central Nahuatl]]
+[[Category:Tlaxcala Central Nahuatl]]
+{{c|nhn|Vegetables}}
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃiː.ˈto.mat͡ɬ/|/ʃiː.ˈtó.matɬ/}}
+===Noun===
+{{head|nci|noun|head=xītomatl}}
+# [[tomato]] (''[[Solanum lycopersicum]]'')
+#* '''c. 1609''', [[w:Fernando Alvarado Tezozomoc|Tezozomoc]], [[w:Chimalpahin|Chimalpahin]], ''Cronica mexicayotl'', f. 24v
+#*: Auh ca nohuian quihualtocatiaque yn tlalli. auh yn quihualquitiaque. yn intech monequia. nacatl yn tonacayotl. yhuã yn etl. huauhtli. chian yhuan chilli. '''xitomatl'''.
+#*: (And everywhere they sowed seeds in the soil, and they ate what they needed: meat and the products of the land [like] corn, beans, amaranth, chia, chilis, and tomatoes.)
+====Related terms====
+* {{l|nci|tomatl}}
+====Descendants====
+* {{desc|nhn|xihtomatl}}
+** {{desc|es|jitomate}}
+===References===
+* {{cite-book|author=Chimalpahin Quauhtlehuanitzin, Domingo Francisco de San Antón Muñón|year=1997|title=Codex Chimalpahin|others=ed. and trans. by Arthur J. O. Anderson and Susan Schroeder|location=Norman|publisher=University of Oklahoma Press|pages=76–77}}
+* {{cite-book|author=Karttunen, Frances|year=1983|title=An Analytical Dictionary of Nahuatl|location=Austin|publisher=University of Texas Press|page=326}}
+[[Category:Classical Nahuatl terms using regularized orthography]]
+[[Category:nci:Fruits]]
+----
+==Guerrero Nahuatl==
+===Noun===
+{{head|ngu|noun}}
+# [[tomato]]
+----
+==Morelos Nahuatl==
+===Noun===
+{{head|nhm|noun}}
+# [[tomato]]
+----
+==Sierra Negra Nahuatl==
+===Etymology===
+===Noun===
+{{head|nsu|noun}}
+# [[tomato]], red tomato.
+[[Category:nsu:Fruits]]</text>
+<sha1>jxljya9enyz5du7gwkxd8yulvy4k3vg</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>xohuilin</title>
+<ns>0</ns>
+<id>831498</id>
+<revision>
+<id>55476861</id>
+<parentid>47663794</parentid>
+<timestamp>2019-10-15T02:52:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="962" xml:space="preserve">==Classical Nahuatl==
+{{wikipedia|Catfish}}
+===Alternative forms===
+* {{l|nci|xoujli}}
+===Pronunciation===
+* {{IPA|nci|/ʃowili(n)/}}
+===Noun===
+{{head|nci|nouns}}
+# [[catfish|Catfish]].
+#* '''16C:''' [[w:Bernardino de Sahagún|Bernardino de Sahagún]], &quot;[[w:Florentine Codex|Florentine Codex]]&quot;, book 1
+#*: Auh in pipiltotonti muchintin qujntlaxqujaia: yn aca coatl: cujiatl, '''xoujli''', axolotl, tototl
+#*: (And all the little children roasted some snakes, frogs, small white fish, the axolotl, birds)
+===References===
+* {{cite-book|author=Karttunen, Frances|year=1983|title=An Analytical Dictionary of Nahuatl|location=Austin|publisher=University of Texas Press|page=330}}
+* {{cite-book|author=Sahagún, Bernardino de|year=1981|title=Florentine Codex: Book 1 - The Gods|others=ed. and trans. by Arthur J. O. Anderson and Charles E. Dibble|edition=2nd ed., rev.|location=Salt Lake City|publisher=University of Utah Press|page=30}}
+[[Category:nci:Fish]]</text>
+<sha1>pjjl2zk9ky24dd5ncjafmixto32zvzg</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>Yaquina</title>
+<ns>0</ns>
+<id>3762260</id>
+<revision>
+<id>58558044</id>
+<parentid>58344045</parentid>
+<timestamp>2020-01-26T22:46:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Rivers in the United States</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==English==
+{{wikipedia}}
+===Noun===
+{{en-plural noun}}
+# A [[Native American]] people from [[Oregon]].
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|river/and/bay|s/Oregon}}.
+====Derived terms====
+* {{l|en|yaquinae}}</text>
+<sha1>1u3exiv24zq3lnci5zs57sscnhbj3w1</sha1>
+</revision>
+</page>

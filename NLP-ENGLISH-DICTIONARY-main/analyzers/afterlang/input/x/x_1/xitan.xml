@@ -1,0 +1,35 @@
+<page>
+<title>xitan</title>
+<ns>0</ns>
+<id>4036209</id>
+<revision>
+<id>61409760</id>
+<parentid>60993579</parentid>
+<timestamp>2020-12-28T18:29:16Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>replaced {{[[T:mt-rootbox|mt-rootbox]]}} with {{[[T:mt-root|mt-root]]}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="456" xml:space="preserve">==Maltese==
+{{mt-root|x-j-t-n}}
+===Etymology===
+From {{inh|mt|ar|شَيْطان}}.
+===Pronunciation===
+* {{IPA|mt|/ʃɪˈtaːn/}}
+===Noun===
+{{mt-noun|g=m|p=xjaten}}
+# {{lb|mt|religion}} a [[devil]]; a [[demon]]
+===Proper noun===
+{{mt-proper noun|g=m|head=ix-xitan}}
+# {{lb|mt|religion}} the [[Devil]]; [[Satan]] {{gloss|lord of all demons and adversary of God}}
+====Alternative forms====
+* {{alter|mt|Xitan}}
+===Related terms===
+* {{l|mt|mxajtan}}</text>
+<sha1>necfdoiw2fyulv4u0l1sfg69yg9b40n</sha1>
+</revision>
+</page>

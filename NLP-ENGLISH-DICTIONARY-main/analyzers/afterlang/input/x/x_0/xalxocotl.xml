@@ -1,0 +1,71 @@
+<page>
+<title>xalxocotl</title>
+<ns>0</ns>
+<id>7006655</id>
+<revision>
+<id>67761718</id>
+<parentid>62716342</parentid>
+<timestamp>2022-07-09T10:55:55Z</timestamp>
+<contributor>
+<username>Dunderdool</username>
+<id>3953866</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2056" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2020|April|5}}
+[[File:Goiaba vermelha.jpg|thumb|right]]
+===Etymology===
+Equivalent to {{compound|nci|xālli|t1=sand|xocotl|t2=fruit}}. Cf. {{cog|nhn|chalxocotl}}, {{cog|nch|chalchokotl}}, {{cog|nhx|xa̱lxocoꞌ}}, {{cog|ncj|xalxocotl}}, {{cog|ncl|xalxocul}}, {{cog|nhg|xoxocotl}}, {{cog|nhi|xalxocotl}}.
+===Pronunciation===
+* {{IPA|nci|/ʃaːlˈʃokot͜ɬ/}}
+===Noun===
+{{head|nci|nouns|head=xālxocotl}}
+# [[guava]] (fruit, ''[[Psidium guajava]]'')
+#* {{quote-book|nci
+|year=c. 1569
+|editor={{w|Bernardino de Sahagún}}
+|title={{w|Florentine Codex|Historia general de las cosas de Nueva España}}
+|volume=11
+|page=122v
+|passage=¶ '''Xalxocotl''', xalxocoquavitl: qujllo caiaztic, qujllo caiaoac ixtlatlaccamjltic injnacaio, cocopeoa injquauhio: injtlaaqujllo iztaleoac, coziaiactic, texio, tetexio, xallo:
+|t= Guava; guava tree. It is covered in sparse foliage; its wood is red-brown; it sheds its branches; its fruit is pale, dark yellow, fine-grained, sandy
+}}
+#* {{quote-book|la|termlang=nci|brackets=on
+|year=1651
+|author=Francisco Hernández
+|authorlink=Francisco Hernández de Toledo
+|title=Rerum medicarum Novae Hispaniae thesaurus, seu plantarum animalium mineralium Mexicanorum historia
+|location=Romae
+|publisher=Ex typographeio Vitalis Mascardi
+|passage='''XALXOCOTL''' arbor eſt magna, ''Guayabus'' ab Haitinis dicta
+|t=The ''xalxocotl'' is a large tree, called ''guayabus'' by the Haitians
+}}
+====Holonyms====
+* {{l|nci|xalxococuahuitl|t=guava tree}}
+====Derived terms====
+* {{l|nci|xālxococuahuitl}}
+{{c|nci|Fruits}}
+----
+==Northern Puebla Nahuatl==
+===Etymology===
+Cf. {{cog|nci|xālxocotl}}.
+===Noun===
+{{head|ncj|noun}}
+# [[guava]] (fruit, ''[[Psidium guajava]]'')
+===References===
+* {{R:Brockway et al. 2018|page=242}}
+{{c|ncj|Fruits}}
+----
+==Zacatlán-Ahuacatlán-Tepetzintla Nahuatl==
+===Etymology===
+Cf. {{cog|nci|xālxocotl}}.
+===Noun===
+{{head|nhi|noun}}
+# [[guava]] (fruit, ''[[Psidium guajava]]'')
+===References===
+* {{R:Brockway et al. 1984|page=10}}
+{{c|nhi|Fruits}}</text>
+<sha1>abdgrhsrwpcgfhu9k22fqv8ottmx00z</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>ygoe</title>
+<ns>0</ns>
+<id>773167</id>
+<revision>
+<id>66221915</id>
+<parentid>58199145</parentid>
+<timestamp>2022-03-25T20:11:50Z</timestamp>
+<contributor>
+<username>Notusbutthem</username>
+<id>3875519</id>
+</contributor>
+<comment>/* Adverb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="266" xml:space="preserve">==English==
+===Adverb===
+{{en-adv|-}}
+# {{obsolete spelling of|en|ago}}
+#* {{RQ:Spenser Faerie Queene|I|II|text={{...}}That keepes thy body from the bitter fit;&lt;br&gt;Dead long '''ygoe''' I wote thou haddest bin,{{...}}}}
+===Anagrams===
+* {{anagrams|en|a=egoy|goey}}</text>
+<sha1>9j9go1ehh1w38a9a4evw5m5j82itxo8</sha1>
+</revision>
+</page>

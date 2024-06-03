@@ -1,0 +1,28 @@
+<page>
+<title>xenoracism</title>
+<ns>0</ns>
+<id>4784846</id>
+<revision>
+<id>51812457</id>
+<parentid>51129000</parentid>
+<timestamp>2019-03-14T09:16:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="367" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|racism}}
+===Noun===
+{{en-noun|-}}
+# A form of [[prejudice]] that resembles [[racism]] but is exhibited by members of a racial group towards members of the same group who are displaced and dispossessed in some way, such as [[immigrant]]s.
+===Anagrams===
+* {{anagrams|en|a=aceimnorsx|manorexics}}
+[[Category:en:Racism]]</text>
+<sha1>jf6atrt3xfagw4u41lg9xi86hug0rhw</sha1>
+</revision>
+</page>

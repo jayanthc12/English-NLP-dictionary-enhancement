@@ -1,0 +1,23 @@
+<page>
+<title>xuxo</title>
+<ns>0</ns>
+<id>5864598</id>
+<revision>
+<id>54997774</id>
+<parentid>44563530</parentid>
+<timestamp>2019-10-11T04:07:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative form of|en|xuixo}}</text>
+<sha1>ssquk36zij5xov6b4mm3opukgcsvdcu</sha1>
+</revision>
+</page>

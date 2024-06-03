@@ -1,0 +1,29 @@
+<page>
+<title>yearbookish</title>
+<ns>0</ns>
+<id>1440902</id>
+<revision>
+<id>54384837</id>
+<parentid>51858238</parentid>
+<timestamp>2019-09-29T03:30:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="717" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yearbook|ish}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|rare}} In the style or semblance of a {{l|en|yearbook}}, especially a high-school or college yearbook.
+#* {{quote-journal|en|2009|January 25|Ken Johnson|The Image Is Erotic. But Is It Art?|New York Times|url=http://www.nytimes.com/2009/01/25/arts/design/25john.html
+|passage={{...|In the early ’90s Lisa Yuskavage’s erotic fantasy pictures of nubile half-naked young women made their debut, and not long after that}} John Currin moved from painting '''yearbookish''' images of anonymous girls to painting outrageously goofy pictures of women with ridiculously oversize breasts.}}
+====Synonyms====
+* {{l|en|yearbooky}}</text>
+<sha1>a9ddiq9r6wkxd0hasml56z654k2ry24</sha1>
+</revision>
+</page>

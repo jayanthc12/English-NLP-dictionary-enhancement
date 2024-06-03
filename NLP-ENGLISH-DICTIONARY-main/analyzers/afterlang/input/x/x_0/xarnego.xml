@@ -1,0 +1,36 @@
+<page>
+<title>xarnego</title>
+<ns>0</ns>
+<id>4566633</id>
+<revision>
+<id>67959747</id>
+<parentid>54051102</parentid>
+<timestamp>2022-07-15T14:01:22Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="644" xml:space="preserve">==Catalan==
+===Alternative forms===
+* {{l|ca|xarnec}}
+===Etymology===
+From {{bor|ca|es|lucharniego}} or {{m|es|nocharniego||nocturnal}}, originally applied to [[greyhound]]s. Compare {{cog|es|charnego}}.
+===Pronunciation===
+* {{ca-IPA|ê}}
+===Noun===
+{{ca-noun|m|f=xarnega}}
+# {{lb|ca|often|_|derogatory}} A person who is half [[Catalan]] and half from another ethnolinguistic group.
+# {{lb|ca|often|_|derogatory}} A [[Spanish]] person who lives in [[Catalonia]] but immigrated from another part of Spain and cannot speak Catalan.
+====See also====
+* {{l|ca|xurro}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>c7qcka5o40csu76oqe2quuduhn7nmas</sha1>
+</revision>
+</page>

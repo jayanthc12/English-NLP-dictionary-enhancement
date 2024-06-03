@@ -1,0 +1,31 @@
+<page>
+<title>yellowbird</title>
+<ns>0</ns>
+<id>1218508</id>
+<revision>
+<id>51596315</id>
+<parentid>51459518</parentid>
+<timestamp>2019-02-23T05:03:06Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">{{also|yellow-bird}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{compound|en|yellow|bird}}
+===Noun===
+{{en-noun}}
+# The [[yellow warbler]]
+# the [[American goldfinch]]
+[[Category:English 3-syllable words]]
+[[Category:en:New World warblers]]
+[[Category:en:True finches]]</text>
+<sha1>jw5gl8c1e7ms2quk9ub91lco82r85p7</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>xisclar</title>
+<ns>0</ns>
+<id>6571618</id>
+<revision>
+<id>67492577</id>
+<parentid>65184605</parentid>
+<timestamp>2022-06-21T23:17:47Z</timestamp>
+<contributor>
+<username>Oigolue</username>
+<id>3636054</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="566" xml:space="preserve">==Catalan==
+===Etymology===
+{{inh|ca|roa-oca|cisclar}}, from {{der|ca|VL.|*cisclō|*cisclare}}, alteration of {{m|la|fistulō|fistulare|t=to play the flute}}. Compare {{cog|es|chillar}} and {{cog|eu|txistulari}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{homophones|ca|xisclà}}
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|intransitive}} to [[scream]]
+====Conjugation====
+{{ca-conj-ar|xiscl}}
+====Derived terms====
+* {{l|ca|xiscladissa}}
+* {{l|ca|xisclaire}}
+* {{l|ca|xiscle}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>8b4h09x4sjz8iwcsq7448zoblwqttck</sha1>
+</revision>
+</page>

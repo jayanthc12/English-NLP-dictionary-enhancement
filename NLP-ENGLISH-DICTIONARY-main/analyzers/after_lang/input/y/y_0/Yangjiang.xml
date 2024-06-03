@@ -1,0 +1,39 @@
+<page>
+<title>Yangjiang</title>
+<ns>0</ns>
+<id>6687120</id>
+<revision>
+<id>67968591</id>
+<parentid>67890116</parentid>
+<timestamp>2022-07-16T11:26:40Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>Wade-Giles|; the {{bor|en|cmn-pinyin|-}} romanization of the-- Basis: different from Wade–Giles: Yang2-chiang1; ===Pronunciation=== {{rfp|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="731" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade-Giles|Wade–Giles]]}} {{l|en|Yang-chiang}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|陽江}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city|in southwestern|p/Guangdong|c/China}}.
+====Synonyms====
+* {{q|{{w|postal romanization}}|from Cantonese}} {{l|en|Yeungkong}}
+====Translations====
+{{trans-top|prefecture-level city in Guangdong}}
+* Chinese:
+*: Cantonese: {{t|yue|陽江}}, {{t|yue|阳江|tr=joeng4 gong1}}
+*: Mandarin: {{t+|cmn|陽江}}, {{t+|cmn|阳江|tr=Yángjiāng}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>a7ixumckbi4enlfrlxhc5lzdpyq7606</sha1>
+</revision>
+</page>

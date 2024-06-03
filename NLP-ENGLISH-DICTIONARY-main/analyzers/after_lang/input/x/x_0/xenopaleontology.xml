@@ -1,0 +1,32 @@
+<page>
+<title>xenopaleontology</title>
+<ns>0</ns>
+<id>4708690</id>
+<revision>
+<id>54416026</id>
+<parentid>51811688</parentid>
+<timestamp>2019-09-29T12:02:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-newsgroup}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1988" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|paleontology}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare|scifi}} The study of past [[extraterrestrial]] [[life form]]s.
+#* '''1981''' Joel Hagen, &quot;Xenopaleontology&quot;, ''Heavy Metal'', volume 5, number 3, June 1981, [https://books.google.com/books?id=FL_xBQAAQBAJ&amp;pg=PA42&amp;dq=%22xenopaleontology%22#v=onepage page 42]:
+#*: Text excerpts from: ''An Introduction to '''Xenopaleontology''': The Study of Ancient Extraterrestrial Life''. Interplanetary Council Public Document #3664. 18, Mulburn, Peters, et. al., 2 May 2389.
+#* '''1990''', Paul Preuss, ''The Medusa Encounter'', Avon Books (1990), {{ISBN|9780380753482}}, [https://books.google.com/books?id=c_Olt5zUO5YC&amp;q=%22xenopaleontology%22 page 122]:
+#*: J. Q. R. Forster, professor of '''xenopaleontology''' and xenoarchaeology at King's College, London, was engrossed in a leather-bound volume from a shelf of 19th-century classics when Blake and the commander entered the library.
+#* {{quote-newsgroup|en|date=9 March 2004|author=Herb Schaltegger|title=Re: &quot;Avoiding the 'F word' on Mars -- F*SSIL&quot; -- Oberg|url=https://groups.google.com/forum/#!original/alt.alien.visitors/yORDCFED8bw/fv6AYFiZ2xYJ|newsgroup=alt.alien.visitors|passage=I would vehemently hope that in some far-future day a real, honest-to-goodness human geology/'''xenopaleontology''' crew is sent to Mars and that it sets down in that same area and seriously examines some of these things up close and{{sic}} great detail.}}
+#* '''2014''', Gavin Deas, ''Empires: Extraction'', Hachette UK (2014), {{ISBN|9780575129146}}, [https://books.google.com/books?id=2L2bAwAAQBAJ&amp;pg=PT26&amp;dq=%22xenopalaeontology%22#v=onepage page 26]:
+#*: When it had left the system, the tool-users were in the middle of a spirited attempt to wipe themselves out, which led the frigate to one hypothesis that the biological material the freighter was carrying had been some sort of '''xenopalaeontology''' expedition to preserve the species; {{...}}</text>
+<sha1>dji0qyyux1tl4ww6d873j4uhc9tn6gg</sha1>
+</revision>
+</page>

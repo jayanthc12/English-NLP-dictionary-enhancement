@@ -1,0 +1,21 @@
+###############################################
+# FILE: langZone
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-12-6 20:59:13
+# MODIFIED:
+###############################################
+@NODES _ROOT 
+@PRE
+<1,1> vareq("lang","en");
+@POST
+
+	S("lang") = N("lang",1);
+    single();
+
+@RULES
+_langZone <-
+	_langHeader									### (1)
+	_xWILD [fail=(_langHeader _language _xEND)]	### (2)
+	@@
+								    	

@@ -1,0 +1,39 @@
+<page>
+<title>yda</title>
+<ns>0</ns>
+<id>2110149</id>
+<revision>
+<id>69232546</id>
+<parentid>69217364</parentid>
+<timestamp>2022-09-11T11:48:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (remove redundant plural 's')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="420" xml:space="preserve">{{also|Yda}}
+==Lithuanian==
+===Pronunciation===
+* {{IPA|lt|[ˈiːdɐ]}}
+===Noun===
+{{lt-noun|f|ydos|1|sg=ýda|pl=ýdos}}
+# [[fault]], [[vice]]; [[defect]]
+====Declension====
+{{lt-noun-f-a-1|yd|ýd}}
+====Derived terms====
+* {{l|lt|beỹdis}}
+* {{l|lt|ýdingas}}
+** {{l|lt|ydingùmas}}
+* {{l|lt|beýdiškas}}
+** {{l|lt|beydiškùmas}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|f}}
+# {{obsolete spelling of|pt|ida}}</text>
+<sha1>0d0zbhhm9g1s7cwumny1l4kb4ikohn1</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>Yass</title>
+<ns>0</ns>
+<id>4215125</id>
+<revision>
+<id>58558367</id>
+<parentid>58344789</parentid>
+<timestamp>2020-01-26T23:01:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Rivers in Australia</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="528" xml:space="preserve">{{also|yass}}
+==English==
+[[File:Yass River Railway Bridge 004.JPG|right|thumb|The railway bridge over the Yass River at Yass]]
+{{wikipedia}}
+{{wikipedia|Yass River}}
+{{wikipedia|Yass, New South Wales}}
+===Etymology===
+Apparently from an [[w:Australian Aboriginal languages|Australian Aboriginal language]], {{m|und|yharr||running water}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|river|s/New South Wales|c/Australia}}.
+# A town on the river.
+===Anagrams===
+* {{anagrams|en|a=assy|assy|says}}
+[[Category:en:Towns]]</text>
+<sha1>so5yoguxdrn0ldnruwraxbj1e44o7lw</sha1>
+</revision>
+</page>

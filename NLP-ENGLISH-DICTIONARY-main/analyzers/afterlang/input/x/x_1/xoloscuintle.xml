@@ -1,0 +1,30 @@
+<page>
+<title>xoloscuintle</title>
+<ns>0</ns>
+<id>4966033</id>
+<revision>
+<id>65662472</id>
+<parentid>62085097</parentid>
+<timestamp>2022-02-06T15:49:15Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Noun: moved form data from xoloscuintles (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="563" xml:space="preserve">==Spanish==
+===Etymology===
+From {{bor|es|nci|xōlōitzcuintli}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[Mexican hairless]] {{gloss|dog}}
+#* {{quote-journal|es|date=July 23, 2015|author=|title=Giséle Freund en México|work=El País|url=http://cultura.elpais.com/cultura/2015/07/22/babelia/1437586569_419982.html
+|passage=En cambio, en las fotografías de Freund la vemos, por ejemplo, dar de comer a los patos del estanque, mientras sus '''xoloscuintles''' revolotean a su alrededor, como queriendo pescar alguna migaja.}}
+{{C|es|Dogs}}</text>
+<sha1>n2147l230t8rv6f7v1cf23cgnfwt11q</sha1>
+</revision>
+</page>

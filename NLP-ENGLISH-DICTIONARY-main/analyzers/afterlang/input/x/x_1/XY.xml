@@ -1,0 +1,41 @@
+<page>
+<title>XY</title>
+<ns>0</ns>
+<id>2153272</id>
+<revision>
+<id>64069746</id>
+<parentid>63204213</parentid>
+<timestamp>2021-09-30T09:58:06Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>[[User:CrowleyBot/task/1|Fix]] L5 after L3. L5 -&gt; L4: Antonyms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1473" xml:space="preserve">{{also|xy|xy.|ӽу}}
+==Translingual==
+===Etymology===
+From [[X chromosome]] + [[Y chromosome]].
+===Adjective===
+{{head|mul|adjective}}
+# {{lb|mul|biology}} Having a [[male]] configuration of [[chromosome]]s as per the [[XY system]].
+#* {{quote-text|en|termlang=mul|year=1973|author=E.W. Caspari|title=Advances in Genetics|page=334|isbn=0120176173|passage=For example. copulation of females with sterile males carrying deficient Y chromosomes lay as many eggs as do females inseminated by normal '''XY''' males.}}
+#* '''1994''', R. V. Short, E. Balaban (eds), ''The Differences between the Sexes'', page 15, {{ISBN|052144411X}}.
+#*: There is evidence to show that, occasionally, '''XY''' germ cells can undergo oogenesis when in an ovarian environment.
+#* {{quote-text|en|termlang=mul|year=2009|author=Gerald N. Callahan|title=Between XX and XY: Intersexuality and the Myth of Two Sexes|page=30|isbn=1556527853|passage=The group at John Hopkins{{sic}}, as well as many others, dropped the &quot;true sex&quot; policy (such as XX or '''XY''') and adopted the &quot;optimal gender&quot; policy for assigning sex to sexually ambiguous children.}}
+# {{lb|mul|biology}} {{synonym of|mul|ZW||having a female configuration of chromosomes as per the ZW system}}
+====Antonyms====
+* {{l|mul|XX}}
+====See also====
+* [[ZZ]], [[ZW]]
+----
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|fandom slang}} {{initialism of|en|[[w:Pokémon X and Y|Pokémon X and Y]]}}
+[[Category:en:Pokémon]]</text>
+<sha1>hk0ohucdtlvec6on7z24t4hw7z6cn9w</sha1>
+</revision>
+</page>

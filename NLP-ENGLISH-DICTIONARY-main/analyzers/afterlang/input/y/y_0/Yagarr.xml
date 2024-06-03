@@ -1,0 +1,32 @@
+<page>
+<title>Yagarr</title>
+<ns>0</ns>
+<id>7226587</id>
+<revision>
+<id>62035476</id>
+<parentid>55025611</parentid>
+<timestamp>2021-03-12T02:33:22Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="296" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|yxg|Yagarr}}.
+===Proper noun===
+{{en-proper noun}}
+# {{alternative form of|en|Yagara}}.
+===Anagrams===
+* {{anagrams|en|a=aagrry|garrya}}
+----
+==Yagara==
+===Proper noun===
+{{head|1=yxg|2=proper noun}}
+# {{alternative form of|yxg|Yagara}}.</text>
+<sha1>jb6916wxl2pjgw1o4ayzzlz6ooyd66e</sha1>
+</revision>
+</page>

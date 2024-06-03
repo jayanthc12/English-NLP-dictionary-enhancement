@@ -1,0 +1,23 @@
+<page>
+<title>xenodontines</title>
+<ns>0</ns>
+<id>5573099</id>
+<revision>
+<id>55901328</id>
+<parentid>53092228</parentid>
+<timestamp>2019-10-16T08:33:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenodontine}}</text>
+<sha1>byj58aqkhfbp8w74mkcbsz1zta3x900</sha1>
+</revision>
+</page>

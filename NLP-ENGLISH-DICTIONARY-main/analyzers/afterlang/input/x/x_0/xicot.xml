@@ -1,0 +1,36 @@
+<page>
+<title>xicot</title>
+<ns>0</ns>
+<id>6096240</id>
+<revision>
+<id>68642862</id>
+<parentid>67367494</parentid>
+<timestamp>2022-08-16T05:29:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add categories ca:Male people in new {{C}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="328" xml:space="preserve">==Catalan==
+===Etymology===
+{{suffix|ca|xic|ot|t1=boy}}
+===Pronunciation===
+* {{ca-IPA|ò}}
+* {{rhymes|ca|ɔt|s=2}}
+===Noun===
+{{ca-noun|m|f=xicota}}
+# [[boy]]; [[lad]]
+#: {{syn|ca|noi}}
+# [[boyfriend]]
+#: {{syn|ca|nòvio}}
+====Derived terms====
+* {{l|ca|xicotàs}}
+===Further reading===
+* {{R:DCVB}}
+{{C|ca|Male people}}</text>
+<sha1>0p3jiqze7dmpcegpsjaejvjbl2qndhj</sha1>
+</revision>
+</page>

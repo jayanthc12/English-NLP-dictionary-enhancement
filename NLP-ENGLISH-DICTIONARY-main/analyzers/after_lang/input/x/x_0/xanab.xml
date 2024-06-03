@@ -1,0 +1,45 @@
+<page>
+<title>xanab</title>
+<ns>0</ns>
+<id>2122306</id>
+<revision>
+<id>65321479</id>
+<parentid>62088173</parentid>
+<timestamp>2022-01-12T06:04:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Tzeltal: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="693" xml:space="preserve">==Tzeltal==
+{{attention|tzh|basic stub}}
+===Noun===
+{{head|tzh|noun}}
+# {{l|en|shoe}}
+[[Category:tzh:Footwear]]
+----
+==Yucatec Maya==
+===Etymology===
+From {{inh|yua|myn-pro|*xangabʼ}}.
+===Pronunciation===
+* {{IPA|yua|[ˈʃanaɓ]}}
+===Noun===
+{{yua-noun}}
+# [[shoe]]
+====Derived terms====
+{{col3|yua
+|xanab kʼéewel
+}}
+===References===
+* {{R:yua:Diccionario maya popular|page=248|passage='''XANAB'''}}
+* {{R:yua:Cordemex|page=935|passage='''XANAB'''}}
+* {{R:Beltrán 1746|page=180|passage=''zapa''t''o'': xanàb.}}
+* {{R:Montgomery 2004|page=83|passage='''xanab'''}}
+* {{R:Pío 1866-1877|page=99|passage=XANAB: zapato, alpargata; cualquier especie de calzado.}}
+{{c|yua|Footwear}}</text>
+<sha1>7onftllfaf75wimzvdds9w353ouf6hc</sha1>
+</revision>
+</page>

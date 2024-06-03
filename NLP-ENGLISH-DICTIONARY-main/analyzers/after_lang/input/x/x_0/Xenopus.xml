@@ -1,0 +1,32 @@
+<page>
+<title>Xenopus</title>
+<ns>0</ns>
+<id>264456</id>
+<revision>
+<id>66203998</id>
+<parentid>54153862</parentid>
+<timestamp>2022-03-23T10:12:58Z</timestamp>
+<contributor>
+<ip>65.92.246.142</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="757" xml:space="preserve">==Translingual==
+===Etymology===
+{{der|mul|NL.|-}} {{m|mul|xeno-}} + {{m|mul|-pus}}, from {{der|mul|grc|ξένος||foreign, strange}} + {{m|grc|πούς||foot}}.
+Coined by {{w|Johann Georg Wagler}} in [http://www.biodiversitylibrary.org/item/85168#page/393/mode/1up Isis von Oken v.20], 1827, p726.
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Pipidae|the [[clawed frog]]s}} The best known species is ''[[Xenopus laevis]]'', which is used as a model organism in scientific research.
+====Hyponyms====
+* {{sense|genus}} See {{w|Xenopus#Species|Xenopus § Species}} on Wikipedia for species.
+====Descendants====
+* {{desc|en|xenobot}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}`
+[[Category:mul:Frogs]]</text>
+<sha1>cwc11fim86ozhm6kjvwwcoiet8p8ttj</sha1>
+</revision>
+</page>

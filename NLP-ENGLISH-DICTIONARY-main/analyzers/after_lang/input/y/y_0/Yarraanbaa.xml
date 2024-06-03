@@ -1,0 +1,31 @@
+<page>
+<title>Yarraanbaa</title>
+<ns>0</ns>
+<id>6242024</id>
+<revision>
+<id>68848464</id>
+<parentid>64353097</parentid>
+<timestamp>2022-08-28T02:53:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==Gamilaraay==
+[[File:Australia satellite plane.jpg|thumb|Yarraanbaa]]
+===Etymology===
+From [[yarraan]] + [[-baa]].
+===Pronunciation===
+{{IPA|kld|/jaraːnbaː/}}
+===Proper noun===
+{{head|kld|proper noun}}
+# [[Australia]]
+===References===
+* (2017) Giacon J Gamilaraay-Yuwaalaraay Dictionary Supplement
+[[Category:kld:Countries]]</text>
+<sha1>04oln0psq110jmb3zm4u633yw83dbve</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>yaratmaq</title>
+<ns>0</ns>
+<id>7240508</id>
+<revision>
+<id>67162726</id>
+<parentid>66124171</parentid>
+<timestamp>2022-05-26T11:28:12Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Derived terms */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="861" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|-}}, whence {{cog|hu|gyárt||to manufacture}}. The root is probably a derivation of {{der|az|trk-pro|*yara||be good enough, be sufficient, be successful}}, appended with the causative suffix ''-t''.
+Cognate with {{cog|tr|yaratmak}},
+{{cog|uz|yaratmoq}},
+{{cog|ky|жаратыл||to be created}},
+{{cog|kk|жарату}},
+{{cog|ba|яратыу}},
+{{cog|tt|яратучы||creator}},
+{{cog|ug|ياراتماق}}.
+Surface analysis {{suf|az|yaramaq|t}}.
+===Pronunciation===
+* {{IPA|az|[jɑrɑtˈmɑχ]}}
+* {{hyph|az|ya|rat|maq}}
+===Verb===
+{{head|az|verb}}
+# {{lb|az|transitive}} to [[create]]
+====Conjugation====
+{{az-conj|a|d=1}}
+====Derived terms====
+* {{l|az|yaradıcı||creative}}
+** {{l|az|yaradıcılıq||creative work}}
+* {{l|az|yaradılış||creation}}
+===Further reading===
+* {{R:az:Obastan}}</text>
+<sha1>a8bv2997rjr4tyy6k5kwwgzzuo7po20</sha1>
+</revision>
+</page>

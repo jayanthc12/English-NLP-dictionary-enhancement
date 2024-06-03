@@ -1,0 +1,38 @@
+<page>
+<title>yeri</title>
+<ns>0</ns>
+<id>3618049</id>
+<revision>
+<id>67909080</id>
+<parentid>61289676</parentid>
+<timestamp>2022-07-12T05:13:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>insert 1=tr|noun form into {{tr-noun-form}}; rename {{tr-noun-form}} to {{head}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==English==
+===Noun===
+{{en-noun|?}}
+# {{lb|en|Tamil areas of India}} A lake
+===Anagrams===
+* {{anagrams|en|a=eiry|Irey|Iyer}}
+----
+==Anguthimri==
+===Noun===
+{{head|awg|noun}}
+# {{lb|awg|Mpakwithi}} [[feather]]
+===References===
+* Terry Crowley, ''The Mpakwithi dialect of Anguthimri'' (1981), page 189
+----
+==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||acc|s}}
+# {{inflection of|tr|yer||3|s|poss}}</text>
+<sha1>5bz9osmupx6xf4hdw3sbz277pnzvosu</sha1>
+</revision>
+</page>

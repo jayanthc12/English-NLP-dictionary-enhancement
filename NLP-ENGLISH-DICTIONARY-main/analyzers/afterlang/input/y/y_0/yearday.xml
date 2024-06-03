@@ -1,0 +1,45 @@
+<page>
+<title>yearday</title>
+<ns>0</ns>
+<id>3078414</id>
+<revision>
+<id>52017134</id>
+<parentid>50121670</parentid>
+<timestamp>2019-03-18T23:14:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2901" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|ȝereday}}, {{m|enm|ȝerdai||anniversary}}, from {{inh|en|ang|*ġēardæġ}} (found in plural {{m|ang|ġēardagas||days of yore}}), equivalent to {{compound|en|year|day}}. Cognate with {{cog|nl|jaardag||birthday}}, {{cog|gmh|jārtac||anniversary}}.
+===Noun===
+{{en-noun}}
+# A day or time occurring in a [[yearly]] cycle; an [[annual]] day, [[season]], or [[event]].
+#* '''1887''', Michael Baxter, ''Forty coming wonders'':
+#*: The Second Advent of Christ to remove to heaven his waiting people takes place at the end of the '''yearday''' sixth vial in accordance with his personal announcement, [...]
+#* '''1998''', in the ''Australian Journal of Botany'', volume 46:
+#*: [...] the amended '''yearday''' which was the middle day in flowering range. the '''yearday''' which is equivalent to commencement of flowering. the amended '''yearday''' (based on flowering '''yearday''') which is the equivalent to the commencement of [...]
+# {{lb|en|mathematics}} A [[day]] of the year.
+#* '''1985''', ''Mathematics magazine'' volume 58:
+#*: To avoid the idiosyncracies{{SIC}} of leap years, we propose, as a first approximation to the actual '''yearday''', a standardized '''yearday''' s that is a function of ( m, d) only, s = S(m) +dl (6) where 5 is a function of m only.
+#* '''2000''', ''Agricultural and forest meteorology;'', volumes 104-105:
+#*: ... T&lt;sub&gt;1&lt;/sub&gt;max the maximum (cloud-free) daily total transmittance at a location with a given elevation and near-surface water-vapor pressure on a given '''yearday''', [...]
+#* '''2002''', ''Journal of physical oceanography'', volume 32:
+#*: Its power supply failed at '''yearday''' 227 (0300), [...]
+# {{lb|en|dated}}&lt;!--or {{historical}}? or both or neither?--&gt; An [[annual]] [[remembrance]] day, the [[anniversary]] of a death; a day on which prayers are said for the dead.
+#* '''1907''', William Page, ''The Victoria history of the county of Suffolk'', volume 1, page 660:
+#*: His executors were to keep his '''yearday''' for twenty years at the cost of 20''s''. per year, and finally after his wife's death the bailiffs and commonalty of Southwold were to find a priest for sixteen years next following to sing for his soul {{...}}
+#* '''1998''', Plutarch (in translation), ''Lives of the Noble Grecians and Romans'', page 310:
+#*: For they were the very days on the which the women celebrated the feast and '''yearday''' of Adonis' death: and there were also in divers parts of the city, images of dead men carried to burial, and women following them, mourning and lamenting.
+#* '''2009''', Georgette Heyer, ''My Lord John: A tale of intrigue, honor and the rise of a king'', page 56:
+#*: The younger children remained at Bytham for a year, and saw their brothers again only at Leicester, on the '''yearday''' of Mother's death.
+===See also===
+* {{sense|anniversary of a death}} {{l|en|deathday}}</text>
+<sha1>qov06fdarmutumi8x4nqmnmo2iqdw1v</sha1>
+</revision>
+</page>

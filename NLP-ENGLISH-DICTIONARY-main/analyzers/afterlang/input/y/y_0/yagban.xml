@@ -1,0 +1,33 @@
+<page>
+<title>yagban</title>
+<ns>0</ns>
+<id>5650870</id>
+<revision>
+<id>56405844</id>
+<parentid>47783335</parentid>
+<timestamp>2019-10-18T01:18:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==Tagalog==
+===Pronunciation===
+* {{IPA|tl|/jaɡ.ˈban/}}
+===Noun===
+{{tl-noun|yagbán}}
+# [[route]]; [[passage]] through a [[route]]
+====Synonyms====
+* {{l|tl|daan}}
+* {{l|tl|ruta}}
+====Related terms====
+{{top2}}
+* {{l|tl|pagyagban}}
+{{mid2}}
+{{bottom}}</text>
+<sha1>7sy8c13rdc6b3bndkv28na2h0jr13vk</sha1>
+</revision>
+</page>

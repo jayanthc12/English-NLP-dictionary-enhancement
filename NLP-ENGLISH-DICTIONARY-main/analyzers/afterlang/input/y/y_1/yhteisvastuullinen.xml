@@ -1,0 +1,33 @@
+<page>
+<title>yhteisvastuullinen</title>
+<ns>0</ns>
+<id>3432113</id>
+<revision>
+<id>69318483</id>
+<parentid>62583273</parentid>
+<timestamp>2022-09-18T17:20:39Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="457" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteisvastuu|gloss1=joint and several responsibility|llinen}}
+===Pronunciation===
+{{fi-p|yhteis-vastuullinen}}
+===Adjective===
+{{fi-adj}}
+# {{lb|fi|legal}} [[joint]] [[and]] [[several]]
+#: '''''yhteisvastuullinen''' takaus''
+#:: '''joint and several''' guarantee
+====Declension====
+{{fi-decl-nainen|pos=adj|yhteisvastuulli|a}}
+====Derived terms====
+* {{l|fi|yhteisvastuullisesti}}
+* {{l|fi|yhteisvastuullisuus}}</text>
+<sha1>5wz37s5zr93yl770uy0wit113gcdpjp</sha1>
+</revision>
+</page>

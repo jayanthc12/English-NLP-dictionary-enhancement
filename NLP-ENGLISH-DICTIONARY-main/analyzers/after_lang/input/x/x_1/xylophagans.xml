@@ -1,0 +1,23 @@
+<page>
+<title>xylophagans</title>
+<ns>0</ns>
+<id>4296132</id>
+<revision>
+<id>56328995</id>
+<parentid>53092493</parentid>
+<timestamp>2019-10-17T13:15:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylophagan}}</text>
+<sha1>msaswr9hltbkni5gyy0bwtespf17888</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yeth</title>
+<ns>0</ns>
+<id>1909841</id>
+<revision>
+<id>68796667</id>
+<parentid>64982005</parentid>
+<timestamp>2022-08-27T15:17:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace 3+ newlines with 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="788" xml:space="preserve">==Cornish==
+===Alternative forms===
+* {{l|kw|'eth}}
+===Etymology===
+From {{inh|kw|cel-pro|*yextis||language}}.
+===Pronunciation===
+* {{IPA|kw|[eːθ]|[jeːθ]}}
+===Noun===
+{{kw-noun|f|r}}
+# {{l|en|language}}
+#*: {{quote-web|1=kw|date=July 2019|author=Denzil Monk|work=Ragdres Hwithrans Darlesor Gonis Poblek Kernewek Agwedh Onan – Studhyans Arhwilas Derivas|url=http://repository.falmouth.ac.uk/3673/1/cornish-public-service-broadcaster-research-project-scoping-study-report-july-2019.pdf|text=An '''Yeth''' Kernewek yw tresor yn kolon an wonisogeth kernewek ha honanieth unnik dhe Gernow.|t=The Cornish '''language''', Kernewek, is a treasure at the heart of Cornish culture and Cornwall’s unique cultural identity.}}
+====Synonyms====
+* {{l|kw|taves}}
+[[Category:kw:Language]]</text>
+<sha1>1jpwln29auwaevdorhwvpmmyhibtyyt</sha1>
+</revision>
+</page>

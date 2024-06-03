@@ -1,0 +1,25 @@
+<page>
+<title>yerais</title>
+<ns>0</ns>
+<id>4111241</id>
+<revision>
+<id>56234122</id>
+<parentid>43992099</parentid>
+<timestamp>2019-10-17T09:31:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{l|ast|yereis}}
+===Verb===
+{{ast-verb-form}}
+# {{inflection of|ast|ser||2|p|impf|indc}}</text>
+<sha1>7rydn0swyck1s41eot5ney68d7twav1</sha1>
+</revision>
+</page>

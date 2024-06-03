@@ -1,0 +1,28 @@
+<page>
+<title>Yiddisher</title>
+<ns>0</ns>
+<id>4766523</id>
+<revision>
+<id>58709437</id>
+<parentid>51954615</parentid>
+<timestamp>2020-02-18T00:20:09Z</timestamp>
+<contributor>
+<username>Commander Keane</username>
+<id>6122</id>
+</contributor>
+<minor />
+<comment>Adding EN-AU audio file: Yiddisher</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yiddish|er}}
+===Pronunciation===
+* {{audio|en|En-au-Yiddisher.ogg|Audio (AU)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|slang}} One who speaks [[Yiddish]].
+# {{lb|en|historical}} A member of a [[street]] [[gang]] based in [[Whitechapel]], [[London]], [[England]], who opposed the growing [[fascist]] movement in the 1930s.</text>
+<sha1>kz3r9j8pqsdgas536a3l42k8iaeb2gg</sha1>
+</revision>
+</page>

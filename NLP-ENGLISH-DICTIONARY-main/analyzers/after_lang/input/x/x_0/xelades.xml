@@ -1,0 +1,23 @@
+<page>
+<title>xelades</title>
+<ns>0</ns>
+<id>4685627</id>
+<revision>
+<id>55414111</id>
+<parentid>32200542</parentid>
+<timestamp>2019-10-14T15:14:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{feminine plural of|ast|xeláu}}</text>
+<sha1>aryvgq197r6afdh60ocnhszz7y73qad</sha1>
+</revision>
+</page>

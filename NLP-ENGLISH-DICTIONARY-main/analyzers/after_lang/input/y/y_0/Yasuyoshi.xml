@@ -1,0 +1,23 @@
+<page>
+<title>Yasuyoshi</title>
+<ns>0</ns>
+<id>3065824</id>
+<revision>
+<id>22455767</id>
+<parentid>20075419</parentid>
+<timestamp>2013-09-08T07:59:28Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>/* Japanese */ implementing [[Wiktionary:Votes/pl-2013-03/Romanization and definition line]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やすよし}}</text>
+<sha1>bunvwxn3s63otkmn5yhint7ze6m2zqh</sha1>
+</revision>
+</page>

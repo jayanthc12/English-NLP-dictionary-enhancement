@@ -1,0 +1,46 @@
+<page>
+<title>Xyris</title>
+<ns>0</ns>
+<id>3034313</id>
+<revision>
+<id>61115264</id>
+<parentid>59260132</parentid>
+<timestamp>2020-11-14T07:36:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1729" xml:space="preserve">{{also|xyris}}
+==Translingual==
+[[File:N Xyrc D9741.JPG|thumb|{{taxlink|Xyris complanata|species|ver=180911|'''Xyris''' complanata}}]]
+===Etymology===
+From {{der|mul|la|xyris||iris}}, from {{der|mul|grc|ξυρίς||gladen}}.
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Xyridaceae|the [[yellow-eyed grass]]es}}
+====Hypernyms====
+* {{sense|genus}} {{angiosperms Hypernyms}}, [[monocots]], [[commelinids]]&amp;nbsp;- clades; [[Poales]]&amp;nbsp;- order; [[Xyridaceae]]&amp;nbsp;- family
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xyris indica|species|ver=180911}}&amp;nbsp;- type species; {{taxlink|Xyris bracteata|species|ver=180911}}, {{taxlink|Xyris caroliniana|species|ver=180911}}, {{taxlink|Xyris complanata|species|ver=180911}}, {{taxlink|Xyris difformis|species|ver=180911}}, {{taxlink|Xyris fimbriata|species|ver=180911}}, {{taxlink|Xyris gracilis|species|ver=180911}}, {{taxlink|Xyris hymenachne|species|ver=180911}}, {{taxlink|Xyris jupicai|species|ver=180911}}, {{taxlink|Xyris laxifolia|species|ver=180911}}, {{taxlink|Xyris montana|species|ver=180911}}, {{taxlink|Xyris operculata|species|ver=180911}}, {{taxlink|Xyris platylepis|species|ver=180911}}, {{taxlink|Xyris smalliana|species|ver=180911}}, {{taxlink|Xyris tennesseensis|species|ver=180911}}, {{taxlink|Xyris torta|species|ver=180911}}, {{taxlink|Xyris juncea|species|ver=180911}}&amp;nbsp;- selected species
+====Derived terms====
+* [[Xyridales]] {{q|obsolete}}
+====Related terms====
+* [[xyrid]]
+* [[xyridaceous]]
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:NCBI|i=1|75440}}
+* {{R:EOL|i=1|29214}}
+* {{R:ITIS|i=1|39096}}
+* {{R:USDA Plants|XYRIS}}
+* {{R:GRIN|taxonomygenus|12993|i=1}}
+* {{R:Tropicos|i=1|40027804}}</text>
+<sha1>91rsq7wch7irhox95vuwdq2wmh4uzlz</sha1>
+</revision>
+</page>

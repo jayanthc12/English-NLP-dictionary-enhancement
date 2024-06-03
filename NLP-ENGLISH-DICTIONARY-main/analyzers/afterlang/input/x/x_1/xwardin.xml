@@ -1,0 +1,23 @@
+<page>
+<title>xwardin</title>
+<ns>0</ns>
+<id>4708920</id>
+<revision>
+<id>53544190</id>
+<parentid>44185348</parentid>
+<timestamp>2019-07-03T21:07:01Z</timestamp>
+<contributor>
+<username>Erutuon</username>
+<id>156858</id>
+</contributor>
+<minor />
+<comment>move Arabic-script form into headword (via JWB)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==Southern Kurdish==
+===Verb===
+{{head|sdh|verb|Arabic spelling|خواردن}}
+# {{lb|sdh|transitive|intransitive}} to [[eat]]</text>
+<sha1>2t99ga88wyz4uqfemq76l0g6cr98xzm</sha1>
+</revision>
+</page>

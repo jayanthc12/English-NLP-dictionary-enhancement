@@ -1,0 +1,76 @@
+<page>
+<title>xadrez</title>
+<ns>0</ns>
+<id>214970</id>
+<revision>
+<id>69138633</id>
+<parentid>69137233</parentid>
+<timestamp>2022-09-06T07:00:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{pt-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2938" xml:space="preserve">==Aragonese==
+===Etymology===
+From {{bor|an|xaa|شطرنج|الشَطْرَنْج|tr=aš-šaṭranj}}, from {{der|an|ar|شَطْرَنْج|t=chess}}, from {{der|an|fa|شترنگ|tr=šatrang}}, from {{der|an|pal|𐭰𐭠𐭲𐭫𐭠𐭭𐭢|tr=ctlng|ts=čatrang|t=chess}}, from {{der|an|sa|चतुरङ्ग|tr=cátur-aṅga|lit=four parts}} {{q|of an army: king, elephants, horses, foot soldiers}}.
+===Noun===
+{{an-noun|f}}
+# [[chess]]
+===References===
+* {{R:DBLA}}
+----
+==Galician==
+===Alternative forms===
+* {{alter|gl|axedrez}}
+===Etymology===
+Attested from the 13th century (''assederez'', ''açedrẽche'', ''xedrez''). From {{bor|gl|xaa|شطرنج|الشَطْرَنْج|tr=aš-šaṭranj}}, from {{der|gl|ar|شَطْرَنْج||chess}}, from {{der|gl|fa|شترنگ|tr=šatrang}}, from {{der|gl|pal|𐭰𐭠𐭲𐭫𐭠𐭭𐭢|tr=ctlng|ts=čatrang||chess}}, from {{der|gl|sa|चतुरङ्ग|tr=cátur-aṅga||four parts&quot; of an army: king, elephants, horses, foot soldiers}}. Cognate with {{cog|pt|xadrez}} and {{cog|es|ajedrez}}.
+===Pronunciation===
+* {{IPA|gl|/ʃaˈðɾeθ/|/ʃaˈðɾes/|qual2=western}}
+===Noun===
+{{gl-noun|m}}
+# [[chess]]
+#* '''1370''', R. Lorenzo (ed.), ''Crónica troiana''. A Coruña: Fundación Barrié, page 515:
+#*: ''Et Achiles preçaua todo muy pouco quanto lle eles dizíã, et nõ paraua por eles mentes, nẽ lles rrespondía a cousa que lle disesem, ante sij́a jogando o '''xedrez''' cõ hũ seu caualeyro''
+#*:: And Achiles didn't care about what they said nor did he mind them, nor did he answered anything they said, but rather he was just playing '''chess''' with one of his knights
+===See also===
+{{table:chess pieces/gl}}
+===References===
+* {{R:gl:DDGM|xedrez}}
+* {{R:gl:DDGM|assederez}}
+* {{R:gl:CX|assederez}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;
+----
+==Portuguese==
+{{wikipedia|lang=pt}}
+[[Image:Opening chess position from black side.jpg|thumb|250px|tabuleiro de xadrez]]
+===Alternative forms===
+* {{alt|pt|axadrez}}
+===Etymology===
+From {{inh|pt|roa-opt|axadrez}}, {{m|roa-opt|enxadrez}}, from {{der|pt|xaa|شطرنج|الشَطْرَنْج|tr=aš-šaṭranj}}, from {{der|pt|ar|شَطْرَنْج|t=chess}}, from {{der|pt|fa|شترنگ|tr=šatrang}}, from {{der|pt|pal|𐭰𐭠𐭲𐭫𐭠𐭭𐭢|tr=ctlng|ts=čatrang|t=chess}}, from {{der|pt|sa|चतुरङ्ग|tr=cátur-aṅga|lit=four parts}} {{q|of an army: king, elephants, horses, foot soldiers}}.
+Cognate with {{cog|gl|xadrez}}, {{cog|ast|axedrez}}, {{cog|mwl|xadreç}}, {{cog|es|ajedrez}} and {{cog|an|axedrez}}.
+===Pronunciation===
+{{pt-IPA|xadrêz}}
+* {{audio|pt|Pt-xadrez.oga|Audio (Portugal)}}
+* {{hyphenation|pt|xa|drez}}
+===Noun===
+{{pt-noun|m|-}}
+# [[chess]]
+# [[checkered]] [[pattern]]
+===Adjective===
+{{pt-adj|f=#}}
+# [[checkered]]
+#: {{syn|pt|axadrezado|quadriculado}}
+====Related terms====
+* {{l|pt|enxadrista}}
+===See also===
+{{table:chess pieces/pt}}</text>
+<sha1>axis3hxor9gqvlb7h774rvwtdlcf4i9</sha1>
+</revision>
+</page>

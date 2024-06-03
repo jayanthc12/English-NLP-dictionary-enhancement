@@ -1,0 +1,28 @@
+<page>
+<title>yachters</title>
+<ns>0</ns>
+<id>343270</id>
+<revision>
+<id>55325803</id>
+<parentid>53092564</parentid>
+<timestamp>2019-10-14T10:17:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yachter}}
+----
+==Swedish==
+===Noun===
+{{head|sv|noun form}}
+# {{sv-noun-form-indef-gen-pl|yacht}}</text>
+<sha1>8nptmkl47xfhitauowq9a52ip7x5d1y</sha1>
+</revision>
+</page>

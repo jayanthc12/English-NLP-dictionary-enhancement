@@ -1,0 +1,29 @@
+<page>
+<title>xoffa</title>
+<ns>0</ns>
+<id>2157250</id>
+<revision>
+<id>67670460</id>
+<parentid>67670455</parentid>
+<timestamp>2022-07-08T01:30:57Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<comment>/* Inflection */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Maltese==
+===Etymology===
+From {{inh|mt|ar|شَفَة}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɔf.fa/}}
+===Noun===
+{{mt-noun|g=f|p=xufftejn|p2=xofftejn|p3=xoffiet|dim=xfejfa}}
+# {{lb|mt|anatomy}} [[lip]]
+# [[brim]], [[edge]]
+====Inflection====
+{{mt-infl-noun-auto|xoffit|xofft|o}}</text>
+<sha1>jo8p9tms2upcncqv2a1rmqfi6ffw8wo</sha1>
+</revision>
+</page>

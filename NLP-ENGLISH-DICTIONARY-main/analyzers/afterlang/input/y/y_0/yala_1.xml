@@ -1,0 +1,80 @@
+<page>
+<title>yala</title>
+<ns>0</ns>
+<id>6866591</id>
+<revision>
+<id>69293596</id>
+<parentid>69272007</parentid>
+<timestamp>2022-09-17T07:13:37Z</timestamp>
+<contributor>
+<username>Oniwe</username>
+<id>3495276</id>
+</contributor>
+<comment>/* Yoruba */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1365" xml:space="preserve">{{also|Yala}}
+==Pukapukan==
+===Etymology===
+From {{inh|pkp|poz-pol-pro|*sala}}, from {{inh|pkp|poz-oce-pro|*salaq}}, from {{inh|pkp|poz-pro|*salaq}}.
+===Noun===
+{{head|pkp|noun}}
+# [[wrong]], [[misdeed]]
+# [[sin]]
+#: ''Na mate ia Iētū nō a tātou '''yala'''.''
+#:: Jesus died for our '''sins'''.
+====Derived terms====
+* {{l|pkp|takayala||error, mistake}}
+===Verb===
+{{head|pkp|verb}}
+# to do [[wrong]]
+# to [[commit]] [[sin]]
+#: ''Na '''yala''' tātou i te Atua.''
+#:: We have '''sinned''' agaist God.
+# to [[break]] a [[tapu]]
+===Further reading===
+* [http://pukapuka.world/dictionary/ Te Pukamuna | Pukapuka Dictionary]
+----
+==Tatar==
+===Noun===
+{{head|tt|noun}}
+# [[suspicion]], [[false]] [[accusation]]
+# [[slander]]
+----
+==Xhosa==
+===Etymology===
+{{rfe|xh}}
+===Verb===
+{{xh-verb|yala}}
+# {{lb|xh|transitive}} to [[advise]]
+# {{lb|xh|transitive}} to [[warn]], to [[admonish]]
+====Inflection====
+{{rfinfl|xh|verb}}
+----
+==Yami==
+===Noun===
+{{head|tao|noun}}
+# [[basket]]
+----
+==Yoruba==
+====Alternative forms====
+*{{alter|yo|يَلَ}}
+===Pronunciation===
+*{{yo-IPA|yálà}}
+===Conjunction===
+{{yo-pos|conjunction|yálà}}
+# [[either]], [[whether]]
+----
+==Zulu==
+===Etymology===
+{{rfe|zu}}
+===Verb===
+{{zu-verb|yala}}
+# {{lb|zu|transitive}} to [[warn]]
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+*{{R:zu:ZED||6.3}}</text>
+<sha1>g1s8koqt1d2c2y31ya5i6siu8xcseau</sha1>
+</revision>
+</page>

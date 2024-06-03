@@ -1,0 +1,20 @@
+###############################################
+# FILE: firstLine
+# SUBJ: comment
+# AUTH: Adarsh
+# CREATED: 2023-9-1 21:58:23
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+@POST
+
+
+G("word") = makeconcept(G("words"),N("$text",2));
+
+singler(2,2);
+@RULES
+_word <-
+	_xSTART	### (1)
+	_LINE	### (2)
+	@@

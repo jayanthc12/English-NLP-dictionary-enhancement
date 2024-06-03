@@ -1,0 +1,27 @@
+<page>
+<title>Yersiniose</title>
+<ns>0</ns>
+<id>3915521</id>
+<revision>
+<id>66246995</id>
+<parentid>65754866</parentid>
+<timestamp>2022-03-27T20:06:54Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* German */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">{{also|yersiniose}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Yersiniose.ogg|Audio}}
+===Noun===
+{{de-noun|f}}
+# {{lb|de|pathology}} [[yersiniosis]]
+====Declension====
+{{de-ndecl|f}}</text>
+<sha1>jlvmhhaaw6xsb6u1wxo2ld48om1nqwk</sha1>
+</revision>
+</page>

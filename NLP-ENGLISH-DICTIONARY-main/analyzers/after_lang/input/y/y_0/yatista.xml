@@ -1,0 +1,27 @@
+<page>
+<title>yatista</title>
+<ns>0</ns>
+<id>6698328</id>
+<revision>
+<id>68970886</id>
+<parentid>64220571</parentid>
+<timestamp>2022-08-29T02:15:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="142" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|mf}}
+# [[yachter]]; [[yachtsperson]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>7ofx6ee1xbmt6cs3rxhjar5pvt91zzg</sha1>
+</revision>
+</page>

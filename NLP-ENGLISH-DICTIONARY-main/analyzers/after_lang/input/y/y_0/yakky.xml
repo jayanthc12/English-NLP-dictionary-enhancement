@@ -1,0 +1,36 @@
+<page>
+<title>yakky</title>
+<ns>0</ns>
+<id>3500127</id>
+<revision>
+<id>64460300</id>
+<parentid>61115599</parentid>
+<timestamp>2021-10-28T12:22:20Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1004" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yak|y}}
+===Pronunciation===
+* {{IPA|en|/ˈjæki/}}
+* {{rhymes|en|æki|s=2}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yakky.wav |Audio (UK)}}
+===Adjective===
+{{en-adj|er}}
+# {{lb|en|informal}} [[chatty]], [[talkative]]
+#* {{quote-book|en|year=2011|author=Candida Lawrence|title=Fear Itself|passage=I notice my husband and Ken are not talking to each other, most unusual in such a '''yakky''' family.}}
+#* '''2009''', '''2002''', Jesse Lovelace, ''Keep to the Left!: Freewheeling Through Ireland''
+#*: A little skinny kid had started working behind the bar, and I'd swear he was James Joyce's great grandson: thin face, thick glasses and a frail physique. He was '''yakky''' and a bit snappy and thoroughly entertaining
+#* '''1999''', Deb Schwarz, ''the Rufus on Fire'', Out - January 1999 issue page 66
+#*: Perfectly charming and at ease on stage, he's equally rambling and '''yakky''' in an interview.
+====Derived terms====
+* {{l|en|yakkily}}
+* {{l|en|yakkiness}}</text>
+<sha1>n9rl4xv18n80t1ix14dgd521ijlskkh</sha1>
+</revision>
+</page>

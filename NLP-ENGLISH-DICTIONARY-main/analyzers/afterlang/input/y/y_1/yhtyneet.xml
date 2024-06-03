@@ -1,0 +1,26 @@
+<page>
+<title>yhtyneet</title>
+<ns>0</ns>
+<id>3110414</id>
+<revision>
+<id>32991814</id>
+<parentid>32985577</parentid>
+<timestamp>2015-06-12T20:03:05Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed now-redundant nocat parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="188" xml:space="preserve">==Finnish==
+===Verb===
+{{head|fi|verb form}}
+# {{fi-verb form of|pn=p|tm=past|c=1|yhtyä}}
+===Participle===
+{{head|fi|participle form}}
+# {{fi-participle of|t=past|yhtyä|plural=true}}</text>
+<sha1>oiwxy9l7g39jjhbiq3zk4xsqq1yw12k</sha1>
+</revision>
+</page>

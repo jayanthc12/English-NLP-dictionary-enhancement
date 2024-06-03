@@ -1,0 +1,23 @@
+<page>
+<title>xylographed</title>
+<ns>0</ns>
+<id>973258</id>
+<revision>
+<id>45896305</id>
+<parentid>27645754</parentid>
+<timestamp>2017-05-26T18:09:04Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|xylograph}}</text>
+<sha1>d7xgk8shekzjozf6h4jgp4x2u3nrmsy</sha1>
+</revision>
+</page>

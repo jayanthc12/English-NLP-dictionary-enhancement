@@ -1,0 +1,25 @@
+<page>
+<title>xenopsin</title>
+<ns>0</ns>
+<id>7129545</id>
+<revision>
+<id>64222328</id>
+<parentid>51665818</parentid>
+<timestamp>2021-10-14T18:55:04Z</timestamp>
+<contributor>
+<username>Martin Gühmann</username>
+<id>2952159</id>
+</contributor>
+<comment>/* Noun */ Add the opsin sense and references</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1176" xml:space="preserve">==English==
+===Noun===
+{{en-noun|~}}
+# {{lb|en|uncountable|biochemistry}} An [[octapeptide]] present in the [[frog]] [[Xenopus laevis]]&lt;ref&gt;{{cite journal |last1=Araki |first1=Kengo |last2=Tachibana |first2=Shinro |last3=Uchiyama |first3=Mikio |last4=Nakajima |first4=Terumi |last5=Yasuhara |first5=Tadashi |title=Isolation and Structure of a New Active Peptide &quot;Xenopsin&quot;on the Smooth Muscle, especially on a Strip of Fundus from a Rat Stomach, from the Skin of Xenopus laevis |journal=Chemical and Pharmaceutical Bulletin |date=1973 |volume=21 |issue=12 |pages=2801–2804 |doi=10.1248/cpb.21.2801}}&lt;/ref&gt;
+# {{lb|en|countable|biochemistry}} A group of [[opsin]]s, which are confined to [[mollusc]]s, [[rotifer]]s, [[brachiopod]]s, and [[cnidarian]]s&lt;ref&gt;{{cite journal |last1=Ramirez |first1=Md |last2=Pairett |first2=An |last3=Pankey |first3=Ms |last4=Serb |first4=Jm |last5=Speiser |first5=Di |last6=Swafford |first6=Aj |last7=Oakley |first7=Th |title=The last common ancestor of most bilaterian animals possessed at least 9 opsins |journal=Genome Biology and Evolution |date=26 October 2016 |pages=evw248 |doi=10.1093/gbe/evw248}}&lt;/ref&gt;
+===References===
+&lt;references /&gt;</text>
+<sha1>7z98kax5mmpfmecvx8xo7mllcowaeld</sha1>
+</revision>
+</page>

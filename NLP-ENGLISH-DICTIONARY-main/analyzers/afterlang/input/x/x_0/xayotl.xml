@@ -1,0 +1,44 @@
+<page>
+<title>xayotl</title>
+<ns>0</ns>
+<id>3723520</id>
+<revision>
+<id>56183025</id>
+<parentid>52257096</parentid>
+<timestamp>2019-10-17T07:23:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="952" xml:space="preserve">==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ˈʃaːjoːt͡ɬ/}}
+===Noun===
+{{head|head=xāyōtl|nci|noun}}
+# [[feces]], [[excrement]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 158r. col. 2.
+#*: '''xayotl'''. [[heces|hezes]].
+#*: ('''xayotl'''. feces.)
+====Synonyms====
+* {{sense|excrement}} {{l|nci|cuitlatl}}
+====Derived terms====
+{{top3}}
+* {{l|nci|hunoxayotl|huinoxāyōtl}}
+* {{l|nci|ixxayotl|īxxāyōtl}}
+{{mid3}}
+* {{l|nci|ocxayotl|ocxāyōtl}}
+* {{l|nci|tlalxayotl|tlālxāyōtl}}
+{{mid3}}
+* {{l|nci|xayocuitlatl|xāyōcuitlatl}}
+* {{l|nci|xayotlaza|xāyōtlāza|pos=v}}
+{{bottom}}
+===References===
+* {{cite-book|author=Frances Karttunen|year=1992|title=An Analytical Dictionary of Nahuatl|publisher=University of Oklahoma Press|page=322}}
+[[Category:nci:Feces]]</text>
+<sha1>2d6elg2sglh3i2fh4blk8vif3clis0f</sha1>
+</revision>
+</page>

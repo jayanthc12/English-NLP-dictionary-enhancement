@@ -1,0 +1,167 @@
+###############################################
+# FILE: funcs.nlp
+# SUBJ: Functions for the Portuguese Wiki page parser
+# AUTH: David de Hilster
+# CREATED: 2022-11-07 8:40:53
+# MODIFIED:
+###############################################
+
+@DECL
+Wordtopos(L("word"))
+    {
+        L("pos")=findconcept(G("pos"),L("word"));
+        if(L("pos"))
+            {
+                return strval(L("pos"),"pos");
+            }
+    }
+
+AddWord(L("word"),L("lang"),L("node")) {
+    L("header") = strtolower(pnvar(L("node"),"header"));
+    L("pos") = PosStr(L("header"));
+    "add.txt" << L("word") << " " << L("pos") << "\n";
+    if (L("pos")) {
+        L("con") = AddUniqueCon(G("words"),L("word"));
+        L("meaning") = MakeCountCon(L("con"),"meaning");
+
+        AddUniqueStr(L("meaning"),"pos",L("pos"));
+        AddUniqueStr(L("meaning"),"lang",L("lang"));
+
+        AddWordAttr(L("meaning"),"root",L("node"));
+        AddWordAttr(L("meaning"),"pessoa",L("node"));
+        AddWordAttr(L("meaning"),"numero",L("node"));
+        AddWordAttr(L("meaning"),"tempo",L("node"));
+
+    } else if (L("header") == "conjugação") {
+        L("verb") = pnvar(L("node"),"verb");
+        L("stem") = pnvar(L("node"),"stem");
+        L("verb") = GetVerbEnding(L("stem"),L("verb"));
+        L("stem") = G("GetVerbEnding");
+        "stem.txt" << L("stem") << "\n";
+        if (strstartswith(L("verb"),"c")) {
+            L("stem") = L("stem") + "c";
+            L("verb") = strpiece(L("verb"),1,strlength(L("verb"))-1);
+        }
+        if (L("verb") == "ar") {
+            AddVerbAr(L("stem"));
+        } else if (L("verb") == "er") {
+            AddVerbEr(L("stem"));            
+        } else if (L("verb") == "ir") {
+            AddVerbIr(L("stem"));
+        }
+    } else {
+        # Word with no part of speech
+        G("debug") << L("word") << " " << L("lang") << " <-- No POS\n";
+    }
+}
+
+###############################################
+# {{conj/pt|esp|edir}} where the last token is longer than ar, er, or ir
+###############################################
+GetVerbEnding(L("stem"),L("verb")) {
+    L("len") = strlength(L("verb"));
+    G("GetVerbEnding") = L("stem");
+    L("ending") = L("verb");
+    if (L("len") > 2) {
+        L("ending") = strpiece(L("verb"),L("len")-2,L("len")-1);
+        G("GetVerbEnding") = L("stem") + strpiece(L("verb"),0,L("len")-3);
+    }
+    return L("ending");
+}
+
+###############################################
+# https://www.conjugacao.com.br/verbo-brincar/
+###############################################
+
+
+
+StemSuffix(L("stem"),L("suffix")) {
+    L("len") = strlength(L("stem")) - 1;
+    L("stem let") = strpiece(L("stem"),L("len"),L("len"));
+    L("suffix let") = strpiece(L("suffix"),0,0);
+    L("word") = L("stem") + L("suffix");
+    if (L("stem let") == "c" && L("suffix let") == "e") {
+        L("word") = strpiece(L("stem"),0,L("len")-1) + "qu" + L("suffix");
+    }
+    return L("word");
+}
+
+AddConjugation(L("stem"),L("suffix"),L("pessoa"),L("numero"),L("tempo")) {
+    L("root") = StemSuffix(L("stem"),"ar");
+    L("word") = StemSuffix(L("stem"),L("suffix"));
+    L("con") = AddUniqueCon(G("words"),L("word"));
+    L("meaning") = MakeCountCon(L("con"),"meaning");
+    AddUniqueStr(L("meaning"),"pos","v");
+    AddUniqueStr(L("meaning"),"lang","pt");
+    AddUniqueStr(L("meaning"),"root",L("root"));
+    AddUniqueStr(L("meaning"),"pessoa",L("pessoa"));
+    AddUniqueStr(L("meaning"),"numero",L("numero"));
+    AddUniqueStr(L("meaning"),"tempo",L("tempo"));
+}
+
+AddWordAttr(L("meaning"),L("attr"),L("node")) {
+    L("at") = pnvar(L("node"),L("attr"));
+    if (L("at")) {
+        "at.txt" << conceptpath(L("meaning")) << " -- " << L("attr") << " " << L("at") << "\n";
+        AddUniqueStr(L("meaning"),L("attr"),L("at"));
+    }
+}
+
+
+
+KBDump() {
+    L("word") = down(G("words"));
+    if (G("$isdirrun")) {
+        L("dictfile") = G("$kbpath") + G("$inputparent") + ".dict";
+        L("kbbfile") = G("$kbpath") + G("$inputparent") + ".kbb";
+    } else {
+        L("dictfile") = G("$kbpath") + G("$inputhead") + ".dict";
+        L("kbbfile") = G("$kbpath") + G("$inputhead") + ".kbb";
+    }
+
+    L("dict") = openfile(L("dictfile"),1);
+    L("kbb") = openfile(L("kbbfile"),1);
+
+    DisplayKBRecurse(L("kbb"),G("words"),0,1);
+    closefile(L("kbb"));
+
+    while (L("word")) {
+        L("meaning") = down(L("word"));
+        while (L("meaning")) { 
+            L("dict") << conceptname(L("word"));
+            AddWordAttribute(L("dict"),L("meaning"),"pos");
+            AddWordAttribute(L("dict"),L("meaning"),"lang");
+            AddWordAttribute(L("dict"),L("meaning"),"root");
+            AddWordAttribute(L("dict"),L("meaning"),"pessoa");
+            AddWordAttribute(L("dict"),L("meaning"),"numero");
+            AddWordAttribute(L("dict"),L("meaning"),"tempo");
+            L("dict") << "\n";
+            L("meaning") = next(L("meaning"));
+        }
+        L("word") = next(L("word"));
+    }
+    closefile(L("dict"));
+}
+
+AddWordAttribute(L("file"),L("meaning"),L("attr")) {
+    L("val") = strval(L("meaning"),L("attr"));
+    if (L("val")) {
+        L("file") << " " << L("attr") << "=" << L("val");
+    }
+}
+
+XMLOut(L("out"))
+{
+    
+    L("word")=down(G("words"));
+
+    while (L("word")) {
+        L("pos")=findvals(L("word"),"pos");
+        if(L("pos"))
+        {
+            L("out") << "<word>" << conceptname(L("word")) << "<\word>" << "\n";
+        }
+        L("word") = next(L("word"));
+    }
+}
+@@DECL

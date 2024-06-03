@@ -1,0 +1,54 @@
+<page>
+<title>yardbird</title>
+<ns>0</ns>
+<id>963824</id>
+<revision>
+<id>67281706</id>
+<parentid>65637904</parentid>
+<timestamp>2022-06-06T06:59:02Z</timestamp>
+<contributor>
+<ip>77.85.35.187</ip>
+</contributor>
+<comment>t+bg:[[наказан войник]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2072" xml:space="preserve">{{also|yard bird}}
+==English==
+===Alternative forms===
+* [[yard bird]]
+===Etymology===
+From {{af|en|yard|bird}}. Attested since 1956 in the sense of ‘convict,’ derived from the idea of prison yards. During World War II, it meant ‘basic trainee’ among the armed forces.&lt;ref&gt;{{EtymOnLine}}&lt;/ref&gt;
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjɑːd.bəːd/}}
+* {{a|US}} {{IPA|en|/ˈjɑɹd.bɝd/}}
+* {{audio|en|En-au-yardbird.ogg|Audio (AU)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|chiefly|US|slang}} A [[chicken]].
+# {{lb|en|chiefly|US|slang}} A person who is [[imprison]]ed.
+#* '''1985''', John P. Conrad, &quot;Charting a Course for Imprisonment Policy,&quot; ''Annals of the American Academy of Political and Social Science'', vol. 478, p. 126:
+#*: The working convict is a rare exception, sometimes envied because his time is occupied, sometimes derided for his deviance from the '''yardbird''' norm.
+# {{lb|en|chiefly|US|slang}} A [[soldier]] who is required to perform [[menial]] work on the grounds of a [[military]] base.
+#* '''1943''', &quot;[https://web.archive.org/web/20081214160157/http://www.time.com/time/magazine/article/0,9171,802808,00.html In the Rough],&quot; ''Time'', 5 Jul.:
+#*: As the Marines expanded to war strength, Lou Diamond was the ideal liaison between crusty old-timers and impressionable recruits. He taught quick action by threats of '''yardbird''' detail.
+====Translations====
+{{trans-top|person who is imprisoned}}
+* Bulgarian: {{t|bg|наказан войник|m}}
+* Finnish: {{t|fi|häkkilintu}}
+* French: {{t+|fr|détenu}}, {{t+|fr|taulard}}
+* German: {{t+|de|Knacki|m}}, {{t+|de|Knastbruder|m}}, {{t+|de|Knastschwester|f}}, {{t+|de|Sträfling|m}}
+{{trans-mid}}
+* Romanian: {{t+|ro|prizonier|m}}, {{t+|ro|deținut|m}}
+* Russian: {{t+|ru|заключённый|m}}, {{t+|ru|у́зник|m}}
+* Spanish: {{t+|es|detenido}}, {{t+|es|penado}}
+{{trans-bottom}}
+{{trans-top|soldier required to do menial work}}
+* French: {{t+|fr|troufion}}, {{t|fr|homme de corvée}}
+{{trans-mid}}
+{{trans-bottom}}
+===References===
+&lt;references /&gt;
+[[Category:en:People]]</text>
+<sha1>ookkqc5g0mj4v3qothwxufoqm3jehbu</sha1>
+</revision>
+</page>

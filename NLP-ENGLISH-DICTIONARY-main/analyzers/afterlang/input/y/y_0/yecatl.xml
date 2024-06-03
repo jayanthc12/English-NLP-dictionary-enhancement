@@ -1,0 +1,44 @@
+<page>
+<title>yecatl</title>
+<ns>0</ns>
+<id>4126787</id>
+<revision>
+<id>65321335</id>
+<parentid>62717679</parentid>
+<timestamp>2022-01-12T05:48:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Nahuatl: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1095" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[wind|Wind]].
+[[Category:Milpa Alta Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|yēctli|ātl|t1=something good|t2=water}}.
+===Pronunciation===
+* {{IPA|nci|[ˈjeː.kaːt͡ɬ]}}
+===Noun===
+{{nci-noun|i|yēcātl}}
+# [[fresh water]]
+#* '''1571:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 6r. col. 1.
+#*: Agua dulce. '''yecatl'''. chipauacatl.
+#*:: Fresh water. '''yecatl'''. chipauacatl.
+#* ''Idem'', f. 34v. col. 1.
+#*: '''Yecatl'''. agua dulce.
+#*:: '''Yecatl'''. fresh water.
+====Synonyms====
+* {{sense|fresh water}} {{l|nci|chipāhuacātl}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=2008|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]] (1571)|publisher=Editorial Porrúa|page=6}}
+[[Category:nci:Water]]</text>
+<sha1>c70kiox418nwzeqleef6e9txp8oddrw</sha1>
+</revision>
+</page>

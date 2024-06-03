@@ -1,0 +1,34 @@
+<page>
+<title>Xenoperdix</title>
+<ns>0</ns>
+<id>3069720</id>
+<revision>
+<id>51778684</id>
+<parentid>47758745</parentid>
+<timestamp>2019-03-13T14:56:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="423" xml:space="preserve">==Translingual==
+===Etymology===
+{{prefix|mul|xeno||t1=strange}} ''[[Perdix]]''
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Phasianidae|African {{vern|forest partridge|pl=s}}}}
+====Hypernyms====
+* {{sense|genus}} {{Phasianidae Hypernyms}}; [[Perdicinae]]&amp;nbsp;- subfamily
+===References===
+* {{R:Gill2006}}
+===Further reading===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+[[Category:mul:Birds]]</text>
+<sha1>2pu98rmpglpi9159snosuq41l6jsd81</sha1>
+</revision>
+</page>

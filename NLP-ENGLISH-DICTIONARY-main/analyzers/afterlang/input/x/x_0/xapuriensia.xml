@@ -1,0 +1,23 @@
+<page>
+<title>xapuriensia</title>
+<ns>0</ns>
+<id>5401539</id>
+<revision>
+<id>66995130</id>
+<parentid>56737025</parentid>
+<timestamp>2022-05-15T09:46:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xapuriēnsis}} (2); combine {{inflection of|la|xapuriēnsis}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xapuriēnsis}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="111" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xapuriēnsia}}
+# {{inflection of|la|xapuriēnsis||nom//acc//voc|n|p}}</text>
+<sha1>d0wlmvtgftfpki07qa8lxt90g23jdyn</sha1>
+</revision>
+</page>

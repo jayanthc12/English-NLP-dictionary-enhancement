@@ -1,0 +1,22 @@
+<page>
+<title>XSL</title>
+<ns>0</ns>
+<id>1599965</id>
+<revision>
+<id>58008871</id>
+<parentid>54930036</parentid>
+<timestamp>2019-11-16T10:27:03Z</timestamp>
+<contributor>
+<username>Vealhurl</username>
+<id>3611421</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun}}
+{{wikipedia}}
+# {{lb|en|computing}} [[extensible|Extensible]] [[stylesheet]] [[language]], any of a family of languages in which code can be written to describe how [[XML]] files are to be [[transform]]ed.</text>
+<sha1>pimduk58uwjqle1iec9y4wvuupiv949</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinmalli</title>
+<ns>0</ns>
+<id>4405292</id>
+<revision>
+<id>69318209</id>
+<parentid>52035638</parentid>
+<timestamp>2022-09-18T17:05:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="227" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|malli|t2=model}}
+===Pronunciation===
+{{fi-p|ydin-malli}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[model]]
+====Declension====
+{{fi-decl-risti|ydinmall|||a}}</text>
+<sha1>ptcbf1qmh91xvs352uiywz3lrw3jlyj</sha1>
+</revision>
+</page>

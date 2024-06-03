@@ -1,0 +1,25 @@
+<page>
+<title>yiddisch</title>
+<ns>0</ns>
+<id>6364320</id>
+<revision>
+<id>64484577</id>
+<parentid>55002297</parentid>
+<timestamp>2021-10-29T03:36:22Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>French: Added &quot;Further reading&quot; section with TLFi link (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="112" xml:space="preserve">==French==
+===Noun===
+{{fr-noun|m|-}}
+# {{alternative form of|fr|yiddish}}
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>2pvpq7d56cz9ns2lv7yqmctb8ygwfvt</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>yibal</title>
+<ns>0</ns>
+<id>6053949</id>
+<revision>
+<id>69320717</id>
+<parentid>46411723</parentid>
+<timestamp>2022-09-18T20:15:36Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="565" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|y-peg|3s|∅}} {{nv-link-to-stem|-bal|repetitive imperfective}} {{nv-link-to-root|-BAAL|FFO hangs|to hang curtainlike}}.
+===Verb===
+{{head|nv|verb}}
+# it is [[flap#Verb|flapping]] it, [[wave#Verb|waving]] it (as a blanket in the wind)
+====Usage notes====
+This repetitive verb is used only in the imperfective mode.
+====Conjugation====
+{{nv-paradigm|neuter repetitive||3}}.
+====Related terms====
+* {{l|nv|nábał}}
+* {{l|nv|náyoołbał}}
+* {{l|nv|néíłbał}}
+* {{l|nv|níbaal}}
+* {{l|nv|sibaal}}
+* {{l|nv|yiłbaał}}</text>
+<sha1>ilncunqw7b6lahjl0fwgaygzib1lq40</sha1>
+</revision>
+</page>

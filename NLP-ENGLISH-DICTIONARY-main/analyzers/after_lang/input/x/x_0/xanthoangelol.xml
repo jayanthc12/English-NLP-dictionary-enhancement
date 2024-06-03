@@ -1,0 +1,27 @@
+<page>
+<title>xanthoangelol</title>
+<ns>0</ns>
+<id>5968900</id>
+<revision>
+<id>53456477</id>
+<parentid>41824651</parentid>
+<timestamp>2019-06-26T06:04:10Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="291" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xantho|angelica|ol}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|organic compound}} A [[chalcone]], found in {{taxlink|Angelica keiskei|species|noshow=1|ver=161204}}, that induces [[apoptosis]]
+===Anagrams===
+* {{anagrams|en|a=aaeghllnnootx|xanthogalenol}}</text>
+<sha1>qyemeylv74qt7m8t7gte7ud2eemnvp0</sha1>
+</revision>
+</page>

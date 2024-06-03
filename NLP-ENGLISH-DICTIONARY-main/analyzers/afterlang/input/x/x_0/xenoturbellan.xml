@@ -1,0 +1,24 @@
+<page>
+<title>xenoturbellan</title>
+<ns>0</ns>
+<id>6732570</id>
+<revision>
+<id>62740416</id>
+<parentid>49756788</parentid>
+<timestamp>2021-06-13T18:37:56Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Animals]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# Any [[bilaterian]] of the genus {{taxlink|Xenoturbella|genus}}
+[[Category:en:Animals]]</text>
+<sha1>8r0e65vs9q41jfezdjl2b1vwkv1qq2q</sha1>
+</revision>
+</page>

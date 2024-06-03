@@ -1,0 +1,27 @@
+<page>
+<title>XPCOM</title>
+<ns>0</ns>
+<id>77988</id>
+<revision>
+<id>65413928</id>
+<parentid>54343864</parentid>
+<timestamp>2022-01-22T19:57:21Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1566" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-prop}}
+# {{lb|en|computing}} {{abbreviation of|en|Cross-Platform Component Object Model}} (component of the Mozilla Project)
+#* {{quote-book|en|year=2002 -|title=Creating Applications with Mozilla|author=David Boswell|ISBN=0596000529|page=241|passage=Although most components available from '''XPCOM''' are written in C++, the XPConnect/'''XPCOM''' pairing can also accommodate other languages.}}
+#* {{quote-book|en|year=2004|title=Rapid Application Development with Mozilla|author=Nigel McFarlane|ISBN=0131423436|page=176|passage='''XPCOM''' is entirely internal to the Mozilla Platform. XPConnect is the glue that turns '''XPCOM'''-compliant objects and their interfaces into JavaScript host objects.}}
+#* {{quote-book|en|year=2007|title=Cross-Platform Development in C++|author=Syd Logan|ISBN=0132702185|passage='''XPCOM''' enables component software development, a paradigm that is heavily leveraged in the Mozilla product line. DLLs that implement the required external functions and classes defined for this purpose by '''XPCOM''' can be registered as components with a Mozilla-based project, and applications can then uses '''XPCOM''' to query these components for classes and interfaces, and then make calls against the interfaces to obtain the services provided by the component.}}
+#* {{quote-book|en|year=2007|title=Programming Firefox: Building Rich Internet Applications with XUL|author=Kenneth C. Feldt|ISBN=0596553684|passage=These '''XPCOM''' interfaces are the starting point for all XUL elements.}}</text>
+<sha1>q8chjvotyax309h3eg7497y17ka0rze</sha1>
+</revision>
+</page>

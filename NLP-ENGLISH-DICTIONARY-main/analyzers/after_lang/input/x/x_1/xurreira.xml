@@ -1,0 +1,35 @@
+<page>
+<title>xurreira</title>
+<ns>0</ns>
+<id>6279643</id>
+<revision>
+<id>68866657</id>
+<parentid>68856011</parentid>
+<timestamp>2022-08-28T05:42:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="486" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|zurreira}}
+===Etymology===
+{{unk|gl|title=Obscure}}; either from {{bor|gl|qfa-sub-ibe}}, if derived from {{l|gl|xurro}},&lt;ref&gt;{{R:es:DCECH|churre}}&lt;/ref&gt; or {{onomatopoeic|gl|nocap=1}} if related to {{l|gl|chorro}}.&lt;ref&gt;{{R:es:DCECH|chorro}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|gl|/ʃuˈrejɾa̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[drainage]]
+# [[surface runoff]]
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references /&gt;</text>
+<sha1>d9guv7ppno03ohpevzyesxfmmp23l95</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>xiringa</title>
+<ns>0</ns>
+<id>3757767</id>
+<revision>
+<id>68863517</id>
+<parentid>68830679</parentid>
+<timestamp>2022-08-28T05:22:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1110" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|xeringa}}
+===Etymology===
+from {{der|gl|ML.|sȳrinx|sȳringa}}, from {{der|gl|grc|σῦριγξ|t=pipe, syrinx}}. Cognate with {{cog|pt|seringa}} and {{cog|es|jeringa}}.
+===Pronunciation===
+* {{IPA|gl|/ʃiˈɾiŋɡa̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[syringe]]
+# [[squirt gun]]
+#* '''1911''', F. Potel Pardal, ''Costumes da Terra'', page 52:
+#*: ''Agardan xa na Pont'a Valga os rapaces polas mozas; uns con naranxas na man cheas de parromo do forno, outros  con fariña triga, da que as nais tiñan gardada pra facer filloas, metida no peto e con '''xiringas''' feitas dun cacho de cana i un pau con estopa na punta os máis deles.''
+#*:: The boys await for the girls at the bridge over the Valga river: some of them with oranges in hand, full of ashes of the oven; others with wheat flour -of the one that the mothers had for making crepes- in the pocket; and most of them with '''squirt guns''' made with a piece of cane and a twig with tow at its tip
+====Derived terms====
+* {{l|gl|xiringar}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>stu0ruf5fkx47naxt127ddeeg4oozpy</sha1>
+</revision>
+</page>

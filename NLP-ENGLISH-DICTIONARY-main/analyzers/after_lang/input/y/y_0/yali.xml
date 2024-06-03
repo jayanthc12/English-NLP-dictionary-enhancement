@@ -1,0 +1,48 @@
+<page>
+<title>yali</title>
+<ns>0</ns>
+<id>269392</id>
+<revision>
+<id>67053012</id>
+<parentid>65163243</parentid>
+<timestamp>2022-05-17T11:16:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>standardize templatized topical categories for lang=fr using {{C}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="746" xml:space="preserve">{{also|yālì}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|ota|یالی|tr=yalı}}, from {{der|en|el|γιαλός}}.
+===Noun===
+{{en-noun}}
+# {{c|en|Buildings}}A type of [[house]], particularly found on the Bosporus.
+===Anagrams===
+* {{anagrams|en|a=aily|Ilya}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|ota|یالی|tr=yalı}}, from {{der|fr|el|γιαλός}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-yali.wav|Audio}}
+===Noun===
+{{fr-noun|m}}
+# {{C|fr|Buildings}}{{l|en|yali}}
+----
+==Manchu==
+===Romanization===
+{{head|mnc|romanization|sc=Latn}}
+# Romanization of {{l|mnc|ᠶᠠᠯᡳ}}
+----
+==Ngarrindjeri==
+===Noun===
+{{head|nay|noun}}
+# a small young [[kangaroo]], a [[joey]]</text>
+<sha1>e7096ohlp6ol1qoky5103hhuf6vhmxy</sha1>
+</revision>
+</page>

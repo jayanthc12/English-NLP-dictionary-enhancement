@@ -1,0 +1,35 @@
+<page>
+<title>yaru</title>
+<ns>0</ns>
+<id>1193889</id>
+<revision>
+<id>64675694</id>
+<parentid>63802125</parentid>
+<timestamp>2021-11-17T17:23:48Z</timestamp>
+<contributor>
+<username>Alexlin01</username>
+<id>3861647</id>
+</contributor>
+<comment>/* Ternate */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">{{also|Yaru}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やる}}
+----
+==Ternate==
+===Pronunciation===
+* {{IPA|tft|[ˈja.ɾu]}}
+===Noun===
+{{tft-noun}}
+# [[sailfish]]
+# [[marlin]]s
+# [[swordfish]]
+===References===
+* {{R:tft:Hayami-Allen:2001}}
+{{C|tft|Fish}}</text>
+<sha1>hx22xw28v23dgzxc4jf399hloip6wf5</sha1>
+</revision>
+</page>

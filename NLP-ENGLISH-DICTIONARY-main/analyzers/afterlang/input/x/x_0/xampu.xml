@@ -1,0 +1,36 @@
+<page>
+<title>xampu</title>
+<ns>0</ns>
+<id>214972</id>
+<revision>
+<id>69114361</id>
+<parentid>67170525</parentid>
+<timestamp>2022-09-04T16:53:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{alter|pt}} to {{alt|pt}} (2); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="611" xml:space="preserve">{{also|xampú}}
+==Portuguese==
+{{wikipedia|lang=pt}}
+===Alternative forms===
+* {{alt|pt|champô||Portugal}}
+* {{alt|pt|shampoo}}
+===Etymology===
+From {{bor|pt|en|shampoo}}, from {{der|pt|hi|चाँपो}} / {{m|hi|चांपो}}, {{glossary|imperative}} form of {{m|hi|चाँपना}} / {{m|hi|चांपना|t=to press, knead}}, from the {{der|pt|sa|-}} verb {{m|sa|चपयति|t=to pound, knead}}, mid {{C.|18}}
+===Pronunciation===
+{{pt-IPA}}
+* {{rhymes|pt|u|s=2}}
+* {{hyph|pt|xam|pu}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Brazil}} [[shampoo]]
+====Descendants====
+* {{desc|hrx|Schampu}}</text>
+<sha1>cl00bxvh3mer4zz8hwpnm0md7bi9g34</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yarnspinner</title>
+<ns>0</ns>
+<id>3435879</id>
+<revision>
+<id>52020057</id>
+<parentid>26754770</parentid>
+<timestamp>2019-03-19T00:05:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yarn|spinner}}
+===Noun===
+{{en-noun}}
+# A [[storyteller]]; one who [[spin a yarn|spins a yarn]].</text>
+<sha1>lh6fdh6ghwbbhw8pdldimuooc493w4i</sha1>
+</revision>
+</page>

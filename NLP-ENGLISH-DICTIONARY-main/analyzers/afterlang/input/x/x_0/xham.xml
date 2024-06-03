@@ -1,0 +1,31 @@
+<page>
+<title>xham</title>
+<ns>0</ns>
+<id>1706159</id>
+<revision>
+<id>61099545</id>
+<parentid>61099543</parentid>
+<timestamp>2020-11-13T02:52:05Z</timestamp>
+<contributor>
+<username>MelancholicLinguist</username>
+<id>3758834</id>
+</contributor>
+<minor />
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="342" xml:space="preserve">==Albanian==
+{{wikipedia|Xhami (material)|lang=sq}}
+===Etymology===
+Borrowed from {{bor|sq|ota|جام|tr={{m|tr|cam}}|t=glass}}, from {{der|sq|fa|جام|tr=jâm|t=glass}}.
+===Pronunciation===
+* {{IPA|sq|/dʒam/}}
+===Noun===
+{{sq-noun|m|xhama|xhami|xhamat}}
+# [[glass]] (material)
+====Synonyms====
+* {{l|sq|qelq}}
+{{topics|sq|Materials}}</text>
+<sha1>4auhy6gae0s52f3qgg83rlouj90kxd3</sha1>
+</revision>
+</page>

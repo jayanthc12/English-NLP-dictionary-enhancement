@@ -1,0 +1,28 @@
+<page>
+<title>ydinkaupunki</title>
+<ns>0</ns>
+<id>4617510</id>
+<revision>
+<id>69318178</id>
+<parentid>52039427</parentid>
+<timestamp>2022-09-18T17:04:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|kaupunki}}
+===Pronunciation===
+{{fi-p|ydin-kaupunki}}
+===Noun===
+{{fi-noun}}
+# [[city]] [[core]]
+====Declension====
+{{fi-decl-risti|ydinkaupu|nk|ng|a}}</text>
+<sha1>e51gluz7q9ft327php7fz399d0l4hp1</sha1>
+</revision>
+</page>

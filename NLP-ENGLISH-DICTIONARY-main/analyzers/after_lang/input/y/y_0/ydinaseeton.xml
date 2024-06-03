@@ -1,0 +1,31 @@
+<page>
+<title>ydinaseeton</title>
+<ns>0</ns>
+<id>904107</id>
+<revision>
+<id>65353688</id>
+<parentid>58611616</parentid>
+<timestamp>2022-01-16T09:17:37Z</timestamp>
+<contributor>
+<username>Brittletheories</username>
+<id>3403588</id>
+</contributor>
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="360" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|ydinase|ton}}
+===Pronunciation===
+{{fi-p|ydin-aseeton}}
+===Adjective===
+{{fi-adj}}
+# [[nuclear-free]] {{gl|free of nuclear weapons}}
+#: {{ux|fi|'''ydinaseeton''' [[vyöhyke]]|[[nuclear-free zone]]|inline=1}}
+====Declension====
+{{fi-decl-onneton|pos=adj|ydinasee|a}}
+====Derived terms====
+* {{l|fi|ydinaseettomuus}}</text>
+<sha1>29xhdch9yd9scvrd1amk9vwilf220mh</sha1>
+</revision>
+</page>

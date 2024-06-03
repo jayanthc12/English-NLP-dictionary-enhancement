@@ -1,0 +1,35 @@
+<page>
+<title>xaca</title>
+<ns>0</ns>
+<id>2976406</id>
+<revision>
+<id>65319493</id>
+<parentid>62734457</parentid>
+<timestamp>2022-01-12T03:55:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Tataltepec Chatino: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Tataltepec Chatino==
+===Noun===
+{{head|cta|noun}}
+# [[wood]]
+----
+==Venetian==
+{{wikipedia|lang=vec}}
+===Etymology===
+From {{der|vec|fro|jaque}}.
+===Pronunciation===
+* {{IPA|vec|/ˈza.ka/}}
+===Noun===
+{{vec-noun|xac|f|a|he}}
+# [[jacket]]
+====Related terms====
+* {{l|vec|xachetina}}</text>
+<sha1>hsft3a71bvyhmk05bspzcpwkjnz759i</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>yenilik</title>
+<ns>0</ns>
+<id>3192199</id>
+<revision>
+<id>64002913</id>
+<parentid>63682836</parentid>
+<timestamp>2021-09-22T18:08:31Z</timestamp>
+<contributor>
+<username>İtidal</username>
+<id>3008460</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="544" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{suf|az|yeni|lik}}.
+===Noun===
+{{az-head-noun|i|k}}
+# [[newness]], [[novelty]]
+# [[innovation]]
+# [[news]] {{gl|new information of interest}}
+====Declension====
+{{az-decl-noun|i|k}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یڭیلك|tr=yeñilik}}, equivalent to {{suffix|tr|yeni|lik|t1=new|t2=-ness}}.
+===Noun===
+{{tr-noun|yeniliği|ler}}
+# [[newness]], [[novelty]]
+# [[innovation]]
+====Declension====
+{{tr-infl-noun-c|i|stem=yeniliğ|poss=1}}</text>
+<sha1>2ufrpw6ogsa245vcw92qf7nxrzn7bla</sha1>
+</revision>
+</page>

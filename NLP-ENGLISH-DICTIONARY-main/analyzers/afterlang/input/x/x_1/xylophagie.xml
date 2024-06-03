@@ -1,0 +1,25 @@
+<page>
+<title>xylophagie</title>
+<ns>0</ns>
+<id>6368691</id>
+<revision>
+<id>67052990</id>
+<parentid>47415971</parentid>
+<timestamp>2022-05-17T11:16:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{suffix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xylophage|-ie}}
+===Noun===
+{{fr-noun|f}}
+# [[xylophagy]]</text>
+<sha1>kjhm8z2nd68om1b9t51bzs3ty6cj4ix</sha1>
+</revision>
+</page>

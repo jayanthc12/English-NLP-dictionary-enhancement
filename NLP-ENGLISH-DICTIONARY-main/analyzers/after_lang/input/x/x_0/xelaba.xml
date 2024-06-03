@@ -1,0 +1,23 @@
+<page>
+<title>xelaba</title>
+<ns>0</ns>
+<id>4352045</id>
+<revision>
+<id>53120083</id>
+<parentid>25807611</parentid>
+<timestamp>2019-05-19T06:05:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'first-person singular imperfect preterite' to 1|s|impf|pret; canonicalized multiword inflection tag 'third-person singular imperfect preterite' to 3|s|impf|pret; combined tag sets 1|s|impf|pret and 3|s|impf|pret into 1//3|s|impf|pret</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||1//3|s|impf|pret}}</text>
+<sha1>jznphg0zmy8nopqhooytq59b0jt0xde</sha1>
+</revision>
+</page>

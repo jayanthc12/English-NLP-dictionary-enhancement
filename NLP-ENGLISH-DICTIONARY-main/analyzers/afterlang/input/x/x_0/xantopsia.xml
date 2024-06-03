@@ -1,0 +1,25 @@
+<page>
+<title>xantopsia</title>
+<ns>0</ns>
+<id>1605819</id>
+<revision>
+<id>51978860</id>
+<parentid>45061421</parentid>
+<timestamp>2019-03-17T23:40:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="118" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xanto|opsia}}
+===Noun===
+{{it-noun|f}}
+# {{lb|it|pathology}} [[xanthopsia]]</text>
+<sha1>cflo3c2v2mplhos2m38nt9bnxwnhrwy</sha1>
+</revision>
+</page>

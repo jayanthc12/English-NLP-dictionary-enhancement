@@ -1,0 +1,31 @@
+<page>
+<title>yaotequihuah</title>
+<ns>0</ns>
+<id>473440</id>
+<revision>
+<id>55412977</id>
+<parentid>51990701</parentid>
+<timestamp>2019-10-14T15:10:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="420" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+{{compound|nci|yāōtl|gloss1=enemy; (in compounds) war|tequitl|gloss2=task|-huah|gloss3=possessor of}}.
+===Pronunciation===
+* {{IPA|nci|/jaːoːtekiwaʔ/}}
+===Noun===
+{{head|nci|noun|head=yāōtequihuah}}
+# [[war]] [[chief]]
+===References===
+* Lockhart, James. (2001) ''Nahuatl as Written'' Stanford University Press, p. 242.
+[[Category:nci:Military]]
+[[Category:nci:People]]</text>
+<sha1>mnb150fs3tlb2kwpr9iikiuaftd1ws1</sha1>
+</revision>
+</page>

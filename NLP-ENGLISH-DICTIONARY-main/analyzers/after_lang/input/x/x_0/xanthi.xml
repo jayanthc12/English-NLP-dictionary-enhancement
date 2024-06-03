@@ -1,0 +1,24 @@
+<page>
+<title>xanthi</title>
+<ns>0</ns>
+<id>4151580</id>
+<revision>
+<id>66994995</id>
+<parentid>56274732</parentid>
+<timestamp>2022-05-15T09:45:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthos}} (2); combine {{inflection of|la|xanthos}} tag sets nom|p and voc|p into nom//voc|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="114" xml:space="preserve">{{also|Xanthi}}
+==Latin==
+===Noun===
+{{la-noun-form|xanthī}}
+# {{inflection of|la|xanthos||nom//voc|p|;|gen|s}}</text>
+<sha1>l7pndajzspdb50jpsx6vua1oadgxh3h</sha1>
+</revision>
+</page>

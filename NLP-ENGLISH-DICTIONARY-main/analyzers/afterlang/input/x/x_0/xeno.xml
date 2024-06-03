@@ -1,0 +1,61 @@
+<page>
+<title>xeno</title>
+<ns>0</ns>
+<id>65630</id>
+<revision>
+<id>68852942</id>
+<parentid>68822199</parentid>
+<timestamp>2022-08-28T04:05:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1356" xml:space="preserve">{{also|xenó|xeno-|xéno-}}
+==Galician==
+===Etymology===
+{{unk|gl}}. Perhaps ultimately from {{der|gl|ine-pro|*ǵénh₁mn̥|t=offspring}}, through a local {{der|gl|qfa-sub|}} language.
+===Pronunciation===
+* {{IPA|gl|/ˈʃeno̝/}}
+===Noun===
+{{gl-noun|m}}
+# {{lb|gl|cooking}} secondary sprout of a [[cabbage]], produced after the head is collected
+#: {{syn|gl|brotón|xermolo}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+----
+==Italian==
+{{wikipedia|lang=it}}
+{{elements|it|Xe|iodio|I|cesio|Cs}}
+===Pronunciation===
+{{it-pr|xèno}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|chemistry}} [[xenon]]
+{{C|it|Noble gases}}
+----
+==Latin==
+===Noun===
+{{la-noun-form|xenō}}
+# {{inflection of|la|xenon||dat//abl|s}}
+----
+==Old Leonese==
+===Etymology===
+From {{inh|roa-ole|la|plēnus}}, from {{inh|roa-ole|itc-pro|*plēnos}}, from {{inh|roa-ole|ine-pro|*pl̥h₁nós||full}}. Compare {{cog|roa-opt|chẽo}} and {{cog|osp|lenno}}, {{m|osp|lleno}}.
+===Adjective===
+{{head|roa-ole|adjective}}
+# [[full]]
+#* '''1245''' document from Sahagún, in '''1907''', Erik Staaff, ''Étude sur L’Ancien Dialecte Léonais d’après des Chartes du XIII&lt;sup&gt;e&lt;/sup&gt; Siècle'', Almqvist &amp; Wiksell, page 35.
+#*: Payares '''xenos''' de paya menuda.
+#*:: Haylofts '''full''' of chaff.
+====Descendants====
+* {{desc|roa-leo|cheno}}
+* {{desc|mwl|cheno}}</text>
+<sha1>2anb07bcgrhx5wsvxvc7p0q7nz6juwo</sha1>
+</revision>
+</page>

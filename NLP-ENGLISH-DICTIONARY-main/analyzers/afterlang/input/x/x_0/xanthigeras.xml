@@ -1,0 +1,23 @@
+<page>
+<title>xanthigeras</title>
+<ns>0</ns>
+<id>5406526</id>
+<revision>
+<id>56754484</id>
+<parentid>37549296</parentid>
+<timestamp>2019-10-18T14:46:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthigerās}}
+# {{inflection of|la|xanthigerus||acc|f|p}}</text>
+<sha1>s81sqgv0mt2o6oo7cd89kviaywvpljr</sha1>
+</revision>
+</page>

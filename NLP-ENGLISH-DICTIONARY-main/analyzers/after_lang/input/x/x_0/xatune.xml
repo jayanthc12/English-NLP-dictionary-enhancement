@@ -1,0 +1,31 @@
+<page>
+<title>xatune</title>
+<ns>0</ns>
+<id>6557401</id>
+<revision>
+<id>65363332</id>
+<parentid>54897660</parentid>
+<timestamp>2022-01-17T00:44:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Zazaki: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==Zazaki==
+===Etymology===
+From {{bor|zza|sog|χwatāw||queen}}.
+===Pronunciation===
+* {{IPA|zza|[xɑˈtunə]}}
+* {{hyphenation|zza|xa|tu|ne}}
+===Alternative forms===
+* [[xatunı]]
+===Noun===
+{{zza-noun|f}}
+# [[lady]], [[matron]]
+# [[noblewoman]]</text>
+<sha1>hi5bzmm3b3wwsqcyb98nflo00wwa52r</sha1>
+</revision>
+</page>

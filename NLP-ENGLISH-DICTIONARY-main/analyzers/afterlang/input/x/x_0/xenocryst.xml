@@ -1,0 +1,26 @@
+<page>
+<title>xenocryst</title>
+<ns>0</ns>
+<id>252499</id>
+<revision>
+<id>69042577</id>
+<parentid>51693401</parentid>
+<timestamp>2022-09-03T03:49:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|geology}} An isolated [[crystal]] having a different origin than the [[igneous]] [[rock]] in which it is found; the mineralogical equivalent of a [[xenolith]].
+====Alternative forms====
+* {{l|en|xenocrystal}}
+[[Category:English terms prefixed with xeno-]]</text>
+<sha1>jxfxxmpgbj9xurz7wdox0wu0pzwz4da</sha1>
+</revision>
+</page>

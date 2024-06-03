@@ -1,0 +1,66 @@
+<page>
+<title>Yangxin</title>
+<ns>0</ns>
+<id>7090164</id>
+<revision>
+<id>67950560</id>
+<parentid>67890892</parentid>
+<timestamp>2022-07-14T22:40:42Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1954 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2502" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat|Yangxin County}}
+===Alternative forms===
+* {{qualifier|{{w|postal romanization}}}} {{l|en|Yangsin}}
+* {{q|from [[Wade–Giles]]}} {{l|en|Yanghsin}}, {{l|en|Yang-hsin}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|陽新}}.
+===Pronunciation===
+* {{IPA|en|/ˌjɑnˈʃiːn/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|county|prefecture-level city/Huangshi|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=1954
+|last=Mao
+|first=Tse-tung
+|authorlast=Mao Tse-tung
+|title={{w|Selected Works of Mao Tse-Tung}}
+|url=https://archive.org/details/selected-works-of-mao-v-1/
+|location=[[Peking]]
+|publisher={{w|Foreign Languages Press}}
+|volume=I
+|OCLC=809575427
+|page=151
+|pageurl=https://archive.org/details/selected-works-of-mao-v-1/SelectedWorksOfMao-V1/page/151/
+|text= Elsewhere, too, the comrades have made progress in their work and deserve our praise — as in some parts of the counties of Shanghang, Changting and Yungting in Fukien Province; in Hsikiang and other places in southern Kiangsi Province; in some parts of the counties of Chaling, Yunghsin and Kian in the Hunan-Kiangsi border area; in some parts of '''Yanghsin''' County in the Hunan-Hupeh-Kiangsi border area; in districts and townships of many other counties in Kiangsi Province and in the county of Juichin which is directly under our central government.
+|brackets=on}}
+#* {{quote-book
+|en
+|date=1 July 1985
+|title=Hubei Curbs Unhealthy Tendencies
+|url=https://archive.org/details/DTIC_ADA361865/
+|url2=https://commons.wikimedia.org/wiki/File:DTIC_ADA361865_China_Report,_Political,_Sociological_and_Military_Affairs_1985-07-01.pdf
+|publisher={{w|United States Joint Publications Research Service}}
+|page=73
+|pageurl=https://archive.org/details/DTIC_ADA361865/page/n80/
+|text=Examination of the condition of the reckless issuing of clothing throughout the county by the '''Yangxin''' County party committee and the county government to administrative and business units directly subordinate to the county was stressed, it was discovered that the cost of issuing clothing to 45 units had topped 300,000 yuan, and over 72,000 yuan has now been recovered.}}
+====Translations====
+{{trans-top|county in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|陽新|sc=Hani}}, {{t+|cmn|阳新|tr=Yángxīn|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aginnxy|Xinyang}}</text>
+<sha1>06tqyjt0mmou4cfw7wi0sevood3f8y0</sha1>
+</revision>
+</page>

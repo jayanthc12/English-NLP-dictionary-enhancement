@@ -1,0 +1,25 @@
+<page>
+<title>Yanagi</title>
+<ns>0</ns>
+<id>4415154</id>
+<revision>
+<id>40700441</id>
+<parentid>40674441</parentid>
+<timestamp>2016-09-21T23:40:06Z</timestamp>
+<contributor>
+<username>OrphicBot</username>
+<id>3186543</id>
+</contributor>
+<minor />
+<comment>removed redundant {{also|...}} template</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">{{also|yanagi}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やなぎ}}
+# {{ja-romanization of|ヤナギ}}</text>
+<sha1>f9eut7xzuj73x88pacmil748s3tj4f0</sha1>
+</revision>
+</page>

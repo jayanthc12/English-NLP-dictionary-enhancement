@@ -1,0 +1,33 @@
+<page>
+<title>xeroxlore</title>
+<ns>0</ns>
+<id>2916064</id>
+<revision>
+<id>58150340</id>
+<parentid>54323970</parentid>
+<timestamp>2019-12-12T00:42:47Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>quote-book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1536" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|xerox|lore}}.
+===Noun===
+{{en-noun|-}}
+# {{synonym of|en|photocopylore||a kind of [[folklore]] comprising [[humorous]] [[material#Noun|material]] and [[urban legend]]s that are [[reproduce]]d on [[xerox]] [[machine#Noun|machines]] ([[photocopier]]s)}}.
+#* {{quote-book|en|year=1980|author=Gershon Legman|title=The New Limerick|passage={{...}}the word's protean expressiveness has been observed in a '''xeroxlore''' item printed in Robert Anton Wilson's ''Playboy's Book of Forbidden Words''{{...}}}}
+#* '''1995''', Indiana University, ''Journal of folklore research'' (volume 32)
+#*: I did some of my research on '''xeroxlore''', or photocopylore, in a textile dyeing plant of about 250 people.
+#* {{quote-book|en|author=Gail de Vos|chapter=Science, Technology, and the Contemporary Legend|title=Tales, Rumors, and Gossip: Exploring Contemporary Folk Literature in Grades 7–12|location=Westport, Conn.|publisher=Libraries Unlimited, {{w|Greenwood Publishing Group}}|year=1996|section=part III|page=120|pageurl=https://books.google.com/books?id=M8bvN93y-fIC&amp;pg=PA120|isbn=978-1-56308-190-3|passage=Both '''Xeroxlore''' and faxlore have an increasing emphasis of visual material: / [It may be] a characteristic of both the increasingly visual sophistication of youth in our society and the capacities of the fax machine which sends images rather than alphanumeric messages; {{...}}}}
+====Synonyms====
+* {{l|en|copylore}}
+* {{l|en|photocopylore}}
+====Coordinate terms====
+* {{l|en|faxlore}}</text>
+<sha1>bbzyhh0cyfqj76qtr80uozi8kxz9j4z</sha1>
+</revision>
+</page>

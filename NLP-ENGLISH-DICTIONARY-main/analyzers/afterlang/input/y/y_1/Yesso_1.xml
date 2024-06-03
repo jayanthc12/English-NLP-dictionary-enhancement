@@ -1,0 +1,27 @@
+<page>
+<title>Yesso</title>
+<ns>0</ns>
+<id>7202235</id>
+<revision>
+<id>68430032</id>
+<parentid>52540685</parentid>
+<timestamp>2022-07-22T07:14:28Z</timestamp>
+<contributor>
+<username>Eirikr</username>
+<id>12340</id>
+</contributor>
+<comment>/* English */ +rfe for any details on route of transmission -- this is not directly from Japanese.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="451" xml:space="preserve">==English==
+===Etymology===
+{{rfe|en|Any details on where this came from?  There is no ''Yesso'' or ''Esso'' in Japanese that refers to Hokkaido, only ''Ezo'', so this ''Yesso'' is not directly from Japanese.  It may have arrived in English via some intermediary language(s).}}
+===Proper noun===
+{{en-proper noun}}
+# {{obsolete spelling of|en|Ezo|t=former name of [[Hokkaido]]}}
+====Derived terms====
+* {{l|en|Yesso scallop}}
+* {{l|en|yessotoxin}}</text>
+<sha1>ovbd8ogbqnpn0dj83n568o1swbnxzdt</sha1>
+</revision>
+</page>

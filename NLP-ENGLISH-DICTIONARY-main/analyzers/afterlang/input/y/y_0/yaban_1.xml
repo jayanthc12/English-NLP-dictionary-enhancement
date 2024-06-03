@@ -1,0 +1,50 @@
+<page>
+<title>yaban</title>
+<ns>0</ns>
+<id>7140720</id>
+<revision>
+<id>69475758</id>
+<parentid>61883711</parentid>
+<timestamp>2022-10-09T16:22:42Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>+Azerbaijani using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="770" xml:space="preserve">{{also|Yaban}}
+==Azerbaijani==
+{{az-variant|c=јабан|a=یابان|r=yaban}}
+===Etymology===
+From {{bor|az|fa|یابان|tr=yābān}}.
+===Pronunciation===
+* {{IPA|az|[jɑˈbɑn]}}
+* {{hyph|az|ya|ban}}
+===Noun===
+{{az-noun|a|n}}
+# [[wilderness]], [[wastelands]]
+====Declension====
+{{az-decl-noun|a|n}}
+====Derived terms====
+{{der3|az|yabançı|yabançılıq|yabanı|yabanılaşma|yabanılaşmaq|biyaban|biyabanlıq}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یابان}}, from {{der|tr|fa|یابان|tr=yābān}}.
+===Noun===
+{{tr-noun|ı|lar}}
+# [[wilderness]]
+# [[backwoods]]
+# [[stranger]], [[foreigner]]
+====Declension====
+{{tr-infl-noun-c|a}}
+===Adjective===
+{{tr-adj}}
+# [[wild]]
+# [[uninhabited]]</text>
+<sha1>9p2zlyhb7z518bb5cr6pe6zg64zfpb0</sha1>
+</revision>
+</page>

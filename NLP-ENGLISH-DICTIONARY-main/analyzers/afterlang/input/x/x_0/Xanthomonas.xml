@@ -1,0 +1,29 @@
+<page>
+<title>Xanthomonas</title>
+<ns>0</ns>
+<id>3732134</id>
+<revision>
+<id>52809488</id>
+<parentid>51796895</parentid>
+<timestamp>2019-05-10T17:58:11Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="316" xml:space="preserve">==Translingual==
+[[File:Xanthomonas Culture.jpg|thumb]]
+===Etymology===
+{{prefix|mul|xantho|Monas}}
+===Proper noun===
+{{taxoninfl|g=f|i=1}}
+# {{taxon|genus|family|Xanthomonadaceae|[[proteobacteria]], many of which cause plant diseases}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}</text>
+<sha1>dihznplwnik4h5xm174ze5dkvijtr60</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xylanovoranti</title>
+<ns>0</ns>
+<id>4350881</id>
+<revision>
+<id>66995330</id>
+<parentid>56450866</parentid>
+<timestamp>2022-05-15T09:47:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xylanovorans}} (5); combine {{inflection of|la|xylanovorans}} tag sets dat|m|s and dat|f|s into dat|m//f|s; combine {{inflection of|la|xylanovorans}} tag sets dat|m//f|s and dat|n|s into dat|m//f//n|s; combine {{inflection of|la|xylanovorans}} tag sets abl|m|s and abl|f|s into abl|m//f|s; combine {{inflection of|la|xylanovorans}} tag sets abl|m//f|s and abl|n|s into abl|m//f//n|s; combine {{inflection of|la|xylanovorans}} tag sets dat|m//f//n|s and...</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="114" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xylanovorantī}}
+# {{inflection of|la|xylanovorans||dat//abl|m//f//n|s}}</text>
+<sha1>8g1elhbhf0zznw6b2mmd5od5twsjr2u</sha1>
+</revision>
+</page>

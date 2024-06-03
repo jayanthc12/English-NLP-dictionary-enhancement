@@ -1,0 +1,63 @@
+<page>
+<title>Yamoussoukro</title>
+<ns>0</ns>
+<id>272062</id>
+<revision>
+<id>67078033</id>
+<parentid>65486474</parentid>
+<timestamp>2022-05-19T07:14:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up French etymologies, pronun sections, participles, toponyms, extraneous spaces, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1576" xml:space="preserve">==English==
+{{wikipedia}}
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˌjæmuˈsuːkɹəʊ/}}
+* {{a|US}} {{IPA|en|/ˌjɑːmuˈsuːkɹoʊ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|The official and &lt;&lt;administrative capital&gt;&gt; of &lt;&lt;c/Ivory Coast&gt;&gt;}}.
+====Translations====
+{{trans-top|official/administrative capital of Ivory Coast}}
+* Arabic: {{t|ar|يَامُوسُوكْرُو|f|tr=yamusukrū}}
+* Armenian: {{t|hy|Յամուսուկրո}}
+* Chinese:
+*: Mandarin: {{t+|cmn|亞穆蘇克羅}}, {{t+|cmn|亚穆苏克罗|tr=Yàmùsūkèluó}}
+* Danish: {{t|da|Yamoussoukro}}
+* Dutch: {{t+|nl|Yamoussoukro|n}}
+* Esperanto: {{t+|eo|Jamusukro}}
+* German: {{t+|de|Yamoussoukro|n}}
+{{trans-mid}}
+* Hebrew: {{t|he|יָמוּסוּקְרוֹ|f|tr=yamusukro}}, {{t|he|יאמוסוקרו|f|tr=yamusukro}}
+* Japanese: {{t|ja|ヤムスクロ|tr=Yamusukuro|sc=Jpan}}
+* Khmer: {{t+|km|យ៉ាមូស៊ូក្រូ}}
+* Korean: {{t|ko|^야무수크로}}
+* Portuguese: {{t+|pt|Yamoussoukro|f}}
+* Russian: {{t|ru|Ямусу́кро|m}}
+* Thai: {{t|th|ยามูซูโกร}}
+* Vietnamese: {{t|vi|Y-a-mu-xu-crô}}
+{{trans-bottom}}
+----
+==French==
+{{wikipedia|lang=fr}}
+===Pronunciation===
+* {{fr-IPA}}
+===Proper noun===
+{{fr-proper noun|f}}
+# {{place|fr|the official and &lt;&lt;administrative capital&gt;&gt; of &lt;&lt;c/Ivory Coast&gt;&gt;|t1=Yamoussoukro}}
+====Derived terms====
+* {{l|fr|yamoussoukrois}}
+* {{l|fr|Yamoussoukrois}}
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|the official and &lt;&lt;administrative capital&gt;&gt; of &lt;&lt;c/Ivory Coast&gt;&gt;|t1=Yamoussoukro}}</text>
+<sha1>e00eq3r8ditl4eh05c69cmj3p2aev6j</sha1>
+</revision>
+</page>

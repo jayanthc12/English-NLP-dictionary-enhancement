@@ -1,0 +1,75 @@
+<page>
+<title>yare</title>
+<ns>0</ns>
+<id>233578</id>
+<revision>
+<id>67225105</id>
+<parentid>66083378</parentid>
+<timestamp>2022-06-01T21:46:39Z</timestamp>
+<contributor>
+<username>Zumbacool</username>
+<id>3930515</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2304" xml:space="preserve">{{also|Yare|y'are}}
+==English==
+===Etymology 1===
+From {{inh|en|enm|yare}}, {{m|enm|ȝare}}, from {{inh|en|ang|ġearu||prepared, ready, prompt, equipped, complete, finished, yare}}, from {{inh|en|gmw-pro|*garu}}, from {{inh|en|gem-pro|*garwaz||ready}}.
+Cognate with {{cog|nl|gaar||done, well-cooked}}, {{cog|de|gar||done, well-cooked; wholly, at all}}, {{cog|is|görr}}, {{m|is|gerr||perfect}}.
+====Alternative forms====
+* {{l|en|yar}} {{q|for the nautical sense}}
+====Pronunciation====
+* {{IPA|en|/jɛə(ɹ)/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yare.wav|Audio (Berkshire, England)}}
+* {{rhymes|en|ɛə(ɹ)|s=1}}
+====Adjective====
+{{en-adj|er}}
+# {{lb|en|archaic}} [[ready|Ready]]; [[prepared]].
+# {{lb|en|UK|_|dialectal}} [[ready|Ready]], [[alert]], [[prepared]], [[prompt]].
+#* {{RQ:Shakespeare Midsummer|III|iv|text={{...}}Dismount thy tuck, be '''yare''' in thy preparation, for thy assailant is quick, skillful and deadly.}}
+# [[eager|Eager]], [[keen]], [[lively]], [[handy]]; [[agile]], [[nimble]].
+# {{lb|en|nautical|of a ship}} Easily [[manageable]] and responsive to the [[helm]]; [[yar]].
+#* '''c. 1587-1612''' (undated), {{w|Sir Walter Raleigh}}, ''letter to {{w|Henry Frederick, Prince of Wales|Prince Henry}}''
+#*: The lesser [ship] will come and go, leave or take, and is '''yare'''; whereas the greater is slow.
+=====Derived terms=====
+* {{l|en|yarely}}
+=====Translations=====
+{{trans-top|ready, prepared}}
+* Russian: {{t+|ru|гото́вый|m}}, {{t+|ru|подгото́вленный|m}}
+{{trans-mid}}
+{{trans-bottom}}
+====Adverb====
+{{en-adv}}
+# {{lb|en|archaic}} [[yarely|Yarely]].
+#* {{RQ:Shakespeare Tempest|I|i|text=Hey, my hearts! Cheerly, cheerly, my hearts! '''Yare''', '''yare'''! Take in the topsail. Tend to th'Master's whistle.{{...}}}}
+===Etymology 2===
+====Noun====
+{{head|en|noun}}
+# {{alt form|en|yair}}
+===Anagrams===
+* {{anagrams|en|a=aery|Arey|Ayer|Ayre|Raye|Reay|aery|ayre|eyra|year}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やれ}}
+----
+==Ternate==
+===Pronunciation===
+* {{IPA|tft|[ˈja.ɾe]}}
+===Verb===
+{{tft-verb}}
+# {{lb|tft|transitive}} to [[scatter]]
+====Conjugation====
+{{tft-conj}}
+===References===
+* {{R:tft:Hayami-Allen:2001}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[gravel]]</text>
+<sha1>lz6iackeyfr38i0zd4fi37w4cvgu6ep</sha1>
+</revision>
+</page>

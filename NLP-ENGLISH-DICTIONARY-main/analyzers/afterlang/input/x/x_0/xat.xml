@@ -1,0 +1,70 @@
+<page>
+<title>xat</title>
+<ns>0</ns>
+<id>2996811</id>
+<revision>
+<id>68802919</id>
+<parentid>64460137</parentid>
+<timestamp>2022-08-27T17:18:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1153" xml:space="preserve">{{also|xát|xắt|x̱át}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|hai|}}.
+===Pronunciation===
+{{enPR|ᴋʜät}}, {{IPA|en|/xɑt/}}
+===Noun===
+{{en-noun}}
+# A carved pole erected as a memorial to the dead by some Native Americans of Western North America.
+===References===
+* Webster's Third New International Dictionary: Unabridged, 1961 Merriam-Webster.
+===Anagrams===
+* {{anagrams|en|a=atx|ATX|Axt|tax|tax-}}
+----
+==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|en|chat}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|at|s=1}}
+===Noun===
+{{ca-noun|m}}
+# [[chat]] (through a computer network)
+====Derived terms====
+* {{l|ca|xatejar}}
+===Further reading===
+* {{R:IEC2}}
+----
+==Paipai==
+===Noun===
+{{head|ppi|noun}}
+# [[dog]]
+[[Category:ppi:Dogs]]
+----
+==Phalura==
+===Etymology===
+From {{bor|phl|ur|خط|tr=xat}}, from {{der|phl|ar|خَطّ}}.
+===Pronunciation===
+* {{IPA|phl|/xat/}}
+===Noun===
+{{head|phl|noun|g=f|Perso-Arabic spelling|خط}}
+# letter
+====Inflection====
+i-decl (Obl, pl): -í
+===References===
+* {{R:phl:Liljegren:Vocab}}
+----
+==Uzbek==
+===Noun===
+{{uz-noun}}
+# [[letter]] (written message)</text>
+<sha1>1wzycnm3k30e796cgu98q0vjy91nm40</sha1>
+</revision>
+</page>

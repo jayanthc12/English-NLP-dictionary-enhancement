@@ -1,0 +1,27 @@
+<page>
+<title>xeso</title>
+<ns>0</ns>
+<id>1585912</id>
+<revision>
+<id>68861383</id>
+<parentid>64028596</parentid>
+<timestamp>2022-08-28T05:07:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Galician==
+===Noun===
+{{gl-noun|m}}
+# [[gypsum]]
+#: {{syn|gl|elso|alxés}}
+===References===
+* {{R:gl:DDLG}}
+[[Category:gl:Geology]]</text>
+<sha1>64d60h0la54hjykwiocb01io6xgp611</sha1>
+</revision>
+</page>

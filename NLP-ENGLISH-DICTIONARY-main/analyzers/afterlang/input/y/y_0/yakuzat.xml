@@ -1,0 +1,24 @@
+<page>
+<title>yakuzat</title>
+<ns>0</ns>
+<id>1990019</id>
+<revision>
+<id>49429055</id>
+<parentid>45370468</parentid>
+<timestamp>2018-05-02T08:59:18Z</timestamp>
+<contributor>
+<username>Wyangbot</username>
+<id>1553528</id>
+</contributor>
+<minor />
+<comment>Replacing instances of T:plural-of for Finnish with T:fi-form_of ([[Wiktionary:Grease pit/2018/April#Template.plural of and Finnish]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|yakuza|case=nominative|pl=plural}}
+# {{fi-form of|case=accusative|pl=plural|yakuza}}</text>
+<sha1>rfwj6js5439saclgmlsgccaner2l00c</sha1>
+</revision>
+</page>

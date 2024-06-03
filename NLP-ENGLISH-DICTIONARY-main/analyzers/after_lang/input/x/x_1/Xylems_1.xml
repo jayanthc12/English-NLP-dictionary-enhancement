@@ -1,0 +1,26 @@
+<page>
+<title>Xylems</title>
+<ns>0</ns>
+<id>3894976</id>
+<revision>
+<id>66245002</id>
+<parentid>57435120</parentid>
+<timestamp>2022-03-27T17:34:37Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xylems.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">{{also|xylems}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xylems.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Xylem||gen|s}}</text>
+<sha1>0ix0a83yy5fd0pb86cke7aoszu1mla9</sha1>
+</revision>
+</page>

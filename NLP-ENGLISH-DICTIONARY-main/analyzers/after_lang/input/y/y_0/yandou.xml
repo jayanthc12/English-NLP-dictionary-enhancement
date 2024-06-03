@@ -1,0 +1,26 @@
+<page>
+<title>yandou</title>
+<ns>0</ns>
+<id>6361802</id>
+<revision>
+<id>67257901</id>
+<parentid>56125469</parentid>
+<timestamp>2022-06-05T08:44:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant plural [[yandous]] from {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-Paris--yandou.ogg|Audio (Paris)}}
+===Noun===
+{{fr-noun|m}}
+# [[nandu]]</text>
+<sha1>jfs2ygc1nl4285kg4txd7v2240f4w01</sha1>
+</revision>
+</page>

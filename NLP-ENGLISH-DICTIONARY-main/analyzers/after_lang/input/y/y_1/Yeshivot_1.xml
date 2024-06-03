@@ -1,0 +1,24 @@
+<page>
+<title>Yeshivot</title>
+<ns>0</ns>
+<id>4069125</id>
+<revision>
+<id>56270705</id>
+<parentid>53093108</parentid>
+<timestamp>2019-10-17T10:59:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">{{also|yeshivot}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yeshiva}}</text>
+<sha1>gsfetnb1a1vr3t2bprx2tzre1uq95l2</sha1>
+</revision>
+</page>

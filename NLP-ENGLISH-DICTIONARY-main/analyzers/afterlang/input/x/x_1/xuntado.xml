@@ -1,0 +1,23 @@
+<page>
+<title>xuntado</title>
+<ns>0</ns>
+<id>1213380</id>
+<revision>
+<id>56582433</id>
+<parentid>29842366</parentid>
+<timestamp>2019-10-18T08:08:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form|participle}}
+# {{inflection of|gl|xuntar||past|part}}</text>
+<sha1>5l0xuzqa85h8144yslw345tt33x23ab</sha1>
+</revision>
+</page>

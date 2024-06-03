@@ -1,0 +1,29 @@
+<page>
+<title>yhteismarkkinat</title>
+<ns>0</ns>
+<id>6843506</id>
+<revision>
+<id>58620593</id>
+<parentid>58593448</parentid>
+<timestamp>2020-02-01T14:20:50Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|markkinat}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-markkinat}}
+===Noun===
+{{fi-noun|plonly=true}}
+# [[common market]]
+====Declension====
+{{fi-decl-kulkija|n=pl|yhteismarkkin|a}}</text>
+<sha1>t1zy4trd1uyv1tx16p60llo7badk556</sha1>
+</revision>
+</page>

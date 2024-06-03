@@ -1,0 +1,35 @@
+<page>
+<title>xarda</title>
+<ns>0</ns>
+<id>3445561</id>
+<revision>
+<id>64881466</id>
+<parentid>64873504</parentid>
+<timestamp>2021-12-07T18:51:14Z</timestamp>
+<contributor>
+<username>Robbie SWE</username>
+<id>24343</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==Asturian==
+{{wikipedia|lang=ast}}
+===Noun===
+{{ast-noun|f|xardes}}
+# [[mackerel]]
+[[Category:ast:Fish]]
+----
+==Galician==
+===Etymology===
+From {{inh|gl|la|sarda}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃaɾda̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[mackerel]]
+#: {{syn|gl|cabala|rincha}}
+[[Category:gl:Fish]]</text>
+<sha1>9nfax0kpl26orz8vr3hlg33y3wqlisq</sha1>
+</revision>
+</page>

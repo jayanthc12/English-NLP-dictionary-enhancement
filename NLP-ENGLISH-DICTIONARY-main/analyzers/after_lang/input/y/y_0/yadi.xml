@@ -1,0 +1,45 @@
+<page>
+<title>yadi</title>
+<ns>0</ns>
+<id>4944122</id>
+<revision>
+<id>65093631</id>
+<parentid>61882342</parentid>
+<timestamp>2021-12-30T07:34:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{bor+}}/{{inh+}} for Pali lemmas as requested by [[User:Svartava2]]; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="580" xml:space="preserve">==Javanese==
+===Romanization===
+{{jv-rom}}
+# {{romanization of|jv|ꦪꦢꦶ}}
+----
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Etymology===
+{{inh+|pi|sa|यदि}}, from {{inh|pi|iir-pro|*Hyádi}}. Cognate with {{cog|inc-ash|𐨩𐨡𐨁}}.
+===Conjunction===
+{{head|pi|conjunction}}
+# [[if]]
+===References===
+* {{R:CDIAL|yádi|602}}
+* {{R:pi:PTS}}
+----
+==Swahili==
+===Etymology===
+From {{bor|sw|en|yard}}.
+===Pronunciation===
+* {{audio|sw|Sw-ke-yadi.flac|Audio (Kenya)}}
+===Noun===
+{{sw-noun|n}}
+# [[yard]] {{gloss|three feet}}
+[[Category:sw:Units of measure]]</text>
+<sha1>lmypxsi5gqsd1pegorykbpjnqwappvr</sha1>
+</revision>
+</page>

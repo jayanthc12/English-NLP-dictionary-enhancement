@@ -1,0 +1,25 @@
+<page>
+<title>Yeldell</title>
+<ns>0</ns>
+<id>6330160</id>
+<revision>
+<id>67811523</id>
+<parentid>67701844</parentid>
+<timestamp>2022-07-09T20:39:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="348" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yeldells}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yeldell'' is the 32339&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 712 individuals. ''Yeldell'' is most common among Black/African American (71.77%) and White (23.88%) individuals.</text>
+<sha1>1v2fuycih7nxoa94xh9x9b7p2l26xni</sha1>
+</revision>
+</page>

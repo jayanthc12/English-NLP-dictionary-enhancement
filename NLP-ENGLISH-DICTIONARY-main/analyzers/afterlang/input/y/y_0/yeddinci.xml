@@ -1,0 +1,31 @@
+<page>
+<title>yeddinci</title>
+<ns>0</ns>
+<id>5102999</id>
+<revision>
+<id>60428115</id>
+<parentid>56379131</parentid>
+<timestamp>2020-09-19T12:17:04Z</timestamp>
+<contributor>
+<username>Vedac13</username>
+<id>1077579</id>
+</contributor>
+<comment>/* Azerbaijani */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="509" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=једдинҹи|r=yeddinci|a=}}
+{{ordinalbox|az|6th|7th|8th|altıncı|səkkizinci|card=yeddi}}
+===Etymology===
+Morphologically {{suffix|az|yeddi|inci}}. Cognate with {{cog|otk|𐰘𐰃𐱅𐰨|tr=yetinčі|t=seventh}}&lt;ref&gt;{{R:otk:Bitig|jitW|533}}&lt;/ref&gt;,
+{{cog|tr|yedinci}}, {{cog|tk|ýedinji}}, {{cog|kk|жетінші}}, etc.
+===Pronunciation===
+* {{IPA|az|[jetːinˈd͡ʒi]|[jetːinˈd͡zi]}}
+===Numeral===
+{{head|az|numeral}}
+# [[seventh]]
+===References===
+&lt;references/&gt;</text>
+<sha1>fdfmysy108rj0bo01byz6dz9a16t635</sha1>
+</revision>
+</page>

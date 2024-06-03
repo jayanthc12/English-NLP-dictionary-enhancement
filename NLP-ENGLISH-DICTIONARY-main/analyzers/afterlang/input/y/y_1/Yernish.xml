@@ -1,0 +1,38 @@
+<page>
+<title>Yernish</title>
+<ns>0</ns>
+<id>1896662</id>
+<revision>
+<id>69046872</id>
+<parentid>67954300</parentid>
+<timestamp>2022-09-03T04:59:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="697" xml:space="preserve">==Manx==
+===Etymology===
+From {{der|gv|sga|[[Ériu]], [[Érenn]]||Ireland}} + {{affix|gv|-ish}}, on the model of {{m|gv|Yernagh}} (from {{cog|sga|Érennach}}).
+===Proper noun===
+{{head|gv|proper noun|g=f}}
+# the [[Irish]] language
+#: {{ux|gv|Ta'n [[fockle]] [[Gaelgagh]] shoh çheet [[magh]] ass y '''Yernish'''.|This Manx word is derived from '''Irish'''.}}
+====Derived terms====
+* {{l|gv|Yernisheyr||Irish-speaker}}
+====Related terms====
+* {{l|gv|Nerin||Ireland}}
+* {{l|gv|Yernagh||Irish}}
+* {{l|gv|Yernaghys||Hibernicism}}
+===References===
+* {{R:DIL|20288|head=Ériu}}
+===Further reading===
+* {{pedia|lang=gv}}
+{{catlangname|gv|terms suffixed with -ish}}
+{{topics|gv|Ireland|Languages}}</text>
+<sha1>st1jtlm8z7ew6sc2twzyvm5ikrinu5b</sha1>
+</revision>
+</page>

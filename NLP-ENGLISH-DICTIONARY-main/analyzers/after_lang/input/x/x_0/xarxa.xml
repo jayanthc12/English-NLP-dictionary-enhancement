@@ -1,0 +1,55 @@
+<page>
+<title>xarxa</title>
+<ns>0</ns>
+<id>1184023</id>
+<revision>
+<id>68860475</id>
+<parentid>68828585</parentid>
+<timestamp>2022-08-28T05:01:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1712" xml:space="preserve">==Catalan==
+{{wikipedia|lang=ca}}
+===Etymology===
+From {{m|ca|eixàrcia}}, from {{der|ca|gkm|ἐξάρτια}}, plural of {{m|grc|ἐξάρτιον}}, from {{der|ca|grc|ἐξαρτίζω}}. Compare {{cog|es|jarcia}}, {{cog|it|sartia}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Unjoanqualsevol-xarxa.wav|Audio}}
+===Noun===
+{{ca-noun|f}}
+# [[net]] {{gloss|for fishing}}
+# [[network]] {{gloss|fabric or structure of fibrous elements}}
+# [[network]] {{gloss|interconnected system}}
+# [[network]] {{gloss|multiple computers connected}}
+# {{lb|ca|often|in plural}} {{ellipsis of|ca|xarxa social|t=social network}}
+#* {{quote-web|ca|quotee=Ada Colau|title=Ada Colau i Twitter: el risc d’unes xarxes socials massa personals|author=Cristian Segura |url=https://cat.elpais.com/cat/2021/04/14/catalunya/1618384342_923433.html|date=2021-04-14|work=El País|passage=Entre les raons que va esgrimir, la principal és l'agressivitat tan característica en la manera d'interactuar de molts usuaris d'aquesta xarxa social: “En els últims anys és sabut per tots que la '''xarxa''' s'ha omplert de perfils falsos i anònims que intoxiquen i inciten a l'odi”.}}
+====Derived terms====
+{{der3|ca|xarxa de deriva|xarxa social|xarxada|xarxaire}}
+===Further reading===
+* {{R:IEC2}}
+----
+==Galician==
+===Alternative forms===
+* {{alter|gl|sarxa}}
+===Etymology===
+From {{inh|gl|la|salvia}}. Cognate with {{cog|es|salvia}}, {{cog|en|sage}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃaɾʃɐ]}}
+===Noun===
+{{gl-noun|f}}
+# {{lb|gl|uncountable}} [[sage]] ''(the plant [[Salvia officinalis]])'', [[sagebrush]]
+====Further reading====
+* {{R:RAG}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>389o3n2b7vfs51if8vrhgrnjrytoje0</sha1>
+</revision>
+</page>

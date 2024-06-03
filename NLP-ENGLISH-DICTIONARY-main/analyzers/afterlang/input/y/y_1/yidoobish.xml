@@ -1,0 +1,23 @@
+<page>
+<title>yidoobish</title>
+<ns>0</ns>
+<id>4651324</id>
+<revision>
+<id>53448012</id>
+<parentid>32091173</parentid>
+<timestamp>2019-06-25T07:07:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced raw inflection-of defn with {{inflection of|nv}}; canonicalized multiword inflection tag 'Third-person singular and duoplural future form' to 3|s|and|duoplural|fut; replaced inflection tag sequence s|and|duoplural with s//duoplural</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">==Navajo==
+===Verb===
+{{head|nv|verb form}}
+# {{inflection of|nv|yibizh||3|s//duoplural|fut}}</text>
+<sha1>h1ceuy832g778agzh28i8qtmzma7opc</sha1>
+</revision>
+</page>

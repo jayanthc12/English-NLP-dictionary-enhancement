@@ -1,0 +1,45 @@
+<page>
+<title>yakni</title>
+<ns>0</ns>
+<id>6413326</id>
+<revision>
+<id>68555632</id>
+<parentid>68476568</parentid>
+<timestamp>2022-08-07T11:12:47Z</timestamp>
+<contributor>
+<username>Xbypass</username>
+<id>289057</id>
+</contributor>
+<minor />
+<comment>/* Indonesian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1253" xml:space="preserve">==Choctaw==
+===Noun===
+{{cho-noun||yakní'|}}
+# the [[Earth]], the [[world]]
+# [[earth]], [[soil]], [[ground]]
+# [[country]]
+#: {{ux|cho|Chahta yakni|Choctaw country}}
+====Declension====
+* {{cho-possession-3-consonant|yakni}}
+----
+==Indonesian==
+===Etymology===
+From {{inh|id|ms|yaini}}, {{m|ms|yakni}}, {{m|ms|ya`ani}}, from {{inh|id|ms-cla|ينا|tr=iáni}}, {{m|ms-cla|يني|tr=iany}}, {{m|ms-cla|ياءني|tr=ya`ni}}, {{m|ms-cla|يعني|tr=yakni}}, from {{der|id|ar|يَعْنِي}}.&lt;ref&gt;{{cite-book|author=Erwina Burhanuddin|author2=Abdul Gaffar Ruskhan|author3=R.B. Chrismanto|title=Penelitian kosakata bahasa Arab dalam bahasa Indonesia|trans-title=Research on Arabic vocabulary in Indonesian|date=1993|publisher=Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan|location=Jakarta|url=https://www.worldcat.org/oclc/29420936|isbn=979-459-296-X|oclc=29420936}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|id|/ˈjaʔni/|qual1=}}
+* {{rhymes|id|ni|i|s=2}}
+* {{hyphenation|id|yak|ni}}
+===Conjunction===
+{{head|id|conjunction}}
+# [[that is]], [[in other words]], [[i.e.]]
+====Synonyms====
+* {{l|id|yaitu}}, {{l|id|dengan kata lain}}, {{l|id|ialah}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:KBBI Daring}}</text>
+<sha1>ripgzyhheotd18itcto9vc6r5cmjz0w</sha1>
+</revision>
+</page>

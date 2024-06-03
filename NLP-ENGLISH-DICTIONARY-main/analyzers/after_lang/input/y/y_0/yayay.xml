@@ -1,0 +1,30 @@
+<page>
+<title>yayay</title>
+<ns>0</ns>
+<id>6264049</id>
+<revision>
+<id>54892579</id>
+<parentid>46888515</parentid>
+<timestamp>2019-10-08T14:42:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="313" xml:space="preserve">==Cebuano==
+===Etymology===
+Compare {{m|ceb|agay}}.
+===Pronunciation===
+*{{hyphenation|ceb|ya|yay}}
+===Noun===
+{{head|ceb|noun}}
+# {{lb|ceb|childish}} a [[boo-boo]]; a  [[minor]] [[injury]], such as a [[cut]] or a [[bruise]]
+===Verb===
+{{head|ceb|verb}}
+# {{lb|ceb|verb}} to be [[hurt]], [[sick]] or [[ill]]</text>
+<sha1>0pq09trlxin4jeo4fr4jm6mupe04duy</sha1>
+</revision>
+</page>

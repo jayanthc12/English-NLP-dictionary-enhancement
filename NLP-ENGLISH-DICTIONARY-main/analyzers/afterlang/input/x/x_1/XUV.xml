@@ -1,0 +1,40 @@
+<page>
+<title>XUV</title>
+<ns>0</ns>
+<id>5371376</id>
+<revision>
+<id>67956070</id>
+<parentid>67955693</parentid>
+<timestamp>2022-07-15T09:52:46Z</timestamp>
+<contributor>
+<ip>64.229.88.43</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="889" xml:space="preserve">==English==
+===Noun===
+{{en-noun|~}}
+# {{lb|en|uncountable|physics}} {{abbreviation of|en|extreme ultraviolet}}
+# {{lb|en|countable|automotive}} {{initialism of|en|[[crossover]] [[utility]] [[vehicle]]}}
+====Synonyms====
+* {{sense|ultraviolet}} {{l|en|EUV}} {{gloss|extreme ultraviolet}}
+* {{sense|crossover}} {{l|en|CUV}} {{gloss|crossover utility vehicle}}
+====Hypernyms====
+* {{sense|ultraviolet}} {{l|en|UV}} {{qualifier|ultraviolet}}
+* {{sense|crossover}} {{l|en|SUV}} {{qualifier|sport utility vehicle}}
+====Related terms====
+{{sense|ultraviolet}}
+* {{l|en|UV}}
+* {{l|en|UVA}} / {{l|en|UV A}} / {{l|en|UV-A}}
+* {{l|en|UVB}} / {{l|en|UV B}} / {{l|en|UV-B}}
+* {{l|en|UVC}} / {{l|en|UV C}} / {{l|en|UV-C}}
+* {{l|en|DUV}}
+* {{l|en|NUV}}
+* {{l|en|MUV}}
+* {{l|en|FUV}}
+{{sense|crossover}}
+* {{l|en|SUV}} {{gloss|sport utility vehicle}}
+* {{l|en|CUV}} {{gloss|compact utility vehicle}}</text>
+<sha1>2au4jwe1qfm63ih03eh1081lfohc4gy</sha1>
+</revision>
+</page>

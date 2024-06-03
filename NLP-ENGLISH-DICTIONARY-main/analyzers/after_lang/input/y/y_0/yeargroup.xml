@@ -1,0 +1,32 @@
+<page>
+<title>yeargroup</title>
+<ns>0</ns>
+<id>6993001</id>
+<revision>
+<id>66050094</id>
+<parentid>66050088</parentid>
+<timestamp>2022-03-02T17:57:00Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1043" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|year-group}}
+===Etymology===
+From {{af|en|year|group}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|education}} The body of students corresponding to a particular grade level or year of study.
+#* {{quote-text|en|year=1992|author=Charles C. Ragin, Howard Saul Becker|title=What Is a Case?: Exploring the Foundations of Social Inquiry|passage=Social units intermediate in size between the individual and the whole school are discussed. These units are the '''year-groups''', seen as developing collective perspectives which follow from the interaction between students' initial perspectives and their shared experiences, and the fraternities which were seen to structure daily social interaction.}}
+#* {{quote-text|en|year=2016|author=J. Kathleen Cheney|title=Dreaming Death|page=255|passage=Some '''yeargroups''' broke down into cliques, usually dividing between the two primary training groups: hand-to-hand combat versus the marksmen.}}
+===See also===
+* {{l|en|age group}}
+{{c|en|Groups of people}}</text>
+<sha1>9dboq2qjlz7njfhjvuuw459vbe1vem2</sha1>
+</revision>
+</page>

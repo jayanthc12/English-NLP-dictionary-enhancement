@@ -1,0 +1,38 @@
+<page>
+<title>Xanthophyceae</title>
+<ns>0</ns>
+<id>252027</id>
+<revision>
+<id>64919825</id>
+<parentid>64636770</parentid>
+<timestamp>2021-12-11T01:04:08Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="758" xml:space="preserve">==Translingual==
+[[File:Alger, Botydium granulatum, Nordisk familjebok.png|thumb]]
+===Etymology===
+{{der|mul|NL.|-}}, from {{der|mul|grc|ξανθός||yellow}} {{suffix|mul||phyceae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|class|phylum|Ochrophyta|the [[yellow-green alga]]e}}
+====Hypernyms====
+* {{sense|class}} {{Ochrophyta Hypernyms}}
+====Hyponyms====
+* {{sense|class}} {{taxlink|Botrydiales|order}}, {{taxlink|Mischococcales|order}}, {{taxlink|Phyllosiphonales|order}}, {{taxlink|Rhizochloridales|order}}, {{taxlink|Tribonematales|order}}, {{taxlink|Vaucheriales|order}}&amp;nbsp;- orders
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:NCBI|2833}}
+* {{R:EOL|3630}}
+* {{R:WoRMS|17793}}
+* {{R:AlgaeBasetax|4354}}
+* {{R:Ruggiero}}</text>
+<sha1>oxr7kfwqny814qxe3wj0d1k10r2bhaa</sha1>
+</revision>
+</page>

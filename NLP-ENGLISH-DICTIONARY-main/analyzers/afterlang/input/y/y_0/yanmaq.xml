@@ -1,0 +1,83 @@
+<page>
+<title>yanmaq</title>
+<ns>0</ns>
+<id>555394</id>
+<revision>
+<id>69415447</id>
+<parentid>62136089</parentid>
+<timestamp>2022-10-02T10:06:05Z</timestamp>
+<contributor>
+<username>GreyishWorm</username>
+<id>3977710</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5142" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јанмаг|r=yanmaq|a=یانماق}}
+===Etymology===
+From {{inh|az|trk-pro|*yan-||to burn (intr.), blaze up}}.&lt;ref&gt;{{R:tut-pro:SDM|*jan-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+151&amp;root=config}}&lt;/ref&gt;
+Cognate with {{cog|xqa||tr=yan-||to burn}}, {{cog|tr|yanmak}}, {{cog|crh|yanmaq||to burn}}, {{cog|ba|яныу||to burn}}, {{cog|cv|ҫунма||to burn, shine, worry, suffer}}, {{cog|kk|жану||to burn}}, {{cog|ky|жануу||to burn}}, {{cog|tk|ýanmak||to be burnt}}, {{cog|uz|yonmoq||to ignite, glow}}, {{cog|sah|сандаар||to shine}} (&lt; caus. *jan-tɨr-).
+===Pronunciation===
+*{{IPA|az|[jɑnmɑχ]|[jɑmːɑχ]}}
+*{{hyphenation|az|yan|maq}}
+===Verb===
+{{head|az|verb}}
+# {{lb|az|intransitive}} to [[burn]], to get consumed by fire {{C|az|Fire}}
+#:{{uxi|az|Sobada odun '''yanırdı'''.|The firewood '''was burning''' in the stove.}}
+#: {{uxi|az|Stolun üstündə şam '''yanır'''.|A candle '''is burning''' on the table.}}
+# {{lb|az|intransitive}} to [[burn down]], to get destroyed by fire
+#: {{uxi|az|İkimərtəbəli ev təmamilə '''yanıb'''.|A two floor house '''burnt down''' completely.}}
+# {{lb|az|intransitive}} to get damaged by heat or fire
+#* {{quote-web|az|author=Leyla Əliəkbər|work=N-Xeber.com|url=http://n-xeber.com/deyirki/1813-bu-dunyamin-en-mudhish-sheri-axiretime-achilan-ebedi-seadet-qapimmish.html|date=July 29, 2017|passage=Təxminən 3-4 yaşım olardı, təndirə düşüb elə '''yanmışdım''' ki, dözə bilmirdim.|translation=I was approximately 3-4 years old, I fell into a [[tandoor]] and '''got burnt''' so badly, I couldn't bare it.}}
+# {{lb|az|intransitive}} to get burnt (food)
+#: {{uxi|az|Kababı tez-tez çevirmək lazımdır ki, '''yanmasın'''.|One has to turn the kabab over often, so '''it doesn't get burnt'''.}}
+# {{lb|az|figurative}} to get burnt, to suffer a bitter failure
+#* {{quote-web|az|author=Əli Rəhimoğlu|work=News Milli.az|url=https://news.milli.az/culture/507420.html|date=January 18, 2017|passage=- Sözün düzü, çox təkliflər gəldi, amma mən ehtiyat etdim. Bir dəfə '''yandım''' deyə, ikinci dəfə '''yanmaq''' istəmədim.||translation=To be honest, I received many offers, but I  proceeded with caution. Because '''I got burnt''' once, I didn't want '''to get burnt''' again.}}
+# {{lb|az|intransitive}} to burn out, become clinically exhausted
+#* {{quote-web|az|work=Obyektiv.org|url=http://obyektiv.org/hadise/5521-jurnalist-xanim-ishde-yandi-yorgunluqdan-oldu-foto.html|date=October 6, 2017|passage=Jurnalist xanım işdə '''&quot;yandı&quot;''' -  Yorğunluqdan öldü||translation=Female journalist '''burned out''' at work - Died from exhaustion.}}
+# {{lb|az|intransitive}} to get sunburnt
+#:{{uxi|az|günəşdə '''yanmaq'''|to get burnt by the sun}}
+# {{lb|az|intransitive}} to be alight, to be on
+#: {{uxi|az|İşıq niyə '''yanmır'''? Qaranlıqda oturmuşuq.|Why '''isn't''' the light '''on'''? We're sitting in the darkness.}}
+# {{lb|az|by extension|intransitive}} to be on, to operate, to be in active state (''about electric devices, engines etc.'')
+#: {{uxi|az|Bütün gecə televizor '''yanır'''|The TV '''is on''' the whole night.}}
+#:{{syn|az|işləmək}}
+# {{lb|az|by extension|intransitive}} to go on, start, power up, start operating, to turn on (''about electric devices, engines etc.'')
+#: {{uxi|az|Düyməyə basanda, işıq '''yanır'''|When you press the button, the light '''goes on'''}}
+#:{{uxi|az|Kompyuterim köhnə olduğuna görə gec '''yanır'''|Because my computer is old, it '''starts''' slowly.}}
+#:{{syn|az|açılmaq|işə düşmək|hərəkətə gəlmək}}
+#:{{ant|az|sönmək}}
+# {{lb|az|intransitive}} to expire; to become void
+#:{{uxi|az|Hava limanına gec gəldim, biletim '''yandı'''.|I was late to the airport, and my ticket '''became void'''.}}
+# to expirience intense feelings
+## {{lb|az|intransitive}} to be furious, to be extremely annoyed
+## {{lb|az|intransitive}} to be burning (with an emotion, a feeling), to have a burning desire
+##:{{uxi|az|Sənin üçün '''yanıram'''|I desire you|lit='''I am burning''' for you.}}
+## {{lb|az|intransitive}}  to care for someone, worry, have concerns, be solicitous about something.
+##*{{quote-book|az|year=Before 1911|author=[[w:Mirza Alakbar Sabir|Mirza Alakbar Sabir]]|chapter=Ağlaşma|passage=Sənə nə, evin yıxılsın, füqəra üçün '''yanırsan'''? |translation=What '''do you care''', damn you,  for the poor?}}
+#:{{syn|az|əziyyətini çəkmək|halına qalmaq|dərdini çəkmək}}
+====Conjugation====
+{{az-latin-conj|a}}
+====Derived terms====
+*{{l|az|yandırmaq|t=to ignite}}
+*{{l|az|yanğın|t=fire [accidental]}}
+**{{l|az|yanğın dəstəsi|t=fire brigade}}
+**{{l|az|yanğınsöndürən|t=fireman}}
+====Related terms====
+*{{l|az|odlanmaq|t=to catch fire}}
+*{{l|az|od tutmaq|t=to catch fire}}
+*{{l|az|alovlanmaq |t=to flame}}
+===References===
+&lt;references/&gt;
+----
+==Crimean Tatar==
+===Verb===
+{{head|crh|verb}}
+# to [[burn]], to [[be on fire]]
+# (in northern dialect also) to [[wake]] (see [[uyanmaq]])
+====Conjugation====
+{{crh-latin-conj|a|n}}</text>
+<sha1>dep4497p6o7jtlnmm1cp25i7eeef2z8</sha1>
+</revision>
+</page>

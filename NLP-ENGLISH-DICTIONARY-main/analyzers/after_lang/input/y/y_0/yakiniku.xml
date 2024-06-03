@@ -1,0 +1,44 @@
+<page>
+<title>yakiniku</title>
+<ns>0</ns>
+<id>6361782</id>
+<revision>
+<id>68849646</id>
+<parentid>67300819</parentid>
+<timestamp>2022-08-28T03:15:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="796" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|ja|-}}.
+===Noun===
+{{wikipedia|lang=en}}
+{{en-noun|-}}
+# [[meat|Meat]] grilled on a [[barbecue]] [[Japanese]]-style.
+----
+==Indonesian==
+{{wikipedia||lang=id}}
+===Etymology===
+From {{bor|id|ja|-}} {{ja-r|焼肉|やきにく|lit=grilled meat}}.
+===Pronunciation===
+* {{IPA|id|[jakiˈniku]}}
+* {{hyphenation|id|ya|ki|ni|ku}}
+===Noun===
+{{id-noun|head=|pl=-}}
+# {{lb|id|cooking}} {{l|en|yakiniku}}: a style of cooking bite-size meat (usually beef and offal) and vegetables on gridirons or griddles over a flame of wood charcoals carbonized by dry distillation (sumibi, {{l|ja|炭火}}) or a gas/electric grill.
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やきにく}}.</text>
+<sha1>h2hecx9nicbzs7ftd06n39oi36vy4z5</sha1>
+</revision>
+</page>

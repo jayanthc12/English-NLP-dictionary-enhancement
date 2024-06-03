@@ -1,0 +1,27 @@
+<page>
+<title>Xanthomonadaceae</title>
+<ns>0</ns>
+<id>4191718</id>
+<revision>
+<id>51938555</id>
+<parentid>34828471</parentid>
+<timestamp>2019-03-16T22:28:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="171" xml:space="preserve">==Translingual==
+{{wikispecies}}
+===Etymology===
+{{suffix|mul|Xanthomonas|aceae}}
+===Proper noun===
+{{wikipedia}}
+{{taxoninfl}}
+# {{taxon|family|order|Xanthomonadales}}</text>
+<sha1>1woj956piob06e4v96wg8upv9bjk52y</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xerografischer</title>
+<ns>0</ns>
+<id>6345498</id>
+<revision>
+<id>60597321</id>
+<parentid>58423964</parentid>
+<timestamp>2020-09-27T13:19:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerografischer.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xerografisch}}</text>
+<sha1>7yndu0j5x1t1iy8d5dmg2z5fc9n47q6</sha1>
+</revision>
+</page>

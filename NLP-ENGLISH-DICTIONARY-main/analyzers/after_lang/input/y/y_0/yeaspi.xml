@@ -1,0 +1,32 @@
+<page>
+<title>yeaspi</title>
+<ns>0</ns>
+<id>5210329</id>
+<revision>
+<id>54174828</id>
+<parentid>51618962</parentid>
+<timestamp>2019-09-18T12:18:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{cog}} for cognates in place of LANG {{m|CODE|...}} or {{etyl|CODE|-}} {{m|CODE|...}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="529" xml:space="preserve">==Aromanian==
+===Alternative forms===
+* {{l|rup|yeaspe}}, {{l|rup|ayeaspi}}, {{l|rup|ayeaspe}}, {{l|rup|yiaspi}}, {{l|rup|yiaspe}}, {{l|rup|gheaspi}}, {{l|rup|gheaspe}}, {{l|rup|vaspe}}
+===Etymology===
+From {{inh|rup|VL.||*vespis}}, from {{inh|rup|la|vespa}}, or perhaps formed from the plural of an earlier singular form. Compare {{cog|ro|viespe}}.
+===Noun===
+{{head|rup|noun|g=f|plural|yeschi|or|yeshti}}
+# [[wasp]]
+====Derived terms====
+* {{l|rup|yispinedz}}
+* {{l|rup|yispinos}}
+====Related terms====
+* {{l|rup|yispar}}</text>
+<sha1>6j7o6a4whc8wdjw2bg6sbt4zqoeqpxa</sha1>
+</revision>
+</page>

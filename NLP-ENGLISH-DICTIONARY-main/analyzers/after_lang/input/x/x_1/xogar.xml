@@ -1,0 +1,45 @@
+<page>
+<title>xogar</title>
+<ns>0</ns>
+<id>1232134</id>
+<revision>
+<id>69123917</id>
+<parentid>68861623</parentid>
+<timestamp>2022-09-04T22:37:48Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="773" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alt|gl|xugar}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jogar}}, from {{inh|gl|la|ioco|iocāre}}, collateral form of {{m|la|ioco|iocārī}}. Compare {{cog|ast|xugar}}, {{cog|pt|jogar}}, {{cog|es|jugar}}.
+===Pronunciation===
+* {{IPA|gl|[ʃoˈɣaɾ]}}
+===Verb===
+{{gl-verb|xog|ar|pret=xoguei}}
+# {{lb|gl|intransitive}} to [[play]]
+# {{indtr|gl|a}} to [[play]] (a game, sports, etc.)
+# {{lb|gl|transitive}} to [[gamble]]
+#: {{syn|gl|arriscar}}
+====Conjugation====
+{{gl-conj-ar|xog|xogu}}
+====Related terms====
+* {{l|gl|xogada}}
+* {{l|gl|xogador}}
+* {{l|gl|xogable}}
+* {{l|gl|xogabilidade}}
+====Related terms====
+* {{l|gl|xogo}}
+===References===
+* {{R:gl:DDGM|jogar}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>i2wg378qpdx7xpoj2vhazfz2tu7ir30</sha1>
+</revision>
+</page>

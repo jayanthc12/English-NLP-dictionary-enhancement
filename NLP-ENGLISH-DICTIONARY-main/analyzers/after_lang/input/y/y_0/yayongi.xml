@@ -1,0 +1,27 @@
+<page>
+<title>yayongi</title>
+<ns>0</ns>
+<id>6901599</id>
+<revision>
+<id>54913262</id>
+<parentid>50382076</parentid>
+<timestamp>2019-10-09T05:51:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}; move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="174" xml:space="preserve">==Cebuano==
+===Etymology===
+{{af|ceb|yayong|-i}}
+===Pronunciation===
+* {{hyphenation|ceb|ya|yo|ngi}}
+===Verb===
+{{head|ceb|verb form}}
+# {{inflection of|ceb|yayong||imp}}</text>
+<sha1>by5f1nft1tgyrfmphhhxcr852m0zrv8</sha1>
+</revision>
+</page>

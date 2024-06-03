@@ -1,0 +1,34 @@
+<page>
+<title>yesternyght</title>
+<ns>0</ns>
+<id>6617917</id>
+<revision>
+<id>61793185</id>
+<parentid>56536898</parentid>
+<timestamp>2021-02-10T08:29:29Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>/* References */Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="553" xml:space="preserve">==Middle English==
+===Alternative forms===
+* {{alter|enm|yisternight|yesternyȝt|ȝisternight|ȝustir nyȝt|yistre nyght}}
+===Etymology===
+From {{inh|enm|ang|ġiestranniht}}; equivalent to {{af|enm|yester-|nighte}}.
+===Pronunciation===
+* {{IPA|enm|/ˈjɛstərnixt/|/ˈjistərnixt/|/ˈjustərnixt/}}
+===Adverb===
+{{head|enm|adverb}}
+# (On) the preceding night; [[yesternight]]
+====Descendants====
+* {{desc|en|yesternight}}
+====References====
+* {{R:MED Online|entry=yester-night |pos=adv |id=MED53928 |accessdate=2018-04-09}}
+[[Category:enm:Time]]</text>
+<sha1>afzhwi94u1wv7wefz248nmdvkh6og8s</sha1>
+</revision>
+</page>

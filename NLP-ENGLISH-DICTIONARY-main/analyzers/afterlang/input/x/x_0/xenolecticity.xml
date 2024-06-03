@@ -1,0 +1,26 @@
+<page>
+<title>xenolecticity</title>
+<ns>0</ns>
+<id>5576648</id>
+<revision>
+<id>61117906</id>
+<parentid>54368311</parentid>
+<timestamp>2020-11-14T08:29:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="600" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xenolectic|ity}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|linguistics}} The property of being a [[xenolect]].
+#* {{quote-book|en|title=English across cultures, cultures across English |author=Ofelia García &amp; Ricardo Otheguy |year=1989 |page=277 |ISBN=3110118114 |passage=At some point in the decreolization process, however, xenolectal structures become masked by surface-structure mimicry of the matrilect, so that the apparent degree of '''xenolecticity''' of the evolving mimolect drops below the real level, as represented by the crossover of A-B and C-D. }}</text>
+<sha1>9rywl2j2g81tmqe2g65nfufcygf4ib5</sha1>
+</revision>
+</page>

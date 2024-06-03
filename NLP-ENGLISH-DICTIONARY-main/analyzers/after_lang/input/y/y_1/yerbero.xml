@@ -1,0 +1,25 @@
+<page>
+<title>yerbero</title>
+<ns>0</ns>
+<id>4536012</id>
+<revision>
+<id>68957312</id>
+<parentid>64343107</parentid>
+<timestamp>2022-08-28T22:05:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|m|f=yerbera}}
+# {{alternative form of|es|hierbero}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>9nga0ygoar72twottagzehlnsqhb08w</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>xoruz</title>
+<ns>0</ns>
+<id>2045915</id>
+<revision>
+<id>67245354</id>
+<parentid>67225651</parentid>
+<timestamp>2022-06-04T22:07:30Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="199" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=хоруз|a=خوروز}}
+===Etymology===
+From {{bor|az|fa|خروس|tr=xorus, xurōs}}.
+===Noun===
+{{az-noun}}
+# [[rooster]]
+====Declension====
+{{az-decl-noun|u|c}}</text>
+<sha1>ccn3ash9n1werl8poqy1x1vq30zithx</sha1>
+</revision>
+</page>

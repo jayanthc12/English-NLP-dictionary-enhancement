@@ -1,0 +1,25 @@
+<page>
+<title>xiloteche</title>
+<ns>0</ns>
+<id>1625587</id>
+<revision>
+<id>64591057</id>
+<parentid>64460204</parentid>
+<timestamp>2021-11-08T11:59:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-IPA}} to {{it-pr}}; remove rhymes that are generated automatically by {{it-pr}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Italian==
+===Pronunciation===
+{{it-pr|xilotèche}}
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xiloteca}}</text>
+<sha1>0aa9xe2y6pgr5xrenwfwi3uc9xk8m4x</sha1>
+</revision>
+</page>

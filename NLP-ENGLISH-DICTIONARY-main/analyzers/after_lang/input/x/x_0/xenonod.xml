@@ -1,0 +1,29 @@
+<page>
+<title>xenonod</title>
+<ns>0</ns>
+<id>1791383</id>
+<revision>
+<id>52612149</id>
+<parentid>25651993</parentid>
+<timestamp>2019-05-02T21:18:08Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xenon|-od|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|no|nod}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||2|s|spos|poss}}
+====Declension====
+{{hu-infl-nom|xenonoda|o|n=sg|esm_sg=1}}</text>
+<sha1>qmfb27cr7zsoq4wy68wguan8e16nhlq</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>XLink</title>
+<ns>0</ns>
+<id>4578924</id>
+<revision>
+<id>49519882</id>
+<parentid>47253409</parentid>
+<timestamp>2018-05-20T04:19:09Z</timestamp>
+<contributor>
+<username>DTLHS</username>
+<id>794618</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="430" xml:space="preserve">==English==
+[[Image:XML languages.svg|thumb|''XML'' languages and their scope]]
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|computing|XML}} [[XML]] [[markup language]] specified by [[W3C]] that provides methods for creating internal and external links within XML documents, and associating metadata with those links.
+====Related terms====
+* {{l|en|XML}}
+* {{l|en|XPath}}
+* {{l|en|XPointer}}
+* {{l|en|XQuery}}
+* {{l|en|XSLT}}</text>
+<sha1>bzqe97nshfllmatqy94fapj4zlpfy80</sha1>
+</revision>
+</page>

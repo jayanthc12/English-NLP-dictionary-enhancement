@@ -1,0 +1,31 @@
+<page>
+<title>xustiza</title>
+<ns>0</ns>
+<id>4091539</id>
+<revision>
+<id>48071423</id>
+<parentid>47737806</parentid>
+<timestamp>2017-11-12T18:10:22Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed notext=1</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="331" xml:space="preserve">==Galician==
+===Etymology===
+From {{inh|gl|roa-opt|justiça}}, in this form borrowed from {{bor|gl|la|iustitia|iūstitia, jūstitia}}. Cf. also {{m|gl|xusteza}}.
+===Noun===
+{{gl-noun|f}}
+# [[justice]]; [[fairness]]
+====Antonyms====
+* {{l|gl|inxustiza}}
+====Related terms====
+* {{l|gl|xuíz}}
+* {{l|gl|xuízo}}
+* {{l|gl|xusto}}</text>
+<sha1>nqznlfmty7zhrqgeevmk7k7vbcm0ehe</sha1>
+</revision>
+</page>

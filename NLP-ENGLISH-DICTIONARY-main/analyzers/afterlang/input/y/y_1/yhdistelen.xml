@@ -1,0 +1,23 @@
+<page>
+<title>yhdistelen</title>
+<ns>0</ns>
+<id>854782</id>
+<revision>
+<id>32949572</id>
+<parentid>27645853</parentid>
+<timestamp>2015-06-09T20:46:25Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed unnecessary type= parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==Finnish==
+===Verb===
+{{head|fi|verb form}}
+# {{fi-form of|pr=first-person|pl=singular|mood=indicative|tense=present|yhdistellä}}</text>
+<sha1>axkyr4tnt4gofs0hk4guwrv0y05b3s9</sha1>
+</revision>
+</page>

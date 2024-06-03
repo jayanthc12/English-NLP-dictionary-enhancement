@@ -1,0 +1,23 @@
+<page>
+<title>xeneralizariades</title>
+<ns>0</ns>
+<id>2037479</id>
+<revision>
+<id>57394112</id>
+<parentid>35275605</parentid>
+<timestamp>2019-10-19T21:57:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xeneralizar||2|p|cond|indc}}</text>
+<sha1>ai3pex15qd7jtm24ceddt05qrmx0bjb</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>yacaxihuitl</title>
+<ns>0</ns>
+<id>4423833</id>
+<revision>
+<id>54529969</id>
+<parentid>52036063</parentid>
+<timestamp>2019-10-01T15:27:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1690" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2016|April|18}}
+===Alternative forms===
+* {{l|nci|yacaxiuitl}}, {{l|nci|yaca xiuitl}} {{qualifier|obsolete spellings}}
+===Etymology===
+From {{compound|nci|yacatl|xihuitl|t1=nose|t2=turquoise}}.
+===Pronunciation===
+* {{IPA|nci|[ja.kaˈʃi.wit͡ɬ]}}
+===Noun===
+{{nci-noun|i}}
+# A [[turquoise]] [[piece]] worn on the [[nose]] as [[jewelry]].
+#* '''1571:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 96r. col. 1.
+#*: Piedras precioſas, con que adornauan las narizes / los nobles.'''yaca xiuitl'''.
+#*:: Precious stones, with which the nobles adorned their noses. '''yaca xiuitl'''.
+#* ''Idem'', f. 115v. col. 1.
+#*: Turqueſa conque adornauan las narizes los caci / ques. '''yacaxiuitl'''. ſ. piedras preciosas cõque ador / nauã lo de ẽcima delas ventanas delas narizes.
+#*:: A turquoise with which the chieftains adorned their noses. '''yacaxiuitl'''. precious stones with which they adorned the part of the nose above the nostrils.
+#* ''Idem'', f. 30v. col. 1.
+#*: '''Yacaxiuitl'''. turq̃ſa o piedra precioſa con que cõ / ponian y aodrnauan los nobles las narizes.
+#*:: '''Yacaxiuitl'''. a turquoise or precious stone with which the nobles adorned or dressed up their noises.
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|pages=96r, 115v, 30v}}
+[[Category:nci:Jewelry]]</text>
+<sha1>cvhrw6d045jj0hz3w0gnmj5qwr31o9p</sha1>
+</revision>
+</page>

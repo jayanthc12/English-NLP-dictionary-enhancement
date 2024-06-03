@@ -1,0 +1,43 @@
+<page>
+<title>Yara</title>
+<ns>0</ns>
+<id>6969421</id>
+<revision>
+<id>69114443</id>
+<parentid>63701678</parentid>
+<timestamp>2022-09-04T16:54:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{l|pt}} to {{alt|pt}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="474" xml:space="preserve">==English==
+===Etymology===
+{{rfe|en}}
+===Proper noun===
+{{en-proper noun|s}}
+# {{given name|en|female}}
+===Anagrams===
+* {{anagrams|en|a=aary|Arya|Raya|raya|yaar}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|Iara}}
+===Proper noun===
+{{head|pt|proper noun}}
+# {{alternative spelling of|pt|Iara}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{es-proper noun}}
+# {{place|es|town|c/Cuba}}
+====Derived terms====
+* {{l|es|yarense}}</text>
+<sha1>07xdijbl39g7dekybcdeg2336nwat12</sha1>
+</revision>
+</page>

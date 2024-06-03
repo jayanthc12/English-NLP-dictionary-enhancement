@@ -1,0 +1,24 @@
+<page>
+<title>yasmak</title>
+<ns>0</ns>
+<id>4817640</id>
+<revision>
+<id>54987155</id>
+<parentid>46618153</parentid>
+<timestamp>2019-10-10T15:33:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">{{also|yaşmak}}
+==English==
+===Noun===
+{{en-noun}}
+# {{alt form|en|yashmak}}</text>
+<sha1>9wlwachmfb35k71pi4y6geyu2wdb5pp</sha1>
+</revision>
+</page>

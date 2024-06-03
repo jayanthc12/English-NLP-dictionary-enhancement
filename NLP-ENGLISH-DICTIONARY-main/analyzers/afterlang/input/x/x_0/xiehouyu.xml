@@ -1,0 +1,38 @@
+<page>
+<title>xiehouyu</title>
+<ns>0</ns>
+<id>4620326</id>
+<revision>
+<id>67299664</id>
+<parentid>59366449</parentid>
+<timestamp>2022-06-06T12:41:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|zh}}; swap {{etyl|...}} into {{uder|en|cmn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1109" xml:space="preserve">{{also|xiēhòuyǔ}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|zh|-}} {{uder|en|cmn|-}} {{zh-l|歇後語|xiēhòuyǔ}}.
+===Noun===
+{{en-noun|xiehouyu}}
+# {{lb|en|linguistics}} A kind of [[Chinese]] proverb consisting of two elements: the former segment presents a novel scenario while the latter provides the rationale thereof. One would often only state the first part, expecting the listener to know the second. Compare English &quot;[[a stitch in time]] (saves nine)&quot; or &quot;[[a bird in the hand is worth two in the bush|a bird in the hand]] (is worth two in the bush)&quot;.
+====Translations====
+{{trans-top|certain kind of Chinese proverb}}
+* Chinese:
+*: Cantonese: {{t|yue|歇後語|sc=Hani}}, {{t|yue|歇后语|tr=hit3 hau6 jyu5|sc=Hani}}
+*: Mandarin: {{t+|cmn|歇後語|sc=Hani}}, {{t+|cmn|歇后语|tr=xiēhòuyǔ|sc=Hani}}
+*: Min Nan: {{t|nan|孽詰仔話|sc=Hani}}, {{t|nan|孽诘仔话|tr=gia̍t-khiat-á-ōe|sc=Hani}}
+{{trans-mid}}
+* Russian: {{t|ru|сехоую́й|m}}, {{t+|ru|недоговорка|f|alt=«недогово́рка»}}
+{{trans-bottom}}
+===References===
+* {{R:OneLook}}</text>
+<sha1>tjwrr7qg2fy2m7zlsn1osao5aw2besr</sha1>
+</revision>
+</page>

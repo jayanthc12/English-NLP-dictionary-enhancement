@@ -1,0 +1,36 @@
+<page>
+<title>yarpaq</title>
+<ns>0</ns>
+<id>6609781</id>
+<revision>
+<id>67245377</id>
+<parentid>67238315</parentid>
+<timestamp>2022-06-04T22:07:59Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1007" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јарпаг|a=یارپاق}}
+[[File:Lisc lipy.jpg|thumb|{{uxi|az|Cökə '''yarpağı'''|A linden '''leaf'''}}]]
+===Etymology===
+Ultimately from {{inh|az|trk-pro|*yapurgak|t=leaf}} &lt;ref&gt;{{R:tut-pro:SDM|*japur-gak|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=46&amp;root=config}}&lt;/ref&gt;. Developed through [[w:metathesis|metathesis]], compare {{cog|tr|yaprak}}. However, this phonological process has not occurred for all words in all dialects (see below). Cognate with {{cog|tt|яфрак}}, etc.
+===Pronunciation===
+* {{IPA|az|[jɑrˈpɑχ]}}
+* {{a|Tabriz}} {{IPA|az|[jæpˈrɑx]}}&lt;ref&gt;{{R:az:LLT|page=78}}&lt;/ref&gt; {{qualifier|as if spelled ''yapraq''}}
+* {{hyphenation|az|yar|paq}}
+===Noun===
+{{az-noun}}
+# [[leaf]]
+#: {{uxi|az|'''yarpaq''' [[dolma]]sı|dolma wrapped into vine leaves.}}
+====Declension====
+{{az-decl-noun|a|q}}
+===References===
+&lt;references/&gt;
+[[category:Azerbaijani words derived through metathesis]]</text>
+<sha1>qobymiudqg6jfg9f6o0zejpk0ca7c6h</sha1>
+</revision>
+</page>

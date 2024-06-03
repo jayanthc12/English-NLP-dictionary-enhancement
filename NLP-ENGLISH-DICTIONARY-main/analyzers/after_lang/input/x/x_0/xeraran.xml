@@ -1,0 +1,24 @@
+<page>
+<title>xeraran</title>
+<ns>0</ns>
+<id>1852736</id>
+<revision>
+<id>57268024</id>
+<parentid>35200594</parentid>
+<timestamp>2019-10-19T17:17:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">{{also|xerarán}}
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerar||3|p|plup|indc}}</text>
+<sha1>7k5xb702lh241t3fpr157ywld604djf</sha1>
+</revision>
+</page>

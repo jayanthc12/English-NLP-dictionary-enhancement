@@ -1,0 +1,28 @@
+<page>
+<title>yagiite</title>
+<ns>0</ns>
+<id>3106034</id>
+<revision>
+<id>49620633</id>
+<parentid>40552593</parentid>
+<timestamp>2018-06-01T19:07:12Z</timestamp>
+<contributor>
+<username>TheDaveRoss</username>
+<id>4492</id>
+</contributor>
+<minor />
+<comment>mineralogy -&gt; mineral</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="303" xml:space="preserve">==English==
+===Etymology===
+{{etystub|en}}
+? + {{af|en|-ite}}
+===Noun===
+{{en-noun|?}}
+# {{lb|en|mineral}} A hexagonal-dihexagonal dipyramidal colorless [[mineral]] containing [[aluminum]], [[magnesium]], [[oxygen]], [[potassium]], [[silicon]], and [[sodium]].
+====References====
+* {{R:WebMineral}}</text>
+<sha1>8hy17rwshwqzcnqmvdt6j4o6w062nwc</sha1>
+</revision>
+</page>

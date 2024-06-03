@@ -1,0 +1,28 @@
+<page>
+<title>xylophagy</title>
+<ns>0</ns>
+<id>1590513</id>
+<revision>
+<id>45048830</id>
+<parentid>41338437</parentid>
+<timestamp>2017-05-25T19:47:26Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==English==
+===Etymology===
+From {{affix|en|xylo-|gloss1=wood|-phagy|gloss2=to feed on}}.
+===Noun===
+{{en-noun|-}}
+# The [[eating]] of [[wood]].
+====Related terms====
+* {{l|en|xylophage}}
+* {{l|en|xylophagous}}</text>
+<sha1>hkqcyvsixfofxt1wjxif4os5uih5zm5</sha1>
+</revision>
+</page>

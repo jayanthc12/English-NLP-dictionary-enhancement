@@ -1,0 +1,32 @@
+<page>
+<title>xoga</title>
+<ns>0</ns>
+<id>1232192</id>
+<revision>
+<id>68860653</id>
+<parentid>58427819</parentid>
+<timestamp>2022-08-28T05:02:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="327" xml:space="preserve">==Galician==
+===Pronunciation===
+* {{IPA|gl|/ˈʃɔɣa̝/}}
+===Noun===
+{{gl-noun|f}}
+# {{lb|gl|anatomy}} [[ham]] (The region back of the knee joint)
+#: {{syn|gl|sufraxe|ofraxe}}
+===References===
+* {{R:gl:DDLG}}
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xogar||3|s|pres|indc}}
+# {{inflection of|gl|xogar||2|s|impr}}</text>
+<sha1>oofbzovkljvjrosaww0h9hxa8enlr78</sha1>
+</revision>
+</page>

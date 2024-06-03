@@ -1,0 +1,28 @@
+<page>
+<title>ydinasekiista</title>
+<ns>0</ns>
+<id>4405247</id>
+<revision>
+<id>69318122</id>
+<parentid>52035618</parentid>
+<timestamp>2022-09-18T17:01:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="263" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|kiista|t2=dispute}}
+===Pronunciation===
+{{fi-p|ydin-ase*/kiista}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[dispute]]
+====Declension====
+{{fi-decl-kala|ydinasekiist|||a}}</text>
+<sha1>t2v8hdv5waq680ntygqlbaqh9f618uw</sha1>
+</revision>
+</page>

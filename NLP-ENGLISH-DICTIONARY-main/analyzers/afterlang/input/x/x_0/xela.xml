@@ -1,0 +1,51 @@
+<page>
+<title>xela</title>
+<ns>0</ns>
+<id>1092554</id>
+<revision>
+<id>65005225</id>
+<parentid>65005223</parentid>
+<timestamp>2021-12-21T01:18:07Z</timestamp>
+<contributor>
+<ip>2.203.201.113</ip>
+</contributor>
+<comment>/* Maltese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="768" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||3|s|pres|ind|;|2|s|imp}}
+----
+==Maltese==
+{{mt-root|x-l-j}}
+===Etymology===
+Inherited from dialectal {{inh|mt|ar|-}}.  Compare {{cog|apc|شلي|tr=šili|t=to speak ill of, to backbite}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛ.la/}}
+===Verb===
+{{mt-verb|jixli|mixli||xili}}
+# to [[accuse]], [[indict]]
+----
+==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f|ar=خەلا}}
+# [[famine]], [[hunger]], [[starvation]], [[shortage]]
+#: {{syn|kmr|nêz}}
+===References===
+* {{R:kmr:Chyet|xela|Page=652}}
+----
+==Xhosa==
+===Pronunciation===
+* {{IPA|xh|[kǁeːla]}}
+===Verb===
+{{xh-verb|xela}}
+# to [[confess]]
+# to [[say]]
+====Inflection====
+{{rfinfl|xh|verb}}</text>
+<sha1>j2flyxuackxioakwqvq6wr9fon1l303</sha1>
+</revision>
+</page>

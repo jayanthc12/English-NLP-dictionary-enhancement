@@ -1,0 +1,41 @@
+<page>
+<title>Yanshan</title>
+<ns>0</ns>
+<id>6440524</id>
+<revision>
+<id>63605475</id>
+<parentid>63575254</parentid>
+<timestamp>2021-08-09T02:57:32Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>1988 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="880" xml:space="preserve">{{see also|Yānshān}}
+==English==
+{{wikipedia|Yan Mountains}}
+===Etymology===
+From the [[pinyin]] romanization of the {{der|en|cmn|-}} pronunciation of {{der|en|zh|燕山||tr=Yānshān}}.
+===Proper noun===
+{{en-proper noun}}
+# {{syn of|en|Yan|nodot=a}} '''[[mountains|Mountains]]'''.
+#* {{quote-book
+|en
+|year=1988
+|title=The Great Tangshan Earthquake of 1976: An Anatomy of Disaster
+|url=https://archive.org/details/greattangshanear0000unse/
+|publisher={{w|Pergamon Press}}
+|ISBN=0-08-034875-0
+|LCCN=88-5916
+|OCLC=17618982
+|OL=2030428M
+|page=3
+|pageurl=https://archive.org/details/greattangshanear0000unse/page/3/
+|text=The geomorphology has been modified by the flow of Luanhe and several other major rivers which run through the '''Yanshan''' mountains and the plain to reach Bohai. }}
+====Usage notes====
+Often redundantly expressed in English as the &quot;Yanshan Mountains&quot;.</text>
+<sha1>25fqnkg56q6mjwd8ld2atq25cmgac9b</sha1>
+</revision>
+</page>

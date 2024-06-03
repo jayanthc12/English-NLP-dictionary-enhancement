@@ -1,0 +1,42 @@
+<page>
+<title>xerocopy</title>
+<ns>0</ns>
+<id>4194917</id>
+<revision>
+<id>61022688</id>
+<parentid>60456518</parentid>
+<timestamp>2020-11-03T09:17:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to all-default format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="693" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|copy}}
+===Verb===
+{{en-verb}}
+# To [[copy]] [[xerographically]].
+====Translations====
+{{trans-top|to copy xerographically}}
+* Catalan: {{t+|ca|xerografiar}}, {{t+|ca|xerocopiar}}
+* Finnish: {{t+|fi|kopioida}}, {{t|fi|valokopioida}}
+{{trans-mid}}
+* Russian: {{t+|ru|ксерокопи́ровать|impf}}, {{t+|ru|отксерокопи́ровать|pf}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# A [[xerographic]] [[copy]].
+====Translations====
+{{trans-top|xerographic copy}}
+* Catalan: {{t|ca|xerocòpia|f}}, {{t+|ca|xerografia|f}}
+* Finnish: {{t|fi|valokopio}}
+{{trans-mid}}
+* Russian: {{t+|ru|ксероко́пия|f}}
+{{trans-bottom}}</text>
+<sha1>ejm9gd87uswpexd71592dz3msr3zlo5</sha1>
+</revision>
+</page>

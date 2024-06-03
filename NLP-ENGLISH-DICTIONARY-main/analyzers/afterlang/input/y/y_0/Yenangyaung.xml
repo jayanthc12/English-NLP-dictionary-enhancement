@@ -1,0 +1,34 @@
+<page>
+<title>Yenangyaung</title>
+<ns>0</ns>
+<id>7184218</id>
+<revision>
+<id>58354522</id>
+<parentid>52371054</parentid>
+<timestamp>2020-01-11T08:03:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize town place spec into {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="439" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+*{{l|en|Yenanchaung}}
+===Etymology===
+Borrowed from {{bor|en|my|ရေနံချောင်း}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|r/{{w|Magway Region}}}}, [[Myanmar]] ([[Burma]])
+====Translations====
+{{trans-top|Town in Magway Region, Burma}}
+* Burmese: {{t|my|ရေနံချောင်း}}
+{{trans-mid}}
+{{trans-bottom}}
+{{topics|en|Cities in Burma}}</text>
+<sha1>qo6uv8j5zdy8inx5pp5h7kr7q7ruomw</sha1>
+</revision>
+</page>

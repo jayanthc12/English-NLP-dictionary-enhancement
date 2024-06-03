@@ -1,0 +1,35 @@
+<page>
+<title>yaranga</title>
+<ns>0</ns>
+<id>3738912</id>
+<revision>
+<id>61842828</id>
+<parentid>53626378</parentid>
+<timestamp>2021-02-18T13:26:30Z</timestamp>
+<contributor>
+<username>Vininn126</username>
+<id>2826696</id>
+</contributor>
+<comment>t+pl:[[jaranga]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="726" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|ru|яра́нга}}, from {{der|en|ckt|яраӈы}}.
+===Noun===
+{{en-noun}}
+{{wikipedia}}
+# A rounded or [[conical]] [[tent]] of [[reindeer]] [[hide]], the [[traditional]] [[mobile]] [[home]] of some [[nomadic]] [[indigenous]] peoples of [[Russia]].
+====Translations====
+{{trans-top|tent-like traditional mobile home}}
+* Alutor: {{t|alr|рараӈа|tr=raraŋa}}, {{t|alr|ратамран|tr=ratamran}}
+* Chukchi: {{t|ckt|яраӈы|tr=jaraṇy}}, {{t|ckt|гаттэран|tr=gattėran}} {{qualifier|aestival}}
+* Inuktitut: {{t|iu|ᑐᐱᖅ}}
+{{trans-mid}}
+* Polish: {{t+|pl|jaranga|f}}
+* Russian: {{t+|ru|яра́нга|f}}
+{{trans-bottom}}
+[[Category:English 3-syllable words]]</text>
+<sha1>8bv5wsg9bdbay4qw3c9wm0fa35xjv63</sha1>
+</revision>
+</page>

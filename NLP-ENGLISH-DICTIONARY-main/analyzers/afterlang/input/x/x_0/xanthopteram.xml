@@ -1,0 +1,23 @@
+<page>
+<title>xanthopteram</title>
+<ns>0</ns>
+<id>3375226</id>
+<revision>
+<id>57011655</id>
+<parentid>21977346</parentid>
+<timestamp>2019-10-19T07:58:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="101" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthopteram}}
+# {{inflection of|la|xanthopterus||acc|f|s}}</text>
+<sha1>1ytaegvr7uucmdbigr1elm2sgnj39fv</sha1>
+</revision>
+</page>

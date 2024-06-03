@@ -1,0 +1,55 @@
+<page>
+<title>xunta</title>
+<ns>0</ns>
+<id>1213386</id>
+<revision>
+<id>68861588</id>
+<parentid>68860593</parentid>
+<timestamp>2022-08-28T05:08:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="872" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{feminine singular of|ast|xuntu}}
+----
+==Galician==
+===Alternative forms===
+* {{alter|gl|junta||reintegrationist}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|junta}}, from {{inh|gl|la|iūnctus}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃunta̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[joint]]
+#: {{syn|gl|articulación|xoga}}
+# [[meeting]], [[gathering]]; [[council]]
+#: {{syn|gl|concello|xuntanza}}
+# [[yoke]], [[team]]
+#: {{syn|gl|xugo}}
+====Derived terms====
+* {{l|gl|Xunta}}
+* {{l|gl|xuntanza}}
+===Adjective===
+{{head|gl|adjective form|g=f-s}}
+# {{inflection of|gl|xunto||f|s}}
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||3|s|pres|indc}}
+# {{inflection of|gl|xuntar||2|s|impr}}
+===References===
+* {{R:gl:DDGM|junta}}
+* {{R:gl:CX|junta}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>23er8mqlr1f27fer08jfclq2u4tcru3</sha1>
+</revision>
+</page>

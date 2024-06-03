@@ -1,0 +1,27 @@
+<page>
+<title>yabon</title>
+<ns>0</ns>
+<id>6514658</id>
+<revision>
+<id>54896320</id>
+<parentid>48467454</parentid>
+<timestamp>2019-10-08T15:48:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|ya|bon}}
+===Noun===
+{{head|ceb|noun}}
+# [[eczema]]
+[[Category:ceb:Dermatology]]
+[[Category:ceb:Disease]]</text>
+<sha1>cf3ltepaena1lnpjz1qqo6rx5l2et4k</sha1>
+</revision>
+</page>

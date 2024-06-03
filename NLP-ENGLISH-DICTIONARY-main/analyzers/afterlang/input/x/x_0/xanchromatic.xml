@@ -1,0 +1,27 @@
+<page>
+<title>xanchromatic</title>
+<ns>0</ns>
+<id>3704057</id>
+<revision>
+<id>38315941</id>
+<parentid>36267187</parentid>
+<timestamp>2016-04-27T17:55:26Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Added {{l}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="313" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|rare}} Having a [[yellow]] colour.
+#* '''1937''', ''New York State Journal of Medicine''
+#*: A lumbar puncture was done and the three tubes contained nonclotting blood and the supernatant fluid was '''xanchromatic'''.
+====Synonyms====
+* {{l|en|xanthochromic}}</text>
+<sha1>gscb7z83iwcc8nrj7o2jhi4uxitnnob</sha1>
+</revision>
+</page>

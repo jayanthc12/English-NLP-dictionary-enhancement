@@ -1,0 +1,46 @@
+<page>
+<title>yebo</title>
+<ns>0</ns>
+<id>3524136</id>
+<revision>
+<id>69555779</id>
+<parentid>69555776</parentid>
+<timestamp>2022-10-20T10:24:33Z</timestamp>
+<contributor>
+<username>MartinMichlmayr</username>
+<id>1081677</id>
+</contributor>
+<comment>/* Zulu */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="788" xml:space="preserve">==English==
+===Etymology===
+{{bor+|en|zu|yebo}}.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|South Africa}} [[yes]]
+#* '''2018''', Kate S. Richards, ''Trainsurfer''
+#*: But Sipho was more sympathetic. “Don't worry. We'll take you to Father. He'll know what to do.”&lt;br&gt;“Father?” asked Jabu, surprised.&lt;br&gt;“'''Yebo''',” said Sipho brightly.&lt;br&gt;“Come with us. Father may even have some coins for another tickey box. One that works,” Vusi said with mirth.
+===Anagrams===
+* {{anagrams|en|a=beoy|e-boy|obey}}
+----
+==Swazi==
+===Adverb===
+{{ss-adv|yébo}}
+# [[yes]]
+----
+==Zulu==
+===Etymology===
+{{rfe|zu}}
+===Pronunciation===
+* {{zu-IPA|yhébo}}
+===Adverb===
+{{zu-adv|y̤ébo}}
+# [[yes]]
+====Descendants====
+* {{desc|en|yebo|bor=1}}
+===References===
+* {{R:zu:ZED||6-3.9}}</text>
+<sha1>c8t1xi8pc77d09dnusyqrvlx2ss04qt</sha1>
+</revision>
+</page>

@@ -1,0 +1,88 @@
+<page>
+<title>Yap</title>
+<ns>0</ns>
+<id>170792</id>
+<revision>
+<id>69392819</id>
+<parentid>68724990</parentid>
+<timestamp>2022-09-28T17:11:57Z</timestamp>
+<contributor>
+<username>Mlgc1998</username>
+<id>3505638</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1865" xml:space="preserve">{{also|yap}}
+==English==
+{{wikipedia}}
+===Etymology 1===
+====Proper noun====
+{{en-proper noun}}
+# An [[island]] in the Caroline Islands of western [[Micronesia]].
+=====Related terms=====
+* {{l|en|Yapese}}
+=====Translations=====
+{{trans-top|an island in the Caroline Islands of western Micronesia}}
+* Basque: {{t|eu|Yap}}
+* Bulgarian: {{t|bg|Яп}}
+* Catalan: {{t|ca|Yap}}
+* Chinese:
+*: Mandarin: {{t|cmn|雅蒲島|sc=Hani}}, {{t|zh|雅蒲岛|tr=Yǎpú dǎo}}
+* Dutch: {{t|nl|Yap}}
+* Esperanto: {{t|eo|Yap}}
+* Estonian: {{t+|et|Yap}}
+* Finnish: {{t+|fi|Yap}}
+* French: {{t+|fr|Yap}}
+* Galician: {{t|gl|Yap}}
+* Indonesian: {{t|id|Yap}}
+{{trans-mid}}
+* Italian: {{t|it|Yap}}
+* Japanese: {{t|ja|ヤップ州|tr=yappu shū}}
+* Lithuanian: {{t|lt|Japas}}
+* Norwegian: {{t|no|Yap}}
+* Polish: {{t|pl|Yap}}
+* Portuguese: {{t|pt|Yap}}
+* Russian: {{t|ru|Яп}}
+* Serbo-Croatian: {{t|sh|Јап|m}} / {{t|sh|Jap}}
+* Spanish: {{t|es|Yap}}
+* Swedish: {{t|sv|Yap}}
+* Yapese: {{t|yap|Waqab}}
+{{trans-bottom}}
+===Etymology 2===
+From {{bor|en|hak|葉|tr=Ya̍p}} or {{bor|en|nan-hok|葉|tr=Ia̍p}}.
+====Proper noun====
+{{en-proper noun}}
+# {{surname|en}}.
+=====Related terms=====
+{{rel3|en|Ye|Yip}}
+===Anagrams===
+* {{anagrams|en|a=apy|APY|Pay|pay|pya}}
+[[Category:en:Islands]]
+[[Category:English surnames from Hakka]]
+[[Category:English surnames from Hokkien]]
+[[Category:English surnames from Chinese]]
+----
+==Galician==
+===Proper noun===
+{{gl-proper noun|m}}
+# {{l|en|Yap}}
+[[Category:gl:Islands]]
+[[Category:en:Micronesia]]
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|island/and/state|c/Micronesia|t1=Yap}}
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|nan-hok|-}} {{zh-l|葉|Ia̍p}}. {{doublet|tl|Ip}}.
+===Pronunciation===
+* {{tl-IPA}}
+===Proper noun===
+{{head|tl|proper noun}}
+# {{surname|tl|from=Min Nan}} of Chinese origin</text>
+<sha1>74l5fiz50ad7zhro8yrbs0fxcmj4ey1</sha1>
+</revision>
+</page>

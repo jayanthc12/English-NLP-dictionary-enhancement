@@ -1,0 +1,52 @@
+<page>
+<title>yellowfin</title>
+<ns>0</ns>
+<id>821134</id>
+<revision>
+<id>65595379</id>
+<parentid>65595378</parentid>
+<timestamp>2022-01-31T23:29:57Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1880" xml:space="preserve">==English==
+{{rfi|en}}
+===Etymology===
+{{compound|en|yellow|fin}}
+===Noun===
+{{en-noun|yellowfin|s}}
+# Any of various fish with yellow fins.
+## especially, [[yellowfin tuna]] ({{taxlink|Thunnus albacares|species|ver=170119}}, in family [[Scombridae]])
+## {{vern|yellowfin bream}}, any of several species in family [[Sparidae]]
+## {{vern|yellowfin croaker}} ({{taxlink|Umbrina roncador|species|ver=180702}}, in family [[Sciaenidae]])
+## {{vern|yellowfin cutthroat trout}} (†{{taxlink|Oncorhynchus clarkii macdonaldi|subspecies|ver=180702}}, in  the family [[Salmonidae]])
+## {{vern|yellowfin fairy wrasse}} ({{taxlink|Cirrhilabrus flavidorsalis|species|ver=180702}}, in family [[Labridae]])
+## {{vern|yellowfin grouper}} ({{taxlink|Mycteroperca venenosa|species|ver=180702}}, in family [[Serranidae]])
+## {{vern|yellowfin madtom}} ({{taxlink|Noturus flavipinnis|species|ver=180702}}, in family [[Ictaluridae]])
+## {{vern|yellow-fin perchlet}} ({{taxlink|Ambassis elongatus|species|ver=180702}}, in family {{taxlink|Ambassidae|family|ver=170119}})
+## {{vern|yellowfin pike}} ({{taxlink|Dinolestes lewini|species|ver=190702}}, in family {{taxlink|Dinolestidae|family|ver=170119}})
+## {{vern|yellowfin sea bream}}, any of several species in family [[Sparidae]]
+## {{vern|yellowfin surgeon}} ({{taxlink|Acanthurus xanthopterus|species|ver=180702}}, in family [[Acanthuridae]])
+## {{vern|yellowfin whiting}} ({{taxlink|Sillago schomburgkii|species|ver=180702}}, in family {{taxlink|Sillaginidae|family|ver=170119}})
+====Translations====
+{{trans-top|any fish with a yellow fin}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-see|yellowfin tuna}}
+===References===
+* {{pedia}}
+[[Category:en:Acanthuroid fish]]
+[[Category:en:Catfish]]
+[[Category:en:Croakers]]
+[[Category:en:Percoid fish]]
+[[Category:en:Scombroids]]
+[[Category:en:Serranids]]
+[[Category:en:Sparids]]
+[[Category:en:Wrasses]]</text>
+<sha1>gcman7ygrf9xj3ep8xvagyn4lwcyur9</sha1>
+</revision>
+</page>

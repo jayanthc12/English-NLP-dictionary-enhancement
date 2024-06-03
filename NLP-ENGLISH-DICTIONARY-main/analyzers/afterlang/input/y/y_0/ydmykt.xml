@@ -1,0 +1,28 @@
+<page>
+<title>ydmykt</title>
+<ns>0</ns>
+<id>6460173</id>
+<revision>
+<id>67917207</id>
+<parentid>54470201</parentid>
+<timestamp>2022-07-12T06:16:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>insert 1=nb|adjective form into {{nb-adj-form}}; rename {{nb-adj-form}} to {{head}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="228" xml:space="preserve">==Norwegian Bokmål==
+===Adjective===
+{{head|nb|adjective form}}
+# {{neuter singular of|nb|ydmyk}}
+===Verb===
+{{nb-verb-form}}
+# {{inflection of|nb|ydmyke||past|part}}
+====Alternative forms====
+* {{alter|nb|ydmyka|ydmyket}}</text>
+<sha1>7tjcw8jbqmwclt3a4bggvr1mudor8ih</sha1>
+</revision>
+</page>

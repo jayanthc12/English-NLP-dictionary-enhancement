@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "/home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/input/test/amaze.xml",
+            "currentPassFile": "/home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/spec/output.nlp"
+        }
+    ]
+}

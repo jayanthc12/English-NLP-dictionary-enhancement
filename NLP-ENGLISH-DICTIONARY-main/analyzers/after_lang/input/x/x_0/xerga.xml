@@ -1,0 +1,40 @@
+<page>
+<title>xerga</title>
+<ns>0</ns>
+<id>6478484</id>
+<revision>
+<id>68867170</id>
+<parentid>68833275</parentid>
+<timestamp>2022-08-28T05:46:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="635" xml:space="preserve">==Galician==
+===Etymology 1===
+From {{bor|gl|es|jerga|t=jargon}}.
+====Pronunciation====
+* {{IPA|gl|/ˈʃɛɾɣa̝/}}
+====Noun====
+{{gl-noun|f}}
+# [[jargon]]; [[slang]]
+===Etymology 2===
+From {{inh|gl|roa-opt}}, from {{inh|gl|la|sērica}}. Cognate with {{cog|pt|xerga}}, {{m|pt|enxerga}} and {{cog|es|jerga}}.
+====Noun====
+{{gl-noun|f}}
+# a [[coarse]] [[blanket]] of [[wool]] and [[linen]] [[woven]] on a [[loom]]
+=====Derived terms=====
+* {{l|gl|enxergar}}
+* {{l|gl|xergón}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG|nourlencode=1|alt=xerga+%28manta%29}}
+* {{R:gl:TILG|nourlencode=1|alt=xerga+%27argot%27}}
+* {{R:TLPGP}}</text>
+<sha1>86ji0bmco88q2ydbkuvidajsce9z58d</sha1>
+</revision>
+</page>

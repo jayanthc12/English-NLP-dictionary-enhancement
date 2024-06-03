@@ -1,0 +1,26 @@
+<page>
+<title>Yamena</title>
+<ns>0</ns>
+<id>5541528</id>
+<revision>
+<id>62085141</id>
+<parentid>61998056</parentid>
+<timestamp>2021-03-14T03:06:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="123" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{es-proper noun}}
+# [[N'Djamena]]
+{{C|es|Cities in Chad}}</text>
+<sha1>ey7ki3eosmmcfq3layz9xv5ikab2dm0</sha1>
+</revision>
+</page>

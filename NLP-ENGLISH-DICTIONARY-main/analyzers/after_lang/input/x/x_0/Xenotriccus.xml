@@ -1,0 +1,29 @@
+<page>
+<title>Xenotriccus</title>
+<ns>0</ns>
+<id>3074262</id>
+<revision>
+<id>38590601</id>
+<parentid>22775079</parentid>
+<timestamp>2016-05-23T00:48:03Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==Translingual==
+{{wikipedia}}
+{{wikispecies}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Tyrannidae}}
+====Hypernyms====
+* {{sense|genus}} {{Tyrannidae Hypernyms}}
+===References===
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>40jffq0udxyerjg9p5njzy7y9r8uapx</sha1>
+</revision>
+</page>

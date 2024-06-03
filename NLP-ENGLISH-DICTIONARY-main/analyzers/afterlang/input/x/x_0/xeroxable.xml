@@ -1,0 +1,31 @@
+<page>
+<title>xeroxable</title>
+<ns>0</ns>
+<id>1865834</id>
+<revision>
+<id>61114589</id>
+<parentid>51872298</parentid>
+<timestamp>2020-11-14T07:23:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="802" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xerox|able}}
+===Adjective===
+{{en-adj|-}}
+# [[photocopiable]]
+#* '''1971''', ''IEEE transactions on electron devices, Volume 18''
+#*: He has patents pending on the invention of non-'''Xeroxable''' paper and novel film materials.
+#* '''2001''', Leslie Dierauf, Frances M. D. Gulland, ''CRC Handbook of Marine Mammal Medicine''
+#*: Each photograph should include the animal identification, date, and some means of assessing measurements (e.g., a '''xeroxable''' scale on the identification label).
+#* '''2005''', Brock Dethier, ''First time up: an insider's guide for new composition instructors''
+#*: {{...}} your undergraduate thesis on Calvin and Hobbes — as well as your '''xeroxable''' collection of scenes suitable for office doors and overheads {{...}}</text>
+<sha1>416mjji9xvg6qmwvpzsmbwfunb3z1td</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xanthophores</title>
+<ns>0</ns>
+<id>1330264</id>
+<revision>
+<id>62862756</id>
+<parentid>55545003</parentid>
+<timestamp>2021-06-17T07:22:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="168" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthophore}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|xanthophore}}</text>
+<sha1>cf5253wfeztqry5ywejvyvz0f6pq2f6</sha1>
+</revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+<title>yanvar</title>
+<ns>0</ns>
+<id>738830</id>
+<revision>
+<id>67245374</id>
+<parentid>67222937</parentid>
+<timestamp>2022-06-04T22:07:53Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="794" xml:space="preserve">==Azerbaijani==
+===Etymology===
+{{intnat|az}}; from {{bor|az|ru|янва́рь}}, from {{der|az|la|iānuārius}}.
+===Noun===
+{{az-noun}}
+# [[January]]
+====Declension====
+{{az-decl-noun|a|c}}
+====See also====
+* {{list:Gregorian calendar months/az}}
+----
+==Crimean Tatar==
+===Etymology===
+From {{bor|crh|ru|янва́рь}}, from {{der|crh|la|iānuārius}}.
+===Noun===
+{{crh-noun}}
+# [[January]]
+====Declension====
+{{crh-latin-noun|niñ|ge|ni|de|den}}
+[[Category:crh:Months]]
+----
+==Uzbek==
+{{wp|lang=uz}}
+===Etymology===
+From {{bor|uz|ru|янва́рь}}, from {{der|uz|la|iānuārius}}.
+===Noun===
+{{uz-noun|y|lar}}
+# {{l|en|January}}
+====Declension====
+{{uz-decl-noun}}
+====Related terms====
+* {{list:Gregorian calendar months/uz}}
+{{c|uz|Months|Gregorian calendar months}}</text>
+<sha1>dzqunvkqv2bmkb1dd8st8v5bx8ddl0c</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yde</title>
+<ns>0</ns>
+<id>4828952</id>
+<revision>
+<id>59674794</id>
+<parentid>56356120</parentid>
+<timestamp>2020-07-03T20:29:09Z</timestamp>
+<contributor>
+<username>Enkyklios</username>
+<id>2127216</id>
+</contributor>
+<comment>/* Danish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="422" xml:space="preserve">==Danish==
+===Etymology===
+From {{inh|da|non|ýta}}, from {{inh|da|gem-pro|*ūtijaną}}, cognate with {{cog|ang|ȳtan||to put out, expel}}, derived from the adverb {{m|gem-pro|*ūt||out}}.
+===Pronunciation===
+* {{IPA|da|[ˈyːð̠ˠə]}}
+===Verb===
+{{da-verb|yd|yde|yder|ydede|har|ydet}}
+# [[supply]]
+# [[yield]]
+# [[give]]
+# [[perform]]
+# [[grant]]
+# [[contribute]]
+====Inflection====
+{{da-conj|yd||er|ede|h|et||||}}</text>
+<sha1>aa1hoqp11jp8gbxy7lw5kc7hr5jdyfi</sha1>
+</revision>
+</page>

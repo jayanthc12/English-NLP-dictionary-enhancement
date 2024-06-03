@@ -1,0 +1,36 @@
+<page>
+<title>xaloc</title>
+<ns>0</ns>
+<id>2651878</id>
+<revision>
+<id>69370369</id>
+<parentid>67342909</parentid>
+<timestamp>2022-09-24T21:32:34Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>/* Catalan */ +2 derived</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="598" xml:space="preserve">==Catalan==
+===Etymology===
+Likely from {{bor|ca|pro|eissalot}} and its variants (e.g. {{m|pro|exaloc}}), from [[Massalia]]n {{der|ca|grc||*ἐξαλώτης}}, from {{m|grc|ἔξαλος|pos=&quot;out of the sea&quot; → &quot;wind from the southeast&quot;}}. Traditionally thought to be a derivative of {{bor|ca|ar|شرق|tr=šarq|t=east}}.
+===Pronunciation===
+* {{ca-IPA|ò}}
+===Noun===
+{{ca-noun|m}}
+# [[southeast]]
+# [[sirocco]]
+====Derived terms====
+* {{l|ca|xalocada}}
+* {{l|ca|xaloquejar}}
+* {{l|ca|xaloquell}}
+* {{l|ca|xaloquet}}
+===References===
+* {{R:IEC2}}
+* {{R:DCVB}}
+{{C|ca|Compass points|Wind}}</text>
+<sha1>02gqjwrzlj5qm6gv1e0l1sj6gthq8ce</sha1>
+</revision>
+</page>

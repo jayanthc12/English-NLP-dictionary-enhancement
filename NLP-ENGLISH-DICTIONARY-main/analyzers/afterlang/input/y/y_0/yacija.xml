@@ -1,0 +1,29 @@
+<page>
+<title>yacija</title>
+<ns>0</ns>
+<id>5928877</id>
+<revision>
+<id>68965029</id>
+<parentid>64220546</parentid>
+<timestamp>2022-08-29T00:32:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="323" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[bed]]; [[couch]]; [[tomb]] (especially, a bad one)
+#*{{RQ:Arlt JR|Los trabajos y los días}}
+#*:Indiscutiblemente, era cama de archipobre, un deshecho de judería, la '''yacija''' más taimada que he conocido.
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>eym9awssi6a0svzfp5j94cxru4ga97a</sha1>
+</revision>
+</page>

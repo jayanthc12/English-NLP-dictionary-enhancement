@@ -1,0 +1,35 @@
+<page>
+<title>Xyniae</title>
+<ns>0</ns>
+<id>6240087</id>
+<revision>
+<id>54015970</id>
+<parentid>53823268</parentid>
+<timestamp>2019-08-30T00:39:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>capitalize xȳniae in {{la-IPA}} to match page title</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="389" xml:space="preserve">==Latin==
+===Etymology===
+Borrowed from {{bor|la|grc|Ξυνίαι}}.
+===Pronunciation===
+* {{la-IPA|Xȳniae}}
+===Proper noun===
+{{la-proper noun|Xȳniae&lt;1.loc&gt;|g=f}}
+# A town of [[Thessaly]] situated near a lake
+====Declension====
+{{la-ndecl|Xȳniae&lt;1.loc&gt;}}
+====References====
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}
+* {{R:Smith's Geography|Xynia}}
+[[Category:la:Greece]]
+[[Category:la:Towns]]</text>
+<sha1>t5ek1804rz8c9m2qs3593z12hn8c2zb</sha1>
+</revision>
+</page>

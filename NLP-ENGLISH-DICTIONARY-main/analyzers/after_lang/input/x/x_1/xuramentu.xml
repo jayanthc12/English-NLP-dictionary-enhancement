@@ -1,0 +1,27 @@
+<page>
+<title>xuramentu</title>
+<ns>0</ns>
+<id>4783586</id>
+<revision>
+<id>51955280</id>
+<parentid>47734529</parentid>
+<timestamp>2019-03-17T13:39:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="255" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|LL.|iuramentum|jūrāmentum, iūrāmentum|oath}}, from {{inh|ast|la|iūrō}}. Equivalent to {{suffix|ast|xurar|mentu}}.
+===Noun===
+{{ast-noun|m|xuramentos}}
+# [[oath]]
+====Related terms====
+* {{l|ast|xurar}}</text>
+<sha1>t7ctd40s41l174o31luz979n4sg3yo0</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yapo</title>
+<ns>0</ns>
+<id>1286875</id>
+<revision>
+<id>68059604</id>
+<parentid>62125017</parentid>
+<timestamp>2022-07-18T02:39:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yapar]] with 'yapar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="207" xml:space="preserve">{{also|yapó|yāpò}}
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yapar}}
+----
+==Tagalog==
+===Adjective===
+{{tl-adj}}
+# {{lb|tl|slang}} [[handsome]]</text>
+<sha1>rbbj4yt1thwxz4wbo3tl3ms20xo45vd</sha1>
+</revision>
+</page>

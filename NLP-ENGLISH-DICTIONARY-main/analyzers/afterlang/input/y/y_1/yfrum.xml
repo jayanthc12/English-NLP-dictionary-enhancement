@@ -1,0 +1,25 @@
+<page>
+<title>yfrum</title>
+<ns>0</ns>
+<id>1112684</id>
+<revision>
+<id>54253955</id>
+<parentid>47663750</parentid>
+<timestamp>2019-09-21T11:48:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Replace raw links with templated links: [[fara yfrum]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==Icelandic==
+===Adverb===
+{{head|is|adverbs}}
+# [[over]], [[over there]], [[across]]
+====Derived terms====
+* {{l|is|fara yfrum}}</text>
+<sha1>0imgt1fsajgpx2x5qaat8bj0dqz8zy0</sha1>
+</revision>
+</page>

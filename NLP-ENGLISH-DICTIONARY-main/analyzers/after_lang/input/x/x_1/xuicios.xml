@@ -1,0 +1,23 @@
+<page>
+<title>xuicios</title>
+<ns>0</ns>
+<id>3759781</id>
+<revision>
+<id>62895984</id>
+<parentid>56166482</parentid>
+<timestamp>2021-06-18T03:29:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Asturian plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xuiciu}}</text>
+<sha1>059zpc2l78xye7jv4cx5vbwg43vg5v3</sha1>
+</revision>
+</page>

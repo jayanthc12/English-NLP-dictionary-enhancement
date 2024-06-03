@@ -1,0 +1,28 @@
+<page>
+<title>ydinpilvi</title>
+<ns>0</ns>
+<id>4405113</id>
+<revision>
+<id>69318225</id>
+<parentid>52035606</parentid>
+<timestamp>2022-09-18T17:06:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|pilvi|t2=cloud}}
+===Pronunciation===
+{{fi-p|ydin-pilvi}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[cloud]]
+====Declension====
+{{fi-decl-ovi|ydinpilv|||ä}}</text>
+<sha1>repj4x8wnf7pi9xorp5xe2arh3kfxnq</sha1>
+</revision>
+</page>

@@ -1,0 +1,57 @@
+<page>
+<title>Yaeko</title>
+<ns>0</ns>
+<id>5655540</id>
+<revision>
+<id>67131161</id>
+<parentid>67078030</parentid>
+<timestamp>2022-05-22T20:37:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns; clean up etymologies, given names; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="889" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{borrowed|en|ja|やえこ|tr=Yaeko}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|A=A Japanese|from=Japanese}}
+===Anagrams===
+* {{anagrams|en|a=aekoy|yoake}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|ja|やえこ|tr=Yaeko}}.
+===Pronunciation===
+* {{fr-IPA|Yaéko}}
+===Proper noun===
+{{fr-proper noun|f}}
+# {{given name|fr|female|from=Japanese}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やえこ}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|やえこ|tr=Yaeko}}.
+===Proper noun===
+{{pt-proper noun|f}}
+# {{given name|pt|female|from=Japanese}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{borrowed|tl|ja|やえこ|tr=Yaeko}}.
+===Pronunciation===
+*{{tl-IPA}}
+===Proper noun===
+{{tl-proper noun}}
+# {{given name|tl|female|from=Japanese}}</text>
+<sha1>j0q6yhurf1matitc5h02wymxvm2p7hm</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yg</title>
+<ns>0</ns>
+<id>43349</id>
+<revision>
+<id>59359347</id>
+<parentid>54597816</parentid>
+<timestamp>2020-05-14T06:39:24Z</timestamp>
+<contributor>
+<username>Fish bowl</username>
+<id>522410</id>
+</contributor>
+<comment>{{lb||texting}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">{{also|Yg}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{SI-unit-abb|yocto|gram|[[mass]]}}
+----
+==Indonesian==
+===Conjunction===
+{{head|id|conjunction}}
+# {{lb|id|texting}} {{abbreviation of|id|yang||which}}
+----
+==Malay==
+===Conjunction===
+{{head|ms|conjunction}}
+# {{lb|ms|texting}} {{abbreviation of|ms|yang||which}}</text>
+<sha1>fj4qiw6kfhbjk73gux0gvv69qw7zyv8</sha1>
+</revision>
+</page>

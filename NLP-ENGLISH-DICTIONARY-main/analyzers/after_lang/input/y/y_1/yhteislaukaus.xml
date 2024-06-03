@@ -1,0 +1,28 @@
+<page>
+<title>yhteislaukaus</title>
+<ns>0</ns>
+<id>613629</id>
+<revision>
+<id>69318452</id>
+<parentid>51993144</parentid>
+<timestamp>2022-09-18T17:18:54Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="223" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteinen|alt1=yhteis-|laukaus}}
+===Pronunciation===
+{{fi-p|yhteis-laukaus}}
+===Noun===
+{{fi-noun}}
+# [[volley]], [[salvo]]
+====Declension====
+{{fi-decl-vastaus|yhteislaukau|a}}</text>
+<sha1>bhqnqta0exvy23tlaxrylzsy5j0vvom</sha1>
+</revision>
+</page>

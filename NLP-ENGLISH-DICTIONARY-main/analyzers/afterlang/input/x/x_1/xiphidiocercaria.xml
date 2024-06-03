@@ -1,0 +1,26 @@
+<page>
+<title>xiphidiocercaria</title>
+<ns>0</ns>
+<id>252544</id>
+<revision>
+<id>51737790</id>
+<parentid>26866472</parentid>
+<timestamp>2019-03-13T03:19:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xiphidio|cercaria}}
+===Noun===
+{{en-noun|!}}
+# a [[cercaria]] having a [[stylet]] in the anterior rim of its oral sucker with which it actively penetrates its host
+[[Category:en:Animals]]</text>
+<sha1>tp5zx1vu28mrg5978ens0qckot0mya2</sha1>
+</revision>
+</page>

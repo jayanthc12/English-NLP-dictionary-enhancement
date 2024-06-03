@@ -1,0 +1,30 @@
+<page>
+<title>xanthochromes</title>
+<ns>0</ns>
+<id>1344435</id>
+<revision>
+<id>66250791</id>
+<parentid>60597284</parentid>
+<timestamp>2022-03-28T06:46:37Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xanthochromes.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthochrome}}
+----
+==German==
+===Pronunciation===
+* {{audio|de|De-xanthochromes.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xanthochrom}}</text>
+<sha1>imbvqvah7h0iy07978wkf0zetmnzg1q</sha1>
+</revision>
+</page>

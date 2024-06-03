@@ -1,0 +1,23 @@
+<page>
+<title>yakuzoja</title>
+<ns>0</ns>
+<id>1990021</id>
+<revision>
+<id>45370471</id>
+<parentid>32949410</parentid>
+<timestamp>2017-05-25T23:47:57Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|case=partitive|pl=plural|yakuza}}</text>
+<sha1>awcxwc54pi0phi7h8aihnz1q79lzoog</sha1>
+</revision>
+</page>

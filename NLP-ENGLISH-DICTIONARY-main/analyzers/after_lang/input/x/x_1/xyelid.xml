@@ -1,0 +1,26 @@
+<page>
+<title>xyelid</title>
+<ns>0</ns>
+<id>3728987</id>
+<revision>
+<id>59040423</id>
+<parentid>59039368</parentid>
+<timestamp>2020-03-31T02:25:51Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Hymenopterans]]; added [[Category:en:Sawflies and wood wasps]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="466" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any [[sawfly]] in the [[family]] {{taxlink|Xyelidae|family}}.
+#* '''1993''', ''Memoirs of the Entomological Society of Canada''
+#*: Like raphidiids, '''xyelids''' have the mesopleuron divided into an episternum and epimeron by a distinct mesopleural suture, but the suture is angled much more obliquely and the epimeron is much smaller than the episternum (Figs. 8-10).
+[[Category:en:Sawflies and wood wasps]]</text>
+<sha1>2meq19zdrvcotpaof0mey64nxsr4wmu</sha1>
+</revision>
+</page>

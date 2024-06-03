@@ -1,0 +1,25 @@
+<page>
+<title>ychwanegiadau</title>
+<ns>0</ns>
+<id>6508598</id>
+<revision>
+<id>60961563</id>
+<parentid>60822977</parentid>
+<timestamp>2020-10-27T04:06:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{cy-noun plural form}}, {{cy-singulative}}, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==Welsh==
+===Noun===
+{{cy-noun plural form}}
+# {{plural of|cy|ychwanegiad}}
+===Mutation===
+{{cy-mut}}</text>
+<sha1>rh3lfby83bmzr986nz0x11bh2cdr0xj</sha1>
+</revision>
+</page>

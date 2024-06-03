@@ -1,0 +1,23 @@
+<page>
+<title>Xaxim</title>
+<ns>0</ns>
+<id>5008731</id>
+<revision>
+<id>58380787</id>
+<parentid>44280214</parentid>
+<timestamp>2020-01-12T16:07:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{place:Brazil/municipality}} with {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">==Portuguese==
+===Proper noun===
+{{pt-proper noun}}
+# {{place|pt|municipality|s/Santa Catarina|c/Brazil}}</text>
+<sha1>ambn9b264wjiacryqgjdyuvrqdz1u4j</sha1>
+</revision>
+</page>

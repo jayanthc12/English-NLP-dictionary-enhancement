@@ -1,0 +1,26 @@
+<page>
+<title>Yellowknifer</title>
+<ns>0</ns>
+<id>1121480</id>
+<revision>
+<id>51851775</id>
+<parentid>39063995</parentid>
+<timestamp>2019-03-14T23:45:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="176" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yellowknife|er|id2=inhabitant}}
+===Noun===
+{{en-noun}}
+# A native or inhabitant of [[Yellowknife]], Canada.
+[[Category:en:Demonyms]]</text>
+<sha1>nh079bkdnm6tt3h4un29pqtwtwryqk6</sha1>
+</revision>
+</page>

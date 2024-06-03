@@ -1,0 +1,28 @@
+<page>
+<title>ydinpolttoaine</title>
+<ns>0</ns>
+<id>1151665</id>
+<revision>
+<id>69318226</id>
+<parentid>58620556</parentid>
+<timestamp>2022-09-18T17:07:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|polttoaine|alt1=ydin-|t1=nuclear|t2=fuel}}
+===Pronunciation===
+{{fi-p|ydin/poltto-aine*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear fuel]]
+====Declension====
+{{fi-decl-hame|ydinpolttoain|||a}}</text>
+<sha1>crpkwd82zjhs3jzysd77uhwaoxh8w1d</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xenoglossies</title>
+<ns>0</ns>
+<id>1604319</id>
+<revision>
+<id>55690028</id>
+<parentid>53092234</parentid>
+<timestamp>2019-10-15T12:27:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="123" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenoglossy}}
+[[Category:English plurals ending in &quot;-ies&quot;]]</text>
+<sha1>p6dp2lso4zwy8xzt7cvh975iditic0d</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xenocytology</title>
+<ns>0</ns>
+<id>6289580</id>
+<revision>
+<id>54892825</id>
+<parentid>47787710</parentid>
+<timestamp>2019-10-08T14:46:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="261" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|cytology}}
+===Pronunciation===
+* {{IPA|en|/zɛnəsaɪˈtɑləd͡ʒi/}}
+* {{hyphenation|en|xe|no|cy|tol|ogy}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|science fiction|rare}} [[science]] of [[extraterrestrial]] [[cell]]s</text>
+<sha1>ihh57m3jhsluckxoxxr05wuppknc8ym</sha1>
+</revision>
+</page>

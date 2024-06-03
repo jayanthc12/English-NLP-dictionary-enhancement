@@ -1,0 +1,24 @@
+<page>
+<title>xerminaran</title>
+<ns>0</ns>
+<id>1211500</id>
+<revision>
+<id>56575399</id>
+<parentid>34989136</parentid>
+<timestamp>2019-10-18T07:54:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="110" xml:space="preserve">{{also|xerminarán}}
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerminar||3|p|plup|indc}}</text>
+<sha1>3cnwtocy3r9igpvr99io9ocj3lt5pbn</sha1>
+</revision>
+</page>

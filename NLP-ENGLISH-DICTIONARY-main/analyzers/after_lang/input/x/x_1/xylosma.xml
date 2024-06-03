@@ -1,0 +1,33 @@
+<page>
+<title>xylosma</title>
+<ns>0</ns>
+<id>2137387</id>
+<revision>
+<id>68798857</id>
+<parentid>67902612</parentid>
+<timestamp>2022-08-27T15:58:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="602" xml:space="preserve">{{also|Xylosma}}
+==English==
+[[File:Xylosma-congestum-20071001.jpg|thumb|A '''xylosma''' blossom]]
+===Etymology===
+From the genus name ''[[Xylosma]]''.
+===Noun===
+{{en-noun}}
+# Any of various evergreen shrubs and small trees in the genus ''[[Xylosma]]''
+#* {{quote-book|en|year=1978|title=Pruning and Grafting|author=Oliver E. Allen|page=93|url=http://books.google.com/books?id=iZlzeSBRTe4C
+|passage=The intergrown foliage atop a '''xylosma''' hedge appears to be delicately balanced on long wooden fingers.}}
+====See also====
+* {{pedia|Xylosma}}
+===Anagrams===
+* {{anagrams|en|a=almosxy|xylomas}}</text>
+<sha1>myzsvrxx7n4hb46z1emxg2j2pqgurgb</sha1>
+</revision>
+</page>

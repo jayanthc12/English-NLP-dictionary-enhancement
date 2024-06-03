@@ -1,0 +1,32 @@
+<page>
+<title>Xanthin</title>
+<ns>0</ns>
+<id>1578176</id>
+<revision>
+<id>66334018</id>
+<parentid>65754835</parentid>
+<timestamp>2022-04-02T18:38:32Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="302" xml:space="preserve">{{also|xanthin}}
+==German==
+===Etymology===
+{{rfe|de|Where's the Greek}}
+===Pronunciation===
+* {{IPA|de|/ksanˈtiːn/}}
+===Noun===
+{{de-noun|n.sg}}
+# [[xanthine]] (group of alkaloids, including caffeine)
+====Declension====
+{{de-ndecl|n.sg}}
+===Further reading===
+* {{R:Duden}}
+{{C|de|Chemistry}}</text>
+<sha1>40vtdtyz3qh9uoxc6qk2658itq4ubu4</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>Yg</title>
+<ns>0</ns>
+<id>170886</id>
+<revision>
+<id>44355238</id>
+<parentid>34617311</parentid>
+<timestamp>2017-05-25T01:53:21Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">{{also|yg}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{SI-unit-abb|yotta|gram|[[mass]]}}</text>
+<sha1>q91sr9hz2u451uiazurzsmlpwobz9ch</sha1>
+</revision>
+</page>

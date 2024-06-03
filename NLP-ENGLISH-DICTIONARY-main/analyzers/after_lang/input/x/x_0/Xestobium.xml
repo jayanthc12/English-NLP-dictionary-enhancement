@@ -1,0 +1,32 @@
+<page>
+<title>Xestobium</title>
+<ns>0</ns>
+<id>2227923</id>
+<revision>
+<id>60247751</id>
+<parentid>58057787</parentid>
+<timestamp>2020-09-04T19:16:47Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="463" xml:space="preserve">==Translingual==
+[[File:Xestobium.rufovillosum.jpg|thumb]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=n}}
+# {{taxon|genus|family|Anobiidae|[[beetle]]s, including the [[deathwatch beetle]]}}
+====Hypernyms====
+* {{sense|genus}} {{Anobiidae Hypernyms}}; {{taxlink|Ernobiinae|subfamily|noshow=1}}&amp;nbsp;- subfamily; {{taxlink|Xestobiini|tribe|noshow=1}}&amp;nbsp;- tribe
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}</text>
+<sha1>ldxdt3v0e8ptf05a2xos24o9czjf85f</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yhteisvastuu</title>
+<ns>0</ns>
+<id>3432111</id>
+<revision>
+<id>69318482</id>
+<parentid>63747675</parentid>
+<timestamp>2022-09-18T17:20:34Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="487" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteinen|alt1=yhteis-|vastuu|gloss1=common|gloss2=responsibility}}
+===Pronunciation===
+{{fi-p|yhteis-vastuu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[joint]] and [[several]] [[responsibility]] {{gloss|state of having a shared responsibility for fulfilling an obligation so that every individual guarantees the performance of others}}
+====Declension====
+{{fi-decl-vapaa|yhteisvastu|a}}
+====Derived terms====
+* {{l|fi|yhteisvastuullinen}}</text>
+<sha1>ni38akhf98lzr5r5smciyrofuxbmqjp</sha1>
+</revision>
+</page>

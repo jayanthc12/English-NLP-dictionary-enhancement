@@ -1,0 +1,25 @@
+<page>
+<title>xylolithe</title>
+<ns>0</ns>
+<id>6368674</id>
+<revision>
+<id>67052982</id>
+<parentid>47415857</parentid>
+<timestamp>2022-05-17T11:15:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{confix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="119" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xylo-|-lithe}}
+===Noun===
+{{fr-noun|f}}
+# [[petrified]] / [[fossilised]] [[wood]]</text>
+<sha1>iwyhui6l8u1b08ttlip20uuwrpgpflq</sha1>
+</revision>
+</page>

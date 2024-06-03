@@ -1,0 +1,34 @@
+<page>
+<title>xynisteri</title>
+<ns>0</ns>
+<id>1432016</id>
+<revision>
+<id>67291895</id>
+<parentid>54384724</parentid>
+<timestamp>2022-06-06T10:23:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|el}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="599" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|xynistery}}
+* {{l|en|xinisteri}}
+===Etymology===
+{{uder|en|el|ξυνιστέρι|sc=Grek}}.
+===Noun===
+{{en-noun|-}}
+# A white [[grape]] indigenous to the island of [[Cyprus]].
+#* {{quote-journal|en|2009|January 24|Gord Stimmell|Greece, France, Australia shine in this release|Toronto Star|url=http://www.thestar.com/living/article/574263
+|passage=This crisp, lemony white is made using '''xynisteri''' grapes, imported centuries before from the Greek mainland.}}
+====Synonyms====
+* xynisteri grape
+[[Category:en:Fruits]]
+[[Category:en:Grapevines]]</text>
+<sha1>ib444in99i7khif3buclu5vrfishuru</sha1>
+</revision>
+</page>

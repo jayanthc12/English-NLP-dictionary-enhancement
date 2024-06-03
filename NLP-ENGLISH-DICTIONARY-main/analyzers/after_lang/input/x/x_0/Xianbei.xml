@@ -1,0 +1,43 @@
+<page>
+<title>Xianbei</title>
+<ns>0</ns>
+<id>4300170</id>
+<revision>
+<id>68822344</id>
+<parentid>67331784</parentid>
+<timestamp>2022-08-27T21:38:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="741" xml:space="preserve">{{also|xiānbèi|Xiānbēi}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alter|en|Hsien-pi|Hsien-pei}}
+* {{l|en|Syanbi}}
+===Etymology===
+From {{uder|en|cmn|-}} {{zh-l|鮮卑}}.
+===Pronunciation===
+* {{IPA|en|/ʃjænˈbeɪ/}}
+===Noun===
+{{en-plural noun}}
+# {{lb|en|historical}} An [[ancient]] [[Mongolic]] [[nomadic]] people who resided in what is now eastern [[Mongolia]], [[Inner Mongolia]], and northeast [[China]].
+====Synonyms====
+* {{l|en|Särbi}}
+====Translations====
+{{trans-top|ancient people}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鮮卑}}, {{t+|cmn|鲜卑|tr=Xiānbēi}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t|ko|선비족}}
+{{trans-bottom}}
+{{C|en|China|History of China|Mongolia|Tribes|Ethnonyms}}</text>
+<sha1>cpbte7e180km0jlo9ublsxfffz4qv2w</sha1>
+</revision>
+</page>

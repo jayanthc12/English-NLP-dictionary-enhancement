@@ -1,0 +1,26 @@
+<page>
+<title>Yaahr</title>
+<ns>0</ns>
+<id>6431026</id>
+<revision>
+<id>64168828</id>
+<parentid>47970530</parentid>
+<timestamp>2021-10-12T14:39:21Z</timestamp>
+<contributor>
+<username>Myrelia</username>
+<id>3858447</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="290" xml:space="preserve">==Pennsylvania German==
+===Etymology===
+From {{inh|pdc|goh|jār}}, from {{inh|pdc|gem-pro|*jērą}}. Compare {{cog|de|Jahr}}, {{cog|nl|jaar}}, {{cog|en|year}}.
+===Noun===
+{{head|pdc|noun|g=n|plural|Yaahre}}
+# [[year]]
+====Related terms====
+* {{l|pdc|Friehyaahr}}
+* {{l|pdc|Schpotyaahr}}</text>
+<sha1>jlv98c3zsxa5j05nrsdv9ewggvtq0go</sha1>
+</revision>
+</page>

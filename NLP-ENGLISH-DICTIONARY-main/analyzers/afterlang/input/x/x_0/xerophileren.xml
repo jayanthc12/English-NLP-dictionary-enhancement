@@ -1,0 +1,25 @@
+<page>
+<title>xerophileren</title>
+<ns>0</ns>
+<id>6345442</id>
+<revision>
+<id>69438500</id>
+<parentid>60516017</parentid>
+<timestamp>2022-10-03T13:45:55Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophileren.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerophileren.ogg|Audio}}
+===Adjective===
+{{head|de|comparative adjective form}}
+# {{de-adj form of|xerophil}}</text>
+<sha1>ep84uaqjv3y0w6ldvsqh1oiqoj03b66</sha1>
+</revision>
+</page>

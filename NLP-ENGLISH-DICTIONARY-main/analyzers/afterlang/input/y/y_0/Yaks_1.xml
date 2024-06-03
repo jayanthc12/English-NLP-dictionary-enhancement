@@ -1,0 +1,27 @@
+<page>
+<title>Yaks</title>
+<ns>0</ns>
+<id>1921697</id>
+<revision>
+<id>58281095</id>
+<parentid>55797575</parentid>
+<timestamp>2020-01-01T23:57:14Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Yaks.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="176" xml:space="preserve">{{also|yaks|yäks}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Yaks.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Yak||gen|s}}
+# {{plural of|de|Yak}}</text>
+<sha1>tjqcxntixsu0a5g8yweiyewssyv5pjv</sha1>
+</revision>
+</page>

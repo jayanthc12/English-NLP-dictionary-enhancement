@@ -1,0 +1,31 @@
+<page>
+<title>yhteistoimintamenettely</title>
+<ns>0</ns>
+<id>4613693</id>
+<revision>
+<id>69318471</id>
+<parentid>52039360</parentid>
+<timestamp>2022-09-18T17:19:54Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="497" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteistoiminta|menettely}}
+===Pronunciation===
+{{fi-p|yhteis-toiminta/menettely}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[co-operation]] [[procedure]] {{gloss|specific procedure to be followed in cooperation negotiations - ''see [[yhteistoimintaneuvottelu]]'' - concerning reduction of personnel}}
+====Declension====
+{{fi-decl-palvelu|yhteistoimintamenettely|ä}}
+====See also====
+* {{l|fi|yhteistoimintalaki}}
+* {{l|fi|yhteistoimintaneuvottelu}}</text>
+<sha1>3il8xhvm8tdt7l5xkah1imfhqtalboh</sha1>
+</revision>
+</page>

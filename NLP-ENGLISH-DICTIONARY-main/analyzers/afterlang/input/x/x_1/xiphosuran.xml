@@ -1,0 +1,29 @@
+<page>
+<title>xiphosuran</title>
+<ns>0</ns>
+<id>252977</id>
+<revision>
+<id>51361124</id>
+<parentid>44721081</parentid>
+<timestamp>2019-01-27T01:57:41Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Arthropods]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="298" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Xiphosura|an}}
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any member of the [[order]] [[Xiphosura]], including [[horseshoe crab]]s.
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|zoology}} Of or pertaining to the order [[Xiphosura]].
+[[Category:en:Arthropods]]</text>
+<sha1>6sq6teeylomdevzqfoepuf4r7q0c23k</sha1>
+</revision>
+</page>

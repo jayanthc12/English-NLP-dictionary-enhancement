@@ -1,0 +1,25 @@
+<page>
+<title>xanthidylic</title>
+<ns>0</ns>
+<id>3730847</id>
+<revision>
+<id>51926222</id>
+<parentid>36783675</parentid>
+<timestamp>2019-03-16T18:40:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Etymology===
+{{m|en|xanthid}} + {{m|en|-yl}} {{suffix|en||ic}}
+===Adjective===
+{{en-adj|-}}
+# Relating to [[xanthidylic acid]] or its derivatives</text>
+<sha1>ctzhnb794gp8myg4oz4i64z1kcsw432</sha1>
+</revision>
+</page>

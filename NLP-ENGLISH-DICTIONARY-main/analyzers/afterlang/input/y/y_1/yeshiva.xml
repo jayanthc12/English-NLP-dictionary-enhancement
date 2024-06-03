@@ -1,0 +1,69 @@
+<page>
+<title>yeshiva</title>
+<ns>0</ns>
+<id>250788</id>
+<revision>
+<id>68446927</id>
+<parentid>67288215</parentid>
+<timestamp>2022-07-24T17:04:52Z</timestamp>
+<contributor>
+<ip>2A02:8070:6282:A020:A08C:3BA:45C6:6A7B</ip>
+</contributor>
+<comment>t+arc:[[מְתִיבָה]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2038" xml:space="preserve">{{also|Yeshiva}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|yeshiba}}
+* {{l|en|yeshibah}}
+* {{l|en|yeshivah}}
+===Etymology===
+From {{uder|en|yi|ישיבה|tr=yeshive}}, from {{uder|en|he|sc=Hebr|יְשִׁיבָה|tr=y'shivá||meeting}}.
+===Pronunciation===
+* {{a|US}} {{IPA|en|/jəˈʃiː.və/}}
+===Noun===
+{{en-noun|s|yeshivot}}
+# {{lb|en|Judaism}} An [[academy]] for the advanced study of [[Jewish]] [[text]]s.
+#* '''2015''', {{w|Will Self}}, ‘Diary’, ''London Review of Books'', vol. 37 no.5:
+#*: Shalom grew up in an Orthodox family in Stamford Hill. His father, who ran an office-furniture business, intended him for a synagogue cantor, and when Shalom finished school he was sent to the '''yeshiva'''.
+#*{{quote-journal
+|en
+|journal=Jewish Currents
+|date=2019-8-7
+|title=The Right Kind of Continuity
+|url=https://jewishcurrents.org/the-right-kind-of-continuity/
+|author=Marissa Brostoff and Noah Kulwin
+|passage=Last month, the ''Forward'' reported, a former student at Mechon Hadar—a co-ed egalitarian '''yeshiva''' in New York—emailed the school's listserv with a plea for the institution to cut ties with [Leslie] Wexner in light of the unspooling allegations against [Jeffrey] Epstein.}}
+====Coordinate terms====
+* {{l|en|cheder}}
+====Derived terms====
+* {{l|en|rosh yeshiva}}
+* {{l|en|Yeshivish}}
+====Translations====
+{{trans-top|academy for the advanced study of Jewish texts}}
+* Aramaic: {{t|arc|מְתִיבָה|f|tr=mǝṯīḇā}}
+* Esperanto: {{t|eo|jeŝivo}}
+* French: {{t+|fr|yeshiva|f}}
+* German: {{t|de|Jeschiwa|f}}
+* Hebrew: {{t+|he|יְשִׁיבָה|tr=y'shivá|f}}
+* Hungarian: {{t+|hu|jesiva}}
+{{trans-mid}}
+* Ladino: {{t|lad|yeshiva|f}}
+* Polish: {{t+|pl|jesziwa|f}}, {{t+|pl|jeszybot|m}}, {{t+|pl|jesziba|f}}
+* Russian: {{t|ru|еши́ва|f}}, {{t+|ru|иеши́ва|f}}
+* Turkish: {{t|tr|yeşiva}}
+* Yiddish: {{t|yi|ישיבה|tr=yeshive|f}}
+{{trans-bottom}}
+{{C|en|Schools}}
+----
+==French==
+===Noun===
+{{fr-noun|f}}
+# {{l|en|yeshiva}}
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>qb9ofdh27qmyrahdaoxhmohva2ibz5s</sha1>
+</revision>
+</page>

@@ -1,0 +1,66 @@
+<page>
+<title>Yale</title>
+<ns>0</ns>
+<id>48612</id>
+<revision>
+<id>64245227</id>
+<parentid>63464720</parentid>
+<timestamp>2021-10-16T17:58:02Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1789" xml:space="preserve">{{also|yale}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{sense|university}} {{pedlink|Yale University}} {{qualifier|more properly}}
+===Pronunciation===
+* {{IPA|en|/jeɪl/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-Yale.wav|Audio (UK)}}
+* {{rhymes|en|eɪl|s=1}}
+===Proper noun===
+{{en-proper noun}}
+# A university in the eastern [[United States]].
+# A [[romanisation]] scheme originating from Yale University.
+## A romanisation scheme designed for [[Mandarin]].
+## A romanisation scheme designed for [[Cantonese]].
+## A romanisation scheme designed for [[Japanese]].
+## A romanisation scheme designed for [[Korean]].
+====Derived terms====
+* {{sense|university}} {{l|en|Yalie}}
+====Translations====
+{{trans-top|university}}
+* Armenian: {{t|hy|Եյլ}}
+* Chinese:
+*: Mandarin: {{t|cmn|耶魯大學|sc=Hani}}, {{t|cmn|耶鲁大学|tr=Yélǔ dàxué|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t|ja|イェール大学|tr=Yēru daigaku|sc=Jpan}}, {{t|ja|エール大学|tr=Ēru daigaku|sc=Jpan}}
+* Marathi: {{t|mr|येल|n}}
+* Russian: {{t|ru|Йе́льский университе́т|m}}
+{{trans-bottom}}
+{{trans-top|romanisation scheme}}
+* Chinese:
+*: Cantonese: {{t|yue|耶魯拼音}}, {{t|yue|耶鲁拼音|tr=je4 lou5 ping3 jam1}}
+*: Mandarin: {{t|cmn|耶魯拼音|sc=Hani}}, {{t|cmn|耶鲁拼音|tr=Yélǔ pīnyīn|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t+|ja|イェール式|tr=Yēru-shiki|sc=Jpan}}
+* Russian: {{t|ru|йе́льская романиза́ция|f}}
+{{trans-bottom}}
+====See also====
+* {{l|en|Gwoyeu Romatzyh}}
+* {{l|en|Pinyin}}
+* {{l|en|romaji}}
+* {{l|en|Wade-Giles}}
+* {{l|en|Zhuyin fuhao}}
+====Further reading====
+* {{pedia|Yale Romanization}}
+===Anagrams===
+* {{anagrams|en|a=aely|Ealy|Laye|Yael|aley|ayle|laye}}
+{{C|en|Cities|Chinese|Japanese|Korean}}</text>
+<sha1>48hgtakaakzdnccp7wd9x6q52pprcvv</sha1>
+</revision>
+</page>

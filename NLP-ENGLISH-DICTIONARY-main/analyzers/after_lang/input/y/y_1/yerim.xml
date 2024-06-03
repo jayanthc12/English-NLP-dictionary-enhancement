@@ -1,0 +1,28 @@
+<page>
+<title>yerim</title>
+<ns>0</ns>
+<id>1549954</id>
+<revision>
+<id>67660120</id>
+<parentid>55625188</parentid>
+<timestamp>2022-07-06T16:38:49Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert aorist forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="201" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|/ˈjeɾim/}}
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||1|s|simple present}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yemek}}</text>
+<sha1>4rpf9hc9u12wpfcp13zajj7mfbbtz2v</sha1>
+</revision>
+</page>

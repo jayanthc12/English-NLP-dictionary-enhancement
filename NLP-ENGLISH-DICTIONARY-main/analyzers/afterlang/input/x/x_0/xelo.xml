@@ -1,0 +1,36 @@
+<page>
+<title>xelo</title>
+<ns>0</ns>
+<id>1615052</id>
+<revision>
+<id>64268622</id>
+<parentid>61560509</parentid>
+<timestamp>2021-10-18T08:38:19Z</timestamp>
+<contributor>
+<ip>2806:105E:F:3BD8:F116:6D78:5753:16F6</ip>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">{{also|xeló|xelô}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||1|s|pres|ind}}
+----
+==Central Huasteca Nahuatl==
+===Verb===
+{{head|nch|verb}}
+# To [[divide]].
+----
+==Galician==
+===Etymology===
+From {{der|gl|la|gelu}}.
+===Noun===
+{{gl-noun|m}}
+# [[ice]]
+====Synonyms====
+* {{sense|ice}} {{l|gl|xeo}}</text>
+<sha1>c4u8bv8ye12c5vaoxukgv30qkjbn5ww</sha1>
+</revision>
+</page>

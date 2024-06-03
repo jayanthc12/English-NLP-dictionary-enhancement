@@ -1,0 +1,32 @@
+<page>
+<title>xhenem</title>
+<ns>0</ns>
+<id>3168294</id>
+<revision>
+<id>60779947</id>
+<parentid>56071281</parentid>
+<timestamp>2020-10-09T21:32:47Z</timestamp>
+<contributor>
+<username>ArbDardh</username>
+<id>3474106</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Albanian==
+===Alternative forms===
+* {{alter|sq|xhehenem}}
+* {{alter|sq|xhehnem}}
+===Etymology===
+From {{bor|sq|ar|جَهَنَّم}}.
+===Pronunciation===
+* {{IPA|sq|/dʒɛˈnɛm/|[dʒɛˈnɛm]}}
+===Noun===
+{{sq-noun|m||xhenemi}}
+# {{lb|sq|Islam}} [[hell]]
+#: {{syn|sq|ferr|skëterrë}}
+#: {{ant|sq|xhenet|qiell}}
+====Declension====
+{{sq-noun-m-unc}}</text>
+<sha1>lxvsxqulh8lzgmvszpaiucxishlkfkk</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yellowbellies</title>
+<ns>0</ns>
+<id>1166399</id>
+<revision>
+<id>55520040</id>
+<parentid>53093013</parentid>
+<timestamp>2019-10-15T04:51:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="148" xml:space="preserve">{{also|yellow bellies}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yellowbelly}}
+[[Category:English plurals ending in &quot;-ies&quot;]]</text>
+<sha1>op13dwf8o7s8xo9g4ajf0gljvpsx9wx</sha1>
+</revision>
+</page>

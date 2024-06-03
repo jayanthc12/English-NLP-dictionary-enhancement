@@ -1,0 +1,30 @@
+<page>
+<title>yagara</title>
+<ns>0</ns>
+<id>7254580</id>
+<revision>
+<id>59974832</id>
+<parentid>59552073</parentid>
+<timestamp>2020-08-07T05:24:34Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="382" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やがら}}
+----
+==Yagara==
+===Particle===
+{{head|1=yxg|2=particle}}
+# [[no]]
+===References===
+* Eipper, Christopher, STATEMENT OF THE ORIGIN, CONDITION, AND PROSPECTS, OF THE GERMAN MISSION TO THE ABORIGINES AT MORETON BAY, CONDUCTED UNDER THE AUSPICES OF THE PRESBYTERIAN CHURCH IN NEW SOUTH WALES, 1841.</text>
+<sha1>tui2wqnbdq37yo9miahubwllttpggyt</sha1>
+</revision>
+</page>

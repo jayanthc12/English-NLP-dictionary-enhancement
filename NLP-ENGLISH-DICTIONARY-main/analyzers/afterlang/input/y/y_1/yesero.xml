@@ -1,0 +1,29 @@
+<page>
+<title>yesero</title>
+<ns>0</ns>
+<id>7085702</id>
+<revision>
+<id>68973016</id>
+<parentid>63737094</parentid>
+<timestamp>2022-08-29T02:56:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="171" xml:space="preserve">==Spanish==
+===Etymology===
+{{af|es|yeso|-ero}}
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m|f=yesera}}
+# [[plasterer]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>1q6u22z7v24v4wyr5a866u1wy0tc9b1</sha1>
+</revision>
+</page>

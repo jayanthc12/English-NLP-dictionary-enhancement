@@ -1,0 +1,36 @@
+<page>
+<title>yellowy</title>
+<ns>0</ns>
+<id>250786</id>
+<revision>
+<id>55373115</id>
+<parentid>51832443</parentid>
+<timestamp>2019-10-14T12:51:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1332" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yellow|y}}
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˈjɛloʊ.i/}}
+===Adjective===
+{{en-adj|er}}
+# [[somewhat|Somewhat]] [[yellow]]; [[yellowish]].
+#* '''1816''', {{w|John Hamilton Reynolds}}, “The Fairies” in ''The Naiad: a Tale, with Other Poems'', London: Taylor &amp; Hessey, p. 62,&lt;sup&gt;[https://catalog.hathitrust.org/Record/100861177]&lt;/sup&gt;
+#*: Let the daisy, yellow-hearted,
+#*: With its white leaves starry-parted,
+#*: And the cowslips, '''yellowy''' pale,
+#*: Serve her as a flowery veil—
+#* '''1904''', {{w|Joseph Conrad}}, ''{{w|Nostromo}}'', Part 1, Chapter Eight,&lt;sup&gt;[http://www.gutenberg.org/files/2021/2021-h/2021-h.htm]&lt;/sup&gt;
+#*: {{...}} the worn-out antiquity of Sulaco, so characteristic with its stuccoed houses and barred windows, with the great '''yellowy'''-white walls of abandoned convents behind the rows of sombre green cypresses {{...}}
+#* '''1977''', {{w|Breece D'J Pancake|Breece D’J Pancake}}, “Trilobites” in ''The Stories of Breece D’J Pancake'', New York: Holt, Rinehart &amp; Winston, p. 24,&lt;sup&gt;[https://archive.org/details/storiesofbreeced00panc]&lt;/sup&gt;
+#*: I start the truck, drive west along the highway built on the dry bed of the Teays. There’s wide bottoms, and the hills on either side have '''yellowy''' billows the sun can’t burn off.</text>
+<sha1>a07z197bd554z4lnadri61yjqkhmorc</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>Xeroid</title>
+<ns>0</ns>
+<id>3775272</id>
+<revision>
+<id>51927199</id>
+<parentid>51366087</parentid>
+<timestamp>2019-03-16T18:58:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="816" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Xerox|oid}}
+===Noun===
+{{en-noun}}
+# {{lb|en|informal}} An [[employee]] of {{w|Xerox}}.
+#* '''1978''', Patrick Firpo, Lester Alexander, Claudia Katayanagi, ''Copyart: the first complete guide to the copy machine'' (page 17)
+#*: A fine equal to the original sales commission is deducted from their paychecks — even if the commission went to a predecessor in that territory. Is it any wonder '''Xeroids''' try harder?
+#* '''2001''', ''The Business Week'' (issues 3739-3746, page 79)
+#*: Skeptics say Mulcahy belongs to the old guard herself, a veteran '''Xeroid''' who started 25 years ago selling copiers. They regard her as part of a past that weighs heavily on Xerox: a culture paralyzed by politics and earlier success.
+===Anagrams===
+* {{anagrams|en|a=deiorx|rexoid}}</text>
+<sha1>clf6zn7g97roc0k84u74554z6iusmdw</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>xusto</title>
+<ns>0</ns>
+<id>1579935</id>
+<revision>
+<id>64035792</id>
+<parentid>55637014</parentid>
+<timestamp>2021-09-25T16:24:24Z</timestamp>
+<contributor>
+<username>Roger the Rodger</username>
+<id>3839861</id>
+</contributor>
+<comment>Adding forms of [[xustu]] ([[WT:ACCEL|Accelerated]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="313" xml:space="preserve">==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{inflection of|ast|xustu||n}}
+----
+==Galician==
+===Etymology===
+From {{inh|gl|roa-opt|justo}}, from {{inh|gl|la|iūstus}}, {{m|la|jūstus}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃus̺t̪ʊ]}}
+===Adjective===
+{{gl-adj|f=xusta}}
+# [[just]], [[fair]]</text>
+<sha1>4q7kzz4bzgazu5vik8jta3b86y7ctbn</sha1>
+</revision>
+</page>

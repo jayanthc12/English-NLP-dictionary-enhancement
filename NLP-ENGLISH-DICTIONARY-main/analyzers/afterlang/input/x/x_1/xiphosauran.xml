@@ -1,0 +1,32 @@
+<page>
+<title>xiphosauran</title>
+<ns>0</ns>
+<id>1625385</id>
+<revision>
+<id>51361105</id>
+<parentid>51348949</parentid>
+<timestamp>2019-01-27T01:53:37Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Arthropods]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="374" xml:space="preserve">==English==
+===Etymology===
+{{m|mul|Xiphosura}} {{suffix|en||an}}
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any of many [[marine]] [[chelicerate]]s of the order [[Xiphosura]], the [[horseshoe crab]]s.
+====Translations====
+{{trans-top|chelicerate}}
+* Finnish: {{t|fi|molukkirapu}}
+{{trans-mid}}
+* Italian: {{t|it|xifosuro|m}}
+{{trans-bottom}}
+[[Category:en:Arthropods]]</text>
+<sha1>e8hevixhsr7f89wfqrdfk2o6svr1zx6</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xaqueta</title>
+<ns>0</ns>
+<id>3690733</id>
+<revision>
+<id>54972328</id>
+<parentid>43846657</parentid>
+<timestamp>2019-10-10T11:31:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="88" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|f|xaquetes}}
+# {{alternative form of|ast|chaqueta}}</text>
+<sha1>o04tc1mgpuogrzd9syt35q7ddgqckog</sha1>
+</revision>
+</page>

@@ -1,0 +1,75 @@
+<page>
+<title>Yakut</title>
+<ns>0</ns>
+<id>513758</id>
+<revision>
+<id>67545138</id>
+<parentid>67414711</parentid>
+<timestamp>2022-06-26T00:02:06Z</timestamp>
+<contributor>
+<ip>86.158.183.14</ip>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2252" xml:space="preserve">{{also|yakut}}
+==English==
+{{wikipedia|Yakuts}}
+{{wikipedia|Sakha language|Yakut language}}
+===Etymology===
+From {{der|en|ru|яку́т}}, from {{der|en|trk-pro|*yaka|t=collar; edge}}. Related to [[:w:Yakut language|Yakut]] {{m|sah|саха}} via earlier *''čaqa'' &lt; *''ǰaqa''. Compare {{cog|tr|yaka||collar}}. The ending -ут possibly contains the Mongol plural suffix; compare {{nc|bua|яхад|tr=jаẋаd|t=Yakuts}}.
+===Pronunciation===
+* {{IPA|en|/jəˈkuːt/|/jəˈkʊt/}}
+===Noun===
+{{en-noun|s|Yakut}}
+# One of a [[Siberian]] people who speak a [[Turkic]] language, and live in the [[Lena]] river basin.
+===Proper noun===
+{{en-proper noun}}
+# The [[language]] of these people.
+====Synonyms====
+* {{l|en|Sakha}}
+====Related terms====
+* {{l|en|Yakutia}}
+====Translations====
+{{trans-top|language}}
+* Armenian: {{t-needed|hy}}
+* Assamese: {{t|as|ভাষা ইয়াকুট}}
+* Buryat: {{t|bua|[[яхад]] [[хэлэн]]}}
+* Chinese:
+*: Mandarin: {{t|cmn|雅庫特語|sc=Hani}}, {{t|cmn|雅库特语|tr=Yǎkùtèyǔ|sc=Hani}}
+* Czech: {{t+|cs|jakutština|f}}
+* Dutch: {{t+|nl|Jakoets}}
+* Esperanto: {{t|eo|jakuto}}
+* Evenki: {{t|evn|якутскай}}, {{t|evn|екэ̄ды}}, {{t|evn|ёкоды|alt=ёко̄ды}}
+* Farefare: {{t|gur|yakutne}}, {{t|gur|yakutre}}
+* Finnish: {{t+|fi|jakuutti}}
+* French: {{t+|fr|yakoute|m}}
+* Georgian: {{t|ka|იაკუტური}}, {{t|ka|სახა}}
+* German: {{t+|de|Jakutisch|n}}
+* Hebrew: {{t|he|יָקוּטִית|sc=Hebr}}
+{{trans-mid}}
+* Irish: {{t|ga|Sachais|f}}
+* Japanese: {{t|ja|ヤクート語|tr=Yakūto-go|sc=Jpan}}
+* Korean: {{t|ko|^야쿠트-어|sc=Kore}}
+* Mongolian:
+*: Modern Mongolian: {{t|mn|[[ᠶᠠᠺᠦ᠋ᠲ]] [[ᠬᠡᠯᠡ]]}}
+*: Cyrillic: {{t|mn|[[якут]] [[хэл]]}}
+* Norwegian: {{t|no|jakutisk}}
+* Polish: {{t+|pl|jakucki|m}}
+* Portuguese: {{t+|pt|iacuto|m}}
+* Russian: {{t+|ru|яку́тский|m}}
+* Spanish: {{t+|es|yakuto|m}}
+* Swedish: {{t+|sv|jakutiska|c}}
+* Turkish: {{t+|tr|Yakutça}}, {{t+|tr|Sahaca}}
+* Yakut: {{t|sah|саха тыла}}, {{t|sah|сахалыы}}
+{{trans-bottom}}
+===See also===
+* {{langcat|sah}}
+===Further reading===
+* {{ISO 639|ref=1|3=sah}}
+* {{ethnologue|sah}}
+[[Category:en:Ethnonyms]]
+[[Category:en:Languages]]</text>
+<sha1>s6cb1hwi94jb8tzo2l51ipz5p0k0oa5</sha1>
+</revision>
+</page>

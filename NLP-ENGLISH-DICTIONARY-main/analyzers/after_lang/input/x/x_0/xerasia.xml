@@ -1,0 +1,25 @@
+<page>
+<title>xerasia</title>
+<ns>0</ns>
+<id>3779929</id>
+<revision>
+<id>67298247</id>
+<parentid>47407380</parentid>
+<timestamp>2022-06-06T12:16:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|ξηρασία}}, from {{m|grc|ξηρός}}.
+===Noun===
+{{en-noun|-}}
+# [[dryness]] and [[brittleness]] of the [[hair]]</text>
+<sha1>aayh5k8odnhihbpbo32dsyc2j4q3750</sha1>
+</revision>
+</page>

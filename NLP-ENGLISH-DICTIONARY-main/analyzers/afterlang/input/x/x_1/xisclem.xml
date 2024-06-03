@@ -1,0 +1,23 @@
+<page>
+<title>xisclem</title>
+<ns>0</ns>
+<id>7091320</id>
+<revision>
+<id>51376508</id>
+<timestamp>2019-01-29T04:07:42Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="196" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=pl|t=pres|m=sub|xisclar}}
+# {{ca-verb form of|p=1|n=pl|m=impr|xisclar}}
+# {{ca-verb form of|p=1|n=pl|m=ind|t=pres|xisclar}}</text>
+<sha1>1p0bunr7w66o06imrpx4f4t8dizhemi</sha1>
+</revision>
+</page>

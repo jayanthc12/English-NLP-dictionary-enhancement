@@ -1,0 +1,26 @@
+<page>
+<title>xustificar</title>
+<ns>0</ns>
+<id>3445303</id>
+<revision>
+<id>68436016</id>
+<parentid>68435927</parentid>
+<timestamp>2022-07-22T21:27:20Z</timestamp>
+<contributor>
+<username>Dunderdool</username>
+<id>3953866</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==Asturian==
+===Pronunciation===
+{{ast-IPA}}
+===Verb===
+{{ast-verb-ar|xustific}}
+# to [[justify]]
+====Conjugation====
+{{ast-conj-car|xustifi}}</text>
+<sha1>jmcjwjtxqwrv8xvcwdnduyltzjkmm26</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yiddishophone</title>
+<ns>0</ns>
+<id>6364323</id>
+<revision>
+<id>67148683</id>
+<parentid>67053052</parentid>
+<timestamp>2022-05-24T09:04:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="121" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|yiddish|-phone}}
+===Noun===
+{{fr-noun|mfbysense}}
+# a person who speaks [[Yiddish]]</text>
+<sha1>rdfs31pzs2jnxjkbzhw64mr4vrhti1s</sha1>
+</revision>
+</page>

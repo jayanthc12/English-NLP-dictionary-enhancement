@@ -1,0 +1,25 @@
+<page>
+<title>xenophyophores</title>
+<ns>0</ns>
+<id>4042748</id>
+<revision>
+<id>69272537</id>
+<parentid>56264180</parentid>
+<timestamp>2022-09-16T06:01:07Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio En-xenophyophores.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="143" xml:space="preserve">==English==
+===Pronunciation===
+* {{audio|en|En-xenophyophores.ogg|Audio}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenophyophore}}</text>
+<sha1>mj7uep9a5ol97lr4ul2r0cu70s6zat6</sha1>
+</revision>
+</page>

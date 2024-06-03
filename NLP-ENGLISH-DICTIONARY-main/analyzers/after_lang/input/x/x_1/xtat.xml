@@ -1,0 +1,30 @@
+<page>
+<title>xtat</title>
+<ns>0</ns>
+<id>2976076</id>
+<revision>
+<id>56035290</id>
+<parentid>51992714</parentid>
+<timestamp>2019-10-17T00:35:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="454" xml:space="preserve">==Hunsrik==
+===Etymology===
+From {{inh|hrx|goh|stat}}, from {{inh|hrx|gem-pro|*stadiz}}, from {{inh|hrx|ine-pro|*stéh₂tis}}. Cognate with {{cog|de|Stadt}}.
+===Pronunciation===
+* {{IPA|hrx|[ʃtat]}}
+===Noun===
+{{head|hrx|noun|g=f}}
+# [[city]]
+#* Bible, Luke 22:10
+#*: {{quote|hrx|Wën tëyer in ti '''xtat''' khomt, en man mit en waser kruuch wil aych pekeechne.|When you come to the '''city''', a man with a water jar will meet you.}}
+{{LDL|hrx}}</text>
+<sha1>kzcllbhtqv8yozh2y29ojvld4f3w3zs</sha1>
+</revision>
+</page>

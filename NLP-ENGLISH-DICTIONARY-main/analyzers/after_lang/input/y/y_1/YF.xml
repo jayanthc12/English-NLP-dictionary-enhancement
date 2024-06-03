@@ -1,0 +1,42 @@
+<page>
+<title>YF</title>
+<ns>0</ns>
+<id>964063</id>
+<revision>
+<id>64069747</id>
+<parentid>58288992</parentid>
+<timestamp>2021-09-30T09:58:08Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>[[User:CrowleyBot/task/1|Fix]] L5 after L3. L5 -&gt; L4: Derived terms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="551" xml:space="preserve">{{also|yF}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{SI-unit-abb|yotta|farad|[[electrical]] [[capacitance]]}}
+----
+==English==
+===Etymology===
+Combination of prefix [[F]] and prefix modifier [[Y]]
+===Noun===
+{{head|en|noun|head=[[Y]][[F]]}}
+# {{lb|en|US|military|aviation}} [[prototype]] [[fighter]] {{qualifier|prefix}}
+====Derived terms====
+* [[YF-17]]
+* [[YF-22A]]
+* [[YF-23B]]
+===See also===
+* [[FB]], [[F/A]]
+* [[RF]], [[QF]], [[XF]]
+* [[YA]], [[YB]], [[YC]], [[YQ]]
+* [[Y-plane]]
+===Anagrams===
+* {{anagrams|en|a=fy|-fy|FY|fy}}</text>
+<sha1>78cc9ae6ri12mxdlx92iwviq0mh9pmo</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinkysymys</title>
+<ns>0</ns>
+<id>4617503</id>
+<revision>
+<id>69318190</id>
+<parentid>52039423</parentid>
+<timestamp>2022-09-18T17:05:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="203" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|kysymys}}
+===Pronunciation===
+{{fi-p|ydin-kysymys}}
+===Noun===
+{{fi-noun}}
+# [[core]] [[question]]
+====Declension====
+{{fi-decl-vastaus|ydinkysymy|ä}}</text>
+<sha1>gmnq6yoc4g6pgi5wxy3qb9szop1qzbc</sha1>
+</revision>
+</page>

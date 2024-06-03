@@ -1,0 +1,35 @@
+<page>
+<title>xinxa</title>
+<ns>0</ns>
+<id>4613610</id>
+<revision>
+<id>67535665</id>
+<parentid>66665413</parentid>
+<timestamp>2022-06-24T21:19:27Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="551" xml:space="preserve">==Catalan==
+===Etymology===
+{{bor+|ca|mxi|*činče}}, itself from {{der|ca|la|cimex|cīmicem}} (cf. {{cog|es|chinche}}). The Catalan singular {{m|ca||xinxa}} is a back-formation from the plural {{m|ca|xinxes}}. Displaced {{cog|roa-oca|címeu}}, which was directly inherited from Latin.&lt;ref&gt;{{R:GDLC}}&lt;/ref&gt;
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[bedbug]]
+====Derived terms====
+{{der3|ca|xinxam|xinxeta|xinxó}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}
+{{C|ca|True bugs}}</text>
+<sha1>pkh9k1p24gjifnx5r59qsbiq177wjik</sha1>
+</revision>
+</page>

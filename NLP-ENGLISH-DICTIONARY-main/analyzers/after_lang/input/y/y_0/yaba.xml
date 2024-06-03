@@ -1,0 +1,123 @@
+<page>
+<title>yaba</title>
+<ns>0</ns>
+<id>289716</id>
+<revision>
+<id>69412550</id>
+<parentid>69068558</parentid>
+<timestamp>2022-10-01T20:52:12Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Sorted L2 languages per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3032" xml:space="preserve">{{also|ya ba}}
+==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|*yāpa(k)}}.
+===Pronunciation===
+* {{IPA|az|[jɑˈbɑ]}}
+* {{hyphenation|az|ya|ba}}
+===Noun===
+{{az-noun}}
+# [[pitchfork]]
+#*: {{quote-web|az|work=Musavat.com|date=August 8, 2016|url=http://musavat.com/news/emisini-bicaqladi-onun-arvadini-ise-yaba-ile-vurdu_368875.html|passage=Qardaşoğlu Rusiyadan gələn [[əmi|əmisini]] bıçaqladı, [[arvad]]ını isə '''yaba''' ilə [[vurmaq|vurub]].|translation=A nephew stabbed his uncle who had come from Russia with a knife, and his [uncle's] wife with a '''pitchfork'''.}}
+====Declension====
+{{az-decl-noun|a}}
+[[Category:az:Tools]]
+----
+==Barngarla==
+===Pronunciation===
+* {{IPA|bjb|/ˈjaba/}}
+===Noun===
+{{head|bjb|noun}}
+# [[hole]]
+===References===
+* [[w:Ghil'ad Zuckermann|Zuckermann, Ghil'ad]] and [[w:Clamor Wilhelm Schürmann|Clamor Wilhelm Schürmann]] (2018). [https://www.barngarla.com/dictionary ''Online Barngarla Dictionary''].
+* [[w:Ghil'ad Zuckermann|Zuckermann, Ghil'ad]] (2016). Barngarla Aboriginal Language Dictionary App. &lt;br&gt; https://play.google.com/store/apps/details?id=org.regenr8.dictionary.barngarla &lt;br&gt; https://apps.apple.com/au/app/barngarla/id1424856161
+----
+==Crimean Tatar==
+===Etymology===
+From {{inh|crh|trk-pro|*yāpa(k)}}.
+===Noun===
+{{crh-noun}}
+# [[pitchfork]] {{q|made of wood}}
+====Declension====
+{{crh-latin-noun|nıñ|ğa|nı|da|dan}}
+====Related terms====
+* {{l|crh|senek}}
+* {{l|crh|toban}}
+----
+==Dongxiang==
+===Etymology===
+{{bor+|sce|zh|-}} {{zh-l|啞巴}}.
+===Pronunciation===
+{{sce-pron|ya'ba}}
+===Noun===
+{{sce-noun}}
+# [[mute]] person; [[dumb]] person
+{{topics|sce|People}}
+----
+==Guugu Yimidhirr==
+===Noun===
+{{head|kky|noun}}
+# [[older]] [[brother]]
+----
+==Nupe==
+[[File:Typical Cavendish bananas in Tanzania.jpg|thumb|'''Yàbàzhì''']]
+===Pronunciation===
+* {{IPA|nup|/jà.bà/}}
+===Noun===
+{{nup-noun|yàbà|yàbàzhì}}
+# [[banana]]
+====Derived terms====
+{{der2|nup
+|yàbàkó &lt;t:plantain&gt;
+|yàbà ànàsara &lt;t:sweet banana&gt;
+|yàbà bèékògi &lt;t:dwarf banana&gt;
+|yàbà tsùntsùnnù &lt;t:unripe banana&gt;
+|yàbà cigbàn &lt;t:banana tree&gt;
+}}
+====Descendants====
+* {{desc|ha|àyàbà|bor=1}}
+** {{desc|bwr|àyàbà|bor=1}}
+{{c|nup|Fruits|Foods}}
+----
+==Phuthi==
+===Etymology===
+From {{inh|bnt-phu|bnt-pro|*-gàba}}.
+===Verb===
+{{bnt-phu-verb|yaba}}
+# to [[share]]
+# to [[distribute]]
+====Inflection====
+{{rfinfl|bnt-phu|verb}}
+----
+==Rawa==
+===Noun===
+{{head|rwo|noun}}
+# [[bed]]
+===References===
+* Norma Toland, Donald Toland, ''[https://web.archive.org/web/20180711152806/http://www-01.sil.org/pacific/png/pubs/928474523695/Rawa_ref_gram.pdf#page=59 Reference Grammar of the Karo/Rawa Language]'' (1991)
+----
+==Spanish==
+===Noun===
+{{es-noun|f}}
+# [[cabbage bark]] (''{{w|Andira inermis}}'')
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Plants}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|trk-pro|*yāpa(k)}}.
+===Noun===
+{{tr-noun|yı|lar}}
+# [[pitchfork]] {{q|made of wood}}
+[[Category:tr:Tools]]</text>
+<sha1>omddncso3hjl8grwuig81448uzmq6oj</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>Yacouh</title>
+<ns>0</ns>
+<id>7228657</id>
+<revision>
+<id>61605102</id>
+<parentid>53140107</parentid>
+<timestamp>2021-01-19T13:06:22Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="201" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{bor|za|cmn|-}} {{zh-l|亞洲}}.
+===Pronunciation===
+* {{za-pron|new_bor=1}}
+===Proper noun===
+{{za-head|proper noun|亞洲|亚洲}}
+# {{place|za|t=Asia|continent}}</text>
+<sha1>o15g2zpr4lmrqf2pk7w897bq78gqlhg</sha1>
+</revision>
+</page>

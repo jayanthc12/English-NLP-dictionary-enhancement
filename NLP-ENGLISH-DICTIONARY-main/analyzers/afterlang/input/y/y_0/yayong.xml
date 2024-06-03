@@ -1,0 +1,28 @@
+<page>
+<title>yayong</title>
+<ns>0</ns>
+<id>6073033</id>
+<revision>
+<id>67167019</id>
+<parentid>54891144</parentid>
+<timestamp>2022-05-27T03:01:13Z</timestamp>
+<contributor>
+<username>Otterfolwer</username>
+<id>3895884</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="235" xml:space="preserve">==Cebuano==
+===Etymology===
+Compare {{m|ceb|bayong}}.
+===Pronunciation===
+* {{hyph|ceb|ya|yong}}
+* {{ceb-IPA}}
+===Verb===
+{{head|ceb|verb}}
+# to [[carry]] together
+# to [[help]] or [[assist]] someone in carrying a single heavy load</text>
+<sha1>s7d8ntyf9z38iwnjwrejtqbh7f42etk</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>ydinasevalta</title>
+<ns>0</ns>
+<id>643626</id>
+<revision>
+<id>58642112</id>
+<parentid>54764320</parentid>
+<timestamp>2020-02-05T15:33:16Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="267" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|valta}}
+===Pronunciation===
+{{fi-pronunciation|ydin-ase*/valta}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear power]] {{gloss|a nation possessing nuclear weapons}}
+====Declension====
+{{fi-decl-kala|ydinaseva|lt|ll|a}}</text>
+<sha1>8rogityff7wjxmj0afkhf3ftamysna9</sha1>
+</revision>
+</page>

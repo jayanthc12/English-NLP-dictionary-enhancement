@@ -1,0 +1,29 @@
+<page>
+<title>yhdensuuntaisprojektio</title>
+<ns>0</ns>
+<id>7206848</id>
+<revision>
+<id>58603430</id>
+<parentid>58593391</parentid>
+<timestamp>2020-01-31T11:44:41Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) use slashes in fi-p to split main components that themselves are compounds</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdensuuntainen|alt1=yhdensuuntais-|projektio}}
+===Pronunciation===
+{{fi-pronunciation|yhden-suuntais/projektio}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|geometry}} [[parallel]] [[projection]]
+====Declension====
+{{fi-decl-valtio|yhdensuuntaisprojektio|a}}</text>
+<sha1>3qc0zzw0kv6guynf9oeiltjfh5ajnfo</sha1>
+</revision>
+</page>

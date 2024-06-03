@@ -1,0 +1,36 @@
+<page>
+<title>xalis</title>
+<ns>0</ns>
+<id>7124563</id>
+<revision>
+<id>64615415</id>
+<parentid>51645077</parentid>
+<timestamp>2021-11-09T21:13:58Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Azerbaijani */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="521" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{bor|az|ar|خَلِيص}}. {{root|az|ar|خ ل ص}}
+===Adjective===
+{{az-adj}}
+# [[pure]] {{gl|free of foreign material or pollutants}}
+#: {{syn|az|təmiz|saf}}
+# [[real]], [[true]]
+#: {{syn|az|əsl}}
+# the [[spitting image]] of
+#: {{uxi|az|'''xalis''' [[ata|atasıdır]]|he is the image of his father; he is a chip off the old block}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=sg|t=pres|m=sub|xalar}}</text>
+<sha1>njld2y5iyk4n7rxhr4dac4z3249buy6</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xanthosine</title>
+<ns>0</ns>
+<id>3062031</id>
+<revision>
+<id>46422439</id>
+<parentid>39429857</parentid>
+<timestamp>2017-06-16T22:52:55Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Applying [[WT:NORM|NORMs]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="327" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-|s}}
+{{wikipedia}}
+# {{lb|en|organic compound}} A [[nucleoside]] derived from [[xanthine]] and [[ribose]].
+#* '''2010''', Bertil B. Fredholm, ''Methylxanthines''
+#*: '''Xanthosine''', the initial substrate of purine alkaloid synthesis, is supplied by at least four different pathways {{...}}</text>
+<sha1>8c7esbzwtw65veu9t1zgswvhcond4ec</sha1>
+</revision>
+</page>

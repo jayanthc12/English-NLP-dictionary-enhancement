@@ -1,0 +1,42 @@
+<page>
+<title>yamamak</title>
+<ns>0</ns>
+<id>6123367</id>
+<revision>
+<id>64716750</id>
+<parentid>53246363</parentid>
+<timestamp>2021-11-23T00:14:49Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="586" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یامامق|tr=yamamak|t=to patch}}, from {{inh|tr|trk-pro|*yama-|t=to patch}}.
+===Verb===
+{{tr-verb|yamar}}
+# {{lb|tr|transitive}} to [[patch]], [[repair]]
+====Conjugation====
+{{tr-conj-v|yam|ı|a|yamar|a}}
+====Related terms====
+{{rel3|tr|yama
+|yamama
+|yamayış
+|yamayıcı
+|yamamış
+|yamayalı
+|yamatmak
+|yamanmak
+|yamaşmak
+|yamamamak
+|yamayabilmek
+|yamayamamak
+}}
+===References===
+* {{R:tut-pro:SDM|*jama-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=1063&amp;root=config}}</text>
+<sha1>dff5rq6fyap8ciw5uteh7bn0m9v2qba</sha1>
+</revision>
+</page>

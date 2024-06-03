@@ -1,0 +1,27 @@
+<page>
+<title>Xanto</title>
+<ns>0</ns>
+<id>3453696</id>
+<revision>
+<id>64713325</id>
+<parentid>59214344</parentid>
+<timestamp>2021-11-22T11:27:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">{{also|xanto|xantó|xanto-}}
+==Italian==
+{{wikipedia|lang=it}}
+===Etymology===
+From {{der|it|la|Xanthus}}.
+===Proper noun===
+{{it-proper noun|m}}
+# [[Xanthus]]</text>
+<sha1>f8984fm20idwscqnk17e4wpv099rxxw</sha1>
+</revision>
+</page>

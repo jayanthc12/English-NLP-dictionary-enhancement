@@ -1,0 +1,38 @@
+<page>
+<title>yellowing</title>
+<ns>0</ns>
+<id>903197</id>
+<revision>
+<id>62683727</id>
+<parentid>55040754</parentid>
+<timestamp>2021-06-06T12:42:39Z</timestamp>
+<contributor>
+<username>Simplificationalizer</username>
+<id>3217536</id>
+</contributor>
+<minor />
+<comment>added [[Category:English verbal nouns]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="602" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yellow|nocat=1}}
+===Noun===
+{{en-noun}}
+# The process of turning yellow.
+#* '''2013''', Robert F. Nyvall, ''Field Crop Diseases Handbook'' (page 419)
+#*: Rusty spotting and '''yellowings''' occur on the lower basal leaves.
+====Derived terms====
+* [[lethal yellowing]]
+====Translations====
+{{trans-top|process of turning yellow}}
+* Dutch: {{t+|nl|vergeling|f}}
+* Finnish: {{t+|fi|kellastuminen}}, {{t|fi|kellertyminen}}
+{{trans-mid}}
+* Portuguese: {{t|pt|amarelamento|m}}
+{{trans-bottom}}
+[[Category:English verbal nouns]]</text>
+<sha1>7we01ggygp907ssa8j6dkip6ef2rlt9</sha1>
+</revision>
+</page>

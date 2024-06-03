@@ -1,0 +1,43 @@
+<page>
+<title>yalamak</title>
+<ns>0</ns>
+<id>2217739</id>
+<revision>
+<id>64757649</id>
+<parentid>63439056</parentid>
+<timestamp>2021-11-27T10:12:53Z</timestamp>
+<contributor>
+<username>İtidal</username>
+<id>3008460</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1040" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یالامق|tr=yalamak||to lick, lick up}}, from {{inh|tr|trk-pro|*yālga-||to lick}}.&lt;ref&gt;{{R:tut-pro:SDM|*jālga-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+307&amp;root=config}}&lt;/ref&gt; Cognate with {{cog|az|yalamaq}}.
+===Verb===
+{{tr-verb|yalar}}
+# {{lb|tr|transitive}} to [[lick]] (to stroke with a tongue), to lick something up
+#: {{ux|tr|''Küçük kızımı yerdeki kırık kavanozdan reçel '''yalarken''' gördüm.''|I saw my little daughter '''while she was licking''' jam from the broken jar on the floor.|inline=1}}
+# {{lb|tr|transitive}} to [[sweep]]
+# to [[graze]] or [[skim]] over, [[pass]] just above or near the surface of
+====Conjugation====
+{{tr-conj-v|yal|ı|a|yalar|a}}
+====Derived terms====
+{{der3|tr|yalama
+|yalayış
+|yalamamak
+|yalayamamak
+|yalayabilmek
+}}
+====Related terms====
+* {{l|tr|yalanmak}}
+* {{l|tr|yalatmak}}
+* {{l|tr|yalaşmak}}
+* {{l|tr|yalak}}
+* {{l|tr|yalaka}}
+===References===
+&lt;references/&gt;</text>
+<sha1>gr057uif2he3fylfy2aa8yj6s2x52ly</sha1>
+</revision>
+</page>

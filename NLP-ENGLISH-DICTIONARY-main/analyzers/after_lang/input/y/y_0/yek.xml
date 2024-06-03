@@ -1,0 +1,58 @@
+<page>
+<title>yek</title>
+<ns>0</ns>
+<id>264748</id>
+<revision>
+<id>64460384</id>
+<parentid>64225272</parentid>
+<timestamp>2021-10-28T12:26:10Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1416" xml:space="preserve">{{also|-yek}}
+==Northern Kurdish==
+===Etymology===
+From {{inh|kmr|ira-pro|*Háywakah}}, derivative of {{der|kmr|ira-pro|*Háywah}}, from {{der|kmr|iir-pro|*Háywas}}. Related to {{cog|fa|یک|tr=yek}}.
+&lt;!-- Or from Persian? --&gt;
+===Pronunciation===
+* {{kmr-IPA}}
+* {{audio|kmr|LL-Q36163 (kmr)-Keyomerd-yek.wav|Audio}}
+* {{hyphenation|kmr|yek}}
+* {{rhymes|kmr|ɛkˤ|s=1}}
+===Numeral===
+{{head|kmr|numeral}}
+# {{cln|kmr|cardinal numbers}} [[one]]
+====References====
+* {{R:ira:ESIJa|*¹aiu̯a-|vol=I|page=136}}
+----
+==Pipil==
+===Etymology===
+Compare {{cog|nci|yēctli||something good}}
+===Pronunciation===
+* {{a|standard}} {{IPA|ppl|/ˈjeːk/}}
+===Adjective===
+{{head|head=yēk|ppl|adjective}}
+# [[good]]
+#: {{ux|ppl|Ini amat sujsul '''yek'''.|This book is really '''good'''.}}
+# good, [[righteous]], [[kind]], [[moral]]
+#: {{ux|ppl|Se takat tesu '''yek''' su tichteki|A man is not '''good''' if he steals}}
+# [[right]], [[correct]]
+#: {{ux|ppl|Tay ne inak ne tamachtiani inte '''yek'''|What the professor said is not '''right'''}}
+# [[healthy]]
+===Adverb===
+{{head|head=yēk|ppl|adverb}}
+# [[well]], [[correctly]]
+#: {{ux|ppl|Te niweli nitachia '''yek''' tik ne mishti|I can't see '''well''' in the mist}}
+#: {{ux|ppl|Kia taketza Nawat '''yek''' ne nueltiw|My sister does speak Nawat (Pipil) '''well'''}}
+----
+==Romani==
+===Numeral===
+{{head|rom|numeral}}
+# {{alt form|rom|from=Anglicized|jekh|t=one}}</text>
+<sha1>5puu45a9v8cf5zxemiv58ngo6qs2o5g</sha1>
+</revision>
+</page>

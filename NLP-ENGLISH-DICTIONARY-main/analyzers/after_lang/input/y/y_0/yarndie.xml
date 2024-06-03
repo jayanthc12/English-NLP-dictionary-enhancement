@@ -1,0 +1,40 @@
+<page>
+<title>yarndie</title>
+<ns>0</ns>
+<id>321279</id>
+<revision>
+<id>65056228</id>
+<parentid>52271620</parentid>
+<timestamp>2021-12-27T02:32:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove categories: English words following the I before E except after C rule</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="819" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|nyandi|yarndi}}
+===Etymology===
+From {{bor|en|wrh|nyaandi||thingamajig, what's-its-name}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|Australian Aboriginal}} [[marijuana|Marijuana]].
+#* '''1984,''' L. Fogarty, ''Ngutji''
+#*: '''Yarndi''' = grass.
+#* '''1990,''' Davis et al., ''Paperbark''
+#*: He made enough to ... keep himself in '''Nyandi''' (herb).
+#* '''1992,''' ''Today,'' Sept.
+#*: It’s just as well it doesn’t depend on our feelings. Good feelings just fade like '''Yarndi''' smoke.
+#* '''1992,''' R. L. Ginibi, ''Real Deadly''
+#*: Ya can’t work hard, drink, and some '''yarndie''' too!
+#* '''1993,''' ''Koori Mail,'' 10 Mar.
+#*: I drank and smoked '''yarndie''' for fourteen years.
+====Synonyms====
+* See also [[Thesaurus:marijuana]]
+{{topics|en|Marijuana}}</text>
+<sha1>k50tpgj27ae08621uhnzxydgabi5f99</sha1>
+</revision>
+</page>

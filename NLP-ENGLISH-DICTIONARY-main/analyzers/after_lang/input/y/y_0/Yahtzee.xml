@@ -1,0 +1,37 @@
+<page>
+<title>Yahtzee</title>
+<ns>0</ns>
+<id>1213823</id>
+<revision>
+<id>69132257</id>
+<parentid>61302917</parentid>
+<timestamp>2022-09-05T14:34:47Z</timestamp>
+<contributor>
+<username>Supevan</username>
+<id>1081674</id>
+</contributor>
+<comment>/* See also */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="681" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Trademarked by the {{w|Milton Bradley Company}} in 1956, as an alteration of &quot;Yatzie&quot;, derived from {{m|en|yacht}} (see {{w|Yacht (dice game)}}).
+===Pronunciation===
+* {{IPA|en|/ˈjɑːtsi/}}
+* {{hyph|en|Yaht|zee}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|dice}} A [[probability]] game where players amass [[score]]s depending on the values of the five [[dice]] they roll.
+===Noun===
+{{en-noun}}
+# In the game of Yahtzee, a five-of-a-kind, where all dice show the same value, which is the highest-scoring combination.
+====See also====
+* {{l|en|Crag}}
+* {{l|en|Generala}}
+* {{l|en|poker dice}}
+* {{l|en|Yacht}}
+* {{l|en|yatzy}}</text>
+<sha1>i0w1hjq9gvkzu1sdv9d1uiz3jicw1lh</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xapial</title>
+<ns>0</ns>
+<id>1438541</id>
+<revision>
+<id>63426935</id>
+<parentid>15664009</parentid>
+<timestamp>2021-07-26T03:19:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[puma]]
+===References===
+* {{R:Wixaleyiñ 2008}}
+[[Category:arn:Mammals]]</text>
+<sha1>13pipr1kzyxhe99i6qlxeb513fksbrb</sha1>
+</revision>
+</page>

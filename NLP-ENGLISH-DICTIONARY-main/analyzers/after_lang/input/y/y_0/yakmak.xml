@@ -1,0 +1,65 @@
+<page>
+<title>yakmak</title>
+<ns>0</ns>
+<id>265007</id>
+<revision>
+<id>66570811</id>
+<parentid>64698957</parentid>
+<timestamp>2022-05-04T05:48:52Z</timestamp>
+<contributor>
+<username>Fay Freak</username>
+<id>3437587</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1661" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jakmak]}}
+* {{hyphenation|tr|yak|mak}}
+===Etymology 1===
+From {{inh|tr|ota|یاقمق|tr=yakmak||to burn}}, from {{inh|tr|trk-pro|*jak-||to burn}}.&lt;ref&gt;{{R:tut-pro:SDM|*jak-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=++13&amp;root=config}}&lt;/ref&gt;
+Cognate with {{cog|xqa||tr=yak-||to burn}}, {{cog|cv|ҫутма||to set on fire, light}}, {{cog|kk|жағу|t=to burn}}, {{cog|ky|жагуу||to burn}}, {{cog|tk|ýakmak||to burn}}, {{cog|ug|ياقماق||to kindle, light}}, {{cog|uz|yoqmoq||to burn}}, {{cog|sah|сах||to strike fire}}.
+====Verb====
+{{tr-verb|yakar}}
+# {{lb|tr|transitive}} to [[light]]; to [[ignite]]; to set fire to, set on [[fire]]
+# {{lb|tr|transitive}} to [[scorch]], [[sear]], [[burn]]
+# {{lb|tr|transitive}} to [[burn down]], [[incinerate]]
+# {{lb|tr|transitive}} to [[turn on]], light (electric lights)
+# {{lb|tr|transitive}} to [[burn]]; to [[irritate]], [[bite]], [[scathe]]
+=====Related terms=====
+* (?) {{l|tr|yanmak}}
+=====Derived terms=====
+{{der4|tr|
+|
+|yakma
+|yakış
+|yakıcı
+|yakıt
+|yakım
+|yakılmak
+|yakınmak
+|yaktırmak
+|yakmamak
+|yakamamak
+|yakabilmek
+|}}
+=====See also=====
+* {{l|tr|ateşe vermek}}
+* {{l|tr|tutuşturmak}}
+===Etymology 2===
+Akin to {{cog|xqa||tr=yak-||to come near, touch, smear on}}, {{cog|ug|ياقماق||to stick, adhere, smear on, apply to}}.
+====Verb====
+{{tr-verb|yakar}}
+# {{lb|tr|transitive}} to [[apply]] to, [[smear]] on
+=====Synonyms=====
+* {{l|tr|sürmek}}
+=====Related terms=====
+* {{l|tr|yakı}}
+===Conjugation===
+{{tr-conj|yak|ı|yakar|a|t}}
+===References===
+&lt;references/&gt;</text>
+<sha1>nyfrcitoza6ho7ffiml9d6ji0xiua9e</sha1>
+</revision>
+</page>

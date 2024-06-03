@@ -1,0 +1,116 @@
+<page>
+<title>Yancheng</title>
+<ns>0</ns>
+<id>7153144</id>
+<revision>
+<id>69471793</id>
+<parentid>69413135</parentid>
+<timestamp>2022-10-08T20:26:57Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 2022 Article; #* {{seemoreCites|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3699" xml:space="preserve">{{also|yǎnchéng|Yǎnchéng}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|{{w|postal romanization}}}} {{l|en|Yencheng}}
+* {{q|from [[Wade-Giles|Wade–Giles]]}} {{l|en|Yen-ch'eng}}, {{l|en|Yen-ch'êng}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|郾城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Luohe|p/Henan|c/China}}.
+=====Translations=====
+{{trans-top|district in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|郾城|tr=Yǎnchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 2===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|鹽城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Jiangsu|c/China}}.
+#* {{quote-book
+|en
+|year=1993
+|origdate=October 1, 1992
+|last=Hau
+|first=Pei-tsun
+|authorlink=Hau Pei-tsun
+|title=Straight Talk
+|url=https://archive.org/details/straighttalk0000haob/
+|location=[[Taipei]]
+|publisher={{w|Government Information Office}}
+|ISBN=957-00-1580-2
+|OCLC=1089286362
+|page=[https://archive.org/details/straighttalk0000haob/page/n16/]
+|text=Hau Pei-tsun was born on August 24, 1919 into an educated, well-to-do farming family in '''Yencheng''' County, Kiangsu Province.
+|brackets=on}}
+=====Translations=====
+{{trans-top|prefecture-level city in eastern China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鹽城|sc=Hani}}, {{t+|cmn|盐城|tr=Yánchéng|sc=Hani}}
+{{trans-mid}}
+* Hungarian: {{t|hu|Jencseng}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 3===
+From {{bor|en|cmn|-}} {{zh-l|鹽埕|tr=Yánchéng}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|district|city/Kaohsiung|c/Taiwan}}.
+#* {{quote-web
+|en
+|date=October 14, 2021
+|last=Blanchard
+|first=Ben
+|title=More than 40 feared dead in fire in southern Taiwan
+|editor=Peter Graff
+|archiveurl=https://web.archive.org/web/20211014074206/https://www.reuters.com/world/asia-pacific/more-than-40-feared-dead-fire-southern-taiwan-2021-10-14/
+|archivedate=14 October 2021
+|work={{w|Reuters}}
+|section=Asia Pacific
+|url2=https://archive.ph/iYqLA
+|text=The fire broke out in the 40-year-old building in Kaohsiung's '''Yancheng''' district in the early hours of the morning and was extinguished around dawn.}}
+#* {{quote-web
+|en
+|date=08/05/2022
+|last=Hung
+|first=Hsueh-kuang
+|author2=Lee Hsin-Yin
+|title=Woman gets life imprisonment for Kaohsiung building fire that killed 46
+|archiveurl=https://web.archive.org/web/20220805143916/https://focustaiwan.tw/society/202208050018
+|archivedate=05 August 2022
+|work={{w|Focus Taiwan}}
+|section=Society
+|text=The fire in the city's '''Yancheng''' District was the second deadliest building fire in Taiwan after a blaze at the Weierkang Club in Taichung that killed 64 people in February 1995.}}
+#* {{quote-web
+|en
+|date=09/24/2022
+|title=Festival kicks off in Kaohsiung to bring new life to old town
+|archiveurl=https://web.archive.org/web/20220924094732/https://focustaiwan.tw/ad/20220924173056
+|archivedate=24 September 2022
+|work={{w|Focus Taiwan}}
+|series=Sponsored Content
+|url2=https://archive.ph/eRANZ
+|text=A multi-day festival featuring exhibitions and music performances kicked off in Kaohsiung's '''Yancheng''' District on Saturday, bringing new life to a district known for its rich cultural and historical heritage.}}
+#* {{seemoreCites|en}}
+=====Translations=====
+{{trans-top|district}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鹽埕|sc=Hani}}, {{t+|cmn|盐埕|tr=Yánchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>gaxq7d029d7kv326br62fydh7uvw5df</sha1>
+</revision>
+</page>

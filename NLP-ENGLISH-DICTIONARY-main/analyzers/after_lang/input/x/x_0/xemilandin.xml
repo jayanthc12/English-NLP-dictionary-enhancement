@@ -1,0 +1,29 @@
+<page>
+<title>xemilandin</title>
+<ns>0</ns>
+<id>3421137</id>
+<revision>
+<id>60833687</id>
+<parentid>43707320</parentid>
+<timestamp>2020-10-12T02:50:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move &quot;Kurdish&quot; lemmas to Northern Kurdish and clean up (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Verb===
+{{kmr-verb|dixemilîne|xemiland}}
+# [[decorate]]
+====Conjugation====
+{{kmr-conj-andin-wp|xemil|||}}
+====Derived terms====
+* {{l|kmr|xemilandî}}, {{l|kmr|xemilîner}}</text>
+<sha1>l73nfn0jj192tzgz5n688lgbsoz4n50</sha1>
+</revision>
+</page>

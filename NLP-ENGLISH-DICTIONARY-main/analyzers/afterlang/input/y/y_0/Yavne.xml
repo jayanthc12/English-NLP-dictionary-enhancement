@@ -1,0 +1,28 @@
+<page>
+<title>Yavne</title>
+<ns>0</ns>
+<id>4766334</id>
+<revision>
+<id>67299777</id>
+<parentid>38363971</parentid>
+<timestamp>2022-06-06T12:43:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|he}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="199" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{uder|en|he|יַבְנֶה}}
+===Proper noun===
+{{en-proper noun}}
+# A [[city]] in the Central District of [[Israel]].
+====Synonyms====
+* {{l|en|Jamnia}}</text>
+<sha1>lm1ael1qlyhkzvq9p7vkw4ibhqnjz49</sha1>
+</revision>
+</page>

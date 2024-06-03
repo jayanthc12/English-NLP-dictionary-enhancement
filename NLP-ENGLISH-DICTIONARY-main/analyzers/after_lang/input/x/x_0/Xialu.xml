@@ -1,0 +1,53 @@
+<page>
+<title>Xialu</title>
+<ns>0</ns>
+<id>7245565</id>
+<revision>
+<id>68536869</id>
+<parentid>67891313</parentid>
+<timestamp>2022-08-04T20:35:59Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 2021 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1353" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsia-lu}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation for {{zh-l|下陸}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Huangshi|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=2021
+|last=Yang
+|first=Hongshan
+|chapter=Reform of Management System for Sub-district Offices
+|title=Urban Governance in Transition
+|url=https://books.google.com/books?id=zgX-DwAAQBAJ
+|publisher={{w|China Renmin University Press}}
+|doi=10.1007/978-981-15-7082-7
+|ISBN=978-981-15-7081-0
+|ISSN=2196-3134
+|OCLC=1158479635
+|page=166
+|pageurl=https://www.google.com/books/edition/Urban_Governance_in_Transition/zgX-DwAAQBAJ?gbpv=1&amp;pg=PA166
+|text=Following the reform in Tieshan district&lt;!--鐵山區--&gt;, the abolition of sub-district offices was also carried out in other districts in the city, including 3 in the '''Xialu''' district in 2011, 4 in Huangshigang district&lt;!--黃石港區--&gt; and 5 in Xisaishan district&lt;!--西塞山區--&gt; in 2012.}}
+====Translations====
+{{trans-top|district in central China}}
+* Chinese:
+*: Mandarin: {{t|cmn|下陸|sc=Hani}}, {{t|cmn|下陆|tr=Xiàlù|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>2d6oba620gi2zypj34a575l3v7f71qy</sha1>
+</revision>
+</page>

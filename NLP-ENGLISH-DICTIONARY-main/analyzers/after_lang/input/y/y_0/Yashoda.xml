@@ -1,0 +1,37 @@
+<page>
+<title>Yashoda</title>
+<ns>0</ns>
+<id>3646027</id>
+<revision>
+<id>68528040</id>
+<parentid>67417360</parentid>
+<timestamp>2022-08-04T07:41:16Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="534" xml:space="preserve">==English==
+{{swp}}
+===Alternative forms===
+* {{alt|en|Yasoda}}
+===Etymology===
+{{translit|en|sa|यशोदा}}. The given name is a {{translit|en|hi|यशोदा|nocap=1}}, etc.
+===Proper noun===
+{{en-prop}}
+# {{lb|en|Hinduism}} The foster mother of [[Krishna]].
+# {{given name|en|female|from=Sanskrit}}.
+====Translations====
+{{trans-top|Yashoda}}
+* Bengali: {{t|bn|যশোদা}}
+* Hindi: {{t+|hi|यशोदा|f}}
+* Oriya: {{t+|or|ଯଶୋଦା}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aadosy|Yadaos}}</text>
+<sha1>l76subcp7thn1jkklh35iofnwv0iso1</sha1>
+</revision>
+</page>

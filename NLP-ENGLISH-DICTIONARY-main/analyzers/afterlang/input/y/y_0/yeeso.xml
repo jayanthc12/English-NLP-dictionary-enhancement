@@ -1,0 +1,28 @@
+<page>
+<title>yeeso</title>
+<ns>0</ns>
+<id>4821141</id>
+<revision>
+<id>68832690</id>
+<parentid>44216309</parentid>
+<timestamp>2022-08-27T23:13:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Fula==
+===Etymology===
+From the root ''[[yees-]]'', related to [[facing]](?).
+===Noun===
+{{ff-noun|ngo|geese|ɗe}}
+# [[face]]
+# [[front]]
+====Usage notes====
+* {{U:ff:common}}</text>
+<sha1>dc60emred6r55wi45xtwq0us21kg5tv</sha1>
+</revision>
+</page>

@@ -1,0 +1,72 @@
+<page>
+<title>yau</title>
+<ns>0</ns>
+<id>1644610</id>
+<revision>
+<id>69134189</id>
+<parentid>61264439</parentid>
+<timestamp>2022-09-05T20:10:36Z</timestamp>
+<contributor>
+<username>GuaraniNeeha</username>
+<id>3967319</id>
+</contributor>
+<comment>/* Mbyá Guaraní */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1054" xml:space="preserve">{{also|Yau|þau}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やう}}
+----
+==Laboya==
+===Etymology===
+From {{inh|lmy|poz-pro|*i-kahu}}, from {{inh|lmy|map-pro|*kaSu}}. Compare {{cog|id|engkau}}.
+===Pronoun===
+{{head|lmy|pronoun}}
+# [[you]] (singular)
+===References===
+* {{r:lmy:rina|page=103}}
+----
+==Mbyá Guaraní==
+===Noun===
+{{head|gun|noun}}
+# [[moss]]
+----
+==San Miguel el Grande Mixtec==
+===Etymology===
+From {{inh|mig|omq-mxt-pro|*yawiʔ}}.
+===Noun===
+{{head|mig|noun}}
+# [[agave]]
+====Derived terms====
+{{col3|mig
+|yau tɨ́cunchī
+}}
+===References===
+* {{R:Dyk &amp; Stoudt 1973|pages=52, 93}}
+----
+==Tok Pisin==
+===Noun===
+{{head|tpi|noun}}
+# {{lb|tpi|anatomy}} [[ear]]
+====Synonyms====
+* {{l|tpi|ia}}
+----
+==Yosondúa Mixtec==
+===Etymology 1===
+From {{inh|mpm|omq-mxt-pro|*yáwì}}.
+====Noun====
+{{head|mpm|noun}}
+# [[hole]]
+# [[cave]]
+===Etymology 2===
+From {{inh|mpm|omq-mxt-pro|*yawiʔ}}.
+====Noun====
+{{head|mpm|noun}}
+# [[maguey]]
+===References===
+* {{R:Farris et al. 2012|page=91}}</text>
+<sha1>5p19wgdyr2j8e7r8r1rj6fbfclta9j6</sha1>
+</revision>
+</page>

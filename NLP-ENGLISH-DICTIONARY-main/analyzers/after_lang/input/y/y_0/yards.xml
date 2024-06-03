@@ -1,0 +1,42 @@
+<page>
+<title>yards</title>
+<ns>0</ns>
+<id>188512</id>
+<revision>
+<id>65073200</id>
+<parentid>62863473</parentid>
+<timestamp>2021-12-29T00:26:49Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="599" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/jɑɹdz/}}
+* {{a|RP}} {{IPA|en|/jɑːdz/}}
+* {{audio|en|en-us-yards.ogg|Audio (US)}}
+* {{rhymes|en|ɑː(ɹ)dz|s=1}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yard}}
+===Noun===
+{{en-plural noun}}
+# {{lb|en|nautical}} The totality of the sailing [[rig]].
+#: ''Her '''yards''' were bare and cockabill.''
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yard}}
+===Anagrams===
+* {{anagrams|en|a=adrsy|Drays|Dryas|Dyars|Radys|drays|dryas}}
+----
+==French==
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|yard}}</text>
+<sha1>oa2ohacdo14auwzepczjt6czxkqauch</sha1>
+</revision>
+</page>

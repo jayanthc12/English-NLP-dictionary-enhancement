@@ -1,0 +1,27 @@
+<page>
+<title>xiphoideus</title>
+<ns>0</ns>
+<id>3440603</id>
+<revision>
+<id>53913781</id>
+<parentid>53730852</parentid>
+<timestamp>2019-08-19T06:03:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Manually fix up Latin adjectives (attributive -&gt; relational)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj|xiphoideus}}
+# {{lb|la|relational}} [[xiphoid]]
+====Declension====
+{{la-adecl|xiphoideus}}
+====Derived terms====
+* {{l|la|processus xiphoideus}}</text>
+<sha1>jns652ppmcjmokkkh1rcspa36gq7f6b</sha1>
+</revision>
+</page>

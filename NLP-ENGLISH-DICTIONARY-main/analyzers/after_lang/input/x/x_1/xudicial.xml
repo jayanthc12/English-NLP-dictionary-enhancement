@@ -1,0 +1,37 @@
+<page>
+<title>xudicial</title>
+<ns>0</ns>
+<id>3754995</id>
+<revision>
+<id>68877010</id>
+<parentid>54279476</parentid>
+<timestamp>2022-08-28T06:36:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="364" xml:space="preserve">==Asturian==
+===Etymology===
+From {{der|ast|la|iūdiciālis}}.
+===Adjective===
+{{ast-adj-mf|pl=xudiciales}}
+# [[judicial]]
+----
+==Galician==
+===Etymology===
+From {{der|gl|la|iūdiciālis}}.
+===Adjective===
+{{gl-adj|pl=xudiciais}}
+# [[judicial]]
+====Derived terms====
+* {{l|gl|extraxudicial}}
+* {{l|gl|xudicialmente}}
+===Further reading===
+* {{R:gl:DRAG}}</text>
+<sha1>roaf7ylnv1ta1m51hu59wwgcdvml89p</sha1>
+</revision>
+</page>

@@ -1,0 +1,48 @@
+<page>
+<title>xabre</title>
+<ns>0</ns>
+<id>1631660</id>
+<revision>
+<id>68861814</id>
+<parentid>68854829</parentid>
+<timestamp>2022-08-28T05:10:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="919" xml:space="preserve">==Galician==
+===Pronunciation===
+* {{IPA|gl|/ˈʃaβɾe̝/}}
+===Etymology 1===
+Probably from {{bor|gl|fro|sable}},&lt;ref&gt;{{R:es:DCECH|parar}}&lt;/ref&gt; from {{der|gl|LL.|sablum}}, a variant form of {{inh|gl|la|sabulo|sabulō, sabulōnem|t=sand}}.
+====Noun====
+{{gl-noun|m}}
+# [[sand]] (collectively, as a material)
+# [[compacted]] [[soil]]
+=====Synonyms=====
+* {{sense|sand}} {{l|gl|area}}, {{l|gl|saibro}}
+* {{sense|soil}} {{l|gl|sábrego}}
+=====Related terms=====
+* {{l|gl|jebra}}
+===Etymology 2===
+From {{bor|gl|fro|jable}},&lt;ref&gt;{{R:es:DCECH|jable}}&lt;/ref&gt; from {{der|gl|LL.|gabulum}}, from {{der|gl|cel-pro|*gablo-|t=fork}}.
+====Noun====
+{{gl-noun|m}}
+# [[slot]] in which the edges of the [[barrel]] lids are fitted
+#: {{syn|gl|releixo}}
+# any other similar [[slot]]
+=====Derived terms=====
+* {{l|gl|xabreiro}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;
+[[Category:gl:Geology]]</text>
+<sha1>0qbqtsb40hwcqygr0nr7ksaod26zpip</sha1>
+</revision>
+</page>

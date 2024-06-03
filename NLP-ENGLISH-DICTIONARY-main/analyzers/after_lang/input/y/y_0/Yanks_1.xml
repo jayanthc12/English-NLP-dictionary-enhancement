@@ -1,0 +1,26 @@
+<page>
+<title>Yanks</title>
+<ns>0</ns>
+<id>476351</id>
+<revision>
+<id>55356558</id>
+<parentid>53092699</parentid>
+<timestamp>2019-10-14T11:57:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">{{also|yanks}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yank}}
+===Anagrams===
+* {{anagrams|en|a=aknsy|nasky|sanky|snaky}}</text>
+<sha1>gr9xj3n9l1o68n6tkwg6e8lh4jktm4k</sha1>
+</revision>
+</page>

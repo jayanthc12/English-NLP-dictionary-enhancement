@@ -1,0 +1,37 @@
+<page>
+<title>xanthelasmoidea</title>
+<ns>0</ns>
+<id>4567132</id>
+<revision>
+<id>66994973</id>
+<parentid>62167779</parentid>
+<timestamp>2022-05-15T09:45:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthelasmoīdeus}} (4); combine {{inflection of|la|xanthelasmoīdeus}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xanthelasmoīdeus}} tag sets nom|f|s and voc|f|s into nom//voc|f|s; combine {{inflection of|la|xanthelasmoīdeus}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="603" xml:space="preserve">==English==
+===Etymology===
+From a combination of {{noncog|en|-}} and {{der|en|mul|-}} {{suffix|en|xanthelasma|oidea}}.
+===Noun===
+{{en-noun|-}}
+# a disease resembling [[xanthelasma]], which leaves [[yellowish]] or [[brownish]] [[patches]] on the [[skin]]
+====Synonyms====
+* {{l|en|vitiligoidea}}
+====Derived terms====
+* Translingual: {{l|mul|xanthelasmoideus}}
+----
+==Latin==
+===Noun===
+{{la-noun-form|xanthelasmoīdea}}
+# {{inflection of|la|xanthelasmoīdeus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+===Noun===
+{{la-noun-form|xanthelasmoīdeā}}
+# {{inflection of|la|xanthelasmoīdeus||abl|f|s}}</text>
+<sha1>2temojpfms8guievs74vntrfkz89u7w</sha1>
+</revision>
+</page>

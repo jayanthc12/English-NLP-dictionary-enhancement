@@ -1,0 +1,27 @@
+<page>
+<title>Xoogler</title>
+<ns>0</ns>
+<id>4998524</id>
+<revision>
+<id>62256858</id>
+<parentid>61835582</parentid>
+<timestamp>2021-03-27T13:17:10Z</timestamp>
+<contributor>
+<ip>2600:387:0:9A2:0:0:0:15</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="820" xml:space="preserve">==English==
+===Etymology===
+From {{m|en|ex-}} and {{m|en|Googler}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|informal}} A former [[employee]] of the [[Google]] corporation.
+#: {{cot|en|Googler|Noogler}}
+#* '''2007''', ''The Economist'' (volume 384, page 58)
+#*: Older Googlers with families tend to like it less, because &quot;everybody, even young mums, works seven days a week.&quot; Another '''Xoogler''', who held a senior position, says that by trying to create a &quot;Utopia&quot; of untrammelled creativity, Google ended up with &quot;dystopia&quot;.
+#* {{quote-text|en|year=2012|author=Brian Clifton|title=Advanced Web Metrics with Google Analytics|page=205|passage=As a search marketer, '''Xoogler''' (ex-Googler), and now web consultant, I have seen both sides of the “Google fence,” and that has been fascinating.}}
+[[Category:en:Google]]</text>
+<sha1>16bvv1lp5dyrf58l4t4bpfwd2i3yvgl</sha1>
+</revision>
+</page>

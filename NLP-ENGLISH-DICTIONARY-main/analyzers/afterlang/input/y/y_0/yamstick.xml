@@ -1,0 +1,31 @@
+<page>
+<title>yamstick</title>
+<ns>0</ns>
+<id>1205689</id>
+<revision>
+<id>58523999</id>
+<parentid>42832729</parentid>
+<timestamp>2020-01-24T04:50:34Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="386" xml:space="preserve">==English==
+===Alternative forms===
+* [[yam-stick]]
+* [[yam stick]]
+===Etymology===
+{{compound|en|yam|stick}}
+===Noun===
+{{en-noun}}
+# A rod-shaped implement used by the [[aboriginal]] people of Australia to dig [[yam]] and as a combat weapon.
+#: ''She thrust her '''yamstick''' into the hard ground to reach the prized tuber.''
+===Anagrams===
+* {{anagrams|en|a=acikmsty|kymatics}}</text>
+<sha1>ivdmlw7xqof4xdr63j8r4hj6j7iywax</sha1>
+</revision>
+</page>

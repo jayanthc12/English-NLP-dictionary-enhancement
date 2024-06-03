@@ -1,0 +1,34 @@
+<page>
+<title>yhdistyslaki</title>
+<ns>0</ns>
+<id>3551522</id>
+<revision>
+<id>69318379</id>
+<parentid>61735700</parentid>
+<timestamp>2022-09-18T17:15:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1183" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhdistys|laki|gloss1=association|gloss2=law|id2=law}}
+===Pronunciation===
+{{fi-p|yhdistys-laki}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[association|Associations]] [[act|Act]] {{qualifier|official translation of the Finnish act}}, [[association|Association]] [[law|Law]] {{qualifier|Australia}}, [[not-for-profit|Not-for-profit]] [[corporation|Corporations]] [[act|Act]] {{qualifier|Canada}} {{gloss|law that regulates the way the [[NGO]] associations [[govern]] themselves and [[interact]] with the society in general}}
+====Declension====
+{{fi-decl-risti|yhdistysla|k||a}}
+====See also====
+* {{l|fi|rekisteröity yhdistys}}
+* {{l|fi|yhdistysrekisteri}}
+====References====
+* The full text of the Finnish '''''Yhdistyslaki''''' or &quot;Associations Act&quot; (in Finnish and Swedish) 503/1989 [http://www.finlex.fi/fi/laki/alkup/1989/19890503] is permanently archived in [[w:fi:Finlex|Finlex's]] electronic archive.
+* An English translation of the Act is available at the pages of the National Board of Patents and Registration of Finland [https://web.archive.org/web/20130301134602/http://www.prh.fi/en/yhdistysrekisteri/yhdistyslaki.html].</text>
+<sha1>0xb8kvwgy1t7mdkj0i9b2fma89igpct</sha1>
+</revision>
+</page>

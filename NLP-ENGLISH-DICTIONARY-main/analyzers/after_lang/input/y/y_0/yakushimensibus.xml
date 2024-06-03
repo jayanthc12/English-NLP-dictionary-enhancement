@@ -1,0 +1,23 @@
+<page>
+<title>yakushimensibus</title>
+<ns>0</ns>
+<id>3419742</id>
+<revision>
+<id>66995439</id>
+<parentid>57077006</parentid>
+<timestamp>2022-05-15T09:48:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|yakushimēnsis}} (5); combine {{inflection of|la|yakushimēnsis}} tag sets dat|m|p and dat|f|p into dat|m//f|p; combine {{inflection of|la|yakushimēnsis}} tag sets dat|m//f|p and dat|n|p into dat|m//f//n|p; combine {{inflection of|la|yakushimēnsis}} tag sets abl|m|p and abl|n|p into abl|m//n|p; combine {{inflection of|la|yakushimēnsis}} tag sets abl|m//n|p and abl|f|p into abl|m//n//f|p; combine {{inflection of|la|yakushimēnsis}} tag sets dat|m//f//n...</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="118" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|yakushimēnsibus}}
+# {{inflection of|la|yakushimēnsis||dat//abl|m//f//n|p}}</text>
+<sha1>eaou44jljoobxl4hkg5gf6wh05tky6l</sha1>
+</revision>
+</page>

@@ -1,0 +1,47 @@
+<page>
+<title>xoia</title>
+<ns>0</ns>
+<id>4068246</id>
+<revision>
+<id>68864582</id>
+<parentid>68863797</parentid>
+<timestamp>2022-08-28T05:29:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1097" xml:space="preserve">==Galician==
+===Etymology===
+Attested since circa 1300. From Old Galician and {{inh|gl|roa-opt|joya}} (independently attested in both corpora), from {{der|gl|fro|joie}}, from {{m|fro|joiel}} (modern {{m|fr|joyau}}), from {{der|gl|VL.|*jocale}}, from {{der|gl|la|iocus|jocus}}. {{doublet|gl|xoel}}.
+Compare {{cog|pt|joia}} and {{cog|es|joya}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃɔjɐ]}}
+===Noun===
+{{gl-noun|f}}
+# [[jewel]]; [[ornament]] made with [[precious metal]]s and/or [[gemstone]]s
+#* '''c1300''', R. Martínez López (ed.), ''General Estoria. Versión gallega del siglo XIV''. Oviedo: Archivum, page 234:
+#*: ''tomou Eliezer de suas '''joyas''' hũ par de serçelos douro''
+#*:: Eliezer took a pair of golden earrings from among his '''jewels'''
+#: {{syn|gl|alfaia}}
+# [[gem]]; [[jewel]]
+#: {{syn|gl|xema}}
+# {{lb|gl|figurative}} [[gem]]; [[treasure]]
+#: {{syn|gl|tesouro}}
+====Derived terms====
+* {{l|gl|miñaxoia}}
+====Related terms====
+* {{l|gl|xoiaría}}
+* {{l|gl|xoieiro}}
+===References===
+* {{R:gl:DDGM|joya}}
+* {{R:gl:CX|joya}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>j30kwdyti0winnxt91n93xdy8sokbqd</sha1>
+</revision>
+</page>

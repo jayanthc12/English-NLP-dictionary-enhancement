@@ -1,0 +1,26 @@
+<page>
+<title>yerbatera</title>
+<ns>0</ns>
+<id>6927673</id>
+<revision>
+<id>69433256</id>
+<parentid>60737068</parentid>
+<timestamp>2022-10-03T02:56:33Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Moved forms below lemmas</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="179" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|f|m=yerbatero}}
+# {{female equivalent of|es|yerbatero}}
+===Adjective===
+{{head|es|adjective form|g=f}}
+# {{feminine singular of|es|yerbatero}}</text>
+<sha1>k0csjyb98cab23hdyeglnlmlkgetbi1</sha1>
+</revision>
+</page>

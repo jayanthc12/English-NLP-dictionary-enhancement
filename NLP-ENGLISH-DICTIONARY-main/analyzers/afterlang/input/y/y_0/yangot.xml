@@ -1,0 +1,30 @@
+<page>
+<title>yangot</title>
+<ns>0</ns>
+<id>5697859</id>
+<revision>
+<id>56410775</id>
+<parentid>44523257</parentid>
+<timestamp>2019-10-18T01:29:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Tagalog==
+===Pronunciation 1===
+* {{IPA|tl|/ja.ˈŋot/|/ˈja.ŋot/}}
+===Noun===
+{{tl-noun}}
+# thick beard
+===Pronunciation 1===
+* {{IPA|tl|/ja.ˈŋot/}}
+===Noun===
+{{tl-noun}}
+# [[impoverishment]]; [[abasement]]; [[lowering]] of [[status]]</text>
+<sha1>3h9grd68dv2pfuhmwagz18l47ehq512</sha1>
+</revision>
+</page>

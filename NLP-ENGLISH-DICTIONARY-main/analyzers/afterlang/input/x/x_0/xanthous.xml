@@ -1,0 +1,49 @@
+<page>
+<title>xanthous</title>
+<ns>0</ns>
+<id>76092</id>
+<revision>
+<id>69594648</id>
+<parentid>67286160</parentid>
+<timestamp>2022-10-25T20:49:52Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1872" xml:space="preserve">==English==
+{{was wotd|2009|February|18}}
+===Etymology===
+From {{uder|en|grc|ξανθός||yellow}}.
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈzæn.θəs/}}
+* {{audio|en|en-us-xanthous.ogg|Audio (US)}}
+* {{rhymes|en|ænθəs|s=2}}
+===Adjective===
+{{en-adj|-}}
+# [[yellow|Yellow]]-[[brown]]; [[yolk]]-colored.
+#* {{quote-book|en|1983|Dorothea Liebermann-Meffert, ''et al.''|The Greater Omentum|page=131|text=Absorbent fatty '''xanthous''' histiocytes and '''xanthous''' granulations are observed in the marginal area of necrosis of the fatty tissue{{...}}}}
+# {{lb|en|archaic|ethnology}} Pertaining to people with yellowish, red, auburn, or brown hair.&lt;!--commented out the following: I think it is a misunderstanding from the single citation below; compare Webster 1913: &quot;lighter than usual for their [[race]] or [[ethnicity]], as a result of [[recessive]] [[allele]]s.&quot;--&gt;
+#* {{quote-book|en|1841|James Cowles Prichard ''et al.''|Researches Into the Physical History of Mankind|page=227|text=The '''xanthous''' variety springs up out of every black-haired race.}}
+#* {{quote-book|en|1842|James Laurie|System of Universal Geography: Founded on the Works of Malte-Brun and Balbi|location=London|publisher=Stevenson &amp; Co.|page=106|url=https://books.google.com/books?id=QusRAAAAYAAJ&amp;pg=PA106|text={{...}} the '''xanthous,''' or fair class, comprises those who have brown, auburn, yellow, flaxen, or red hair; {{...}}}}
+====Antonyms====
+* {{sense|pertaining to people}} {{l|en|leucous}}, {{l|en|melanous}}
+====Related terms====
+* {{l|en|xanthic}}
+====Translations====
+{{trans-top|yellow-brown}}
+* Bulgarian: {{t+|bg|жълт}}
+* Finnish: {{t+|fi|kellanruskea}}
+* French: {{t+|fr|ocre}}, {{t+|fr|ochracé}}
+* Norwegian: {{t+|no|gusten}}
+{{trans-mid}}
+* Polish: {{t+|pl|żółtobrązowy|m}}
+* Russian: {{t+|ru|жёлтый}}
+* Spanish: {{t+|es|ocre}}
+{{trans-bottom}}</text>
+<sha1>otgi2xvvlzpbzbbv2kfzgrsxymyh60m</sha1>
+</revision>
+</page>

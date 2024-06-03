@@ -1,0 +1,32 @@
+<page>
+<title>xeroftalmie</title>
+<ns>0</ns>
+<id>1605830</id>
+<revision>
+<id>68793353</id>
+<parentid>62822235</parentid>
+<timestamp>2022-08-27T14:14:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xeroftalmia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xérophtalmie}}.
+===Noun===
+{{ro-noun|f|xeroftalmii}}
+# [[xerophthalmia]]
+====Declension====
+{{ro-noun-f-ie|xeroftalmi}}</text>
+<sha1>a0vk70qwpc9saar9iconly45sxxhhnh</sha1>
+</revision>
+</page>

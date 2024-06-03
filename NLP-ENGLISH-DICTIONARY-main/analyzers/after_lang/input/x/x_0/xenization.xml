@@ -1,0 +1,37 @@
+<page>
+<title>xenization</title>
+<ns>0</ns>
+<id>809576</id>
+<revision>
+<id>67537091</id>
+<parentid>67536943</parentid>
+<timestamp>2022-06-25T01:23:14Z</timestamp>
+<contributor>
+<username>Apisite</username>
+<id>3661059</id>
+</contributor>
+<comment>Undo revision 67536943 by [[Special:Contributions/Scarlett's letters|Scarlett's letters]] ([[User talk:Scarlett's letters|talk]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5419" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|ization}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|linguistics}} The [[borrow]]ing and [[integration]] of [[foreign]] [[linguistic]] elements into a [[language]].
+#* {{quote-journal|en|year=2016|work=Известия Волгоградского государственного |title=Разговорная речь и разговорный стиль интернет-эпохи (English abstract)|author=ТН Колокольцева |volume=|number=|passage=The article deals with the basic categories of the elevated style and the tactics to implement them: 1) techniques that help to avoid the associations that do not correspond to the idea of the beautiful; 2) various types of amplification that make speech ample. The techniques of the elevated pronunciation style form a system that is integrated into the mechanism of elevating. Such techniques are slow speech tempo, as well as the '''xenization''' of pronunciation by means of orthoepic borrowings from culturally prestigious languages.}}
+#* {{quote-journal|en|year=2017|work=Russian Linguistics|title=On stylistic devices as style elevators in the Russian language|author=Vasilij Moskvin |volume=41|number=|passage=As well as this, the paper depicts the tactics surrounding their implementation in speech: 1) transfers that connect the inner form of the nominative units with the spheres of these categories; 2) ways of renaming ('''xenization''', archaizing and others), that remove the association of the everyday and other associations that are incompatible with the idea of beauty from the notions; 3) various types of amplification which make the speech discursive, which is in line with the quantitative assessment of the category of the sublime (I. Kant). }}
+#* {{quote-journal|en|year=2019|work=AIP Conference Proceedings |title=Dynamics of development and approaches to the temporal periodization of the standard German idiom|author=Yuriy V. Kobenko, Petr I. Kostomarov, Elena V. Shitkova, Anastasia V. Moreva, Natalia A. Karpova, Elena S. Riabova, and Svetlana S. Taydonova|volume=2135|number=|passage= The core point of the theory of exoglossy is the concept of a “pendulum”, which assumes compensation for deviations of the language system towards a certain pole: the degree of '''xenization''' (integration of Foreign elements) corresponds to the degree of the subsequent archaization of the recipient language system  (preservation of  its own elements) and vice versa}}
+# {{lb|en|biology}} The process of integrating an [[organism]] into an environment containing other types of organisms.
+#: {{antonyms|en|axenization}}
+#* {{quote-journal|en|year=1961 |work=Nature|title=Fluctuations in hormone activity in Brachyura larvae|author=JD Costlow - |volume=|number=|passage=A.'''xenization''' was accomplished by rinsing the worms 3 times in sterile distilled water, followed by their transfer to 10 ml. antibiotic solution (1,000 units potassium penicillin G and 100 y streptomycin sulphate per ml.);}}
+#* {{quote-journal|en|year=1994|month=January |work=Parasitology Today|title=Is phagocytosis related to virulence in Entamoeba histolytica Schaudinn, 1903?|author=I Montfort, R Pérez-Tamayo |volume=10|number=7|passage=Another possible mechanism to explain  the 'healthy carrier' state would be through a transient decrease in amebic virulence, and this possibility is suggested by the common observation of loss of virulence in prolonged axenic cultures of pathogenic strains of E. histolytica, which is reversible by different means (eg. '''xenization''' of the cultures, treatment with cholesterol, or with serum complement, and passage through liver).}}
+#* {{quote-journal|en|year=2008|month=August|work=PLoS neglected tropical diseases |title=Entamoeba Shows Reversible Variation in Ploidy under Different Growth Conditions and between Life Cycle Phases|author=Chandrama Mukherjee, C. Graham Clar, Anuradha Lohia|volume=2|number=8|page=2|passage=For re-'''xenization''', the axenic cells were re-associated with the bacterial flora obtained from the original xenic cultures, and grown in LYSGM as above [18].}}
+# The act of spending time in a foreign culture.
+#* {{quote-journal|en|year=20??|work=Men's Journal|title=A Case for Taking a Solo Trip|author=Bill Heavey|volume=|number=|passage='''Xenization''' is the act of traveling alone as a stranger in a foreign land. When one writer was 17, he traveled alone to Europe for the first time, to wash dishes in Gstaad, Switzerland, for the summer. }}
+#* {{quote-book|en|year=2011 |title=Vindico: I Am Liberation |author=Alex McCann Johnson |page=48 |ISBN=|passage=He noticed that Logan was smiling at his dullness and asked, &quot;What are you used to doing for fun?&quot; “Well, obviously not traveling in '''xenization''' like you! I don't actually do much. I have fun and stuff, but I try to stay at home and do what needs to be done. Plus, my roommate and my godson keep me occupied.&quot;}}
+#* {{quote-journal|en|date=November 4, 2019|work=Song Bar|title=Word of the Week|author=|volume=|number=|passage= In the 19th century a period of '''xenization''' was encouraged in young adulthood of the monied classes as a key part of education to gain a worldly perspective.}}
+#* {{quote-book|en|year=2020 |title=A Nameless Person: Poetry|author=|page= |ISBN=|passage=Already accepting The life of an unclear face Her only purpose is '''xenization'''}}</text>
+<sha1>svnmuvzfhr3vds3yykxlsff8np68qpc</sha1>
+</revision>
+</page>

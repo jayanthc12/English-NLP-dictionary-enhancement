@@ -1,0 +1,29 @@
+<page>
+<title>Xamaica</title>
+<ns>0</ns>
+<id>1610034</id>
+<revision>
+<id>59590791</id>
+<parentid>45065037</parentid>
+<timestamp>2020-06-23T02:33:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{place}} for North American countries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Asturian==
+{{wikipedia|lang=ast}}
+===Proper noun===
+{{ast-proper noun|f}}
+# {{place|ast|island/and/country|r/Caribbean|t1=Jamaica}}
+----
+==Galician==
+===Proper noun===
+{{gl-proper noun|f}}
+# {{place|gl|island/and/country|r/Caribbean|t1=Jamaica}}</text>
+<sha1>nlpstmsxfuhwtahotm31fvpjmvgwvn6</sha1>
+</revision>
+</page>

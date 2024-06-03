@@ -1,0 +1,26 @@
+<page>
+<title>Xixiasaurus</title>
+<ns>0</ns>
+<id>7347234</id>
+<revision>
+<id>60313484</id>
+<parentid>54094208</parentid>
+<timestamp>2020-09-06T21:21:07Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="285" xml:space="preserve">==Translingual==
+{{wikipedia}}
+===Etymology===
+From {{der|mul|cmn|-}} {{zh-l|西峽||{{w|Xixia County}}, Henan}} + {{af|mul|-saurus}}.
+===Proper noun===
+{{taxoninfl|g=m|i=1}}
+# {{taxon|genus|family|Troodontidae|a [[theropod]] [[dinosaur]] from the Late [[Cretaceous]] of [[China]]}}</text>
+<sha1>q7xjfj9nn6johkvci49ahh2z7m9wfhs</sha1>
+</revision>
+</page>

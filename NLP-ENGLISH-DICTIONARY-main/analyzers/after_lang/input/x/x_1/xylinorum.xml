@@ -1,0 +1,23 @@
+<page>
+<title>xylinorum</title>
+<ns>0</ns>
+<id>4151619</id>
+<revision>
+<id>56274917</id>
+<parentid>23188841</parentid>
+<timestamp>2019-10-17T11:09:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="88" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xylinōrum}}
+# {{inflection of|la|xylinum||gen|p}}</text>
+<sha1>swqrqbn5xxhtxi9mhgq2ubnq7o90f43</sha1>
+</revision>
+</page>

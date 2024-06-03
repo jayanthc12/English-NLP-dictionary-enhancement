@@ -1,0 +1,41 @@
+<page>
+<title>xiuitl</title>
+<ns>0</ns>
+<id>485601</id>
+<revision>
+<id>65321325</id>
+<parentid>64402757</parentid>
+<timestamp>2022-01-12T05:48:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Huasteca Nahuatl: correct misformatted language section divider at end; Central Nahuatl: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="667" xml:space="preserve">==Central Huasteca Nahuatl==
+===Noun===
+{{head|nch|noun}}
+# [[year]].
+===References===
+* Isidro Reyes, Valentín (2012); [http://200.23.113.51/pdf/28573.pdf ''Vocabulario nauatl-español, material de apoyo para la enseñanza de la lengua nauatl''], Ixtapalapa variant from Yahualica, Hidalgo, Universidad Pedagógica Nacional, Área de diversidad intercultural, Mexico City, Mexico. Page 70.
+----
+==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[year|Year]].
+[[Category:nhn:Time]]
+----
+==Classical Nahuatl==
+===Noun===
+{{nci-noun|i}}
+# {{obsolete spelling of|nci|xihuitl}}
+----
+==Western Huasteca Nahuatl==
+===Noun===
+{{head|nhw|noun}}
+# [[year]].</text>
+<sha1>hfjuum5qkrd3dpxrv0awpd6t64leitu</sha1>
+</revision>
+</page>

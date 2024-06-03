@@ -1,0 +1,27 @@
+<page>
+<title>yalungi</title>
+<ns>0</ns>
+<id>4323064</id>
+<revision>
+<id>51943366</id>
+<parentid>31649282</parentid>
+<timestamp>2019-03-17T00:05:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="373" xml:space="preserve">==Wanyi==
+===Etymology===
+{{suffix|wny|yalu|t1=they|ngi|t2=dative suffix}}
+===Pronoun===
+{{head|wny|pronoun}}
+# {{non-gloss definition|third-person plural pronoun, dative case}}
+===References===
+* Mary Laughren, Rob Pensalfini, Tom Mylne, ''Accounting for verb-initial order in an Australian language'', in ''Verb First: On the syntax of verb-initial languages'' (2005)</text>
+<sha1>og0hcs96vps31h73yms0ztqmy7kjdj1</sha1>
+</revision>
+</page>

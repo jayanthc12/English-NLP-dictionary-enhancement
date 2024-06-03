@@ -1,0 +1,47 @@
+<page>
+<title>yacca</title>
+<ns>0</ns>
+<id>2136930</id>
+<revision>
+<id>67293347</id>
+<parentid>65863259</parentid>
+<timestamp>2022-06-06T10:49:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|tnq}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1101" xml:space="preserve">==English==
+===Etymology 1===
+Borrowed from {{bor|en|es|yaca}}, from {{uder|en|tnq|-}}.
+{{rfi|en}}
+====Noun====
+{{en-noun}}
+# Either of two large [[evergreen]]s of the [[West Indies]], {{taxlink|Podocarpus coriaceus|species|noshow=1}} and {{taxlink|Podocarpus purdicanus|species|noshow=1}}.
+====Further reading====
+* {{pedia|Podocarpus}}
+===Etymology 2===
+Transferred sense from {{bor|en|zku|yagu||pine gum}}, referring to the resinous exudation from yacca trunks.
+&lt;ref&gt;Bruce Moore ''The Australian National Dictionary'' (Melbourne: OUP) 2016.&lt;/ref&gt;
+[[File:Xanthorrhoea_semiplana_-_Anstey_Hill.JPG|thumb|A '''yacca''']]
+====Alternative forms====
+* {{l|en|yacka}}, {{l|en|yakka}}
+====Noun====
+{{en-noun}}
+# {{lb|en|AU}} Any of the various Australian [[perennial]] flowering plants of the genus ''[[Xanthorrhoea]]''
+=====Synonyms=====
+* {{l|en|grasstree}}, {{l|en|grass tree}}
+* {{l|en|blackboy}}
+====Further reading====
+* {{pedia|Xanthorrhoea}}
+* {{specieslite|Xanthorrhoea}}
+====References====
+&lt;references/&gt;
+[[Category:en:Asparagales order plants]]
+[[Category:en:Podocarpus family plants]]</text>
+<sha1>tskswr8i7dltqi0pkov8f5cvuehdi1u</sha1>
+</revision>
+</page>

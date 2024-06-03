@@ -1,0 +1,47 @@
+<page>
+<title>yetkili</title>
+<ns>0</ns>
+<id>3669157</id>
+<revision>
+<id>65238085</id>
+<parentid>63024136</parentid>
+<timestamp>2022-01-08T02:32:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Turkish: correct indentation of section 3 (Synonyms) to 4 and section 4 (Antonyms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="560" xml:space="preserve">==Turkish==
+===Etymology===
+From {{suffix|tr|yetki|li}}.
+===Pronunciation===
+* {{IPA|tr|/jet.ci.li/}}
+* {{hyphenation|tr|yet|ki|li}}
+====Synonyms====
+* {{l|tr|salahiyetli}} {{qualifier|obsolescent}}
+====Antonyms====
+* {{l|tr|yetkisiz}}
+===Adjective===
+{{tr-adj}}
+# [[authorised]], [[authorized]], [[authoritative]]
+# [[commissioned]]
+===Noun===
+{{tr-noun|yi|ler}}
+# [[authority]]
+====Derived terms====
+{{der4|tr|yetkilice
+|yetkilicik
+|yetkilili
+|yetkilisiz
+|yetkiliyken
+|yetkiliyle
+|yetkiliyse
+}}
+====Declension====
+{{tr-infl-noun-v|i|poss=1|pred=1}}</text>
+<sha1>cs53rs3mq1lrrc6cr2a8isjlle1u4uu</sha1>
+</revision>
+</page>

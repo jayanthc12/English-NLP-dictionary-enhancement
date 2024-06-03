@@ -1,0 +1,32 @@
+<page>
+<title>Xtianity</title>
+<ns>0</ns>
+<id>216154</id>
+<revision>
+<id>67287593</id>
+<parentid>64901221</parentid>
+<timestamp>2022-06-06T08:53:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1012" xml:space="preserve">==English==
+===Etymology===
+1634,&lt;ref&gt;{{R:OED}}&lt;/ref&gt; from {{m|en|Christianity}}, replacing {{m|en|Christ}} with the abbreviation {{m|en|Xt}} (from {{uder|en|grc|Χ||pos=the letter chi}}, the first letter of {{m|grc|Χριστός||[[Christ]]}} + {{m|en|t}}, the last letter of &quot;Christ&quot;). Compare the more common {{m|en|Xmas}}.
+===Noun===
+{{en-noun|-}}
+# {{alternative form of|en|Xianity||abbreviation of {{m|en|Christianity}}}}
+#* {{quote-book|en|date=December 14, 1950|author=C. S. Lewis|title=Letter to Sheldon Vanauken|url=http://books.google.com/books?id=f3mR0-_rUJQC&amp;pg=PA117|passage=I believe Buddhism to be a simplification of Hinduism and Islam to be a simplification of '''Xtianity'''.}}
+====Usage notes====
+As with {{m|en|Xmas}} and {{m|en|Xianity}}, as of the late 20th century this term may be considered informal and potentially disrespectful, though it was traditionally an unobjectionable scribal abbreviation.
+===References===
+&lt;references/&gt;
+[[Category:en:Atheism]]
+[[Category:en:Hindutva]]</text>
+<sha1>rve69sfxkq2inkfkv29do4a1gr0nvw9</sha1>
+</revision>
+</page>

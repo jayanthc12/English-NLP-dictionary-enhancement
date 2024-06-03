@@ -1,0 +1,25 @@
+<page>
+<title>xemo</title>
+<ns>0</ns>
+<id>1485721</id>
+<revision>
+<id>63426947</id>
+<parentid>44991744</parentid>
+<timestamp>2021-07-26T03:20:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==Mapudungun==
+===Adjective===
+{{head|arn|adjective}} {{arn-sp|r}}
+# [[healthy]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>lbipnttukgrnjok4rqqacevf07enwd0</sha1>
+</revision>
+</page>

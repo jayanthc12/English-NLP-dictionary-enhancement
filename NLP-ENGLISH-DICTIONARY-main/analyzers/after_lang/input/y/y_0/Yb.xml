@@ -1,0 +1,38 @@
+<page>
+<title>Yb</title>
+<ns>0</ns>
+<id>32968</id>
+<revision>
+<id>66177953</id>
+<parentid>62022996</parentid>
+<timestamp>2022-03-19T17:58:40Z</timestamp>
+<contributor>
+<username>Koavf</username>
+<id>5455</id>
+</contributor>
+<comment>/* Translingual */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="624" xml:space="preserve">{{also|yb|YB}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{lb|mul|element symbol}} Symbol for [[ytterbium]].
+{{C|mul|Lanthanide series chemical elements}}
+----
+==English==
+===Symbol===
+{{en-symbol}}
+# {{lb|en|computing|formal}} [[yottabit]] {{gloss|1000 [[zettabit]]s or 1000&lt;sup&gt;8&lt;/sup&gt; [[bit]]s}}
+# {{lb|en|computing|informal}} [[yobibit]] {{gloss|2&lt;sup&gt;10&lt;/sup&gt; (1024) [[zebibit]]s or 2&lt;sup&gt;80&lt;/sup&gt; (1024&lt;sup&gt;8&lt;/sup&gt;) [[bit]]s}}
+====Alternative forms====
+* {{l|en|Ybit}}
+====Related terms====
+* {{l|en|Yib}}, {{l|en|Yibit}}
+* {{l|en|YB}}
+* {{l|en|YiB}}
+===Anagrams===
+* {{anagrams|en|a=by|-by|b'y|by|by-}}</text>
+<sha1>rdwcol1w1fjsg3tmczgjmz0llx0e85b</sha1>
+</revision>
+</page>

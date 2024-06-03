@@ -1,0 +1,50 @@
+<page>
+<title>Yama</title>
+<ns>0</ns>
+<id>1084737</id>
+<revision>
+<id>69073320</id>
+<parentid>68697678</parentid>
+<timestamp>2022-09-03T23:44:08Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1052" xml:space="preserve">{{also|yama|yamá|yàmá}}
+==English==
+[[File:Yama deva.JPG|thumb|right|250px|Yama]]
+{{wikipedia}}
+===Etymology===
+From {{bor|en|sa|यम|tr=yáma}}. {{doublet|en|Enma}}.
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|Hinduism}} The Hindu [[lord]] of [[death]], who rides a [[buffalo]].
+====Translations====
+{{trans-top|the Hindu lord of death, who rides a buffalo}}
+* Burmese: {{t+|my|ယာမာ}}
+* Chinese:
+*: Cantonese: {{t|yue|閻魔|sc=Hani}}, {{t|yue|阎魔|tr=jim4 mo1|sc=Hani}}
+*: Mandarin: {{t|cmn|閻摩}}, {{t|cmn|阎摩|tr=Yánmó}}
+* Hindi: {{t+|hi|यम|m}}, {{t+|hi|यमराज|m}}
+* Japanese: {{t+|ja|閻魔|tr=えんま, Enma}}
+* Khmer: {{t|km|យម}}
+{{trans-mid}}
+* Korean: {{t+|ko|^염마}}
+* Malayalam: {{t+|ml|യമൻ}}
+* Punjabi: {{t|pa|ਯਮ}}
+* Russian: {{t+|ru|Я́ма|m}}
+* Sanskrit: {{t+|sa|यम|m}}
+* Telugu: {{t+|te|యముడు}}
+* Thai: {{t|th|ยม}}
+* Urdu: {{t|ur|یم|m|tr=yam}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aamy|Amya|Ayam|Maya|amay|maya}}
+[[Category:en:Hindu deities]]</text>
+<sha1>2knih6r2i7othocs5zdzymzwsn45e3d</sha1>
+</revision>
+</page>

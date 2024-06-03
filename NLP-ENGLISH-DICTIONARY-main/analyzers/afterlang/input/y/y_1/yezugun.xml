@@ -1,0 +1,33 @@
+<page>
+<title>yezugun</title>
+<ns>0</ns>
+<id>1527582</id>
+<revision>
+<id>63427001</id>
+<parentid>53444292</parentid>
+<timestamp>2021-07-26T03:20:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[obey]].
+# To [[bring]] a [[message]].
+# {{inflection of|arn|yezugun||1|s|realis|form}}
+====Synonyms====
+* {{sense|obey}} {{l|arn|mvgeltun}}
+* {{sense|obey}} {{l|arn|feyentun}}
+* {{sense|obey}} {{l|arn|tagkvn}}
+====See also====
+* {{l|arn|yefazugun}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>fpiue58nykrh3ax9nr5zm8eczuv6pnw</sha1>
+</revision>
+</page>

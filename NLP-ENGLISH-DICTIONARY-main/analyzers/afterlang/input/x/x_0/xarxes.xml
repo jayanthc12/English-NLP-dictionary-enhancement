@@ -1,0 +1,23 @@
+<page>
+<title>xarxes</title>
+<ns>0</ns>
+<id>1191369</id>
+<revision>
+<id>55526629</id>
+<parentid>44766314</parentid>
+<timestamp>2019-10-15T05:07:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xarxa}}</text>
+<sha1>7ldtm4pr6440ctxkcq8idd3gwwl44l0</sha1>
+</revision>
+</page>

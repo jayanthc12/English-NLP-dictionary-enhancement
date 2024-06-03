@@ -1,0 +1,33 @@
+<page>
+<title>yesso</title>
+<ns>0</ns>
+<id>4807528</id>
+<revision>
+<id>65007900</id>
+<parentid>56353174</parentid>
+<timestamp>2021-12-21T06:57:06Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<minor />
+<comment>/* Old Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="621" xml:space="preserve">==Old Spanish==
+===Etymology===
+From {{inh|osp|la|gypsum}}, from {{der|osp|grc|γύψος}}.
+===Pronunciation===
+* {{IPA|osp|/ˈjeso/}}
+===Noun===
+{{osp-noun|m|-}}
+# [[gypsum]]
+#* '''c. 1250:''' [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 82v.
+#*: DEl .xxv. grado del ſigno de capricornio, es la piedra aque dizen del '''yeſſo'''. Piedra es blanda ¬ de color bláca ¬ ligera de quebrantar.
+#*:: Of the twenty-fifth degree of the sign of Capricorn is the stone they call '''gypsum'''. It is a soft stone, white in color, and easy to break apart.
+====Descendants====
+* {{desc|es|yeso}}
+[[Category:osp:Minerals]]</text>
+<sha1>1ncksvcatuyjgmjcxy0nkqpwfbputj3</sha1>
+</revision>
+</page>

@@ -1,0 +1,57 @@
+<page>
+<title>xornal</title>
+<ns>0</ns>
+<id>1609794</id>
+<revision>
+<id>68862153</id>
+<parentid>68861517</parentid>
+<timestamp>2022-08-28T05:12:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2942" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|m|xornales}}
+# [[wage]], [[salary]]
+----
+==Galician==
+{{wikipedia|lang=gl}}
+[[File:Acción coruñesa, periódico defensor de los intereses de la capital de Galicia. 1 de noviembre de 1920. n. 1.jpg|thumb|''Acción Coruñesa''.]]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jornal}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|diurnalis}}. Cognate with {{cog|pt|jornal}}, {{cog|ast|xornal}}, {{cog|es|jornal}}, {{cog|fr|journal}}.
+===Noun===
+{{gl-noun|m|xornais}}
+# a [[day]]'s [[work]]
+#* '''1378''', M. M. Graña Cid (ed.), ''Las órdenes mendicantes en el obispado de Mondoñedo. El convento de san Martín de Villaoriente (1374-1500)''. Separata de Estudios Mindonienses, page 159:
+#*: ''Et outrosy, se as casas quaeren ou arderen ou falleçeren en nosas vidas de nos as tres pesoas, por alguna maneira, que nos et os fraires que foren ao dito tenpo en no dito llugar, que as corregamos de pormedeo et tanben todo o outro llavor qual quier que y ouuer mester, que seia prol das ditas casas, que se faça senpre de pormedeo, nos et vos, saluo se for tal llauor que non aia y mester mays que hun '''jornal''', que o façamos nos por nosa custa''
+#*:: And also, if the houses collapse or burn or fail during the lifetime of we three, in any way, then we and the friars that at that time were at that place must correct them, jointly, and also any other work which could be needed for the benefit of these houses, all must be made always jointly, we and you, except if it is such a work that it would take no more than a '''day's work''', them we must make it by ourselves
+#: {{syn|gl|xeira}}
+# [[wage]], [[salary]]
+#* '''1417''', A. Rodríguez González (ed.), ''Libro do Concello de Santiago (1416-1422)''. Santiago de Compostela: Consello da Cultura Galega, page 61:
+#*: ''Mandaron ao dito Bernaldo Yanes que pagase a Alvaro da Rocha, pedreiro, por seu '''jornal''' nove maravedis a III dineiros, cada dia''
+#*:: They ordered the aforementioned Bernaldo Yanes to pay Álvaro da Rocha, stonemason, as his '''wage''', nine maravedis, each one of III denaries, each day
+# [[journal]], [[diary]]
+#: {{syn|gl|diario}}
+# [[newspaper]], [[news]]
+# {{lb|gl|now|regional}} a traditional [[unit]] of [[land]] area originally denoting a day's work in a vineyard
+#* '''1447''', J. García Oro (1987), &quot;Viveiro en los siglos XIV y XV. La Colección Diplomática de Santo Domingo de Viveiro&quot;, ''Estudios Mindonienses'', 3, page 93:
+#*: ''diso que el levava e leva en Vilares que he en esta dita freguesia hunna casa e nove '''jornaes''' de vinnas con ela''
+#*:: he said that that he worked and works, in Vilares which is in this parish, a house with nine ''jornals'' of vine with it
+====Derived terms====
+* {{l|gl|xornaleiro}}
+====Related terms====
+* {{l|gl|xornada}}
+===References===
+* {{R:gl:DDGM|jornal}}
+* {{R:gl:CX|jorna}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>26vtcukdtx0ptkiognstkqxjf1n9jqx</sha1>
+</revision>
+</page>

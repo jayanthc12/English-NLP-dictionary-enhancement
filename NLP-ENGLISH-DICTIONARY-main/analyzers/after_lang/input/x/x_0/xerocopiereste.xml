@@ -1,0 +1,23 @@
+<page>
+<title>xerocopiereste</title>
+<ns>0</ns>
+<id>758080</id>
+<revision>
+<id>55891016</id>
+<parentid>45754769</parentid>
+<timestamp>2019-10-16T08:03:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Italian==
+===Verb===
+{{head|it|verb form}}
+# {{inflection of|it|xerocopiare||2|p|cond}}</text>
+<sha1>e0s3gqb3owko18jetwgtg4h9np4s0ii</sha1>
+</revision>
+</page>

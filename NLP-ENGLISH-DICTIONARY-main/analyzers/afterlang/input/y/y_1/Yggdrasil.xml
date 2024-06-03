@@ -1,0 +1,71 @@
+<page>
+<title>Yggdrasil</title>
+<ns>0</ns>
+<id>928036</id>
+<revision>
+<id>67163553</id>
+<parentid>66121898</parentid>
+<timestamp>2022-05-26T14:14:28Z</timestamp>
+<contributor>
+<username>Mnemosientje</username>
+<id>1793585</id>
+</contributor>
+<comment>/* Translations */ a) that's old saxon and b) it's dumb to conflate irminsul w yggdrasil</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4042" xml:space="preserve">==English==
+[[File:Yggdrasil.jpg|thumb|An illustration depicting Yggdrasil, by Oluf Olufsen Bagge, for 1847, ''Northern Antiquities'', an English translation of the Prose Edda]]
+===Alternative forms===
+* {{alter|en|Yggdrasill}}
+===Etymology===
+Borrowed from {{bor|en|non|Yggdrasill}}; commonly accepted as being composed {{m|non|yggr||terrible}} + {{m|non|drasill||steed}}, where “steed” refers to a hanging tree or possibly from {{m|ine-pro|*dʰer-||to hold, support}}.
+===Pronunciation===
+* {{IPA|en|/ˈɪɡdɹəsɪl/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-Yggdrasil.wav|Audio (Berkshire, UK)}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|Norse mythology}} An immense [[ash]] [[tree]] that is central in [[Norse]] [[cosmology]], believed to connect the nine worlds.
+#* '''1863''', ''The London Quarterly Review'', Volumes 113-114, [https://books.google.com.au/books?id=IuwRAAAAYAAJ&amp;pg=RA1-PA117&amp;dq=%22yggdrasil%22&amp;hl=en&amp;sa=X&amp;ei=kAYmVd2XGYPo8gX_uYCwCQ&amp;redir_esc=y#v=onepage&amp;q=%22yggdrasil%22&amp;f=false page 117],
+#*: Yet it is not easy to pluck out the heart of its mystery; and the descriptions of certain ancient representatives of '''Yggdrasil''' do not lessen the difficulty.
+#* '''1963''', [[w:Spike Milligan|Spike Milligan]], ''[[w:Puckoon|Puckoon]]'', chapter 1, page 1,
+#*: With nostrils and legs akimbo, she towered over him like some human '''Yggdrasill''', blotting out the sun.
+#* '''1996''', Carolyne Larrington (editor and translator), ''The Seeress's Prophecy'', ''[[w:Poetic Edda|The Poetic Edda]]'', [https://books.google.com.au/books?id=nBzuQZ4MCPIC&amp;pg=PA6&amp;dq=%22I+know+that+an+ash-tree+stands+called+Yggdrasill,%22&amp;hl=en&amp;sa=X&amp;ei=0wMmVd_wIMLg8AW8n4CYCA&amp;ved=0CDYQ6AEwBA#v=onepage&amp;q=%22I%20know%20that%20an%20ash-tree%20stands%20called%20Yggdrasill%2C%22&amp;f=false page 6],
+#*: I know that an ash-tree stands called '''Yggdrasill''',
+#*: a high tree, soaked with shining loam;
+#*: from there come the dews which fall in the valley,
+#*: ever green, it stands over the well of fate.
+#* '''2007''', Bob Curran, Ian Daniels, ''Walking with the Green Man: Father of the Forest, Spirit of Nature'', [https://web.archive.org/web/20160311040930/https://books.google.com.au/books?id=mRAYt2Q6CcIC&amp;pg=PA66&amp;dq=%22yggdrasil%22&amp;hl=en&amp;sa=X&amp;ei=kAYmVd2XGYPo8gX_uYCwCQ&amp;redir_esc=y#v=onepage&amp;q=%22yggdrasil%22&amp;f=false page 66],
+#*: In Norse mythology, for example, the World Tree, or '''Yggdrasil''', connected the nine existences that straddled the worlds of gods and men with its mighty roots. '''Yggdrasil''' was reputedly a gigantic ash tree (and was the central feature of Norse cosmology), around the base of which the serpent Níôhöggr had twisted its body.
+#* '''2007''', J. A. Hunsinger, ''The Settlers: An Axe of Iron Novel'', [https://web.archive.org/web/20160310090550/https://books.google.com.au/books?id=p-u4Kq4Md3wC&amp;pg=PA333&amp;dq=%22yggdrasil%22&amp;hl=en&amp;sa=X&amp;ei=kAYmVd2XGYPo8gX_uYCwCQ&amp;redir_esc=y#v=onepage&amp;q=%22yggdrasil%22&amp;f=false page 333],
+#*: “'''Yggdrasil'''!” Gudbjartur's voice was filled with awe. “It is '''Yggdrasil''', the world-tree!” He looked at Halfdan, his eyes wide. “The Sacred Grove is here in this land!”
+====Translations====
+{{trans-top|the world tree in Norse mythology}}
+* Armenian: {{t|hy|Իգգդրասիլ}}
+* Azerbaijani: {{t|az|İqqdrasil}}
+* Bulgarian: {{t|bg|Игдрасил}}
+* Georgian: {{t|ka|იგდრასილი}}
+* Greek: {{t|el|Ύγκντρασιλ|n|sc=Grek}}
+* Icelandic: {{t|is|Yggdrasils}}
+* Japanese: {{t|ja|ユグドラシル|tr=Yugudorashiru|sc=Jpan}}
+{{trans-mid}}
+* Latvian: {{t|lv|Igdrasils}}
+* Lithuanian: {{t|lt|Igdrasilas}}
+* Low German:
+*: Dutch Low Saxon: {{t|nds-nl|Jegdrasiel}}
+* Old Norse: {{t|non|Yggdrasill}}
+* Russian: {{t+|ru|Иггдрасиль|n}}
+* Ukrainian: {{t|uk|Іґґдрасілль}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia}}
+[[Category:en:Mythological plants]]
+----
+==Faroese==
+===Etymology===
+From {{der|fo|non|Yggdrasill}}.
+===Proper noun===
+{{head|fo|proper noun}}
+# {{lb|fo|mythology}} [[#English|Yggdrasil]]</text>
+<sha1>s5agq7sxy3v0kryyrg1fr0z58fb193e</sha1>
+</revision>
+</page>

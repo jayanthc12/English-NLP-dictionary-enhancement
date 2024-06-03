@@ -1,0 +1,23 @@
+<page>
+<title>xunten</title>
+<ns>0</ns>
+<id>1213424</id>
+<revision>
+<id>56582650</id>
+<parentid>34989405</parentid>
+<timestamp>2019-10-18T08:09:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||3|p|pres|subj}}</text>
+<sha1>9p6ojk9s9s8ofqlr89ojd2ph9daq7qb</sha1>
+</revision>
+</page>

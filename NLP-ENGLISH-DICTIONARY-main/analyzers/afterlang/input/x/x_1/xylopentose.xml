@@ -1,0 +1,23 @@
+<page>
+<title>xylopentose</title>
+<ns>0</ns>
+<id>7210035</id>
+<revision>
+<id>55025403</id>
+<parentid>52666101</parentid>
+<timestamp>2019-10-11T14:13:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative form of|en|xylopentaose}}</text>
+<sha1>idfgv4jbkjcynyzw5v3nlsx8s8u8kib</sha1>
+</revision>
+</page>

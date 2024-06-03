@@ -1,0 +1,31 @@
+<page>
+<title>xwaringeh</title>
+<ns>0</ns>
+<id>3393162</id>
+<revision>
+<id>62506582</id>
+<parentid>60848778</parentid>
+<timestamp>2021-05-10T23:33:03Z</timestamp>
+<contributor>
+<username>Balyozxane</username>
+<id>3654675</id>
+</contributor>
+<comment>/* Declension */ bi [[wikt:ku:MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]ê re</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="271" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+From {{suffix|kmr|xwarin|geh}}.
+===Pronunciation===
+* {{kmr-IPA}}
+* {{hyphenation|kmr|xwa|rin|geh}}
+===Noun===
+{{kmr-noun|f}}
+# [[restaurant]]
+====Declension====
+{{kmr-decl-noun|f}}
+====Derived terms====
+* {{l|kmr|xwaringehvan}}</text>
+<sha1>c6fo8w1422ilwhpzqiu28srcw04dr8m</sha1>
+</revision>
+</page>

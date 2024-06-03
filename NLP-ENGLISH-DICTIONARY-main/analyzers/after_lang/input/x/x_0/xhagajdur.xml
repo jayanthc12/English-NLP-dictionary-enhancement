@@ -1,0 +1,29 @@
+<page>
+<title>xhagajdur</title>
+<ns>0</ns>
+<id>3168287</id>
+<revision>
+<id>60250520</id>
+<parentid>57792208</parentid>
+<timestamp>2020-09-04T21:06:58Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==Albanian==
+===Pronunciation===
+* {{IPA|sq|/dʒaɡajˈduɹ/}}
+===Etymology===
+From {{bor|sq|it|giocatore}}.
+===Noun===
+{{sq-noun|m|xhagajdurë|xhagajduri|xhagajdurët}}
+# {{lb|sq|colloquial}} a [[cocky]] and [[belligerent]] [[braggart]], [[bully]] or [[troublemaker]]
+====Declension====
+{{sq-noun-m|ë|i}}</text>
+<sha1>0c45wf6w1rq88iab4qvpynd5umo2087</sha1>
+</revision>
+</page>

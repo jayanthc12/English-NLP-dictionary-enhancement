@@ -1,0 +1,41 @@
+<page>
+<title>yemeni</title>
+<ns>0</ns>
+<id>251469</id>
+<revision>
+<id>65405970</id>
+<parentid>55373463</parentid>
+<timestamp>2022-01-21T19:13:15Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Turkish */ etymology</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="672" xml:space="preserve">{{also|Yemeni|yemení}}
+==Turkish==
+[[File:Kalkan market 2.JPG|thumb|218px|right|yemeni]]
+===Etymology===
+From {{inh|tr|ota|یمنی}}, from {{der|tr|ar|يَمَنِي|t=Yemeni}}.
+{{root|tr|ar|ي م ن}}
+===Pronunciation===
+* {{IPA|tr|[jɛmɛni]}}
+===Noun===
+{{tr-noun|yi|ler}}
+# a [[traditional]] [[headscarf]] worn on the head for [[warmth]], [[cleanliness]] or [[fashion]].
+====Declension====
+{{tr-infl-noun-v|i|poss=1}}
+====Descendants====
+* {{desc|el|γεμενί}}
+====See also====
+* {{l|tr|tülbent}}
+* {{l|tr|baş örtüsü}} / [[başörtü]]
+* {{l|tr|çember}}
+* {{l|tr|yazma}}
+===References===
+* {{R:tr:Nishanyan}}
+* {{R:ota:Redhouse|یمنی|page=2210}}</text>
+<sha1>6i72hkkgjw35x763eenjspnjj41yn90</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yatapoxvirus</title>
+<ns>0</ns>
+<id>3391301</id>
+<revision>
+<id>60454001</id>
+<parentid>46439754</parentid>
+<timestamp>2020-09-21T07:18:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">{{also|Yatapoxvirus}}
+==English==
+===Noun===
+{{en-noun}}
+{{wikipedia}}
+# Any of a group of [[poxvirus]]es including [[Tanapox]].</text>
+<sha1>ixh785j3ij6oyqocgabjtsr7pz38i7h</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yerbaluisas</title>
+<ns>0</ns>
+<id>4834369</id>
+<revision>
+<id>55751077</id>
+<parentid>33068562</parentid>
+<timestamp>2019-10-15T15:12:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yerbaluisa}}</text>
+<sha1>nhp3x41nf2jsvslofp1omacdyk0tcik</sha1>
+</revision>
+</page>

@@ -1,0 +1,43 @@
+<page>
+<title>yamuk</title>
+<ns>0</ns>
+<id>1577220</id>
+<revision>
+<id>69593024</id>
+<parentid>55636249</parentid>
+<timestamp>2022-10-25T15:48:55Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="629" xml:space="preserve">==Nungon==
+===Noun===
+{{head|paa-nun|noun}}
+# [[water]]
+===Further reading===
+* Hannah Sarvasy, ''A Grammar of Nungon: A Papuan Language of Northeast New Guinea'' (2017, {{ISBN|9004340106}}
+----
+==Remontado Agta==
+===Etymology===
+From {{inh|agv|phi-pro|*lamuk}}, from {{inh|agv|poz-pro|*ñamuk}},{{m|poz-pro|*lamuk}}
+===Noun===
+{{head|agv|noun|head=yamúk}}
+# [[mosquito]]
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|/jaˈmuk/}}
+===Adjective===
+{{tr-adj}}
+# [[lopsided]]
+===Noun===
+{{tr-noun|2=lar|def-acc=yamuğu}}
+# [[trapezium]]
+====Declension====
+{{tr-infl-noun-c|u|stem=yamuğ}}
+[[Category:tr:Geometry]]</text>
+<sha1>4vl7lcoytiiz4x17a6fye1963w3l78z</sha1>
+</revision>
+</page>

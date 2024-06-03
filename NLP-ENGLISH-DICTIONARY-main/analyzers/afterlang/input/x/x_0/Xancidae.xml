@@ -1,0 +1,28 @@
+<page>
+<title>Xancidae</title>
+<ns>0</ns>
+<id>252021</id>
+<revision>
+<id>67082592</id>
+<parentid>51832500</parentid>
+<timestamp>2022-05-19T21:55:42Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==Translingual==
+===Etymology===
+{{taxlink|Xancus|genus|noshow=1}} {{suffix|mul||idae}}
+===Proper noun===
+{{taxoninfl}}
+# {{lb|mul|dated}} {{taxon|family|order|Sorbeoconcha|now the subfamily {{taxlink|Turbinellinae|subfamily|noshow=1}} of [[marine]] [[gastropod]]s}}
+===References===
+* {{pedia|Turbinellinae}}
+* {{specieslite|Turbinellinae}}
+* {{comcatlite|Turbinellidae}}</text>
+<sha1>hm0ezvlqognhcpb9u7t4m0qlphss9go</sha1>
+</revision>
+</page>

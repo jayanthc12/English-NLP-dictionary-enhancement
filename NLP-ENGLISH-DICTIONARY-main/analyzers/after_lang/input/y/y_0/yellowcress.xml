@@ -1,0 +1,27 @@
+<page>
+<title>yellowcress</title>
+<ns>0</ns>
+<id>4487799</id>
+<revision>
+<id>65020075</id>
+<parentid>52037125</parentid>
+<timestamp>2021-12-23T00:23:18Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Crucifers]]; added [[Category:en:Cardamineae tribe plants]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="297" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yellow|cress}}
+===Noun===
+{{en-noun|-}}
+# {{taxlink|Rorippa palustris|species|noshow=1}}, a [[flowering plant]] in the [[mustard]] family.
+# Any other plant in the [[genus]] {{taxlink|Rorippa|species|noshow=1}}
+[[Category:en:Cardamineae tribe plants]]</text>
+<sha1>9vn0nvm1fs5ksbibe8d8zg9fbrd1zt4</sha1>
+</revision>
+</page>

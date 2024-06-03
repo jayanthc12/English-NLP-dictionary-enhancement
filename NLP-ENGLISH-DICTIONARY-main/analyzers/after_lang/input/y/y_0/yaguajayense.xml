@@ -1,0 +1,31 @@
+<page>
+<title>yaguajayense</title>
+<ns>0</ns>
+<id>5968175</id>
+<revision>
+<id>62188519</id>
+<parentid>62164390</parentid>
+<timestamp>2021-03-19T07:59:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{es-adj-old}} to new {{es-adj}} format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="625" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# {{lb|es|relational}} of {{w|Yaguajay}} {{gl|a municipality of Cuba}}
+#* {{quote-journal|es|year=|date=December 2 2016|author=|title=Fidel en Sancti Spíritus|work=Juventud Rebelde|url=http://www.juventudrebelde.cu/cuba/2016-12-01/fidel-en-sancti-spiritus/
+|passage=También su pasión por el beisbol motivó su presencia en territorio '''yaguajayense''', más específicamente en la comunidad Dalia, cerca de Venegas, el 28 de julio de 1968.}}
+===Noun===
+{{es-noun|mf}}
+# an inhabitant of the municipality of {{w|Yaguajay}}, Cuba
+{{C|es|Demonyms}}</text>
+<sha1>jkoa2bs2wdg64l7ethaihcmb1x1r1a9</sha1>
+</revision>
+</page>

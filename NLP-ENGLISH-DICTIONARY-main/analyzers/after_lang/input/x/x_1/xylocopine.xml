@@ -1,0 +1,31 @@
+<page>
+<title>xylocopine</title>
+<ns>0</ns>
+<id>1444391</id>
+<revision>
+<id>54384927</id>
+<parentid>51578414</parentid>
+<timestamp>2019-09-29T03:32:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="897" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia|Xylocopinae}}
+{{wikispecies|Xylocopinae}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|bees}} In the subfamily {{taxlink|Xylocopinae|subfamily|noshow=1}} of [[carpenter]] bees.
+#* {{quote-journal|en|date=February 6, 2009|author=Elizabeth Pennisi|title=EVOLUTIONARY BIOLOGY: Agreeing to Disagree|work=Science|url=http://www.sciencemag.org/cgi/content/full/323/5915/706|doi=10.1126/science.323.5915.706|volume=323|issue=5915|pages=706-708
+|passage=Wilson thinks today's eusocial species likely had ancestors similar to a Japanese stem-nesting '''xylocopine''' bee, ''Ceratina flavipes''. Most of the time females make do on their own, but every once in a while, they pair up and divide the labor, setting the stage for a &quot;group&quot; to outdo individuals and for the tendency to form groups to be favored.}}
+====Related terms====
+* {{l|en|xylocopid}}
+[[Category:en:Bees]]</text>
+<sha1>2s32i0fadk1mbuherzje127bnpcbdeu</sha1>
+</revision>
+</page>

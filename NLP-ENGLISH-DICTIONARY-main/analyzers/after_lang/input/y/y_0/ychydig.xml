@@ -1,0 +1,39 @@
+<page>
+<title>ychydig</title>
+<ns>0</ns>
+<id>3342390</id>
+<revision>
+<id>64460347</id>
+<parentid>64075588</parentid>
+<timestamp>2021-10-28T12:24:42Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="938" xml:space="preserve">==Welsh==
+===Etymology===
+From {{m|cy|fychydig}}, soft mutation of {{m|cy|bychydig}} (compare {{m|cy|ap}} &lt; {{m|cy|mab}}, {{m|cy|'y}} &lt; {{m|cy|fy}}),&lt;ref&gt;{{R:cy:Morris Jones|section=110 iii (2)}}&lt;/ref&gt; from {{suffix|cy|bychod|-ig|t1=small quantity}}.&lt;ref&gt;{{R:cy:Morris Jones|section=169 v}}&lt;/ref&gt;
+===Pronunciation===
+* {{a|standard}} {{IPA|cy|/əˈχədɪɡ/}}
+** {{a|colloquial}} {{IPA|cy|/ˈχədɪɡ/}}
+* {{rhymes|cy|ədɪɡ|s=2}}
+===Noun===
+{{cy-noun|m|-}}
+# [[little]], [[a little]]
+#: {{ux|cy|'''ychydig''' iawn o amser|inline=1|very '''little''' time}}
+#: {{ux|cy|'''ychydig''' rhagor|inline=1|a '''little''' more}}
+===Determiner===
+{{head|cy|determiner}} {{qualifier|triggers soft mutation}}
+# [[few]], [[a few]]
+#: {{ux|cy|un o'r '''ychydig''' artistiaid|inline=1|one of the '''few''' artists}}
+#: {{ux|cy|'''ychydig''' &lt;u&gt;f&lt;/u&gt;isoedd|inline=1|'''a few''' months}}
+===Mutation===
+{{cy-mut}}
+===References===
+&lt;references/&gt;</text>
+<sha1>08vw6kpu5mtcz21y0lijn18k30lphzi</sha1>
+</revision>
+</page>

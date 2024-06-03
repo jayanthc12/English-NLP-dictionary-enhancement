@@ -1,0 +1,26 @@
+<page>
+<title>Ydre</title>
+<ns>0</ns>
+<id>2658636</id>
+<revision>
+<id>58557651</id>
+<parentid>58343398</parentid>
+<timestamp>2020-01-26T22:29:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: sv:Towns</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">==Swedish==
+{{wikipedia|lang=sv}}
+===Proper noun===
+{{sv-proper noun|n}}
+# {{place|sv|small town|p/Östergötland|in central|c/Sweden}}
+===Anagrams===
+* {{anagrams|sv|a=dery|dyre}}</text>
+<sha1>drvn4lijpcgi9j52wl868v2oa4g4soi</sha1>
+</revision>
+</page>

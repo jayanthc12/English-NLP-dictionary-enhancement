@@ -1,0 +1,28 @@
+<page>
+<title>ydinkeskus</title>
+<ns>0</ns>
+<id>4405301</id>
+<revision>
+<id>69318180</id>
+<parentid>59682787</parentid>
+<timestamp>2022-09-18T17:04:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|keskus}}
+===Pronunciation===
+{{fi-p|ydin-keskus}}
+===Noun===
+{{fi-noun}}
+# {{alternative form of|fi|ydinkeskusta}}
+====Declension====
+{{fi-decl-vastaus|ydinkesku|a}}</text>
+<sha1>30lhn7dm07x0s7zeqmzi0ahvl2ygfd8</sha1>
+</revision>
+</page>

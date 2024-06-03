@@ -1,0 +1,29 @@
+<page>
+<title>yhteyshauta</title>
+<ns>0</ns>
+<id>6762624</id>
+<revision>
+<id>58620600</id>
+<parentid>58593479</parentid>
+<timestamp>2020-02-01T14:21:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="267" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteys|hauta}}
+===Pronunciation===
+{{fi-pronunciation|yhteys-hauta}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|military}} [[trench]] connecting [[defence]] [[structure|structures]]
+====Declension====
+{{fi-decl-kala|yhteyshau|t|d|a}}</text>
+<sha1>rccohpu9a6d6izk87lpoaqdfb972vnb</sha1>
+</revision>
+</page>

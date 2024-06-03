@@ -1,0 +1,36 @@
+<page>
+<title>xkupilja</title>
+<ns>0</ns>
+<id>2159902</id>
+<revision>
+<id>66582929</id>
+<parentid>64092621</parentid>
+<timestamp>2022-05-06T00:35:20Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="580" xml:space="preserve">==Maltese==
+===Alternative forms===
+* {{alter|mt|ixkupilja||after the article}}
+===Etymology===
+Diminutive of {{m|mt|xkupa|t=broom}}, from {{der|mt|scn|scupa}}, from {{der|mt|la|scopa}}.
+===Pronunciation===
+* {{IPA|mt|/ʃkuˈpɪl.ja/}}
+===Noun===
+{{mt-noun|g=f|p=xkupilji|p2=xkupiljiet}}
+# [[brush]]
+====Derived terms====
+{{col2|mt|xkupilja tas-snien|xkupilja tax-xagħar}}
+===Verb===
+{{mt-verb|jixkupilja|xkupiljat|vn=xkupiljar}}
+# to [[brush off]] {{gloss|to remove with a brush}}
+====Conjugation====
+{{mt-conj/loan}}
+===Related terms===
+{{col2|mt|xkupa|xkupiljatura}}</text>
+<sha1>ob19exap5dbv7h75vefuy0afzvn8poj</sha1>
+</revision>
+</page>

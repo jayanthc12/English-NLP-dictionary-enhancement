@@ -1,0 +1,31 @@
+<page>
+<title>yagong</title>
+<ns>0</ns>
+<id>6333771</id>
+<revision>
+<id>47788165</id>
+<parentid>47197255</parentid>
+<timestamp>2017-10-15T00:48:35Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>reorder headers according to WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Tagalog==
+===Noun===
+{{tl-noun}}
+# [[extreme]] [[thinness]] {{gloss|as of long, slender, things}}
+====Synonyms====
+* {{l|tl|kayagangan}}
+* {{l|tl|yagang}}
+====Related terms====
+{{top2}}
+* {{l|tl|kayagungan}}
+{{mid2}}
+{{bottom}}</text>
+<sha1>cavfesrlnlehukxtkyadljfmewmrg89</sha1>
+</revision>
+</page>

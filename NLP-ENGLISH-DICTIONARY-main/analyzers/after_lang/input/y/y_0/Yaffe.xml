@@ -1,0 +1,29 @@
+<page>
+<title>Yaffe</title>
+<ns>0</ns>
+<id>6293154</id>
+<revision>
+<id>67795717</id>
+<parentid>67686566</parentid>
+<timestamp>2022-07-09T19:40:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="403" xml:space="preserve">==English==
+===Etymology===
+Variant of {{m|en|Jaffe}}.
+===Proper noun===
+{{en-proper noun|Yaffes}}
+# {{surname|en|from=Hebrew}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yaffe'' is the 29447&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 802 individuals. ''Yaffe'' is most common among White (94.26%) individuals.
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>jpat4966muqzi37glxqt3bpl4d6p9ry</sha1>
+</revision>
+</page>

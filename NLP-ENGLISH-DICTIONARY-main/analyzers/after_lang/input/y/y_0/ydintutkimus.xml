@@ -1,0 +1,28 @@
+<page>
+<title>ydintutkimus</title>
+<ns>0</ns>
+<id>4404961</id>
+<revision>
+<id>69318284</id>
+<parentid>52035582</parentid>
+<timestamp>2022-09-18T17:09:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="208" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|tutkimus}}
+===Pronunciation===
+{{fi-p|ydin-tutkimus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[research]]
+====Declension====
+{{fi-decl-vastaus|ydintutkimu|a}}</text>
+<sha1>hyfd3eqxvchn9esjfhgfyvz9yb5pzru</sha1>
+</revision>
+</page>

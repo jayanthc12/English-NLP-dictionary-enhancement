@@ -1,0 +1,30 @@
+<page>
+<title>Xanthomyza</title>
+<ns>0</ns>
+<id>4216623</id>
+<revision>
+<id>51984017</id>
+<parentid>49029466</parentid>
+<timestamp>2019-03-18T01:12:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="490" xml:space="preserve">==Translingual==
+===Etymology===
+{{confix|mul|xantho|myza}}
+===Proper noun===
+{{taxoninfl|i=1|g=?}}
+# {{lb|mul|obsolete}} {{taxon|genus|family|Meliphagidae|the {{vern|regent honeyeater}}, now reclassified within ''[[Anthochaera]]''}}
+====Hyponyms====
+* {{sense|obsolete genus}} ''[[Xanthomyza phrygia]]'' (= {{taxlink|Anthochaera phrygia|species|noshow=1}}) {{qualifier|species}}
+===Further reading===
+* {{pedia|Regent honeyeater#Taxonomy}}
+[[Category:mul:Taxonomic names (obsolete)]]</text>
+<sha1>kelaxvh5br845wt5v7kutfi8e1bhwkf</sha1>
+</revision>
+</page>

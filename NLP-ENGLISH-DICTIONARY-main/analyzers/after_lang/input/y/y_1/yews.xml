@@ -1,0 +1,27 @@
+<page>
+<title>yews</title>
+<ns>0</ns>
+<id>284431</id>
+<revision>
+<id>64460446</id>
+<parentid>54693199</parentid>
+<timestamp>2021-10-28T12:27:57Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==English==
+===Pronunciation===
+* {{rhymes|en|uːz|s=1}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yew}}
+===Anagrams===
+* {{anagrams|en|a=eswy|Wyse|weys|wyes|wyse}}
+[[Category:English 1-syllable words]]</text>
+<sha1>b82vml368qc5uk3qjzsz1heu7avg3fg</sha1>
+</revision>
+</page>

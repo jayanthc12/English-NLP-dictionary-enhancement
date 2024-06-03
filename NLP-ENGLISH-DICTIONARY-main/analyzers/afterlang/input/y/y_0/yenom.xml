@@ -1,0 +1,51 @@
+<page>
+<title>yenom</title>
+<ns>0</ns>
+<id>6227929</id>
+<revision>
+<id>59990902</id>
+<parentid>57816340</parentid>
+<timestamp>2020-08-07T08:34:02Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1331" xml:space="preserve">==English==
+===Etymology===
+Back slang for {{m|en|money}}.
+===Noun===
+{{en-noun|?}}
+# {{lb|en|obsolete|costers}} [[money|Money]]
+#* {{quote-book
+|en
+|year=c. 1864
+|year_published=1896
+|authorlink=Alfred Peck Stevens
+|first=Alfred Peck|last=Stevens
+|chapter=The Chickaleary Cove
+|title=Musa Pedestris
+|editor={{w|John Stephen Farmer|Farmer, John Stephen}}
+|url=https://archive.org/stream/musapedestristhr00farm#page/161/mode/1up/
+|page=162
+|passage=My tailor serves you well, from a perger to a swell, / At Groves's you're safe to make a sure pitch, / For ready '''yenom''' down, there ain't a shop in town, / Can lick Groves in The Cut as well as Shoreditch.
+}}
+#* {{quote-web
+|en
+|date=2014-10-18
+|accessdate=2017-06-06
+|title=Golborne Road, Miscellaneous Memories
+|url=https://purrpuss1.wordpress.com/2014/10/18/golborne-road-miscellaneous-memories/
+|passage=“Kool retfa the posh” he’d call to Mum, “I’m going to ekat the '''yenom''' to the kaynab” Somewhere Dad had learnt Backslang and this was the preferred medium of communication between him and Mum when there were customers in the shop.  What he had just said was, “Look after the shop, I’m taking the money to the bank”
+}}
+====Synonyms====
+* {{seeSynonyms|en|money}}
+===Anagrams===
+* {{anagrams|en|a=emnoy|Money|money|myeon}}
+[[Category:en:Money]]</text>
+<sha1>soae2eyemxaekyt6wczwv5kbdhwg8yi</sha1>
+</revision>
+</page>

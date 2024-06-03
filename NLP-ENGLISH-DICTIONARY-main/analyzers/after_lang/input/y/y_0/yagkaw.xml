@@ -1,0 +1,25 @@
+<page>
+<title>yagkaw</title>
+<ns>0</ns>
+<id>6507600</id>
+<revision>
+<id>54896075</id>
+<parentid>48367800</parentid>
+<timestamp>2019-10-08T15:44:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==Cebuano==
+===Pronunciation===
+* {{hyphenation|ceb|yag|kaw}}
+===Adjective===
+{{head|ceb|adjective}}
+# [[lanky]]</text>
+<sha1>hsii2gtflorbu3apstwq3nl7ekub99v</sha1>
+</revision>
+</page>

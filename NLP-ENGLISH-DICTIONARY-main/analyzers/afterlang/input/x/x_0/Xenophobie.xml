@@ -1,0 +1,38 @@
+<page>
+<title>Xenophobie</title>
+<ns>0</ns>
+<id>724690</id>
+<revision>
+<id>66175913</id>
+<parentid>65754847</parentid>
+<timestamp>2022-03-19T12:09:22Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* Further reading */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="482" xml:space="preserve">{{also|xénophobie}}
+==German==
+{{wikipedia|lang=de}}
+===Etymology===
+From {{af|de|xeno-|-phobie}}.
+===Pronunciation===
+* {{IPA|de|/ksenofoˈbiː/}}
+* {{audio|de|De-Xenophobie.ogg|Audio}}
+* {{rhymes|de|iː|s=4}}
+===Noun===
+{{de-noun|f}}
+# [[xenophobia]]
+#: {{syn|de|Ausländerfeindlichkeit|Fremdenfeindlichkeit}}
+#: {{ant|de|Fremdenliebe|Xenophilie}}
+====Declension====
+{{de-ndecl|f}}
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+{{C|de|Forms of discrimination|Phobias}}</text>
+<sha1>ogtbl7v06ppf52w4n1l80ee51tlqm2f</sha1>
+</revision>
+</page>

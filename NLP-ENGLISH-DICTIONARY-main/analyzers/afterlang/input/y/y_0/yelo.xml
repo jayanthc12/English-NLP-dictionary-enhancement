@@ -1,0 +1,67 @@
+<page>
+<title>yelo</title>
+<ns>0</ns>
+<id>1538570</id>
+<revision>
+<id>68598570</id>
+<parentid>65160901</parentid>
+<timestamp>2022-08-12T15:04:12Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="963" xml:space="preserve">==Bislama==
+===Etymology===
+From {{inh|bi|en|yellow}}.
+===Adjective===
+{{head|bi|adjective}}
+# [[yellow]]
+----
+==Masbatenyo==
+===Etymology===
+Borrowed from {{bor|msb|es|hielo||ice}}.
+===Noun===
+{{head|msb|noun}}
+# [[ice]]
+----
+==Spanish==
+===Noun===
+{{head|es|noun}}
+# {{obs sp|es|hielo}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{bor|tl|es|hielo||ice}}, from {{der|tl|la|gelu||frost}}.
+===Pronunciation===
+* {{hyph|tl|ye|lo}}
+* {{tl-IPA}}
+* {{tl-IPA|yilo}} {{q|Bataan}}
+===Noun===
+{{tl-noun}}
+# [[ice]]
+====Derived terms====
+{{der3|tl|tagyelo|mayelo|magpayelo|kayeluhan}}
+[[Category:tl:Water]]
+----
+==Tok Pisin==
+===Etymology===
+From {{inh|tpi|en|yellow}}.
+===Adjective===
+{{head|tpi|adjective}}
+# [[yellow]]
+{{topic|tpi|Colors}}
+----
+==Waray-Waray==
+===Etymology===
+Borrowed from {{bor|war|es|hielo||ice}}, from {{der|war|la|gelu||frost}}.
+===Pronunciation===
+* {{IPA|war|/ˈje.lo/}}
+===Noun===
+{{head|war|noun}}
+# [[ice]]</text>
+<sha1>6s76mgv50uhm6q2iydbwn1qv1x1ounj</sha1>
+</revision>
+</page>

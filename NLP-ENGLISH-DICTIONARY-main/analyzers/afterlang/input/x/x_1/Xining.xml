@@ -1,0 +1,77 @@
+<page>
+<title>Xining</title>
+<ns>0</ns>
+<id>1538860</id>
+<revision>
+<id>67976582</id>
+<parentid>67918298</parentid>
+<timestamp>2022-07-17T17:20:16Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1975 book; #* {{seemoreCites|en}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3161" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsining}}, {{l|en|Hsi-ning}}
+* {{q|{{w|postal romanization}}}} {{l|en|Sining}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{der|en|cmn|-}} Chinese pronunciation of {{zh-l|西寧}}.
+===Pronunciation===
+* {{IPA|en|/ˈʃiːˈnɪŋ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|city|in northwestern|c/China}}, capital of [[Qinghai]] Province.
+#* {{quote-book
+|en
+|year=1975
+|chapter=The National Minority Languages of China
+|editor={{w|Winfred P. Lehmann}}
+|title=Language and Linguistics in the People's Republic of China
+|url=https://archive.org/details/languagelinguist00ageh/
+|publisher={{w|University of Texas Press}}
+|ISBN=0-292-74615-6
+|LCCN=75-3572
+|OCLC=462849192
+|page=119
+|pageurl=https://archive.org/details/languagelinguist00ageh/page/119/
+|text=Tibetan is found predominantly in Tibet; Tibetan-speaking communities are also found in Sichuan, Qinghai, Yunnan, and Gansu. In Tibet, all official documents are issued in both Tibetan and Chinese, and also in certain regions of Sichuan and Qinghai. Moreover, the radio stations in Tibet broadcast in Tibetan and Putonghua. Similarly, the Chengdu radio station in Sichuan and the '''Xining''' radio station in Qinghai also have regular Tibetan broadcasts.}}
+#* {{quote-book
+|en
+|url=https://archive.org/details/encyclopediaofch00kapl/
+|year=1979
+|ISBN=0-06-012256-0
+|title=Encyclopedia of China Today
+|author=Frederic M. Kaplan, Julian M. Sobin, Stephen Andors
+|publisher=Eurasia Press
+|page=29
+|pageurl=https://archive.org/details/encyclopediaofch00kapl/page/29/}}
+#*:Traditionally, Qinghai's Han Chinese have been concentrated around '''Xining''' and the Yellow River valley.[...]The climate in this region is harsh, with temperatures at '''Xining''', east of Qinghai, ranging from -6° to 18° C.[...]'''Xining''' and the Yellow River valley are Qinghai's most important agricultural areas.
+#* {{quote-book|en|url=https://archive.org/details/newghostsoldghos0000seym/|chapter=Prologue|title=New Ghosts Old Ghosts Prisons and Labor Reform Camps in China|author=James D. Seymour, Richard Anderson|year=1998|ISBN=0-7656-0097-8|LCCN=97-26806|OCLC=923460098|page=1|pageurl=https://archive.org/details/newghostsoldghos0000seym/page/1/|text=Though tourists rarely do so, it is perfectly possible to visit an area on the outskirts of Qinghai’s '''Xining''' that abounds in prisons and prison enterprises.}}
+#* {{seemoreCites|en}}
+====Translations====
+{{trans-top|a city of China}}
+* Arabic: {{t|ar|شِينِينْغ|m|tr=šinīnḡ}}
+* Chinese:
+*: Cantonese: {{t|yue|西寧}}, {{t|yue|西宁|tr=sai1 ning4}}
+*: Mandarin: {{t+|cmn|西寧}}, {{t+|cmn|西宁|tr=Xīníng}}
+* Hungarian: {{t|hu|Hszining}}
+* Japanese: {{t|ja|西寧|tr=せいねい, Seinei}}
+* Korean: {{t|ko|^시닝}}
+{{trans-mid}}
+* Macedonian: {{t|mk|Сји́нинг|m}}
+* Mongolian: {{t-needed|mn}}
+* Russian: {{t|ru|Сини́н|m}}
+* Tibetan: {{t|bo|ཟི་ལིང}}
+* Vietnamese: {{t+|vi|Tây Ninh}}
+* Zhuang: {{t|za|Sihningz}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=giinnx|nixing}}</text>
+<sha1>c89m0ol558wv7od87fkyxd0uu39isd8</sha1>
+</revision>
+</page>

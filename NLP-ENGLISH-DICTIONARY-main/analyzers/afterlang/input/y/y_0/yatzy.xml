@@ -1,0 +1,72 @@
+<page>
+<title>yatzy</title>
+<ns>0</ns>
+<id>4423170</id>
+<revision>
+<id>69132255</id>
+<parentid>58593333</parentid>
+<timestamp>2022-09-05T14:34:11Z</timestamp>
+<contributor>
+<username>Supevan</username>
+<id>1081674</id>
+</contributor>
+<comment>t+nb:[[yatzy]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1142" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{rfe|en}}
+===Noun===
+{{en-noun|-}}
+# A [[dice]] [[game]].
+====Translations====
+{{trans-top|dice game}}
+* Finnish: {{t|fi|yatzy}}, {{t+|fi|jatsi}}
+* French: {{t|fr|Yahtzee|m}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|yatzy|m}}
+* Spanish: {{t+|es|generala|f}}
+{{trans-bottom}}
+----
+==Finnish==
+===Alternative forms===
+* {{l|fi|jatsi}}
+===Pronunciation===
+{{fi-pronunciation|jatsi}}
+===Noun===
+{{fi-noun}}
+# [[#English|yatzy]]
+====Declension====
+{{fi-decl&lt;!--
+--&gt;|nom_sg=yatzy&lt;!--
+--&gt;|gen_sg=yatzyn&lt;!--
+--&gt;|par_sg=yatzya&lt;!--
+--&gt;|ine_sg=yatzyssa&lt;!--
+--&gt;|ela_sg=yatzysta&lt;!--
+--&gt;|ill_sg=yatzyyn&lt;!--
+--&gt;|ade_sg=yatzylla&lt;!--
+--&gt;|abl_sg=yatzylta&lt;!--
+--&gt;|all_sg=yatzylle&lt;!--
+--&gt;|ess_sg=yatzyna&lt;!--
+--&gt;|tra_sg=yatzyksi&lt;!--
+--&gt;|abe_sg=yatzytta&lt;!--
+--&gt;|nom_pl=yatzyt&lt;!--
+--&gt;|gen_pl=yatzien&lt;!--
+--&gt;|par_pl=yatzeja&lt;!--
+--&gt;|ine_pl=yatzeissa&lt;!--
+--&gt;|ela_pl=yatzeiksi&lt;!--
+--&gt;|ill_pl=yatzeihin&lt;!--
+--&gt;|ade_pl=yatzeilla&lt;!--
+--&gt;|abl_pl=yatzeilta&lt;!--
+--&gt;|all_pl=yatzeille&lt;!--
+--&gt;|ess_pl=yatzeina&lt;!--
+--&gt;|tra_pl=yatzeiksi&lt;!--
+--&gt;|ins_pl=yatzein&lt;!--
+--&gt;|abe_pl=yatzeitta&lt;!--
+--&gt;|com_pl=yatzeineen&lt;!--
+--&gt;}}</text>
+<sha1>o219s8k4sfq027sxttmsj7hy55tohe9</sha1>
+</revision>
+</page>

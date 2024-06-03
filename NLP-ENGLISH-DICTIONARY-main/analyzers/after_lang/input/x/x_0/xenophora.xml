@@ -1,0 +1,31 @@
+<page>
+<title>xenophora</title>
+<ns>0</ns>
+<id>252500</id>
+<revision>
+<id>65481130</id>
+<parentid>65481110</parentid>
+<timestamp>2022-01-26T16:21:29Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="516" xml:space="preserve">{{also|Xenophora}}
+==English==
+[[File:FMIB 48530 Xenophora (Phorus) conchyliophora Born, concealed by the stones which it glues to the upper surface of its shell.jpeg|thumb|{{taxlink|Xenophora conchyliophora|species|ver=220126}}]]
+===Etymology===
+From the genus name {{m|mul|Xenophora}}.
+===Noun===
+{{en-noun|s|xenophorae}}
+# {{lb|en|biology}} Any [[mollusk]] of the genus ''[[Xenophora]]''.
+===References===
+* {{R:OneLook}}
+* {{pedia|i=1|Xenophora}}
+* {{specieslite|Xenophoridae}}
+* {{comcatlite|Xenophora|i=1}}</text>
+<sha1>bewqohr81ghf0bxbvntqe37lkb27nhl</sha1>
+</revision>
+</page>

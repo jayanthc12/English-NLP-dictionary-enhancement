@@ -1,0 +1,39 @@
+<page>
+<title>Ximena</title>
+<ns>0</ns>
+<id>5359299</id>
+<revision>
+<id>68473374</id>
+<parentid>62499094</parentid>
+<timestamp>2022-07-26T21:04:29Z</timestamp>
+<contributor>
+<username>Rodrigo5260</username>
+<id>3579806</id>
+</contributor>
+<comment>/* Basque */Added {{eu-IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="511" xml:space="preserve">==Basque==
+===Pronunciation===
+{{eu-IPA}}
+===Proper noun===
+{{eu-proper noun}}
+# {{given name|eu|female}}
+===References===
+* {{R:Izendegia1999}}, page 422
+----
+==Spanish==
+===Alternative forms===
+* {{alter|es|Jimena}}
+===Pronunciation===
+{{es-IPA|Jimena}}
+===Proper noun===
+{{es-proper noun|f}}
+# {{given name|es|female|from=Old Spanish &lt; Basque}}
+# the letter [[X]] in the [[Appendix:Spanish spelling alphabet|Spanish spelling alphabet]]
+====Related terms====
+* {{l|es|Ximénez}}
+* {{l|es|Jiménez}}</text>
+<sha1>lwcs7swyb8lzwby59wyycozvwydza4v</sha1>
+</revision>
+</page>

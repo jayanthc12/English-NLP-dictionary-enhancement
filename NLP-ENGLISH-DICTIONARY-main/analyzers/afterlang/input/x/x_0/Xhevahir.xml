@@ -1,0 +1,28 @@
+<page>
+<title>Xhevahir</title>
+<ns>0</ns>
+<id>3166650</id>
+<revision>
+<id>68730338</id>
+<parentid>54948086</parentid>
+<timestamp>2022-08-26T06:13:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|sq}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="315" xml:space="preserve">{{also|xhevahir}}
+==Albanian==
+===Etymology===
+Borrowed from {{bor|sq|ota|جوهر|tr=cevahir}}, from {{der|sq|ar|جَوَاهِر||jewel}}, from {{der|sq|fa|گوهر|tr=gowhar}}.
+===Pronunciation===
+* {{IPA|sq|[dʒɛva(h)iɹ]}}
+===Proper noun===
+{{head|sq|proper noun|g=m}}
+# {{given name|sq|male|from=Arabic}}</text>
+<sha1>cw3uyw1zyk7wjvuywni0ki6s2rnmho1</sha1>
+</revision>
+</page>

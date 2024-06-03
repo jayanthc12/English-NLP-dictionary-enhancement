@@ -1,0 +1,35 @@
+<page>
+<title>Yanos</title>
+<ns>0</ns>
+<id>6269392</id>
+<revision>
+<id>67779099</id>
+<parentid>67747772</parentid>
+<timestamp>2022-07-09T18:34:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="619" xml:space="preserve">==English==
+===Etymology 1===
+Borrowed from {{bor|en|es|Yanos}}.
+====Proper noun====
+{{en-proper noun|Yanoses}}
+# {{surname|en|from=Spanish}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yanos'' is the 61123&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 329 individuals. ''Yanos'' is most common among Asian/Pacific Islander (55.02%) and White (33.74) individuals.
+===Etymology 2===
+====Proper noun====
+{{head|en|proper noun form}}
+# {{plural of|en|Yano}}
+===Further reading===
+* {{R:en:DAFN}}
+===Anagrams===
+* {{anagrams|en|a=anosy|Ayons|Ayson|Sonya|say no|sayon}}</text>
+<sha1>7hm1jyr8fvql20a1soejxwfu476h5mz</sha1>
+</revision>
+</page>

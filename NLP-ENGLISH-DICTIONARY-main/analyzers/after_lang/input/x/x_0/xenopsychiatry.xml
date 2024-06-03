@@ -1,0 +1,33 @@
+<page>
+<title>xenopsychiatry</title>
+<ns>0</ns>
+<id>6091909</id>
+<revision>
+<id>61119140</id>
+<parentid>60970857</parentid>
+<timestamp>2020-11-14T08:53:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1088" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|psychiatry}}
+===Pronunciation===
+* {{IPA|en|/zɛnəɛθsaɪˈkaɪ.əˌtɹi/}}
+* {{hyphenation|en|xe|no|psychi|atry}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|science fiction|rare}} The [[study]] of [[alien]] [[psychiatry]].
+#* {{quote-book|en|year=1982|author=D. Alexander Smith|title=Marathon|passage='''Xenopsychiatry'''. Yvette Heloise Renaud. Xenopsychology. Harold Nelson Bennett. Xenosociology.}}
+#* '''2000''', Diane Duane, Peter Morwood , ''The Romulan Way: Rihannsu #2''
+#*: Specializations in xenopsychology and '''xenopsychiatry''', and long-term experience as CMO of the Enterprise — thus an acquaintance with what amounted to a gestalt life form, for that defined the multi-racial, multi-species environment aboard the {{...}}
+#* '''2013''', Kate Elliot, ''The Price of Ransom''
+#*: {{...}} between that of parole adviser for Hawk, and Chief of '''Xenopsychiatry'''. There were others equally qualified for the xeno position, but I fear I rather pulled strings and emphasized the illegal and unethical treatment Hawk received {{...}}</text>
+<sha1>5nmuib6nq3uhydadnyxv82iwd1l2pah</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>xenonet</title>
+<ns>0</ns>
+<id>2736641</id>
+<revision>
+<id>53112198</id>
+<parentid>43390739</parentid>
+<timestamp>2019-05-19T04:00:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'definite neuter singular' to def|n|s; moved lang= in {{inflection of}} to 1= (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="437" xml:space="preserve">==Danish==
+===Alternative forms===
+* {{l|da|xenonen}}
+===Noun===
+{{head|da|noun form|g=c|g2=n}}
+# {{inflection of|da|xenon||def|n|s}}
+----
+==Norwegian Bokmål==
+===Noun===
+{{head|nb|noun form|g=n}}
+# {{inflection of|nb|xenon||definite|s}}
+----
+==Norwegian Nynorsk==
+===Noun===
+{{head|nn|noun form|g=n}}
+# {{inflection of|nn|xenon||definite|s}}
+----
+==Swedish==
+===Noun===
+{{head|sv|noun form}}
+# {{sv-noun-form-def|xenon}}</text>
+<sha1>fsrnojn50hzdyx4kt4j6s0bhikf56fl</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinkoealue</title>
+<ns>0</ns>
+<id>4405120</id>
+<revision>
+<id>69318184</id>
+<parentid>52035608</parentid>
+<timestamp>2022-09-18T17:04:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="236" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinkoe|t1=nuclear test|alue|t2=area}}
+===Pronunciation===
+{{fi-p|ydin-koe*/alue*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[test]] [[area]]
+====Declension====
+{{fi-decl-hame|ydinkoealu|||a}}</text>
+<sha1>109s1dy2ffaxjvy9lp41xuxbvh5k9l0</sha1>
+</revision>
+</page>

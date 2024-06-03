@@ -1,0 +1,28 @@
+<page>
+<title>ydintekninen</title>
+<ns>0</ns>
+<id>4616830</id>
+<revision>
+<id>69318276</id>
+<parentid>58425484</parentid>
+<timestamp>2022-09-18T17:09:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="293" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|ydintekniikka|inen|t1=nuclear technology}}
+===Pronunciation===
+{{fi-p|ydin-tekninen}}
+===Adjective===
+{{fi-adj}}
+# Of or pertaining to [[nuclear]] [[technology]] or nuclear [[engineering]].
+====Declension====
+{{fi-decl-nainen|pos=adj|ydintekni|ä}}</text>
+<sha1>9ewkbvzi7ziq6p04p6splxd28mnbhh2</sha1>
+</revision>
+</page>

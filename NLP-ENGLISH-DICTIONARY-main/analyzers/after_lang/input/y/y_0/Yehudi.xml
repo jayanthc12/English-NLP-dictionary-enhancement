@@ -1,0 +1,35 @@
+<page>
+<title>Yehudi</title>
+<ns>0</ns>
+<id>194771</id>
+<revision>
+<id>64960505</id>
+<parentid>64245232</parentid>
+<timestamp>2021-12-14T22:16:15Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="486" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|he|יְהוּדִי||tr=yehudí|Jew}}. Related to {{m|en|Judah}}. An [[endonym]] for and {{doublet|en|Jew|nocap=1}}.
+===Pronunciation===
+* {{IPA|en|/jəˈhuːdi/}}
+* {{rhymes|en|uːdi|s=3}}
+===Proper noun===
+{{wikipedia|Yehudi_(name)|Yehudi}}
+{{en-proper noun}}
+# {{given name|en|male|from=Hebrew}} of Jewish usage.
+====Derived terms====
+* {{l|en|Yehudi lights}}
+====Related terms====
+* {{l|en|Yehudit}}
+===Noun===
+{{en-noun}}
+# [[Jew]]</text>
+<sha1>th4858p0aqzkgwy5084n7wq288y4yyi</sha1>
+</revision>
+</page>

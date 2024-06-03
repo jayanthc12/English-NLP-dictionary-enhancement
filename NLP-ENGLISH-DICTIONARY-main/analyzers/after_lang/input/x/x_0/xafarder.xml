@@ -1,0 +1,37 @@
+<page>
+<title>xafarder</title>
+<ns>0</ns>
+<id>4211048</id>
+<revision>
+<id>64460105</id>
+<parentid>62665260</parentid>
+<timestamp>2021-10-28T12:13:12Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="421" xml:space="preserve">==Catalan==
+===Etymology===
+From {{m|ca|safareig|fer safareig|t=to do the laundry}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|e(ɾ)|s=3}}
+===Adjective===
+{{ca-adj}}
+# [[gossipy]]; prone to gossip
+#: {{syn|ca|tafaner|bugader}}
+===Noun===
+{{ca-noun|m|f=xafardera}}
+# [[gossip]], [[gossipmonger]]
+#: {{syn|ca|tafaner}}
+====Derived terms====
+* {{l|ca|xafardejar}}
+===Further reading===
+* {{R:DCVB}}
+* {{R:IEC2}}</text>
+<sha1>6ye8iyu8v072svgnt91nrfzq30mctui</sha1>
+</revision>
+</page>

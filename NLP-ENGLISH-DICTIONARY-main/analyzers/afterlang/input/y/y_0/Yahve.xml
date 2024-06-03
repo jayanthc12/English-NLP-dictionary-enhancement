@@ -1,0 +1,26 @@
+<page>
+<title>Yahve</title>
+<ns>0</ns>
+<id>4778010</id>
+<revision>
+<id>54986304</id>
+<parentid>50898797</parentid>
+<timestamp>2019-10-10T15:18:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">{{also|Yahvé}}
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{alt form|en|Yahweh}}
+===Anagrams===
+* {{anagrams|en|a=aehvy|Havey|heavy}}</text>
+<sha1>pjitg8j0tdojbffjx9h9ohla5nvbili</sha1>
+</revision>
+</page>

@@ -1,0 +1,45 @@
+<page>
+<title>ydda</title>
+<ns>0</ns>
+<id>488201</id>
+<revision>
+<id>67608343</id>
+<parentid>64460354</parentid>
+<timestamp>2022-07-03T08:07:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 1 {{l}} link into {{desc|nn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="793" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{der|is|non|ydda}} (past tense ''yddi''), from {{der|is|gem-pro|*uzdijaną}}, from {{m|gem-pro|*uzdaz}} (whence Icelandic {{m|is|oddur||sharp tip, point}}).
+===Pronunciation===
+* {{IPA|is|/ˈɪtːa/}}
+*: {{rhymes|is|ɪtːa|s=2}}
+===Verb===
+{{is-verb-weak|yddaði|yddað}}
+# make [[pointed]], sharpen (a [[pencil]])
+====Conjugation====
+{{is-conj-w4||y|dd}}
+----
+==Old Norse==
+===Etymology===
+From {{inh|non|gem-pro|*uzdijaną}}, from {{m|gem-pro|*uzdaz}}, whence also {{m|non|oddr}}.
+===Verb===
+{{non-verb|yddi|yddu|yddr}}
+# to [[show]] the [[point]] to the other side
+====Conjugation====
+{{non-conj-weak1-long|ydd|ydd|1s=yz|2s=yz}}
+====Descendants====
+* {{desc|is|ydda}}
+* {{desc|nn|ydda|ydde}}
+* {{desc|nb|ydde}}
+===References===
+* {{R:Zoega}}</text>
+<sha1>jucfd485xldr1wsoi86ixs82gumlx9w</sha1>
+</revision>
+</page>

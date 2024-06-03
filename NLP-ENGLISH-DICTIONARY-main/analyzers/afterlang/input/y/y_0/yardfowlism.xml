@@ -1,0 +1,28 @@
+<page>
+<title>yardfowlism</title>
+<ns>0</ns>
+<id>6836392</id>
+<revision>
+<id>54375266</id>
+<parentid>51585703</parentid>
+<timestamp>2019-09-29T00:03:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}} (2); move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1482" xml:space="preserve">==English==
+===Etymology===
+{{af|en|yardfowl|-ism}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|Barbados}} Political [[sycophancy]] in return for favors.
+#* {{quote-journal|en|magazine=Bulletin of Eastern Caribbean Affairs|volume=14|page=35|year=1988|passage=As if it were not enough, one notes too that management analysis and technique continue to face a hard and relentless time from pork-barrel aims, '''yardfowlism''', nepotism, favouritism, cronyism, apple-polishing, logrolling, featherbedding empire-building and other social-human phenomena.}}
+#* {{quote-book|en|title=The House of Assembly Debates|page=6026|publisher=Barbados Legislature House of Assembly|year=1990|passage=I need not remind you that, in making this commitment, the National Democratic Party has resolved to set its face against that mode of unsavoury and unprincipled party oriented behaviour which Barbadians so aptly describe as ''''yardfowlism'''', a cancerous condition which has paralysed other political parties and has rendered them unable to put the national interest before personal and partisan considerations.}}
+#* {{quote-journal|en|magazine=The Official Gazette|volume=125|issue=19-27|page=3358|year=1990|passage=If it is not your goal, are you going to say that you as a Government will wish to find yourself in a position where you will have to perpetuate the kind of political preferential treatment commonly known as '''yard fowlism''' in terms of job generation and getting people in jobs?}}</text>
+<sha1>kpzcocpanrit42ri9p8tpza10v6nxiv</sha1>
+</revision>
+</page>

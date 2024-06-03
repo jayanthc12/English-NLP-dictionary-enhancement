@@ -1,0 +1,29 @@
+<page>
+<title>xop</title>
+<ns>0</ns>
+<id>3834028</id>
+<revision>
+<id>65338356</id>
+<parentid>62633750</parentid>
+<timestamp>2022-01-14T09:29:18Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Catalan==
+===Etymology===
+20th century, {{back-form|ca|xopar|nocap=1}}.
+===Pronunciation===
+* {{ca-IPA|ó}}
+===Adjective===
+{{ca-adj}}
+# [[soaked]], [[soaked to the bones]]
+#: {{syn|ca|amarat|moll|mullat}}
+===Further reading===
+* {{R:DCVB}}</text>
+<sha1>6hm9e1av5celn2y6mj1aopbr0k1br8z</sha1>
+</revision>
+</page>

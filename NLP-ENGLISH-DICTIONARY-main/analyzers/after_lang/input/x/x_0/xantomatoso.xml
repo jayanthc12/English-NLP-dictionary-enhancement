@@ -1,0 +1,25 @@
+<page>
+<title>xantomatoso</title>
+<ns>0</ns>
+<id>1625334</id>
+<revision>
+<id>62769342</id>
+<parentid>51864933</parentid>
+<timestamp>2021-06-16T09:37:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Italian==
+===Etymology===
+{{suffix|it|xantoma|oso}}
+===Adjective===
+{{it-adj}}
+# {{lb|it|pathology}} [[xanthomous]]</text>
+<sha1>98ccy4ushuq305dketovqd0fq04pluz</sha1>
+</revision>
+</page>

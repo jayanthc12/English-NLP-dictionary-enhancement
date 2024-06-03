@@ -1,0 +1,49 @@
+<page>
+<title>yegua</title>
+<ns>0</ns>
+<id>92052</id>
+<revision>
+<id>68889339</id>
+<parentid>67382110</parentid>
+<timestamp>2022-08-28T08:54:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="989" xml:space="preserve">==Aragonese==
+===Etymology===
+From {{inh|an|la|equa}}, feminine form of {{m|la|equus||horse}}, from {{der|an|ine-pro|*h₁éḱwos||horse}}. Compare {{cog|ca|euga}}, {{cog|es|yegua}}, {{cog|gl|egua}}, {{cog|pt|égua}}, {{cog|ro|iapă}}.
+===Noun===
+{{an-noun|f|yeguas}}
+# [[mare]]
+===References===
+* {{R:DBLA}}
+----
+==Spanish==
+===Etymology===
+From {{inh|es|osp|yegua}}, from {{inh|es|la|equa}}, feminine form of {{m|la|equus||horse}}, from {{der|es|ine-pro|*h₁éḱwos||horse}}.
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-AdrianAbdulBaha-yegua.wav|Audio (Colombia)}}
+===Noun===
+{{es-noun|f|m=caballo}}
+# [[mare]]
+# [[heifer]]
+# {{lb|es|informal}} a contemptible fat woman
+# the letter [[Y]] in the [[Appendix:Spanish spelling alphabet|Spanish spelling alphabet]]
+====Descendants====
+* {{desc|bor=1|jac|yewaẍ}}
+* {{desc|bor=1|plo|ye̱wa}}
+* {{desc|bor=1|nhg|yehualama}}
+===See also===
+* {{l|es|caballo}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Horses}}</text>
+<sha1>kk246uo1ejpzbrj6rt7n2fwtidxj3ma</sha1>
+</revision>
+</page>

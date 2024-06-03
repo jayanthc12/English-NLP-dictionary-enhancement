@@ -1,0 +1,32 @@
+<page>
+<title>Xenochila</title>
+<ns>0</ns>
+<id>1198363</id>
+<revision>
+<id>66290743</id>
+<parentid>66290737</parentid>
+<timestamp>2022-03-30T21:30:21Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="421" xml:space="preserve">==Translingual==
+{{rfi|mul}}
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Plagiochilaceae|a group of [[leafy liverwort]]s}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xenochila paradoxa|species|ver=220328}}&amp;nbsp;- type species
+===References===
+* {{pedia|Plagiochilaceae}}
+* {{specieslite|Jungermanniaceae}}
+* {{comcatlite|Plagiochilaceae}}
+* {{R:Tropicos|i=1|35002511}}</text>
+<sha1>8qt3o3psy4b5vusda3vrx4pdvmmwy0v</sha1>
+</revision>
+</page>

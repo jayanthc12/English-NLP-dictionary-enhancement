@@ -1,0 +1,175 @@
+<page>
+<title>year</title>
+<ns>0</ns>
+<id>1729</id>
+<revision>
+<id>69274544</id>
+<parentid>69264877</parentid>
+<timestamp>2022-09-16T06:40:21Z</timestamp>
+<contributor>
+<username>2WR1</username>
+<id>593594</id>
+</contributor>
+<comment>/* Derived terms */Leap year</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="9355" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/jɪə/}}
+* {{a|GenAm}} {{enPR|yîr}}, {{IPA|en|/jɪɹ/}}
+* {{a|Wales|other regions}} {{IPA|en|/jɜː/}}
+* {{a|SouthAfrica}} {{IPA|en|/jøː/}}
+* {{audio|en|En-uk-a year.ogg|Audio (UK)}}
+* {{audio|en|en-us-year.ogg|Audio (US)}}
+* {{hyphenation|en|year}}
+* {{rhymes|en|ɪə(ɹ)|s=1}}
+* {{rhymes|en|ɜː(ɹ)|s=2}} {{qualifier|in some varieties of English}}
+===Etymology 1===
+From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēar||year}}, from {{inh|en|gmw-pro|*jār}}, from {{inh|en|gem-pro|*jērą||year}}, from {{inh|en|ine-pro|*yóh₁r̥|t=year, spring}}.
+====Alternative forms====
+* {{alter|en|yeah||eye dialect}}
+* {{alter|en|yeare|yeer|yeere|yere||obsolete}}
+* {{alter|en|yur||eye dialect}}
+====Noun====
+{{en-noun}}
+# A [[solar year]], the [[time]] it takes the [[Earth]] to complete one [[revolution]] of the [[Sun]] (between 365.24 and 365.26 [[day]]s depending on the point of reference).
+#: {{ux|en|we moved to this town a '''year''' ago;&amp;nbsp; I quit smoking exactly one '''year''' ago}}
+# {{lb|en|by extension}} The time it takes for any astronomical object (such as a [[planet]], [[dwarf planet]], [[small Solar System body]], or [[comet]]) in direct orbit around a [[star]] (such as the [[Sun]]) to make one revolution around the star.
+#: {{ux|en|Mars goes around the sun once in a Martian '''year''', or 1.88 Earth years.}}
+#*{{quote-video game|en||developer={{w|BioWare}}|title={{w|Mass Effect (video game)|Mass Effect}}|location=Redwood City|publisher=Electronic Arts|year=2008|platform=PC|scene=Citdael|isbn=9780784546642|oclc=246633669|passage=Shepard: What can you tell me about the Citadel Council?&lt;br&gt;Avina: Originally, the Council consisted of representatives from the asari and salarians, the two dominant species in Citadel space.&lt;br&gt;Roughly 1,304 galactic standard '''years''' ago, turians were invited to join the Council in recognition of the role they played during the Krogan Rebellion.}}
+# A [[period]] between set [[date]]s that mark a year, from January 1 to December 31 by the [[Gregorian calendar]], from Tishiri 1 to Elul 29 by the [[Jewish calendar]], and from Muharram 1 to Dhu al-Hijjah 29 or 30 by the [[Islamic calendar]].
+#* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/http://www.economist.com/news/business/21582001-army-new-online-courses-scaring-wits-out-traditional-universities-can-they The attack of the MOOCs]
+|passage=Dotcom mania was slow in coming to higher education, but now it has the venerable industry firmly in its grip. Since the launch early last '''year''' of Udacity and Coursera, two Silicon Valley start-ups offering free education through MOOCs, massive open online courses, the ivory towers of academia have been shaken to their foundations.}}
+#: {{ux|en|A normal '''year''' has 365 full days, but there are 366 days in a leap '''year'''.}}
+#: {{ux|en|I was born in the '''year''' 1950.}}
+#: {{ux|en|This Chinese '''year''' is the '''year''' of the Ox.}}
+# A scheduled part of a [[calendar year]] spent in a specific [[activity]].
+#: {{ux|en|During this school '''year''' I have to get up at 6:30 to catch the bus.}}
+# {{lb|en|sciences}} A [[Julian year]], exactly 365.25 days, represented by &quot;[[a]]&quot;.
+# A [[level]] or [[grade]] in [[school]] or [[college]].
+#: {{ux|en|Every second-'''year''' student must select an area of specialization.}}
+#: {{ux|en|The exams in '''year''' 12 at high school are the most difficult.}}
+# The proportion of a creature's [[lifespan]] equivalent to one year of an average human lifespan (see also [[dog year]]).
+#: {{ux|en|Geneticists have created baker's yeast that can live to 800 in yeast '''years'''.}}
+=====Synonyms=====
+* {{sense|one revolution of the Sun by the Earth}} {{l|en|solar year}}, {{l|en|equinoctial year}}, {{l|en|sun}}, {{l|en|Theban year}}, {{l|en|twelvemonth}}, {{l|en|annum}}
+* {{sense|time to make one revolution by any body}} {{l|en|anomalistic year}}, {{l|en|galactic year}}, {{l|en|Gaussian year}}, {{l|en|Great Year}}, {{l|en|lunar year}}, {{l|en|Platonic year}}, {{l|en|sidereal year}}, {{l|en|Sothic year}}, {{l|en|tropical year}}, {{l|en|annum}} {{q|sci fi}}
+* {{sense|period between set dates}} {{l|en|calendar year}}, {{l|en|civil year}}, {{l|en|legal year}}
+* {{sense|specific uses}} {{l|en|accounting year}}, {{l|en|base year}}, {{l|en|dog year}}, {{l|en|financial year}}, {{l|en|fiscal year}}, {{l|en|liturgical year}}, {{l|en|quality-adjusted life year}}, {{l|en|school year}}, {{l|en|tax year}}
+=====Hypernyms=====
+* {{l|en|biennium}} {{q|2 years}}, {{l|en|triennium}} {{q|3}}, {{l|en|quadrennium}} or {{l|en|olympiad}} {{q|4}}, {{l|en|quinquennium}} or {{l|en|pentad}} {{q|5}}, {{l|en|sexennium}} {{q|6}}, {{l|en|septennium}} {{q|7}}, {{l|en|octaeteris}} or {{l|en|octennium}} {{q|8}}, {{l|en|novennium}} {{q|9}}, {{l|en|decennium}} or {{l|en|decade}} {{qualifier|10}}, {{l|en|centennium}} or {{l|en|century}} {{qualifier|100}}, {{l|en|quincentennium}} {{q|500}}, {{l|en|kiloyear}} or {{l|en|millennium}} {{qualifier|1000}}, {{l|en|decamillennium}} {{q|10,000}}, {{l|en|centimillennium}} {{q|100,000}}, {{l|en|millionennium}} or {{l|en|megayear}} {{q|1,000,000}}, {{l|en|gigayear}} {{q|1,000,000,000}}
+=====Hyponyms=====
+{{col4|en|base year
+|birthyear
+|calendar year
+|civil year
+|dog year
+|donkey's years
+|financial year
+|fiscal year
+|gap year
+|golden years
+|last year
+|leap year
+|legal year
+|liturgical year
+|lunar year
+|[[mid-year]], [[midyear]]
+|school year
+|sidereal year
+|Sothic year
+|solar year
+|sunset years
+|tax year
+|twilight years
+|year of our Lord
+|year of our Lord Jesus Christ
+|yesteryear
+}}
+=====Derived terms=====
+{{col3|en
+|4-plus-billion-year
+|all-year-round
+|banner year
+|Christmas comes but once a year
+|four score and seven years ago
+|gigayear
+|leap year 
+|megayear
+|multi-year
+|multiyear
+|on in years
+|two-year
+|yearbook
+|year by year
+|year dot
+|year-end
+|yearhundred
+|yearling
+|year-long
+|yearly
+|year-round
+|yearthousand
+|yesteryear
+}}
+=====Translations=====
+{{see translation subpage|Noun}}
+====See also====
+* {{l|en|calendar}}
+* {{list:Gregorian calendar months/en}}
+* {{list:Hebrew calendar months/en}}
+* {{list:Islamic calendar months/en}}
+{{rel4|en|sort=0
+|{{sense|smaller divisions}} ''see'' '''[[month#Related terms|month]]''', '''[[week#Related terms|week]]''', '''[[day#Related terms|day]]''', etc.
+|{{sense|{{frac|4}}-year}} {{l|en|quarter}}, {{l|en|quarterly}}, {{l|en|season}}, {{l|en|seasonal}}
+|{{sense|{{frac|3}}-year}} {{l|en|triannual}}
+|{{sense|{{frac|2}}-year}} {{l|en|biannual}}, {{l|en|semiannual}}, {{l|en|twice-yearly}}
+|{{sense|roughly one year}} {{l|en|quasi-annual}}
+|{{sense|adj.}} {{l|en|yearly}}, {{l|en|annual}}, {{l|en|per annum}}
+|{{sense|2-year}} {{l|en|biennium}}, {{l|en|biennial}}
+|{{sense|3-year}} {{l|en|triennium}}, {{l|en|triennial}}, {{l|en|trieterical}}
+|{{sense|4-year}} {{l|en|quadrennium}}, {{l|en|quadrennial}}
+|{{sense|5-year}} {{l|en|quinquennium}}, {{l|en|quinquenniad}}, {{l|en|quintennium}}, {{l|en|quinquennial}}, {{l|en|quintennial}}
+|{{sense|6-year}} {{l|en|sexennium}}, {{l|en|sexennial}}
+|{{sense|7-year}} {{l|en|septennium}}, {{l|en|septennial}}, {{l|en|septennary}}, {{l|en|septenniad}}, {{l|en|septenary}}, {{l|en|septenarian}}, {{l|en|septennian}}, {{l|en|septennual}}
+|{{sense|8-year}} {{l|en|octennium}}, {{l|en|octaeteris}}, {{l|en|octennial}}, {{l|en|octaeteric}}
+|{{sense|9-year}} {{l|en|novennium}}, {{l|en|novennial}}, {{l|en|enneaeteric}}, {{l|en|enneatic}}
+|{{sense|10-year}} {{l|en|decade}}, {{l|en|decennium}}, {{l|en|decadal}}, {{l|en|decennial}}
+|{{sense|17-year}} {{l|en|septendecennial}}
+|{{sense|19-year}} {{l|en|enneadecaeteris}}
+|{{sense|20-year}} {{l|en|vicennium}}, {{l|en|vicennial}}
+|{{sense|30-year}} {{l|en|tricennium}}, {{l|en|tricennial}}
+|{{sense|100-year}} {{l|en|century}}, {{l|en|yearhundred}}, {{l|en|centennial}}, {{l|en|centenary}}, {{l|en|centuried}}
+|{{sense|200-year}} {{l|en|bicentennial}}, {{l|en|bicentenary}}
+|{{sense|300-year}} {{l|en|tricentennial}}, {{l|en|tricentenary}} {{l|en|tercentennial}}, {{l|en|tercentenary}}
+|{{sense|1000-year}} {{l|en|millennium}}, {{l|en|kiloyear}} ({{l|en|kyr}}), {{l|en|yearthousand}}, {{l|en|millennial}}
+|{{sense|3000-year}} {{l|en|termillenary}}
+|{{sense|10&amp;thinsp;000-year}} {{l|en|decamillennium}}
+|{{sense|100&amp;thinsp;000-year}} {{l|en|centimillennium}}
+|{{sense|1&amp;thinsp;000&amp;thinsp;000-year}} {{l|en|megayear}} ({{l|en|Myr}}), {{l|en|mega-annum}} ({{l|en|Ma}}), {{l|en|millionennium}}
+|{{sense|1&amp;thinsp;000&amp;thinsp;000&amp;thinsp;000-year}} {{l|en|gigayear}} ({{l|en|Gyr}}), {{l|en|gigannum}} ({{l|en|Ga}})
+}}
+====References====
+* {{pedia}}
+===Etymology 2===
+====Noun====
+{{head|en|noun}}
+# {{pronunciation spelling of|en|here}}
+# {{pronunciation spelling of|en|hear}}
+===Anagrams===
+* {{anagrams|en|a=aery|Arey|Ayer|Ayre|Raye|Reay|Yare|aery|ayre|eyra|y'are|yare}}
+[[Category:en:Time]]
+----
+==Scots==
+===Etymology===
+From {{inh|sco|enm|yeer}}, {{m|enm|yere}}, from {{inh|sco|ang|ġēr}}, {{m|ang|ġēar||year}}, from {{inh|sco|gmw-pro|*jār}}, from {{inh|sco|gem-pro|*jērą||year}}, from {{inh|sco|ine-pro|*yōro-}}, {{m|ine-pro|*yeh₁ro-||year, spring}}, {{m|ine-pro|*yeh₁-}}.
+===Pronunciation===
+* {{IPA|sco|[(j)iːr]}}
+===Noun===
+{{sco-noun|year}}
+# {{l|en|year}}
+[[Category:sco:Time]]</text>
+<sha1>p8yfo9gql0prml135o0jy8bh8l05hd2</sha1>
+</revision>
+</page>

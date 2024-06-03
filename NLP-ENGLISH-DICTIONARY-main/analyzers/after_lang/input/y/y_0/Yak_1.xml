@@ -1,0 +1,39 @@
+<page>
+<title>Yak</title>
+<ns>0</ns>
+<id>170763</id>
+<revision>
+<id>66025778</id>
+<parentid>65863789</parentid>
+<timestamp>2022-02-28T06:54:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up German lemmas: use {{de-proper noun|toponym}}, {{de-proper noun|langname}}, {{de-proper noun|surname}}, add '.article' to {{de-proper noun}} where appropriate, use {{bor+}}, add missing periods, remove extraneous periods, compress three-in-a-row newlines, misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="522" xml:space="preserve">{{also|yak|yäk|þak}}
+==German==
+{{wikipedia|lang=de}}
+===Alternative forms===
+* {{alter|de|Jak}}
+===Etymology===
+{{bor+|de|en|yak}}, from {{der|de|bo|གཡག}}.
+===Pronunciation===
+* {{IPA|de|/jak/}}
+* {{audio|de|De-Yak.ogg|Audio}}
+* {{rhymes|de|ak|s=1}}
+===Noun===
+{{de-noun|m[in technical writing]:n[alternatively],s,s}}
+# [[yak]] {{gloss|Asian bovine}}
+#: {{syn|de|Grunzochse}}
+====Declension====
+{{de-ndecl|m[in technical writing]:n[alternatively],s,s}}
+===Further reading===
+* {{R:Duden}}
+{{C|de|Bovines}}</text>
+<sha1>bto1avvcm9foldmqz0a7rahn7uhep3u</sha1>
+</revision>
+</page>

@@ -1,0 +1,64 @@
+<page>
+<title>yeten</title>
+<ns>0</ns>
+<id>6654126</id>
+<revision>
+<id>67622597</id>
+<parentid>66531626</parentid>
+<timestamp>2022-07-03T13:39:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>incorporate 1 {{l}} link into {{desc|en}}; incorporate 2 {{l}} links into {{desc|sco}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1909" xml:space="preserve">==Middle English==
+===Etymology 1===
+{{dercat|enm|gem-pro|inh=1}}
+From {{inh|enm|ang|gēotan}}, from {{inh|enm|gmw-pro|*geutan}}.
+====Alternative forms====
+* {{alter|enm|geten|yetten|ȝeten|ȝetten|ȝeoten|geoten}}
+====Verb====
+{{enm-verb|stem=yet|3=yet|4=yoten}}
+# {{senseid|enm|to flow}} {{lb|enm|transitive}} To pour out from a container.
+# {{lb|enm|intransitive}} To flow or gush.
+# {{lb|enm|reflexive}} To [[overflow]].
+# {{lb|enm|transitive|medicine}} To emit fluid from the body.
+# {{lb|enm|transitive|figurative}} To send out, to send forth; to [[express]].
+# {{lb|enm|transitive|medicine}} to administer medication by [[drop]] or [[injection]].
+# {{lb|enm|transitive|chemistry}} To [[melt]] or [[soften]]; to [[dissolve]].
+# {{lb|enm|transitive|smithing}} To [[cast]]; to [[found]].
+# {{lb|enm|transitive}} To [[disperse]] or [[scatter]].
+# {{lb|enm|transitive}} To take out for use; to [[brandish]].
+=====Conjugation=====
+{{enm-conj-st|c=2|yet|yet|yot|yot|w=ed|y=2}}
+=====Descendants=====
+* {{desc|en|yet|ewte}} {{q|dialectal}}, {{l|en|yete}} {{q|obsolete}}
+* {{desc|sco|ȝet|yet|yat}}
+* {{desc|en|yote|der=1}} {{q|via past participle {{m|enm||yoten}}}} {{q|dialectal}}
+=====References=====
+* {{R:MED Online|entry= yeten|pos=v.(3)|id=MED53934 |accessdate=4 May 2018}}
+===Etymology 2===
+From {{af|enm|ye|-ten|t1=you (plural)|t2=causative suffix}}.
+====Alternative forms====
+* {{alter|enm|ȝeten|ȝeetyn}}
+====Verb====
+{{head|enm|verb}}
+# {{senseid|enm|to address with &quot;ye&quot;}} To address someone with &quot;ye&quot;, i.e. with [[formality]] or [[politeness]]
+=====Conjugation=====
+{{enm-conj-wk|yet}}
+=====Descendants=====
+* {{desc|en|yeet}}
+=====See also=====
+* {{l|enm|thouten}}
+* {{l|enm|thouen}}
+====References====
+* {{R:MED Online|entry= yeten|pos=v.(4)|id=MED53935 |accessdate=4 May 2018}}
+====Further reading====
+* [[W:T-V distinction|Wikipedia: T-V distinction]]
+[[Category:enm:Liquids]]</text>
+<sha1>3zpjkcjx64ku81zop2ysevdt01g5cif</sha1>
+</revision>
+</page>

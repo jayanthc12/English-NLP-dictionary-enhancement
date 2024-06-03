@@ -1,0 +1,29 @@
+<page>
+<title>yeguar</title>
+<ns>0</ns>
+<id>6960551</id>
+<revision>
+<id>68972286</id>
+<parentid>62323935</parentid>
+<timestamp>2022-08-29T02:42:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="180" xml:space="preserve">==Spanish==
+===Etymology===
+{{af|es|yegua|-ar}}
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# {{lb|es|relational}} [[mare]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>60s9nzftwr1crcgf7ntrbyzlgcrfahr</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xiblen</title>
+<ns>0</ns>
+<id>4330283</id>
+<revision>
+<id>53115745</id>
+<parentid>25728537</parentid>
+<timestamp>2019-05-19T04:58:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'third-person plural present indicative' to 3|p|pres|ind; canonicalized multiword inflection tag 'third-person plural present subjunctive' to 3|p|pres|sub; combined tag sets 3|p|pres|ind and 3|p|pres|sub into 3|p|pres|ind//sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="93" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xiblar||3|p|pres|ind//sub}}</text>
+<sha1>itnw2o9z1rf9fqw5skj6pm4potgaezr</sha1>
+</revision>
+</page>

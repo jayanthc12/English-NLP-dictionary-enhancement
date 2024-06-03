@@ -1,0 +1,31 @@
+<page>
+<title>xerophiles</title>
+<ns>0</ns>
+<id>2151501</id>
+<revision>
+<id>69438503</id>
+<parentid>60597342</parentid>
+<timestamp>2022-10-03T13:46:04Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-xerophiles.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="249" xml:space="preserve">{{also|xérophiles}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xerophile}}
+----
+==German==
+===Pronunciation===
+* {{audio|de|De-xerophiles.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xerophil}}</text>
+<sha1>3plf0snirk0bqhpw46k65s2ierx8cdz</sha1>
+</revision>
+</page>

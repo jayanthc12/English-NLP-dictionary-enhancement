@@ -1,0 +1,26 @@
+<page>
+<title>xhaano</title>
+<ns>0</ns>
+<id>7320624</id>
+<revision>
+<id>62736789</id>
+<parentid>61614035</parentid>
+<timestamp>2021-06-13T05:44:55Z</timestamp>
+<contributor>
+<username>Kwamikagami</username>
+<id>52912</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Hadza==
+===Pronunciation===
+* {{IPA|hts|/k͜ǁʰaʔano/}}
+===Noun===
+{{hts-noun|g=m|f=xaanoko|mpl=|fpl=}} (''Note: the form after a determiner is '''''{{l|hts|xhaano}}''')
+# [[dog]]
+#: {{syn|hts|tîngi}}
+[[Category:hts:Mammals]]</text>
+<sha1>pbuxu0oy1qtqva6psbuvvmhzy8ramde</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>xenocidio</title>
+<ns>0</ns>
+<id>1610023</id>
+<revision>
+<id>68876110</id>
+<parentid>68793405</parentid>
+<timestamp>2022-08-28T06:31:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="336" xml:space="preserve">==Galician==
+{{wikipedia|lang=gl}}
+===Etymology===
+From {{suffix|gl|γένος|t1=race, kind|lang1=grc|cidio}}, or {{confix|gl|xeno|cidio}}.
+===Noun===
+{{gl-noun|m}}
+# [[genocide]]
+====Related terms====
+* {{l|gl|xenocida}}
+===Further reading===
+* {{R:gl:DRAG}}
+{{topics|gl|Death|Racism|Forms of discrimination|Crime|Criminal law}}</text>
+<sha1>iulqm6frv5l6bvzx7blmbz8yy4shdqv</sha1>
+</revision>
+</page>

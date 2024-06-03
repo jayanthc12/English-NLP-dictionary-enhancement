@@ -1,0 +1,31 @@
+<page>
+<title>xylophoniste</title>
+<ns>0</ns>
+<id>6367862</id>
+<revision>
+<id>67148636</id>
+<parentid>67052992</parentid>
+<timestamp>2022-05-24T09:03:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==French==
+===Etymology===
+From {{af|fr|xylophone|-iste}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lepticed7-xylophoniste.wav|Audio}}
+* {{rhymes|fr|ist}}
+===Noun===
+{{fr-noun|mfbysense}}
+# {{l|en|xylophonist}}
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>nbif4se6m35x24d1p10645cm5clclhe</sha1>
+</revision>
+</page>

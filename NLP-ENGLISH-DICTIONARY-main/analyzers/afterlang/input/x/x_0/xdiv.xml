@@ -1,0 +1,24 @@
+<page>
+<title>xdiv</title>
+<ns>0</ns>
+<id>1225193</id>
+<revision>
+<id>54599332</id>
+<parentid>49923026</parentid>
+<timestamp>2019-10-03T03:20:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{abbreviation of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">{{also|x-div.}}
+==English==
+===Adjective===
+{{en-adj|-}}
+# {{abbreviation of|en|ex dividend}}</text>
+<sha1>tfv6roev6fmpz41frijf8by66c7g7va</sha1>
+</revision>
+</page>

@@ -1,0 +1,53 @@
+<page>
+<title>yaffle</title>
+<ns>0</ns>
+<id>233541</id>
+<revision>
+<id>68773989</id>
+<parentid>66198635</parentid>
+<timestamp>2022-08-27T07:14:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1743" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjafl̩/}}
+*: {{rhymes|en|æfəl|s=2}}
+===Etymology 1===
+Imitative of the bird's cry.
+====Noun====
+{{en-noun}}
+# {{lb|en|UK|dialectal}} The [[European]] [[green woodpecker]], ''[[Picus viridis]]''.
+#: {{syn|en|yaffingale|yaffler|woodall}}
+#*'''1792''', {{w|Charlotte Smith (writer)|Charlotte Smith}}, ''Desmond'', Broadview 2001, p. 114:
+#*:I remember the cry of the wood-peckers, or '''yaffils''', as we call them in that country, going to roost in a pale autumnal evening {{...}}.
+#* '''1924''', {{w|Ford Madox Ford}}, ''Some Do Not…'', Penguin 2012 (''Parade's End''), p. 119:
+#*: “‘Punched that rotton strap,’ he goes on saying, ‘like a gret ol' '''yaffle''' punchin' a 'ollow log!’”
+=====Translations=====
+{{trans-see|green woodpecker}}
+====Verb====
+{{en-verb}}
+# {{lb|en|intransitive}} Of the green woodpecker: to make its distinctive cry.
+#* '''2005''', Tim Kendall, ''Strange Land'' (page 13)
+#*: Green woodpecker is not without options. Each year the builder comes to fix the house of the wooden roof. Green woodpecker watches then flies away, '''yaffling'''.
+===Etymology 2===
+====Verb====
+{{en-verb}}
+# {{lb|en|slang|obsolete}} To [[eat]].
+#* '''2017''', Vanessa Kelly, Shana Galen, Anna Campbell, Kate Noble, ''A Grosvenor Square Christmas''
+#*: At the mention of '''yaffling'''—the cant for eating—Ewan felt a pang of hunger in his belly.
+#* '''2019''', Ellie Jacobs, ''Workhouse Waif: A Victorian Romance''
+#*: You're growing squab '''yaffling''' our food and then lazing in the hallway.
+=====References=====
+* '''1873''', John Camden Hotten, ''The Slang Dictionary''
+===Anagrams===
+* {{anagrams|en|a=aeffly|Laffey}}
+[[Category:en:Woodpeckers]]</text>
+<sha1>ejhic2itjql4m08quqepdlyhm4atwr3</sha1>
+</revision>
+</page>

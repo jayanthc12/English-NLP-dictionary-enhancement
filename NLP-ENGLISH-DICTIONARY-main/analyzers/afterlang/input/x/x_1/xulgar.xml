@@ -1,0 +1,56 @@
+<page>
+<title>xulgar</title>
+<ns>0</ns>
+<id>3692583</id>
+<revision>
+<id>68863437</id>
+<parentid>68863202</parentid>
+<timestamp>2022-08-28T05:21:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1230" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{l|ast|xuzgar}}
+===Etymology===
+From {{inh|ast|la|jūdicāre}}, {{m|la|iūdicāre}}, present active infinitive of {{m|la|iūdicō||pass judgement}}. Compare {{cog|es|juzgar}}, {{cog|gl|xulgar}}, {{cog|pt|julgar}}.
+===Verb===
+{{ast-verb}}
+# to [[judge]]
+====Conjugation====
+{{ast-conj-ar|xulg||xulgu}}
+====Related terms====
+* {{l|ast|xuez}}
+* {{l|ast|xuiciu}}
+* {{l|ast|xustu}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|julgar}}, from {{bor|gl|roa-ole|julgar}}; the patrimonial Galician-Portuguese form {{m|roa-opt|juygar}} is attested, for example, in the 13th century ''{{w|Cantigas de Santa Maria}}''; from {{inh|gl|la|iūdicāre}}, present active infinitive of {{m|la|iūdicō||pass judgement}}. Compare {{cog|pt|julgar}}, {{cog|ast|xulgar}}, {{cog|es|juzgar}}.
+===Pronunciation===
+* {{IPA|gl|[ʃulˈɣaɾ]}}
+===Verb===
+{{gl-verb|xulg|ar|pret=xulguei}}
+# to [[judge]]
+#: {{syn|gl|axuizar}}
+====Conjugation====
+{{gl-conj-car|xulg|xulgu}}
+====Related terms====
+* {{l|gl|axuizar}}
+* {{l|gl|xuíz}}
+* {{l|gl|xuízo}}
+* {{l|gl|xulgado}}
+===References===
+* {{R:gl:DDGM|julgar}}
+* {{R:gl:CX|julg}}
+* {{R:gl:CX|juyg}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}</text>
+<sha1>4cxhx56s1clozzf780oyh3j53zeqon8</sha1>
+</revision>
+</page>

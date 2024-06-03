@@ -1,0 +1,31 @@
+<page>
+<title>xapi</title>
+<ns>0</ns>
+<id>1448709</id>
+<revision>
+<id>63426934</id>
+<parentid>51612374</parentid>
+<timestamp>2021-07-26T03:19:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">==Allentiac==
+===Noun===
+{{head|sai-all|noun}}
+# [[death]]
+===References===
+* Willem F. H. Adelaar, ''The Languages of the Andes'' (2004), citing Luis de Valdiva's work
+----
+==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[chili]]
+[[Category:arn:Foods]]</text>
+<sha1>qfiwq9geocazbybei14p6b0rpxhgnvm</sha1>
+</revision>
+</page>

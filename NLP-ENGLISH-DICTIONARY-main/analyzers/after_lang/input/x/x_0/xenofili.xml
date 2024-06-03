@@ -1,0 +1,26 @@
+<page>
+<title>xenofili</title>
+<ns>0</ns>
+<id>1245761</id>
+<revision>
+<id>68562686</id>
+<parentid>67940132</parentid>
+<timestamp>2022-08-08T06:47:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up broken Italian adjective form headwords (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==Italian==
+===Adjective===
+{{head|it|adjective form|g=m-p}}
+# {{adj form of|it|xenofilo||m|p}}
+===Noun===
+{{head|it|noun form|g=m-p}}
+# {{plural of|it|xenofilo}}</text>
+<sha1>evhztl81b9b4gv0lgh31irmxygixrb1</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>ximpleria</title>
+<ns>0</ns>
+<id>3081396</id>
+<revision>
+<id>62519861</id>
+<parentid>62519849</parentid>
+<timestamp>2021-05-13T22:02:11Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="235" xml:space="preserve">==Catalan==
+===Etymology===
+{{af|ca|ximple|-eria}}
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[buffoonery]], [[nonsense]]
+#: {{syn|ca|bestiesa|rucada}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}
+* {{R:GDLC}}</text>
+<sha1>1ticwy2y11sxuxthoh0kejjxwlweyn2</sha1>
+</revision>
+</page>

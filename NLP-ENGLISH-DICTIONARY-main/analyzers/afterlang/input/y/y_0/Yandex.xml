@@ -1,0 +1,61 @@
+<page>
+<title>Yandex</title>
+<ns>0</ns>
+<id>5099780</id>
+<revision>
+<id>67963093</id>
+<parentid>65775550</parentid>
+<timestamp>2022-07-16T01:37:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{wikidatalite}} to {{R:wikidata}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1711" xml:space="preserve">==English==
+[[File:Yandex_Logo.svg|thumb|The logo of Yandex.]]
+===Etymology===
+The name initially stood for “Yet Another iNDEXer”. The Russian word {{m|ru|я}} corresponds to the English personal pronoun “I”, making ''Яndex'' a bilingual pun on {{m|en|index}}.
+===Pronunciation===
+* {{IPA|en|/ˈjæn.dɛks/}}
+===Proper noun===
+{{en-proper noun}}
+# A [[Russian]] Internet company which operates the largest [[search engine]] in Russia.
+# {{lb|en|computing}} A [[search engine]] that popularized the company of the same name.
+====Translations====
+{{trans-top|Yandex (in other scripts, the trademark may also be written in Roman letters)}}
+* Arabic: {{t|ar|يَانْدِكْس|m}}
+* Belarusian: {{t|be|Я́ндэкс|m|sc=Cyrl}}
+* Catalan: {{t|ca|Yandex}}
+* Dutch: {{t|nl|Yandex}}
+* Finnish: {{t|fi|Yandex}}
+* French: {{t|fr|Yandex}}
+* German: {{t|de|Yandex}}
+* Hebrew: {{t|he|יאנדקס|m|tr=yandeks}}
+* Hindi: {{t|hi|यांदेक्स}}
+* Italian: {{t|it|Yandex}}
+* Japanese: {{t|ja|ヤンデックス|tr=Yandekkusu|sc=Jpan}}
+* Kazakh: {{t|kk|Яндекс|sc=Cyrl}}
+* Korean: {{t|ko|^얀덱스|sc=Kore}}
+{{trans-mid}}
+* Kyrgyz: {{t|ky|Яндекс|sc=Cyrl}}
+* Mongolian: {{t|mn|Яндекс|sc=Cyrl}}
+* Persian: {{t|fa|یاندکس|tr=yândeks|sc=fa-Arab}}
+* Polish: {{t|pl|Yandex|m}}
+* Portuguese: {{t|pt|Yandex}}
+* Russian: {{t+|ru|Я́ндекс|m|tr=Jándɛks}}
+* Spanish: {{t|es|Yandex}}
+* Tajik: {{t|tg|Яндекс}}
+* Tamil: {{t|ta|யான்டெக்ஸ்|sc=Taml}}
+* Thai: {{t|th|ยานเดกซ์|tr=yaan-dɛ́ɛk}}
+* Turkish: {{t|tr|Yandex}}
+* Ukrainian: {{t|uk|Я́ндекс|m|sc=Cyrl}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia}}
+* {{R:wikidata|Q5281}}</text>
+<sha1>2ouib7hikzam9px14q9viwkyhut4om6</sha1>
+</revision>
+</page>

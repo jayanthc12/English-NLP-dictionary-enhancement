@@ -1,0 +1,32 @@
+<page>
+<title>ydinfyysikko</title>
+<ns>0</ns>
+<id>748449</id>
+<revision>
+<id>58642114</id>
+<parentid>54765903</parentid>
+<timestamp>2020-02-05T15:33:22Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="294" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|fyysikko}}
+===Pronunciation===
+{{fi-pronunciation|ydin-fyysikko}}
+===Noun===
+{{fi-noun}}
+# [[nuclear physicist]]
+====Declension====
+{{fi-decl-laatikko|ydinfyysi|kk|k|o|a}}
+====Synonyms====
+* {{l|fi|atomifyysikko}}
+[[Category:fi:Scientists]]</text>
+<sha1>t9gsauzp2lsazme1w2gkjgyzl5d3xe9</sha1>
+</revision>
+</page>

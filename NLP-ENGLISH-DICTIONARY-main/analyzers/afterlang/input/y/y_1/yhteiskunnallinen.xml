@@ -1,0 +1,32 @@
+<page>
+<title>yhteiskunnallinen</title>
+<ns>0</ns>
+<id>1129715</id>
+<revision>
+<id>69318437</id>
+<parentid>62583269</parentid>
+<timestamp>2022-09-18T17:18:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteiskunta|llinen}}
+===Pronunciation===
+{{fi-p|yhteis-kunnallinen}}
+===Adjective===
+{{fi-adj|yhteiskunnallis|empi|in}}
+# [[social]], [[societal]]
+====Declension====
+{{fi-decl-nainen|pos=adj|yhteiskunnalli|a}}
+====Derived terms====
+* {{l|fi|yhteiskunnallinen ilmoitus}}
+* {{l|fi|yhteiskunnallisesti}}
+* {{l|fi|yhteiskunnallisuus}}</text>
+<sha1>geunyjzn6n1ir8t7pxf12bomdbq5ucb</sha1>
+</revision>
+</page>

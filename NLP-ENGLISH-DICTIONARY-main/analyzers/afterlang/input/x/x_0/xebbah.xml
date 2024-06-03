@@ -1,0 +1,37 @@
+<page>
+<title>xebbah</title>
+<ns>0</ns>
+<id>7265726</id>
+<revision>
+<id>66537532</id>
+<parentid>66537527</parentid>
+<timestamp>2022-04-29T20:18:44Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<comment>/* Conjugation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="812" xml:space="preserve">==Maltese==
+{{mt-root|x-b-h}}
+===Alternative forms===
+* {{alter|mt|xebbaħ||unofficial, but common}}
+===Etymology===
+From {{inh|mt|ar|شَبَّهَ}}.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛb.baħ/}}
+===Verb===
+{{mt-verb|jxebbah|pp=mxebbah}}
+# to [[liken]], to [[compare]] {{gloss|to declare a [[similarity]] between to things, be it [[actual]] or [[figurative]]}}
+#: {{ux|mt|'''Xebbahhom''' mal-ilpup.|'''He likened them''' to wolves.}}
+====Conjugation====
+* The sound {{IPAchar|/ħ/}} is kept in all conjugated forms. The spelling is {{m|mt|h}} instead of {{m|mt|ħ}} because this fortition has not been generalised throughout the root (compare {{m|mt|xbieha}} {{IPAchar|/ˈʒbɪːja/}}).
+{{mt-conj/II|x|b|h|e}}
+====Derived terms====
+* {{l|mt|ma' min rajtek xebbahtek}}
+===See also===
+* {{l|mt|qabbel}}</text>
+<sha1>nl3r4skxezaucjhtf82kddntxazhq70</sha1>
+</revision>
+</page>

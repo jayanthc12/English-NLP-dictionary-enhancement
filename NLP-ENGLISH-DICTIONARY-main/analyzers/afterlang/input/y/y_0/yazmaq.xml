@@ -1,0 +1,51 @@
+<page>
+<title>yazmaq</title>
+<ns>0</ns>
+<id>1320908</id>
+<revision>
+<id>68789841</id>
+<parentid>66554422</parentid>
+<timestamp>2022-08-27T13:08:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1176" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јазмаг|r=yazmaq|a=یازماق}}
+===Etymology===
+Ultimately from {{inh|az|trk-pro|*yạŕ-||to write}}. Cognate with {{cog|tr|yazmak}}, {{cog|tk|ýazmak}}, {{cog|crh|yazmaq}}, {{cog|cv|ҫыр}} etc.
+===Pronunciation===
+* {{IPA|az|[jɑzˈmɑχ]}}
+* {{hyphenation|az|yaz|maq}}
+===Verb===
+{{head|az|verb}}
+# {{lb|az|transitive|intransitive}} to [[write]]
+#: {{uxi|az|Yəhyə Yaquba [[məktub]] '''yazmayıb'''.|John '''didn't write''' Jacob a letter.}}
+# {{lb|az|of drugs|transitive}} to [[prescribe]]
+#: {{ux|az|[[həkim|Həkim]] [[ona]] [[düzgün]] [[diaqnoz]] [[qoymaq|qoyub]], [[dərman]] '''yazdı'''.|The doctor diagnosed him correctly and '''prescribed''' him medication}}
+====Conjugation====
+{{az-conj|a|z}}
+====Derived terms====
+{{top3}}
+* {{l|az|yazar||writer}}
+* {{l|az|yazışmaq||to correspond}}
+* {{l|az|yazı||writing, text}}
+** {{l|az|yazıçı||writer}}
+* {{l|az|yazılmaq||to be written}}
+** {{l|az|yazılış||spelling}}
+* {{l|az|əlyazı}}, {{l|az|əlyazma||manuscript}}
+{{bottom}}
+----
+==Crimean Tatar==
+===Etymology===
+From {{inh|crh|trk-pro|*yạŕ-|t=to write}}.
+===Verb===
+{{head|crh|verb}}
+# to [[write]]</text>
+<sha1>3ben3326whb247txng3i15f0lk4i2ph</sha1>
+</revision>
+</page>

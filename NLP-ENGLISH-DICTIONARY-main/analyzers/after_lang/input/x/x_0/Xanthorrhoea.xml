@@ -1,0 +1,40 @@
+<page>
+<title>Xanthorrhoea</title>
+<ns>0</ns>
+<id>505231</id>
+<revision>
+<id>59508622</id>
+<parentid>50687788</parentid>
+<timestamp>2020-06-10T18:56:39Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="897" xml:space="preserve">{{also|xanthorrhoea}}
+==Translingual==
+[[File:Gardenology.org-IMG 4783 hunt0904.jpg|thumb|{{taxlink|Xanthorrhoea resinosa|species|ver=181115|'''Xanthorrhoea''' resinosa}}, a [[grass tree]]]]
+===Etymology===
+{{der|mul|NL.|-}}, {{der|mul|grc|ξανθός||yellow}} + {{m|grc|ῥοία||flow}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# the [[grass tree]]s, of Australia.
+## {{taxon|genus|family|Xanthorrhoeaceae}}
+## {{taxon|genus|family|Asphodelaceae}}
+====Hypernyms====
+* {{sense|genus in Asphodelaceae}} {{Asphodelaceae Hypernyms}}; {{taxlink|Xanthorrhoeoideae|subfamily}}&amp;nbsp;- subfamily
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xanthorrhoea resinosa|species|ver=181115}}&amp;nbsp;- type species; for others see {{pedia|i=1}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:COL|17221733|i=1}}
+* {{R:EOL|107288|i=1}}
+* {{R:NCBI|39536|i=1}}
+* {{R:TPL|i=1}}</text>
+<sha1>3rgrqozqrndepo530xfnvpw8zjmtza7</sha1>
+</revision>
+</page>

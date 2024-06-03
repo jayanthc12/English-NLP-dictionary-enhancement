@@ -1,0 +1,33 @@
+<page>
+<title>yhdesti</title>
+<ns>0</ns>
+<id>517839</id>
+<revision>
+<id>58593396</id>
+<parentid>54761354</parentid>
+<timestamp>2020-01-30T12:18:01Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="565" xml:space="preserve">==Finnish==
+===Etymology===
+The multiplicative case of {{m|fi|yksi||one}}; {{suffix|fi|yksi|sti}}
+===Pronunciation===
+{{fi-pronunciation|*}}
+===Adverb===
+{{fi-adv|comp=-}}
+# [[once]]
+#: ''Olen tavannut hänet '''yhdesti'''.''
+#:: ''I have met him '''once'''.''
+====Usage notes====
+Although grammatically fully correct, ''yhdesti'' is, both in standard Finnish and in spoken Finnish, practically always replaced by saying ''(yhden) kerran'' &amp;ndash; ''yhdesti'' is, however, quite normally used in mathematics.
+===Anagrams===
+* {{anagrams|fi|a=dehisty|yhdiste}}</text>
+<sha1>9x2qffag3op6gqassswpyab92h5jzgd</sha1>
+</revision>
+</page>

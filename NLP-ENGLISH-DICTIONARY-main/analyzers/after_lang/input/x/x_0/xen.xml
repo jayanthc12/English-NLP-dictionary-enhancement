@@ -1,0 +1,72 @@
+<page>
+<title>xen</title>
+<ns>0</ns>
+<id>596828</id>
+<revision>
+<id>60363000</id>
+<parentid>58667372</parentid>
+<timestamp>2020-09-10T05:14:17Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before the ---- between language sections.&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1642" xml:space="preserve">{{also|xen-}}
+==Aromanian==
+===Alternative forms===
+* {{l|rup|xenu}}, {{l|rup|axen}}, {{l|rup|axenu}}, {{l|rup|cãsen}}, {{l|rup|cãsenu}}
+===Etymology===
+From {{bor|rup|el|ξένος}}.
+===Adjective===
+{{head|rup|adjective|g=m|feminine|xeanã|masculine plural|xenj|feminine plural|xeani|or|xeane}}
+# [[foreign]]
+====Synonyms====
+* {{l|rup|xinãtor}}
+* {{l|rup|striin}}
+====Derived terms====
+* {{l|rup|xeanã}}
+* {{l|rup|xinit}}
+* {{l|rup|pataxen}}
+* {{l|rup|xinumsescu}}
+* {{l|rup|xenu-}}
+===Noun===
+{{head|rup|noun|g=m|plural|xenj|feminine equivalent|xeanã}}
+# [[foreigner]]
+====Synonyms====
+* {{l|rup|xinãtor}}
+* {{l|rup|striin}}
+----
+==Drehu==
+===Pronunciation===
+* {{IPA|dhv|/xen/}}
+===Verb===
+{{head|dhv|verb}}
+# to [[eat]]
+===References===
+* {{R:ABVD|lang=Dehu|id=196|cite={{cite|author=Tyron, D.T., Hackman, B.|date=1983|title=Solomon Islands languages: An internal classification}}.}}
+* {{R:ABVD|lang=ⁿDe’u|id=1515|cite={{cite|author=Leenhardt, M.|date=1946|title=Langues et dialectes de l'Austro-Mèlanèsie}}.}}
+----
+==Timote==
+===Numeral===
+{{head|sai-tim|numeral}}
+# {{alt form|sai-tim|xem||two}}
+===Further reading===
+* Willem F. H. Adelaar, ''The Languages of the Andes'' (2004), page 128 (notes that this form, and ''xem'', is used in both Timote and Cuica)
+----
+==Vietnamese==
+===Pronunciation===
+{{vi-IPA}}
+===Verb===
+{{vi-verb|[[偏]], [[扦]], [[𦍫]]}}
+# to [[edge]] oneself; to [[insert]]; to [[come]] between
+# {{lb|vi|colloquial}} to [[interfere]]; to [[meddle]]; to [[intervene]]
+====Derived terms====
+{{vi-der|chêm xen|đan xen|xen kẽ|xen lẫn}}
+====See also====
+* {{l|vi|chen}}</text>
+<sha1>6gnnad0hf29dc4gspqfagbwlzofn3c8</sha1>
+</revision>
+</page>

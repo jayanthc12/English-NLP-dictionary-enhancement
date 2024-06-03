@@ -1,0 +1,38 @@
+<page>
+<title>xylan</title>
+<ns>0</ns>
+<id>1044348</id>
+<revision>
+<id>66260033</id>
+<parentid>60239091</parentid>
+<timestamp>2022-03-29T14:24:30Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="578" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{rfe|en}}
+===Noun===
+{{en-noun}}
+# {{lb|en|carbohydrate}} A [[polysaccharide]], consisting of [[xylose]] residues, found in the cell walls of some algae and plants.
+====Derived terms====
+* {{l|en|acetylxylan}}
+* {{l|en|heteroxylan}}
+====Translations====
+{{trans-top|biochemistry: a polysaccharide consisting of xylose residues}}
+* Finnish: {{t|fi|ksylaani}}
+* Irish: {{t|ga|xiolán|m}}
+* Italian: {{t|it|xylano|m}}, {{t|it|xilano|m}}
+{{trans-mid}}
+* Russian: {{t|ru|ксила́н|m}}
+* Spanish: {{t|es|xilano|m}}
+{{trans-bottom}}</text>
+<sha1>obvkg1nkg74lz5lvvygph2vzbur5q7y</sha1>
+</revision>
+</page>

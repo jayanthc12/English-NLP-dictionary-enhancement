@@ -1,0 +1,48 @@
+<page>
+<title>yblent</title>
+<ns>0</ns>
+<id>615111</id>
+<revision>
+<id>64460345</id>
+<parentid>64037870</parentid>
+<timestamp>2021-10-28T12:24:32Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1156" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|blent|gloss2=blended}}
+===Pronunciation===
+* {{rhymes|en|ɛnt|s=2}}
+===Verb===
+{{head|en|verb form}}
+# {{lb|en|archaic}} {{past participle of|en|blend|nocat=1}}
+#* {{RQ:Thomson Castle of Indolence|stanza=IV|page=3|passage=Yet all theſe Sounds '''yblent''' inclined all to Sleep.}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|archaic|or|poetic}} [[confused|Confused]]
+#* {{RQ:Spenser Shepheardes Calender|April|14|And was thilk ſame ſong of ''Colins'' owne making? / Ah fooliſh boy, that is with loue '''yblent''':}}
+#* {{quote-book
+|en
+|year=c. 1753
+|year_published=1802
+|first=Thomas|last=Warton|authorlink=Thomas Warton
+|title=The Poetical Works of the Late Thomas Waton, B.D.
+|chapter=A Pastoral in the manner of Spenser
+|url=https://books.google.com/books?id=VJBMAQAAMAAJ&amp;pg=PA113
+|page=113
+|volume=1
+|editor=Richard Mant
+|publisher=University Press
+|lines=9–12
+|passage=She bragly turned her ungentle face, / And all disdaining ey'd my shape askaunce: / But I did blush, with grief and shame '''yblent''', / Like morning-rose with hoary dewe besprent.
+}}
+===Anagrams===
+* {{anagrams|en|a=belnty|Bently}}</text>
+<sha1>8m77s13z0kklkonpix2m5cydiqryr78</sha1>
+</revision>
+</page>

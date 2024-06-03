@@ -1,0 +1,28 @@
+<page>
+<title>yaicha</title>
+<ns>0</ns>
+<id>4591550</id>
+<revision>
+<id>66536479</id>
+<parentid>66536478</parentid>
+<timestamp>2022-04-29T17:37:20Z</timestamp>
+<contributor>
+<username>Vorziblix</username>
+<id>393082</id>
+</contributor>
+<minor />
+<comment>Vorziblix moved page [[yaichadü]] to [[yaicha]] without leaving a redirect: strip off possessed suffix</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="170" xml:space="preserve">==Maquiritari==
+===Pronunciation===
+* {{mch-IPA}}
+===Noun===
+{{head|mch|noun}}
+# [[spear]]
+===References===
+* {{R:mch:Hall|head=yaichadü}}
+* {{R:mch:IDS|sukuhi|402}}</text>
+<sha1>r14cihl05lznhn7hsyiz1uucm7ihjsd</sha1>
+</revision>
+</page>

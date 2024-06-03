@@ -1,0 +1,102 @@
+<page>
+<title>yesteryear</title>
+<ns>0</ns>
+<id>96227</id>
+<revision>
+<id>67224137</id>
+<parentid>66484992</parentid>
+<timestamp>2022-06-01T19:43:59Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3337" xml:space="preserve">{{also|yester-year}}
+==English==
+===Alternative forms===
+* {{l|en|yester-year}}
+===Etymology===
+Compound of {{prefix|en|yester|year}}. {{coin|en|nobycat=1|Dante Gabriel Rossetti|in=1869}} in his translation &quot;Ballad Of Dead Ladies&quot;, to translate {{noncog|frm|antan||last year}} (in Ballad 1 of {{w|François Villon}}'s ''Testament'').
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjɛstəjɪə/}}
+* {{a|US}} {{IPA|en|/ˈjɛstərjɪər/}}
+* {{audio|en|En-us-yesteryear.ogg|Audio (US)}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|poetic}} [[past|Past]] [[year]]s; [[time]] gone by; [[yore]].
+#* {{quote-book|en|year=1928|authorlink=D. H. Lawrence|first=D[avid] H[erbert]|last=Lawrence|title=Lady Chatterley's Lover|chapter=5|passage=Where are the snows of '''yesteryear'''?}}
+# {{lb|en|rare}} Last year.
+====Synonyms====
+* {{sense|time gone by}} {{l|en|foretime}}, {{l|en|yestertide}}; see also [[Thesaurus:the past]]
+====Translations====
+{{trans-top|times gone by}}
+* Catalan: {{t|ca|antany}}
+* Dutch: {{t+|nl|weleer|n}}, {{t+|nl|voorbije|n}}, {{t+|nl|verleden|n}}
+* Finnish: {{t|fi|[[menneet]] [[vuodet]]}}
+* French: {{t+|fr|jadis}}, {{t+|fr|antan}}
+* German: {{t+|de|einst}}
+* Greek: {{t+|el|κάποτε|n}}, {{t+|el|παλιά}}
+{{trans-mid}}
+* Ido: {{t+|io|olim}}
+* Italian: {{t+|it|passato|m}}
+* Maori: {{t|mi|raurangi}}
+* Portuguese {{t+|pt|outrora}}
+* Spanish: {{t+|es|antaño}}
+* Ukrainian: {{t+|uk|мину́вшина}}, {{t|uk|мину́ле|n}}
+* Vietnamese: {{t+|vi|xưa}}, {{t+|vi|thời xưa}}, {{t+|vi|ngày xưa}}
+* Welsh: {{t|cy|llynedd|f}}
+{{trans-bottom}}
+{{trans-top-also|last year|last year}}
+* Armenian: {{t+|hy|հերու}}
+*: Old Armenian: {{t|xcl|հերու}}
+* Basque: {{t+|eu|iaz}}
+* Bulgarian: {{t+|bg|лани|sc=Cyrl}}
+* Catalan: {{t|ca|antany|m}}
+* Czech: {{t+|cs|loni}}
+* Danish: {{t|da|i fjor}}
+* Dutch: {{t|nl|gisterjaar|n}}
+* Faroese: {{t|fo|í fjør}}
+* Finnish: {{t|fi|[[mennyt]] [[vuosi]]}}
+* French: {{t|fr|[[année]] [[passée]]}}, {{t|fr|[[an]] [[passé]]}}, {{t|fr|[[année]] [[dernière]]}}, {{t|fr|[[an]] [[dernier]]}}
+* German: {{t+|de|Vorjahr|n}}
+* Greek: {{t+|el|πέρυσι|n}}
+*: Ancient: {{t|grc|πέρυσι}}
+* Hebrew: {{t+|he|אשתקד|tr=eshtakád}}
+* Hungarian: {{t+|hu|tavaly}}
+* Icelandic: {{t|is|í fyrra}}
+* Irish: {{t|ga|anuraidh}}
+* Italian: {{t+|it|anno}} {{t+|it|scorso}}
+* Japanese: {{t+|ja|去年|tr=Kyonen}}
+{{trans-mid}}
+* Korean: {{t+|ko|작년|sc=Kore}}
+* Latvian: {{t|lv|pērn}}, {{t|lv|pērngad}}
+* Low German:
+*: German Low German: {{t|nds-de|Vörjohr|n}}
+* Maori: {{t|mi|tauhouanga}}, {{t|mi|tauhounga}}
+* Middle High German: {{t|gmh|vert}}
+* Norwegian: {{t|no|i fjor}}
+* Old Norse: {{t|non|fjǫrð}}
+* Old Swedish: {{t|gmq-osw|fiordh}}
+* Persian: {{t|fa|دیسال|tr=disâl|sc=fa-Arab}}
+* Portuguese: {{t|pt|[[ano]] [[passado]]|m}}, {{t+|pt|antanho|m}}
+* Russian: {{t|ru|в прошлом году}}
+* Sanskrit: {{t+|sa|परुत्}}
+* Serbo-Croatian: {{t+|sh|lani}}, {{t|sh|лани}}
+* Slovak: {{t|sk|vlani}}
+* Slovene: {{t+|sl|láni}}
+* Spanish: {{t+|es|antaño|m}}, {{t|es|año pasado|m}}
+* Swedish: {{t+|sv|i fjol}}, {{t+|sv|i fjor}}
+* Turkish: {{t+|tr|bıldır}}
+* Ukrainian: {{t+|uk|торі́к}}, {{t|uk|мину́лого ро́ку}}
+* Welsh: {{t|cy|llynedd|f}}
+{{trans-bottom}}
+===See also===
+* {{l|en|yesterday}}
+* {{l|en|bygone}}
+{{c|en|Past}}</text>
+<sha1>40xqn3bm70ey5w0ji0lanvv5dzfrtnb</sha1>
+</revision>
+</page>

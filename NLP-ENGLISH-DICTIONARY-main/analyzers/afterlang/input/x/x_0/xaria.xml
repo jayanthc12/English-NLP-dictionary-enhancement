@@ -1,0 +1,35 @@
+<page>
+<title>xaria</title>
+<ns>0</ns>
+<id>5113384</id>
+<revision>
+<id>69393446</id>
+<parentid>69114370</parentid>
+<timestamp>2022-09-28T19:14:35Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="436" xml:space="preserve">==Catalan==
+{{wp|lang=ca}}
+===Etymology===
+From {{bor|ca|ar|شَرِيعَة|lit=path, way}}. {{root|ca|ar|ش ر ع}}
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f|-}}
+# {{lb|ca|Islam}} [[shari'a]] {{gloss|Islamic religious law}}
+===Further reading===
+* {{R:IEC2}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|sharia}}
+===Noun===
+{{pt-noun|f|-}}
+# {{lb|pt|Islam}} [[shari'a]] {{gloss|Islamic religious law}}</text>
+<sha1>cnepd2nkwbktzrfm6xv7i4rc0gmmysr</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yhdenmukainen</title>
+<ns>0</ns>
+<id>6423376</id>
+<revision>
+<id>69318353</id>
+<parentid>69130707</parentid>
+<timestamp>2022-09-18T17:13:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="414" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yksi|alt1=yhden|mukainen}}
+===Pronunciation===
+{{fi-p|yhden-mukainen}}
+===Adjective===
+{{fi-adj|yhdenmukais|empi|in}}
+# [[uniform]], [[unvarying]] {{gloss|all the same}}
+# uniform, [[consistent]] {{gloss|conforming to one standard}}
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdenmukai|a}}
+====Derived terms====
+* {{l|fi|yhdenmukaisesti}}
+* {{l|fi|yhdenmukaisuus}}</text>
+<sha1>o1v4zgxxmczyx33eb08xq5vraivbfgm</sha1>
+</revision>
+</page>

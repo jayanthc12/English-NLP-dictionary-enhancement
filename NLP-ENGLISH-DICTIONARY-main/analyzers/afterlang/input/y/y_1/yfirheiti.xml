@@ -1,0 +1,31 @@
+<page>
+<title>yfirheiti</title>
+<ns>0</ns>
+<id>657567</id>
+<revision>
+<id>55444921</id>
+<parentid>46073807</parentid>
+<timestamp>2019-10-15T01:21:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Icelandic==
+===Etymology===
+From {{m|is|yfir||over}} + {{m|is|heiti||name}}.
+===Pronunciation===
+* {{IPA|is|/ˈɪːvɪrˌheiːtɪ/}}
+===Noun===
+{{is-noun|n}}
+# [[hypernym]]
+====Declension====
+{{is-decl-noun-n-s|yfirh|ei|t|i}}
+====Antonyms====
+* {{l|is|undirheiti}}</text>
+<sha1>g2vi8l4og2l20mfn7yjby6o96mq41ku</sha1>
+</revision>
+</page>

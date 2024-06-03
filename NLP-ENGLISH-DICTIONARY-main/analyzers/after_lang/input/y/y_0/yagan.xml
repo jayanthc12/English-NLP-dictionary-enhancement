@@ -1,0 +1,30 @@
+<page>
+<title>yagan</title>
+<ns>0</ns>
+<id>1635548</id>
+<revision>
+<id>68324682</id>
+<parentid>45086041</parentid>
+<timestamp>2022-07-18T13:55:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yacer]] with 'yacer'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}
+----
+==Volapük==
+===Noun===
+{{vo-noun}}
+# [[hunter]]
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>1wv2o5n0e6fcswv9fulufgwmnmn9xj4</sha1>
+</revision>
+</page>

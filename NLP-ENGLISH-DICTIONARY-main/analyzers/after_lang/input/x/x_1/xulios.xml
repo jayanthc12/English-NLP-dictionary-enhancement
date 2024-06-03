@@ -1,0 +1,28 @@
+<page>
+<title>xulios</title>
+<ns>0</ns>
+<id>4686688</id>
+<revision>
+<id>62899444</id>
+<parentid>62895991</parentid>
+<timestamp>2021-06-18T03:42:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Galician plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xuliu}}
+----
+==Galician==
+===Noun===
+{{head|gl|noun form|g=m-p}}
+# {{plural of|gl|xulio}}</text>
+<sha1>453oez0xonawacgeuk3jwxresmewre3</sha1>
+</revision>
+</page>

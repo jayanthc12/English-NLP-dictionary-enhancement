@@ -1,0 +1,30 @@
+<page>
+<title>XIII</title>
+<ns>0</ns>
+<id>33538</id>
+<revision>
+<id>44157661</id>
+<parentid>41113891</parentid>
+<timestamp>2017-05-24T23:28:47Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="281" xml:space="preserve">{{also|xiii}}
+==Translingual==
+===Alternative forms===
+* {{l|mul|xiii}}
+===Number===
+{{mul-number}}
+# A [[Roman numeral]] representing [[thirteen]] (13).
+====Coordinate terms====
+* Previous: [[XII]] ([[twelve|12]])
+* Next: [[XIV]] ([[fourteen|14]])
+[[Category:Roman numerals]]</text>
+<sha1>0z9pfvdj6wml81h2kax2dzkk9vd6nlt</sha1>
+</revision>
+</page>

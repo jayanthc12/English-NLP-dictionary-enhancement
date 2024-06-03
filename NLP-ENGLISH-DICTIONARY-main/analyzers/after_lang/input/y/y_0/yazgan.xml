@@ -1,0 +1,23 @@
+<page>
+<title>yazgan</title>
+<ns>0</ns>
+<id>1635554</id>
+<revision>
+<id>68324711</id>
+<parentid>45086047</parentid>
+<timestamp>2022-07-18T13:55:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yacer]] with 'yacer'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}</text>
+<sha1>ffk03e80hhn6f4hixcg6vidajs3gwjj</sha1>
+</revision>
+</page>

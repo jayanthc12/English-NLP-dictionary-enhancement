@@ -1,0 +1,137 @@
+<page>
+<title>yah</title>
+<ns>0</ns>
+<id>85248</id>
+<revision>
+<id>69546444</id>
+<parentid>69537307</parentid>
+<timestamp>2022-10-19T11:56:47Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>===Etymology 3=== From {{m|en|you}}.  ====Pronoun==== {{en-pron}}  # {{pronunciation spelling of|en|you}} #* '''2006''', Carmen Portnoy, ''The Money Pie: A Recipe for Women Investors'' (page 6) #*: &quot;Hey, Sis, do '''yah''' want a Hertz Donut?&quot; one of them sweetly said as the other one held out a donut bag. She reached for it. Her step-sister snatched the bag away and socked her hard in the arm instead.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3316" xml:space="preserve">{{also|Yah|þah}}
+==English==
+===Etymology 1===
+An alternative pronunciation, akin to {{m|en|yeah}}.
+====Pronunciation====
+* {{IPA|en|/jʌː/|/jɑː/}}
+* {{rhymes|en|ʌː|ɑː|s=1}}
+====Adverb====
+{{en-adv|-}}
+# {{lb|en|UK|India|South Africa|Australia|New Zealand}} [[yes|Yes]].
+#: '''''Yah''', we did go along but it turned out the wedding was a load of nonsense.''
+=====Translations=====
+{{trans-see|yes}}
+====Interjection====
+{{en-intj}}
+# {{n-g|An expression uttered to encourage a horse to run faster.}}
+=====Translations=====
+{{trans-top|expression used to encourage a horse to run faster}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+{{trans-mid}}
+* Finnish: {{t|fi|hopoti-hop}}
+* French: {{t+|fr|hue}}
+* Portuguese: {{t-needed|pt}}
+{{trans-bottom}}
+===Etymology 2===
+From the pronunciation of “[[yes]]” which such people use.
+====Pronunciation====
+* {{IPA|en|/jɑː/}}
+* {{rhymes|en|ɑː|s=1}}
+====Noun====
+{{en-noun}}
+# {{lb|en|British|informal}} An [[upper-class]] person, especially a [[Sloane Ranger]].
+=====Translations=====
+{{trans-top|upper-class person}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+{{trans-mid}}
+* Portuguese: {{t-needed|pt}}
+{{trans-bottom}}
+=====See also=====
+* {{l|en|gap yah}}
+===Etymology 3===
+From {{m|en|you}}.
+====Pronoun====
+{{en-pron}}
+# {{pronunciation spelling of|en|you}}
+#* '''2006''', Carmen Portnoy, ''The Money Pie: A Recipe for Women Investors'' (page 6)
+#*: &quot;Hey, Sis, do '''yah''' want a Hertz Donut?&quot; one of them sweetly said as the other one held out a donut bag. She reached for it. Her step-sister snatched the bag away and socked her hard in the arm instead.
+===Anagrams===
+* {{anagrams|en|a=ahy|AYH|Hay|YHA|hay}}
+[[Category:English location adverbs]]
+----
+==Gullah==
+===Etymology===
+Variant of {{m|gul|yuh||here}}.
+===Adverb===
+{{head|gul|adverb}}
+# [[here]]
+----
+==Malay==
+===Pronunciation===
+* {{IPA|ms|/jah/}}
+* {{rhymes|ms|jah|ah|s2=1}}
+===Noun===
+{{head|ms|noun}}
+# {{l|en|father}} (male parent)
+====Synonyms====
+* {{l|ms|ayah}} ({{l|ms|ayahanda}}, {{l|ms|aya}}, {{l|ms|yah}})
+* {{l|ms|bapa}} ({{l|ms|bapanda}}, {{l|ms|bapai}}, {{l|ms|bapak}}, {{l|ms|bapang}}, {{l|ms|baba}}, {{l|ms|papa}})
+* {{l|ms|abah}} ({{l|ms|aba}}, {{l|ms|bah}})
+* {{l|ms|rama}}
+[[Category:ms:Family]]
+----
+==Manx==
+===Interjection===
+{{head|gv|interjection|head=yah?}}
+# {{alternative form of|gv|yagh}}
+----
+==Navajo==
+===Etymology===
+Compare {{cog|crx|yoh||house}}
+===Postposition===
+{{head|nv|postposition}}
+# [[inside]], [[into]] an enclosed space, into an enclosure
+----
+==Oneida==
+===Particle===
+{{head|one|particle}}
+# [[not]]
+===References===
+{{R:one:Michelson:2016|page=384}}
+----
+==South Slavey==
+===Etymology===
+From {{inh|xsl|ath-pro|*yəx̣s}}. Cognates include {{cog|nv|yas}} and {{cog|dgr|zah}}.
+===Pronunciation===
+* {{IPA|xsl|/jàh/}}
+===Noun===
+{{head|xsl|noun}}
+# [[snow]]
+===References===
+* {{R:xsl:Rice:1989|page=99}}
+{{C|xsl|Water|Winter}}
+----
+==Zhuang==
+===Etymology===
+{{rfe|za}}
+===Pronunciation===
+* {{za-pron}}
+===Noun===
+{{za-head|noun|𫰈|𫰎|下|𡟺|𭑧|𫰫|吓}}
+# [[wife]]
+# [[mother-in-law]] {{gl|[[husband]]'s [[mother]]}}
+# [[old]] [[woman]]; [[granny]]
+===Classifier===
+{{za-head|classifier}}
+# {{n-g|Classifier for elderly women.}}
+{{C|za|Female family members|Female people}}</text>
+<sha1>df234hs659w9aczpqp6xezf1rmzyopj</sha1>
+</revision>
+</page>

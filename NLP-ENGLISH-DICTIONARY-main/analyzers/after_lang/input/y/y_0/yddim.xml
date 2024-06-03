@@ -1,0 +1,39 @@
+<page>
+<title>yddim</title>
+<ns>0</ns>
+<id>6368668</id>
+<revision>
+<id>54372512</id>
+<parentid>51578501</parentid>
+<timestamp>2019-09-28T23:17:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="773" xml:space="preserve">==English==
+===Etymology===
+[[backslang|Backslang]] for {{m|en|middy}}, from {{m|en|midshipman}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete|nautical|back slang}} A [[midshipman]].
+#* {{quote-book
+|en
+|year=1826
+|last=Wood
+|first=George
+|title=The Rambles of Redbury Rook
+|chapter=X
+|page=168
+|pageurl=https://books.google.com/books?id=hQ9gAAAAcAAJ&amp;pg=PA168
+|passage=He was conveyed to one of our ships of war, and there he remained a few years, doing all kinds of drudgery, when, from his great activity in reefing the sails, and other seamen-like duties, he so far distinguished himself, as to obtain the good-will of his captain, who had him rated a '''''Yddim'''''.
+}}
+===Anagrams===
+* {{anagrams|en|a=ddimy|didym|middy|mydid}}
+[[Category:English 2-syllable words]]</text>
+<sha1>an2v5bvx1stsh7lctgxbc93h7sqeztg</sha1>
+</revision>
+</page>

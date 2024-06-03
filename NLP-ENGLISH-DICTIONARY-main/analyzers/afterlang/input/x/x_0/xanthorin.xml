@@ -1,0 +1,24 @@
+<page>
+<title>xanthorin</title>
+<ns>0</ns>
+<id>1960302</id>
+<revision>
+<id>53765496</id>
+<parentid>51877101</parentid>
+<timestamp>2019-07-29T18:46:49Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==English==
+===Etymology===
+''[[Xanthoria]]'' {{suffix|en||in}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|biochemistry}} An [[anthraquinone]] [[compound]] found in {{taxlink|Xanthoria elegans|species|ver=190729}}, the {{vern|elegant sunburst lichen}}.</text>
+<sha1>kjcs09gqy68okhr2hn448yyn4ug29i3</sha1>
+</revision>
+</page>

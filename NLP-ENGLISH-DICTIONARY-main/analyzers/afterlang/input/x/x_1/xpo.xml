@@ -1,0 +1,25 @@
+<page>
+<title>xpo</title>
+<ns>0</ns>
+<id>4815945</id>
+<revision>
+<id>54601986</id>
+<parentid>46158147</parentid>
+<timestamp>2019-10-03T04:03:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{abbreviation of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==Old Spanish==
+===Alternative forms===
+* {{l|osp|x|x̊}}
+===Proper noun===
+{{head|osp|proper noun|g=m}}
+# {{abbreviation of|osp|Christo}}</text>
+<sha1>mcyeqxjjvl2qtowps9e4p13eye2gz79</sha1>
+</revision>
+</page>

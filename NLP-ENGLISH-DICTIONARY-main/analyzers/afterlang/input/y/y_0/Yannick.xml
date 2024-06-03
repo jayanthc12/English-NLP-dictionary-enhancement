@@ -1,0 +1,39 @@
+<page>
+<title>Yannick</title>
+<ns>0</ns>
+<id>693461</id>
+<revision>
+<id>67127423</id>
+<parentid>65765495</parentid>
+<timestamp>2022-05-22T08:17:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns; clean up etymologies; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="502" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|fr|Yannick}}, from {{der|en|br|Yannig}}.
+===Proper noun===
+{{en-proper-noun|Yannicks}}
+# {{lb|en|Canada}} {{given name|en|male|from=French}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|br|Yannig}}, diminutive of {{m|br|Yann||[[John]]}}.
+===Pronunciation===
+* {{fr-IPA}}
+===Proper noun===
+{{fr-proper noun|m}}
+# {{given name|fr|male|from=Breton}}
+----
+==German==
+===Proper noun===
+{{de-proper noun|m}}
+# {{given name|de|male|var=Jannik}}</text>
+<sha1>s1n4xk4o8v8ix9lxnn98gqpud282a46</sha1>
+</revision>
+</page>

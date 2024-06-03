@@ -1,0 +1,29 @@
+<page>
+<title>Yasna</title>
+<ns>0</ns>
+<id>1054703</id>
+<revision>
+<id>67291091</id>
+<parentid>62027927</parentid>
+<timestamp>2022-06-06T10:08:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|ae}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="411" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|ae|𐬫𐬀𐬯𐬥𐬀||oblation; worship|tr=yasna}}.
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|Zoroastrianism}} The primary [[liturgical]] collection of texts of the [[Avesta]].
+# {{lb|en|Zoroastrianism}} The principal [[Zoroastrian]] act of worship at which those verses are recited.
+===Anagrams===
+* {{anagrams|en|a=aansy|Sanya|Yanas|yanas}}</text>
+<sha1>bpp1afkmhtgyms4i4py42xgpbwkzkr9</sha1>
+</revision>
+</page>

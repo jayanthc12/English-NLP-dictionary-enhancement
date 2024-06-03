@@ -1,0 +1,29 @@
+<page>
+<title>yhteispisteet</title>
+<ns>0</ns>
+<id>6842651</id>
+<revision>
+<id>58620594</id>
+<parentid>58593453</parentid>
+<timestamp>2020-02-01T14:20:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis|piste|alt2=pisteet}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-pisteet}}
+===Noun===
+{{fi-noun|plonly=true}}
+# [[total]] [[point]]s
+====Declension====
+{{fi-decl-hame|n=pl|yhteispist|||ä}}</text>
+<sha1>85lfoc4f9mc0umys1xgc4fjdy1171r0</sha1>
+</revision>
+</page>

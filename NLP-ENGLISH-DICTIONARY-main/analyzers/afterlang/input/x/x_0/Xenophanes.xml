@@ -1,0 +1,73 @@
+<page>
+<title>Xenophanes</title>
+<ns>0</ns>
+<id>82594</id>
+<revision>
+<id>67286380</id>
+<parentid>63844732</parentid>
+<timestamp>2022-06-06T08:23:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2660" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|grc|Ξενοφάνης|}}. The name means “of foreign appearance” and is composed of {{m|grc|ξένος||foreign}} + {{m|grc|φαίνω||appear}}.
+===Pronunciation===
+* {{IPA|en|/zɛˈnɒfəniːz/}}
+===Proper noun===
+{{en-proper noun}}&lt;!--plural Xenophaneses?--&gt;
+# A Greek [[given name]].
+# The [[pre-Socratic]] philosopher [[w:Xenophanes|Xenophanes of Colophon]]; by extension or reference, any [[profound]] or [[transformative]] [[religious]] thinker.
+#* {{quote-book|en|1931|Hermann Schneider &amp; Margaret Minna Green|The History of World Civilization|url=http://books.google.com/books?id=8a9MkWjhZdkC|page=614|volume=2
+|passage=Lucretius was the '''Xenophanes''' of Roman culture, a great theorist (visionary), an ardent disciple of Universal Nature, an enemy of all superstition, false gods, and false fear of death, {{...}}}}
+#* {{quote-book|en|1970|John Arthur Passmore|The Perfectibility of Man|url=http://books.google.com/books?id=KfTWAAAAMAAJ|page=77
+|passage=No '''Xenophanes''' arose amongst the Jews to rebuke them for ascribing to Jahweh acts which would be accounted a shame and a disgrace amongst men; {{...}}}}
+#* {{quote-book|en|1985|Michael Despland|The Education of Desire|page=33|url=http://books.google.com/books?id=uwoEAQAAIAAJ
+|passage=Euthyphro is no '''Xenophanes''' but as a religious and thinking man he can turn to great teachers; {{...}}}}
+====Derived terms====
+* {{l|en|Xenophanean}}
+* {{l|en|Xenophanic}}
+====Translations====
+{{trans-top|a Greek philosopher and a poet}}
+* Armenian: {{t|hy|Քսենոփանես}}
+*: Old Armenian: {{t|xcl|Քսենոփանէս}}
+* Bengali: {{t|bn|জিনোফেনিস}}
+* Bulgarian: {{t|bg|Ксенофан}}
+* Chinese:
+*: Mandarin: {{t|cmn|色诺芬尼|sc=Hani}}
+* Dutch: {{t|nl|Xenophanes}}
+* Finnish: {{t|fi|Ksenofanes}}
+* French: {{t+|fr|Xénophane}}
+* German: {{t|de|Xenophanes}}
+* Greek: {{t+|el|Ξενοφάνης}}
+*: Ancient Greek: {{t|grc|Ξενοφάνης|m}}
+* Italian: {{t|it|Senofane}}
+* Japanese: {{t|ja|クセノパネス|tr=kusenopanesu|sc=Jpan}}
+{{trans-mid}}
+* Korean: {{t|ko|크세노파네스}}
+* Latin: {{t|la|Xenophanes}}
+* Latvian: {{t|lv|Ksenofans}}
+* Lithuanian: {{t|lt|Ksenofanas}}
+* Polish: {{t|pl|Ksenofanes}}
+* Portuguese: {{t|pt|Xenófanes}}
+* Romanian: {{t|ro|Xenofan}}
+* Russian: {{t|ru|Ксенофа́н|m}}
+* Slovak: {{t|sk|Xenofanes}}
+* Slovene: {{t|sl|Ksenofan}}
+* Spanish: {{t|es|Jenófanes}}
+* Turkish: {{t|tr|Ksenofanes}}
+* Ukrainian: {{t|uk|Ксенофан|m}}
+{{trans-bottom}}
+===Further reading===
+* {{R:OneLook}}
+[[Category:en:Individuals]]
+{{C|en|Philosophy|Ancient Greece}}</text>
+<sha1>j91a8zsxpc5c7oeuyunifjnixaadu9t</sha1>
+</revision>
+</page>

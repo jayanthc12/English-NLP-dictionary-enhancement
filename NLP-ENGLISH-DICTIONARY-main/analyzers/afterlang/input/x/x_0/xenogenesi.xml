@@ -1,0 +1,25 @@
+<page>
+<title>xenogenesi</title>
+<ns>0</ns>
+<id>1625357</id>
+<revision>
+<id>64656807</id>
+<parentid>58387229</parentid>
+<timestamp>2021-11-15T02:37:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert - in {{it-noun}} to #</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xeno|genesi}}
+===Noun===
+{{it-noun|f|#}}
+# {{lb|it|genetics}} [[xenogenesis]]</text>
+<sha1>89yy1yu8crhwsatrkyp5ifm2kvmoa7p</sha1>
+</revision>
+</page>

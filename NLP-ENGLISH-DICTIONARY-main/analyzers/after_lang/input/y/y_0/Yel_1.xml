@@ -1,0 +1,24 @@
+<page>
+<title>Yel</title>
+<ns>0</ns>
+<id>3167058</id>
+<revision>
+<id>54948127</id>
+<parentid>46429121</parentid>
+<timestamp>2019-10-10T04:14:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{given name}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">{{also|yel|ýel|þel}}
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}</text>
+<sha1>sffkmisng476cdd9524qkkx4oc7sp49</sha1>
+</revision>
+</page>

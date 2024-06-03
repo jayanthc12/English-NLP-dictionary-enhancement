@@ -1,0 +1,34 @@
+<page>
+<title>yhdyskunta</title>
+<ns>0</ns>
+<id>479555</id>
+<revision>
+<id>69318390</id>
+<parentid>54245705</parentid>
+<timestamp>2022-09-18T17:15:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|yhdys-|kunta}}
+===Pronunciation===
+{{fi-p|yhdys-kunta}}
+===Noun===
+{{head|fi|noun}}
+# [[community]]
+# animal [[colony]]
+====Declension====
+{{fi-decl-koira|yhdysku|nt|nn|a}}
+====Compounds====
+* {{l|fi|huvilayhdyskunta}}
+* {{l|fi|mehiläisyhdyskunta}}
+* {{l|fi|yhdyskuntajäte}}</text>
+<sha1>o9s51ps2znxsardbh2o1b5h08foccx9</sha1>
+</revision>
+</page>

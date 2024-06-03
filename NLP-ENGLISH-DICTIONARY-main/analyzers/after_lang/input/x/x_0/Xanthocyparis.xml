@@ -1,0 +1,43 @@
+<page>
+<title>Xanthocyparis</title>
+<ns>0</ns>
+<id>5580938</id>
+<revision>
+<id>58943441</id>
+<parentid>58943311</parentid>
+<timestamp>2020-03-22T19:22:30Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1483" xml:space="preserve">==Translingual==
+[[File:Cupressus vietnamensis - Quarryhill Botanical Garden - DSC03483.JPG|thumb|{{taxlink|Xanthocyparis vietnamensis|species|'''Xanthocyparis''' vietnamensis|ver=161210}}]]
+===Etymology===
+{{confix|mul|xantho|cyparis|t1=yellow|t2=cypress}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Cupressaceae|two species of trees, now often included in genus ''[[Cupressus]]''}}
+====Usage notes====
+* Whether these two species should be considered as constituting a distinct genus is not fully resolved.
+====Synonyms====
+* {{sense|genus}} {{taxlink|Callitropsis|genus|ver=161210}}
+====Hypernyms====
+* {{sense|genus}} {{Cupressaceae Hypernyms}}; [[Cupressoideae]]&amp;nbsp;- subfamily
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xanthocyparis vietnamensis|species|ver=161210}}&amp;nbsp;- type species; {{taxlink|Xanthocyparis nootkatensis|species|ver=161210}} (syn. {{taxlink|Cupressus nootkatensis|species|ver=161210}})&amp;nbsp;- other species
+====Coordinate terms====
+* {{sense|genus in Cupressoideae}} ''[[Calocedrus]]'', ''[[Chamaecyparis]]'', ''[[Cupressus]]'', {{taxlink|Fokienia|genus|ver=161210}}, †{{taxlink|Fokieniopsis|genus|ver=161210}}, ''[[Juniperus]]'', ''[[Microbiota]]'', ''[[Platycladus]]'', ''[[Tetraclinis]]'', ''[[Thuja]]'', ''[[Thujopsis]]''&amp;nbsp;- genera
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:NCBI|257622|i=1}}
+* {{R:EOL|i=1|41448}}
+* {{R:GRIN|genus|i=1|19429}}
+* {{R:Tropicos|i=1|50218425}}</text>
+<sha1>cd8hy0ezn3bu6amqqr8lb38qf647ras</sha1>
+</revision>
+</page>

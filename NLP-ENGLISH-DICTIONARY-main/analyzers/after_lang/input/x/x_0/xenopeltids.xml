@@ -1,0 +1,23 @@
+<page>
+<title>xenopeltids</title>
+<ns>0</ns>
+<id>3728971</id>
+<revision>
+<id>56147656</id>
+<parentid>53092257</parentid>
+<timestamp>2019-10-17T05:49:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenopeltid}}</text>
+<sha1>ho3g3b0ldwvvhlpa8x60wwj0h6fchj6</sha1>
+</revision>
+</page>

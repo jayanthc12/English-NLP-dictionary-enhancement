@@ -1,0 +1,23 @@
+<page>
+<title>xtals</title>
+<ns>0</ns>
+<id>5875425</id>
+<revision>
+<id>55965412</id>
+<parentid>53092426</parentid>
+<timestamp>2019-10-16T11:36:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="70" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xtal}}</text>
+<sha1>s0yr9t6gaglzxb45s0rxswofpj5ntwv</sha1>
+</revision>
+</page>

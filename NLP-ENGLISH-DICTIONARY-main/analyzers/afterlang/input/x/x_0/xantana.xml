@@ -1,0 +1,24 @@
+<page>
+<title>xantana</title>
+<ns>0</ns>
+<id>5211344</id>
+<revision>
+<id>60201096</id>
+<parentid>36529467</parentid>
+<timestamp>2020-09-01T08:17:52Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Bot: Convert nym sections to templates</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|m}}
+# [[xanthan gum]]
+#: {{syn|es|goma xantana|xantano}}</text>
+<sha1>iqr7uif5w079laoddzp90ud6pbyw22y</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xene</title>
+<ns>0</ns>
+<id>1611611</id>
+<revision>
+<id>45066716</id>
+<parentid>38344562</parentid>
+<timestamp>2017-05-25T19:59:38Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Galician==
+===Noun===
+{{gl-noun|m}}
+# [[gene]]
+====Related terms====
+* {{l|gl|xenética}}
+* {{l|gl|xenético}}
+* {{l|gl|xenoma}}
+[[Category:gl:Genetics]]</text>
+<sha1>66ejyp2nzhcaxk7g87vf3k1fz3lvlfz</sha1>
+</revision>
+</page>

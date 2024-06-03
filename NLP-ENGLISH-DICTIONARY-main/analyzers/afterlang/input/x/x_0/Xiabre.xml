@@ -1,0 +1,35 @@
+<page>
+<title>Xiabre</title>
+<ns>0</ns>
+<id>6737708</id>
+<revision>
+<id>60939775</id>
+<parentid>60279525</parentid>
+<timestamp>2020-10-24T07:55:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{PIE root}} to {{root|...|ine-pro}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1000" xml:space="preserve">==Galician==
+[[File:Monte Xiabre desde Lobeira.jpg|thumb|''Monte Xiabre'']]
+===Etymology===
+{{root|gl|ine-pro|*bʰerǵʰ-}}
+A {{der|gl|cel|}} place name: from *''Senabre'',&lt;ref&gt;Moralejo, Juan José (2009). &quot;Hidronimia prerromana de Gallaecia&quot;. In Kremer, Dieter. Onomástica galega II : onimia e onomástica prerromana e a situación lingüística do noroeste peninsular : actas do segundo coloquio, Leipzig, 17 3 18 de outubro de 2008. Santiago de Compostela: Universidade de Santiago de Compostela. page 42. {{ISBN|978-84-9887-141-8}}.&lt;/ref&gt; from {{der|gl|cel-pro||*Senobrix}} or {{m|cel-pro||*Senā brix}}, from {{m|cel-pro|*seno-|t=old &gt;? tall}} + {{m|cel-pro|*brixs|t=hill, hill-fort}}.&lt;ref&gt;{{R:Matasovic 2009|77, 330}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|gl|/ʃiˈaβɾe̝/}}
+===Proper noun===
+{{gl-proper noun|m}}
+# {{place|gl|mountain|p/Pontevedra|autonomous community/Galicia}}.
+====Related terms====
+* {{l|gl|Seabra}}
+* {{l|gl|Xabrega}}
+* {{l|gl|xabrés}}
+===References===
+&lt;references/&gt;</text>
+<sha1>nodqwxk2zwg6bt87176me3m5670m1jg</sha1>
+</revision>
+</page>

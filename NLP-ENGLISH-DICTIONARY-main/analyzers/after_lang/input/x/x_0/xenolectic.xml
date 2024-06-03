@@ -1,0 +1,26 @@
+<page>
+<title>xenolectic</title>
+<ns>0</ns>
+<id>6034786</id>
+<revision>
+<id>64460163</id>
+<parentid>58021501</parentid>
+<timestamp>2021-10-28T12:15:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xenolect|ic}}
+===Pronunciation===
+* {{rhymes|en|ɛktɪk|s=4}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|rare}} [[xenolectal]]</text>
+<sha1>mwmok84jhquzyimk15p0oa6afwo3hqk</sha1>
+</revision>
+</page>

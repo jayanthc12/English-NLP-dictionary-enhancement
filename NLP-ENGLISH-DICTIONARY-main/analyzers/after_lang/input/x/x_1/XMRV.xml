@@ -1,0 +1,26 @@
+<page>
+<title>XMRV</title>
+<ns>0</ns>
+<id>2248251</id>
+<revision>
+<id>65593261</id>
+<parentid>42957129</parentid>
+<timestamp>2022-01-31T16:47:37Z</timestamp>
+<contributor>
+<username>StuckInLagToad</username>
+<id>3816384</id>
+</contributor>
+<minor />
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{taxlink|Xenotropic murine leukemia virus|subspecies|noshow=1|ver=170115}}, a laboratory-created [[virus]] thought capable of infecting [[human]]s, now believed to be a contaminant.
+===Further reading===
+* {{pedia|i=1}}
+{{c|en|Viruses}}</text>
+<sha1>rrltjrpkg8n3i1950lcfet7k7xkm5hy</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>Yanni</title>
+<ns>0</ns>
+<id>6295946</id>
+<revision>
+<id>69438633</id>
+<parentid>67797210</parentid>
+<timestamp>2022-10-03T13:56:35Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio En-Yanni.oga; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="361" xml:space="preserve">==English==
+===Pronunciation===
+* {{audio|en|En-Yanni.oga|Audio}}
+===Proper noun===
+{{en-proper noun|Yannis}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yanni'' is the 29793&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 789 individuals. ''Yanni'' is most common among White (89.48%) individuals.</text>
+<sha1>m2bo6vlb432iqo3gn0sups8nwhvbjxt</sha1>
+</revision>
+</page>

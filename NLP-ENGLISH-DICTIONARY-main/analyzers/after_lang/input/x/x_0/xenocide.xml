@@ -1,0 +1,51 @@
+<page>
+<title>xenocide</title>
+<ns>0</ns>
+<id>98202</id>
+<revision>
+<id>67889557</id>
+<parentid>59338868</parentid>
+<timestamp>2022-07-12T01:40:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1714" xml:space="preserve">==English==
+{{was wotd|2015|November|1}}
+===Etymology===
+{{confix|en|xeno|cide}}
+===Pronunciation===
+* {{IPA|en|/ˈzɛnəsaɪd/|/ˈziːnəsaɪd/}}
+* {{audio|en|en-au-xenocide.ogg|Audio (AU)}}
+===Noun===
+{{en-noun|~}}
+# The [[killing]] of a [[stranger]] or [[foreigner]].
+#* {{quote-book|en|year=2009|author=Andrei Oisteanu|title=Inventing the Jew: Antisemitic Stereotypes|passage=As notorious examples of ritual '''xenocide''', suffice it to mention the foreigners sacrificed on the altar of the goddess Artemis in Colchis, on the eastern shore of the Black Sea (Diodorus Siculus, ''Bibliotheca Historica'', 4.45) as well as the ritual of beheading strangers when the reaping season drew to a close, performed by the legendary Lityerses, king of Phyrgia. [...] [In] an act of ritual '''xenocide''' in a Cossack villafe [...] Cossacks kill a Turkish woman[.]}}
+# {{lb|en|[[science fiction]]}} The [[genocide]] of an entire [[alien]] [[species]].
+#* '''1996''': Orson Scott Card, ''Children of the Mind''
+#*: The age that began with one '''xenocide''' attempted had now ended with other '''xenocides''' prevented or, at least, postponed.
+# {{lb|en|US|colloquial}} The intentional killing of an entire foreign (plant or animal) species.
+====Derived terms====
+* {{l|en|xenocidal}}
+====Translations====
+{{trans-top|genocide of entire alien species}}
+* Finnish: {{t|fi|lajinmurha}}
+* French: {{t|fr|xénocide}}
+* German: {{t|de|Xenozid|m|n}}
+* Greek: {{t|el|ξενοκτονία|f}}
+{{trans-mid}}
+* Italian: {{t|it|xenocidio|m}}
+* Polish: {{t|pl|ksenocyd}}
+* Russian: {{t|ru|ксеноци́д|m}}
+* Spanish: {{t|es|xenocidio|m}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia}}
+[[Category:en:Science fiction]]</text>
+<sha1>paqfnv9kzrotzczg3j0qbvtt66lg7ix</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>xudahafiz</title>
+<ns>0</ns>
+<id>6446061</id>
+<revision>
+<id>60270577</id>
+<parentid>59185525</parentid>
+<timestamp>2020-09-05T09:15:12Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="437" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{bor|az|fa|خداحافظ|tr=xodâhâfez}}.
+===Pronunciation===
+* {{IPA|az|/xudɑːˈfiz/}}
+===Interjection===
+{{head|az|interjection}}
+# [[goodbye]] {{C|az|Farewells}}
+#: {{ux|az|O mənə baxaraq gülümsədi və '''&quot;xudahafiz&quot;''' dedi.|S/he looked at me smiling and said '''&quot;goodbye&quot;'''}}
+====Derived terms====
+{{l|az|xudahafizləşmək|t=to say goodbye}}
+[[Category:Azerbaijani phrasebook]]</text>
+<sha1>ezf5949kex7jizht2vz24tv3xlmwdop</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xanthogranulomatous</title>
+<ns>0</ns>
+<id>3392816</id>
+<revision>
+<id>69050981</id>
+<parentid>51087797</parentid>
+<timestamp>2022-09-03T05:38:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# Relating to [[xanthogranuloma]]ta.
+[[Category:English terms suffixed with -ous]]</text>
+<sha1>abr09kbkyhn4mouysca5i8q5ff7akqz</sha1>
+</revision>
+</page>

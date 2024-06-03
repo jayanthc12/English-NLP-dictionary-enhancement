@@ -1,0 +1,23 @@
+<page>
+<title>Yahvists</title>
+<ns>0</ns>
+<id>5078185</id>
+<revision>
+<id>55833014</id>
+<parentid>53092613</parentid>
+<timestamp>2019-10-16T05:13:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yahvist}}</text>
+<sha1>2vq2ahvxwab756y3l6hbc33np8j2rxe</sha1>
+</revision>
+</page>

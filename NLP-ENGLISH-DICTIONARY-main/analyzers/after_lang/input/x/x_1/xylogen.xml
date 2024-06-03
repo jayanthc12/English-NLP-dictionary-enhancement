@@ -1,0 +1,29 @@
+<page>
+<title>xylogen</title>
+<ns>0</ns>
+<id>3034748</id>
+<revision>
+<id>50855965</id>
+<parentid>47432949</parentid>
+<timestamp>2018-11-27T05:17:20Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xylo|gen}}
+===Noun===
+{{en-noun|-}}
+# [[nascent|Nascent]] [[wood]]; wood [[cell]]s in a forming state.
+#* '''1858''', Grover Coe, ''Concentrated organic medicines'' (page 43)
+#*: '''Xylogen''' is found in the primary cell-wall, and in the thickening layers of all woody cells.
+===Anagrams===
+* {{anagrams|en|a=eglnoxy|loxygen}}</text>
+<sha1>0v0fhslve0euckh68u1zzd8pf0xkqw0</sha1>
+</revision>
+</page>

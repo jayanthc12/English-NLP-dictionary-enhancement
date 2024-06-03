@@ -1,0 +1,27 @@
+<page>
+<title>xomplelo</title>
+<ns>0</ns>
+<id>6867148</id>
+<revision>
+<id>50240495</id>
+<parentid>50240254</parentid>
+<timestamp>2018-09-01T08:26:11Z</timestamp>
+<contributor>
+<username>Lvovmauro</username>
+<id>3369365</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="705" xml:space="preserve">==Morelos Nahuatl==
+===Etymology===
+Borrowed from {{bor|nhm|es|sombrero}}. Compare {{cog|nci|sombrero}}, {{cog|azz|sombre̱roj}}, {{cog|ncj|xompilelo}}, {{cog|nhg|xomplielojtli̱}}, {{cog|nhi|sombrero}}.
+===Noun===
+{{head|nhm|noun}}
+# [[hat|Hat]].
+===References===
+* {{cite-book|author=Instituto Lingüístico de Verano, A.C.|authorlink=Instituto Lingüístico de Verano (Mexico)|chapter=Tlenon ika totlakentiaj|title=Pequeño diccionario ilustrado: Náhuatl de Cuentepec, Morelos|url=https://www.sil.org/resources/archives/12750|edition=segunda edición|location=Tlalpan, D.F., México|publisher=Instituto Lingüístico de Verano, A.C.|year=2005|year_published=2006|page=19}}
+{{topics|nhm|Headwear}}</text>
+<sha1>o0o4kepg2ax5y8x8x2iydntyhqj0xvh</sha1>
+</revision>
+</page>

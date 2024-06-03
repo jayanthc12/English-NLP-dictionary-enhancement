@@ -1,0 +1,27 @@
+<page>
+<title>xohnal</title>
+<ns>0</ns>
+<id>6626334</id>
+<revision>
+<id>56538688</id>
+<parentid>49335815</parentid>
+<timestamp>2019-10-18T06:30:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Seri==
+===Pronunciation===
+* {{IPA|sei|/ˈχoʔnɑɬ/}}
+===Numeral===
+{{head|sei|numeral}}
+# {{lb|sei|archaic}} [[ten]]
+====See also====
+{{sei-numerals}}</text>
+<sha1>t93dl5wrud208j5u3lsve7xlu3j371l</sha1>
+</revision>
+</page>

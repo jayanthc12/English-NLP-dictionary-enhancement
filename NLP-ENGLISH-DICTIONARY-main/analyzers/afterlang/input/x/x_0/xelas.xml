@@ -1,0 +1,23 @@
+<page>
+<title>xelas</title>
+<ns>0</ns>
+<id>4352077</id>
+<revision>
+<id>53120111</id>
+<parentid>44054788</parentid>
+<timestamp>2019-05-19T06:05:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'second-person singular present subjunctive' to 2|s|pres|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xelar||2|s|pres|sub}}</text>
+<sha1>3r71tkc2fma07qowwktf9yfdfmy88xp</sha1>
+</revision>
+</page>

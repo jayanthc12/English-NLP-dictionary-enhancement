@@ -1,0 +1,54 @@
+<page>
+<title>yamot</title>
+<ns>0</ns>
+<id>6086169</id>
+<revision>
+<id>67057389</id>
+<parentid>65199442</parentid>
+<timestamp>2022-05-18T00:47:58Z</timestamp>
+<contributor>
+<username>Otterfolwer</username>
+<id>3895884</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="930" xml:space="preserve">==Sambali==
+===Etymology===
+From {{inh|xsb|phi-pro|*ʀamut}}, from {{inh|xsb|poz-pro|*ʀamut||fibrous roots}}.
+===Noun===
+{{head|xsb|noun|head=yamót}}
+# [[root]] {{gloss|of a plant}}
+----
+==Tagalog==
+===Etymology 1===
+====Pronunciation====
+* {{hyph|tl|ya|mot}}
+* {{tl-IPA}}
+* {{rhymes|tl|ot|s=2}}
+====Noun====
+{{tl-noun}}
+# [[stubble]] left in the [[ground]] after [[cut]]ting or [[reap]]ing [[rice]], [[wheat]], or [[sugarcane]]
+# [[stubble]] of a [[man]]'s [[beard]] still [[show]]ing after [[shave|shaving]]
+===Etymology 2===
+====Pronunciation====
+* {{hyph|tl|ya|mot}}
+* {{tl-IPA|yamót}}
+* {{rhymes|tl|ot|s=2}}
+====Adjective====
+{{head|tl|adjective|head=yamót}}
+# [[irritated]]; [[vexed]]; [[annoyed]]
+=====Synonyms=====
+* {{l|tl|galit}}
+* {{l|tl|inip}}
+* {{l|tl|inis}}
+* {{l|tl|sura}}
+* {{l|tl|suya}}
+====Noun====
+{{tl-noun|yamót}}
+# [[annoyance]]
+# [[ennui]]
+# [[irritation]]; [[displeasure]]; [[dislike]]</text>
+<sha1>mbcnnx1z9486y3y4a4bjld0pe2a171h</sha1>
+</revision>
+</page>

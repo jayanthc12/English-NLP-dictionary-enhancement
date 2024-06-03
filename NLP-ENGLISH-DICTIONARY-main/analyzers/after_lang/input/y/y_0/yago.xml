@@ -1,0 +1,39 @@
+<page>
+<title>yago</title>
+<ns>0</ns>
+<id>80515</id>
+<revision>
+<id>67999354</id>
+<parentid>62125010</parentid>
+<timestamp>2022-07-18T00:33:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yacer]] with 'yacer'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="403" xml:space="preserve">{{also|Yago|yágo}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やご}}
+# {{ja-romanization of|ヤゴ}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}
+#: {{syn|es|yazco|yazgo}}
+----
+==Tagalog==
+===Noun===
+{{tl-noun}}
+# [[sap]]; [[juice]] {{gloss|as of trees, plants, etc.}}
+#: {{syn|tl|dagta|gata|katas}}</text>
+<sha1>ar6w3u8zzo6pfnyhqcpx8qxg0hsxiel</sha1>
+</revision>
+</page>

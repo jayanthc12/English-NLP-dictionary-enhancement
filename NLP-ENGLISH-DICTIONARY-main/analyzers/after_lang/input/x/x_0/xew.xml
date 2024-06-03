@@ -1,0 +1,50 @@
+<page>
+<title>xew</title>
+<ns>0</ns>
+<id>852261</id>
+<revision>
+<id>65320611</id>
+<parentid>64867437</parentid>
+<timestamp>2022-01-12T04:54:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Northern Kurdish: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="792" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+{{root|kmr|ine-pro|*swep-}}
+From {{inh|kmr|ira-pro|*hwápnas}}, from {{inh|kmr|iir-pro|*swápnas}}, ultimately from {{der|kmr|ine-pro|*swépnos||sleep}}, from {{m|ine-pro|*swep-||to sleep}}. Cognate with {{cog|en|sweven||dream, vision}}.
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# {{qualifier|uncountable}} [[sleep]]
+====Derived terms====
+* {{l|kmr|xew kirin}}
+====Related terms====
+* {{l|kmr|xewn}}
+{{cln|kmr|three-letter words}}
+----
+==Wolof==
+===Verb===
+{{head|wo|verb}}
+# to [[happen]]
+===Noun===
+{{wo-noun|mi}}
+# [[occasion]], [[ceremony]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=259
+|isbn=978-1-59703-017-5}}</text>
+<sha1>2lzuwkomtu42juu13b3tl943mcd5lp4</sha1>
+</revision>
+</page>

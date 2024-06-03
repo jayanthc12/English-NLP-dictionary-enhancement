@@ -1,0 +1,39 @@
+<page>
+<title>xerography</title>
+<ns>0</ns>
+<id>85361</id>
+<revision>
+<id>67546246</id>
+<parentid>64460179</parentid>
+<timestamp>2022-06-26T02:10:33Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<comment>t+de:[[Xerografie]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="725" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{confix|en|xero|graphy}}
+===Pronunciation===
+* {{rhymes|en|ɒɡɹəfi|s=4}}
+===Noun===
+{{en-noun|-}}
+# a [[photocopy]]ing [[process]] in which a [[negative]] [[image]] formed on an [[electrical]]ly [[charge]]d [[plate]] is [[transfer]]red as a [[positive]] to [[paper]] and [[thermal]]ly [[fixed]]
+====Translations====
+{{trans-top|photocopying process}}
+* Catalan: {{t+|ca|xerografia|f}}
+* Finnish: {{t|fi|kserografia}}
+* French: {{t+|fr|xérographie|f}}, {{t+|fr|électrophotographie|f}}
+{{trans-mid}}
+* German: {{t+|de|Xerografie|f}}
+* Irish: {{t|ga|xéireagrafaíocht|f}}
+* Spanish: {{t+|es|xerografía|f}}
+* Swedish: {{t|sv|xerografi|c}}
+{{trans-bottom}}
+{{c|en|Printing}}</text>
+<sha1>c2b3r0htmniumzqc8k1rrosum4srnp8</sha1>
+</revision>
+</page>

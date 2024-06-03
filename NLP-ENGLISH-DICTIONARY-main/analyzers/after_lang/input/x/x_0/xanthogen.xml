@@ -1,0 +1,27 @@
+<page>
+<title>xanthogen</title>
+<ns>0</ns>
+<id>1242679</id>
+<revision>
+<id>55516549</id>
+<parentid>46268768</parentid>
+<timestamp>2019-10-15T04:42:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==English==
+===Etymology===
+{{affix|en|xanth-|-o-|-gen}}
+===Pronunciation===
+* {{audio|en|en-uk-xanthogen.ogg|Audio (UK)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|chemistry|dated}} Formerly, a [[hypothetical]] [[radical]] supposed to be characteristic of [[xanthic acid]].</text>
+<sha1>pln50i06367drb6tqr86fhn0ip9idsf</sha1>
+</revision>
+</page>

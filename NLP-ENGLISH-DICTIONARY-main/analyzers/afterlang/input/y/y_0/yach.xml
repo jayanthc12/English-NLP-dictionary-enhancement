@@ -1,0 +1,31 @@
+<page>
+<title>yach</title>
+<ns>0</ns>
+<id>6086605</id>
+<revision>
+<id>61255071</id>
+<parentid>61255070</parentid>
+<timestamp>2020-12-05T17:05:13Z</timestamp>
+<contributor>
+<username>Djkcel</username>
+<id>331460</id>
+</contributor>
+<minor />
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="448" xml:space="preserve">==Middle Welsh==
+===Alternative forms===
+* {{l|wlm|iach}}
+===Etymology===
+From {{inh|wlm|cel-pro|*yekkā|t=healthy}}. Cognate with {{cog|xbm|yach}}, {{cog|cnx|yagh}}, and {{cog|cel-gau|Iaccus|pos=personal name}}. Perhaps cognate with {{cog|sga|ícc|t=cure, healing}}; see that entry for more details.
+===Pronunciation===
+* {{IPA|wlm|/jax/}}
+===Adjective===
+{{head|wlm|adjective}}
+# [[healthy]], [[well]]
+====Descendants====
+* {{desc|cy|iach}}</text>
+<sha1>oi166blhzjq8dsjlm97g74mh4du2ltv</sha1>
+</revision>
+</page>

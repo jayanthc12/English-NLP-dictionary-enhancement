@@ -1,0 +1,32 @@
+<page>
+<title>Xiphiidae</title>
+<ns>0</ns>
+<id>261817</id>
+<revision>
+<id>52128081</id>
+<parentid>51832963</parentid>
+<timestamp>2019-03-28T20:52:14Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Hypernyms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="401" xml:space="preserve">==Translingual==
+===Etymology===
+{{suffix|mul|Xiphias|idae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|family|order|Istiophoriformes|the [[swordfish]]}}
+====Hypernyms====
+* {{sense|family}} {{Teleostei Hypernyms}}; {{l|mul|Istiophoriformes}}&amp;nbsp;- order
+====Hyponyms====
+* {{sense|family}} ''[[Xiphias]]''&amp;nbsp;- sole extant genus
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}</text>
+<sha1>s1gmlpck8tc5qrkkmpo5u24sffmpsr6</sha1>
+</revision>
+</page>

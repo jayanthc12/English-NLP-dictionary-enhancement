@@ -1,0 +1,37 @@
+<page>
+<title>xenxibre</title>
+<ns>0</ns>
+<id>1610018</id>
+<revision>
+<id>68861520</id>
+<parentid>68829337</parentid>
+<timestamp>2022-08-28T05:08:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1160" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xenxebre}}
+===Etymology===
+Attested since circa 1409 ({{m|gl||gengivre}}). From {{der|gl|ML.|gingiber}}, {{m|la|zingeber}}, from {{der|gl|la|zingiberī}}, from {{der|gl|grc|ζιγγίβερις}}, from {{der|gl|psu|सिङ्गबेर|tr=siṅgabera}}, from {{der|gl|sa|शृङ्गवेर}}) (influenced by {{m|sa|शृङ्गं|t=horn}}), from {{der|gl|oty|tr=iṅci|5=ginger}} + {{m|oty|tr=vēr|4=root}} (modern {{cog|ta|இஞ்சி|t=ginger}} + {{m|ta|வேர்|t=root}}).
+===Pronunciation===
+* {{IPA|gl|[ʃenˈʃiβɾɪ]}}
+===Noun===
+{{gl-noun|m}}
+# [[ginger]] (plant and spice)
+#* '''1409''', G. Pérez Barcala (ed.), ''A tradución galega do &quot;Liber de medicina equorum&quot; de Joradanus Ruffus''. Santiago de Compostela: USC, page 175:
+#*: ''filla tres dramas de cravos girofes e tres onças de galingal e outro tanto de cardomomo e outro tanto de '''gengivre''' e outro tanto d’alcoravina e outro tanto de canela, e a semente do fuuncho en maior contia destas todas.''
+===References===
+* {{R:gl:CX|gengivre}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Plants]]</text>
+<sha1>bgbny3kkt313vs9qc5bjplydvzptgju</sha1>
+</revision>
+</page>

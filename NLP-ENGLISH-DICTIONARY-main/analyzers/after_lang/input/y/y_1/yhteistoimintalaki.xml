@@ -1,0 +1,32 @@
+<page>
+<title>yhteistoimintalaki</title>
+<ns>0</ns>
+<id>4612433</id>
+<revision>
+<id>69318470</id>
+<parentid>61735701</parentid>
+<timestamp>2022-09-18T17:19:49Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="815" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhteistoiminta|laki|t1=cooperation|t2=act|id2=law}}; short for ''laki yhteistoiminnasta yrityksissä'', decree nr. 334/2007.
+===Pronunciation===
+{{fi-p|yhteis-toiminta/laki}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[act|Act]] on Co-operation within [[undertaking|Undertakings]] {{gloss|law aiming to enhance employees’ opportunities to be heard in decision-making in workplaces and improve their position in organizational changes, especially in reduction of workforce}}
+====Usage notes====
+* In some other countries similar pieces of legislation are called &quot;Industrial Cooperation Act&quot;.
+====Declension====
+{{fi-decl-risti|yhteistoimintala|k||a}}
+====References====
+* Full English version of the law [http://www.finlex.fi/en/laki/kaannokset/2007/en20070334.pdf].</text>
+<sha1>r8hdww0idfzbbiqhv36flfxmov97171</sha1>
+</revision>
+</page>

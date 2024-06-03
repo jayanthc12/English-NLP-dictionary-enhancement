@@ -1,0 +1,42 @@
+<page>
+<title>xenial</title>
+<ns>0</ns>
+<id>221948</id>
+<revision>
+<id>67287659</id>
+<parentid>64633442</parentid>
+<timestamp>2022-06-06T08:54:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="881" xml:space="preserve">==English==
+{{was wotd|2007|February|15}}
+===Etymology===
+From {{uder|en|grc|ξενία||hospitality; relations of hospitality between states or between a person and a state; the status of an alien, i.e., not a citizen}}.
+===Pronunciation===
+* {{IPA|en|/ˈziːnɪəl/|/ˈziːnjəl/}}
+* {{audio|en|en-us-xenial.ogg|Audio (US)}}
+===Adjective===
+{{en-adj}}
+# [[hospitable|Hospitable]], especially to visiting [[stranger]]s or [[foreigner]]s.
+# Of the relation between a [[host]] and [[guest]]; friendly.
+====Translations====
+{{trans-top|hospitable}}
+* Azerbaijani: {{t|az|qonaqpərvər}}
+* Czech: {{t|cs|pohostinný}}
+* Finnish: {{t+|fi|vieraanvarainen}}
+{{trans-mid}}
+* French: {{t+|fr|accueillant}}, {{t+|fr|hospitalier}}
+* Polish: {{t+|pl|gościnny|m}}
+* Russian: {{t+|ru|гостеприи́мный}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aeilnx|alexin|exinal}}</text>
+<sha1>m562r4608qpike51vicdfx2ddo2m0gq</sha1>
+</revision>
+</page>

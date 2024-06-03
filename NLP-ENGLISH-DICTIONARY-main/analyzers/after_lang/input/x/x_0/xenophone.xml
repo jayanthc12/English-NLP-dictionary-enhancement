@@ -1,0 +1,34 @@
+<page>
+<title>xenophone</title>
+<ns>0</ns>
+<id>1173866</id>
+<revision>
+<id>66516424</id>
+<parentid>65230576</parentid>
+<timestamp>2022-04-27T00:13:28Z</timestamp>
+<contributor>
+<username>InternetArchiveBot</username>
+<id>3438671</id>
+</contributor>
+<comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8.7</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="809" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|phone}}
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzɛn.ə.fəʊn/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|phonetics}} A [[sound]] in speech that is not native to the language being spoken; a sound from a foreign language
+===References===
+The term was introduced in:
+[http://roberteklund.info Robert Eklund] &amp; Anders Lindström. 1998.
+How To Handle “Foreign” Sounds in Swedish Text-to-Speech Conversion: Approaching the ‘Xenophone’ Problem.
+''Proceedings of The International Conference on Spoken Language Processing'', 30 November–5 December 1998, Sydney, Australia. Paper 514, vol. 7, pp. 2831–2834.
+[https://web.archive.org/web/20050518114442/http://www.ida.liu.se/~g-robek/icslp98xeno.pdf]
+Also see:
+[http://xenophones.info] http://xenophones.info</text>
+<sha1>szpejowg2shdjweu245vjpjizixig5b</sha1>
+</revision>
+</page>

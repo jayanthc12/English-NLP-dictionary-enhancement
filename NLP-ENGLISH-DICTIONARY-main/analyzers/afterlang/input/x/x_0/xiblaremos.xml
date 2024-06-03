@@ -1,0 +1,24 @@
+<page>
+<title>xiblaremos</title>
+<ns>0</ns>
+<id>4330346</id>
+<revision>
+<id>53115785</id>
+<parentid>40436490</parentid>
+<timestamp>2019-05-19T04:58:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person plural future' to 1|p|fut</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">{{also|xibláremos}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xiblar||1|p|fut}}</text>
+<sha1>m7ioy2r5fcbm325n4138jss4080h965</sha1>
+</revision>
+</page>

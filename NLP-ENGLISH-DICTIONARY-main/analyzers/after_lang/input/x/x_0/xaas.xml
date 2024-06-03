@@ -1,0 +1,27 @@
+<page>
+<title>xaas</title>
+<ns>0</ns>
+<id>5094059</id>
+<revision>
+<id>68837972</id>
+<parentid>62692227</parentid>
+<timestamp>2022-08-28T00:02:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="207" xml:space="preserve">==Somali==
+===Etymology===
+From {{inh|so|cus-pro|*ħaas-/*ħees-}}.
+===Noun===
+{{so-noun}}
+# [[spouse]], [[family]]
+===References===
+* “xaas” In: Abdullah Umar Mansur (1985) ''Qaamuska Afsoomaliga''.</text>
+<sha1>47avfe4t7k63hed8u0rwy3ltkowvg0i</sha1>
+</revision>
+</page>

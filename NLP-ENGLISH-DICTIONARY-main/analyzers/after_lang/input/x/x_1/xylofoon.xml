@@ -1,0 +1,29 @@
+<page>
+<title>xylofoon</title>
+<ns>0</ns>
+<id>814063</id>
+<revision>
+<id>54768038</id>
+<parentid>50641864</parentid>
+<timestamp>2019-10-06T07:02:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{audio}}; move lang= to 1= in {{hyphenation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="321" xml:space="preserve">==Dutch==
+===Etymology===
+Borrowed from {{bor|nl|de|Xylophon}}. Equivalent to {{confix|nl|xylo|foon}}.
+===Pronunciation===
+* {{IPA|nl|/ˌksi.loːˈfoːn/}}
+* {{audio|nl|Nl-xylofoon.ogg|Audio}}
+* {{hyphenation|nl|xy|lo|foon}}
+===Noun===
+{{nl-noun|m|-s|pl2=-en|xylofoontje}}
+# [[xylophone]] {{gloss|musical instrument}}</text>
+<sha1>faoonrzac9fhv3yeqkuyf7v24fzc9ir</sha1>
+</revision>
+</page>

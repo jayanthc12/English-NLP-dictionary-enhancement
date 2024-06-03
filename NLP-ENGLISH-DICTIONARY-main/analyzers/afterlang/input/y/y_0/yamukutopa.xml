@@ -1,0 +1,39 @@
+<page>
+<title>yamukutopa</title>
+<ns>0</ns>
+<id>4580546</id>
+<revision>
+<id>56322799</id>
+<parentid>46217821</parentid>
+<timestamp>2019-10-17T13:00:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1434" xml:space="preserve">==Wauja==
+===Pronunciation===
+* {{IPA|wau| /ˌja.muˌku.tɨˈpa/}}
+===Noun===
+{{head|wau|noun|plural|yamukutopanaun}}
+# [[adolescent]], [[youth]] {{gloss|male}}
+#: {{ux|wau|Aitsa hoona uma onejo sekunya. '''Yamukutopa''' neke ipitsi otain.|His father did not consent [to the marriage] in those days. He thought his son was still a youth.}}
+# young man {{gloss|not yet middle-aged, esp. if unmarried}}
+#: {{ux|wau|Wajamani ... katainhawi. Okupwona, Kawakanamu. Akamawi ... '''yamukutopeipei'''. Amunaunpetuai yiu, amunaunpei, '''yamukutopepei''' amunaun, akamawi. Amunaunpei Wajamani otain... Otukakalu, Yumekeju, Kawakanamu otukakalu.|Wajamani had a son named Kawakanamu. He died as an adolescent. He was just about to be made chief, made a chief, even though he was a young man, but he died. Wajamani's son was of chiefly rank ... his sister was Yumekeju.}}
+===Derived terms===
+* {{l|wau|yamukutopapuku}} (boy just before puberty)
+* {{l|wau|yamukutopalu}} (female adolescent)
+===Related terms===
+* {{l|wau|yamukutai}} (child)
+===See also===
+* {{l|wau|kanukiya}} (married man)
+* {{l|wau|manuya}} (batchelor)
+===References===
+* ''Wajamani ... katainhawi&quot; uttered by Aruta, storyteller and elder, recounting Wauja history in the presence of his son and nephew. Recorded in Piyulaga village by E. Ireland, 4/25/96, transcript page 21.''
+* ''Remaining utterances from E. Ireland field notes. Need to be checked by native speaker.''</text>
+<sha1>n0hsnfbmmr77ogjm50jp7zpcaq9la3h</sha1>
+</revision>
+</page>

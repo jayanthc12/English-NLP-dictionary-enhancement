@@ -1,0 +1,30 @@
+<page>
+<title>yawali</title>
+<ns>0</ns>
+<id>5857748</id>
+<revision>
+<id>64062943</id>
+<parentid>56422128</parentid>
+<timestamp>2021-09-29T11:05:50Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Pronunciation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="261" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/ˈjawali/}}
+===Verb===
+{{head|kld|verb}}
+# [[track]]
+# [[read]]
+===References===
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary
+* (2015) “Ma Gamilaraay”
+[[Category:Gamilaraay verbs ending in -li]]</text>
+<sha1>72zdg32goohm8049qo0h7fs3veqdsc9</sha1>
+</revision>
+</page>

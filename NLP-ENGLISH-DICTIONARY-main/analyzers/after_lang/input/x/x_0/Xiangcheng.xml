@@ -1,0 +1,80 @@
+<page>
+<title>Xiangcheng</title>
+<ns>0</ns>
+<id>6886538</id>
+<revision>
+<id>68534937</id>
+<parentid>68509272</parentid>
+<timestamp>2022-08-04T13:16:19Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1964 magazine</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2353" xml:space="preserve">{{also|xiāngchēng|xiāngchéng|xiāngchèng}}
+==English==
+{{wikipedia}}
+{{commonscat|Xiangcheng District, Xiangyang}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiang-ch'eng}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation for {{zh-l|襄城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Xiangyang|p/Hubei|c/China}}.
+# {{place|en|county|prefecture-level city/Xuchang|p/Henan|c/China}}.
+#* {{quote-journal
+|en
+|year=1964
+|month=January
+|title=Tombs 1,800-Year-Old
+|journal=Eastern Horizon
+|url=https://archive.org/details/sim_eastern-horizon_1964-01_3_1/
+|volume=III
+|issue=1
+|location=[[Hong Kong]]
+|publisher=Eastern Horizon Press
+|issn=0012-8813
+|oclc=751117974
+|page=68
+|pageurl=https://archive.org/details/sim_eastern-horizon_1964-01_3_1/page/68/
+|column=1
+|text=Two 1,800-year-old tombs, one of them in a rare architectural style, have recently been unearthed in Honan province, Central China. Many well-preserved stone reliefs, murals, calligraphy and funeral objects were found in the two tombs.&lt;br&gt;Of great interest to archæologists is a tomb in '''Hsiangcheng''' county which was built in 132 BC during the Han dynasty (206 BC—220 AD).
+|brackets=on}}
+=====Translations=====
+{{trans-top|district; county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|襄城|tr=Xiāngchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 2===
+From {{bor|en|cmn|-}} {{zh-l|項城}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|county-level city|prefecture-level city/Zhoukou|province/Henan|c/China}}.
+#* {{quote-web
+|en
+|date=2007/7/11
+|title=China hits back at defiant polluters
+|archiveurl=https://web.archive.org/web/20220801092337/https://jp.reuters.com/article/idUSPEK104311
+|archivedate=01 August 2022
+|work={{w|Reuters}}
+|section=Latest Crisis
+|text=In '''Xiangcheng''' city, Henan province, site of a huge monosodium glutamate plant, factories were not connected to the waste water treatment plant.}}
+=====Translations=====
+{{trans-top|county-level city}}
+* Chinese:
+*: Mandarin: {{t+|cmn|項城|sc=Hani}}, {{t+|cmn|项城|tr=Xiàngchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=acegghinnx|exchanging}}</text>
+<sha1>4ep15bfotmekrbh9nakqpj3zl7w67a8</sha1>
+</revision>
+</page>

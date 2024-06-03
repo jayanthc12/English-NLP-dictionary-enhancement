@@ -1,0 +1,88 @@
+<page>
+<title>yearning</title>
+<ns>0</ns>
+<id>85256</id>
+<revision>
+<id>69487383</id>
+<parentid>67301083</parentid>
+<timestamp>2022-10-10T04:32:12Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>Protected &quot;[[yearning]]&quot;: Well-attested spelling; should not be moved ([Move=Allow only administrators] (indefinite))</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3720" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ˈjɝnɪŋ/}}
+* {{a|RP}} {{IPA|en|/ˈjɜːnɪŋ/}}
+* {{audio|en|en-us-yearning.ogg|Audio (US)}}
+* {{rhymes|en|ɜː(ɹ)nɪŋ|s=2}}
+* {{hyph|en|yearn|ing}}
+===Etymology 1===
+{{root|en|ine-pro|*ǵʰer-|id=yearn}}
+From {{inh|en|enm|yerning}}, from {{inh|en|ang|ġierning}}, {{m|ang|ġierninge}}. Equivalent to the [[Appendix:Glossary#gerund|gerund]] ({{m|en|yearn}} + {{m|en|-ing}}). {{m|en|yearn}} comes from {{der|en|gmw-pro|*girnijan}}, from {{der|en|gem-pro|*girnijaną}}, from {{m|gem-pro|*gernaz||eager, willing}} + {{m|gem-pro|*-janą}}, from {{der|en|ine-pro|*ǵʰer-||to yearn for}}.
+====Noun====
+{{en-noun}}
+# A [[wistful]] or [[melancholy]] [[longing]].
+#: ''She had a '''yearning''' to see her long-lost sister again.''
+=====Related terms=====
+* {{l|en|yearn}}
+=====Translations=====
+{{trans-top|wistful or melancholy longing}}
+* Arabic: {{t+|ar|شَوْق|m}}
+* Armenian: {{t+|hy|կարոտ}}
+* Bulgarian: {{t+|bg|копнеж|m}}, {{t+|bg|жадуване|n}}
+* Catalan: {{t+|ca|anhel|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|憧憬|tr=chōngjǐng|sc=Hani}}
+* Czech: {{t|cs|stesk|m}}, {{t|cs|tesknění|n}}, {{t|cs|stýskání|n}}
+* Danish: {{t|da|længsel|c}}
+* Esperanto: {{t|eo|dezirego}}
+* Finnish: {{t+|fi|kaipuu}}, {{t+|fi|kaipaus}}, {{t+|fi|ikävä}}
+* French: {{t+|fr|aspiration|f}}, {{t+|fr|envie|f}}
+* Georgian: {{t|ka|წყურვილი}}
+* German: {{t+|de|Sehnsucht|f}}
+* Greek:
+*: Ancient: {{t|grc|πόθος|m}}, {{t|grc|ὄρεξις|f}}
+{{trans-mid}}
+* Hebrew: {{t+|he|כִּיסּוּפִים|tr=kisufim|sc=Hebr}}
+* Italian: {{t+|it|brama|f}}, {{t+|it|nostalgia|f}}, {{t+|it|anelito|m}}, {{t+|it|voglia|f}}, {{t+|it|desiderio|m}}, {{t+|it|bramosia|f}}, {{t+|it|struggimento|m}}
+* Japanese: {{t+|ja|あこがれ|tr=akogare}}
+* Kapampangan: {{t|pam|dulap}}
+* Korean: {{t+|ko|동경}}
+* Maori: {{t|mi|poreirewa}}
+* Polish: {{t+|pl|tęsknota|f}}
+* Portuguese: {{t+|pt|saudade}}
+* Romanian: {{t+|ro|dor|n}}, {{t|ro|dorință arzătoare|f}}, {{t+|ro|năzuință|f}}
+* Russian: {{t+|ru|тя́га|f}}, {{t+|ru|скло́нность|f}}, {{t+|ru|стремле́ние|n}}, {{t+|ru|тоска́|f}} {{qualifier|sadness}}
+* Sanskrit: {{t+|sa|छन्दस्|n}}
+* Serbo-Croatian: {{t+|sh|čežnja|f}}
+* Spanish: {{t+|es|anhelo|m}}
+* Tocharian B: {{t|txb|ñyās}}
+* Turkish: {{t+|tr|hasret}}, {{t+|tr|özlem}}
+{{trans-bottom}}
+====Verb====
+{{head|en|verb form}}
+# {{en-ing form of|yearn}}
+===Etymology 2===
+{{PIE word|en|ḱóm}}
+{{root|en|ine-pro|*h₃er-}}
+From earlier {{m|en|yerning}}, from {{inh|en|enm|yernyng}}, {{m|enm|erning}}, {{m|enm|renning}}. From {{inh|en|ang|rynning}} and {{m|ang|gerunnen}}, {{m|ang|geurnen||run together, coagulated, curdled}}, past participles of {{m|ang|gerinnan}}, {{m|ang|geirnan}}, respectively. Influenced by {{m+|enm|yern||to (cause to) coagulate or curdle|w=1}}, {{m+|ang|iernan||to run, flow|w=1}}, [[Appendix:Glossary#metathesis|metathesized]] forms derived from the same origin. From verbal prefix {{m|ang|ge-}} + {{m|ang|rinnan||to run}}. First element is from {{der|en|gmw-pro|*ga-}}, from {{der|en|gem-pro|*ga-}}, from {{der|en|ine-pro|*ḱóm||with, by}}; second element is from {{der|en|gem-pro|*rinnaną}}, from {{der|en|ine-pro|*h₃r̥-néw-ti}}, from {{m|ine-pro|*h₃er-||to move}}. {{doublet|en|rennet}}, {{doublet|en|run|notext=1}}.
+====Noun====
+{{en-noun|~}}
+# {{lb|en|Scottish|archaic}} [[rennet]] (an enzyme to curdle milk in order to make cheese).
+=====Related terms=====
+* {{l|en|yearn}}
+* {{l|en|earn}}
+* {{l|en|rennet}}
+===Anagrams===
+* {{anagrams|en|a=aeginnry|renaying}}
+[[Category:English abstract nouns]]
+[[Category:English verbal nouns]]
+[[Category:en:Enzymes]]</text>
+<sha1>bniguhmu9gdo0y0y9xwweyu81nm0qyf</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>xiangsheng</title>
+<ns>0</ns>
+<id>4213964</id>
+<revision>
+<id>58310385</id>
+<parentid>49459551</parentid>
+<timestamp>2020-01-07T14:47:35Z</timestamp>
+<contributor>
+<username>Ivnadur</username>
+<id>3610230</id>
+</contributor>
+<comment>t+ru:[[сяншэн]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="689" xml:space="preserve">{{also|xiàngsheng|xiǎngshēng}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|cmn|-}} {{zh-l|相聲|tr=xiàngsheng}}.
+===Noun===
+{{en-noun|-}}
+# A traditional style of [[Chinese]] [[comedy]], performed in rapid style.
+====Synonyms====
+* {{l|en|crosstalk}}
+====Translations====
+{{trans-top|traditional style of Chinese comedy}}
+* Chinese:
+*: Cantonese: {{t|yue|相聲}}, {{t|yue|相声|tr=soeng3 sing1}}
+*: Mandarin: {{t+|cmn|相聲}}, {{t+|cmn|相声|tr=xiàngsheng}}
+* Finnish: {{t|fi|xiangsheng}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t-needed|ko}}
+* Russian: {{t+|ru|сяншэ́н|m}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
+[[Category:en:Comedy]]</text>
+<sha1>szwnoiz14m0yjdpf525ppq3wxs7xyey</sha1>
+</revision>
+</page>

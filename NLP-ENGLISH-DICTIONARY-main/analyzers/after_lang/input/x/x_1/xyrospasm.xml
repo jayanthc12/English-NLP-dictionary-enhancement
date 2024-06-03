@@ -1,0 +1,34 @@
+<page>
+<title>xyrospasm</title>
+<ns>0</ns>
+<id>3021967</id>
+<revision>
+<id>51778201</id>
+<parentid>50855919</parentid>
+<timestamp>2019-03-13T14:48:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="985" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xyr|alt1=xyro|gloss1=razor|spasm}}
+===Noun===
+{{en-noun|?}}
+# {{lb|en|rare}} A {{l|en|spasm}} experienced whilst attempting to use a shaving {{l|en|razor}}.
+#* '''1904''', [[w:Hermann Oppenheim|Hermann Oppenheim]], ''Diseases of the Nervous System'' ([[w:J. B. Lippincott &amp; Co.|J.B. Lippincott Co.]]), &lt;span class=&quot;plainlinks&quot;&gt;[http://books.google.co.uk/books?id=Emp_pbrbXlYC&amp;q=xyrospasm&amp;dq=xyrospasm&amp;hl=en&amp;ei=MoUCTuyRAoOv8gOTiNjEAg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CDAQ6AEwAQ page 859]&lt;/span&gt;
+#*: I have seen in two cases a barbers’ cramp (keirospasm or '''xyrospasm''') — ''i.e.'', a spastic contraction of the muscles of the hand and fingers, which came on in a barber at every attempt to use a razor.
+====Translations====
+{{trans-top|contraction of a muscle}}
+* Japanese: {{t|ja|剃毛痙攣|tr=けいれん, tēmōkēren|sc=Jpan}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=amoprssxy|paroxysms}}</text>
+<sha1>em2c02vb1z8awyxdlerxuxsve7h00qy</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhteenlaskettu</title>
+<ns>0</ns>
+<id>1453830</id>
+<revision>
+<id>69318412</id>
+<parentid>59682844</parentid>
+<timestamp>2022-09-18T17:17:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteen|laskettu}}
+===Pronunciation===
+{{fi-p|yhteen-laskettu(*)}}
+===Adjective===
+{{fi-adj|yhteenlasketu|mpi|in}}
+# [[combined]]
+====Declension====
+{{fi-decl-valo|pos=adj|yhteenlaske|tt|t|u|a}}</text>
+<sha1>l6srtvdat7sg9ptjjicmepqhcdblaxv</sha1>
+</revision>
+</page>

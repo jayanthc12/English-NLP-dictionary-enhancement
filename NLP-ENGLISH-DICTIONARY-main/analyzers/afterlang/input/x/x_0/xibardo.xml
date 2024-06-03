@@ -1,0 +1,36 @@
+<page>
+<title>xibardo</title>
+<ns>0</ns>
+<id>7366147</id>
+<revision>
+<id>68871741</id>
+<parentid>68857146</parentid>
+<timestamp>2022-08-28T06:13:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="562" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|chibardo|chibarto|xibarro|xibarto}}
+===Etymology===
+Probably from {{bor|gl|fr|gibard}} (compare {{cog|frm|gibbar|t=humpback whale}}), ultimately from {{der|gl|la|gibber|t=hunchbacked}}.&lt;ref&gt;{{R:es:DCECH|yubarta}}&lt;/ref&gt; Compare {{cog|es|yubarta}}.
+===Pronunciation===
+* {{IPA|gl|[ʃiˈβaɾðʊ]}}
+===Noun===
+{{gl-noun|m}}
+# [[humpback whale]] {{gloss|''[[Megaptera novaeangliae]]''}}
+===References===
+* {{R:gl:CX|gibarro}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;
+{{topics|gl|Cetaceans}}</text>
+<sha1>1s4jlrqjmv76limodzy5iddi1hhvaah</sha1>
+</revision>
+</page>

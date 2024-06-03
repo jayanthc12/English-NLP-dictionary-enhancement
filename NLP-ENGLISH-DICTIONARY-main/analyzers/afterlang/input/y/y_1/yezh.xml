@@ -1,0 +1,30 @@
+<page>
+<title>yezh</title>
+<ns>0</ns>
+<id>1044094</id>
+<revision>
+<id>66279349</id>
+<parentid>59864516</parentid>
+<timestamp>2022-03-30T13:15:27Z</timestamp>
+<contributor>
+<username>TongcyDai</username>
+<id>3253284</id>
+</contributor>
+<comment>// Edit via Wikiplus</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="324" xml:space="preserve">==Breton==
+===Etymology===
+From {{inh|br|xbm|yez}}, from {{inh|br|cel-bry-pro|*jeiθ||language}}, from {{inh|br|cel-pro|*yextis||language}}.
+===Pronunciation===
+* {{IPA|br|/ˈjeːs/}}
+===Noun===
+{{br-noun|f|yezhoù}}
+# {{l|en|language}}
+====Derived terms====
+* {{l|br|yezhadur}}
+* {{l|br|yezhoniezh}}
+{{c|br|Language}}</text>
+<sha1>65cg7omdhc5qv5y1xxbudqtyzutawlm</sha1>
+</revision>
+</page>

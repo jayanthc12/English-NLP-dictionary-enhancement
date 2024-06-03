@@ -1,0 +1,24 @@
+<page>
+<title>yelpinges</title>
+<ns>0</ns>
+<id>6904468</id>
+<revision>
+<id>56378123</id>
+<parentid>52180592</parentid>
+<timestamp>2019-10-17T15:35:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="91" xml:space="preserve">
+==Middle English==
+===Noun===
+{{head|enm|noun plural form}}
+# {{plural of|enm|yelpinge}}</text>
+<sha1>qbvn65v0bfktz9ywhum5hfswxv9mtsl</sha1>
+</revision>
+</page>

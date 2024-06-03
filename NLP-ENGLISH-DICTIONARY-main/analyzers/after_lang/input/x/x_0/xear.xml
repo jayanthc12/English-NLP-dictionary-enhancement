@@ -1,0 +1,42 @@
+<page>
+<title>xear</title>
+<ns>0</ns>
+<id>6850188</id>
+<revision>
+<id>68868618</id>
+<parentid>68834484</parentid>
+<timestamp>2022-08-28T05:57:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="592" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xelar}}
+===Etymology===
+From {{inh|gl|la|gelo|gelare}}. Cognate with {{cog|pt|gear}} and {{cog|es|helar}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeˈaɾ/|/ʃiˈaɾ/}}
+===Verb===
+{{gl-verb|xe|ar}}
+# {{lb|gl|impersonal}} to [[freeze]]
+#: {{ux|gl|Está a '''xear'''.|It's '''freezing'''.}}
+# {{lb|gl|intransitive}} to [[frost]]
+# {{lb|gl|transitive}} to [[freeze]]
+====Conjugation====
+{{gl-conj-ar|xe}}
+====Derived terms====
+* {{l|gl|axear}}
+====Related terms====
+* {{l|gl|xeo}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>i6946w1icvswjp9y30vr8u4i0isa4hg</sha1>
+</revision>
+</page>

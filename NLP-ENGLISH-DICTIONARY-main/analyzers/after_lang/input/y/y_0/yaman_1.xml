@@ -1,0 +1,91 @@
+<page>
+<title>yaman</title>
+<ns>0</ns>
+<id>4127107</id>
+<revision>
+<id>68819429</id>
+<parentid>67517758</parentid>
+<timestamp>2022-08-27T21:12:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2075" xml:space="preserve">{{also|Yaman}}
+==Azerbaijani==
+{{az-variant|c=јаман|r=yaman|a=یامان}}
+===Etymology===
+Ultimately from {{inh|az|trk-pro|*yaman||bad, wicked; sickness, inflammation}}.
+===Pronunciation===
+* {{IPA|az|[jɑˈmɑn]}}
+* {{hyphenation|az|ya|man}}
+===Adjective===
+{{az-adj}}
+# [[bad]]
+#: {{syn|az|pis}}
+#: {{ant|az|yaxşı}}
+# [[evil]]
+# [[difficult]], [[hard]], [[harsh]]
+#: {{uxi|az|yaman [[gün]]|hard times}}
+====Derived terms====
+* {{l|az|yamanlamaq||to talk speak ill of}}
+* {{l|az|yaman demək||to curse}} {{q|dialectal}}
+===Adverb===
+{{head|az|adverb}}
+# {{lb|az|colloquial}} [[very]]
+#: {{syn|az|çox|lap|olduqca|həddən artıq}}
+====Usage notes====
+* ''Yaman'' is used mostly about situations that are perceived as negative.
+----
+==Bikol Central==
+===Pronunciation===
+* {{hyph|bcl|ya|man}}
+* {{bcl-IPA}}
+===Noun===
+{{head|bcl|noun}}
+# [[wealth]]; [[riches]]
+====Derived terms====
+{{der3|bcl|kayamanan|magyaman|payaman|mayaman}}
+----
+==Masbatenyo==
+===Noun===
+{{head|msb|noun}}
+# [[wealth]]; [[treasure]]; [[riches]]
+====Derived terms====
+{{der3|msb|kayamanan|magyaman|pagyaman|mayaman}}
+----
+==Tagalog==
+===Pronunciation===
+* {{hyph|tl|ya|man}}
+* {{tl-IPA}}
+===Noun===
+{{tl-noun}}
+# [[money]]; [[wealth]]; [[fortune]]; [[valuable]] [[possession]]s
+# [[richness]]; [[wealthiness]]
+# [[plentifulness]]; [[abundance]]; [[opulence]]
+# [[resource]]
+====Derived terms====
+{{der3|tl|bagong-yaman|biglang-yaman|kayaman-yamanan|kayamanan|kukunang-yaman|likas na kayamanan|magpayaman|mayaman|mayamanin|nakabaong-kayamanan|pagkamayaman|pagyamanin|payamanin|taong biglang-yaman|yamanan|yumanan|ingat-yaman|ingatang-yaman}}
+----
+==Tatar==
+===Adjective===
+{{head|tt|adjective}}
+# [[bad]], [[evil]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|trk-pro|*yaman}}.
+Cognate with
+{{cog|oui|tr=jaman|t=bad}};
+{{cog|kk|жаман|sc=Cyrl}}, {{cog|kaa|жаман|tr=jaman|sc=Cyrl}} / {{l|kaa|jaman}}, {{cog|ky|жаман|sc=Cyrl}},
+{{cog|krc|аман|tr=aman|sc=Cyrl}},
+{{cog|uz|yomon}}.
+===Adjective===
+{{head|tr|adjective}}
+# [[terrible]], [[bad]]</text>
+<sha1>t4urbsbs7yl7m6xl8w1iok92ysjrnxd</sha1>
+</revision>
+</page>

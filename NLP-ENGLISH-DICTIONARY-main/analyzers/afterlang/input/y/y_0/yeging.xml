@@ -1,0 +1,27 @@
+<page>
+<title>yeging</title>
+<ns>0</ns>
+<id>7136874</id>
+<revision>
+<id>51715803</id>
+<parentid>51706152</parentid>
+<timestamp>2019-03-11T18:03:36Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="299" xml:space="preserve">==Solon==
+{{cardinalbox|tuw-sol|8|9|10|jahong|jaang|ord=|adv=}}
+===Etymology===
+From {{inh|tuw-sol|tuw-pro|*xegün}}. Cognate with {{cog|evn|егин}}, {{cog|mnc|ᡠᠶᡠᠨ}}.
+===Pronunciation===
+&lt;!--* {{IPA|lang=tuw-sol|}}--&gt;{{rfp|tuw-sol}}
+===Numeral===
+{{head|tuw-sol|numerals}}
+# [[nine]]</text>
+<sha1>25uonv97y6wuy2hlm0jqpgzt3shq6jw</sha1>
+</revision>
+</page>

@@ -1,0 +1,48 @@
+<page>
+<title>xtaq</title>
+<ns>0</ns>
+<id>2161669</id>
+<revision>
+<id>65104086</id>
+<parentid>61409657</parentid>
+<timestamp>2021-12-31T08:24:51Z</timestamp>
+<contributor>
+<ip>2A01:CB09:8067:18F9:81E4:2C48:1678:E948</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="498" xml:space="preserve">==Maltese==
+{{mt-root|x-w-q}}
+===Alternative forms===
+* {{alter|mt|xtieq}}
+===Etymology===
+From {{inh|mt|ar|اِشْتَاقَ|t=to long for}}.
+===Pronunciation===
+* {{IPA|mt|/ʃtaːʔ/}}
+===Verb===
+{{mt-verb|jixtieq|mixtieq}}
+# to [[desire]], to [[wish]]
+# to [[want]]
+#: {{syn|mt|ried}}
+====Conjugation====
+{{mt-conj
+|1=xtaqt
+|2=xtaqt
+|3=xtaq
+|4=xtaqet
+|5=xtaqna
+|6=xtaqtu
+|7=xtaqu
+|8=nixtieq
+|9=tixtieq
+|10=jixtieq
+|11=tixtieq
+|12=nixtiequ
+|13=tixtiequ
+|14=jixtiequ
+|15=xtieq
+|16=xtiequ
+}}</text>
+<sha1>oplx27mh6a8xt8d8zlase7i39fnbhnt</sha1>
+</revision>
+</page>

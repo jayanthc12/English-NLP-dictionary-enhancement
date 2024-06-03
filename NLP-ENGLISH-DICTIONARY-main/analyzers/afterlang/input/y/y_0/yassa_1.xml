@@ -1,0 +1,31 @@
+<page>
+<title>yassa</title>
+<ns>0</ns>
+<id>6362000</id>
+<revision>
+<id>67148654</id>
+<parentid>58404596</parentid>
+<timestamp>2022-05-24T09:03:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">{{also|Yassa}}
+==French==
+===Noun===
+{{fr-noun|m}}
+# a [[stew]] that is flavoured with [[lemon]]
+----
+==Pali==
+===Alternative forms===
+{{pi-alt}}
+===Pronoun===
+{{head|pi|pronoun form}}
+# {{inflection of|pi|ya||m//n|gen//dat|s|t=who {{lb|pi|relative}}}}</text>
+<sha1>k9yl902q1anwd0wspuu8xubcq15q0b6</sha1>
+</revision>
+</page>

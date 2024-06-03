@@ -1,0 +1,32 @@
+<page>
+<title>Xenopodinae</title>
+<ns>0</ns>
+<id>264613</id>
+<revision>
+<id>65631994</id>
+<parentid>65631987</parentid>
+<timestamp>2022-02-04T01:13:43Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="470" xml:space="preserve">==Translingual==
+===Etymology===
+{{suffix|mul|Xenopus|inae}}
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|subfamily|family|Pipidae|the [[clawed frog]]s etc.}}
+====Hypernyms====
+* {{sense|subfamily}} {{Pipidae Hypernyms}}
+====Hyponyms====
+* {{sense|subfamily}} ''[[Xenopus]], {{taxlink|Hymenochirus|genus|ver=220203}}, {{taxlink|Pseudohymenochirus|genus|ver=220203}}&amp;nbsp;- genera
+===References===
+* {{pedia|Pipidae}}
+* {{specieslite|Pipidae}}
+* {{comcatlite|Pipidae}}</text>
+<sha1>5648ltpp0maequd8ul1364u8qrr5qfc</sha1>
+</revision>
+</page>

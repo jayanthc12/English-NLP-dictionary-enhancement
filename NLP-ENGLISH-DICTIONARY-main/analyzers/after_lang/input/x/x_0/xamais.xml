@@ -1,0 +1,37 @@
+<page>
+<title>xamais</title>
+<ns>0</ns>
+<id>1631502</id>
+<revision>
+<id>68862339</id>
+<parentid>68861810</parentid>
+<timestamp>2022-08-28T05:13:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="511" xml:space="preserve">==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jamais}}, from {{der|gl|la|[[iam]] [[magis]]||yet more}}. Compare {{cog|pt|jamais}}, {{cog|es|jamás}}, {{cog|fr|jamais}} and {{cog|it|giammai}}.
+===Pronunciation===
+* {{IPA|gl|[ʃa.ˈmajs]}}
+===Adverb===
+{{gl-adv}}
+# [[never]]
+#: {{syn|gl|endexamais|nunca}}
+====Related terms====
+* {{l|gl|endexamais}}
+* {{l|gl|por sempre xamais}}
+===References===
+* {{R:gl:DDGM|jamays}}
+* {{R:gl:CX|amays}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>ep5dluc7pchcuequnf83piz0u7wpe5x</sha1>
+</revision>
+</page>

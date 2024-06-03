@@ -1,0 +1,32 @@
+<page>
+<title>xenograft</title>
+<ns>0</ns>
+<id>767473</id>
+<revision>
+<id>61294831</id>
+<parentid>61294827</parentid>
+<timestamp>2020-12-12T18:54:58Z</timestamp>
+<contributor>
+<username>BaptisteGrandGrand</username>
+<id>1041910</id>
+</contributor>
+<comment>Category</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="595" xml:space="preserve">==English==
+{{wp}}
+===Etymology===
+{{prefix|en|xeno|graft}}
+===Pronunciation===
+* {{IPA|en|/ˈzɛnəʊɡɹæft/|/ˈzɛnəʊɡɹɑːft/}}
+===Noun===
+{{en-noun}}
+# A [[heterograft]].
+#* {{quote-journal|1=en|year=1982|author=Faustman, D.|author2=Lacy, P. E.|author3=Davie, J. M.|title=Transplantation without immunosuppression|journal=Diabetes|doi=10.2337/diab.31.4.s11|text=Likewise the survival of '''xenografts''' of rat megaislets transplanted into miceis extended by these special pretransplant culture conditions.}}
+===Verb===
+{{en-verb}}
+# To [[heterograft]].
+[[Category:en:Medicine]]</text>
+<sha1>02yv4r5lm4c8kttm4l6hpzsoj5nqdyu</sha1>
+</revision>
+</page>

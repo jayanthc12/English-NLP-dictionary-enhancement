@@ -1,0 +1,25 @@
+<page>
+<title>xanthotitane</title>
+<ns>0</ns>
+<id>6368539</id>
+<revision>
+<id>67052917</id>
+<parentid>54330815</parentid>
+<timestamp>2022-05-17T11:14:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{prefix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xantho-|titane}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|mineral}} {{synonym of|fr|anatase}}</text>
+<sha1>tqudlq97i8vvvl5iqp81fjryghg1a19</sha1>
+</revision>
+</page>

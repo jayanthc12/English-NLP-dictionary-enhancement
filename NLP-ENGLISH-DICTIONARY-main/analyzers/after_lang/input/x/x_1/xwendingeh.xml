@@ -1,0 +1,25 @@
+<page>
+<title>xwendingeh</title>
+<ns>0</ns>
+<id>854741</id>
+<revision>
+<id>60848791</id>
+<parentid>60833725</parentid>
+<timestamp>2020-10-14T04:20:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# [[school]]</text>
+<sha1>mtmnv5zl5l50usaav29c4u23p546xfj</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xwestin</title>
+<ns>0</ns>
+<id>1092511</id>
+<revision>
+<id>60833729</id>
+<parentid>44695320</parentid>
+<timestamp>2020-10-12T02:51:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move &quot;Kurdish&quot; lemmas to Northern Kurdish and clean up (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Verb===
+{{kmr-verb|dixwaze|xwest}}
+# [[want]] (desire)</text>
+<sha1>4s1uuu35nvpylybos6uc0wnmi1goaiw</sha1>
+</revision>
+</page>

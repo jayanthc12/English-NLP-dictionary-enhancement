@@ -1,0 +1,103 @@
+<page>
+<title>XOR</title>
+<ns>0</ns>
+<id>256549</id>
+<revision>
+<id>69232542</id>
+<parentid>69217360</parentid>
+<timestamp>2022-09-11T11:48:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (replace lemma-containing term 'XORs' with '#s')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2903" xml:space="preserve">{{also|xor|хог|-xor}}
+==English==
+{{wikipedia}}
+===Etymology===
+Short for {{m|en|exclusive or}}.
+===Pronunciation===
+* {{IPA|en|/ˈɛks ˈɔɹ/}}
+===Noun===
+{{en-noun}}
+{| class=&quot;wikitable&quot; style=&quot;clear:right; float:right; width:248px&quot;
+|+ XOR Truth Table
+|-
+!colspan=&quot;2&quot; | Input || rowspan=&quot;2&quot; | Output
+|-
+!A || B
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 1
+|-
+| 1 || 0 || 1
+|-
+| 1 || 1 || 0
+|}
+# {{lb|en|logic}} The [[connective]] &quot;[[exclusive or]]&quot;.
+#: ''The '''XOR''' of (0,0) is 0; (0,1) is 1; (1,0) is 1; and (1,1) is 0.''
+# {{lb|en|electrical engineering}} A [[logic gate]] that implements &quot;exclusive or&quot;.
+# {{lb|en|programming}} The symbolic representation that implements &quot;exclusive or&quot;.
+#: '''''XOR''' can be used to add bits without [[carry]]ing.''
+====Usage notes====
+* Boolean variables and states ({{l|en|AND}}, {{l|en|OR}}, {{l|en|NOT}}, {{l|en|TRUE}}, {{l|en|FALSE}} etc.) are commonly written in all uppercase in order to distinguish them from the ordinary uses of the words.
+====Translations====
+{{trans-top|logic: connective}}
+* Catalan: {{t|ca|conexió llogica}}
+* Chinese:
+*: Mandarin: {{t|cmn|異或|sc=Hani}}, {{t|cmn|异或|tr=yìhuò|sc=Hani}}
+* Estonian: {{t|et|välistav VÕI}}
+{{trans-mid}}
+* Finnish: {{t|fi|ehdoton tai}}, {{t|fi|poissulkeva tai}}, {{t|fi|eksklusiivinen tai}}
+* French: {{t+|fr|ou exclusif}}
+* Hungarian: {{t+|hu|kizáró vagy}}
+* Romanian: {{t|ro|a realiza sau exclusiv}}
+{{trans-bottom}}
+{{trans-top|electrical engineering: logic gate}}
+* Chinese:
+*: Mandarin: {{t|cmn|異或門|sc=Hani}}, {{t|cmn|异或门|tr=yìhuòmén|sc=Hani}}
+{{trans-mid}}
+* Finnish: {{t|fi|[[ehdoton tai]] -[[portti]]}}, {{t|fi|[[poissulkeva tai]] -[[portti]]}}, {{t|fi|[[eksklusiivinen tai]] -[[portti]]}}
+* Romanian: {{t|ro|poartă sau exclusiv|f}}
+{{trans-bottom}}
+&lt;!--Remove this section once all of the translations below have been moved into the tables above.--&gt;
+{{checktrans-top}}
+* Latin: {{t+check|la|aut}}
+{{trans-bottom}}
+====Synonyms====
+* {{l|en|exclusive OR}}
+* {{l|en|XOR gate}}
+* {{l|en|ex-or}}
+* {{l|en|NOT}} [[equivalence]]
+====Antonyms====
+* {{sense|electrical engineering}} {{l|en|XNOR}}
+===Verb===
+{{en-verb}}
+# {{lb|en|transitive|computing}} To perform the [[#Noun|XOR]] function upon.
+#* '''1989''', IEEE Communications Society, ''Conference Record''
+#*: The '''XORed''' sequence has the same period as the sequence that is not XORed.
+#* '''1998''', Stafford Tavares, Henk Meijer, ''Selected Areas in Cryptography''
+#*: '''XORing''' different constants into the four s-boxes in such a cipher has exactly the same effect as XORing a single constant into each round function output.
+====Synonyms====
+* {{l|en|⊻}}
+===See also===
+* {{l|en|AND}}
+* {{l|en|OR}}
+* {{l|en|NAND}}
+* {{l|en|NOR}}
+* {{l|en|NOT}}
+* {{l|en|XNOR}}
+===Anagrams===
+* {{anagrams|en|a=orx|rox}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|m|#s}}
+# {{alternative spelling of|pt|xor}}</text>
+<sha1>oqfwt0k0lzth5nnca8e6yb35e1yielr</sha1>
+</revision>
+</page>

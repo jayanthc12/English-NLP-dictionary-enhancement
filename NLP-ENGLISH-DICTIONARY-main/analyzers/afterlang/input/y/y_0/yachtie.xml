@@ -1,0 +1,25 @@
+<page>
+<title>yachtie</title>
+<ns>0</ns>
+<id>1264591</id>
+<revision>
+<id>60449141</id>
+<parentid>55229050</parentid>
+<timestamp>2020-09-21T05:46:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="139" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yacht|ie|pos2=diminutive suffix}}
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yachty}}</text>
+<sha1>p6r6lbmv99ubfgjpblhsldrbn494wge</sha1>
+</revision>
+</page>

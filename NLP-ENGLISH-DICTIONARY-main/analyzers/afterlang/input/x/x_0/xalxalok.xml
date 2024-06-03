@@ -1,0 +1,27 @@
+<page>
+<title>xalxalok</title>
+<ns>0</ns>
+<id>899802</id>
+<revision>
+<id>60848743</id>
+<parentid>60833670</parentid>
+<timestamp>2020-10-14T04:19:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+{{affix|kmr|xal|xal|-ok}}
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# [[ladybug]]</text>
+<sha1>da3bn54rb8a4c04isocsa3d4mpj21jj</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>ydinasevastainen</title>
+<ns>0</ns>
+<id>4576747</id>
+<revision>
+<id>69318144</id>
+<parentid>54259135</parentid>
+<timestamp>2022-09-18T17:02:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="424" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|vastainen}}
+===Pronunciation===
+{{fi-p|ydin-ase*/vastainen}}
+===Adjective===
+{{fi-adj|ydinasevastais|empi|in}}
+# [[antinuclear]] {{gloss|opposed to the nuclear weapons}}
+====Declension====
+{{fi-decl-nainen|pos=adj|ydinasevastai|a}}
+====Synonyms====
+* {{l|fi|ydinaseiden}} {{l|fi|vastainen}}
+====Related terms====
+* {{l|fi|ydinvoimavastainen}}
+* {{l|fi|ydinvastainen}}</text>
+<sha1>tnlrwgza0l3dqgf25yzrt8pguszp2hu</sha1>
+</revision>
+</page>

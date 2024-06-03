@@ -1,0 +1,59 @@
+<page>
+<title>yester</title>
+<ns>0</ns>
+<id>1433736</id>
+<revision>
+<id>67393549</id>
+<parentid>59643471</parentid>
+<timestamp>2022-06-16T10:41:12Z</timestamp>
+<contributor>
+<username>J3133</username>
+<id>3466327</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1616" xml:space="preserve">{{also|yester-}}
+==English==
+===Etymology===
+From {{inh|en|enm|yester}}, {{m|enm|yister}}, from {{inh|en|ang|geostran||yesterday}}. Cognate with {{cog|nl|gisteren||yesterday}}, {{cog|de|gestern||yesterday}}. More at {{l|en|yesterday}}.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|archaic}} [[yesterday|Yesterday]].
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|archaic}} Of or pertaining to yesterday.
+#: {{syn|en|last|yesterday}}
+#: {{ux|en|'''yester''' eve, '''yester''' even(ing), '''yester''' morning}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|archaic}} Yesterday.
+====Derived terms====
+{{rel-top|terms derived from yester}}
+* {{l|en|yesterday}}
+* {{l|en|yestereve}}
+* {{l|en|yester-hour}}
+* {{l|en|yester-minute}}
+* {{l|en|yestermonth}}
+{{rel-mid}}
+* {{l|en|yestermorn}}
+* {{l|en|yesternight}}
+* {{l|en|yesternoon}}
+* {{l|en|yesterweek}}
+* {{l|en|yesteryear}}
+{{rel-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eersty|Eyster|Steyer}}
+[[Category:English 2-syllable words]]
+----
+==Middle English==
+===Alternative forms===
+* {{q|attested spaced or hyphenated in a compound}}: {{alter|enm|gister|ȝerstene|ȝester|ȝestern|ȝister|ȝursten|ȝuster|yestyr|yhister|yister|yistre}}
+* {{q|only attested unspaced and unhyphenated in a compound}}: *gyrstæn, *gyrsten, *ȝersten, *ȝerstyn, *ȝist, *ȝistir, *ȝistyr, *ȝurs, *ȝurst, *ȝurster, *ȝurston, *ȝustir, *ȝystur, *inst [read: iust], *yersten, *yerstyr, *yese, *yestir, *yestur, *yistir, *yurst, *yuster
+===Etymology===
+From {{inh|enm|ang|geostran}}.
+===Adjective===
+{{enm-adj}}
+# {{only used in|enm|[[yesterday]], [[yester morow]], [[yesternyght]], [[yistreven]]}}</text>
+<sha1>rrr8jdz47xfvh495l6c5t2ba71crvn8</sha1>
+</revision>
+</page>

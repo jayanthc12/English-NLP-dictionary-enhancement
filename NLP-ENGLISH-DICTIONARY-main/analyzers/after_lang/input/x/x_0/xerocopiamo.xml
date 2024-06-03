@@ -1,0 +1,27 @@
+<page>
+<title>xerocopiamo</title>
+<ns>0</ns>
+<id>758055</id>
+<revision>
+<id>64976871</id>
+<parentid>63583453</parentid>
+<timestamp>2021-12-17T01:24:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add top-level Italian pron {{it-pr|xerocopiàmo,xèrocopiàmo&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}} (manually assisted); add new ===References=== section for pron footnotes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==Italian==
+===Pronunciation===
+{{it-pr|xerocopiàmo,xèrocopiàmo&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}}
+===Verb===
+{{head|it|verb form}}
+# {{inflection of|it|xerocopiare||1|p|pres|ind//sub|;|1|p|impr}}
+===References===
+&lt;references /&gt;</text>
+<sha1>5qff6r95yati3o6jwrr5ra10d56v4ud</sha1>
+</revision>
+</page>

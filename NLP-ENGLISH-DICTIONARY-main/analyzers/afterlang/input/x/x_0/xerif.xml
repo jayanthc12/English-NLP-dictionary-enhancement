@@ -1,0 +1,28 @@
+<page>
+<title>xerif</title>
+<ns>0</ns>
+<id>1604299</id>
+<revision>
+<id>55239020</id>
+<parentid>50835773</parentid>
+<timestamp>2019-10-14T05:29:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|shereef}}
+# {{alternative spelling of|en|xeriff}}
+====References====
+* Webster's Revised Unabridged Dictionary (1913).
+===Anagrams===
+* {{anagrams|en|a=efirx|fixer|refix}}</text>
+<sha1>hcllisq1bdhcfxg5obl6upuytqr9a34</sha1>
+</revision>
+</page>

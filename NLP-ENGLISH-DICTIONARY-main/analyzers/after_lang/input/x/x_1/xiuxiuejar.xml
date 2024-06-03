@@ -1,0 +1,45 @@
+<page>
+<title>xiuxiuejar</title>
+<ns>0</ns>
+<id>781956</id>
+<revision>
+<id>64460229</id>
+<parentid>58160751</parentid>
+<timestamp>2021-10-28T12:19:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="849" xml:space="preserve">==Catalan==
+{{was fwotd|ca|2012|October|24}}
+===Etymology===
+{{onomatopoeic|ca}}; {{m|ca|xiu-xiu||sound of whispering}} {{suffix|ca||ejar}}.
+===Pronunciation===
+* {{ca-IPA|xiuxiu.ejar}}
+* {{rhymes|ca|a(ɾ)|s=4}}
+===Verb===
+{{ca-verb}}
+# to [[whisper]]
+#* '''2012''', Joseph Conrad (translation by Ferran Ràfols Gesa), ''Contes del neguit'' (Tales of Unrest), Editorial Alpha, page 54:
+#*: Ell corria al meu costat sense tocar a terra, i '''xiuxiuejava''', '''xiuxiuejava'''; era invisible, però ben nítid a l'orella.
+#*:: He ran beside me without touching the ground, and '''whispered''', '''whispered'''; he was invisible, but clear in my ear.
+====Conjugation====
+{{ca-conj-ar|xiuxiuej}}
+====Related terms====
+{{rel4
+|ca|xiu-xiu
+|xiuxiuadera
+|xiuxiuar
+|xiuxiueig
+}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>olknof95fdidyq2kfojlaawpki4ky70</sha1>
+</revision>
+</page>

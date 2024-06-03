@@ -1,0 +1,28 @@
+<page>
+<title>yetmezlik</title>
+<ns>0</ns>
+<id>3749486</id>
+<revision>
+<id>48457594</id>
+<parentid>48457231</parentid>
+<timestamp>2018-01-22T00:58:49Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Fixed vowel harmony on tr-infl-noun</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="195" xml:space="preserve">==Turkish==
+===Noun===
+{{tr-noun|yetmezliği|ler}}
+# [[insufficiency]]
+# [[failure]]
+====Declension====
+{{tr-infl-noun-c|i|pred=1|poss=1|stem=yetmezliğ}}
+====Antonyms====
+* {{l|tr|yeterlik}}</text>
+<sha1>bfy3giv6cxkekxg7fkq9l1kly4zngqs</sha1>
+</revision>
+</page>

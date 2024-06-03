@@ -1,0 +1,24 @@
+<page>
+<title>XMPP</title>
+<ns>0</ns>
+<id>4607784</id>
+<revision>
+<id>54613870</id>
+<parentid>51976016</parentid>
+<timestamp>2019-10-03T07:52:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|internet}} {{initialism of|en|[[extensible]] [[messaging]] and [[presence]] [[protocol]]|nodot=1}}: a [[communications]] protocol for message-oriented [[middleware]] based on [[XML]].</text>
+<sha1>57wlm1h3iaywdrti5b9xe8sts6xb9pd</sha1>
+</revision>
+</page>

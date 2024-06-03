@@ -1,0 +1,29 @@
+<page>
+<title>ximia</title>
+<ns>0</ns>
+<id>486517</id>
+<revision>
+<id>59627514</id>
+<parentid>51731412</parentid>
+<timestamp>2020-06-27T22:05:37Z</timestamp>
+<contributor>
+<username>Swaare</username>
+<id>3362171</id>
+</contributor>
+<comment>/* Old Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="652" xml:space="preserve">{{also|ximía}}
+==Old Spanish==
+===Etymology===
+From {{inh|osp|la|simia}}. Compare Modern {{cog|es|simio}}.
+===Noun===
+{{head|osp|noun|g=f}}
+# [[monkey]]
+#* {{quote-book|osp|author=Anonymous|editors=María Teresa Herrera; María Nieves Sánchez |title=Traducción de la &quot;Historia de Jerusalem abreviada&quot; de Jacobo de Vitriaco|location=Salamanca|publisher=Universidad de Salamanca|year=1350|year_published=2000|text=La '''ximia''', si pariere dos fijos, al uno aborreçe &amp; al otro quiere bien|t=The female monkey, if it brought forth two children, one is abandoned and one is loved}}
+====Related terms====
+* {{l|osp|ximio}}
+[[Category:osp:Mammals]]</text>
+<sha1>71jdle2jvree5e50gu4pv4p1pft1kyi</sha1>
+</revision>
+</page>

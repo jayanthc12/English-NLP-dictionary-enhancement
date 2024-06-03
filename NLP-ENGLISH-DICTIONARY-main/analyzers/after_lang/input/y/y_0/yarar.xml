@@ -1,0 +1,35 @@
+<page>
+<title>yarar</title>
+<ns>0</ns>
+<id>3911904</id>
+<revision>
+<id>67659162</id>
+<parentid>67652752</parentid>
+<timestamp>2022-07-06T15:48:53Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert aorist forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jaˈɾaɾ]}}
+* {{hyphenation|tr|ya|rar}}
+===Noun===
+{{tr-noun|ı|lar}}
+# [[benefit]]
+# [[gain]]
+# [[use]]
+====Synonyms====
+* {{l|tr|fayda}}
+====Antonyms====
+* {{l|tr|zarar}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yarmak}}</text>
+<sha1>pmmqcwgh0qqw9bwf2ecbh1zc0qulxtw</sha1>
+</revision>
+</page>

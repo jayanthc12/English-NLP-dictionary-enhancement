@@ -1,0 +1,23 @@
+<page>
+<title>xuchiyo</title>
+<ns>0</ns>
+<id>4140669</id>
+<revision>
+<id>54606173</id>
+<parentid>22935543</parentid>
+<timestamp>2019-10-03T05:18:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{nci-noun|}}
+# {{obsolete spelling of|nci|xochiyoh|xōchiyoh}}</text>
+<sha1>lqx0rc44mmqv2gsccd31colvje0mt8c</sha1>
+</revision>
+</page>

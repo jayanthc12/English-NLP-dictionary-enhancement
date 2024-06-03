@@ -1,0 +1,24 @@
+<page>
+<title>xopin</title>
+<ns>0</ns>
+<id>3657940</id>
+<revision>
+<id>34746211</id>
+<parentid>17582351</parentid>
+<timestamp>2015-10-19T17:02:10Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Applied [[WT:NORM]] rules</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=pl|t=pres|m=sub|xopar}}
+# {{ca-verb form of|p=3|n=pl|m=impr|xopar}}</text>
+<sha1>70lk4ewztsg4m849onrhe5b4rz5oi8j</sha1>
+</revision>
+</page>

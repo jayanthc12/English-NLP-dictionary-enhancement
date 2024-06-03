@@ -1,0 +1,23 @@
+<page>
+<title>xami</title>
+<ns>0</ns>
+<id>2616575</id>
+<revision>
+<id>56751527</id>
+<parentid>43319995</parentid>
+<timestamp>2019-10-18T14:39:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|xam||acc|s}}</text>
+<sha1>i5deq6vpvldsp2ii8teo3exanbag6j6</sha1>
+</revision>
+</page>

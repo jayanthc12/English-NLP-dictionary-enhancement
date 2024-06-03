@@ -1,0 +1,51 @@
+<page>
+<title>Yakutia</title>
+<ns>0</ns>
+<id>513759</id>
+<revision>
+<id>69388294</id>
+<parentid>64715288</parentid>
+<timestamp>2022-09-28T02:50:29Z</timestamp>
+<contributor>
+<username>This is a user here</username>
+<id>3980531</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1120" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/jəˈkuːtɪə/|/jəˈkuːʃ(i)ə/}}
+===Etymology===
+From {{bor|en|ru|Якутия}}.
+===Proper noun===
+{{en-proper noun}}
+# {{synonym of|en|Sakha}}
+====Synonyms====
+* {{l|en|Sakha}}
+====Translations====
+{{trans-top|region in North Asia}}
+* Arabic: {{t|ar|يَاكُوتِيَا|f|tr=Yakūtiyā}}
+* Buryat: {{t|bua|Яхад|p}}
+* Catalan: {{t|ca|Iacútia|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|雅庫特|sc=Hani}}, {{t+|cmn|雅库特|tr=Yǎkùtè|sc=Hani}}; {{t|cmn|牙庫特}}, {{t|cmn|牙库特|tr=Yákùtè}} {{qualifier|historically}}
+* Dolgan: {{t|dlg|Һака һирэ|tr=Haka hire}}
+* Farefare: {{t|gur|Yakutgo}}
+* French: {{t+|fr|Yakoutie}}
+* Irish: {{t|ga|an Iacúit|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|ヤクーチア|tr=Yakūchia}}
+* Korean: {{t|ko|^야쿠티아}}
+* Manchu: {{t|mnc|ᠶᠠᡴᡠᡨ}}
+* Mongolian: {{t|mn|Якут}}
+* Polish: {{t+|pl|Jakucja|f}}
+* Russian: {{t+|ru|Яку́тия|f}}
+* Turkish: {{t|tr|Yakutistan}}
+* Uyghur: {{t|ug|ياكۇتىيە}}
+* Yakut: {{t|sah|Саха сирэ|sc=Cyrl}}
+{{trans-bottom}}
+[[Category:en:Sakha Republic]]</text>
+<sha1>9xwqch04yn160vaf1pkk4wf9hjub42r</sha1>
+</revision>
+</page>

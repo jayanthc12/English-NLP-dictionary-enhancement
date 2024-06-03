@@ -1,0 +1,29 @@
+<page>
+<title>yadha</title>
+<ns>0</ns>
+<id>6242092</id>
+<revision>
+<id>56460021</id>
+<parentid>46760854</parentid>
+<timestamp>2019-10-18T03:24:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==Gamilaraay==
+[[File:Bathory poster.JPG|thumb|yadha]]
+===Pronunciation===
+* {{IPA|kld|/jada/}}
+===Noun===
+{{head|kld|noun}}
+# [[movie]]
+# [[video]]
+===References===
+* (2017) Giacon J Gamilaraay-Yuwaalaraay Dictionary Supplement</text>
+<sha1>j7hqajxqk77a0dt3909frnwqxcdh8je</sha1>
+</revision>
+</page>

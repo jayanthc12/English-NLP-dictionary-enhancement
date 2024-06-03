@@ -1,0 +1,29 @@
+<page>
+<title>yhteisvaimoisuus</title>
+<ns>0</ns>
+<id>2135773</id>
+<revision>
+<id>51882830</id>
+<parentid>39403539</parentid>
+<timestamp>2019-03-15T09:43:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{compound}}; move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="320" xml:space="preserve">==Finnish==
+===Etymology===
+From {{compound|fi|yhteinen|vaimo}} {{suffix|fi||inen|uus}}.
+===Noun===
+{{fi-noun}}
+# {{lb|fi|dated}} [[promiscuity]] {{gloss|state of being indiscriminate in choice of sexual partners}}
+====Declension====
+{{fi-decl-kalleus|yhteisvaimoisuu|a}}
+====Synonyms====
+* {{l|fi|promiskuiteetti}}</text>
+<sha1>ri5eicz005jl1vhb1rwb7dt4i8bvuus</sha1>
+</revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+<title>Yates</title>
+<ns>0</ns>
+<id>3788742</id>
+<revision>
+<id>67763773</id>
+<parentid>67743483</parentid>
+<timestamp>2022-07-09T17:34:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1082" xml:space="preserve">{{also|yates}}
+==English==
+{{wp}}
+===Etymology===
+{{inh|en|ang|-}} surname, from {{m|en|yate}}, obsolete form of {{m|en|gate}}.
+===Pronunciation===
+* {{enPR|yāts}}, {{IPA|en|/jeɪts/}}
+* {{rhymes|en|eɪts}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en}}.
+# {{place|en|number of places|c/USA}}:
+## {{place|en|twp|co/McLean County|s/Illinois}}.
+## {{place|en|twp|co/Lake County|s/Michigan}}.
+## {{place|en|unincorporated community|in {{w|Shelby Charter Township, Michigan|Shelby Charter Township}},|co/Macomb County|s/Michigan}}.
+## {{place|en|unincorporated community|co/Randolph County|s/Missouri}}.
+## {{place|en|unincorporated community|co/Wibaux County|s/Montana}}.
+## {{place|en|town|co/Orleans County|s/New York}}.
+## {{place|en|former community|co/Taylor County|s/West Virginia|now under water}}.
+====Derived terms====
+{{top2}}
+* {{l|en|Burnt Yates}}
+* {{l|en|Fort Yates}}
+{{mid}}
+* {{l|en|Yates Center}}
+* {{l|en|Yates County}}
+{{bottom}}
+===See also===
+* {{l|en|Yeats}}
+* {{l|en|Yeates}}
+===Anagrams===
+* {{anagrams|en|a=aesty|Yeats|as yet|teasy|yeast|yeats}}</text>
+<sha1>k954ph9lp2t8tzf1f8ncj4xw7hxwy28</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xemvn</title>
+<ns>0</ns>
+<id>1499776</id>
+<revision>
+<id>63426949</id>
+<parentid>53444065</parentid>
+<timestamp>2021-07-26T03:20:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[grow]].
+# {{inflection of|arn|xemvn||1|s|realis|form}}
+====Synonyms====
+* {{l|arn|yvfvn}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>g5nwt1evz7aazeoia9gv3809ew0ehvn</sha1>
+</revision>
+</page>

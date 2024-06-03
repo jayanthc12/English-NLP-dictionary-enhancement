@@ -1,0 +1,23 @@
+<page>
+<title>xotes</title>
+<ns>0</ns>
+<id>4716586</id>
+<revision>
+<id>55716065</id>
+<parentid>44188297</parentid>
+<timestamp>2019-10-15T13:35:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==Portuguese==
+===Noun===
+{{head|pt|noun form}}
+# {{plural of|pt|xote}}</text>
+<sha1>28fg8368esb0p87ykxuva6df9k1bwo0</sha1>
+</revision>
+</page>

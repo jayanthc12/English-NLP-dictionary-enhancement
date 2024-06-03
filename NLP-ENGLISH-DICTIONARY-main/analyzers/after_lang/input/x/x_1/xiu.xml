@@ -1,0 +1,33 @@
+<page>
+<title>xiu</title>
+<ns>0</ns>
+<id>548997</id>
+<revision>
+<id>69486607</id>
+<parentid>69114428</parentid>
+<timestamp>2022-10-10T00:03:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="379" xml:space="preserve">{{also|xiú|xíu|xiù|xiū|xiǔ|xi'u}}
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiū}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiǔ}}
+# {{nonstandard spelling of|cmn|sc=Latn|xiù}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Portuguese==
+===Interjection===
+{{pt-interj}}
+# {{n-g|requesting [[silence]]}}; [[shh]]</text>
+<sha1>pp07dujzqpyaq1vw9i0582u0iwovbea</sha1>
+</revision>
+</page>

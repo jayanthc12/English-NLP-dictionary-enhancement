@@ -1,0 +1,75 @@
+<page>
+<title>Yesanguan</title>
+<ns>0</ns>
+<id>7103523</id>
+<revision>
+<id>68867821</id>
+<parentid>67881393</parentid>
+<timestamp>2022-08-28T05:51:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2579" xml:space="preserve">==English==
+&lt;!--{{Wikipedia}}--&gt;
+{{commonscat|Yesanguan Town}}
+===Alternative forms===
+* {{sense|{{w|postal romanization}}}} {{l|en|Yehsankwan}}
+* {{q|from [[Wade–Giles]]}} {{l|en|Yeh-san-kuan }}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|野三關}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|county/Badong|autonomous prefecture/Enshi|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=2013
+|editor=Wolfgang Kunth
+|title=Terra Maxima: the Records of Humankind
+|url=https://archive.org/details/terramaximarecor0000unse/
+|publisher=Firefly Books
+|ISBN=978-1-77085-242-6
+|OCLC=855947052
+|page=374
+|pageurl=https://archive.org/details/terramaximarecor0000unse/page/374/
+|text=This bridge is a 0.7 mile (1.1 km) long suspension bridge spanning the deeply carved valley of the Sidu River near '''Yesanguan''' in Badong County, in the southwest of China's Hubei Province.}}
+#* {{quote-book
+|en
+|year=2013
+|editor=Bridge and Structural Engineering Branch, China Highway and Transportation Society
+|title=Innovation-Oriented Contemporary Chinese Bridges
+|url=https://archive.org/details/innovationorient0000unse/
+|publisher=Paths International
+|ISBN=978-1-84464-287-8
+|OCLC=868786162
+|OL=28518867M
+|page=210
+|pageurl=https://archive.org/details/innovationorient0000unse/page/210/
+|text=The Sidu River Bridge is located in '''Yesanguan''' Town, Badong County, Enshi Prefecture, Hubei, and formulates an essential link in the Yichang — Enshi section of Shanghai — Chengdu National Highway. Its main structure is a truss girder suspension bridge 900m in main span length (Fig. 1).}}
+#* {{quote-web
+|en
+|date=17 May 2016
+|last=Williams
+|first=Sophie
+|title=Now THAT'S a high-way! Spectacular aerial images show China's impressive mountain overpass built over a 1,630ft valley
+|archiveurl=https://web.archive.org/web/20160518111202/https://www.dailymail.co.uk/news/peoplesdaily/article-3595094/Brave-men-s-bridge-Spectacular-aerial-images-China-s-impressive-mountain-overpass-built-1-630-feet-high-valley.html
+|archivedate=18 May 2016
+|work={{w|Daily Mail}} {{w|MailOnline}}
+|text=The suspension bridge is situated in the remote '''Yesanguan''' Town of Badong County, Enshi Tujia and Miao Autonomous Prefecture, over Sidu River.}}
+#* {{seemoreCites|en}}
+====Translations====
+{{trans-top|town in central China}}
+* Chinese:
+*: Mandarin: {{t|cmn|野三關|sc=Hani}}, {{t|cmn|野三关|tr=Yěsānguān|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>m7c769ef6bglsrua83b26h8gqfkvz2l</sha1>
+</revision>
+</page>

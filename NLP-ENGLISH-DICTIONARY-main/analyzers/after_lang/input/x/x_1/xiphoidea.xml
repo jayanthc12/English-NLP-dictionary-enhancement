@@ -1,0 +1,26 @@
+<page>
+<title>xiphoidea</title>
+<ns>0</ns>
+<id>3440604</id>
+<revision>
+<id>66995260</id>
+<parentid>57118102</parentid>
+<timestamp>2022-05-15T09:47:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xiphoideus}} (4); combine {{inflection of|la|xiphoideus}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xiphoideus}} tag sets nom|f|s and voc|f|s into nom//voc|f|s; combine {{inflection of|la|xiphoideus}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xiphoidea}}
+# {{inflection of|la|xiphoideus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+===Adjective===
+{{la-adj-form|xiphoideā}}
+# {{inflection of|la|xiphoideus||abl|f|s}}</text>
+<sha1>9u9h9srea371668vfjvsyjk6nxraled</sha1>
+</revision>
+</page>

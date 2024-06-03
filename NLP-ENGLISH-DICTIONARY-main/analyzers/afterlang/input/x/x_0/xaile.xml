@@ -1,0 +1,32 @@
+<page>
+<title>xaile</title>
+<ns>0</ns>
+<id>4047262</id>
+<revision>
+<id>69114357</id>
+<parentid>67170521</parentid>
+<timestamp>2022-09-04T16:53:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{l|pt}} to {{alt|pt}}; replace templated link to English term(s) in defns with raw link(s) (2); standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="367" xml:space="preserve">==Portuguese==
+[[File:Orange triangle shawl.jpg|thumb|xaile]]
+===Alternative forms===
+* {{alt|pt|xale}}
+===Etymology===
+Borrowed from {{bor|pt|fr|châle}}, from {{der|pt|fa|شال|tr=šâl}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xai|le}}
+===Noun===
+{{pt-noun|m}}
+# [[shawl]]; [[headscarf]] {{gloss|cloth worn over the shoulders or head}}
+{{C|pt|Clothing}}</text>
+<sha1>fvnhb4akmhby5b7wxbkh97po0444863</sha1>
+</revision>
+</page>

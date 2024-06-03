@@ -1,0 +1,55 @@
+<page>
+<title>yampy</title>
+<ns>0</ns>
+<id>4693697</id>
+<revision>
+<id>65661768</id>
+<parentid>60457632</parentid>
+<timestamp>2022-02-06T15:20:51Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Root vegetables]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1221" xml:space="preserve">==English==
+===Etymology 1===
+====Noun====
+{{en-noun}}
+# A vegetable, the Indian white [[yam]].
+#* '''1970''', ''Jamaica Journal'' (volumes 4-5, page iii)
+#*: He made sure to mention that when Miss Essie had dug up the '''yampies''' she kept only one for herself, and took all the others to the village shop to give to the villagers.
+===Etymology 2===
+====Adjective====
+{{en-adj}}
+# {{lb|en|West Midlands}} [[barmy|Barmy]]; [[mad]]; [[daft]].
+#* {{quote-book
+|en
+|year=2012
+|title=The Dirty Streets of Heaven
+|series=Bobby Dollar|seriesvolume=1
+|first=Tad|last=Williams|authorlink=Tad Williams
+|passage=Them ''ghallu'', they're dead '''yampy'''—completely mad.
+}}
+#* {{quote-journal
+|en
+|date=2013-11-13
+|first=Adam|last=Smith
+|title=Outraged parents go '''yampy''' over school's Black Country accent ban
+|journal=The Telegraph &amp; Argus
+|url=http://www.thetelegraphandargus.co.uk/news/10806472.Outraged_parents_go_yampy_over_school_s_Black_Country_accent_ban/
+}}
+=====Synonyms=====
+* {{seeSynonyms|en|insane|strange}}
+====Noun====
+{{en-noun}}
+# {{lb|en|West Midlands}} A [[foolish]] person.
+=====Synonyms=====
+* {{seeSynonyms|en|fool}}
+[[Category:en:Dioscoreales order plants]]
+[[Category:en:Root vegetables]]</text>
+<sha1>byypzd5zfozqq7o7hrgvpemcyak8jt0</sha1>
+</revision>
+</page>

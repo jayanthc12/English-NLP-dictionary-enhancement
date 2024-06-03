@@ -1,0 +1,36 @@
+<page>
+<title>xayacatl</title>
+<ns>0</ns>
+<id>768520</id>
+<revision>
+<id>58232699</id>
+<parentid>58232695</parentid>
+<timestamp>2019-12-26T08:23:52Z</timestamp>
+<contributor>
+<username>Linshee</username>
+<id>3268604</id>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃaːjakatɬ/}}
+===Noun===
+{{head|nci|noun|head=xāyacatl}}
+# [[face]]
+#: {{syn|nci|īxtli}}
+# [[mask]]
+====Derived terms====
+* {{l|nci|axayacatl}}
+{{c|nci|Face|Clothing}}
+----
+==Northern Puebla Nahuatl==
+===Noun===
+{{head|ncj|noun}}
+# {{l|en|mask}}
+===References===
+* {{R:Brockway et al. 2018|page=242}}</text>
+<sha1>96kc77ylcj61mr9zzou3zbt37j4fxf1</sha1>
+</revision>
+</page>

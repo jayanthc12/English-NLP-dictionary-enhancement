@@ -1,0 +1,28 @@
+<page>
+<title>yafkan</title>
+<ns>0</ns>
+<id>1501077</id>
+<revision>
+<id>63426993</id>
+<parentid>53444120</parentid>
+<timestamp>2021-07-26T03:20:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[anger]].
+# To [[annoy]].
+# {{inflection of|arn|yafkan||1|s|realis|form}}
+====See also====
+* {{l|arn|jazkvn}}
+* {{l|arn|ijkun}}</text>
+<sha1>97po4zihfdrashdb46rvx2s47qy9drn</sha1>
+</revision>
+</page>

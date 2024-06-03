@@ -1,0 +1,25 @@
+<page>
+<title>Yakup</title>
+<ns>0</ns>
+<id>2210589</id>
+<revision>
+<id>66246611</id>
+<parentid>66235436</parentid>
+<timestamp>2022-03-27T19:29:36Z</timestamp>
+<contributor>
+<username>Fay Freak</username>
+<id>3437587</id>
+</contributor>
+<minor />
+<comment>langcodes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">==Turkish==
+===Etymology===
+From {{der|tr|ar|يَعْقُوب}}, from {{der|tr|syc|ܝܲܥܩܘܿܒ݂|tr=yaʿqōḇ}}, from {{der|tr|hbo|יַעֲקֹב|tr=yaʿaqōv}}. {{doublet|en|Jacob}}.
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male|from=Arabic|eq=Jacob}}</text>
+<sha1>ina0kqv6bmr71jub3kifwqrl528skn5</sha1>
+</revision>
+</page>

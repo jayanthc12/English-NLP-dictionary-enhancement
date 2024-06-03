@@ -1,0 +1,31 @@
+<page>
+<title>xanpu</title>
+<ns>0</ns>
+<id>4040302</id>
+<revision>
+<id>64988640</id>
+<parentid>63506979</parentid>
+<timestamp>2021-12-18T21:40:20Z</timestamp>
+<contributor>
+<username>Santi2222</username>
+<id>2319339</id>
+</contributor>
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="271" xml:space="preserve">==Basque==
+===Etymology===
+Borrowed from {{bor|eu|en|shampoo}}, from {{der|eu|hi|चाँपो}}.
+===Pronunciation===
+{{eu-IPA}}
+===Noun===
+{{eu-noun|in}}
+# [[shampoo]]
+====Declension====
+{{eu-decl-inanim}}
+===Further reading===
+*{{R:EH}}
+[[Category:eu:Hygiene]]</text>
+<sha1>o9iumj21egwf01lvyydku30g4s8brjp</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>yellowcake</title>
+<ns>0</ns>
+<id>713024</id>
+<revision>
+<id>63203471</id>
+<parentid>62481710</parentid>
+<timestamp>2021-07-19T05:43:10Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="522" xml:space="preserve">{{also|yellow cake}}
+==English==
+===Alternative forms===
+* {{l|en|yellow cake}}
+===Etymology===
+{{compound|en|yellow|cake}}, from its colour and texture.
+===Noun===
+{{en-noun|~}}
+# A concentrated form of [[uranium]] [[ore]] containing a mixture of [[oxide]]s.
+#: {{syn|en|urania}}
+====Translations====
+{{trans-top|concentrated form of uranium ore}}
+* Russian: {{t|ru|[[жёлтый]] [[кек]]|m}}
+{{trans-mid}}
+{{trans-bottom}}
+===Further reading===
+* {{pedia}}
+[[Category:en:Uranium]]
+{{topics|en|Radioactivity}}</text>
+<sha1>0a7yjb622wyuv26gfp72lbudgmpufcw</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>Xylosma</title>
+<ns>0</ns>
+<id>2137401</id>
+<revision>
+<id>69386094</id>
+<parentid>68798858</parentid>
+<timestamp>2022-09-27T15:35:09Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="845" xml:space="preserve">{{also|xylosma}}
+==Translingual==
+[[File:Xylosma ciliatifolia - Flickr - Tarciso Leão (9).jpg|thumb|{{taxlink|Xylosma ciliatifolia|species|ver=181207|'''Xylosma''' ciliatifolia}}]]
+===Etymology===
+From {{der|mul|grc|ξύλον||wood}} + {{m|grc|ὀσμή||fragrance}}.
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Salicaceae|spiny [[evergreen]] [[shrub]]s and trees}}
+====Hypernyms====
+* {{sense|genus}} {{Salicaceae Hypernyms}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xylosma orbiculata|species}}&amp;nbsp;- type species; for other species see {{specieslite|i=1}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:USDA Plants|XYLOS}}
+* {{R:Tropicos|40027712|i=1}}
+* {{R:ITIS|500616|i=1}}
+* {{R:EOL|60870|i=1}}
+* {{R:NCBI|179718|i=1}}
+* {{R:GRIN|taxonomygenus|12989|i=1}}
+* {{R:TPL|i=1}}</text>
+<sha1>iebxirlk8k2jy7njbpx0inu39k78ig7</sha1>
+</revision>
+</page>

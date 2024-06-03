@@ -1,0 +1,27 @@
+<page>
+<title>Yarnell</title>
+<ns>0</ns>
+<id>6139798</id>
+<revision>
+<id>67822791</id>
+<parentid>67699878</parentid>
+<timestamp>2022-07-09T21:19:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="364" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yarnells}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yarnell'' is the 9643&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 3365 individuals. ''Yarnell'' is most common among White (92.51%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aellnry|renally}}</text>
+<sha1>6a9c4ptdok0bdx9tfueiervictiwgq4</sha1>
+</revision>
+</page>

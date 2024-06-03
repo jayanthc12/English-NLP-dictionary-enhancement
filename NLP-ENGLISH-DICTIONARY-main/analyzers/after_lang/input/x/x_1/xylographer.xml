@@ -1,0 +1,35 @@
+<page>
+<title>xylographer</title>
+<ns>0</ns>
+<id>43914</id>
+<revision>
+<id>46998754</id>
+<parentid>44187111</parentid>
+<timestamp>2017-07-09T06:11:36Z</timestamp>
+<contributor>
+<username>Daniel Carrero</username>
+<id>21747</id>
+</contributor>
+<minor />
+<comment>[[User:Daniel Carrero/term cleanup|term cleanup]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="766" xml:space="preserve">==English==
+===Etymology===
+Modelled on {{m|en|xylography}}, corresponding to {{af|en|xylo-|-grapher}}.
+===Noun===
+{{en-noun}}
+# a person who makes [[xylograph]]s
+====Translations====
+{{trans-top|person}}
+* Finnish: {{t|fi|ksylografi}}
+* German: {{t+|de|Xylograf|m}}, {{t+|de|Xylografin|f}}, {{t+|de|Xylograph}}, {{t+|de|Xylographin|f}}, {{t|de|Hotzschneider|m}}, {{t|de|Hotzschneiderin|f}}
+* Greek: {{t+|el|ξυλογράφος|m|f}}, {{t+|el|χαράκτης|m}}
+{{trans-mid}}
+* Polish: {{t+|pl|drzeworytnik|m}}, {{t|pl|drzeworytniczka|f}}
+* Slovak: {{t|sk|xylografista|m}}, {{t|sk|xylografistka|f}}
+* Volapük: {{qualifier|epicene}} {{t+|vo|boadiködan}}, {{qualifier|male}} {{t|vo|hiboadiködan}}, {{qualifier|female}} {{t|vo|jiboadiködan}}
+{{trans-bottom}}</text>
+<sha1>cua2r5gbk5u5ztv42csg5zz9z1s2gh2</sha1>
+</revision>
+</page>

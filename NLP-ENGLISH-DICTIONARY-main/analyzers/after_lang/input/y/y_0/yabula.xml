@@ -1,0 +1,25 @@
+<page>
+<title>yabula</title>
+<ns>0</ns>
+<id>5780212</id>
+<revision>
+<id>61118257</id>
+<parentid>39757241</parentid>
+<timestamp>2020-11-14T08:36:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Yabula Yabula==
+===Particle===
+{{head|yxy|particle}}
+# [[no]]
+===References===
+* David Nash, John Henderson, ''Language in Native Title'' (2002), page 123</text>
+<sha1>lrahw2as13il4fyzmylknlu0h2i77xs</sha1>
+</revision>
+</page>

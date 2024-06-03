@@ -1,0 +1,43 @@
+<page>
+<title>xugular</title>
+<ns>0</ns>
+<id>4091541</id>
+<revision>
+<id>49640082</id>
+<parentid>48016734</parentid>
+<timestamp>2018-06-04T04:39:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Remove withtext= from {{bor}}/{{borrowed}}/{{borrowing}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="665" xml:space="preserve">==Asturian==
+===Etymology===
+Borrowed from {{bor|ast|ML.|-}} or Scientific Latin {{m|la|iugularis|iugularis, jugularis}}, from {{der|ast|la|iugulum}}.
+===Noun===
+{{ast-noun|f|xugulares}}
+# [[jugular]]
+[[Category:ast:Anatomy]]
+----
+==Galician==
+===Etymology===
+Borrowed from {{bor|gl|ML.|-}} or Scientific Latin {{m|la|iugularis|iugularis, jugularis}}, from {{der|gl|la|iugulum}}.
+===Noun===
+{{gl-noun|f|xugulares}}
+# [[jugular]]
+====Synonyms====
+* {{l|gl|vea}} xugular
+===Verb===
+{{gl-verb|xugul|ar}}
+# {{lb|gl|transitive}} to [[slit]] the throat of
+====Conjugation====
+{{gl-conj-ar|xugul}}
+====Synonyms====
+* {{l|gl|degolar}}
+[[Category:gl:Anatomy]]</text>
+<sha1>30982i06xi8q1790btl9w8jhqfc015o</sha1>
+</revision>
+</page>

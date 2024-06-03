@@ -1,0 +1,25 @@
+<page>
+<title>xiwe</title>
+<ns>0</ns>
+<id>1532079</id>
+<revision>
+<id>63426965</id>
+<parentid>39327247</parentid>
+<timestamp>2021-07-26T03:20:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# {{lb|arn|plant}} [[laurel]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>1qxbrmov0jzlac78cu7ic7nelywin06</sha1>
+</revision>
+</page>

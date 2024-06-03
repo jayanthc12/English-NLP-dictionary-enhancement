@@ -1,0 +1,31 @@
+<page>
+<title>yhteisasunto</title>
+<ns>0</ns>
+<id>7007875</id>
+<revision>
+<id>58620585</id>
+<parentid>58593436</parentid>
+<timestamp>2020-02-01T14:20:29Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|asunto}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-asunto}}
+===Noun===
+{{fi-noun}}
+# [[cohabitation]], a [[residence]] or [[place]] where people [[cohabit]]
+====Declension====
+{{fi-decl-valo|yhteisasu|nt|nn|o|a}}
+===Anagrams===
+* {{anagrams|fi|a=aehinossttuy|asuntotiheys}}</text>
+<sha1>rpj1he2her14wovdil0qblqpf14yz5s</sha1>
+</revision>
+</page>

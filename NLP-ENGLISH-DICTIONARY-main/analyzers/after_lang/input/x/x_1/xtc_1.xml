@@ -1,0 +1,33 @@
+<page>
+<title>xtc</title>
+<ns>0</ns>
+<id>5963495</id>
+<revision>
+<id>59233475</id>
+<parentid>58593330</parentid>
+<timestamp>2020-04-29T02:02:09Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Nl-xtc.ogg</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==Dutch==
+===Pronunciation===
+* {{IPA|nl|/ˈɛk.stə.si/|/ˈɛk.sti.si/}}
+* {{audio|nl|Nl-xtc.ogg|Audio}}
+===Noun===
+{{nl-noun|m|-|-}}
+# {{abbreviation of|nl|ecstasy}}
+----
+==Finnish==
+===Pronunciation===
+{{fi-pronunciation|äks-tee-see}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|slang}} {{synonym of|fi|ekstaasi}} {{gloss|drug}}.</text>
+<sha1>hekaudo2vl7wcjazxfqdl1pgy3clpr1</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>Xenotim</title>
+<ns>0</ns>
+<id>4261735</id>
+<revision>
+<id>66063208</id>
+<parentid>65754848</parentid>
+<timestamp>2022-03-04T08:00:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==German==
+{{wikipedia|lang=de}}
+===Noun===
+{{de-noun|m}}
+# {{lb|de|mineral}} [[xenotime]]
+====Declension====
+{{de-ndecl|m}}
+===Further reading===
+* {{R:Duden}}</text>
+<sha1>ddp9yonqil4c364ftx2yl4vabbazrk4</sha1>
+</revision>
+</page>

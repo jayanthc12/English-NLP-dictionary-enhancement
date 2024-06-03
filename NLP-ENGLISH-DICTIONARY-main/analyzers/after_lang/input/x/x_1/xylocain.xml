@@ -1,0 +1,25 @@
+<page>
+<title>xylocain</title>
+<ns>0</ns>
+<id>5892820</id>
+<revision>
+<id>54409335</id>
+<parentid>51578412</parentid>
+<timestamp>2019-09-29T10:11:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}; move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="600" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{alternative form of|en|xylocaine}}
+#* {{quote-journal|en|date=September 7, 2015|author=Cindy Leten et al.|title=Assessment of bystander killing-mediated therapy of malignant brain tumors using a multimodal imaging approach|journal=Stem Cell Research &amp; Therapy|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562202/|doi=10.1186/s13287-015-0157-3|volume=6|issue=|pages=
+|passage=Local analgesia (2 % '''xylocain'''; AstraZeneca, London, UK) and antibiotics (6 mg/mouse, Ampiveto-20, 200 mg/ml; VMD, New Haw, Surrey, UK) were administered prior to surgery.}}</text>
+<sha1>gls4qu0pwm1srq2smgz0jlgsgu4zmb8</sha1>
+</revision>
+</page>

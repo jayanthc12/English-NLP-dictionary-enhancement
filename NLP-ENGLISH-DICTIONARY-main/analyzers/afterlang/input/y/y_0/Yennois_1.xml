@@ -1,0 +1,26 @@
+<page>
+<title>Yennois</title>
+<ns>0</ns>
+<id>6362517</id>
+<revision>
+<id>67264048</id>
+<parentid>67195508</parentid>
+<timestamp>2022-06-05T22:50:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace f=[[Yennoise]] with '+' in {{fr-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">{{also|yennois}}
+==French==
+===Pronunciation===
+* {{fr-IPA}}
+===Noun===
+{{fr-noun|m|f=+}}
+# resident or native of [[Yenne]]</text>
+<sha1>iuh6gp35icnttxjl20b243besm4ik6x</sha1>
+</revision>
+</page>

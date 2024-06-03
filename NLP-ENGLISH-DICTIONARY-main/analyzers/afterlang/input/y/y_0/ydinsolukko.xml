@@ -1,0 +1,28 @@
+<page>
+<title>ydinsolukko</title>
+<ns>0</ns>
+<id>4616854</id>
+<revision>
+<id>69318261</id>
+<parentid>52039398</parentid>
+<timestamp>2022-09-18T17:08:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|solukko|t1=pith|t2=tissue}}
+===Pronunciation===
+{{fi-p|ydin-solukko}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|botany}} [[pith]] [[tissue]]
+====Declension====
+{{fi-decl-laatikko|ydinsolu|kk|k|o|a}}</text>
+<sha1>4220ztlwhenbapjim1plum40v2tnjov</sha1>
+</revision>
+</page>

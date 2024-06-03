@@ -1,0 +1,27 @@
+<page>
+<title>xenoglosia</title>
+<ns>0</ns>
+<id>6817763</id>
+<revision>
+<id>68971576</id>
+<parentid>58312270</parentid>
+<timestamp>2022-08-29T02:28:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="180" xml:space="preserve">==Spanish==
+===Noun===
+{{es-noun|f}}
+# [[xenoglossy]]
+## {{lb|es|psychology}} [[glossolalia]]
+## {{lb|es|religion}} [[speaking in tongues]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>rgx9cr1jcfox978mfeo4inhp29y3cvc</sha1>
+</revision>
+</page>

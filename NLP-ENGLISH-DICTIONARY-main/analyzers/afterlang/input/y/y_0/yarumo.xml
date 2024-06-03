@@ -1,0 +1,27 @@
+<page>
+<title>yarumo</title>
+<ns>0</ns>
+<id>5101387</id>
+<revision>
+<id>62085160</id>
+<parentid>61998068</parentid>
+<timestamp>2021-03-14T03:07:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# the [[pumpwood]] tree
+#: {{syn|es|yagrumo}}
+{{C|es|Trees}}</text>
+<sha1>06gu7fv9yhymvgu7pvn6lz1t8i5udh6</sha1>
+</revision>
+</page>

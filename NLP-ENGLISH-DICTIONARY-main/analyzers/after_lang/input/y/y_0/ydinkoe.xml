@@ -1,0 +1,32 @@
+<page>
+<title>ydinkoe</title>
+<ns>0</ns>
+<id>1129720</id>
+<revision>
+<id>69318183</id>
+<parentid>54254578</parentid>
+<timestamp>2022-09-18T17:04:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="332" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|koe}}
+===Pronunciation===
+{{fi-p|ydin-koe*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[test]] {{gloss|act of testing a nuclear weapon}}
+====Declension====
+{{fi-decl-hame|ydinko||k|a}}
+====Derived terms====
+* {{l|fi|ydinkoealue}}
+* {{l|fi|ydinkoekielto}}
+* {{l|fi|ydinkoeräjäytys}}</text>
+<sha1>1e0meri9j0k48oregtueblgtl9v49ck</sha1>
+</revision>
+</page>

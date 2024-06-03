@@ -1,0 +1,37 @@
+<page>
+<title>xenreira</title>
+<ns>0</ns>
+<id>7317438</id>
+<revision>
+<id>68870962</id>
+<parentid>68857021</parentid>
+<timestamp>2022-08-28T06:08:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1176" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|senreira|sinreira|xanreira}}
+===Etymology===
+{{unk|gl}}. Attested since circa 1750. Perhaps from an older {{m|gl||*renxeira}}, from {{m|gl|renxer|t=to grind one's teeth}},&lt;ref&gt;{{R:es:DCECH|reñir}}&lt;/ref&gt; but the earlier attestations until the last quarter of the 19th century are always spelled {{m|gl||senreira, sinreira}}, which makes this proposal unlikely.
+===Pronunciation===
+* {{IPA|gl|[ʃenˈrejɾɐ]}}
+===Noun===
+{{gl-noun|f}}
+# [[hatred]], [[grudge]], [[rancour]], [[spite]]
+#* '''1877''', O Tio Marcos da Portela, 39, p. 155:
+#*: ''O outro día pola mañá cedo, o rapaz achegouse onda min qu'inda estaba no leito, e dixome: «meu pai; voulle collendo unha '''xenreira''' ós que viven na ciudá, que si pillo a un solo nun carreiro, sobolle as costelas canto pódea»''
+#*:: The other day, early in the morning, my child came to me, I was still in bed, and told me: «my father; I'm growing such a '''grudge''' against the ones living in the city that if I find one alone at a road, I'll knead his ribs as much as I can»
+===References===
+* {{R:gl:DDLG|sinreira}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+&lt;references/&gt;</text>
+<sha1>22uzry76xgf0kcuuauimrqkjh7se8n0</sha1>
+</revision>
+</page>

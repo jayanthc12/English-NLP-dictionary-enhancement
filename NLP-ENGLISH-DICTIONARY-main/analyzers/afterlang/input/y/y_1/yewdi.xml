@@ -1,0 +1,32 @@
+<page>
+<title>yewdi</title>
+<ns>0</ns>
+<id>6551800</id>
+<revision>
+<id>60274433</id>
+<parentid>56516006</parentid>
+<timestamp>2020-09-05T11:18:16Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="735" xml:space="preserve">==Matal==
+===Etymology===
+From {{inh|mfh|cdc-pro|*ydn}}.
+===Pronunciation===
+*{{IPA|mfh|[yáwdì]}}&lt;ref&gt;{{R:mfh:Rossing|page=51}}&lt;/ref&gt;
+===Noun===
+{{head|mfh|noun}}
+# [[eye]]
+#:{{ux|mfh|&quot;Mana asa à akul, kà gəɗahakulaŋ ma?&quot; &quot;Məŋga, kà '''yewdi '''gami aŋa manəŋla&quot; (Mata 20:33)|&quot;What do you want me to do for you?&quot; They said to him, &quot;Lord, that our '''eyes''' would see&quot;. (Matthew 20:33)|ref=&lt;ref&gt;http://listen.bible.is/MFHWYI/Matt/20#33&lt;/ref&gt;}}
+#: {{ux|mfh|''''Yewdi '''mapəlay la '''yewdi''', [[sliɗ]] bay mapəlay la sliɗ (Mata 3:38)|An '''eye '''for an '''eye '''and a tooth for a tooth. (Matthew 5:38)|ref=&lt;ref&gt;http://listen.bible.is/MFHWYI/Mata/3#38&lt;/ref&gt;}}
+===References===
+&lt;references/&gt;
+[[Category:mfh:Body]]</text>
+<sha1>b637smjo6j7w2f1ub3me4phmzt9xrdk</sha1>
+</revision>
+</page>

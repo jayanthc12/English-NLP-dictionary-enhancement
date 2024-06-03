@@ -1,0 +1,27 @@
+<page>
+<title>xilofonra</title>
+<ns>0</ns>
+<id>1791370</id>
+<revision>
+<id>52349320</id>
+<parentid>25549528</parentid>
+<timestamp>2019-04-13T20:57:13Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="201" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xilofon|-ra|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xi|lo|fon|ra}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||sbl|s}}</text>
+<sha1>ck83pini53qzpd76sads80yt4ivr4a6</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>yerine</title>
+<ns>0</ns>
+<id>3669225</id>
+<revision>
+<id>58407735</id>
+<parentid>58407734</parentid>
+<timestamp>2020-01-14T01:30:30Z</timestamp>
+<contributor>
+<username>פֿינצטערניש</username>
+<id>2534930</id>
+</contributor>
+<comment>/* Preposition */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||2|s|simple present|possessive|dat}}
+# {{inflection of|tr|yer||3|s|simple present|possessive|dat}}
+===Postposition===
+{{tr-postposition}}
+# [[in lieu of]], [[instead of]]</text>
+<sha1>k49lt51p1tli6fark1097s44n5o0kif</sha1>
+</revision>
+</page>

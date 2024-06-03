@@ -1,0 +1,40 @@
+<page>
+<title>xopilchicuace</title>
+<ns>0</ns>
+<id>4689530</id>
+<revision>
+<id>58232704</id>
+<parentid>56340708</parentid>
+<timestamp>2019-12-26T08:26:07Z</timestamp>
+<contributor>
+<username>Linshee</username>
+<id>3268604</id>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1147" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{alter|nci|xopilchiquace||obsolete spelling}}
+===Etymology===
+{{compound|nci|xopilli|chicuace|t1=toe|t2=six}}
+===Pronunciation===
+* {{IPA|nci|[ʃo.piɬ.t͡ʃiˈkʷa.se]}}
+===Noun===
+{{nci-noun|a}}
+# A person with six [[toe]]s on one or both [[foot|feet]].
+#* '''1571''', {{w|Alonso de Molina}}, ''{{w|Vocabulario en lengua castellana y mexicana y mexicana y castellana}}'', f. 90v. col. 1.
+#*: Ombre de ſeys dedos enlos pies. '''xopilchiquace'''.
+#*:: A man with six toes on his feet. '''xopilchiquace'''.
+#* ''Idem'', f. 161r. col. 2.
+#*: '''Xopilchiquace'''. hombre de ſeis dedos enlos pies.
+#*:: '''Xopilchiquace'''. a man with six toes on his feet.
+====Related terms====
+* {{l|nci|mahpilchiquace}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=90v, 161r}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=780}}
+{{c|nci|People}}</text>
+<sha1>77wbuqu0wgcg5jsor5j1cng3khfnl7r</sha1>
+</revision>
+</page>

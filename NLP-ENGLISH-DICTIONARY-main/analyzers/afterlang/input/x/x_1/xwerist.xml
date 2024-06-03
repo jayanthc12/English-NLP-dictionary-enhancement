@@ -1,0 +1,25 @@
+<page>
+<title>xwerist</title>
+<ns>0</ns>
+<id>849547</id>
+<revision>
+<id>60848792</id>
+<parentid>60833726</parentid>
+<timestamp>2020-10-14T04:20:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# [[nature]] (essential characteristics)</text>
+<sha1>85d6123qjtiuhlg40urdo47bluls0p3</sha1>
+</revision>
+</page>

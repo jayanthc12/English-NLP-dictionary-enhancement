@@ -1,0 +1,29 @@
+<page>
+<title>xelat</title>
+<ns>0</ns>
+<id>1654953</id>
+<revision>
+<id>62506550</id>
+<parentid>60848755</parentid>
+<timestamp>2021-05-10T23:25:29Z</timestamp>
+<contributor>
+<username>Balyozxane</username>
+<id>3654675</id>
+</contributor>
+<comment>/* Declension */ bi [[wikt:ku:MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]ê re</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="219" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{IPA|kmr|[χɛlɑt]}}
+* {{hyphenation|kmr|xe|lat}}
+===Verb===
+{{kmr-noun|f}}
+# [[award]]
+====Declension====
+{{kmr-decl-noun|f}}
+====Derived terms====
+* {{l|kmr|xelatgir}}</text>
+<sha1>c6bw633qcnb48tcj6xr04p98kxn3e3l</sha1>
+</revision>
+</page>

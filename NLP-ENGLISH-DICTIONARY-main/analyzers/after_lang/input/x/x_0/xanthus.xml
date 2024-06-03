@@ -1,0 +1,33 @@
+<page>
+<title>xanthus</title>
+<ns>0</ns>
+<id>3755000</id>
+<revision>
+<id>59900859</id>
+<parentid>53730847</parentid>
+<timestamp>2020-08-02T23:17:53Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="387" xml:space="preserve">{{also|Xanthus}}
+==Latin==
+===Etymology===
+From {{der|la|grc|ξανθός}}.
+===Pronunciation===
+* {{la-IPA|xanthus}}
+===Adjective===
+{{la-adj|xanthus}}
+# [[yellow]]
+====Declension====
+{{la-adecl|xanthus}}
+====Derived terms====
+* {{taxlink|Bittium xanthum|species|ver=170301}}
+* {{taxlink|Falsilunatia xantha|species|ver=170301}}
+* {{taxlink|Myxococcus xanthus|species|ver=170301}}</text>
+<sha1>3ikzv0lsqbnkn1uj2wi758o5yomen0n</sha1>
+</revision>
+</page>

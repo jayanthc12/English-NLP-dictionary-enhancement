@@ -1,0 +1,27 @@
+<page>
+<title>yerbatal</title>
+<ns>0</ns>
+<id>7015313</id>
+<revision>
+<id>68972642</id>
+<parentid>64220589</parentid>
+<timestamp>2022-08-29T02:49:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[yerba]] [[field]] or [[plantation]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>nbxxqq39vl0e7wjg0fg5v09x0l6skuu</sha1>
+</revision>
+</page>

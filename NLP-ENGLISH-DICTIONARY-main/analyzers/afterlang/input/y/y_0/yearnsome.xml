@@ -1,0 +1,31 @@
+<page>
+<title>yearnsome</title>
+<ns>0</ns>
+<id>3595315</id>
+<revision>
+<id>51920788</id>
+<parentid>47949323</parentid>
+<timestamp>2019-03-16T17:06:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="586" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yearn|some}}.
+===Adjective===
+{{en-adj}}
+# Expressing, indicating, or full of [[yearning]]; [[yearnful]]; [[desirous]].
+#* '''1919''', ''Winter Sports Verse'':
+#*: And ah! a '''yearnsome''' sigh / Escapes from scores of swains, who far and nigh / To win the slightest notice vainly try, {{...}}
+#* '''1990''', Pete Davies, ''Dollarville'':
+#*: He'd been on Mir for six months, and was kind of '''yearnsome''' for new company.
+#* '''2005''', Paul Seaton, ''Cats Don't Eat Pancakes'':
+#*: I'm in complete control, my '''yearnsome''' drones.</text>
+<sha1>ntw1x7mzy938nhnrzibwmqh0fcpklfz</sha1>
+</revision>
+</page>

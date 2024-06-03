@@ -1,0 +1,24 @@
+<page>
+<title>xarife</title>
+<ns>0</ns>
+<id>4540681</id>
+<revision>
+<id>69114371</id>
+<parentid>42117582</parentid>
+<timestamp>2022-09-04T16:53:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); standardize templatized topical categories for lang=pt using {{C}}; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="141" xml:space="preserve">==Portuguese==
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|historical}} [[shereef]] {{gloss|a member of an Arab princely family}}
+{{C|pt|Nobility}}</text>
+<sha1>i6t358d9is9tx1bribp40arxxjq8mcp</sha1>
+</revision>
+</page>

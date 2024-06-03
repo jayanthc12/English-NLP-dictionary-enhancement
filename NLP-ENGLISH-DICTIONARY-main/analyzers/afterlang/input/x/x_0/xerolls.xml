@@ -1,0 +1,23 @@
+<page>
+<title>xerolls</title>
+<ns>0</ns>
+<id>4076575</id>
+<revision>
+<id>56273502</id>
+<parentid>53092325</parentid>
+<timestamp>2019-10-17T11:06:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xeroll}}</text>
+<sha1>q4f65itst9wj54n1zqspljzq8wgkwxp</sha1>
+</revision>
+</page>

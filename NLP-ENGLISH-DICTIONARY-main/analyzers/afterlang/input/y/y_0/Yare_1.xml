@@ -1,0 +1,33 @@
+<page>
+<title>Yare</title>
+<ns>0</ns>
+<id>6076932</id>
+<revision>
+<id>65230623</id>
+<parentid>61064550</parentid>
+<timestamp>2022-01-07T09:12:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="736" xml:space="preserve">{{also|yare}}
+==English==
+{{wikipedia|River Yare}}
+===Etymology===
+Of {{w|Anglo-Celtic}} origin, the name probably means &quot;babbling brook,&quot; from a {{der|en|gem|-}} base {{m|gem-pro|*gar|t=noisy, chattering}}, probably related to {{der|en|gem-pro|*karō|t=complaint, moan}} and {{cog|la|garrio|t=to babble, chatter}}.&lt;ref&gt;A History of English Place Names and Where They Came From. (2020). (n.p.): Pen and Sword History, p. 194&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|en|/jɛə(ɹ)/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|river|co/Norfolk|cc/England}}, which flows into the [[North Sea]] at [[Great Yarmouth]].
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=aery|Arey|Ayer|Ayre|Raye|Reay|aery|ayre|eyra|year}}</text>
+<sha1>axuh6and1mr17hu7c66kteyc012fg3w</sha1>
+</revision>
+</page>

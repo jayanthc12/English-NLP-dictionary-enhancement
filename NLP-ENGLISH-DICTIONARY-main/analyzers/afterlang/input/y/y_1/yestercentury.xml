@@ -1,0 +1,29 @@
+<page>
+<title>yestercentury</title>
+<ns>0</ns>
+<id>6366985</id>
+<revision>
+<id>54413088</id>
+<parentid>51823299</parentid>
+<timestamp>2019-09-29T11:10:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="432" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|yester-|century}}
+===Adverb===
+{{en-adv|-}}
+# In the century preceding the {{l|en|current}} century.
+===Noun===
+{{en-noun|-}}
+# [[previous|Previous]] century, the last century before the current one.
+#* {{quote-journal|en|journal=Homiletic Review|volume=80|page=5|date=July 1920|passage=Yet the creeds of '''yestercentury''' remain.|title=Have we any user for creeds|author=D. R. Piper}}</text>
+<sha1>ju7oswgz3sx3z4e8tgusdynwn463h6w</sha1>
+</revision>
+</page>

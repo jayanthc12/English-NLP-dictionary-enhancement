@@ -1,0 +1,298 @@
+<page>
+<title>yield</title>
+<ns>0</ns>
+<id>72653</id>
+<revision>
+<id>69447742</id>
+<parentid>69447696</parentid>
+<timestamp>2022-10-04T20:31:43Z</timestamp>
+<contributor>
+<username>Hvergi</username>
+<id>3867107</id>
+</contributor>
+<minor />
+<comment>Undo revision 69447696 by [[Special:Contributions/2600:4041:4237:9200:A4CC:DBCF:C950:5C53|2600:4041:4237:9200:A4CC:DBCF:C950:5C53]] ([[User talk:2600:4041:4237:9200:A4CC:DBCF:C950:5C53|talk]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="16354" xml:space="preserve">==English==
+{{wikipedia}}
+===Pronunciation===
+* {{IPA|en|/jiːld/}}
+* {{audio|en|en-us-yield.ogg|Audio (US)}}
+* {{rhymes|en|iːld|s=1}}
+===Etymology 1===
+From {{inh|en|enm|yielden}}, {{m|enm|yelden}}, {{m|enm|ȝelden|t=to yield, pay}}, from {{inh|en|ang|ġieldan|t=to pay}}, from {{inh|en|gmw-pro|*geldan}}, from {{inh|en|gem-pro|*geldaną|t=to pay}}, from {{der|en|ine-pro|*gʰeldʰ-|t=to pay}}.
+{{rel-top|Cognates}}
+Cognate with {{cog|sco|yield||to yield}}, {{cog|frr|jilden||to pay}}, Saterland Frisian {{cog|stq|jäilde||to be valid; matter; count; be worth}}, {{cog|fy|jilde||to pay}}, Low German {{cog|nds|gellen}}, {{cog|nl|gelden||to apply, count, be valued, be regarded}}, {{cog|de|gelten||to apply, count, be valued, be regarded}}, {{cog|is|gjalda||to pay, yield, give}}, {{cog|da|gælde||to apply, count, be valued, be regarded}}, {{cog|nb|gjelde}}.
+{{rel-bottom}}
+====Verb====
+{{en-verb|past2=yold|past2_qual=obsolete|past_ptc2=yolden|past_ptc2_qual=obsolete}}
+# {{lb|en|obsolete}} To [[pay]], [[give]] in [[payment]]; [[repay]], [[recompense]]; [[reward]]; [[requite]].
+#* {{RQ:Shakespeare As You Like It|act=V|scene=iv|passage=God''' 'ild''' [yield] you, sir!}}
+#* {{RQ:Shakespeare Antony and Cleopatra|act=IV|scene=ii|passage=Tend me to-night two hours, I ask no more, / And the gods '''yield''' you for 't.}}
+#* {{RQ:Beaumont Fletcher Comedies and Tragedies|The Spanish Curate|act=IV|scene=v|passage=God '''yield''' thee, and God thank ye.}}
+#* {{RQ:Tennyson Idylls|edition=cabinet|volume=V|poem=Gareth and Lynette|page=38|passage=Heaven '''yield''' her for it, but in me put force / To weary her ears with one continuous prayer, / Until she let me fly discaged to sweep / In ever-highering eagle-circles up / To the great Sun of Glory, {{...}}}}
+# To furnish; to afford; to render; to give forth.
+#* {{RQ:Milton Paradise Lost|book=5|passage=Vines '''yield''' nectar.}}
+#* {{RQ:King James Version|Job|24|5|passage=The wilderness '''yieldeth''' food for them and for their children.}}
+# To give way; to allow another to pass first.
+#: {{ux|en|'''Yield''' the right of way to pedestrians.}}
+# To give as required; to [[surrender]], [[relinquish]] or [[capitulate]].
+#: {{ux|en|They refuse to '''yield''' to the enemy.}}
+#* {{RQ:Marlowe Tamburlaine|1|I|ii|passage=Won with thy words, &amp; conquered with thy lookes, / I '''yeeld''' my ſelfe, my men &amp; horſe to thee: / To be partaker of thy good or ill, / As long as life maintaines ''Theridimas''.}}
+#* {{RQ:Shakespeare Henry 6-2|act=I|scene=i|passage=I'll make him '''yield''' the crown.}}
+#* {{RQ:Milton Paradise Lost|book=11|passage=Shall '''yield''' up all their virtue, all their fame.}}
+# To give, or give forth, (anything).
+#* {{RQ:Shakespeare Tempest|act=I|scene=ii|passage={{...}} We'll visit Caliban, my slave, who never / '''Yields''' us kind answer.}}
+#*{{quote-video game|en||developer={{w|BioWare}}|title={{w|Mass Effect (video game)|Mass Effect}}|location=Redwood City|publisher=Electronic Arts|year=2008|platform=PC|scene=Protheans: Data Discs Codex entry|genre=[[science fiction|Science Fiction]]|isbn=9780784546642|oclc=246633669|passage=Despite all the evidence confirming the existence of the Protheans, little is known about their culture and society. From time to time, dig sites will '''yield''' new clues, but after 50,000 years of decay, little of value is unearthed.}}
+# {{lb|en|intransitive}} To [[give way]]; to [[succumb]] to a force.
+#* {{RQ:Stoker Dracula|chapter=21|passage=He turned the handle as he spoke, but the door did not '''yield'''. We threw ourselves against it. With a crash it burst open, and we almost fell headlong into the room.}}
+# To [[produce]] as [[return]], as from an [[investment]].
+#: {{ux|en|Historically, that security '''yields''' a high return.}}
+# {{lb|en|mathematics}} To produce as a [[result]].
+#: {{ux|en|Adding 3 and 4 '''yields''' a result of 7.}}
+# {{lb|en|linguistics}} To produce a particular [[sound]] as the result of a [[sound law]].
+#: {{ux|en|Indo-European p- '''yields''' Germanic f-.}}
+# {{lb|en|engineering|materials science|of a material specimen}} To pass the [[material]]'s [[yield point]] and undergo [[plastic deformation]].
+# {{lb|en|rare}} To admit to be true; to concede; to allow.
+#* {{RQ:Milton Paradise Lost|book=XI|passage=I '''yield''' it just, said Adam, and submit.}}
+=====Synonyms=====
+* {{l|en|submit}} - To fully surrender
+* {{l|en|capitulate}} - To end all resistance, may imply a compensation with an enemy or to end all resistance because of loss of hope
+* {{l|en|succumb}} - To fully surrender, because of helplessness and extreme weakness, to the leader of an opposing force
+* {{l|en|relent}} - A yielding because of pity or mercy
+* {{l|en|defer}} - A voluntary submitting out of respect, reverence or affection
+* {{l|en|give way}} - To succumb to persistent persuasion.
+* {{l|en|surrender}} - To give up into the power, control, or possession of another
+* {{l|en|cede}} - To give up, give way, give away
+* {{l|en|give up}} - To surrender
+* {{l|en|produce}} - To make (a thing) available to a person, an authority, etc.
+* {{l|en|bear}} - To produce something, such as fruit or crops
+* {{l|en|supply}} - To provide (something), to make (something) available for use
+* {{l|en|give in}}
+* to [[trade away]] - to let others get hold of a property or right of yours.
+=====Translations=====
+{{trans-top|to give way}}
+* Bulgarian: {{t+|bg|отстъпвам}}
+* Catalan: {{t+|ca|cedir}}
+* Chinese:
+*: Mandarin: {{t+|cmn|讓步|sc=Hani}}, {{t+|cmn|让步|tr=ràngbù|sc=Hani}}
+* Czech: {{t|cs|dát přednost}}
+* Danish: {{t|da|give efter}}
+* Dutch: {{t+|nl|belonen}}, {{t+|nl|verlenen}}, {{t+|nl|afstaan}}
+* Finnish: {{t+|fi|taipua}}, {{t|fi|[[antaa]] [[tietä]]}}, {{t+|fi|väistää}}
+* French: {{t+|fr|céder}}, {{t+|fr|laisser passer}}
+* Georgian: {{t|ka|დათმობა}}
+* German: {{t+|de|nachgeben}}, {{t|de|Platz machen}}, {{t|de|Vorfahrt gewähren}} {{qualifier|automotive}}, {{t+|de|vorbeilassen}}, {{t+|de|gewähren}}
+* Greek:
+*: Ancient: {{t|grc|παραχωρέω}}
+* Hungarian: {{t+|hu|átenged}}, {{t|hu|elsőbbséget ad}}
+{{trans-mid}}
+* Irish: {{t|ga|géill slí}}
+* Italian: {{t+|it|cedere}}, {{t|it|dare la precedenza}}
+* Japanese: {{t+|ja|譲る|tr=ゆずる, yuzuru}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|cēdō}}, {{t|la|dēcēdō}}
+* Maori: {{t|mi|ngaeki}}, {{t|mi|tautuku}}, {{t|mi|ngawhere}}
+* Norwegian: {{t|no|svikte}}, {{t+|no|gi etter}}
+* Occitan: {{t+|oc|cedir}}
+* Polish: {{t+|pl|ustąpić|pf}}, {{t+|pl|ustępować|impf}}
+* Portuguese: {{t|pt|[[dar]] [[preferência]]}}, {{t|pt|[[ceder]] [[passagem]]}}
+* Romanian: {{t+|ro|închina}}, {{t|ro|[[ceda]] [[trecerea]]}}
+* Russian: {{t+|ru|уступа́ть}}
+* Slovak: {{t|sk|podať sa}}, {{t|sk|pustiť}}, {{t|sk|ustúpiť}}, {{t|sk|dať prednosť}}
+* Spanish: {{t+|es|ceder}}, {{t|es|ceder el paso}}
+* Turkish: {{t+|tr|sağlamak}}, {{t+|tr|yol vermek}}
+{{trans-bottom}}
+{{trans-top|to give as required}}
+* Arabic: {{t|ar|أَجْزَأَ}}, {{t|ar|أَجْزَى}}, {{t|ar|أَدَرَّ}}, {{t|ar|أَغَلَّ}}, {{t|ar|أَكْسَبَ}}, {{t|ar|أَمَّنَ}}, {{t|ar|حَقَّقَ}}, {{t+|ar|دَرَّ}}, {{t|ar|رَجَعَ بِـ}}, {{t|ar|سَحَبَ}}, {{t|ar|عادَ ( عليه ) بِـ}}
+* Aramaic:
+*: Syriac: {{t|syc|ܢܬܠ|tr=netel|sc=Syrc}}
+* Bulgarian: {{t|bg|предавам се}}
+* Chinese:
+*: Mandarin: {{t+|cmn|降服|tr=xiángfú|sc=Hani}}, {{t+|cmn|屈服|tr=qūfú|sc=Hani}}
+* Czech: {{t|cs|podřídit se}}
+* Danish: {{t+|da|vige}}
+* Dutch: {{t+|nl|zwichten}}, {{t+|nl|capituleren}}, {{t+|nl|overgeven}}
+* Finnish: {{t+|fi|myöntää}}
+* French: {{t+|fr|se rendre}}, {{t+|fr|céder}}, {{t+|fr|capituler}}
+* Galician: {{t+|gl|render}}
+* German: {{t+|de|aufgeben}}, {{t|de|(Ertrag) [[abwerfen]]}}, {{t+|de|nachgeben}}
+* Hungarian: {{t+|hu|enged}}, {{t+|hu|megadja magát}}, {{t+|hu|behódol}}, {{t+|hu|átenged}}, {{t+|hu|átad}}, {{t+|hu|lemond}}, {{t+|hu|felad}}
+{{trans-mid}}
+* Italian: {{t+|it|cedere}}, {{t+|it|arrendersi}}, {{t+|it|arrendere}}
+* Japanese: {{t+|ja|譲る|tr=ゆずる, yuzuru}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t|la|obsequor}}
+* Norwegian: {{t|no|yte}}
+* Occitan: {{t+|oc|cedir}}, {{t+|oc|capitular}}, {{t+|oc|plegar}}, {{t|oc|se rendre}}
+* Portuguese: {{t+|pt|ceder}}
+* Russian: {{t+|ru|возвраща́ть}}, {{qualifier|to give as required}} {{t+|ru|отдава́ть}}, {{qualifier|surrender or capitulate}} {{t+|ru|сдава́ться}}
+* Spanish: {{t+|es|ceder}}
+* Swedish: {{t+|sv|ge vika}}
+* Turkish: {{t|tr|ürün vermek}}
+{{trans-bottom}}
+{{trans-top|to produce as return}}
+* Bulgarian: {{t|bg|раждам (реколта)}}, {{t+|bg|произвеждам}}
+* Chinese:
+*: Mandarin: {{t+|cmn|產量|sc=Hani}}, {{t+|cmn|产量|tr=chǎnliàng|sc=Hani}}, {{t+|cmn|產生|sc=Hani}}, {{t+|cmn|产生|tr=chǎnshēng|sc=Hani}}
+* Czech: {{t|cs|vynést}}
+* Danish: {{t+|da|give}}
+* Finnish: {{t+|fi|tuottaa}}
+* French: {{t+|fr|rapporter}}, {{t+|fr|retourner}}
+* Galician: {{t+|gl|render}}
+* Georgian: {{t|ka|მიღება}}, {{t|ka|წარმოება}}
+* German: {{t+|de|abwerfen}}, {{t+|de|bringen}}, {{t+|de|erbringen}}
+* Hungarian: {{t+|hu|jövedelmez}}, {{t+|hu|terem}}, {{t+|hu|hoz}}, {{t+|hu|ad}}
+{{trans-mid}}
+* Italian: {{t+|it|restituire}}
+* Japanese: {{t+|ja|もたらす|tr=motarasu}}
+* Korean: {{t-needed|ko}}
+* Norwegian: {{t|no|multiplisere}}
+* Occitan: {{t+|oc|raportar}}, {{t+|oc|rendre}}, {{t+|oc|dar}}, {{t+|oc|donar}}
+* Portuguese: {{t+|pt|resultar}}
+* Russian: {{t+|ru|дава́ть}}, {{t|ru|[[приводи́ть]] [[к]]}}, {{qualifier|in some cases}} {{t+|ru|производи́ть}}
+* Swedish: {{t+|sv|ge}}
+* Tagalog: {{t|tl|maghatag}}
+{{trans-bottom}}
+{{trans-top|to produce as a result}}
+* Bulgarian: {{t+|bg|давам}}, {{t+|bg|нося}}
+* Chinese:
+*: Mandarin: {{t+|cmn|得出|tr=déchū}}
+* Czech: {{t|cs|přinést výsledky}}
+* Danish: {{t|da|resultere i}}
+* Dutch: {{t+|nl|voortbrengen}}
+* Finnish: {{t+|fi|tuottaa}}
+* French: {{t+|fr|retourner}}
+* German: {{t+|de|ergeben}}
+* Hungarian: {{t+|hu|ad}}, {{t+|hu|eredményez}}
+* Italian: {{t+|it|produrre}}
+{{trans-mid}}
+* Japanese: {{t|ja|になり|tr=ninari}}, {{t|ja|となる|tr=tonaru}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|pariō}}
+* Norwegian: {{t|no|[[resultere]] [[i]]}}
+* Polish: {{t+|pl|dawać|impf}}
+* Portuguese: {{t+|pt|resultar}}
+* Russian: {{t|ru|[[приводи́ть]] [[к]]}}, {{t+|ru|результироваться}}
+* Spanish: {{t+|es|arrojar}}
+* Swedish: {{t+|sv|ge}}
+* Tagalog: {{t|tl|maghatag}}
+{{trans-bottom}}
+===Etymology 2===
+From {{inh|en|enm|ȝeld}}, from {{inh|en|ang|ġield}}, from {{inh|en|gmw-pro|*geld}}, from {{inh|en|gem-pro|*geldą||reward, gift, money}}, from {{der|en|ine-pro|*gʰeldʰ-||to pay}}.
+{{rel-top|Cognates}}
+Compare {{cog|fy|jild}}, {{cog|nl|geld}}, Low German and {{cog|de|Geld}}, {{cog|da|gæld}}, {{cog|sv|gäld}}, {{cog|is|gjald}}. See also {{m|en|geld}}.
+{{rel-bottom}}
+====Noun====
+{{en-noun|~}}
+# {{lb|en|obsolete}} [[payment|Payment]]; [[tribute]].
+# A [[product]]; the [[quantity]] of something produced.
+#: {{ux|en|Zucchini plants always seem to produce a high '''yield''' of fruit.}}
+# {{senseid|en|explosive}} The [[explosive]] [[energy]] value of a bomb, especially a [[nuke]], usually expressed in tons of [[TNT]] equivalent.
+# {{lb|en|law}} The [[current]] return as a [[percentage]] of the [[price]] of a [[stock]] or [[bond]].
+#* {{quote-journal|en|date=2013-07-06|volume=408|issue=8843|page=68|magazine={{w|The Economist}}| title=[http://www.economist.com/news/finance-and-economics/21580518-terrible-name-interesting-trend-rise-smart-beta The rise of smart beta]| passage=Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond '''yields''' may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return.}}
+# {{lb|en|finance}} [[profit|Profit]] earned from an [[investment]]; [[return on investment]].
+=====Synonyms=====
+* {{l|en|crop}}
+* {{l|en|fruits}}
+* {{l|en|gain}}
+* {{l|en|harvest}}
+* {{l|en|produce}}
+* {{l|en|return}}
+=====Derived terms=====
+{{der3|en|ayield
+|foryield
+|gainyield
+|misyield
+|overyielding
+|sustained yield
+|unyielding
+|upyield
+|yield curve
+|yielder
+|yielding
+|yieldly
+|yield sign
+|yield-to-maturity
+}}
+=====Related terms=====
+{{rel3|en|capitulate
+|defer
+|relent
+|stop
+|submit
+|succumb
+|unrelent
+}}
+=====Translations=====
+{{trans-top|quantity of something produced}}
+* Arabic: {{t+|ar|إِفَادَة}}, {{t|ar|إِفَادَةٌ مِنْ}}, {{t|ar|إِنْتاج}}, {{t|ar|إِيراد}}, {{t|ar|اِسْتِفَادَة}}, {{t|ar|جَدَاء}}, {{t|ar|جَدْوَى}}, {{t|ar|جَنًى}}, {{t|ar|حاصِل}}, {{t+|ar|حَصَد}}, {{t|ar|حَصِيدَة}}, {{t|ar|حَصِيلَة}}, {{t+|ar|حَمْل}}, {{t+|ar|خَرْج}}, {{t|ar|خَيْر}}, {{t+|ar|دَخْل}}, {{t+|ar|رِبْح}}, {{t|ar|رَيْع}}, {{t+|ar|صَلَاح}}, {{t|ar|صُلُوح}}, {{t|ar|طائِل}}, {{t|ar|عائِد}}, {{t|ar|عائِدَة}}, {{t|ar|غَلَّة}}, {{t|ar|فائِدَة}}, {{t|ar|كَسْب}}, {{t|ar|مُتَحَصِّل}}, {{t|ar|مُحَصَّلَة}}, {{t|ar|مَحْصُول}}, {{t|ar|مَدْخُول}}, {{t|ar|مُسْتَغَلّ}}, {{t|ar|مَصْلَحَة}}, {{t|ar|مُغَلّ}}, {{t|ar|مُنْتَج}}, {{t|ar|مُنْتَجات}}, {{t|ar|مَنْتُوج}}, {{t|ar|مَنْفَعَة}}, {{t|ar|ناتِج}}, {{t|ar|نِتَاج}}, {{t+|ar|نَتِيجَة}}, {{t|ar|نَفْع}}
+* Bulgarian: {{t+|bg|добив|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|收成|tr=shōuchéng|sc=Hani}}, {{t+|cmn|產量|sc=Hani}}, {{t+|cmn|产量|tr=chǎnliàng|sc=Hani}}
+* Czech: {{t+|cs|výnos|m}}, {{qualifier|agriculture}} {{t|cs|úroda|f}}
+* Dutch: {{t+|nl|opbrengst}}
+* Egyptian: {{t-egy|ꜣzḫ|h=A-z:x-T30}}
+* Finnish: {{t+|fi|sato}}
+* French: {{t+|fr|rendement}}
+* Georgian: {{t|ka|მწარმოებლურობა}}, {{t|ka|ნაყოფიერება}}, {{t|ka|მოსავალი}}
+* German: {{t+|de|Ertrag|m}}, {{t+|de|Ausbeute}}
+{{trans-mid}}
+* Hebrew: {{t+|he|תְּשׂוּאָה|f|tr=tsuá}}
+* Italian: {{t+|it|raccolto}}, {{t+|it|produzione|f}}
+* Japanese: {{t+|ja|収穫|tr=shūkaku}}, {{t+|ja|利益|tr=rieki}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|fructus|m}}
+* Maori: {{t|mi|hauhakenga}}
+* Norwegian: {{t-check|no|fold}} {{qualifier|potato yield}}, {{t+check|no|utbytte}} {{qualifier|financial yield}} {{attention|no|what do the labels mean?}}
+* Occitan: {{t+|oc|rendement|m}}
+* Old English: {{t|ang|æþelu|f|n}}
+* Polish: {{t+|pl|produkcja|f}}, {{t+|pl|plon|m}}, {{t+|pl|wydajność}}
+* Portuguese: {{t+|pt|produção|f}}, {{t+|pt|rendimento|m}}, {{t+|pt|safra|f}} {{qualifier|of crops}}
+* Russian: {{t+|ru|вы́работка|f}}, {{t+|ru|вы́ход|m}}, {{t+|ru|урожа́й|m}}, {{t+|ru|проду́кция|f}}
+* Scottish Gaelic: {{t|gd|toradh|m}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|urod|m}}
+* Spanish: {{t+|es|rendimiento}}
+* Swedish: {{t+|sv|utbyte}}
+* Telugu: {{t+|te|దిగుబడి}}, {{t+|te|రాబడి}}
+* Turkish: {{t|tr|hâsılât}}, {{t+|tr|kazanç}}, {{t+|tr|rekolte}}, {{t+|tr|kâr}}, {{t+|tr|ürün}}
+{{trans-bottom}}
+{{trans-top|current return}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|tuotto}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t-needed|ko}}
+* Portuguese: {{t+|pt|yield|m|f}}
+{{trans-bottom}}
+{{trans-top|profit from an investment}}
+* Bulgarian: {{t+|bg|доходност|f}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|tuotto}}
+* Galician: {{t|gl|xuro|m-p|alt=xuros}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t|la|reditus|m}}
+* Norwegian: {{t+|no|avkastning}}
+* Spanish: {{t+|es|rendimiento|m}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=deily|Leidy|ylide}}
+[[Category:en:Nuclear warfare]]
+----
+==Portuguese==
+===Etymology===
+{{ubor|pt|en|yield}}.&lt;ref&gt;{{R:pt:Infopédia}}&lt;/ref&gt;&lt;ref&gt;{{R:pt:Priberam}}&lt;/ref&gt;
+===Noun===
+{{pt-noun|f|g2=m|#s}}
+# {{lb|pt|finance}} {{l|en|yield}} {{gloss|the current return as a percentage of the price of a stock or bond}}
+===References===
+&lt;references/&gt;</text>
+<sha1>d4aw5lvkzo6wj16bngoxv74eiqbe3k0</sha1>
+</revision>
+</page>

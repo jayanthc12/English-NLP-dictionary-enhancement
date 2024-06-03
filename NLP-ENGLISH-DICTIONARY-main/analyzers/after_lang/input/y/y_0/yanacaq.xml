@@ -1,0 +1,35 @@
+<page>
+<title>yanacaq</title>
+<ns>0</ns>
+<id>7035516</id>
+<revision>
+<id>59128460</id>
+<parentid>59121002</parentid>
+<timestamp>2020-04-11T21:09:55Z</timestamp>
+<contributor>
+<ip>92.184.107.83</ip>
+</contributor>
+<comment>/* Participle */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="695" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јанаҹаг|r=yanacaq|a=یاناجاق}}
+===Etymology===
+From {{suf|az|yanmaq|-əcək|alt2=-acaq|gloss1=to burn}}.
+===Pronunciation===
+* {{IPA|az|[jɑnɑˈd͡ʒɑχ]|[jɑnɑˈd͡zɑχ]}}
+* {{hyphenation|az|ya|na|caq}}
+===Participle===
+{{head|az|participle}}
+# {{participle of|az|yanmaq||subject|future|definite}}
+===Noun===
+{{az-head-noun|a|q}}
+# [[fuel]]
+#: {{ux|az|Neftdən müxtəlif '''yanacağ''' növləri istehsal edilir, məsələn benzin və dizel.|Various kinds of '''fuel''' are produced from oil, such as petrol and diesel.}}
+====Declension====
+{{az-decl-noun|a|q}}
+====Derived terms====
+* {{l|az|yanacaq doldurma məntəqəsi||gas station}}</text>
+<sha1>te74r50oisu4w1ix363olmgi9xtci5k</sha1>
+</revision>
+</page>

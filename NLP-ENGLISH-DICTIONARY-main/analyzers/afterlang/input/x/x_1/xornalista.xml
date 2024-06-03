@@ -1,0 +1,31 @@
+<page>
+<title>xornalista</title>
+<ns>0</ns>
+<id>4656046</id>
+<revision>
+<id>65228346</id>
+<parentid>63677350</parentid>
+<timestamp>2022-01-07T05:16:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Galician: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==Galician==
+===Etymology===
+From {{suffix|es|xornal|t1=newspaper|ista}}.
+===Noun===
+{{gl-noun|mf}}
+# [[journalist]]
+====Synonyms====
+* {{l|gl|periodista}}
+====Related terms====
+* {{l|gl|xornal}}
+* {{l|gl|xornalismo}}
+* {{l|gl|xornalístico}}</text>
+<sha1>n3z5bnsq52iw916ljee96k1y3mxplfr</sha1>
+</revision>
+</page>

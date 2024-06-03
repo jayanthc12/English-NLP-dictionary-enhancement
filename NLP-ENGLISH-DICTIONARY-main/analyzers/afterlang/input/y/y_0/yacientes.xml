@@ -1,0 +1,23 @@
+<page>
+<title>yacientes</title>
+<ns>0</ns>
+<id>6956418</id>
+<revision>
+<id>56388788</id>
+<parentid>51718068</parentid>
+<timestamp>2019-10-18T00:35:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Spanish==
+===Adjective===
+{{head|es|adjective form|g=m-p|g2=f-p}}
+# {{plural of|es|yaciente}}</text>
+<sha1>569oev9tocj98xhugb6p4tcfq7kqyh9</sha1>
+</revision>
+</page>

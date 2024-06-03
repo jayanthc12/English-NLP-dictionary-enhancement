@@ -1,0 +1,23 @@
+<page>
+<title>xenophobics</title>
+<ns>0</ns>
+<id>3001204</id>
+<revision>
+<id>55944740</id>
+<parentid>53092263</parentid>
+<timestamp>2019-10-16T10:38:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenophobic}}</text>
+<sha1>9tamjyzo1ximiffed3koz6s4pirlye1</sha1>
+</revision>
+</page>

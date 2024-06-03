@@ -1,0 +1,24 @@
+<page>
+<title>yffiniacais</title>
+<ns>0</ns>
+<id>6363744</id>
+<revision>
+<id>67195519</id>
+<parentid>47375438</parentid>
+<timestamp>2022-05-30T08:36:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">{{also|Yffiniacais}}
+==French==
+===Adjective===
+{{fr-adj}}
+# {{lb|fr|relational}} of [[Yffiniac]]</text>
+<sha1>24163p7k0o4oga2z2y43uidj4p3o96o</sha1>
+</revision>
+</page>

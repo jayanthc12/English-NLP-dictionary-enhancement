@@ -1,0 +1,25 @@
+<page>
+<title>xezeb</title>
+<ns>0</ns>
+<id>889193</id>
+<revision>
+<id>60848767</id>
+<parentid>60833697</parentid>
+<timestamp>2020-10-14T04:19:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|f}}
+# [[wrath]]</text>
+<sha1>h5l28h4vj3hges8181l8bywr3tcgeha</sha1>
+</revision>
+</page>

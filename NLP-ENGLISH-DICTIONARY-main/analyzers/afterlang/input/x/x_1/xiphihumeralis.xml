@@ -1,0 +1,41 @@
+<page>
+<title>xiphihumeralis</title>
+<ns>0</ns>
+<id>1432002</id>
+<revision>
+<id>60449712</id>
+<parentid>57214526</parentid>
+<timestamp>2020-09-21T05:54:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="908" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# A long, flat [[strip]] of [[pectoral]] [[muscle]] comprising a [[band]] of [[parallel]] [[fibre]]s, found in [[feline]]s.
+#* {{quote-book
+|en
+|passage=The tendon of the '''xiphihumeralis''' is also connected with its inner surface near its insertion.
+|page=147
+|title=Anatomy of the cat (2nd edition)
+|author=Jacob Ellsworth Reighard, Herbert Spencer Jennings
+|publisher=H. Holt and Company
+|year=1901}}
+#* {{quote-book
+|en
+|passage=The '''xiphihumeralis''' muscle (M. '''xiphihumeralis''') is the fourth muscle the pectoralis group {{sic}}. It ''originates'' from the xiphoid process of the sternum and ''inserts'' on the humerus (hence the name '''xiphihumeralis''').
+|page=144
+|title=Laboratory manual for comparative veterinary anatomy and physiology
+|author=Phillip E. Cochran
+|publisher=Cengage Learning
+|year=2003
+|isbn=0766861856}}
+{{topics|en|Muscles|Felids}}</text>
+<sha1>5or7cult6d3ivklrdl3ov700iw2r6t6</sha1>
+</revision>
+</page>

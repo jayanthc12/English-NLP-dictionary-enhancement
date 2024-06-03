@@ -1,0 +1,29 @@
+<page>
+<title>yhteisneuvottelu</title>
+<ns>0</ns>
+<id>7143936</id>
+<revision>
+<id>58593449</id>
+<parentid>51909602</parentid>
+<timestamp>2020-01-30T12:20:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|neuvottelu}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-neuvottelu}}
+===Noun===
+{{fi-noun}}
+# [[collective]] [[negotiation]]
+====Declension====
+{{fi-decl-palvelu|yhteisneuvottelu|a}}</text>
+<sha1>a4gpwodai7089uj3bkacoq4ux00bnwh</sha1>
+</revision>
+</page>

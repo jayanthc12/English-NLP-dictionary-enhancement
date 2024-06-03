@@ -1,0 +1,33 @@
+<page>
+<title>xugu</title>
+<ns>0</ns>
+<id>3697129</id>
+<revision>
+<id>51039744</id>
+<parentid>43849442</parentid>
+<timestamp>2018-12-06T05:11:25Z</timestamp>
+<contributor>
+<username>Greenismean2016</username>
+<id>3418111</id>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|jugum}}, {{m|la|iugum}}.
+===Noun===
+{{ast-noun|m|xugos}}
+# [[yoke]]
+----
+==Leonese==
+===Etymology===
+{{rfe|roa-leo}}
+===Noun===
+{{head|roa-leo|noun|g=m|plural|xugos}}
+# [[juice]]
+===References===
+* [http://www.lengualeonesa.eu/castellan/Diccionario AEDLL]</text>
+<sha1>1b58yjj26q8hpwiaiycx0rwijwvouh7</sha1>
+</revision>
+</page>

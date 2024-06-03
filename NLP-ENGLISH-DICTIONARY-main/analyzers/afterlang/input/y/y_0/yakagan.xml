@@ -1,0 +1,30 @@
+<page>
+<title>yakagan</title>
+<ns>0</ns>
+<id>6334190</id>
+<revision>
+<id>51969803</id>
+<parentid>47208747</parentid>
+<timestamp>2019-03-17T19:48:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="354" xml:space="preserve">==Tagalog==
+===Etymology===
+From {{suffix|tl|yakag|an}}.
+===Noun===
+{{tl-noun|yakagán}}
+# [[act]] of [[invite|inviting]] one another amongst one's [[neighbor]]s or [[friend]]s, to [[undertake]] [[certain]] [[work]] or to go somewhere together
+====Synonyms====
+* {{l|tl|kumbidahan}}
+* {{l|tl|pagkukumbidahan}}
+* {{l|tl|pagyayayaan}}
+* {{l|tl|yayaan}}</text>
+<sha1>16d136h7x3uol711otd6mothoeob337</sha1>
+</revision>
+</page>

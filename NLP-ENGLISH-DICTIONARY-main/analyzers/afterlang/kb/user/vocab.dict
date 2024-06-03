@@ -1,0 +1,10 @@
+adjective pofs=adj
+determiner pofs=det
+adverb pofs=adv
+verb pofs=verb
+noun pofs=noun
+prepositon pofs=prep
+conjunction pofs=conj
+pronoun pofs=pron
+interjection pofs=inter
+english lang=english

@@ -1,0 +1,32 @@
+<page>
+<title>Yagar</title>
+<ns>0</ns>
+<id>7254581</id>
+<revision>
+<id>55026316</id>
+<parentid>53458793</parentid>
+<timestamp>2019-10-11T14:28:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="300" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|yxg|Yagar}}.
+===Proper noun===
+{{en-proper noun}}
+# {{alternative form of|en|Yagara}}.
+===Anagrams===
+* {{anagrams|en|a=aagry|Garay|gray-A}}
+----
+==Yagara==
+===Proper noun===
+{{head|1=yxg|2=proper noun}}
+# {{alternative form of|yxg|Yagara}}.</text>
+<sha1>6m0gb3u6ky18ofnut6a41bmlvpu06z4</sha1>
+</revision>
+</page>

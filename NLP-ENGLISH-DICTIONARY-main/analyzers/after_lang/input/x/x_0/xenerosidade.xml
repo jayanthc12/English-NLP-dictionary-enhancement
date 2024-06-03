@@ -1,0 +1,29 @@
+<page>
+<title>xenerosidade</title>
+<ns>0</ns>
+<id>7224977</id>
+<revision>
+<id>68878020</id>
+<parentid>68873868</parentid>
+<timestamp>2022-08-28T06:41:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="220" xml:space="preserve">==Galician==
+===Etymology===
+From {{der|gl|la|generōsitas}} or {{suffix|gl|xeneroso|idade}}.
+===Noun===
+{{gl-noun|f}}
+# [[generosity]]
+====Related terms====
+* {{l|gl|xeneroso}}
+===Further reading===
+* {{R:gl:DRAG}}</text>
+<sha1>nro2956pldr88qkqn68bojrtwb15bsd</sha1>
+</revision>
+</page>

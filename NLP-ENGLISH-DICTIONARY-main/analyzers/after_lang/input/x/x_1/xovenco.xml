@@ -1,0 +1,34 @@
+<page>
+<title>xovenco</title>
+<ns>0</ns>
+<id>4066858</id>
+<revision>
+<id>68993086</id>
+<parentid>43982381</parentid>
+<timestamp>2022-08-31T13:02:05Z</timestamp>
+<contributor>
+<username>Froaringus</username>
+<id>268470</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="687" xml:space="preserve">==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jovenco}}, from {{inh|gl|la|iuvencus}}.
+===Pronunciation===
+* {{IPA|gl|[ʃʊˈβeŋkʊ]}}
+===Noun===
+{{gl-noun|m}}
+# [[calf]] {{gloss|young cow or bull}} between one and three years
+#: {{syn|gl|becerro|cucho|novelo|pucho|xato|vitelo}}
+===References===
+* {{R:gl:DDGM|juvenco}}
+* “[https://ilg.usc.gal/xelmirez/xelmirez.php?pescuda=%5Bij%5D%5Bou%5D%5Buv%5Denc&amp;corpus=xelmirez jovenco]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006–2018.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Baby animals]]</text>
+<sha1>dsc86rliaqmoifzgx22htm10fasqi8b</sha1>
+</revision>
+</page>

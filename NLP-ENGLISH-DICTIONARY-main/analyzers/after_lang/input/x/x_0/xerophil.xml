@@ -1,0 +1,35 @@
+<page>
+<title>xerophil</title>
+<ns>0</ns>
+<id>6345380</id>
+<revision>
+<id>69451843</id>
+<parentid>66663981</parentid>
+<timestamp>2022-10-05T13:18:28Z</timestamp>
+<contributor>
+<username>Jeuwre</username>
+<id>1921507</id>
+</contributor>
+<comment>/* Pronunciation */ + audio</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{dated form of|en|xerophile}}
+----
+==German==
+===Etymology===
+{{confix|de|xero|phil}}
+===Pronunciation===
+* {{IPA|de|/kseʁoˈfiːl/}}
+* {{audio|de|De-xerophil.ogg|Audio}}
+* {{audio|de|De-at-xerophil.ogg|Audio (Austria)}}
+===Adjective===
+{{de-adj|comp}}
+# [[xerophilic]], [[xerophilous]]
+====Declension====
+{{de-adecl|comp}}</text>
+<sha1>sdszr3gizkj66kxdqtppoxsn9bwlhzk</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yakfest</title>
+<ns>0</ns>
+<id>2995602</id>
+<revision>
+<id>54390503</id>
+<parentid>51893825</parentid>
+<timestamp>2019-09-29T05:05:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="768" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yak|fest}}
+===Noun===
+{{en-noun}}
+# {{lb|en|informal|sometimes|derogatory}} A session of [[chatter]] or [[gossip]].
+#* '''2010''', Philip Smith, ''Walking Through Walls: A Memoir'' (page 164)
+#*: At any given moment, Pop would be having a '''yakfest''' with someone on the other side who would be diagnosing one of his patients or training him in some new form of healing.
+#* {{quote-journal|en|date=February 3, 2008|author=Harvey Araton|title=Prediction: Burress’s Projection Won’t Hurt|work=New York Times|url=http://www.nytimes.com/2008/02/03/sports/football/03araton.html
+|passage=As Burress said, he wasn’t guaranteeing, merely predicting, enlisting in the army of visionaries during this weeklong '''yakfest'''.}}</text>
+<sha1>4js8o6htqy6lr0fe9sgbaoko2bkcban</sha1>
+</revision>
+</page>

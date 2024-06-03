@@ -1,0 +1,36 @@
+<page>
+<title>xandar</title>
+<ns>0</ns>
+<id>7364723</id>
+<revision>
+<id>66582913</id>
+<parentid>65104063</parentid>
+<timestamp>2022-05-06T00:33:38Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="858" xml:space="preserve">==Maltese==
+{{mt-root|x-n-d-r}}
+===Etymology 1===
+Perhaps from a merger of {{inh|mt|ar|شَنَّرَ}} and {{m|ar|شَذَّرَ}}, both roughly “to berate, blame, expose someone’s faults, make notorious, put to shame”, and thence generalised to “revealing, making known” in any context. In light of the frequent use in religious context (“spread the gospel”, etc.), however, compare also {{der|mt|arc|שדר|tr=š-ḏ-r|t=to send}}.
+====Pronunciation====
+* {{IPA|mt|/ˈʃan.dar/}}
+====Verb====
+{{mt-verb|jxandar|mxandar||xandir}}
+# to [[spread]], [[publicise]], [[broadcast]] (news)
+#: {{syn|mt|berraħ}}
+# to [[divulge]], [[reveal]] (secrets)
+=====Conjugation=====
+{{mt-conj/Iq|x|n|d|r}}
+===Etymology 2===
+====Pronunciation====
+* {{IPA|mt|/ʃanˈdaːr/}}
+====Noun====
+{{mt-noun|g=m|f=xandara|p=xandarin|p2=xnadar}}
+# [[broadcaster]]</text>
+<sha1>nfxiw4kf2vgmqlyp18gmli7orkbnf11</sha1>
+</revision>
+</page>

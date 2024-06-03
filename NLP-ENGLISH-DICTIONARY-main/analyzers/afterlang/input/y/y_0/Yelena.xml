@@ -1,0 +1,45 @@
+<page>
+<title>Yelena</title>
+<ns>0</ns>
+<id>1438911</id>
+<revision>
+<id>61708038</id>
+<parentid>59489729</parentid>
+<timestamp>2021-02-01T02:34:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{name translit}} for transliterated names, related cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="808" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Jelena}}
+* {{l|en|Elena}}
+===Etymology===
+From {{bor|en|ru|Еле́на}}, from {{der|en|la|Helena}}, from {{der|en|grc|Ἑλένη}}. {{doublet|en|Helena}}.
+===Proper noun===
+{{en-proper noun}}
+# {{name translit|en|ru|Еле́на|type=female given name|eq=Helen}}.
+====Translations====
+{{trans-top|Russian female name}}
+* Arabic: {{t|ar|يِلِينَا|f|tr=Yelēnā}}
+* Armenian: {{t|hy|Ելենա}}
+* Chinese:
+*: Mandarin: {{t|cmn|叶莲娜|tr=Yèliánnà}}
+* Estonian: {{t|et|Jelena}}
+{{trans-mid}}
+* Finnish: {{t+|fi|Jelena}}
+* German: {{t|de|Jelena|f}}
+* Japanese: {{t|ja|エレーナ|tr=Erēna}}
+* Latvian: {{t|lv|Jeļena|f}}
+* Russian: {{t+|ru|Еле́на|f}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aeelny|Ayleen|Nealey}}</text>
+<sha1>4p6fyjnls4qfplts8fi00shzi6jcf0i</sha1>
+</revision>
+</page>

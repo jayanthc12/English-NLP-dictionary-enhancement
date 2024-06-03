@@ -1,0 +1,29 @@
+<page>
+<title>yiable</title>
+<ns>0</ns>
+<id>6361444</id>
+<revision>
+<id>67339628</id>
+<parentid>67195524</parentid>
+<timestamp>2022-06-11T07:58:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns, clean up etyms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==French==
+===Etymology===
+Eye dialect form of {{m|fr|diable}}.
+===Pronunciation===
+* {{fr-IPA|yâble}}
+* {{audio|fr|LL-Q150 (fra)-DenisdeShawi-yiable.wav|Audio (CAN)}}
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|Canada}} [[devil]]
+#: {{syn|fr|diable}}</text>
+<sha1>by1a9fl6oj01td007nhwj9a52lymna2</sha1>
+</revision>
+</page>

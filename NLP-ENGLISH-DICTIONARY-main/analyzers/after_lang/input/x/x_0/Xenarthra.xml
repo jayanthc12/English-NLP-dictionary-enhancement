@@ -1,0 +1,36 @@
+<page>
+<title>Xenarthra</title>
+<ns>0</ns>
+<id>225224</id>
+<revision>
+<id>49862002</id>
+<parentid>49075631</parentid>
+<timestamp>2018-07-02T10:20:57Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Translingual */ cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="743" xml:space="preserve">==Translingual==
+===Etymology===
+{{der|mul|NL.|-}}, from {{der|mul|grc|ξένος||foreign, alien}}
++ {{m|grc|ἄρθρον||joint}}.
+===Proper noun===
+{{taxoninfl}}
+# {{taxon|superorder|infraclass|Eutheria|the [[anteater]]s, [[sloth]]s, [[armadillo]]s, [[glyptodont]]s, and [[pampatheriid]]s}}
+====Synonyms====
+* {{sense|order}} [[Edentata]]
+====Hypernyms====
+* {{sense|order}} {{Chordata Hypernyms}}; [[Vertebrata]]&amp;nbsp;- subphylum; [[Tetrapoda]]&amp;nbsp;- superclass; [[Mammalia]]&amp;nbsp;- class; [[Theria]]&amp;nbsp;- subclass; [[Eutheria]]&amp;nbsp;- infraclass
+====Hyponyms====
+* {{sense|superorder}} {{l|mul|Cingulata}}, {{l|mul|Pilosa}}&amp;nbsp;- orders
+===References===
+* {{pedia}}
+* {{specieslite}}
+* {{comcatlite}}
+* {{R:Fossilworks|43524}}</text>
+<sha1>tj0kifj20nj1r3l3p0tphhzhnvucblr</sha1>
+</revision>
+</page>

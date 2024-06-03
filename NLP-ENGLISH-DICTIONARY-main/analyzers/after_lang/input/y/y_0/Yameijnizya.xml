@@ -1,0 +1,27 @@
+<page>
+<title>Yameijnizya</title>
+<ns>0</ns>
+<id>7234595</id>
+<revision>
+<id>61605104</id>
+<parentid>59111825</parentid>
+<timestamp>2021-01-19T13:06:24Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="236" xml:space="preserve">==Zhuang==
+===Etymology===
+From {{bor|za|cmn|-}} {{zh-l|亞美尼亞}}.
+===Pronunciation===
+* {{za-pron}}
+===Proper noun===
+{{za-head|proper noun|亞美尼亞|亚美尼亚}}
+# {{place|za|country|cont/Europe|and|cont/Asia|t=Armenia}}</text>
+<sha1>3kutxr44mf3u3rb55parmbhw0re9wmk</sha1>
+</revision>
+</page>

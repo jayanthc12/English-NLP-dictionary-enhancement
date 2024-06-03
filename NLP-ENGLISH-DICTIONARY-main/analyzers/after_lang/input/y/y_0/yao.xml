@@ -1,0 +1,75 @@
+<page>
+<title>yao</title>
+<ns>0</ns>
+<id>537046</id>
+<revision>
+<id>69491334</id>
+<parentid>69491333</parentid>
+<timestamp>2022-10-10T18:59:26Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<minor />
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1281" xml:space="preserve">{{also|Yao|yāo|yáo|yǎo|yào}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 639|2&amp;3|Yao language|Yao}}
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|yāo}}
+# {{nonstandard spelling of|cmn|sc=Latn|yáo}}
+# {{nonstandard spelling of|cmn|sc=Latn|yǎo}}
+# {{nonstandard spelling of|cmn|sc=Latn|yào}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Swahili==
+===Adjective===
+{{head|sw|adjective form}}
+# {{sw-adj form of|mi|ao}}
+# {{sw-adj form of|ma|ao}}
+# {{sw-adj form of|n|ao|sg}}
+----
+==Tagalog==
+===Etymology===
+Possible {{back-form|tl|yaon|nocap=1}} when contracted with {{m|tl|'y}} or {{m|tl|'t}}.
+===Pronunciation===
+* {{hyph|tl|yao}}
+* {{tl-IPA|ya7o}}
+===Noun===
+{{tl-noun}}
+# {{alt form|tl|yaon}}
+====Derived terms====
+{{der3|tl|yumao|pagyao|payao't dito|magyao't dito|Araw ng mga Yumao}}
+===References===
+* {{R:Pambansang Diksiyonaryo}}
+----
+==Ternate==
+===Pronunciation===
+* {{IPA|tft|/ˈja.o/}}
+===Noun===
+{{tft-noun}}
+# a [[baby]]
+===References===
+* {{R:tft:Hayami-Allen:2001}}
+----
+==West Makian==
+===Etymology===
+Cognate with {{cog|tft|nyao}}.
+===Pronunciation===
+* {{IPA|mqs|/ˈja.o/}}
+===Noun===
+{{head|mqs|noun}}
+# [[fish]]
+===References===
+* {{R:mqs:Voorhoeve:1982}}</text>
+<sha1>esl5tmk7mgl275xjiuxxyxn2o5zillr</sha1>
+</revision>
+</page>

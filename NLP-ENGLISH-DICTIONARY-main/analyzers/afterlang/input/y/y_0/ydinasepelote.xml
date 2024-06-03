@@ -1,0 +1,28 @@
+<page>
+<title>ydinasepelote</title>
+<ns>0</ns>
+<id>4405256</id>
+<revision>
+<id>69318132</id>
+<parentid>52035624</parentid>
+<timestamp>2022-09-18T17:02:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|pelote|t2=deterrent}}
+===Pronunciation===
+{{fi-p|ydin-ase*/pelote*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[deterrent]]
+====Declension====
+{{fi-decl-hame|ydinasepelo|t|tt|a}}</text>
+<sha1>cmjdnjktqjawfal0ghc44kqt592aqf3</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>xeometricamente</title>
+<ns>0</ns>
+<id>5780882</id>
+<revision>
+<id>51966225</id>
+<parentid>42998376</parentid>
+<timestamp>2019-03-17T18:20:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==Galician==
+===Etymology===
+From {{suffix|gl|xeométrico|mente}}.
+===Adverb===
+{{gl-adv}}
+# [[geometrically]]
+====Further reading====
+* {{R:RAG}}</text>
+<sha1>ezka0uc11kfilpkvnuwa704vu26p88e</sha1>
+</revision>
+</page>

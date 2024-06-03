@@ -1,0 +1,25 @@
+<page>
+<title>xeroma</title>
+<ns>0</ns>
+<id>1253522</id>
+<revision>
+<id>51978076</id>
+<parentid>50708301</parentid>
+<timestamp>2019-03-17T23:19:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xer|oma}}.
+===Noun===
+{{en-noun|~}}
+# {{lb|en|medicine}} [[dryness|Dryness]] of the [[eye]].</text>
+<sha1>dfev4c15gg2p6nulpo8dxjbyi1mmgdf</sha1>
+</revision>
+</page>

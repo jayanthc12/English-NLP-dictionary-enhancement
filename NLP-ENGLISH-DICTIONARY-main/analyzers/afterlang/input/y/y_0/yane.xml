@@ -1,0 +1,33 @@
+<page>
+<title>yane</title>
+<ns>0</ns>
+<id>854962</id>
+<revision>
+<id>63737329</id>
+<parentid>63737319</parentid>
+<timestamp>2021-08-24T01:52:37Z</timestamp>
+<contributor>
+<username>BajookThug</username>
+<id>3808817</id>
+</contributor>
+<comment>/* Northern Kurdish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="339" xml:space="preserve">{{also|þane}}
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やね}}
+----
+==Northern Kurdish==
+===Etymology===
+Borrowed from {{bor|kmr|ckb}} from {{bor|ckb|hac|xanî|t=house, home}}.
+===Pronunciation===
+* {{kmr-IPA}}
+* {{hyphenation|kmr|ya|ne}}
+===Noun===
+{{kmr-noun|f}}
+# [[club]] (association of members)</text>
+<sha1>f9jmt8owelpuzf0htqsnd4ayun7low9</sha1>
+</revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+<title>yern</title>
+<ns>0</ns>
+<id>4126950</id>
+<revision>
+<id>66501658</id>
+<parentid>66501656</parentid>
+<timestamp>2022-04-24T16:38:18Z</timestamp>
+<contributor>
+<username>VealSociedad</username>
+<id>3885921</id>
+</contributor>
+<comment>/* References */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2137" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yearn}}
+===Etymology===
+From {{inh|en|enm|yern||willing, eager}}, from {{inh|en|ang|ġeorn||eager}}, from {{inh|en|gmw-pro|*gern}}, from {{inh|en|gem-pro|*gernaz}}.
+Cognate with {{cog|da|gerne||gladly}}, {{cog|nl|gaarne||with pleasure, gladly}}, {{cog|de|gern||willingly, gladly}}, {{cog|is|gjarn||willing, keen, eager}}, {{cog|is|gjarna||willingly, readily, gladdly}}, {{cog|sv|gärna||willingly, gladly}}. See also [[yearnful]] and [[yearnfully]].
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/jəːn/}}
+* {{rhymes|en|ɜː(ɹ)n|s=1}}
+{{homophones|en|yearn}}
+===Adverb===
+{{head|en|adverb}}
+# {{lb|en|obsolete}} [[eagerly|eagerly]], [[heartily]], [[gladly]], [[willingly]], [[earnestly]].
+#: {{ux|en|I am not afraid of death, and when my time comes I'll go '''yern'''.}}
+#* '''1865''', Frederick James Furnivall, ''A Royal Historie of the Excellent Knight Generides''
+#*: Who was so hardie and so stern? Tel me now, I pray you '''yern'''
+#* '''c. 1515''', unknown ''The Buke of the Sevyne Sagis''
+#*: All the people cried '''yern'''ː God Master, now defend thy bairn.
+#* '''1513''', {{w|Gavin Douglas}}, ''The Eneados''
+#*: The black swarm ower the fields walks '''yerne'''
+====Usage notes====
+For the adverb, the form {{m|en|yearnly}} can also be found, but is much rarer.
+====References====
+* {{R:Webster 1913}}
+* [https://books.google.ru/books?id=enmvCwAAQBAJ&amp;pg=PA739&amp;dq=yern+adjective+dictionary&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjar4S36qvNAhVDDiwKHQYQAdoQ6AEIOzAB#v=snippet&amp;q=yern%20adjective&amp;f=false The Dictionary of Early English]
+* [https://books.google.ru/books?id=eLYiXNHnQWsC&amp;pg=PA152&amp;dq=yernly&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiU9N7PrK3NAhWNKiwKHQ_aAmEQ6AEIGzAA#v=onepage&amp;q=yernly&amp;f=false A Concise Anglo-Saxon Dictionary, 4th ed. 1960 (originally 1894)]
+* [http://quod.lib.umich.edu/cgi/m/mec/med-idx?type=byte&amp;byte=251994519&amp;egdisplay=open&amp;egs=252001936&amp;egs=252011091 The Middle English Dictionary]
+* [http://www.dsl.ac.uk/entry/dost/3arne_adv The Dictionary of the Scots Language]
+===Verb===
+{{en-verb}}
+# {{obsolete form of|en|yearn}}
+===Anagrams===
+* {{anagrams|en|a=enry|NYer|Nery|reyn}}</text>
+<sha1>756922bzoko01iesn5g8zcw1evq41nu</sha1>
+</revision>
+</page>

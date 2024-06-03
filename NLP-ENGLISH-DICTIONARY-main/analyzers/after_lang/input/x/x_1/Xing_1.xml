@@ -1,0 +1,65 @@
+<page>
+<title>Xing</title>
+<ns>0</ns>
+<id>6248059</id>
+<revision>
+<id>68424747</id>
+<parentid>68424696</parentid>
+<timestamp>2022-07-21T11:11:09Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Etymology 2 */ |tr=Xīng 辞海6 page 2558 column 3 has 兴县 among the xīng entries &amp; there is no 兴县 among the xìng entries on page 2570 column 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2136" xml:space="preserve">{{also|xing}}
+==English==
+{{wikipedia}}
+===Etymology 1===
+====Proper noun====
+{{en-proper noun|Xings}}
+# {{surname|en}}.
+===Etymology 2===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|*興/兴|tr=Xīng}}.
+====Pronunciation====
+{{rfp|en}}
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|county|prefecture-level city/Lüliang|province/Shanxi|c/China}}.
+#* {{quote-book
+|en
+|year=1994
+|author=Dai Qing
+|authorlink=Dai Qing
+|title=Wang Shiwei and &quot;Wild Lilies&quot;: Rectification and Purges in the Chinese Communist Party, 1942-1944
+|url=https://archive.org/details/wangshiweiwildli0000daiq/
+|publisher={{w|M.E. Sharpe}}
+|ISBN=1-56324-256-7
+|LCCN=93034022
+|OCLC=473770433
+|page=57
+|pageurl=https://archive.org/details/wangshiweiwildli0000daiq/page/57/
+|text= But Liu Xianglun (later a political affairs counselor to Belgium), who was also at the Central Social Department at the same time Ye Chengzhang was there and who escorted Wang to '''Xing''' County, Shanxi Province, remembers that Wang protested both during the trial and on the way to '''Xing''' County that he was not a Trotskyite.}}
+#* {{quote-web
+|en
+|date=2022/03/13
+|title=China Focus: Foreign students see opportunities through China's &quot;two sessions&quot;
+|editor=huaxia
+|archiveurl=https://web.archive.org/web/20220313093506/https://english.news.cn/20220313/7f24376789b54ce5b21cb3262b5033f5/c.html
+|archivedate=13 March 2022
+|work={{w|Xinhua News Agency}}
+|text=Last summer, Mupona and more than 10 African youths came to '''Xingxian''' County, Shanxi Province to explore the magic code of poverty alleviation in this former national poverty-stricken county.}}
+#* {{seemoreCites|en}}
+=====Translations=====
+{{trans-top|county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|興|sc=Hani}}, {{t+|cmn|兴|sc=Hani|tr=Xīng}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Statistics===
+* According to the 2010 United States Census, ''Xing'' is the 21173&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 1240 individuals. ''Xing'' is most common among Asian/Pacific Islander (96.61%) individuals.</text>
+<sha1>ercerflmkow25veioy2sea6bf8ot3gt</sha1>
+</revision>
+</page>

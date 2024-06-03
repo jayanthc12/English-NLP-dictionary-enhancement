@@ -1,0 +1,29 @@
+<page>
+<title>yavrular</title>
+<ns>0</ns>
+<id>4078340</id>
+<revision>
+<id>67913149</id>
+<parentid>67659338</parentid>
+<timestamp>2022-07-12T05:48:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Turkish: correct mistakes by [[User:Embryomystic]] (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="232" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[javɾuˈɫaɾ]}}
+* {{hyphenation|tr|yav|ru|lar}}
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yavru||nom|p}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yavrulamak}}</text>
+<sha1>ct7bnj9ne2rho378bl6wto9d9frsadm</sha1>
+</revision>
+</page>

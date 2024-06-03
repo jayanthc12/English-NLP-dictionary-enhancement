@@ -1,0 +1,27 @@
+<page>
+<title>yhteistuumin</title>
+<ns>0</ns>
+<id>7211931</id>
+<revision>
+<id>61739694</id>
+<parentid>59682861</parentid>
+<timestamp>2021-02-02T18:37:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) disambiguate multi-etym components in etymologies (based on a manually curated list)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">==Finnish==
+===Etymology===
+{{com|fi|yhteinen|alt1=yhteis-|tuuma|alt2=tuumin|id2=thought}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-tuumin}}
+===Adverb===
+{{fi-adv}}
+# [[together]], in [[agreement]]</text>
+<sha1>5z3kj9yxe5ubfggmn8jx9rp6t6ab7sd</sha1>
+</revision>
+</page>

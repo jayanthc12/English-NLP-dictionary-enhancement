@@ -1,0 +1,25 @@
+<page>
+<title>xarope</title>
+<ns>0</ns>
+<id>1056671</id>
+<revision>
+<id>44664118</id>
+<parentid>36052614</parentid>
+<timestamp>2017-05-25T14:34:57Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{der|pt|ar|شَرَاب||a drink, beverage, wine, coffee, syrup}}, from {{m|ar|شَرِبَ||to drink}}.
+===Noun===
+{{pt-noun|m}}
+# [[syrup]]</text>
+<sha1>klb85bvb2zjlynoh1qkm0bv1zchai5g</sha1>
+</revision>
+</page>

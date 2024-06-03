@@ -1,0 +1,25 @@
+<page>
+<title>xwestok</title>
+<ns>0</ns>
+<id>3227460</id>
+<revision>
+<id>60848794</id>
+<parentid>60833730</parentid>
+<timestamp>2020-10-14T04:20:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|m}}
+# [[beggar]]</text>
+<sha1>8qydsfv5p28xkvvs8i6n2xqs8s8hc0e</sha1>
+</revision>
+</page>

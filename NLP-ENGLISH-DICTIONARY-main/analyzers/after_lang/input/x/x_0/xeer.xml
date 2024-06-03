@@ -1,0 +1,44 @@
+<page>
+<title>xeer</title>
+<ns>0</ns>
+<id>1629460</id>
+<revision>
+<id>64981884</id>
+<parentid>64867438</parentid>
+<timestamp>2021-12-17T15:57:41Z</timestamp>
+<contributor>
+<username>Hk5183</username>
+<id>3365555</id>
+</contributor>
+<comment>/* Wolof */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1225" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+{{wikipedia}}
+# The [[traditional]] [[legal]] system of [[Somalia]], believed to [[predate]] [[Islam]], in which [[elder]]s serve as [[mediator]]s and people are responsible for the actions of their families.
+#* {{quote-book|en|year=1977|author=David D Laitin|title=Politics, language, and thought: the Somali experience|passage=It arranges for settlement of collective debts, discusses '''xeer''' dealings with central authorities, maintains the group wells, and protects grazing areas.}}
+#* '''2005''', Walter Dostal, Wolfgang Kraus, ''Shattering tradition: custom, law and the individual in the Muslim Mediterranean''
+#*: In rural areas, there is still confusion between '''xeer''' and shari'a.
+#* '''2007''', Lars Buur, Helene Maria Kyed, ''State recognition and democratization in Sub-Saharan Africa''
+#*: The key feature of the '''xeer''' is its common law character...
+----
+==Wolof==
+===Etymology===
+Possibly cognate with {{cog|ff|hayre||stone}}.
+===Noun===
+{{wo-noun|wi}}
+# [[stone]], [[rock]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=259
+|isbn=978-1-59703-017-5}}</text>
+<sha1>0nucj9wxm3hhsn05fdf8lgu7p060rt1</sha1>
+</revision>
+</page>

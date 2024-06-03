@@ -1,0 +1,44 @@
+<page>
+<title>xingar</title>
+<ns>0</ns>
+<id>3494522</id>
+<revision>
+<id>64025349</id>
+<parentid>64025348</parentid>
+<timestamp>2021-09-24T10:43:43Z</timestamp>
+<contributor>
+<username>Sarilho1</username>
+<id>522155</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="976" xml:space="preserve">==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|kmb|xinga}}.&lt;ref&gt;{{R:pt:Infopédia}}&lt;/ref&gt;
+===Pronunciation===
+{{pt-IPA}}
+* {{hyphenation|pt|xin|gar}}
+===Verb===
+{{pt-verb|xin|gar}}
+# {{lb|pt|Angola|Brazil|colloquial|transitive}} to [[insult]]; to [[swear]] at
+#: {{syn|pt|injuriar|insultar}}
+#* {{quote-journal
+|pt
+|date=1995-06-25
+|author=
+|title=Mãe afirma ao Censo que filhos mulatos são negros
+|work=Folha de São Paulo
+|url=http://almanaque.folha.uol.com.br/racismo05.pdf
+|passage=As crinças aprenderam. “As vezes me '''xingam''' por causa da minha cor, mas eu não ligo. Sei que é só para tentar me magoar”, conta Camila.}}
+# {{lb|pt|Brazil|colloquial|intransitive}} to [[curse]] {{gloss|to use vulgar words to expressing anger, frustration}}
+#: {{syn|pt|[[falar]] [[besteira]]/[[besteiras]]/[[palavrão]]/[[palavrões]]|praguejar}}
+====Conjugation====
+{{pt-conj|xin|gar}}
+====Derived terms====
+* {{l|pt|xingamento}}
+===References===
+&lt;references/&gt;</text>
+<sha1>ev225gun8ezlgxzckueavumvvwigrc0</sha1>
+</revision>
+</page>

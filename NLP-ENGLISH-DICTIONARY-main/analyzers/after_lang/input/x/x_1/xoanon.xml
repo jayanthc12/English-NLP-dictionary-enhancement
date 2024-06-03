@@ -1,0 +1,67 @@
+<page>
+<title>xoanon</title>
+<ns>0</ns>
+<id>1314956</id>
+<revision>
+<id>67339617</id>
+<parentid>67267393</parentid>
+<timestamp>2022-06-11T07:58:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns, clean up etyms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2446" xml:space="preserve">{{also|Xoanon}}
+==English==
+{{was wotd|2013|November|10|2014|November|10}}
+{{wikipedia}}
+===Etymology===
+From {{uder|en|grc|ξόανον}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzəʊ.ə.nɒn/}}
+* {{a|US}} {{IPA|en|/ˈzoʊ.ə.nɑn/}}
+* {{audio|en|En-us-xoanon.ogg|Audio (US)}}
+===Noun===
+{{en-noun|xoana}}
+# {{lb|en|historical}} A [[wooden]] [[statue]] used as a [[cult]] image in Ancient Greece.
+#* {{quote-journal|en|1913|E. A. Gardner|Reviews: Catalogue of the Acropolis Museum|The Classical Review|volume=27|page=196|text=In the case of 679, the well-known female figure of '''xoanon''' shape, it is often asserted that we see a more or less archaistic survival; {{...}}}}
+#* {{quote-book|en|1993|Joan V. O'Brien|The Transformation of Hera: A Study of Ritual, Hero, and the Goddess in the Iliad|page=19|text=Callimachus' description of the Samian '''''xoanon''''' as a ''sanis''—a flat board or plank regularly used for doors or wooden tablets—and specifically as &quot;not carved by chisels&quot; (''gluphanôn axoos sanis'') clearly indicates an aniconic Hera of Samos.}}
+#* {{quote-book|en|2009|Peter Wilson|chapter=Thamyris the Thracian: the archetypal wandering poet?&quot;|editor=Richard Hunter &amp; Ian Rutherford|Wandering Poets in Ancient Greek Culture|page=73|text=On Carlo Brillante's convincing interpretation, Thamyras is here attempting not simply to display his musical virtuosity, but to animate with his song this chorus of nine female '''''xoana''''', his own personal substitutes for the nine real Muses {{...}}}}
+====Translations====
+{{trans-top|wooden statue used as a cult image in Ancient Greece}}
+* French: {{t+|fr|xoanon|m}}
+* German: {{t+|de|Xoanon|n}}
+* Greek: {{t+|el|ξόανο|n}}
+*: Ancient Greek: {{t|grc|ξόανον|n}}
+{{trans-mid}}
+* Hungarian: {{t|hu|xoanon}}
+* Italian: {{t|it|xoanon|m}}
+* Russian: {{t|ru|ксо́ан|m}}
+{{trans-bottom}}
+----
+==French==
+{{wikipedia|lang=fr}}
+===Etymology===
+{{bor+|fr|grc|ξόανον}}.
+===Pronunciation===
+* {{fr-IPA}}
+===Noun===
+{{fr-noun|m|xoana}}
+# [[#English|xoanon]]
+#* '''1915''', Charly Clere, ''Les théories relatives au culte des images chez les auteurs grees du IIme siècle après J.-C.'', page 24
+#*: Le contact rituel avec le '''xoanon''' rend les hommes participants de la puissance divine.
+===Further reading===
+* {{R:TLFi}}
+----
+==Italian==
+===Etymology===
+From {{uder|it|grc|ξόανον}}.
+===Noun===
+{{it-noun|m|#}}
+# [[#English|xoanon]]</text>
+<sha1>0puh1rw9v72zksu6htfbpmt6mk2msl5</sha1>
+</revision>
+</page>

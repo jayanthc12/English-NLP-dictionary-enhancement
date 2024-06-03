@@ -1,0 +1,23 @@
+<page>
+<title>xerminando</title>
+<ns>0</ns>
+<id>1201951</id>
+<revision>
+<id>56552443</id>
+<parentid>29827988</parentid>
+<timestamp>2019-10-18T07:02:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form|gerund}}
+# {{inflection of|gl|xerminar||gerund}}</text>
+<sha1>5xf3mtxwuv4foiat7s83qrp9l7cmkj9</sha1>
+</revision>
+</page>

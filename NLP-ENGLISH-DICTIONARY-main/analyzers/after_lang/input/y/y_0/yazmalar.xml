@@ -1,0 +1,26 @@
+<page>
+<title>yazmalar</title>
+<ns>0</ns>
+<id>4072046</id>
+<revision>
+<id>67913103</id>
+<parentid>54850084</parentid>
+<timestamp>2022-07-12T05:47:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Turkish: correct mistakes by [[User:Embryomystic]] (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="161" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jazmaɫaɾ]}}
+* {{hyphenation|tr|yaz|ma|lar}}
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yazma||nom|p}}</text>
+<sha1>8szfjbgfx0ah555tfgdzftpyazgg9aj</sha1>
+</revision>
+</page>

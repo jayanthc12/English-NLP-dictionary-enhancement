@@ -1,0 +1,66 @@
+<page>
+<title>yarraman</title>
+<ns>0</ns>
+<id>289715</id>
+<revision>
+<id>60444443</id>
+<parentid>60091392</parentid>
+<timestamp>2020-09-21T04:29:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1518" xml:space="preserve">{{also|yarraaman|yaraman}}
+==English==
+===Etymology===
+Uncertain. Suspected to be from an Australian language of coastal New South Wales, but the term was used by white settlers as a [[pidgin]] for communicating with the indigenous people and was rapidly adopted into their languages (preceding actual arrival of horses in some cases), making an origin difficult to ascertain. Each may well have believed they were using the other's word! (Reference: [[w:R. M. W. Dixon|R. M. W. Dixon]], ''Australian Aboriginal Words'', Oxford University Press, 1990, {{ISBN|0-19-553099-3}}.)
+===Noun===
+{{en-noun|s|yarramen}}
+# {{lb|en|Australian Aboriginal}} [[horse]]
+====Quotations====
+* {{seeCites|en}}
+[[Category:English terms with unknown etymologies]]
+[[Category:en:Horses]]
+----
+==Guugu Yimidhirr==
+===Noun===
+{{head|kky|noun}}
+# [[horse]]
+====Synonyms====
+* {{l|kky|guguur}} (avoidance language)
+[[Category:kky:Mammals]]
+----
+==Kriol==
+===Noun===
+{{head|rop|noun}}
+# [[horse]]
+====Synonyms====
+* [[os]]
+* [[yawarda]] (''Fitzroy Crossing'')
+[[Category:rop:Mammals]]
+----
+==Wiradhuri==
+===Noun===
+{{head|wrh|noun}}
+# [[horse]]
+[[Category:wrh:Mammals]]
+----
+==Yagara==
+===Noun===
+{{head|1=yxg|2=noun}}
+# [[horse]]
+===References===
+* State Library of Queensland, [https://www.slq.qld.gov.au/sites/default/files/0005-267197-brisbane-animal-words-june-2016.pdf Indigenous Language Wordlists Brisbane Animal Words].
+----
+==Yanyuwa==
+===Noun===
+{{head|jao|noun}}
+# [[horse]]
+[[Category:jao:Mammals]]</text>
+<sha1>3t2v97l28yemrsa0q1jdrq09mz86urs</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>yhteismitaton</title>
+<ns>0</ns>
+<id>5170914</id>
+<revision>
+<id>69318457</id>
+<parentid>69266637</parentid>
+<timestamp>2022-09-18T17:19:14Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="535" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|mitta|-ton|t1=common|t2=measure|t3=-less}}
+===Pronunciation===
+{{fi-p|yhteis-mitaton}}
+===Adjective===
+{{fi-adj|yhteismitattom|ampi|in}}
+# [[incommensurable]] {{gloss|unable to be measured using a common standard}}
+# [[incommensurate]], [[disproportionate]], incommensurable {{gloss|unrelated in size or scale}}
+====Declension====
+{{fi-decl-onneton|pos=adj|yhteismita|a}}
+====Antonyms====
+* {{l|fi|yhteismitallinen}}
+====Derived terms====
+* {{l|fi|yhteismitattomuus}}</text>
+<sha1>eli5mvs9cvawa473i52fwtfx2gjko2r</sha1>
+</revision>
+</page>

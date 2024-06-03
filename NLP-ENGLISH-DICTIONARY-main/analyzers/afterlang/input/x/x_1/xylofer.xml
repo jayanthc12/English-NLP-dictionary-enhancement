@@ -1,0 +1,25 @@
+<page>
+<title>xylofer</title>
+<ns>0</ns>
+<id>6368577</id>
+<revision>
+<id>67148631</id>
+<parentid>67052977</parentid>
+<timestamp>2022-05-24T09:03:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: remove 'terms spelled with' categories; use {{lb|fr|relational}}; clean up stray final periods and initial caps in definitions; remove extraneous sort keys; use gender 'mfbysense' where appropriate, or fix genders; use {{fr-proper noun}}; use {{place}}; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xylo-|fer}}
+===Noun===
+{{fr-noun|m}}
+# a piece of [[gymnastic]] [[equipment]] once used to develop the [[chest]]s of [[child]]ren</text>
+<sha1>21goneqsluzwob83wzdajd53vw26138</sha1>
+</revision>
+</page>

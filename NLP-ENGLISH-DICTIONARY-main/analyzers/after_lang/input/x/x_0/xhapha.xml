@@ -1,0 +1,38 @@
+<page>
+<title>xhapha</title>
+<ns>0</ns>
+<id>6919305</id>
+<revision>
+<id>62508398</id>
+<parentid>50533189</parentid>
+<timestamp>2021-05-11T07:53:30Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Verb */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="377" xml:space="preserve">==Xhosa==
+===Etymology===
+{{rfe|xh}}
+===Verb===
+{{xh-verb|xhapha}}
+# to [[lap]] up
+====Inflection====
+{{rfinfl|xh|verb}}
+----
+==Zulu==
+===Pronunciation===
+{{zu-IPA|xhapha}}
+===Verb===
+{{zu-verb|xhapha}}
+# {{lb|zu|intransitive}} to [[seethe]]
+# {{lb|zu|transitive}} to [[lap]], to [[lick]] up
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||6.3}}</text>
+<sha1>7wjlnpk4ybxqz26wnbpqshgqtzxn2ko</sha1>
+</revision>
+</page>

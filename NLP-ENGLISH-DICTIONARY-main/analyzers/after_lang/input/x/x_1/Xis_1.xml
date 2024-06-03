@@ -1,0 +1,30 @@
+<page>
+<title>Xis</title>
+<ns>0</ns>
+<id>1902398</id>
+<revision>
+<id>68577475</id>
+<parentid>57317568</parentid>
+<timestamp>2022-08-10T14:31:11Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xis.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="280" xml:space="preserve">{{also|xis|XIs}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xis.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Xi||gen|s}}
+# {{inflection of|de|Xi||nom|p}}
+# {{inflection of|de|Xi||gen|p}}
+# {{inflection of|de|Xi||dat|p}}
+# {{inflection of|de|Xi||acc|p}}</text>
+<sha1>t77h5anmybc16qvak3sr9ehwczsob1t</sha1>
+</revision>
+</page>

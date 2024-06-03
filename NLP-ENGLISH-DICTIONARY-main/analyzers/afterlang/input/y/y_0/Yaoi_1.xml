@@ -1,0 +1,33 @@
+<page>
+<title>Yaoi</title>
+<ns>0</ns>
+<id>4493731</id>
+<revision>
+<id>67776699</id>
+<parentid>67755519</parentid>
+<timestamp>2022-07-09T18:25:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="284" xml:space="preserve">{{also|yaoi}}
+==English==
+===Etymology===
+From {{bor|en|ja|矢追|tr=Yaoi}}.
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en|from=Japanese}}.
+===Anagrams===
+* {{anagrams|en|a=aioy|aiyo}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やおい}}</text>
+<sha1>idqm7crkrbf8a8jh8lqvmp5w0c1gqel</sha1>
+</revision>
+</page>

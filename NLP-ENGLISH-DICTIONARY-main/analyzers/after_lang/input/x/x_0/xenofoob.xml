@@ -1,0 +1,42 @@
+<page>
+<title>xenofoob</title>
+<ns>0</ns>
+<id>5702943</id>
+<revision>
+<id>57853099</id>
+<parentid>57853064</parentid>
+<timestamp>2019-10-25T07:25:58Z</timestamp>
+<contributor>
+<username>Lingo Bingo Dingo</username>
+<id>3115733</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="872" xml:space="preserve">==Dutch==
+===Alternative forms===
+* {{l|nl|xenophoob}} {{q|dated, superseded}}
+===Etymology===
+From {{m|nl|xenofobie}}. Equivalent to {{confix|nl|xeno|foob}}.
+===Pronunciation===
+* {{IPA|nl|/ˌkseːnoːˈfoːp/}}
+* {{audio|nl|Nl-xenofoob.ogg|Audio}}
+* {{hyphenation|nl|xe|no|foob}}
+* {{rhymes|nl|oːp}}
+===Noun===
+{{nl-noun|m|xenofoben|xenofoobje}}
+# [[xenophobe]] {{defdate|from late 1910s}}
+#: {{ux|nl|Het genootschap zit tot de nok vol met '''xenofoben'''.|The society is filled to the rafters with '''xenophobes'''.}}
+====Related terms====
+* {{l|nl|xenofobie}}
+===Adjective===
+{{nl-adj|xenofober}}
+# [[xenophobic]] {{defdate|from mid 1910s}}
+#: {{ux|nl|De supporters scandeerden '''xenofobe''' leuzen.|The supporters shouted '''xenophobic''' chants.}}
+#: {{syn|nl|xenofobisch}}
+====Inflection====
+{{nl-decl-adj|xenofobe}}
+====Antonyms====
+* {{l|nl|xenofiel}}</text>
+<sha1>9zjko5pgfekjh8uhqguodj8uk1knz8n</sha1>
+</revision>
+</page>

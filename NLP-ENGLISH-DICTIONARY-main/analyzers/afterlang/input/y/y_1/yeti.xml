@@ -1,0 +1,190 @@
+<page>
+<title>yeti</title>
+<ns>0</ns>
+<id>3250</id>
+<revision>
+<id>69114444</id>
+<parentid>68880691</parentid>
+<timestamp>2022-09-04T16:54:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{l|pt}} to {{alt|pt}} (3); merge multiple {{alt|pt}} into one; misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5689" xml:space="preserve">{{also|Yeti|yéti|yètǐ}}
+==English==
+{{wikipedia}}
+{{Commonscat}}
+===Etymology===
+From {{der|en|bo|གཡའ་དྲེད||rock bear}}, compound of {{m|bo|གཡའ||rocky or rocky place}} and {{m|bo|དྲེད||bear}}.
+===Pronunciation===
+* {{IPA|en|/ˈjɛ.ti/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yeti.wav|Audio (Southern England)}}
+* {{a|US}} {{IPA|en|/ˈjɛ.ti/|[ˈjɛ.ɾi]}}
+* {{rhymes|en|ɛti|s=2}}
+===Noun===
+{{en-noun|yeti|s}}
+# {{lb|en|cryptozoology}} An [[unidentified]] [[humanoid]] [[animal]] said to live in the [[Himalayas]].
+#: {{syn|en|abominable snowman}}
+#: {{coordinate terms|en|bigfoot|sasquatch|yowie|menk}}
+====Translations====
+{{trans-top|unidentified animal}}
+* Arabic: {{t|ar|يَتِي|m}}
+* Bulgarian: {{t|bg|йети|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|雪人|tr=xuěrén}}, {{t+|cmn|野人|tr=yěrén}}
+* Czech: {{t|cs|yeti|m}}, {{t|cs|sněžný muž|m}}
+* Dutch: {{t+|nl|yeti|m}}
+* Dzongkha: {{t|dz|མི་རྒོད​}}
+* Esperanto: {{t|eo|jetio}}
+* Finnish: {{t+|fi|lumimies}}, {{t+|fi|jeti}}
+* French: {{t+|fr|yéti|m}}, {{t+|fr|migou|m}}
+* Georgian: {{t|ka|იეტი}}, {{t|ka|თოვლის კაცი}}
+* German: {{t+|de|Yeti|m}}, {{t+|de|Schneemensch|m}}
+* Hebrew: {{t|he|יטי}}
+* Hungarian: {{t+|hu|jeti}}
+* Indonesian: {{t|id|yeti}}
+* Italian: {{t+|it|yeti|m}}
+* Japanese: {{t|ja|イエティー|tr=ietī}}, {{t+|ja|野人|tr=やじん, yajin}}
+{{trans-mid}}
+* Korean: {{t|ko|예티}}
+* Mongolian: {{t+|mn|алмас}}, {{t|mn|цасны хүн}}, {{t|mn|мигү}}
+* Nepali: {{t|ne|हिममानव}}
+* Persian: {{t|fa|یتی}}
+* Polish: {{t+|pl|yeti|m}}
+* Portuguese: {{t|pt|ieti|m}}, {{t+|pt|iéti|m}}, {{t+|pt|yeti|m}}, {{t|pt|abominável homem das neves|m}}
+* Russian: {{t+|ru|йе́ти|m}} {{qualifier|indeclinable}}, {{t+|ru|сне́жный челове́к|m}}, {{t+|ru|бигфу́т|m}}
+* Sherpa: {{t-needed|xsr}}
+* Slovak: {{t|sk|yeti|m}}
+* Swedish: {{t+|sv|yeti|c}}, {{t|sv|jeti|c}}, {{t+|sv|snöman}}
+* Thai: {{t+|th|เยติ|tr=yaydtì}}
+* Tibetan: {{t|bo|མི་རྒོད}}
+* Yakut: {{t|sah|чучунаа}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eity|-iety|yite}}
+----
+==Anguthimri==
+===Noun===
+{{head|awg|noun}}
+# {{lb|awg|Mpakwithi}} [[bird]]
+===References===
+* Terry Crowley, ''The Mpakwithi dialect of Anguthimri'' (1981), page 189
+----
+==Czech==
+===Alternative forms===
+* {{alter|cs|yetti}}
+===Pronunciation===
+* {{cs-IPA|jety}}
+* {{hyphenation|cs|ye|ti}}
+===Noun===
+{{cs-noun|g=m-an}}
+# {{lb|cs|cryptozoology}} {{l|en|yeti}}
+====Declension====
+{{cs-decl-noun|yeti|yetiho|yetimu|yetiho|yeti|yetim|yetim|[[yetiové]], [[yeti]]|[[yetiů]], [[yetich]]|[[yetiům]], [[yetim]]|[[yetie]], [[yeti]]|[[yetiové]], [[yeti]]|[[yetiích]], [[yetich]]|[[yetii]], [[yetimi]]}}
+====Synonyms====
+* {{l|cs|sněžný muž}}
+===Further reading===
+* {{R:KNLA}}
+----
+==Dutch==
+===Etymology===
+Probably borrowed from {{bor|nl|en|yeti}}, from {{der|nl|bo|གཡའ་དྲེད||rock bear}}, compound of {{m|bo|གཡའ||rocky or rocky place}} and {{m|bo|དྲེད||bear}}.
+===Pronunciation===
+* {{IPA|nl|/ˈjeː.ti/}}
+* {{audio|nl|Nl-yeti.ogg|Audio}}
+* {{hyphenation|nl|ye|ti}}
+===Noun===
+{{nl-noun|m|-'s|yetietje}}
+# {{lb|nl|cryptozoology}} {{l|en|yeti}}
+#: {{syn|nl|verschrikkelijke sneeuwman}}
+----
+==Indonesian==
+{{wikipedia||lang=id}}
+===Etymology===
+From {{der|id|bo|གཡའ་དྲེད||rock bear}}, compound of {{m|bo|གཡའ||rocky or rocky place}} and {{m|bo|དྲེད||bear}}.
+===Pronunciation===
+* {{IPA|id|[ˈjɛti]|qual1=}}
+* {{hyphenation|id|yè|ti}}
+===Noun===
+{{id-noun|head=yèti|pl=-}}
+# {{l|en|yeti}}: An unidentified humanoid animal said to live in the Himalayas.
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Italian==
+{{wikipedia|lang=it}}
+===Noun===
+{{it-noun|m|#}}
+# {{lb|it|cryptozoology}} [[#English|yeti]]
+#: {{syn|it|abominevole uomo delle nevi}}
+----
+==Polish==
+{{wp|lang=pl}}
+===Etymology===
+From {{der|pl|bo|གཡའ་དྲེད||rock bear}}, compound of {{m|bo|གཡའ||rocky or rocky place}} and {{m|bo|དྲེད||bear}}.
+===Pronunciation===
+{{pl-p|jeti|h=ye.ti|a=LL-Q809 (pol)-Olaf-yeti.wav}}
+===Noun===
+{{pl-noun|g=m-an|indecl=yes}}
+# {{lb|pl|cryptozoology}} {{l|en|yeti}}
+#: {{syn|pl|człowiek śniegu}}
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|iéti|ieti|yéti}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|cryptozoology}} {{l|en|yeti}} {{gloss|unidentified humanoid of the Himalayas}}
+#: {{syn|pt|abominável homem das neves}}
+----
+==Slovak==
+===Etymology===
+From {{der|sk|bo|གཡའ་དྲེད||rock bear}}, compound of {{m|bo|གཡའ||rocky or rocky place}} and {{m|bo|དྲེད||bear}}.
+===Pronunciation===
+*{{sk-IPA|jeti}}
+===Noun===
+{{sk-noun|g=m|gen=yetiho|pl=yetiovia|genpl=yetiov|decl=kuli}}
+# {{lb|sk|cryptozoology}} {{l|en|yeti}}
+====Declension====
+{{sk-decl-noun|yeti|yetiho|yetimu|yetiho|yetim|yetim|yetiovia|yetiov|yetiom|yetiov|yetioch|yetiami}}
+====Synonyms====
+* {{l|sk|snežný človek|g=m}}
+* {{l|sk|snežný muž|g=m}}
+===References===
+* {{R:SDK}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|folklore}} [[#English|yeti]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Mythological creatures}}
+----
+==Swedish==
+===Noun===
+{{head|sv|noun|g=c}}
+# {{lb|sv|cryptozoology}} {{l|en|yeti}}
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jeti]}}
+* {{hyphenation|tr|ye|ti}}
+===Noun===
+{{tr-noun|yi|ler}}
+# {{lb|tr|cryptozoology}} {{l|en|yeti}}
+# {{lb|tr|philosophy|psychology}} [[faculty]], [[skill]]
+====Declension====
+{{tr-infl-noun-v|i}}</text>
+<sha1>izy6dcntu119g9qahcwmk7ud0zrrqpo</sha1>
+</revision>
+</page>

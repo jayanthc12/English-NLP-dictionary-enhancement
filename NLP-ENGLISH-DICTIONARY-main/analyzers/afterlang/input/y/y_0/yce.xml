@@ -1,0 +1,55 @@
+<page>
+<title>yce</title>
+<ns>0</ns>
+<id>5663142</id>
+<revision>
+<id>65198821</id>
+<parentid>59133811</parentid>
+<timestamp>2022-01-05T08:41:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Old English: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1038" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{obsolete spelling of|en|ice}}
+#* {{RQ:Shakespeare Hamlet Q1-2|act=III|scene=i|url=https://books.google.com/books?id=jrU8AAAAYAAJ&amp;pg=PT31|passage=If thou doſt marry, Ile giue thee / This plague to thy dowry: / Be thou as chaſte as '''yce''', as pure as ſnowe, / Thou ſhalt not ſcape calumny, to a Nunnery goe.|brackets=on}}
+===Anagrams===
+* {{anagrams|en|a=cey|YEC}}
+----
+==Middle English==
+===Noun===
+{{enm-noun|-}}
+# {{alt form|enm|is|t=ice|id=ice}}
+----
+==Old English==
+===Alternative forms===
+* {{alter|ang|īċe}}
+===Etymology===
+From {{inh|ang|gmw-pro|*ūkijā}}, diminutive of {{m|gmw-pro|*ūkā}}.
+===Pronunciation===
+* {{ang-IPA|ȳċe}}
+===Noun===
+{{ang-noun|f|g2=m|head=ȳċe}}
+# [[toad]]; poisonous [[frog]]
+====Declension====
+{{ang-decl-noun|g=f
+|ȳċe|ȳċan,ȳċean
+|ȳċan,ȳċean|ȳċan,ȳċean
+|ȳċan,ȳċean|ȳċena
+|ȳċan,ȳċean|ȳċum,ȳċeum
+}}
+{{ang-decl-noun|g=m
+|ȳċe|ȳċas,ȳċeas
+|ȳċe|ȳċas,ȳċeas
+|ȳċes|ȳċa,ȳċea
+|ȳċe|ȳċum,ȳċeum
+}}</text>
+<sha1>qdlfzndb14jivuuhjv5zq9oxfkn3hda</sha1>
+</revision>
+</page>

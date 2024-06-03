@@ -1,0 +1,23 @@
+<page>
+<title>xenodocheion</title>
+<ns>0</ns>
+<id>3035074</id>
+<revision>
+<id>54964725</id>
+<parentid>26975521</parentid>
+<timestamp>2019-10-10T09:28:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">==English==
+===Noun===
+{{en-noun|xenodocheia}}
+# {{alternative form of|en|xenodochium}}</text>
+<sha1>je6kax1ozsd6zourif686y49eyzo0ic</sha1>
+</revision>
+</page>

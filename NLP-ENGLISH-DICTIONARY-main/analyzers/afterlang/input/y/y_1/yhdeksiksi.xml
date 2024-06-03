@@ -1,0 +1,23 @@
+<page>
+<title>yhdeksiksi</title>
+<ns>0</ns>
+<id>803145</id>
+<revision>
+<id>32949437</id>
+<parentid>28384606</parentid>
+<timestamp>2015-06-09T20:44:59Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed unnecessary type= parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">==Finnish==
+===Numeral===
+{{head|fi|numeral form}}
+# {{fi-form of|yhdeksän|case=translative|pl=plural}}</text>
+<sha1>ai8vtkqwlygcxb1np2sz3yueb5xbkwk</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xwayisa</title>
+<ns>0</ns>
+<id>6930617</id>
+<revision>
+<id>50504753</id>
+<parentid>50479352</parentid>
+<timestamp>2018-10-16T18:06:12Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Zulu */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="272" xml:space="preserve">==Zulu==
+===Etymology===
+From {{affix|zu|xwaya|alt1=-xwaya|-isa}}.
+===Pronunciation===
+{{zu-IPA|xwayísa}}
+===Verb===
+{{zu-verb|xwayísa}}
+# {{lb|zu|transitive}} to [[warn]], to [[caution]]
+====Inflection====
+{{zu-infl-verb|H}}
+===References===
+* {{R:zu:ZED||3.2.9}}</text>
+<sha1>9dc9wsxjc20wf7wvsixupi7g5hgf1xj</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xenoblastischer</title>
+<ns>0</ns>
+<id>6345493</id>
+<revision>
+<id>60597288</id>
+<parentid>58423935</parentid>
+<timestamp>2020-09-27T13:18:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="155" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xenoblastischer.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xenoblastisch}}</text>
+<sha1>hkny8ogasjjuak7t9p4q7nvkvi3axmc</sha1>
+</revision>
+</page>

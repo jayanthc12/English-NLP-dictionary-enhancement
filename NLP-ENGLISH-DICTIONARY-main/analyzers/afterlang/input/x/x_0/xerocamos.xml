@@ -1,0 +1,24 @@
+<page>
+<title>xerocamos</title>
+<ns>0</ns>
+<id>4638109</id>
+<revision>
+<id>48940614</id>
+<parentid>46603197</parentid>
+<timestamp>2018-02-06T14:51:24Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Orphaned RFD-failed templates, removed redundant genders that are already in the definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="99" xml:space="preserve">{{also|xerocámos}}
+==Portuguese==
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xerocar}}</text>
+<sha1>spbfeso81ek7c4jvzydkbt7rytgqiai</sha1>
+</revision>
+</page>

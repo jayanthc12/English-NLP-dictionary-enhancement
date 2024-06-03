@@ -1,0 +1,27 @@
+<page>
+<title>xenonokra</title>
+<ns>0</ns>
+<id>1791416</id>
+<revision>
+<id>52393198</id>
+<parentid>25549521</parentid>
+<timestamp>2019-04-20T20:58:10Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="201" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xenon|-ok|-ra|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xe|no|nok|ra}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||sbl|p}}</text>
+<sha1>rxfhg6wqdday9xbyd6hf6sjfxom4b79</sha1>
+</revision>
+</page>

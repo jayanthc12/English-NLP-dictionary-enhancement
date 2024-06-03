@@ -1,0 +1,28 @@
+<page>
+<title>ydinasehanke</title>
+<ns>0</ns>
+<id>4405245</id>
+<revision>
+<id>69318118</id>
+<parentid>52035616</parentid>
+<timestamp>2022-09-18T17:01:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="263" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|hanke|t2=project}}
+===Pronunciation===
+{{fi-p|ydin-ase*/hanke*}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[project]]
+====Declension====
+{{fi-decl-hame|ydinasehan|k|kk|a}}</text>
+<sha1>982k87d2ejg4lgnqqtvdctaaxustao9</sha1>
+</revision>
+</page>

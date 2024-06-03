@@ -1,0 +1,61 @@
+<page>
+<title>yessir</title>
+<ns>0</ns>
+<id>77172</id>
+<revision>
+<id>69618868</id>
+<parentid>68992868</parentid>
+<timestamp>2022-10-30T00:51:24Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ + en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1773" xml:space="preserve">==English==
+===Etymology 1===
+{{compound|en|yes|sir}}
+====Pronunciation====
+* {{a|RP}} {{IPA|en|/ˈjɛsɜː(ɹ)/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yessir.wav|Audio (Southern England)}}
+* {{a|GA|informal}} {{IPA|en|/ˈjɛsːɝ/}}
+* {{a|GA|military}} {{IPA|en|/ˌjɛsˈsɝ/}}
+* {{rhymes|en|ɜː(ɹ)|q1=General American, military|s=2}}
+====Interjection====
+{{en-interj}}
+# {{lb|en|informal|or|military}} {{non-gloss definition|Used to express [[assent]], especially to a male superior.}}
+# {{lb|en|informal}} {{non-gloss definition|Used to express [[emphatic]] affirmation.}}
+=====Descendants=====
+* {{desc|ja|イエッサー}} (slang)
+=====Translations=====
+{{trans-top|used to express assent, especially to a superior}}
+* Arabic: {{t|ar|نَعَم سَيِّدِي}}
+* Azerbaijani: {{t|az|baş üstə}}
+* Finnish: {{t|fi|[[kyllä]] [[herra]]}}, {{t|fi|jessör}}
+* French: {{t|fr|[[oui]] [[monsieur]]}}
+* German: {{t+|de|jawohl}}
+* Hungarian: {{t|hu|igenis}}
+* Istriot: {{t|ist|iavòl}}
+* Italian: {{t|it|[[sì]] [[signore]]}}, {{t|it|sissignore}}
+{{trans-mid}}
+* Japanese: {{t+|ja|了解|tr=ryoukai}}, {{t|ja|了解しました|tr=ryoukai shimashita}}, {{t|ja|イエッサー|tr=iessā}} {{qualifier|slang}}
+* Malay: {{t|ms|baik tuan}}
+* Portuguese: {{t|pt|[[sim]] [[senhor]]}}
+* Russian: {{t+|ru|есть}}, {{t+|ru|так то́чно}}, {{t+|ru|слушаться|alt=слу́шаюсь}} {{qualifier|dated}}
+* Spanish: {{t|es|[[sí]] [[señor]]}}
+{{trans-bottom}}
+====See also====
+* {{l|en|yes'm}}
+* {{l|en|yessiree}}, {{l|en|yessirree}}
+===Etymology 2===
+====Noun====
+{{en-noun|?}}
+# {{lb|en|Isle of Man|colloquial}} {{n-g|Term of address to a male}}; [[mate]]; [[buddy]].
+===Anagrams===
+* {{anagrams|en|a=eirssy|yisser}}
+[[Category:English responses]]</text>
+<sha1>hyzepq4ls6f03tq5srb4suan2d2c7og</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>ydinvoima</title>
+<ns>0</ns>
+<id>643656</id>
+<revision>
+<id>58642116</id>
+<parentid>54764321</parentid>
+<timestamp>2020-02-05T15:33:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add {{fi-pronunciation}} based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="410" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|voima}}
+===Pronunciation===
+{{fi-pronunciation|ydin-voima}}
+===Noun===
+{{fi-noun}}
+# [[nuclear power]] {{gloss|power obtained from nuclear energy}}
+# {{lb|fi|physics}} [[nuclear force]] {{gloss|force that binds protons and neutrons into atomic nuclei}}
+====Declension====
+{{fi-decl-koira|ydinvoim|||a}}
+====Synonyms====
+* {{sense|power}} {{l|fi|atomivoima}}</text>
+<sha1>egwt4e7a31xessvayqruvkzzsq65j1i</sha1>
+</revision>
+</page>

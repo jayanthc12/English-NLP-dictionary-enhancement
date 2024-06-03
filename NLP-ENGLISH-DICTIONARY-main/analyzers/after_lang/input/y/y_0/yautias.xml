@@ -1,0 +1,24 @@
+<page>
+<title>yautias</title>
+<ns>0</ns>
+<id>1330799</id>
+<revision>
+<id>55545467</id>
+<parentid>53092812</parentid>
+<timestamp>2019-10-15T05:55:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">{{also|yautías}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yautia}}</text>
+<sha1>rx800xoutl3nsn9ffw9v07kt3d0waar</sha1>
+</revision>
+</page>

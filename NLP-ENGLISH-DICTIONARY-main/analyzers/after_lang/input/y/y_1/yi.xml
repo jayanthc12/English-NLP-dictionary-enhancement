@@ -1,0 +1,297 @@
+<page>
+<title>yi</title>
+<ns>0</ns>
+<id>38706</id>
+<revision>
+<id>69201681</id>
+<parentid>69201662</parentid>
+<timestamp>2022-09-10T21:53:52Z</timestamp>
+<contributor>
+<username>BurakD53</username>
+<id>3749209</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="8840" xml:space="preserve">{{also|Yi|yī|yí|yǐ|yì|-yî}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 639|1}}
+----
+==English==
+===Etymology 1===
+From {{bor|en|uk|ї}}.
+====Letter====
+{{en-letter}}
+# The Cyrillic letter [[Ї]] [[ї]], used in the Ukrainian and Rusyn alphabets.
+===Etymology 2===
+From {{bor|en|hy|յի}}.
+====Letter====
+{{en-letter}}
+# The Armenian letter Յ, յ.
+----
+==Afar==
+===Pronunciation===
+* {{aa-IPA|yí}}
+===Determiner===
+{{head|aa|determiner|cat2=possessive determiners|head=yí}}
+# [[my]]
+====See also====
+{{aa-possessive determiners}}
+===References===
+* {{R:aa:Parker:1985|+}}
+* {{R:aa:Hassan Kamil:2015}}
+----
+==Cameroon Pidgin==
+===Pronunciation===
+* {{IPA|wes|/ji/}}
+===Pronoun===
+{{head|wes|pronoun|cat2=personal pronouns}}
+# {{n-g|3rd person singular object personal pronoun}}
+====Usage notes====
+This is likely to have an [[animate]] referent, while the [[clitic]] {{m|wes|-am}} is employed for an [[inanimate]] [[referent]].
+====See also====
+{{wes-personal pronouns}}
+===Determiner===
+{{head|wes|determiner|cat2=possessive determiners}}
+# {{n-g|3rd person singular [[possessive determiner]]}}
+====See also====
+{{wes-possessive determiners}}
+----
+==Dama (Sierra Leone)==
+===Noun===
+{{head|dmn-dam|noun}}
+# {{alt form|dmn-dam|ji}}
+----
+==Dazaga==
+===Noun===
+{{head|dzg|noun}}
+# [[water]]
+===References===
+* Charles Le Coeur, Marguerite Le Coeur, ''Grammaire et textes teda-daza'' (1956)
+* Herrmann Jungraithmayr, Daniel Barreteau, Uwe Seibert, ''L'homme et l'eau dans le bassin du lac Tchad'' (1997), page 75: Teda, Daza yi
+----
+==Lashi==
+===Etymology 1===
+From {{inh|lsi|tbq-lob-pro|*ray}}, from {{inh|lsi|sit-pro|*s-r(j)a-j/s/t|*rya-t}}. Cognates include {{cog|my|ရယ်}} and {{cog|ii|ꒉ}}.
+====Pronunciation====
+* {{IPA|lsi|/ji˧/|[ji˨˧]}}
+====Verb====
+{{head|lsi|verb}}
+# {{lb|lsi|intransitive}} to [[laugh]]
+===Etymology 2===
+====Pronunciation====
+* {{IPA|lsi|/jḭː˧/}}
+====Verb====
+{{head|lsi|verb}}
+# {{lb|lsi|intransitive}} to [[go]]
+#: {{ux|lsi|inline=1|Sara jung hkyo '''yi''' bye.|The teacher has '''gone''' to school.|footer=(Quoting Luk, p. 26)}}
+=====Alternative forms=====
+* {{alter|lsi|ye}}
+===Etymology 3===
+====Pronunciation====
+* {{IPA|lsi|/jiː˧/}}
+====Noun====
+{{head|lsi|noun}}
+# [[necklace]]
+===Etymology 4===
+====Pronunciation====
+* {{IPA|lsi|/ji˧/|[ji˧]}}
+====Particle====
+{{head|lsi|particle}}
+# {{n-g|Used to mark the plural of a noun depicting a human being.}}
+#: {{ux|lsi|inline=1|Hit mo jocang '''yi''' myócò nyit.|There are many child'''ren''' here.|footer=(Quoting Luk, p. 119)}}
+===References===
+* {{R:lsi:Luk:2017|pages=15, }}
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|yī}}
+# {{nonstandard spelling of|cmn|sc=Latn|yí}}
+# {{nonstandard spelling of|cmn|sc=Latn|yǐ}}
+# {{nonstandard spelling of|cmn|sc=Latn|yì}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Middle English==
+===Determiner===
+{{head|enm|determiner}}
+# {{lb|enm|chiefly Northern and northern East Midland dialectal}} {{alt form|enm|þi|t=thy|id=thy}}
+[[Category:Northern Middle English]]
+[[Category:East Midland Middle English]]
+----
+==Murrinh-Patha==
+===Conjunction===
+{{head|mwf|conjunction}}
+# [[and]]
+===References===
+* Mark Abley, ''Spoken Here: Travels Among Threatened Languages'' (2003)
+----
+==Norman==
+{{wikipedia|lang=nrm}}
+===Alternative forms===
+* {{l|nrf|ieil}} {{qualifier|Guernsey}}
+* {{l|nrf|u}} {{qualifier|continental Normandy}}
+===Etymology===
+From older {{m|nrf|*ye}}, from {{inh|nrf|fro|ueil}}, from {{inh|nrf|VL.|oclus}}, from {{inh|nrf|la|oculus}}, from {{der|nrf|ine-pro|*h₃ekʷ-||eye; to see}}.
+===Pronunciation===
+* {{IPA|nrf|/ji/}}
+* {{a|Sark}} {{IPA|nrf|/jɪ/}}
+* {{audio|nrf|Jer-yi.ogg|Audio (Jersey)}}
+===Noun===
+{{nrf-noun|m|pl=ièrs}}
+# {{lb|nrf|Jersey|anatomy}} [[eye]]
+# {{lb|nrf|Jersey}} [[opening]] of lobster pot
+====Synonyms====
+* {{sense|eye}} {{l|nrf|cricot}}, {{l|nrf|criquinne}} {{qualifier|childish}}
+====Derived terms====
+{{der3|nrf|{{l|nrf|à l'yi nu||with the naked eye}}
+|{{l|nrf|à veue dg'yi||in sight}}
+|{{l|nrf|aver d's ièrs dé caûque-souothis||to have good eyesight}}
+|{{l|nrf|aver l's ièrs pus grands qué l'ventre||to have eyes bigger than one's belly}}
+|{{l|nrf|aver un yi tchi dit m'luque à l'aut'||to have a squint}}
+|{{l|nrf|balle dé l'yi||eyeball}}
+|{{l|nrf|clyîn dg'yi||wink}}
+|{{l|nrf|coup d'yi||glance}}
+|{{l|nrf|dans un clyîn dg'yi||in the wink of an eye}}
+|{{l|nrf|d'la carre d'san yi||out of the corner of one's eye}}
+|{{l|nrf|entré quat's ièrs||to one's face}}
+|{{l|nrf|êt' tout à ièrs||to be all eyes}}
+|{{l|nrf|freunmer l'yi||to have a nap}}
+|{{l|nrf|ièrs dé boeu||oxeye daisy}}
+|{{l|nrf|lanchi eune pathe dg'ièrs||to throw a glance}}
+|{{l|nrf|mauvais yi||evil eye}}
+|{{l|nrf|mettre l'dé dans l'yi|s'mettre l'dé dans l'yi|to put one's foot in it}}
+|{{l|nrf|par sus l's ièrs||up to the eyeballs}}
+|{{l|nrf|preunelle dé l'yi||pupil}}
+|{{l|nrf|sèrvi au dé et à l'yi||to wait on hand and foot}}
+|{{l|nrf|tout à ièrs||all eyes}}
+|{{l|nrf|vaie d'la carre d'san yi||to see out of the corner of one's eye}}
+|{{l|nrf|yi nu||naked eye}}
+|{{l|nrf|yi pochi||black eye}}}}
+====Related terms====
+{{rel3|nrf|{{l|nrf|vaie||to see}}
+|{{l|nrf|èrgarder||to look}}
+|{{l|nrf|veue||eyesight}}
+|{{l|nrf|èrgard||look}}
+|{{l|nrf|apèrchévance||glimpse}}
+|{{l|nrf|fixer||to stare at}}
+|{{l|nrf|clyîn|clyîn (dg'yi)|wink}}
+|{{l|nrf|blyîntchi}}, {{l|nrf|clyinn'ter||to blink}}
+|{{l|nrf|clyinn'téthie||blinking}}
+|{{l|nrf|faithe un clyîn}}, {{l|nrf|donner un clyîn||to give a wink}}
+|{{l|nrf|soucile||eyebrow}}
+|{{l|nrf|paûpiéthe||eyelid}}
+|{{l|nrf|paûpil'ye||eyelash}}
+|{{l|nrf|aveugl'ye||blind}}
+|{{l|nrf|aveuglier||to blind}}
+|{{l|nrf|vaie d'près||to be shortsighted}}
+|{{l|nrf|forchi la veue||to strain one's eyes}}
+|{{l|nrf|vaie d'travèrs}}, {{l|nrf|r'garder gare||to squint}}
+|{{l|nrf|vaie doubl'ye||to see double}}
+|{{l|nrf|leunettes||glasses}}
+|{{l|nrf|leunettes d'solé||sunglasses}}
+|{{l|nrf|vèrre d'approche||magnifying glass}}
+|{{l|nrf|longue-veue||telescope}}
+|{{l|nrf|vaie rouoge||to see red}}
+|{{l|nrf|faithe des ilyies||give someone the eye}}
+|{{l|nrf|mither|s'mither|to look at oneself in the mirror}}
+|{{l|nrf|n'pon dormi un clyîn||not to sleep a wink}}
+|{{l|nrf|à pèrte dé veue||out of sight}}
+|{{l|nrf|connaître dé veue||to know by sight}}
+|{{l|nrf|plieuther||to cry}}
+|{{l|nrf|lèrme||tear}}}}
+{{topics|nrf|Eye}}
+----
+==Salar==
+===Etymology 1===
+From {{inh|slr|trk-pro|*yāy}}. Compare to {{cog|ky|жай}}.
+====Noun====
+{{slr-noun}}
+# [[summer]]
+===Etymology 2===
+From {{inh|slr|trk-pro|*yē-}}. Cognate with {{cog|tk|iýmek}}.
+====Pronunciation====
+Salar dialects:&lt;ref&gt;{{R:slr:MaWei2|page=283}}&lt;/ref&gt;
+* Qinghai:
+** Xunhua Salar Autonomous County:
+**: {{w|Jiezi, Guang'an|Jiezi dialect}}: {{IPA|slr|[ji]}}
+**: {{w|Dazhuang, Mengda|Mengda township}}: {{IPA|slr|[je]}}
+** Hualong County:
+**: {{w|Hualong County|Kasuo area, Ashnu township}}: {{IPA|slr|[ji]}}
+* Xinjiang:
+** Yining County:
+**: {{w|Yining County|Samuyuzi Township}}: {{IPA|slr|[ji]|[iʃ]}}
+====Verb====
+{{head|slr|verb}}
+# to [[eat]]
+====References====
+&lt;references/&gt;
+* {{R:slr:Lianyun|page=29|ji-}}
+----
+==Tedaga==
+===Noun===
+{{head|tuq|noun}}
+# [[water]]
+===References===
+* Charles Le Coeur, Marguerite Le Coeur, ''Grammaire et textes teda-daza'' (1956)
+* Herrmann Jungraithmayr, Daniel Barreteau, Uwe Seibert, ''L'homme et l'eau dans le bassin du lac Tchad'' (1997), page 75: Teda, Daza yi
+----
+==Toba==
+===Noun===
+{{head|tob|noun}}
+# [[older]]/[[elder]] [[brother]]
+===References===
+* '''2012''', María Belén Carpio and Marisa Censabella, ''Clauses as noun modifiers in Toba'', in ''Relative Clauses in Languages of the Americas'' (edited by Bernard Comrie and Zarina Estrada Fernández; {{ISBN|902720683X}}
+----
+==Wutunhua==
+{{number box|wuh|1}}
+===Etymology===
+From {{der|wuh|cmn|-}} {{zh-l|一}}.
+===Pronunciation===
+* {{IPA|wuh|[i]}}
+===Numeral===
+{{head|wuh|numeral}}
+# [[one]]
+#: {{syn|wuh|yi-zek}}
+===References===
+{{R:wuh:Sandman}}
+----
+==Yoruba==
+===Etymology 1===
+====Pronunciation====
+{{IPA|yo|/jí/}}
+====Noun====
+{{yo-pos|noun|yí}}
+# {{Latn-def|yo|name|Y|y}}
+====See also====
+* {{list:Latin script letter names/yo}}
+===Etymology 2===
+====Pronunciation====
+{{IPA|yo|/jí/}}
+====Verb====
+{{yo-pos|verb|yí}}
+# {{lb|yo|transitive}} to [[topple]]
+# {{lb|yo|intransitive}} to be [[toppled]]
+===Etymology 3===
+====Pronunciation====
+{{IPA|yo|/jí/}}
+====Verb====
+{{yo-pos|verb|yí}}
+# {{lb|yo|intransitive}} to [[rotate]]
+=====Derived terms=====
+* {{l|yo|yíyí}}
+===Etymology 4===
+====Pronunciation====
+{{IPA|yo|/jī/}}
+====Verb====
+{{yo-pos|verb|yi}}
+# {{lb|yo|intransitive}} to be [[tough]]
+=====Derived terms=====
+* {{l|yo|yíyi}}</text>
+<sha1>fxmhe5a2afe3p8b5dhubrjxyc1wfva4</sha1>
+</revision>
+</page>

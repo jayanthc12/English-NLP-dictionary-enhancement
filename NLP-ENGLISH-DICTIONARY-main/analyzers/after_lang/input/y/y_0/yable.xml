@@ -1,0 +1,25 @@
+<page>
+<title>yable</title>
+<ns>0</ns>
+<id>6361443</id>
+<revision>
+<id>67339620</id>
+<parentid>67127417</parentid>
+<timestamp>2022-06-11T07:58:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns, clean up etyms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA|yâble}}
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|Canada}} {{alternative form of|fr|yiable}}</text>
+<sha1>ifwspmst0xx5pfj1bi45u2o1fyj7t5y</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>xega</title>
+<ns>0</ns>
+<id>6944811</id>
+<revision>
+<id>58724358</id>
+<parentid>50536045</parentid>
+<timestamp>2020-02-20T23:29:57Z</timestamp>
+<contributor>
+<username>Smashhoof</username>
+<id>1896362</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="323" xml:space="preserve">==Zulu==
+===Etymology===
+{{rfe|zu}}
+===Pronunciation===
+{{zu-IPA|xega}}
+===Verb===
+{{zu-verb|xega}}
+# {{lb|zu|intransitive}} to be [[loose]]
+# {{lb|zu|intransitive}} to be [[rickety]], to be [[shaky]], to be [[unstable]], to be [[unsteady]]
+====Inflection====
+{{zu-infl-verb|L}}
+===References===
+* {{R:zu:ZED||6.6-3}}</text>
+<sha1>d674dq5vuzyce6bf49tqgabd08yhs0c</sha1>
+</revision>
+</page>

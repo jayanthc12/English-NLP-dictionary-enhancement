@@ -1,0 +1,26 @@
+<page>
+<title>XIs</title>
+<ns>0</ns>
+<id>5875428</id>
+<revision>
+<id>55965426</id>
+<parentid>53092398</parentid>
+<timestamp>2019-10-16T11:36:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">{{also|xis|Xis}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|XI}}
+===Anagrams===
+* {{anagrams|en|a=isx|ISX|Six|six}}</text>
+<sha1>ktayzrjlrdsax6hifs1p9a0hk4685wu</sha1>
+</revision>
+</page>

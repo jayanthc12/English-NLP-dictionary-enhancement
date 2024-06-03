@@ -1,0 +1,26 @@
+<page>
+<title>yavrulamaz</title>
+<ns>0</ns>
+<id>4078341</id>
+<revision>
+<id>67659605</id>
+<parentid>67652392</parentid>
+<timestamp>2022-07-06T16:12:10Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert aorist forms to [[Template:tr-verb form of]] and remove nonsense nyms/derived/related terms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[javɾuˈɫamaz]}}
+* {{hyphenation|tr|yav|ru|la|maz}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yavrulamak}}</text>
+<sha1>t24sx1fiua2ge4ui2i9alwqkcioj9qs</sha1>
+</revision>
+</page>

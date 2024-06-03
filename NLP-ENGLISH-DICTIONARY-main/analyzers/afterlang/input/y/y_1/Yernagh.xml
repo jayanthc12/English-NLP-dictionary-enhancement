@@ -1,0 +1,43 @@
+<page>
+<title>Yernagh</title>
+<ns>0</ns>
+<id>1896797</id>
+<revision>
+<id>58791414</id>
+<parentid>52279598</parentid>
+<timestamp>2020-03-03T19:57:40Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="761" xml:space="preserve">==Manx==
+===Etymology===
+From {{inh|gv|sga|Érennach|t=Irish}}, from {{m|sga|Ériu|t=Ireland}} + {{af|gv|-agh|alt1=-ach|pos=adjective}}.{{catlangname|gv|nouns suffixed with -agh}}
+===Adjective===
+{{gv-adj}}
+# [[Irish]]
+#: {{ux|gv|Ta [[blass]] '''Yernagh''' echey.|inline=1|He speaks with an '''Irish''' accent.}}
+====Derived terms====
+{{col3|gv
+|{{l|gv|Anglo-Yernagh|t=Anglo-Irish}}
+|{{l|gv|Yernaghys|t=Hibernicism}}
+|{{l|gv|anvroie Yernagh|t=Irish stew}}
+}}
+===Noun===
+{{gv-noun|m|Yernee|Yernagh}}
+# [[Irishman]], [[Irishwoman]]
+====Related terms====
+{{rel3
+|gv|{{l|gv|Nerin|t=Ireland}}
+|{{l|gv|Yernish|t=the Irish language}}
+|{{l|gv|Yernisheyr|t=Irish-speaker}}
+}}
+===References===
+* {{R:DIL|20264|head=Érennach}}
+{{topics|gv|Ireland|Nationalities}}</text>
+<sha1>52lr28ieccs4xeyl7f1730xhmmzmxll</sha1>
+</revision>
+</page>

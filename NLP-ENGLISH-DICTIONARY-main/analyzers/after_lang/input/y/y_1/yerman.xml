@@ -1,0 +1,30 @@
+<page>
+<title>yerman</title>
+<ns>0</ns>
+<id>6522279</id>
+<revision>
+<id>68276429</id>
+<parentid>66517510</parentid>
+<timestamp>2022-07-18T11:39:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yermar]] with 'yermar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yermar}}
+----
+==Whitesands==
+===Noun===
+{{head|tnp|noun}}
+# [[man]]
+===References===
+* Jeremy Hammond, ''[https://web.archive.org/web/20181026161847/https://core.ac.uk/download/pdf/41233969.pdf#page=68 The Grammar of Nouns and Verbs in Whitesands, an Oceanic Language of Southern Vanuatu]'' (2009), p. 68</text>
+<sha1>foc537j0qj8izpemw4gf9qflr9ehh5f</sha1>
+</revision>
+</page>

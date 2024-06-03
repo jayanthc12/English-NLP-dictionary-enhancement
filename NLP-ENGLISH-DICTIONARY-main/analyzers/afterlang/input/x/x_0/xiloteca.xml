@@ -1,0 +1,28 @@
+<page>
+<title>xiloteca</title>
+<ns>0</ns>
+<id>1625398</id>
+<revision>
+<id>64713338</id>
+<parentid>64591056</parentid>
+<timestamp>2021-11-22T11:27:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Italian==
+{{wikipedia|lang=it}}
+===Etymology===
+{{confix|it|xilo|teca}}
+===Pronunciation===
+{{it-pr|xilotèca}}
+===Noun===
+{{it-noun|f}}
+# [[xylotheque]]</text>
+<sha1>cpye34ooxtqtbi46f7vy7tfnt8h9jq4</sha1>
+</revision>
+</page>

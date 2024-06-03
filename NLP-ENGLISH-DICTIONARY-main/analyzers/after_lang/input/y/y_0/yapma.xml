@@ -1,0 +1,39 @@
+<page>
+<title>yapma</title>
+<ns>0</ns>
+<id>3609676</id>
+<revision>
+<id>67659023</id>
+<parentid>67658751</parentid>
+<timestamp>2022-07-06T15:30:23Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: remove verb form nyms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="550" xml:space="preserve">==Turkish==
+===Etymology 1===
+{{m|tr|yap||make, do}} + {{m|tr|-ma}} (''forms verbal nouns'')
+====Noun====
+{{tr-noun|yı|lar}}
+# {{verbal noun of|tr|yapmak}}
+# [[accomplishment]]
+# [[fulfillment]]
+# [[making]]
+=====Usage notes=====
+{{U:tr:homograph pronunciation|n||yap|ma}}
+=====Declension=====
+{{tr-infl-noun-v|a|poss=1}}
+===Etymology 2===
+{{m|tr|yap||make, do}} + {{m|tr|-ma}} (''negates meaning of the verb'')
+====Verb====
+{{head|tr|verb form}}
+# {{tr-verb form of|yapmak}}
+=====Usage notes=====
+{{U:tr:homograph pronunciation|v||yap|ma}}</text>
+<sha1>mlpvo9kn1y0z4c2vhz8s3g5kdbnjvdo</sha1>
+</revision>
+</page>

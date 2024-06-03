@@ -1,0 +1,23 @@
+<page>
+<title>xenoinfections</title>
+<ns>0</ns>
+<id>7093568</id>
+<revision>
+<id>56423970</id>
+<parentid>53092238</parentid>
+<timestamp>2019-10-18T01:58:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenoinfection}}</text>
+<sha1>av2xypc3e5bgzac03avor414mbj3u6c</sha1>
+</revision>
+</page>

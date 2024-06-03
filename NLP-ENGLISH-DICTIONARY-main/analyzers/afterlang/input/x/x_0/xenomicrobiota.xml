@@ -1,0 +1,27 @@
+<page>
+<title>xenomicrobiota</title>
+<ns>0</ns>
+<id>5863798</id>
+<revision>
+<id>54408647</id>
+<parentid>51821437</parentid>
+<timestamp>2019-09-29T10:00:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="555" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|microbiota}}
+===Noun===
+{{en-noun|~}}
+# The [[microbiota]] from another individual or species
+#* {{quote-journal|en|date=August 20, 2015|author=James Collins et al.|title=Humanized microbiota mice as a model of recurrent Clostridium difficile disease|journal=Microbiome|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4546040/|doi=10.1186/s40168-015-0097-2|volume=3|issue=|pages=
+|passage=The reduction, albeit slight, is concordant with data of '''xenomicrobiota''' transferred to the murine host [ 13 ].}}</text>
+<sha1>oyz9q1p48m4y7vwzybfybbcx3nb1xt4</sha1>
+</revision>
+</page>

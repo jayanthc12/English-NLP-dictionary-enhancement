@@ -1,0 +1,38 @@
+<page>
+<title>Yekke</title>
+<ns>0</ns>
+<id>1215524</id>
+<revision>
+<id>59754608</id>
+<parentid>55537037</parentid>
+<timestamp>2020-07-15T05:23:02Z</timestamp>
+<contributor>
+<username>Hans-Friedrich Tamke</username>
+<id>13400</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="605" xml:space="preserve">{{also|yekke}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|yekke}}
+===Etymology===
+From {{bor|en|yi|יעקע}}, further {{unk|yi|nocat=1|nocap=1}}. See [[w:Yekke#Etymology|Wikipedia]].
+===Pronunciation===
+* {{IPA|en|/ˈjɛkə/|/ˈjɛki/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|sometimes|mildly|derogatory}} A [[Jew]] of [[German]]-speaking origin.
+====Derived terms====
+* {{l|en|Yekkish}}
+====Translations====
+{{trans-top|Jew of German-speaking origin}}
+* German: {{t+|de|Jecke|m}}, {{t+|de|Jeckin|f}}
+{{trans-mid}}
+* Yiddish: {{t|yi|יעקע|m}}
+{{trans-bottom}}
+[[Category:en:Judaism]]</text>
+<sha1>qwb0c7kvsks9kq284tdlj2adauv7wn2</sha1>
+</revision>
+</page>

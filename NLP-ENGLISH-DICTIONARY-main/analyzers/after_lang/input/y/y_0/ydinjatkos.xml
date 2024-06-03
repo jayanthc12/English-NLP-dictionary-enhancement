@@ -1,0 +1,28 @@
+<page>
+<title>ydinjatkos</title>
+<ns>0</ns>
+<id>4624742</id>
+<revision>
+<id>69318162</id>
+<parentid>62610857</parentid>
+<timestamp>2022-09-18T17:03:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|jatkos}}
+===Pronunciation===
+{{fi-p|ydin-jatkos}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|anatomy}} {{synonym of|fi|ydinjatke||medulla oblongata}}.
+====Declension====
+{{fi-decl-vastaus|ydinjatko|a}}</text>
+<sha1>fpcc4yoxk30bih8s6jscnvsg27l90t9</sha1>
+</revision>
+</page>

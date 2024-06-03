@@ -1,0 +1,35 @@
+<page>
+<title>yeste</title>
+<ns>0</ns>
+<id>6639894</id>
+<revision>
+<id>64079600</id>
+<parentid>64079012</parentid>
+<timestamp>2021-10-01T06:32:30Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>Fix L4 after L2. L4 -&gt; L3: Etymology 1, L4 -&gt; L3: NounL3 -&gt; L4: Noun (smarter)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==Middle English==
+===Etymology 1===
+====Noun====
+{{head|enm|noun}}
+# {{alternative form of|enm|geste|t=tale|id=tale}}
+===Etymology 2===
+====Noun====
+{{head|enm|noun}}
+# {{alternative form of|enm|yest|t=beer foam|id=beer foam}}
+----
+==Tocharian B==
+===Etymology===
+{{rfe|txb}}
+===Noun===
+{{txb-noun||?}}
+# [[skin]] (outer)</text>
+<sha1>o1j69ac6gjucp43qlpjlhjgsgme7voe</sha1>
+</revision>
+</page>

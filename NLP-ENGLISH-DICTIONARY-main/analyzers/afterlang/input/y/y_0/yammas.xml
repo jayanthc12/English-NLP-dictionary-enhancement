@@ -1,0 +1,23 @@
+<page>
+<title>yammas</title>
+<ns>0</ns>
+<id>7093614</id>
+<revision>
+<id>56424067</id>
+<parentid>53092659</parentid>
+<timestamp>2019-10-18T01:59:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yamma}}</text>
+<sha1>qr75c3vahz5rrk9a89eyzkjy0i6rkfb</sha1>
+</revision>
+</page>

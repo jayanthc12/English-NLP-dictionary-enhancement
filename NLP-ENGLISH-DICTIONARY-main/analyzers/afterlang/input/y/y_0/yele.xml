@@ -1,0 +1,37 @@
+<page>
+<title>yele</title>
+<ns>0</ns>
+<id>2497877</id>
+<revision>
+<id>69623538</id>
+<parentid>65850080</parentid>
+<timestamp>2022-10-30T18:18:09Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Turkish */ add Ottoman spelling</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="440" xml:space="preserve">{{also|yèlé}}
+==Middle English==
+===Noun===
+{{head|enm|noun}}
+# {{alternative form of|enm|el}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یله|tr=yele}}&lt;ref&gt;{{R:ota:Kelekian|یله|page=1358b}}&lt;/ref&gt;, from {{inh|tr|trk-pro|*jēl}}, compare {{cog|sah|сиэл}}.
+===Noun===
+{{head|tr|noun}}
+# [[mane]]
+===References===
+&lt;references/&gt;
+----
+==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|yel||dat|s}}</text>
+<sha1>b7jqxjy5e8e6vfg6t9t9kh25mtkiauj</sha1>
+</revision>
+</page>

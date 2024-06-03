@@ -1,0 +1,36 @@
+<page>
+<title>Yagara</title>
+<ns>0</ns>
+<id>7225773</id>
+<revision>
+<id>65230605</id>
+<parentid>63173321</parentid>
+<timestamp>2022-01-07T09:11:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: switch Pronunciation and Etymology sections</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="512" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Jagara}}
+===Etymology===
+Borrowed from {{bor|en|yxg|Yagara}}.
+===Pronunciation===
+* {{a|AU}} {{IPA|en|/ˈjaɡərə/}}
+===Proper noun===
+{{en-proper noun}}
+# An Indigenous Australian people who inhabited much of the area of and around what is now [[Brisbane]].
+# The [[Pama-Nyungan]] language spoken by the Yagara and [[Turrbal]] peoples.
+[[Category:en:Languages]]
+----
+==Yagara==
+===Proper noun===
+{{head|1=yxg|2=proper noun}}
+# [[Yagara]] (''both senses'')</text>
+<sha1>68qq48jwnxphmzoj1yfyf7sft823bpl</sha1>
+</revision>
+</page>

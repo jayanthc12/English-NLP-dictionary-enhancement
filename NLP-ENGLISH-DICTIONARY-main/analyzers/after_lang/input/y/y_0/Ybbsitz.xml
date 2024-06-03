@@ -1,0 +1,26 @@
+<page>
+<title>Ybbsitz</title>
+<ns>0</ns>
+<id>6581376</id>
+<revision>
+<id>66026459</id>
+<parentid>65765497</parentid>
+<timestamp>2022-02-28T07:19:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up German lemmas: use {{de-proper noun|toponym}}, {{de-proper noun|surname}}, add '.article' to {{de-proper noun}} where appropriate, misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">==German==
+{{wp|lang=de}}
+===Pronunciation===
+* {{audio|de|De-Ybbsitz.ogg|Audio}}
+===Proper noun===
+{{de-proper noun|toponym}}
+# {{place|de|municipality|s/Lower Austria|c/Austria}}</text>
+<sha1>9vww90yahur2can4qk4l2uzgfw3shz4</sha1>
+</revision>
+</page>

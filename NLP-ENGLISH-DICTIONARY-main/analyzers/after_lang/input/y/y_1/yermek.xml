@@ -1,0 +1,43 @@
+<page>
+<title>yermek</title>
+<ns>0</ns>
+<id>5368386</id>
+<revision>
+<id>61838010</id>
+<parentid>51673378</parentid>
+<timestamp>2021-02-17T14:13:23Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Etymology */ ota یرمك (Redhouse 1890:2202)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1060" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یرمك|tr=yermek|t=loathe; blame}}, from {{inh|tr|trk-pro|*jẹr-||to hate}}.&lt;ref&gt;{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2faltet&amp;text_number=2598&amp;root=config “*ǯḕri”]&lt;/ref&gt; Cognate with {{cog|kk|жеру}}, {{cog|otk|tr=yer-|t=to hate, dispraise}},&lt;ref&gt;[http://www.nisanyansozluk.com/?k=yer-&amp;lnk=1 &quot;yer-&quot;] - nişanyansözlük&lt;/ref&gt;
+, {{cog|sah|сир||to disdain, dislike, reject}}.
+===Verb===
+{{tr-verb|yerer}}
+# {{lb|tr|transitive}} to [[run down]], point out the [[fault]]s of, [[criticize]], speak [[ill]] of
+# {{lb|tr|transitive}} to [[satirize]]; to [[deride]]
+# {{lb|tr|transitive}} to [[disapprove]]; to [[condemn]]
+====Conjugation====
+{{tr-conj|yer|i|yerer|e|d}}
+====Synonyms====
+* {{l|tr|eleştirmek}}
+* {{l|tr|taşlamak}}
+* {{l|tr|kötülemek}}
+====Antonyms====
+* {{l|tr|övmek}}
+====Derived terms====
+* {{l|tr|yergi}}
+* {{l|tr|yerme}}
+* {{l|tr|yerinmek}}
+* {{l|tr|yerilmek}}
+* {{l|tr|yerdirmek}}
+===References===
+&lt;references/&gt;</text>
+<sha1>ljalrrr5q7lz327bj7uz53x28rx6qm5</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xilens</title>
+<ns>0</ns>
+<id>4697876</id>
+<revision>
+<id>66143429</id>
+<parentid>55300878</parentid>
+<timestamp>2022-03-14T08:06:24Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q7026 (cat)-Millars-xilens.wav; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="179" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{audio|ca|LL-Q7026 (cat)-Millars-xilens.wav|Audio (Valencian)}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{masculine plural of|ca|xilè}}</text>
+<sha1>ml6djq1zhkh7tjw3jezdujgyzsb6nmk</sha1>
+</revision>
+</page>

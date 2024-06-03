@@ -1,0 +1,35 @@
+<page>
+<title>xucro</title>
+<ns>0</ns>
+<id>4580026</id>
+<revision>
+<id>69515381</id>
+<parentid>69515377</parentid>
+<timestamp>2022-10-14T21:09:28Z</timestamp>
+<contributor>
+<username>Munmula</username>
+<id>3601713</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="556" xml:space="preserve">==Portuguese==
+===Alternative forms===
+* {{alt|pt|chucro}}
+===Etymology===
+Borrowed from {{bor|pt|es|chúcaro}}, borrowed from {{bor|es|qu}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyphenation|pt|chu|cro}}
+===Adjective===
+{{pt-adj}} {{tlb|pt|Brazil}}
+# {{lb|pt|South Brazil|Minas Gerais|of an animal}} [[untamed]]
+#: {{syn|pt|bravio|selvagem|indómito|indomado}}
+# [[inexperienced]]
+#: {{syn|pt|inexperiente}}
+# [[rude]] or [[uncouth]]
+#: {{syn|pt|rude|bruto|bronco|grosseiro|ignorante|mal-educado}}
+# {{lb|pt|of a drink}} without [[sugar]]; [[sugarless]]</text>
+<sha1>ojgescdjepclhj4o1uzpdpgui266dzj</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>xhe</title>
+<ns>0</ns>
+<id>6658480</id>
+<revision>
+<id>62395501</id>
+<parentid>62395049</parentid>
+<timestamp>2021-04-19T15:23:21Z</timestamp>
+<contributor>
+<username>Tibidibi</username>
+<id>3790866</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="742" xml:space="preserve">==Middle English==
+===Pronoun===
+{{head|enm|pronoun}}
+# {{alt form|enm|sche}}
+----
+==Wutunhua==
+===Pronunciation===
+* {{IPA|wuh|[ɧə]}}
+===Etymology 1===
+From {{der|wuh|cmn|-}} {{zh-l|喝|to drink|tr=-}}.
+====Verb====
+{{head|wuh|verb}}
+# to [[eat]]
+#: {{ux|wuh|ha-jhege kuize-liangge huan '''xhe'''-di-li.|t=Chinese people [in general] '''eat''' with chopsticks.|footer=(Quoted in Sandman, p. 49)}}
+#: {{syn|wuh|qe}}
+# to [[drink]]
+#: {{ux|wuh|ni kafei '''xhe'''-zhe-mu cha '''xhe'''-zhe?|t=Would you like to '''drink''' coffee or tea?|footer=(Quoted in Sandman, p. 202)}}
+===Etymology 2===
+From {{der|wuh|cmn|-}} {{zh-l|河|tr=-}}.
+====Noun====
+{{head|wuh|noun}}
+# [[river]]
+===References===
+{{R:wuh:Janhunen}}
+{{R:wuh:Sandman}}</text>
+<sha1>nkwwd01dblp0y5pgt9612ixlujpidrh</sha1>
+</revision>
+</page>

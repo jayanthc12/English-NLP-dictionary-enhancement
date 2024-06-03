@@ -1,0 +1,27 @@
+<page>
+<title>Xenebra</title>
+<ns>0</ns>
+<id>6821868</id>
+<revision>
+<id>65228331</id>
+<parentid>58690377</parentid>
+<timestamp>2022-01-07T05:15:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Galician: correct indentation of section 3 (Related terms) to 4</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="192" xml:space="preserve">==Galician==
+===Pronunciation===
+* {{IPA|gl|/ʃeˈnɛ.βɾɐ/}}
+===Proper noun===
+{{gl-proper noun|f}}
+# {{place|gl|city|c/Switzerland|t=Geneva}}
+====Related terms====
+* {{l|gl|xenebrino}}</text>
+<sha1>i2fcek71xwojty1x9dhjdmiy2h4c9bk</sha1>
+</revision>
+</page>

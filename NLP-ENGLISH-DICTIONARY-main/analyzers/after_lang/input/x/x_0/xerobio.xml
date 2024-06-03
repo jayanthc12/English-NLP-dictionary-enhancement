@@ -1,0 +1,28 @@
+<page>
+<title>xerobio</title>
+<ns>0</ns>
+<id>5458015</id>
+<revision>
+<id>62779801</id>
+<parentid>54327808</parentid>
+<timestamp>2021-06-16T12:44:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="160" xml:space="preserve">==Italian==
+===Etymology===
+{{rfe|it}}
+===Adjective===
+{{it-adj}}
+# {{synonym of|it|xerofito}}
+===Noun===
+{{it-noun|m|xerobi}}
+# {{synonym of|it|xerofita}}</text>
+<sha1>t3yvam7peyqeoalbur6j9yhs3as7epa</sha1>
+</revision>
+</page>

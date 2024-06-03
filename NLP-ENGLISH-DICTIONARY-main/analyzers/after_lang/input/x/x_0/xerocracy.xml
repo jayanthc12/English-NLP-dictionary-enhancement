@@ -1,0 +1,43 @@
+<page>
+<title>xerocracy</title>
+<ns>0</ns>
+<id>3467896</id>
+<revision>
+<id>58642270</id>
+<parentid>58642261</parentid>
+<timestamp>2020-02-05T16:40:07Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/Sms2sms|Sms2sms]]. If you think this rollback is in error, please leave a message on my [[User talk:Surjection|talk page]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3770" xml:space="preserve">==English==
+{{was wotd|2019|August|30}}
+===Etymology===
+From {{suffix|en|xerox|alt1=xero(x)|cracy}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/zɪəˈɹɒkɹəsi/|/zɛ-/}}
+* {{audio|en|En-uk-xerocracy.oga|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ziːˈɹɑkɹəsi/|/ziːə-/}}
+* {{rhymes|en|ɒkɹəsi}}
+* {{hyphenation|en|xe|ro|cra|cy}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|informal}} [[political|Political]] [[influence]] [[achieve]]d by [[copy#Verb|copying]] and [[distribute|distributing]] [[leaflet]]s and similar material.
+#* {{quote-journal|en|title=Iran: The Unknown Ayatullah Khomeini|url=http://content.time.com/time/subscriber/article/0,33009,920508-6,00.html|archiveurl=https://web.archive.org/web/20190520184245/http://content.time.com/time/subscriber/article/0,33009,920508-6,00.html|archivedate=20 May 2019|magazine=[[w:Time (magazine)|Time]]|location=New York, N.Y.|publisher=[[w:WarnerMedia|Time Warner Publishing]]|month=October|year=1978|year_published=16 July 1979|issn=0928-8430|oclc=749127914|passage=On the occasion of his son's death, the Ayatullah &amp;#91;{{w|Ruhollah Khomeini}}&amp;#93; wrote a letter to the Iranian people that is now regarded as the crucial document of the revolution. [...] Khomeini thus established himself as leader of the revolution by calling upon the armed forces to overthrow the Shah &amp;#91;{{w|Mohammad Reza Pahlavi}}&amp;#93;. Hundreds of thousands of copies of the letter were distributed in Iran. As a Tehran University professor put it [in October 1978]: &quot;We were struggling against autocracy for democracy, by means of '''Xerocracy'''.&quot;}}
+#* {{quote-book|en|author=Mohamed Heikal|authorlink=Mohamed Hassanein Heikal|title=Iran: The Untold Story: An Insider’s Account of America’s Iranian Adventure and Its Consequences for the Future|location=New York, N.Y.|publisher={{w|Pantheon Books}}|year=1981|page=139|isbn=978-0-394-52275-3|passage=As someone said, what was happening was a revolution for democracy, against autocracy, led by theocracy, made possible by '''xerocracy'''.}}
+#* {{quote-journal|en|magazine=Orion Afield|location=Great Barrington, Mass.|publisher={{w|Orion Society}}|year=1999|page=19|column=3|issn=1096-9144|oclc=37825939|passage=In San Francisco, the organization of the event &amp;#91;[[w:Critical Mass (cycling)|Critical Mass]]&amp;#93; has been as much a part of its success as anything else. There is no one in charge. Ideas are spread, routes shared, and consensus sought through the ubiquitous copy machine—a &quot;'''xerocracy'''&quot; in which anyone is free to make copies of their ideas and pass them around.}}
+#* {{quote-book|en|author=Zack [Zachary Mooradian] Furness|authorlink=Zack Furness|chapter=Critical Mass and the Functions of Bicycle Protest|title=One Less Car: Bicycling and the Politics of Automobility|series=Sporting Series|location=Philadelphia, Pa.|publisher={{w|Temple University Press}}|year=2010|page=82|pageurl=https://books.google.com/books?id=WV4QSnRqNwEC&amp;pg=PA82|isbn=978-1-59213-612-4|passage='''Xerocracy''', or &quot;rule through photocopying,&quot; is the dominant paradigm of [[w:Critical Mass (cycling)|Critical Mass]] and rests on the premise that anyone can print, photocopy, and solicit media that advocate and/or explain the ride. [...] '''Xerocracy''' is thus not only a means of shaping participant and public perceptions of about bicycle transportation (through facts, statistics, images, and personal narratives); it is also a part of a larger communicative shift, where cyclists take ownership of, and responsibility for, the meaning of the event.}}
+====Related terms====
+* {{l|en|xerocratic}}
+====Translations====
+{{trans-top|political influence achieved by copying and distributing leaflets and similar material}}
+{{trans-mid}}
+* French: {{t|fr|xérocratie|f}}
+{{trans-bottom}}</text>
+<sha1>9wl91kbo6bnhvvpdkkabjhvbe5yctot</sha1>
+</revision>
+</page>

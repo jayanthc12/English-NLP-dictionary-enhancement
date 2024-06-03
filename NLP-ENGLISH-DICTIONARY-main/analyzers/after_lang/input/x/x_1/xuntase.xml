@@ -1,0 +1,30 @@
+<page>
+<title>xuntase</title>
+<ns>0</ns>
+<id>1213425</id>
+<revision>
+<id>56582655</id>
+<parentid>34989407</parentid>
+<timestamp>2019-10-18T08:09:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb}}
+# to [[come together]], [[join]]
+[[Category:Asturian reflexive verbs]]
+----
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||1|s|pret|subj}}
+# {{inflection of|gl|xuntar||3|s|pret|subj}}</text>
+<sha1>semjkjzh9hsx9v5pu05n95cuu63t8tv</sha1>
+</revision>
+</page>

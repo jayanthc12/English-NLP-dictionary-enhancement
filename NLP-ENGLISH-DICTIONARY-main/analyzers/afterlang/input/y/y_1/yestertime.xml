@@ -1,0 +1,33 @@
+<page>
+<title>yestertime</title>
+<ns>0</ns>
+<id>2624494</id>
+<revision>
+<id>60329043</id>
+<parentid>58313690</parentid>
+<timestamp>2020-09-08T05:04:34Z</timestamp>
+<contributor>
+<username>Uranographer</username>
+<id>2139</id>
+</contributor>
+<minor />
+<comment>/* English */ added missing }}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="763" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|yester|time}}.
+===Noun===
+{{en-noun}}
+# [[time|Time]] previous to the [[present]]; the [[past]].
+====Synonyms====
+* {{l|en|foretime}}, {{l|en|yestertide}}; see also [[Thesaurus:the past]]
+===Adverb===
+{{en-adv|-}}
+# In times past, at a prior time; in the past.
+#* {{quote-book|en|year=1920|first=Yoné|last=Noguchi|title=Seen &amp; unseen, or, Monologues of a homeless snail|passage=And at last I came back to me, after sailing on surgeful waves; at this moment, between the Present and the Future, the Past and the Present, — forgetting what the world was, '''yestertime''',—forgetting what I was, '''yestertime'''.}}
+====Synonyms====
+* {{l|en|beforehand}}, {{l|en|yestertide}}; see also [[Thesaurus:formerly]]</text>
+<sha1>8pfphz43ccikyfk34qiizmt8tyc7136</sha1>
+</revision>
+</page>

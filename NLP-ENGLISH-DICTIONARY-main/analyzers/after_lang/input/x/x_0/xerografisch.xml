@@ -1,0 +1,28 @@
+<page>
+<title>xerografisch</title>
+<ns>0</ns>
+<id>6345369</id>
+<revision>
+<id>66663977</id>
+<parentid>62140144</parentid>
+<timestamp>2022-05-10T08:07:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|-}} to new-format {{de-adj}}; convert {{de-decl-adj-notcomp}} to {{de-adecl}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==German==
+===Pronunciation===
+* {{IPA|de|/ˌkseʁoˈɡʁaːfɪʃ/}}
+* {{audio|de|De-xerografisch.ogg|Audio}}
+===Adjective===
+{{de-adj}}
+# {{alternative form of|de|xerographisch}}
+====Declension====
+{{de-adecl}}</text>
+<sha1>baywkeo1la79s8xgnrbopg06xo4bju9</sha1>
+</revision>
+</page>

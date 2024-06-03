@@ -1,0 +1,30 @@
+<page>
+<title>yamaimo</title>
+<ns>0</ns>
+<id>4524791</id>
+<revision>
+<id>65661765</id>
+<parentid>59071213</parentid>
+<timestamp>2022-02-06T15:20:39Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Root vegetables]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|ja|山芋}}.
+===Noun===
+{{en-noun|-}}
+# {{taxlink|Dioscorea japonica|species|ver=180403}}, an [[edible]] [[Japanese]] [[yam]].
+====Synonyms====
+* {{l|en|Japanese mountain yam}}
+[[Category:en:Dioscoreales order plants]]
+[[Category:en:Root vegetables]]</text>
+<sha1>brny3jz5spwgsiowle70a3qze6ubgy3</sha1>
+</revision>
+</page>

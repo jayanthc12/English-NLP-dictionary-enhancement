@@ -1,0 +1,29 @@
+<page>
+<title>yidaki</title>
+<ns>0</ns>
+<id>2834748</id>
+<revision>
+<id>66126529</id>
+<parentid>54358531</parentid>
+<timestamp>2022-03-12T02:41:39Z</timestamp>
+<contributor>
+<username>Simplificationalizer</username>
+<id>3217536</id>
+</contributor>
+<minor />
+<comment>added [[Category:en:Musical instruments]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="645" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yirdaki}}
+===Etymology===
+From the Yolngu term for the instrument, {{m|und|yiḏaki}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|Australia}} [[didgeridoo]]
+#* {{quote-book|en|title=Forensics, Fossils and Fruitbats: A Field Guide to Australian Scientists|year=2010|author=Stephen Luntz|isbn=9780643097452|url=http://books.google.com/books?id=U4QUeLNTQMMC|page=153|passage=To increase the understanding of what the mouth of a '''yidaki''' player is actually doing, Hollenberg organised to have magnetic resonance imaging (MRI) scans done of him playing the instrument.}}
+[[Category:en:Musical instruments]]</text>
+<sha1>h189zjbs8q6u2y2bqfx9qcfk8lear8r</sha1>
+</revision>
+</page>

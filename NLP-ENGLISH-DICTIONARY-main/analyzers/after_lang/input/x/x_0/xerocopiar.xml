@@ -1,0 +1,33 @@
+<page>
+<title>xerocopiar</title>
+<ns>0</ns>
+<id>92363</id>
+<revision>
+<id>68889439</id>
+<parentid>64220522</parentid>
+<timestamp>2022-08-28T08:55:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="299" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{es-verb}}
+# {{lb|es|transitive}} to make a [[photocopy]] of
+# {{lb|es|intransitive}} to photocopy
+====Conjugation====
+{{es-conj|nocomb=1}}
+===See also===
+* {{l|es|fotocopia}}
+* {{l|es|fotocopiadora}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>rkd6q6x7p5ejhgjtc3hnax5vscehdso</sha1>
+</revision>
+</page>

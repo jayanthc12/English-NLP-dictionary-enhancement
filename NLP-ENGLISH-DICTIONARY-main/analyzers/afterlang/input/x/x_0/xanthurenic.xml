@@ -1,0 +1,25 @@
+<page>
+<title>xanthurenic</title>
+<ns>0</ns>
+<id>3754818</id>
+<revision>
+<id>67298183</id>
+<parentid>51797300</parentid>
+<timestamp>2022-06-06T12:15:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xanth|gloss1=yellow|}} {{m|en|uren-}}, from {{uder|en|grc|οὖρον||urine}}, {{suffix|en||ic}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|organic chemistry}} Relating to [[xanthurenic acid]] or its derivatives</text>
+<sha1>dlfqy9jvniv2ild3hre2dgio6tft6z4</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yagya</title>
+<ns>0</ns>
+<id>5714858</id>
+<revision>
+<id>54996738</id>
+<parentid>48315612</parentid>
+<timestamp>2019-10-11T03:49:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="62" xml:space="preserve">==English==
+===Noun===
+{{en-noun|~}}
+# {{alt form|en|yajna}}</text>
+<sha1>huafsrlee68hio7uixda70cs6ghs0i1</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yakushimensium</title>
+<ns>0</ns>
+<id>3419740</id>
+<revision>
+<id>66995442</id>
+<parentid>57076993</parentid>
+<timestamp>2022-05-15T09:48:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|yakushimēnsis}} (2); combine {{inflection of|la|yakushimēnsis}} tag sets gen|m|p and gen|f|p into gen|m//f|p; combine {{inflection of|la|yakushimēnsis}} tag sets gen|m//f|p and gen|n|p into gen|m//f//n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="112" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|yakushimēnsium}}
+# {{inflection of|la|yakushimēnsis||gen|m//f//n|p}}</text>
+<sha1>lhlas1v4gm39yla4po236ez9hw7t4mv</sha1>
+</revision>
+</page>

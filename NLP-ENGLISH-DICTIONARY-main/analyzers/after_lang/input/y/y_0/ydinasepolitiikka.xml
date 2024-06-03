@@ -1,0 +1,28 @@
+<page>
+<title>ydinasepolitiikka</title>
+<ns>0</ns>
+<id>4405251</id>
+<revision>
+<id>69318134</id>
+<parentid>52035621</parentid>
+<timestamp>2022-09-18T17:02:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="274" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinase|t1=nuclear weapon|politiikka|t2=policy}}
+===Pronunciation===
+{{fi-p|ydin-ase*/politiikka}}
+===Noun===
+{{fi-noun}}
+# [[nuclear weapon|nuclear weapons]] [[policy]]
+====Declension====
+{{fi-decl-kala|ydinasepolitii|kk|k|a}}</text>
+<sha1>3yd3ixcmef1milw79hnjw6sx4iv1g6n</sha1>
+</revision>
+</page>

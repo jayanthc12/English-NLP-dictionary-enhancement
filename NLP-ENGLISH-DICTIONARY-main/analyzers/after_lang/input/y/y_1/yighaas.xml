@@ -1,0 +1,36 @@
+<page>
+<title>yighaas</title>
+<ns>0</ns>
+<id>4570600</id>
+<revision>
+<id>69320045</id>
+<parentid>46217483</parentid>
+<timestamp>2022-09-18T18:43:20Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="717" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|3o|3s|∅}} {{nv-link-to-stem|-ghaas}} {{nv-link-to-root|-GHAZ|scratch}}.
+===Verb===
+{{head|nv|verb|transitive}}
+# (with {{m|nv|tsiih}}) he/she is [[scratch#Verb|scratching]] it, [[rip#Verb|ripping]] it, giving it a [[scratch#Noun|scratch]] into its flesh
+====Conjugation====
+{{nv-paradigm|momentaneous|∅/yi}}.
+{{nv-verbtable|IMPERFECTIVE
+|yisxaas|yiigaas|deiigaas|nighaas|wohhaas|daahhaas|yighaas|deighaas|jighaas|dajighaas}}
+{{nv-verbtable|PERFECTIVE
+|yíghaz|yiigaz|deiigaz|yíníghaz|wooghaz|daooghaz|yiyííghaz|dayííghaz|jííghaz|dajííghaz}}
+====Verbal stems====
+* IMPERFECTIVE: -ghaas
+* PERFECTIVE: -ghaz
+* FUTURE: -ghas
+* ITERATIVE: -gas
+* OPTATIVE: -ghaas</text>
+<sha1>gp4oxjje2hjo67l8wsaahrm6zwwz9hr</sha1>
+</revision>
+</page>

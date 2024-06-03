@@ -1,0 +1,34 @@
+
+***************
+    PASS 23 (attributes)
+***************
+
+PAT OUTPUT TREE:
+
+_ROOT [0,39,0,39,0,0,node,un, ("TOT LINES" 1) ("TOT TABS" 0) ("TOT LOWERS" 3) ("TOT CAPS" 2) ("TOT UPPERS" 0) ("TOT NUMS" 0)]
+   _word [0,5,0,5,13,17,node]
+      _LINE [0,5,0,5,12,18,node]
+         amaze [0,4,0,4,0,0,alpha, ("NOSP" 1) ("lower" 1)]
+         \n [5,5,5,5,0,0,white]
+   _langHeader [6,16,6,16,21,20,node, ("header" "English") ("lang" "english")]
+      _headerZone [6,16,6,16,19,19,node, ("header" "English") ("lang" "english")]
+         _header [6,16,6,16,17,22,node, ("header" "English") ("lang" "english") ("pofs" 0)]
+            = [6,6,6,6,0,0,punct, ("SP" 1) ("NL" 1)]
+            = [7,7,7,7,0,0,punct, ("NOSP" 1)]
+            English [8,14,8,14,0,0,alpha, ("NOSP" 1) ("cap" 1) ("lang" "english")]
+            = [15,15,15,15,0,0,punct, ("NOSP" 1)]
+            = [16,16,16,16,0,0,punct, ("NOSP" 1)]
+   _headerZone [18,37,18,37,19,19,node, ("header" "Verb") ("pofs" "verb") ("lang" 0)]
+      _header [18,27,18,27,17,22,node, ("header" "Verb") ("lang" 0) ("pofs" "verb")]
+         = [18,18,18,18,0,0,punct, ("SP" 1) ("NL" 1)]
+         = [19,19,19,19,0,0,punct, ("NOSP" 1)]
+         = [20,20,20,20,0,0,punct, ("NOSP" 1)]
+         Verb [21,24,21,24,0,0,alpha, ("NOSP" 1) ("cap" 1) ("pofs" "verb")]
+         = [25,25,25,25,0,0,punct, ("NOSP" 1)]
+         = [26,26,26,26,0,0,punct, ("NOSP" 1)]
+         = [27,27,27,27,0,0,punct, ("NOSP" 1)]
+      _LINE [31,37,31,37,12,18,node]
+         _pos [31,37,31,37,20,19,node]
+            en [31,32,31,32,0,0,alpha, ("NOSP" 1) ("lower" 1) ("lang" "English")]
+            - [33,33,33,33,0,0,punct, ("NOSP" 1)]
+            verb [34,37,34,37,0,0,alpha, ("NOSP" 1) ("lower" 1) ("pofs" "verb")]

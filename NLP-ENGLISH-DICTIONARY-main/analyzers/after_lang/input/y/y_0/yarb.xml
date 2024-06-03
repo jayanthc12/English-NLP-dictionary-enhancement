@@ -1,0 +1,32 @@
+<page>
+<title>yarb</title>
+<ns>0</ns>
+<id>5786321</id>
+<revision>
+<id>64460315</id>
+<parentid>58188035</parentid>
+<timestamp>2021-10-28T12:23:05Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="894" xml:space="preserve">{{also|þarb}}
+==English==
+===Pronunciation===
+* {{rhymes|en|ɑː(ɹ)b|s=1}}
+===Noun===
+{{en-noun}}
+# {{lb|en|UK|dialect|archaic}} [[herb]]
+#* '''1857''', Herman Melville, ''The Confidence-man: His Masquerade'' (page 165)
+#*: The medicine is nat'ral '''yarbs''', pure '''yarbs'''; '''yarbs''' must cure me.
+#* '''1906''', George Banghart Henry Swayze, ''Yarb and Cretine'' (page 60)
+#*: He was then generally known by the soubriquet of '''Yarb''', or '''Yarb''' Man, as he preferred to be hailed, for the reason that he always carried with him a collection of yarrow, tansy, snake root, squaw root, choice buds and barks {{...}}
+#* {{quote-book|en|year=1939|author=Flora Thompson|title=Lark Rise|passage=Yarrow, or milleflower, was an exception; everybody still gathered that in large quantities to make ''''yarb''' beer'.}}
+===Anagrams===
+* {{anagrams|en|a=abry|Bray|Raby|Ryba|bary-|bray}}</text>
+<sha1>0mg249bzu818qoodszteb1tzvw20jfy</sha1>
+</revision>
+</page>

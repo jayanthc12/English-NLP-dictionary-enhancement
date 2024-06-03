@@ -1,0 +1,28 @@
+<page>
+<title>yenilmek</title>
+<ns>0</ns>
+<id>1555189</id>
+<revision>
+<id>59347959</id>
+<parentid>59346689</parentid>
+<timestamp>2020-05-12T15:15:12Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contributions/Tr-conj-bot|Tr-conj-bot]]. If you think this rollback is in error, please leave a message on my [[User talk:Surjection|talk page]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Turkish==
+===Etymology===
+Passive form of {{m|tr|yenmek||to defeat}}.
+===Verb===
+{{head|tr|verb}}
+# to be [[defeated]]
+#: ''[[futbol]] [[maç]]ında yenildik'' - we were defeated on the football match
+====Conjugation====
+{{tr-conj|yenil|i|yenilir|i|d}}</text>
+<sha1>5uytdz84gxb389bi2oi5w46vvwo0vhh</sha1>
+</revision>
+</page>

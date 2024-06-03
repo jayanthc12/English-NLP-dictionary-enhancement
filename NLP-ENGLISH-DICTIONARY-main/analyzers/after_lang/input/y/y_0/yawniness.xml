@@ -1,0 +1,25 @@
+<page>
+<title>yawniness</title>
+<ns>0</ns>
+<id>3403613</id>
+<revision>
+<id>51905733</id>
+<parentid>26929976</parentid>
+<timestamp>2019-03-15T16:10:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="114" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yawny|ness}}
+===Noun===
+{{en-noun|-}}
+# The quality of being [[yawny]].</text>
+<sha1>kibopt2p9wqtdzbnyshz8wnprkj8ktn</sha1>
+</revision>
+</page>

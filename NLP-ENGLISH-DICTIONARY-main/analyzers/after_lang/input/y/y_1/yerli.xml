@@ -1,0 +1,43 @@
+<page>
+<title>yerli</title>
+<ns>0</ns>
+<id>2127593</id>
+<revision>
+<id>68798739</id>
+<parentid>67860732</parentid>
+<timestamp>2022-08-27T15:56:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="976" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{suffix|az|yer|li}}.
+===Adjective===
+{{head|az|adjective}}
+# [[local]] {{gl|from or in a nearby location}}
+#: {{uxi|az|'''yerli''' [[əhali]]|'''local''' population}}
+#: {{uxi|az|'''yerli''' [[mal|mallar]]|'''locally''' produced goods}}
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یرلو}}, from {{suffix|tr|yer|li}}.
+===Pronunciation===
+* {{IPA|tr|/jeɾ.li/}}
+===Noun===
+{{tr-noun|yi|ler}}
+# [[local]]
+# [[native]] (born or grown in the region in which it lives or is found; not foreign or imported)
+#* {{quote-journal|tr|date=November 26, 1934|journal=Hakkın Sesi|page=1|title=Tasarruf haftası|passage=Yalnız halkımızın şimdiden tasarruf ve '''yerli''' mallar haftasına hazırlanmalarıni ve daima '''yerli''' malı almanın bir yurt borcu ve sevgisi olduğunu hatırlamalarını dileriz.}}
+# [[indigenous]]
+====Declension====
+{{tr-infl-noun-v|i|pred=1}}
+====Descendants====
+* {{desc|rmy|arlija|Arlija|bor=1}}</text>
+<sha1>qr5zk5d0cnejr8llcn9rjqjxzv2tenn</sha1>
+</revision>
+</page>

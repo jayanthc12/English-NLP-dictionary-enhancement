@@ -1,0 +1,41 @@
+<page>
+<title>yantas</title>
+<ns>0</ns>
+<id>5055848</id>
+<revision>
+<id>68313497</id>
+<parentid>65199446</parentid>
+<timestamp>2022-07-18T13:17:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yantar]] with 'yantar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="525" xml:space="preserve">{{also|yantás}}
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yantar}}
+----
+==Tagalog==
+===Etymology 1===
+Borrowed from {{bor|tl|es|llantas||tyre rim}}.
+====Pronunciation====
+* {{IPA|tl|/jan.ˈtas/}}
+====Noun====
+{{tl-noun|yantás}}
+# [[metal]] [[rim]] of a [[wheel]] {{gloss|especially of a carromata or carriage}}
+===Etymology 2===
+====Adjective====
+{{tl-adj|yantás}}
+# very [[thin]] and [[dried]] up
+=====Derived terms=====
+* {{l|tl|yantasan}}
+=====Synonyms=====
+* {{l|tl|nangangalirang}}</text>
+<sha1>33lrlytbhz6daa9zu9jtsb3y0bwf3cn</sha1>
+</revision>
+</page>

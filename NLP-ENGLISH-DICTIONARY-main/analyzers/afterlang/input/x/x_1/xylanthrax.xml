@@ -1,0 +1,29 @@
+<page>
+<title>xylanthrax</title>
+<ns>0</ns>
+<id>3035763</id>
+<revision>
+<id>68803018</id>
+<parentid>67294387</parentid>
+<timestamp>2022-08-27T17:20:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="887" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|grc|ξυλάνθρακας}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|archaic}} [[wood|Wood]] [[coal]] or [[charcoal]], distinguished from [[mineral]] coal; [[lignite]].
+#* '''1821''', ''Journal of the Academy of Natural Sciences of Philadelphia: Volume 2'' (page 24)
+#*: This clay formation, entirely unconnected with that of the Mississippi, and the lower part of the Arkansa, is of a blueish-grey, abounding in pyrites and '''xylanthrax''', and is the active seat of those pseudo-volcanoes and their remains existing in the upper part of the Missouri territory.
+#* '''1863''', ''The journal of the British Archaeological Association: Volume 19'' (page 321)
+#*: There are two beads of much interest: a small cylindrical one of chrysoprase, and a large one turned out of a piece of '''xylanthrax''', similar to that met with at Bovy, Devonshire.</text>
+<sha1>lpl3mmrfab4aucvgjnsz6bctb9tec9h</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yeply</title>
+<ns>0</ns>
+<id>5662325</id>
+<revision>
+<id>50912754</id>
+<parentid>46843324</parentid>
+<timestamp>2018-11-27T20:46:02Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="456" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yaply}} {{qualifier|Scotland}}
+===Etymology===
+From {{inh|en|enm|ȝeply}}, {{m|enm|ȝapliche}}, {{m|enm|ȝepliche}}, from {{inh|en|ang|ġēaplīċe||cleverly; cunningly; deceitfully; boldly}}, equivalent to {{suffix|en|yep|ly}}.
+===Adverb===
+{{en-adv}}
+# {{lb|en|obsolete}} Promptly; quickly; [[at once]].
+====Related terms====
+* {{l|en|gap}}
+* {{l|en|gape}}
+===Anagrams===
+* {{anagrams|en|a=elpyy|yelpy}}</text>
+<sha1>9ejaly652zb0owrwm4sxkt1lxpcg03q</sha1>
+</revision>
+</page>

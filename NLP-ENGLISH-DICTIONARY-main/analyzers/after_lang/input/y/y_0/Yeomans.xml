@@ -1,0 +1,27 @@
+<page>
+<title>Yeomans</title>
+<ns>0</ns>
+<id>6151513</id>
+<revision>
+<id>67833926</id>
+<parentid>67710357</parentid>
+<timestamp>2022-07-09T21:58:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="143" xml:space="preserve">==English==
+{{wp}}
+===Proper noun===
+{{en-prop}}
+# {{surname|en}}.
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yeoman}}</text>
+<sha1>54k3nmhs5e2p7qseikxu3akhu4krph9</sha1>
+</revision>
+</page>

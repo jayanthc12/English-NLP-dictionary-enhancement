@@ -1,0 +1,38 @@
+<page>
+<title>xuclar</title>
+<ns>0</ns>
+<id>761305</id>
+<revision>
+<id>65113274</id>
+<parentid>63262663</parentid>
+<timestamp>2021-12-31T18:48:11Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Derived terms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="571" xml:space="preserve">==Catalan==
+===Etymology===
+Probably from a {{inh|ca|VL.||*sūctulāre}}&lt;ref&gt;{{R:GDLC}}&lt;/ref&gt;, from {{inh|ca|la|suctus}}, from {{m|la|sūgō}}. Alternatively, of onomatopoetic origin. Compare {{cog|es|chupar}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Verb===
+{{ca-verb}}
+# to [[suck]]
+# to [[suck down]], to [[swallow]]
+# {{lb|ca|Internet slang}} to [[download]]
+====Conjugation====
+{{ca-conj-ar|xucl}}
+====Derived terms====
+{{der3|ca|xucla|xucladit|xuclador|xuclamel|xuclat}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>lxpvu1jc0s26cchktcfttzyy8s1y2ud</sha1>
+</revision>
+</page>

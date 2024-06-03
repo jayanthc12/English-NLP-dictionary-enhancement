@@ -1,0 +1,27 @@
+<page>
+<title>xenoscience</title>
+<ns>0</ns>
+<id>6285258</id>
+<revision>
+<id>64094181</id>
+<parentid>61882950</parentid>
+<timestamp>2021-10-03T06:50:54Z</timestamp>
+<contributor>
+<username>Twinsday</username>
+<id>310335</id>
+</contributor>
+<comment>/* Pronunciation */add/fix IPA</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="282" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|science}}
+===Pronunciation===
+* {{IPA|en|/ˌzɛn.əˈsaɪ.əns/|/ˌziː.nəˈsaɪ.əns/}}
+* {{hyphenation|en|xe|no|sci|ence}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|science fiction|rare}} The [[science]] of [[extraterrestrial]] [[life]].</text>
+<sha1>gea5qe6i5rdqhr95em2n0o6ru7rxd51</sha1>
+</revision>
+</page>

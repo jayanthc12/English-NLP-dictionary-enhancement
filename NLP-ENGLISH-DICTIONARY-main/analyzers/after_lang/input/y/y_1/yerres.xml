@@ -1,0 +1,24 @@
+<page>
+<title>yerres</title>
+<ns>0</ns>
+<id>993515</id>
+<revision>
+<id>68078667</id>
+<parentid>46243940</parentid>
+<timestamp>2022-07-18T03:18:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[errar]] with 'errar&lt;ye[Spain],+[Latin America]&gt;'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="118" xml:space="preserve">{{also|Yerres}}
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|errar&lt;ye[Spain],+[Latin America]&gt;}}</text>
+<sha1>e6clyfezvx8kd7la1l4ez9k88zo0b6u</sha1>
+</revision>
+</page>

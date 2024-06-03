@@ -1,0 +1,56 @@
+<page>
+<title>xylograph</title>
+<ns>0</ns>
+<id>43913</id>
+<revision>
+<id>67249793</id>
+<parentid>61638999</parentid>
+<timestamp>2022-06-05T06:20:40Z</timestamp>
+<contributor>
+<ip>77.85.35.187</ip>
+</contributor>
+<comment>t+bg:[[гравирам на дърво]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3216" xml:space="preserve">==English==
+{{was wotd|2009|April|4}}
+[[Image:Formschneider.jpg|thumb|A 16th century '''xylograph''' (print) depicting the making of a '''xylograph''' (engraving).]]
+===Etymology===
+{{back-form|en|xylography}}, corresponding to {{affix|en|xylo-|t1=wood|-graph|nocat=1}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzaɪ.ləʊ.ɡɹɑːf/|/ˈzaɪ.lə.ɡɹɑːf/}}
+* {{a|US}} {{IPA|en|/ˈzaɪ.loʊ.ɡɹɑːf/|/ˈzaɪ.lə.ɡɹɑːf/}}
+* {{audio|en|en-us-xylograph.ogg|Audio (US)}}
+===Noun===
+{{en-noun|s|xylographica}}
+# An [[engraving]] in wood or [[woodcut]], especially one used in [[printing]] predating the [[Western]] tradition ({{C.|14}}).
+#: {{syn|en|woodcut}}
+#* '''2009''', Kurtis R. Schaeffer, ''The Culture of the Book in Tibet'', Columbia University Press ({{ISBN|9780231519182}})
+#*: First he collected a number of witnesses, including many old prints of the Guhyasamāja Tantra itself and old '''xylograph''' prints of the Pradipodyotana from  the monasteries of Drepung, Tashilhunpo, Riwo Dangchen, and Nartang.
+# A [[print]] taken from such an [[engraving]].
+#* {{quote-book|en|year=1967 |title=Printing, Selling and Reading, 1450-1550 |author=Rudolf Hirsch |page=10 |ISBN=|passage=The apparent success of this mass-produced merchandise, whether caused by piety, or fear, or simply by the desire to own pretty pictures, was apparently great and these '''xylographica''' had a considerably wider market than manuscripts.}}
+#* '''2011''', Udo J. Hebel, Christoph Wagner, ''Pictorial Cultures and Political Iconographies: Approaches, Perspectives, Case Studies from Europe and America'', Walter de Gruyter ({{ISBN|9783110237863}}), page 143:
+#*: While Walter Gropius had had a reproduction of a '''xylograph''' from Lyonel Feininger reproduced on the Bauhaus movement's founding manifesto in 1919 – a symbolic image of a gothic cathedral that was comparatively traditional in both form {{...}}
+#* {{quote-book|en|year=2011  |title=The Printed Book |author=Harry G. Aldis, John Carter, E. A. Crutchley |page=2 |ISBN=|passage=These block-books, or '''xylographica''', of which upwards of a hundred issues and editions, comprising some thirty separate works, have been recorded, were produced chiefly in the Netherlands and Germany.}}
+#* '''2014''', Sang-jin Park, ''Under the Microscope: The Secrets of the Tripitaka Koreana Woodblocks'', Cambridge Scholars Publishing ({{ISBN|9781443867320}}), page 1:
+#*: The restoration process brought to light a sarira box containing an artifact that rewrote that history: the oldest '''xylograph''' in the world, reproduced in ink from woodblocks with characters carved in relief, was found inside the box from the second {{...}}
+====Translations====
+{{trans-see|engraving in wood|woodcut}}
+{{trans-see|print taken from an engraving in wood|woodcut}}
+===Verb===
+{{en-verb}}
+# {{lb|en|transitive}} To make a [[print]] from an [[engraving]] in [[wood]].
+====Translations====
+{{trans-top|to make a print from an engraving in wood}}
+* Bulgarian: {{t|bg|гравирам на дърво}}
+* Finnish: {{t+|fi|vedostaa}}
+{{trans-mid}}
+{{trans-bottom}}
+====Related terms====
+* {{l|en|xylographer}}
+* {{l|en|xylographic}}
+* {{l|en|xylographical}}
+* {{l|en|xylography}}</text>
+<sha1>6050lt58vfj87p7mej6c5wnq8h4aeqd</sha1>
+</revision>
+</page>

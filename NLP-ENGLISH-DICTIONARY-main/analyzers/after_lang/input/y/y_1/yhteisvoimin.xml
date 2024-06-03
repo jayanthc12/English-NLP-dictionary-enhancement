@@ -1,0 +1,27 @@
+<page>
+<title>yhteisvoimin</title>
+<ns>0</ns>
+<id>7211932</id>
+<revision>
+<id>59682865</id>
+<parentid>58593469</parentid>
+<timestamp>2020-07-04T23:55:57Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add etymology based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="227" xml:space="preserve">==Finnish==
+===Etymology===
+{{com|fi|yhteinen|alt1=yhteis-|voima|alt2=voimin}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-voimin}}
+===Adverb===
+{{fi-adv}}
+# [[together]], in [[cooperation]], with [[combine]]d [[effort]]s</text>
+<sha1>ev09bucon46gqmnc8e6bzq3sas25eh8</sha1>
+</revision>
+</page>

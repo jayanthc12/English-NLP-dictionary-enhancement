@@ -1,0 +1,53 @@
+<page>
+<title>yiddish</title>
+<ns>0</ns>
+<id>176689</id>
+<revision>
+<id>67339629</id>
+<parentid>67267402</parentid>
+<timestamp>2022-06-11T07:58:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: clean up/add pronuns, clean up etyms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="671" xml:space="preserve">{{also|Yiddish|yíddish}}
+==French==
+{{wikipedia|lang=fr}}
+[[Image:Yiddish.png|thumb|yiddish]]
+===Etymology===
+{{bor+|fr|yi|ייִדיש}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-yiddish.wav|Audio}}
+===Adjective===
+{{fr-adj|mf}}
+# {{lb|fr|relational}} [[Yiddish]]
+===Noun===
+{{fr-noun|m|-}}
+# [[Yiddish]] (language)
+===Further reading===
+* {{R:TLFi}}
+{{C|fr|Languages}}
+----
+==Italian==
+===Etymology===
+From {{uder|it|yi|ייִדיש}}.
+===Adjective===
+{{it-adj|inv=1}}
+# [[Yiddish]]
+===Noun===
+{{it-noun|m|-}}
+# [[Yiddish]]
+{{C|it|Languages}}
+----
+==Spanish==
+===Noun===
+{{es-noun|m|-}}
+# {{alternative form of|es|yidis}}</text>
+<sha1>pspy8sux7587o31ql3uosdyba0raui9</sha1>
+</revision>
+</page>

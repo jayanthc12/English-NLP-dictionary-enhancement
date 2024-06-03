@@ -1,0 +1,33 @@
+<page>
+<title>Yiannopoulos</title>
+<ns>0</ns>
+<id>5946187</id>
+<revision>
+<id>67793672</id>
+<parentid>67760371</parentid>
+<timestamp>2022-07-09T19:32:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="381" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|el|Γιαννόπουλος}}.
+===Pronunciation===
+* {{audio|en|Yiannopoulos US.ogg|Audio (US)}}
+* {{a|UK}} {{IPA|en|/jaˈnɒpʊlɒs/}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en|from=Greek}}.
+====Translations====
+{{trans-top|Greek surname}}
+* Greek: {{t+|el|Γιαννόπουλος}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>mmjtrm392k11x0lbedfh2de7etdtoly</sha1>
+</revision>
+</page>

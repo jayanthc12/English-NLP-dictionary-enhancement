@@ -1,0 +1,53 @@
+<page>
+<title>Xanten</title>
+<ns>0</ns>
+<id>917721</id>
+<revision>
+<id>69541794</id>
+<parentid>69533625</parentid>
+<timestamp>2022-10-18T15:11:49Z</timestamp>
+<contributor>
+<ip>93.221.53.22</ip>
+</contributor>
+<comment>/* German */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1948" xml:space="preserve">{{also|xanten}}
+==English==
+{{wikipedia}}
+{{commons}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|s/North Rhine-Westphalia|c/Germany}}.
+===Anagrams===
+* {{anagrams|en|a=aenntx|annext}}
+----
+==Dutch==
+===Etymology===
+Borrowed from {{bor|nl|de|Xanten}}, from {{der|nl|la|sanctōs}}.
+===Pronunciation===
+* {{IPA|nl|/ˈksɑn.tə(n)/}}
+* {{hyphenation|nl|Xan|ten}}
+* {{rhymes|nl|ɑntən}}
+===Proper noun===
+{{nl-proper noun|n}}
+# {{l|en|Xanten}}, a city in [[North Rhine-Westphalia]], [[Germany]], near the [[Rhine]]
+#: {{syn|nl|Santen}}
+----
+==German==
+{{wikipedia|lang=de}}
+===Alternative forms===
+* {{alt|de|Santen||obsolete}}
+===Etymology===
+From {{inh|de|gmh|Santen|Sante(n)}}, from {{der|de|la|Sanctos|lit=(at) the saints}}. The spelling with initial ''X-'' first appears in Latin texts of the 10th century. One theory links it with {{der|de|grc|Ξάνθος}}, the gods’ name for the {{w|Karamenderes River|Scamander}} river near [[Troy]] according to the {{w|Iliad}}. This theory is based on the fact that there was indeed a well-attested mediaeval legend equating Xanten with Troy. The inherited local pronunciation is {{m|de||Santen}} /ˈsan.tən/, but it has now been widely displaced by the {{spelling pronunciation|de|nocap=1}}. {{m|de||Xanten}} is the only German locality in ''X-'' (though there are a few Bavarian ones in ''Gs-'', also pronounced with {{IPAchar|/ks/}}).
+===Pronunciation===
+* {{IPA|de|/ˈksan.tən/}}
+* {{audio|de|De-Xanten.ogg|Audio}}
+===Proper noun===
+{{de-proper noun|toponym}}
+# {{place|de|town|r/{{w|Lower Rhine region|Lower Rhine}}|s/North Rhine-Westphalia|c/Germany|t=Xanten}}
+===References===
+* Hawicks, Heike: ''Sanctos–Xantum–Troia – Zum Einfluss ottonisch-byzantinischer Beziehungen auf die Toponymie im Xantener Raum'', in: Ludwig, Uwe &amp; Schilp, Thomas (editors): Mittelalter an Rhein und Maas – Beiträge zur Geschichte des Niederrheins, Waxmann Verlag, 2004, p. 27-41.</text>
+<sha1>j8dwxzjqkvzx1q5rkhuahiix0oj3wtj</sha1>
+</revision>
+</page>

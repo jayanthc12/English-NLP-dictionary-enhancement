@@ -1,0 +1,23 @@
+<page>
+<title>yanggona</title>
+<ns>0</ns>
+<id>1213883</id>
+<revision>
+<id>55228305</id>
+<parentid>27797503</parentid>
+<timestamp>2019-10-14T04:58:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yagona}}</text>
+<sha1>bsvxzt4ct6iz1obdzbqw012o9tfackp</sha1>
+</revision>
+</page>

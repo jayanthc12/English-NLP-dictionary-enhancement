@@ -1,0 +1,42 @@
+<page>
+<title>yavru</title>
+<ns>0</ns>
+<id>1246874</id>
+<revision>
+<id>65166331</id>
+<parentid>64757674</parentid>
+<timestamp>2022-01-03T20:48:22Z</timestamp>
+<contributor>
+<username>BurakD53</username>
+<id>3749209</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1106" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاورو|tr=yavru}}, {{der|tr|trk-pro|*yabrï}}.&lt;ref&gt;{{R:tut-pro:SDM|*jabrɨ|url=https://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+947&amp;root=config}}&lt;/ref&gt; Cognate with {{cog|cv|ҫӑвӑр}}.
+===Pronunciation===
+* {{IPA|tr|[javˈɾu]}}
+* {{hyphenation|tr|yav|ru}}
+===Noun===
+{{tr-noun|yu|lar}}
+# [[baby]] {{gloss|young animal}}
+#: ''Kedimiz Mırnav, o sene dört '''yavru''' yavrulamıştı.''
+#:: ''Our cat Mırnav gave birth to four kittens that year.'' {{gloss|Here, the baby animals are kittens.}}
+# {{lb|tr|figurative}} A child
+#: ''Hiç bir anne '''yavrusunu''' ateşe atar mı?''
+#:: ''Would a mother ever throw her '''child''' to the fire?''
+# {{lb|tr|figurative}} [[baby]] {{gloss|used to refer to an attractive person, most often female}}
+#: ''Gel buraya güzelim, yavruların '''yavrusu'''!''
+#:: ''Come here my beauty, [sexy] '''baby'''!''
+====Declension====
+{{tr-infl-noun-v|u|poss=1|pred=1}}
+====Derived terms====
+* {{l|tr|yavrulama}}
+* {{l|tr|yavrulamak}}
+===References===
+&lt;references/&gt;</text>
+<sha1>6lztlxflr7lqq6urw0i6qm3mqr3g2cz</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>ydinjatke</title>
+<ns>0</ns>
+<id>1518100</id>
+<revision>
+<id>69318160</id>
+<parentid>52005515</parentid>
+<timestamp>2022-09-18T17:03:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="277" xml:space="preserve">==Finnish==
+{{wikipedia|lang=fi}}
+===Etymology===
+{{compound|fi|ydin|jatke}}
+===Pronunciation===
+{{fi-p|ydin-jatke*}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|anatomy}} [[medulla oblongata]] {{gloss|lower portion of the brainstem}}
+====Declension====
+{{fi-decl-hame|ydinjatk|||a}}</text>
+<sha1>654ldlm40gv2edmhlwuo1vp9uga5ajn</sha1>
+</revision>
+</page>

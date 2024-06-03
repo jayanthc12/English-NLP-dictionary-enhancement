@@ -1,0 +1,30 @@
+<page>
+<title>Yiddishland</title>
+<ns>0</ns>
+<id>4099141</id>
+<revision>
+<id>65046520</id>
+<parentid>65046519</parentid>
+<timestamp>2021-12-26T11:46:39Z</timestamp>
+<contributor>
+<username>Naramaru</username>
+<id>3861848</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="457" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yiddish|land}}
+===Proper noun===
+{{en-prop}}
+# A region where [[Yiddish]] is spoken; the areas of [[Eastern Europe]] or the [[Jewish Autonomous Oblast]] that had significant numbers of [[Jewish]] inhabitants.
+====Translations====
+{{trans-top|area where Yiddish was spoken}}
+* French: {{t+|fr|Yiddishland|m}}
+* Polish: {{t|pl|Jidyszland}}
+{{trans-mid}}
+* Yiddish: {{t|yi|ייִדישלאַנד|n}}
+{{trans-bottom}}</text>
+<sha1>m8594snsrtaz18at65g2okhtupi2898</sha1>
+</revision>
+</page>

@@ -1,0 +1,112 @@
+<page>
+<title>Yangzi</title>
+<ns>0</ns>
+<id>2667891</id>
+<revision>
+<id>69002121</id>
+<parentid>67950485</parentid>
+<timestamp>2022-09-01T19:04:36Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>1982 book; ====References==== &lt;references/&gt;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4531" xml:space="preserve">{{also|yàngzi}}
+==English==
+{{wikipedia|Yangzi (disambiguation)}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+The [[atonal]] {{bor|en|cmn-pinyin|-}}&lt;ref&gt;{{cite-book
+|en
+|year=1982
+|chapter=Selected Glossary
+|title=The Cambridge Encyclopedia of China
+|url=https://archive.org/details/cambridgeencyclo00hook/
+|publisher={{w|Cambridge University Press}}
+|ISBN=0521230993
+|lccn=79-42627
+|oclc=781411242
+|pages=476, 487
+|pageurl=https://archive.org/details/cambridgeencyclo00hook/page/487/
+|text=The glossary includes a selection of names and terms from the text in the Wade-Giles transliteration, followed by Pinyin,{{...}}Yang-tzu river (Yangzi) {{lang|zh|揚子}}}}&lt;/ref&gt; romanization of the {{bor|en|cmn|-}} pronunciation of {{zh-l|揚子}}.
+====Proper noun====
+{{en-proper noun}}
+# {{lb|en|uncommon}} {{alternative spelling of|en|Yangtze}}
+#* {{quote-book
+|en
+|year=1975
+|last=Goldwasser
+|first=Janet
+|author2=Stuart Dowty
+|title=Huan-Ying: Worker's China
+|url=https://archive.org/details/jewelofkingdomge0000wong/
+|publisher={{w|Monthly Review Press}}
+|ISBN=0-85345-337-7
+|LCCN=74-7790
+|OCLC=471721488
+|page=252
+|pageurl=https://archive.org/details/huanyingworkersc0000gold/page/252/
+|text=The only armed guards we saw in China were army and militia sentries on duty at public buildings or other important structures, such as the bridge across the '''Yangzi''' River at Wuhan.}}
+#* {{quote-book
+|en
+|year=2008
+|title=China
+|series={{w|Eyewitness Travel Guides}}
+|url=https://archive.org/details/china0000unse_k4p8/
+|publisher={{w|Dorling Kindersley}}
+|ISBN=978-1-4053-2090-0
+|OCLC=438732339
+|page=23
+|pageurl=https://archive.org/details/china0000unse_k4p8/page/23/
+|text=Intensively cultivated and denuded of natural vegetation, the huge lowland flood-plains of major rivers, notably the Yellow and '''Yangzi''', are a seemingly endless patchwork of fields.}}
+#* {{quote-book
+|en
+|year=2008
+|author={{w|Adeline Yen Mah}}
+|title=China: Land of Dragons and Emperors
+|url=https://archive.org/details/chinalandofdrago0000maha/
+|publisher={{w|Allen &amp; Unwin}}
+|ISBN=978-1-74175-467-4
+|OCLC=426122042
+|OL=32085311M
+|page=70
+|pageurl=https://archive.org/details/chinalandofdrago0000maha/page/70/
+|text=Finally, he built the 2000-kilometre (1200-mile) Grand Canal which linked the '''Yangzi''' River in the south to the Yellow River in the north.}}
+=====Alternative forms=====
+* {{l|en|Yanzi}} {{q|misspelling}}
+====References====
+&lt;references/&gt;
+===Etymology 2===
+[[File:Txu-pclmaps-oclc-22834566_h-11b.jpg|thumb|Map including Yang-tzu ('''Yangzi''') ({{w|Defense Mapping Agency|DMA}}, 1985)]]
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|洋梓}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|town|county-level city/Zhongxiang|prefecture-level city/Jingmen|p/Hubei|c/China}}.
+#* {{quote-web
+|en
+|date=December 17, 2001
+|title=Brief report on the financial loss of the church in Hubei
+|url=https://www.cecc.gov/sites/chinacommission.house.gov/files/documents/roundtables/2002/CECC%20Roundtable%20Testimony%20-%20Brief%20report%20on%20the%20financial%20loss%20of%20the%20church%20in%20Hubei%20-%203.25.02.pdf
+|url2=https://commons.wikimedia.org/wiki/File:CECC_Roundtable_Testimony_-_Brief_report_on_the_financial_loss_of_the_church_in_Hubei_-_3.25.02.pdf
+|work={{w|Congressional-Executive Commission on China}}
+|archiveurl=https://web.archive.org/web/20140923010722/https://www.cecc.gov/sites/chinacommission.house.gov/files/documents/roundtables/2002/CECC%20Roundtable%20Testimony%20-%20Brief%20report%20on%20the%20financial%20loss%20of%20the%20church%20in%20Hubei%20-%203.25.02.pdf
+|archivedate=September 23, 2014
+|passage=Liu Cuilan at Bailing Village&lt;!--白陵村--&gt; of '''Yangzi''' Town in Zhongxiang city has a large house of 140 meters² (about 1506 ft².) for the [Christians] gatherings, which was torn down by the policemen from Yingzhong police station in August 2001.}}
+# {{place|en|residential community|town/Yangzi|county-level city/Zhongxiang|prefecture-level city/Jingmen|p/Hubei|c/China}}.
+# {{place|en|village|town/Yangzi|county-level city/Zhongxiang|prefecture-level city/Jingmen|p/Hubei|c/China}}.
+=====Translations=====
+{{trans-top|a town in central China; a residential community in central China; a village in central China}}
+* Chinese:
+*: Mandarin: {{t|cmn|洋梓|tr=Yángzǐ}}
+{{trans-mid}}
+{{trans-bottom}}
+====Alternative forms====
+* {{l|en|Yang-tzu}}, {{l|en|Yang-tzŭ}} {{q|obs.}}
+===Anagrams===
+* {{anagrams|en|a=aginyz|Ziyang}}</text>
+<sha1>1ciu47r23ul1fy61fhsxkv92eqtcrux</sha1>
+</revision>
+</page>

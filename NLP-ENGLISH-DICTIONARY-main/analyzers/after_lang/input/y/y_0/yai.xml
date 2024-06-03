@@ -1,0 +1,55 @@
+<page>
+<title>yai</title>
+<ns>0</ns>
+<id>537045</id>
+<revision>
+<id>68664859</id>
+<parentid>67521745</parentid>
+<timestamp>2022-08-18T13:57:37Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="806" xml:space="preserve">{{also|yái|yái̱|þai|ya'i}}
+==Chuave==
+===Noun===
+{{head|cjv|noun}}
+# [[man]]
+===References===
+* ''Orthography and Phonology Database: Highlands and Papuan Regions'' (SIL, 1999), page 10 (Chuave wordlist)
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|yái}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Swahili==
+===Etymology===
+From {{inh|sw|bnt-pro|*ìgɪ́}}.
+===Pronunciation===
+* {{audio|sw|Sw-ke-yai.flac|Audio (Kenya)}}
+===Noun===
+{{sw-noun|ma}}
+# [[egg]]
+====Derived terms====
+* {{l|sw|chipsi mayai}}
+{{C|sw|Eggs}}
+----
+==Ternate==
+===Pronunciation===
+* {{IPA|tft|[ˈja.i]}}
+===Verb===
+{{tft-verb}}
+# to [[put]] a [[child]] on one's [[lap]]
+====Conjugation====
+{{tft-conj}}
+===References===
+* {{R:tft:Hayami-Allen:2001}}</text>
+<sha1>cvv2lbge5vn61xug9n54wu9xmmeegfl</sha1>
+</revision>
+</page>

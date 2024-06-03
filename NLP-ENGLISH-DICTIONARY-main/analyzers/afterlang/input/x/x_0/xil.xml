@@ -1,0 +1,43 @@
+<page>
+<title>xil</title>
+<ns>0</ns>
+<id>3474121</id>
+<revision>
+<id>68807261</id>
+<parentid>58829229</parentid>
+<timestamp>2022-08-27T18:35:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="460" xml:space="preserve">{{also|x̱il}}
+==Huave==
+===Noun===
+{{head|huv|noun}}
+# {{vern|tropical mockingbird}} ({{taxlink|Mimus gilvus|species}})
+===References===
+* {{R:Stairs et al. 1981|page=182}}
+{{c|huv|Mimids}}
+----
+==Volapük==
+===Etymology===
+From {{der|vo|fr|exil}}.
+===Noun===
+{{vo-noun}}
+# [[exile]]
+====Declension====
+{{vo-decl-noun}}
+====Derived terms====
+* {{l|vo|xiläb}}
+* {{l|vo|xiled}}
+* {{l|vo|xilön}}
+* {{l|vo|xilöp}}
+* {{l|vo|xilül}}
+* {{l|vo|xilüp}}</text>
+<sha1>j2lphg6ba159d2i39uojmr6o8ujz4bm</sha1>
+</revision>
+</page>

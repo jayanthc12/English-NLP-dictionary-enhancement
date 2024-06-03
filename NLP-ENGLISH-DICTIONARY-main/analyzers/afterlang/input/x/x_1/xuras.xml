@@ -1,0 +1,23 @@
+<page>
+<title>xuras</title>
+<ns>0</ns>
+<id>4330207</id>
+<revision>
+<id>53115718</id>
+<parentid>25728439</parentid>
+<timestamp>2019-05-19T04:57:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'second-person singular present subjunctive' to 2|s|pres|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xurar||2|s|pres|sub}}</text>
+<sha1>7id2g6mpfju56znfiushiju5rkx7r4z</sha1>
+</revision>
+</page>

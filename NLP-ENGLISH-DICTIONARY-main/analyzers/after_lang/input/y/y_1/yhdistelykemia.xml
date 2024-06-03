@@ -1,0 +1,28 @@
+<page>
+<title>yhdistelykemia</title>
+<ns>0</ns>
+<id>1512459</id>
+<revision>
+<id>69318377</id>
+<parentid>52005340</parentid>
+<timestamp>2022-09-18T17:15:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhdistely|kemia}}
+===Pronunciation===
+{{fi-p|yhdistely-kemia}}
+===Noun===
+{{fi-noun}}
+# [[combinatorial chemistry]]
+====Declension====
+{{fi-decl-kulkija|yhdistelykemi|a}}</text>
+<sha1>12zpos3v3a7hxb98vgvxrv2dt00h8bk</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>yhdensuuntainen</title>
+<ns>0</ns>
+<id>613618</id>
+<revision>
+<id>69318359</id>
+<parentid>59682835</parentid>
+<timestamp>2022-09-18T17:14:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="629" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yksi|alt1=yhden|suunta|-inen}}
+===Pronunciation===
+{{fi-p|yhden-suuntainen}}
+===Adjective===
+{{fi-adj|yhdensuuntais|empi|in}}
+# [[parallel]]
+# [[one-way]] {{gloss|of a ticket}}
+#: {{ux|fi|'''Yhdensuuntainen''' matkalippu Tampereelle maksaa 30 €.|A '''one-way''' ticket to Tampere costs € 30.}}
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdensuuntai|a}}
+====Synonyms====
+* {{sense|parallel}} {{l|fi|samansuuntainen}}
+* {{sense|one-way}} {{l|fi|yksisuuntainen}}
+====Derived terms====
+* {{l|fi|yhdensuuntaisesti}}
+* {{l|fi|yhdensuuntaisuus}}
+====See also====
+* {{l|fi|menolippu}}</text>
+<sha1>dr7z0zkfpewc1p80xv1krk44658zrwq</sha1>
+</revision>
+</page>

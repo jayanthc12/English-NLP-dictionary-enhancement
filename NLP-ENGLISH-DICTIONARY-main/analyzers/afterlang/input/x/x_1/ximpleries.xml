@@ -1,0 +1,23 @@
+<page>
+<title>ximpleries</title>
+<ns>0</ns>
+<id>4697873</id>
+<revision>
+<id>55706162</id>
+<parentid>44180051</parentid>
+<timestamp>2019-10-15T13:08:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|ximpleria}}</text>
+<sha1>af4lf0auqynja0b51yddasx00jm0ndc</sha1>
+</revision>
+</page>

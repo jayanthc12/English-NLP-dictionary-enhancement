@@ -1,0 +1,29 @@
+<page>
+<title>Yati</title>
+<ns>0</ns>
+<id>6760963</id>
+<revision>
+<id>58394722</id>
+<parentid>55533434</parentid>
+<timestamp>2020-01-13T05:42:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize barangay place spec into {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="261" xml:space="preserve">{{also|yati}}
+==Cebuano==
+===Etymology===
+Ultimately from {{m|ceb|yati}}.
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{place|ceb|barangay|mun/Liloan|p/Cebu|c/Philippines}}
+===Quotations===
+{{seeCites|ceb}}
+{{C|ceb|Barangays of Liloan, Cebu, Philippines}}</text>
+<sha1>lf9h7tc0lxrgntvai3al5r21qh58b3o</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xochimilli</title>
+<ns>0</ns>
+<id>6932887</id>
+<revision>
+<id>68863589</id>
+<parentid>50580602</parentid>
+<timestamp>2022-08-28T05:22:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==Eastern Huasteca Nahuatl==
+===Etymology===
+From {{compound|nhe|xochitl|milli}}. Cognate to {{cog|nci|xōchimīlli}}.
+===Noun===
+{{head|nhe|noun}}
+# [[garden]]</text>
+<sha1>qd46mcumqcv4yumdwhazbcworrcxojx</sha1>
+</revision>
+</page>

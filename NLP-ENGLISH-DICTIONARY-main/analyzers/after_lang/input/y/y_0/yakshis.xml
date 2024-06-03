@@ -1,0 +1,23 @@
+<page>
+<title>yakshis</title>
+<ns>0</ns>
+<id>6230591</id>
+<revision>
+<id>56171179</id>
+<parentid>53092636</parentid>
+<timestamp>2019-10-17T06:54:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yakshi}}</text>
+<sha1>co8edj8wvvho8i49ryzyp6beqqg3szn</sha1>
+</revision>
+</page>

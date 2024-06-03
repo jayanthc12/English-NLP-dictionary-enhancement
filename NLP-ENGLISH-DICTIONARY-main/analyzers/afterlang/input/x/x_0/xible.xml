@@ -1,0 +1,24 @@
+<page>
+<title>xible</title>
+<ns>0</ns>
+<id>4330326</id>
+<revision>
+<id>53115776</id>
+<parentid>34850808</parentid>
+<timestamp>2019-05-19T04:58:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'first-person singular present subjunctive' to 1|s|pres|sub; canonicalized multiword inflection tag 'third-person singular present subjunctive' to 3|s|pres|sub; combined tag sets 1|s|pres|sub and 3|s|pres|sub into 1//3|s|pres|sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">{{also|xiblé}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xiblar||1//3|s|pres|sub}}</text>
+<sha1>e3ofqnd5a1k4blb9q023fojp55loxew</sha1>
+</revision>
+</page>

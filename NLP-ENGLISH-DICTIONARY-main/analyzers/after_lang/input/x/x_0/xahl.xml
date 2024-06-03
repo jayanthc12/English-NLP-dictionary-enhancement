@@ -1,0 +1,30 @@
+<page>
+<title>xahl</title>
+<ns>0</ns>
+<id>5552026</id>
+<revision>
+<id>54530356</id>
+<parentid>46682415</parentid>
+<timestamp>2019-10-01T15:34:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Iraqw==
+{{was fwotd|irk|2016|October|13}}
+===Pronunciation===
+* {{IPA|irk|/xáhl/}}
+===Noun===
+{{head|irk|noun|head=xáhl}}
+# the [[sound]] of [[silence]]
+====Derived terms====
+* {{l|irk|xahliit||to stay quiet}}
+===References===
+* '''2007''', Marten Mous, ''A Sketch of Iraqw Grammar''</text>
+<sha1>6l865s7mgrlwpc2pzu71mmaatx71pge</sha1>
+</revision>
+</page>

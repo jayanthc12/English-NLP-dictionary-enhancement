@@ -1,0 +1,41 @@
+<page>
+<title>yhdysvaltalainen</title>
+<ns>0</ns>
+<id>604455</id>
+<revision>
+<id>69318401</id>
+<parentid>60301830</parentid>
+<timestamp>2022-09-18T17:16:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="755" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|Yhdysvallat|lainen|id2=demonym}}
+===Pronunciation===
+{{fi-p|yhdys-valtalainen}}
+===Adjective===
+{{fi-adj|yhdysvaltalais|empi|in}}
+# [[American]] (more specifically [[U.S. American]]) {{gloss|of or pertaining to the United States of America, or U.S. culture}}.
+# Of [[United States]] [[origin]].
+====Declension====
+{{fi-decl-nainen|pos=adj|yhdysvaltalai|a}}
+====Synonyms====
+* {{l|fi|amerikkalainen}}
+* {{l|fi|jenkki}}-
+===Noun===
+{{head|fi|noun}}
+# An [[American#Noun|American]] {{gloss|person born in, or a citizen of, the United States of America}}.
+# A person from the [[United States]].
+====Declension====
+{{fi-decl-nainen|yhdysvaltalai|a}}
+====Synonyms====
+* {{l|fi|amerikkalainen}}
+* {{l|fi|jenkki}}</text>
+<sha1>5ieghop94ldsk2zxtx64mfqe1r9gh3y</sha1>
+</revision>
+</page>

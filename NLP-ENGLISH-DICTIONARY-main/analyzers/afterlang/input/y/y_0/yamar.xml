@@ -1,0 +1,33 @@
+<page>
+<title>yamar</title>
+<ns>0</ns>
+<id>2946931</id>
+<revision>
+<id>62073836</id>
+<parentid>59232904</parentid>
+<timestamp>2021-03-13T21:08:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-verb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="448" xml:space="preserve">==Cebuano==
+===Etymology===
+From {{bor|ceb|es|llamar}}, from {{der|ceb|osp|lamar}}, from {{der|ceb|la|clāmāre}}, present active infinitive of {{m|la|clamō||cry out}}, from {{der|ceb|ine-pro|*kelh₁-||to shout}}.
+===Pronunciation===
+* {{hyphenation|ceb|ya|mar}}
+===Verb===
+{{head|ceb|verb}}
+# to [[call]], to [[summon]]
+# to [[make]] [[excessive]] [[demand|demands]]
+----
+==Ladino==
+===Verb===
+{{lad-verb|heb=ייאמאר}}
+# to [[call]]</text>
+<sha1>3u6x8xt713mfbh7a9fgltx3uvc6xdn9</sha1>
+</revision>
+</page>

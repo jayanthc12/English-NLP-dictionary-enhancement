@@ -1,0 +1,30 @@
+<page>
+<title>xanthosis</title>
+<ns>0</ns>
+<id>99550</id>
+<revision>
+<id>68868323</id>
+<parentid>67526250</parentid>
+<timestamp>2022-08-28T05:55:28Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="424" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xanth|osis}}.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/zænˈθoʊsɪs/|/zænˈθoʊsəs/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-xanthosis.wav|Audio (UK)}}
+===Noun===
+{{en-noun|~|xanthoses}}
+# {{lb|en|pathology}} A [[yellow]]ish [[discolouration]] of [[tissue]]s undergoing [[degeneration]].
+# {{lb|en|alchemy}} {{synonym of|en|citrinitas}}
+===See also===
+* {{l|en|flavedo}}</text>
+<sha1>0l06nhvf3dr82y4ov9d5h1ei4e2myxy</sha1>
+</revision>
+</page>

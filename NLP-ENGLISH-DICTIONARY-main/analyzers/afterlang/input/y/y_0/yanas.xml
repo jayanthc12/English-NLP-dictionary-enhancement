@@ -1,0 +1,25 @@
+<page>
+<title>yanas</title>
+<ns>0</ns>
+<id>6634500</id>
+<revision>
+<id>56325564</id>
+<parentid>53092676</parentid>
+<timestamp>2019-10-17T13:07:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yana}}
+===Anagrams===
+* {{anagrams|en|a=aansy|Sanya|Yasna}}</text>
+<sha1>jf8ia6ivncyjmntvbmqagb6m7ku73ek</sha1>
+</revision>
+</page>

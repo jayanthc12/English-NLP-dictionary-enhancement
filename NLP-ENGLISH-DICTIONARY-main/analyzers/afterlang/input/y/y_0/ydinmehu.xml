@@ -1,0 +1,32 @@
+<page>
+<title>ydinmehu</title>
+<ns>0</ns>
+<id>4646910</id>
+<revision>
+<id>69318211</id>
+<parentid>52039634</parentid>
+<timestamp>2022-09-18T17:06:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="537" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|mehu|t1=core, central|t2=juice}}
+===Pronunciation===
+{{fi-p|ydin-mehu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|figuratively}} [[pith]], [[core]], [[essence]], [[gist]], [[heart]], [[heart and soul]], [[marrow]], [[quintessence]], [[soul]], [[spirit]], [[substance]] {{gloss|that which is essential in or which is the core of a presentation, ideology, philosophy etc.}}
+====Declension====
+{{fi-decl-valo|ydinmeh|||u|a}}
+====Synonyms====
+* {{l|fi|ydin}}
+====See also====
+* {{l|fi|ydinneste}}</text>
+<sha1>3wvqc0gll92hgdd9qg633rwbv76qu8n</sha1>
+</revision>
+</page>

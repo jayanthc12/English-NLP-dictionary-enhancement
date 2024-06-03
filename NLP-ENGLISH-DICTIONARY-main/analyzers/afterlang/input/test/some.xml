@@ -1,0 +1,603 @@
+<page>
+<title>some</title>
+<ns>0</ns>
+<id>3947</id>
+<revision>
+<id>69603843</id>
+<parentid>69504791</parentid>
+<timestamp>2022-10-27T14:25:37Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* Further reading */ +thes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="28662" xml:space="preserve">{{also|Some|-some}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{root|en|ine-pro|*sem-}}
+From {{inh|en|enm|som}}, {{m|enm|sum}}, from {{inh|en|ang|sum||some, a certain one}}, from {{inh|en|gem-pro|*sumaz||some, a certain one}}, from {{der|en|ine-pro|*sem-||one, whole}}. Cognate {{cog|sco|sum}}, {{m|sco|some||some}}, {{cog|frr|som}}, {{m|frr|sam}}, {{m|frr|säm||some}}, {{cog|fy|sommige}}, {{m|fy|somlike||some}}, {{cog|nds|somige||some}}, {{cog|nl|sommige||some}}, {{cog|de|-}} dialectal {{m|de|summige||some}}, {{cog|da|somme||some}}, {{cog|sv|somlig||some}}, {{cog|no|sum}}, {{m|no|som||some}}, {{cog|is|sumur||some}}, {{cog|got|𐍃𐌿𐌼𐍃||one, someone}}. More at {{l|en|same}}.
+===Alternative forms===
+* {{l|en|som}} {{qualifier|obsolete}}
+* {{l|en|som'}} {{qualifier|dialect}}
+* {{l|en|sum}} {{qualifier|AAVE}}
+===Pronunciation===
+* {{a|UK}}
+** {{a|RP}} {{IPA|en|/sʌm/|[sɐm]}}
+** {{a|Northern British English}} {{IPA|en|/sʊm/}}
+** {{audio|en|LL-Q1860 (eng)-Back ache-some.wav|Audio (RP)}}
+** {{IPA|en|/səm/}} {{q|unstressed}}
+* {{a|US}}
+** {{a|GA}} {{enPR|sŭm}}, {{IPA|en|/sʌm/|[sɐm]}}
+** {{audio|en|en-us-some.ogg|Audio (US)}}
+* {{a|AusE|NZ}} {{IPA|en|/sɐm/|[säm]}}
+* {{homophones|en|sum}}
+* {{rhymes|en|ʌm|s=1}}
+===Pronoun===
+{{en-pron}}
+# A [[certain]] [[number]], at least two.
+#: {{ux|en|'''Some''' enjoy spicy food, others prefer it milder.}}
+#* {{quote-journal|en|date=2013-07-19|author={{w|Timothy Garton Ash}}
+|volume=189|issue=6|page=18|magazine={{w|The Guardian Weekly}}
+|title=[http://www.theguardian.com/commentisfree/2013/jul/10/geopolitics-transatlantic-trade-deal Where Dr Pangloss meets Machiavelli]
+|passage=Hidden behind thickets of acronyms and gorse bushes of detail, a new great game is under way across the globe. '''Some''' call it geoeconomics, but it's geopolitics too. The current power play consists of an extraordinary range of countries simultaneously sitting down to negotiate big free trade and investment agreements.}}
+# An [[indefinite]] [[quantity]].
+#: {{ux|en|Can I have '''some''' of them?}}
+# An [[indefinite]] [[amount]], a [[part]].
+#: {{ux|en|Please give me '''some''' of the cake.}}
+#: {{ux|en|Everyone is wrong '''some''' of the time.}}
+====Synonyms====
+* {{sense|an indefinite quantity}} {{l|en|a few}}
+====Antonyms====
+* {{l|en|many}}
+* {{l|en|much}}
+* {{l|en|none}}
+====Translations====
+{{trans-top|certain number}}
+* Arabic: {{t|ar|بَعْضٌ|m}}
+* Armenian: {{t+|hy|որոշ|sc=Armn}}, {{t+|hy|ոմանք|sc=Armn}}
+* Azerbaijani: {{t+|az|bəzi}}, {{t|az|bəzilər}}
+* Belarusian: {{t|be|некато́ры}}
+* Bengali: {{t|bn|একটু|sc=Beng}}
+* Bulgarian: {{t+|bg|няколко}}
+* Catalan: {{t+|ca|algun|m}}, {{t+|ca|alguna|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|有的|tr=yǒude|sc=Hani}}, {{t+|cmn|一些|tr=yīxiē|sc=Hani}}
+* Chuukese: {{t|chk|ekkoch}}
+* Czech: {{t+|cs|nějaký}}
+* Dalmatian: {{t|dlm|calco}}
+* Dutch: {{t+|nl|enigen}}, {{t+|nl|sommigen}}, {{t+|nl|enkele}}, {{t+|nl|enkelen}}
+* Finnish: {{t+|fi|jotkut}}, {{t|fi|muutamat}}, {{t|fi|eräät}}, {{t+|fi|osa}}, {{t+|fi|jokunen}}
+* French: {{t+|fr|quelque|m|f}}, {{t+|fr|quelques|p}}
+* Galician: {{t|gl|algún|m}}
+* German: {{t+|de|einige}}, {{t+|de|manche}}
+* Greek: {{t+|el|μερικοί|m-p}}, {{t+|el|μερικές|f-p}}, {{t+|el|μερικά|n-p}}
+* Hawaiian: {{t|haw|kahi poʻe}}, {{t|haw|kekahi poʻe}}
+* Hungarian: {{t|hu|egyesek|p}}, {{t|hu|némelyek|p}}, {{t+|hu|néhányan}}
+* Icelandic: {{t|is|sum|n-p}}, {{t+|is|sumar|f-p}}, {{t|is|sumir|m-p}}
+* Indonesian: {{t+|id|beberapa}}
+* Irish: {{t+|ga|daoine|m-p}}
+* Japanese: {{t|ja|いくつか|tr=ikutsuka|sc=Jpan}}, {{t+|ja|ある}}
+{{trans-mid}}
+* Khmer: {{t|km|អ្នកខ្លះ|tr=neak klah|sc=Khmr}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|quidam}}
+* Low German:
+*: German Low German: {{t|nds-de|enige}}, {{t|nds-de|enkelte}}, {{t|nds-de|enkele}}
+*: Paderbornisch: {{t|nds-de|einige}}
+* Mirandese: {{t|mwl|algun}}
+* Norwegian: {{t+|no|visse|p}}
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|somme|p}}, {{t|nn|nokon}}
+* Portuguese: {{t+|pt|algum|m}}
+* Russian: {{t+|ru|не́который|m}}
+* Serbo-Croatian: {{t|sh|neki|m-p}}, {{t+|sh|neke|f-p}}, {{t+|sh|neka|n-p}}
+* Spanish: {{t+|es|alguno|m}}
+* Sundanese: {{t|su|sababaraha}}
+* Swedish: {{t+|sv|vissa}}, {{t+|sv|somliga}}, {{t+|sv|en del}}, {{t+|sv|några}}
+* Tagalog: {{t+|tl|may}}, {{t+|tl|mayroon}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Turkish: {{t+|tr|bazısı}}, {{t+|tr|kimi}}, {{t+|tr|kimisi}}
+* Ukrainian: {{t+|uk|де́який}}
+* Vietnamese: {{t+|vi|vài}}, {{t+|vi|một vài}}, {{t+|vi|một số}}, {{t+|vi|mấy}}
+* Yiddish: {{t|yi|עטלעכע}}, {{t+|yi|אַ ביסל}}
+* Zazaki: {{t|zza|tay}}
+* Zealandic: {{t|zea|sommige}}
+{{trans-bottom}}
+{{trans-top|indefinite quantity or number}}
+* Arabic: {{t|ar|بَعْض|m}}
+* Armenian: {{t|hy|մի քանիսը|sc=Armn}}
+* Asturian: {{t+|ast|dellos}}
+* Azerbaijani: {{t|az|bir neçə}}
+* Belarusian: {{t+|be|не́калькі|p}}, {{t|be|тро́хі}}
+* Bengali: {{t|bn|একটু|sc=Beng}}
+* Bulgarian: {{t+|bg|няколко}}
+* Burmese: {{t+|my|တချို့}}, {{t+|my|အချို့}}
+* Catalan: {{t+|ca|tot de}}, {{t+|ca|alguns|m-p}}
+* Chinese:
+*: Mandarin: {{t+|cmn|一些|tr=yīxiē|sc=Hani}}
+* Czech: {{t+|cs|několik}}, {{t+|cs|trochu}}
+* Danish: {{t+|da|nogle}}
+* Dutch: {{t+|nl|wat}} (quantity), {{t+|nl|enige}} (number), {{t+|nl|enkele}} (number)
+* Esperanto: {{t+|eo|iu}}, {{t+|eo|iuj|p}}
+* Finnish: {{t+|fi|joitakin}}, {{t+|fi|muutamia}}
+* French: {{t+|fr|du|m}}, {{t+|fr|de la|f}}, {{t+|fr|des|p}}
+* German: {{t+|de|ein paar}}, {{t+|de|einige|p}}, {{t+|de|einige|p}}
+* Greek: {{t+|el|μερικοί|m-p}}, {{t+|el|μερικές|f-p}}, {{t+|el|μερικά|n-p}}
+* Hebrew: {{t+|he|כַּמָה}} (káma), {{t|he|אֲחָדִים|m-p}} (akhadím), {{t+|he|מְעַט}} (me'át), {{t+|he|קְצָת}} (ktsat)
+* Hindi: {{t+|hi|थोड़ा|sc=Deva}}, {{t+|hi|कुछ|sc=Deva}}, {{t+|hi|कोई|sc=Deva}}
+* Hungarian: {{t+|hu|pár}}, {{t+|hu|néhány}}, {{t+|hu|valahány}}, {{t|hu|egypár}}, {{t+|hu|egynéhány}}
+* Indonesian: {{t+|id|beberapa}}
+* Irish: {{t+|ga|roinnt|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|いくつか|tr=ikutsuka}}, {{t+|ja|いくらか|tr=ikuraka}}
+* Korean: {{t+|ko|몇}}
+* Low German:
+*: German Low German: {{t|nds-de|en poor}}, {{t|nds-de|enkelte}}, {{t+|nds-de|wat}}, {{t|nds-de|enige}}
+* Maori: {{t|mi|ētahi}}, {{t|mi|he}}, {{t|mi|ehinu}}
+* Norwegian:
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|nokre}}
+* Polish: {{t+|pl|trochę}}, {{t+|pl|kilka}}
+* Portuguese: {{t+|pt|alguns}}
+* Romanian: {{t+|ro|nişte}}
+* Russian: {{t+|ru|немно́го}}, {{t+|ru|не́сколько}}
+* Rusyn: {{t|rue|дакілько}}
+* Slovak: {{t|sk|niekoľko}}, {{t|sk|trochu}}, {{t|sk|zopár}}
+* Spanish: {{t+|es|unos|m-p}}, {{t+|es|unas|f-p}}
+* Sundanese: {{t|su|sababaraha}}
+* Swahili: {{t+|sw|baadhi}}
+* Swedish: {{t+|sv|några}}, {{t+|sv|en del}}
+* Thai: {{t+|th|บาง}}, {{t+|th|มั่ง}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Ukrainian: {{t+|uk|кі́лька}}, {{t|uk|тро́хи}}
+* Vietnamese: {{t|vi|một ít}}
+* Yoruba: {{t|yo|àwọn}}
+* Zazaki: {{t|zza|tayn}}
+* Zealandic: {{t|zea|'n paer}}
+{{trans-bottom}}
+{{trans-top|indefinite amount, part}}
+* Arabic: {{t|ar|بَعْض|m}}
+* Armenian: {{t|hy|մի քիչ|sc=Armn}}
+* Azerbaijani: {{t+|az|biraz}}, {{t|az|bir qədər}}
+* Belarusian: {{t|be|тро́хі}}
+* Bengali: {{t|bn|একটু|sc=Beng}}
+* Bulgarian: {{t+|bg|малко}}
+* Catalan: {{t+|ca|tot de}}, {{t|ca|quelcom de}}, {{t+|ca|algun}}
+* Chinese:
+*: Mandarin: {{t+|cmn|一些|tr=yīxiē|sc=Hani}}
+* Dutch: {{t+check|nl|wat}}, {{t-check|nl|[[een]] [[deel]]}} &lt;!-- was &quot;[[een]] [[deel]]&quot; - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] --&gt;
+* Finnish: {{t+|fi|jonkin verran}}, {{t+|fi|joskus}} {{qualifier|some of the time}}
+* French: {{t+|fr|du|m}}, {{t+|fr|de la|f}}, {{t+|fr|des|p}}
+* German: {{t+|de|etwas}}
+* Greek: {{t+|el|λίγο}}
+* Hindi: {{t+|hi|कुछ|sc=Deva}}, {{t+|hi|थोड़ा|sc=Deva}}
+* Hungarian: {{t+|hu|valamennyi}}, {{t|hu|[[egy]] [[kevés]]}}, {{t|hu|[[egy]] [[kicsi]]}}
+* Irish: {{t+|ga|roinnt|f}}, {{t+|ga|ábhar|m}}
+{{trans-mid}}
+* Italian: {{t+|it|del|m}}, {{t+|it|della|f}}
+* Low German:
+*: German Low German: {{t+|nds-de|wat}}
+* Norwegian: {{t|nn|som|m}}, {{t+|nb|litt}}
+* Persian: {{t+|fa|کمی|tr=kami|sc=fa-Arab}}
+* Polish: {{t+|pl|trochę}}
+* Portuguese: {{t|pt|um pouco de}}
+* Russian: {{t+|ru|немно́го}}
+* Scots: {{t|sco|sum}}
+* Slovak: {{t|sk|trochu}}
+* Spanish: {{t+|es|algo|n}}
+* Swahili: {{t+|sw|baadhi}}
+* Swedish: {{t+|sv|lite}}, {{t+|sv|en del}}
+* Tok Pisin: {{t+|tpi|hap}}
+* Ukrainian: {{t|uk|тро́хи}}
+* Zazaki: {{t+|zza|taynek}}
+* Zealandic: {{t|zea|wat}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Telugu: {{t+check|te|కొన్ని}}
+{{trans-mid}}
+{{trans-bottom}}
+===Determiner===
+{{en-det}}
+# A [[certain]] [[proportion]] of, at least two.
+#: {{ux|en|'''Some''' people like camping.}}
+#* {{quote-book|en|year=2006|author=Charles H Lippy|title=Faith in America [Three Volumes] [3 Volumes]: Changes, Challenges, New Directions|pageurl=http://books.google.com.br/books?id=wwim_0xE1c4C&amp;pg=RA2-PA73#v=onepage&amp;q&amp;f=false|isbn=9780275986056|page=73|publisher=Greenwood Publishing Group
+|passage=Many people, especially '''some''' evangelical Christians, have been less than optimistic about the Potter influence.}}
+#* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845|magazine={{w|The Economist}}|title=[http://www.economist.com/news/business/21582001-army-new-online-courses-scaring-wits-out-traditional-universities-can-they The attack of the MOOCs]
+|passage=Since the launch early last year of&amp;nbsp;[&amp;hellip;] two Silicon Valley start-ups offering free education through MOOCs, massive open online courses, the ivory towers of academia have been shaken to their foundations. University brands built in '''some''' cases over centuries have been forced to contemplate the possibility that information technology will rapidly make their existing business model obsolete.}}
+# An [[unspecified]] [[quantity]] or [[number]] of.
+#: {{ux|en|Would you like '''some''' grapes?}}
+#* {{RQ:Churchill Celebrity|chapter=IV|pages=58–59|pageref=58|passage=The Celebrity, by arts unknown, induced Mrs. Judge Short and two other ladies to call at Mohair on a certain afternoon when Mr. Cooke was trying a trotter on the track.{{...}}Their example was followed by others at a time when the master of Mohair was superintending in person the docking of '''some''' two-year-olds, and equally invisible.}}
+#* {{RQ:Maxwell Mirror and the Lamp|chapter=XLIV|page=364|passage=In the autumn there was a row at '''some''' cement works about the unskilled labour men. A union had just been started for them and all but a few joined. One of these blacklegs was laid for by a picket and knocked out of time.}}
+#* {{quote-journal|en|year=2013|month=July-August|author=[http://www.americanscientist.org/authors/detail/sarah-glaz Sarah Glaz]
+|title=[http://www.americanscientist.org/issues/pub/2013/4/ode-to-prime-numbers Ode to Prime Numbers]
+|volume=101|issue=4|magazine={{w|American Scientist}}
+|passage='''Some''' poems, echoing the purpose of early poetic treatises on scientific principles, attempt to elucidate the mathematical concepts that underlie prime numbers. Others play with primes’ cultural associations. Still others derive their structure from mathematical patterns involving primes.}}
+# An [[unspecified]] [[amount]] of (something uncountable).
+#: {{ux|en|Would you like '''some''' water?}}
+#: {{ux|en|After '''some''' persuasion, he finally agreed.}}
+#* {{RQ:Maxwell Mirror and the Lamp|chapter=XVI|pages=130–131|pageref=130|passage=It was a joy to snatch '''some''' brief respite, jump upon a tram, and find himself in the rectory drawing–room. Listening here was as pleasant as talking; just to watch was pleasant. The young priests who lived here wore cassocks and birettas; their faces were fine and mild, yet really strong, like the rector's face; and in their intercourse with him and his wife they seemed to be brothers.}}
+# A [[certain]], an [[unspecified]] or [[unknown]].
+#: {{ux|en|I've just met '''some''' guy who said he knew you.}}
+#: {{ux|en|The sequence S converges to zero for '''some''' initial value v.}}
+#* {{quote-book|en|year=1922|author={{w|Ben Travers}}|title={{w|A Cuckoo in the Nest}}
+|chapter=4|url=http://openlibrary.org/works/OL1521052W
+|passage=By '''some''' paradoxical evolution rancour and intolerance have been established in the vanguard of primitive Christianity. Mrs. Spoker, in common with many of the stricter disciples of righteousness, was as inclement in demeanour as she was cadaverous in aspect.}}
+#* {{quote-journal|en|date=2013-06-14|author={{w|Jonathan Freedland}}
+|volume=189|issue=1|page=18|magazine={{w|The Guardian Weekly}}
+|title=[http://www.guardian.co.uk/commentisfree/2013/jun/07/obama-apple-google-facebook-tainted-prism Obama's once hip brand is now tainted]
+|passage=Where we once sent love letters in a sealed envelope, or stuck photographs of our children in a family album, now such private material is despatched to servers and clouds operated by people we don't know and will never meet. Perhaps we assume that our name, address and search preferences will be viewed by '''some''' unseen pair of corporate eyes, probably not human, and don't mind that much.}}
+# A [[considerable]] quantity or number of.
+#: {{ux|en|He had edited the paper for '''some''' years.}}
+#: {{ux|en|He stopped working '''some''' time ago.}}
+#* {{RQ:Churchill Celebrity|chapter=II|page=15|passage=We drove back to the office with '''some''' concern on my part at the prospect of so large a case. Sunning himself on the board steps, I saw for the first time Mr. Farquhar Fenelon Cooke. He was dressed out in broad gaiters and bright tweeds, like an English tourist, and his face might have belonged to Dagon, idol of the Philistines.}}
+#  [[approximately]], [[about]] (with a number).
+#: {{ux|en|She had been employed at that company for '''some''' five years now.}}
+#: {{ux|en|There were only '''some''' three or four cars in the lot at the time.}}
+# {{senseid|en|a remarkable}}{{lb|en|informal}} A [[remarkable]].
+#: {{ux|en|He is '''some''' acrobat!}}
+====Synonyms====
+{{checksense|en}}
+====Antonyms====
+* {{l|en|many}}
+* {{l|en|much}}
+* {{l|en|no}}
+====Derived terms====
+{{rel-top|terms derived from ''some''}}
+* {{l|en|some kind of}}, {{l|en|some kinda}}
+* {{l|en|some old}}
+* {{l|en|somebody}}
+* {{l|en|someday}}
+* {{l|en|somehow}}
+* {{l|en|someone}}
+* {{l|en|something}}
+{{rel-mid}}
+* {{l|en|sometime}}
+* {{l|en|sometimes}}
+* {{l|en|somewhat}}
+* {{l|en|somewhen}}
+* {{l|en|somewhence}}
+* {{l|en|somewhere}}
+* {{l|en|somewhither}}
+* {{l|en|somewhy}}
+* {{l|en|summerteeth}}
+{{rel-bottom}}
+====Translations====
+{{trans-top|certain proportion of}}
+* Arabic: {{t|ar|بَعْضٌ|m}}
+*: Egyptian Arabic: {{t|arz|بعض|tr=baʿḍ}}
+* Armenian: {{t+|hy|որոշ|sc=Armn}}
+* Azerbaijani: {{t+|az|bəzi}}
+* Baluchi: {{t|bal|لہتے|tr=lahti, lahte}}
+* Bulgarian: {{t+|bg|няколко}}
+* Burmese: {{t+|my|အချို့|sc=Mymr}}, {{t+|my|တချို့|sc=Mymr}}
+* Catalan: {{t+|ca|algun}}
+* Cherokee: {{t|chr|ᎢᎦᏓ}}
+* Chinese:
+*: Cantonese: {{t|yue|一啲|tr=jat1 dit1|sc=Hani}}
+*: Mandarin: {{t+|cmn|一些|tr=yīxiē|sc=Hani}}, {{qualifier|countable}} {{t+|cmn|幾個|sc=Hani}}, {{t+|cmn|几个|tr=jǐgè, jǐge|sc=Hani}}
+* Dutch: {{t+|nl|enige}} (countable), {{t+|nl|sommige}} (countable), {{t+|nl|enkele}} (countable)
+* Finnish: {{t+|fi|jotkut}} {{q|of people}}, {{t+|fi|jotkin}} {{q|of things}}
+* French: {{t+|fr|certain}}, {{t+|fr|certains|p}}, {{t+|fr|des}}
+* German: {{t+|de|einige}}, {{t+|de|manche}}
+* Gothic: {{t|got|𐍃𐌿𐌼𐍃}}
+* Greek: {{t+|el|μερικοί|m-p}}, {{t+|el|μερικές|f-p}}, {{t+|el|μερικά|n-p}}
+* Hindi: {{t+|hi|कुछ|sc=Deva}}
+* Hungarian: {{t+|hu|egyes}}, {{t+|hu|néhány}}, {{t+|hu|némely}}, {{t+|hu|némelyik}}, {{t+|hu|bizonyos}}
+{{trans-mid}}
+* Interlingua: {{t|ia|alcun}}
+* Irish: {{t+|ga|roinnt}}
+* Italian: {{t+|it|alcuno}}
+* Latin: {{t+|la|aliqui}}, {{t|la|alii}}, {{t+|la|nonnullus}}
+* Mon: {{t-needed|mnw}}
+* Navajo: {{t|nv|łaʼ}}
+* Norwegian:
+*: Bokmål: {{t+|nb|visse}}, {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|visse}}, {{t|nn|nokre}}
+* Polish: {{t|pl|niektórzy|p|m}}, {{t|pl|niektóre|p|f}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|не́сколько}}, {{t+|ru|немно́го}}
+* Scots: {{t|sco|sum}}
+* Swahili: {{t+|sw|baadhi|alt=baadhi ya}}
+* Swedish: {{t+|sv|några}}, {{t+|sv|en del}}, {{t+|sv|vissa}}
+* Thai: {{t+|th|บาง}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Turkish: {{t+|tr|bazı}}
+* Urdu: {{t|ur|کچھ|tr=kuch|sc=ur-Arab}}
+* Walloon: {{t+|wa|sacwants|m|f}}, {{t+|wa|sacwantès|f}}
+* Welsh: {{t|cy|rhai}}
+* Zazaki: {{t|zza|tay}}
+* Zealandic: {{t|zea|sommige}}
+{{trans-bottom}}
+{{trans-top|unspecified quantity or number of}}
+* Armenian: {{t|hy|մի քիչ|sc=Armn}}, {{t|hy|մի քանի|sc=Armn}}
+* Aromanian: {{t|rup|nishti}}
+* Catalan: {{t+|ca|alguns|m-p}}, {{t+|ca|algunes|f-p}}
+* Dutch: {{t+check|nl|wat}} (uncountable), {{t+|nl|enige}} (countable), {{t+check|nl|enkele}} (countable)
+* Finnish: {{t+|fi|vähän}} {{qualifier|usually omitted}}, {{t+|fi|jokunen}}
+* French: {{t+|fr|quelque}}, {{t+|fr|quelques|p}}
+* German: {{t+|de|einige}}, {{t+|de|welche}}, {{t+|de|ein paar}}
+* Greek: {{t+|el|λίγο}}
+* Hebrew: {{t+|he|כַּמָה}} (káma), {{t|he|אֲחָדִים|m-p}} (akhadím), {{t+|he|מְעַט}} (me'át), {{t+|he|קְצָת}} (ktsat)
+* Hungarian: {{t+|hu|néhány}}, {{t+|hu|pár}}, {{t|hu|egypár}}, {{t+|hu|egynéhány}}, {{t+|hu|valahány}}
+* Indonesian: {{t+|id|beberapa}}
+* Interlingua: {{t|ia|qualque}}
+* Italian: {{t+|it|alcuno}}
+* Khmer: {{t|km|ន្តិចបន្តួច|tr=bɑntəch bɑntuəch|sc=Khmr}}
+* Latin: {{t+|la|aliqui}}
+* Mon: {{t-needed|mnw}}
+* Navajo: {{t|nv|łaʼ}}
+* Norman: {{t|nrf|tchique}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|nokre}}
+* Polish: {{t+|pl|kilka|p|f}}
+* Portuguese: {{t+|pt|algum}}
+* Romanian: {{t+|ro|niște}}
+* Russian: ''expressed by genitive case''
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|někotary}}
+* Spanish: {{t+|es|algunos|m-p}}, {{t+|es|algunas|f-p}}
+* Sundanese: {{t|su|sababaraha}}
+* Swedish: {{t+|sv|några}}, {{t+|sv|lite}}, {{t+|sv|en del}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|چن گله|tr=can gəla|sc=fa-Arab}}
+* Tocharian B: {{t|txb|ksa}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Ukrainian: {{t+|uk|кі́лька}}
+* Walloon: {{t+|wa|sacwants|m|f}}, {{t+|wa|sacwantès|f}}, {{t+|wa|des|m|f}}, {{t|wa|kékes|m|f}}, {{t|wa|kékès|f}}
+* Welsh: {{t|cy|rhai}}
+* Wolof: {{t+|wo|ay}}
+* Yoruba: {{t|yo|àwọn}}
+{{trans-bottom}}
+{{trans-top|unspecified amount of}}
+* Dutch: {{t+|nl|wat}}
+* Finnish: {{t+|fi|vähän}} {{qualifier|usually omitted}}
+* French: {{t+|fr|du}}, {{l|fr|de}} {{t+|fr|la}}
+* German: {{t+|de|etwas}}
+* Greek: {{t+|el|λίγο}}
+* Hungarian: {{t+|hu|némi}}, {{t|hu|[[egy]] [[kis]]}}, {{t|hu|[[egy]] [[kevés]]}}, {{t+|hu|valamennyi}}, {{t|hu|valamelyes}}
+* Khmer: {{t|km|បន្តិចបន្តួច|tr=bɑntəch bɑntuəch|sc=Khmr}}
+* Latin: {{t+|la|aliqui}}
+* Norwegian: {{t+|nb|litt}}
+{{trans-mid}}
+* Polish: {{t+|pl|trochę}}
+* Portuguese: {{t+|pt|um pouco}}
+* Russian: ''expressed by genitive case''
+* Swedish: {{t+|sv|lite}}, {{t+|sv|en del}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|تیکه‌یی|tr=tikei|sc=fa-Arab}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Walloon: {{t+|wa|do|m}}, {{t+|wa|del|f}}, {{t|wa|ene miete di|m|f}}, {{t|wa|on pô do|m}}, {{t|wa|on pô del|f}}
+* Welsh: {{t+|cy|peth}}
+* Zealandic: {{t|zea|'n bitje}} {{qualifier|implies a little quantity}}
+{{trans-bottom}}
+{{trans-top|certain, unspecified or unknown}}
+* Armenian: {{t+|hy|մի|sc=Armn}}, {{t|hy|ինչ-որ|sc=Armn}}
+* Azerbaijani: {{t|az|hansısa}}
+* Belarusian: {{t|be|які́сьці}}, {{t|be|які́сь}}, {{t|be|не́йкі}}, {{t|be|які́-не́будзь}}, {{t|be|некато́ры}}
+* Bulgarian: {{t|bg|ня́какъв}}, {{t|bg|ня́кой}}
+* Chinese:
+*: Mandarin: {{t+|cmn|有的|tr=yǒu de|sc=Hani}}
+* Czech: {{t+|cs|nějaký}}, {{t+|cs|některý}}
+* Dutch: {{t+check|nl|een}}, {{t-check|nl|[[een]] [[zeker]]}} &lt;!-- was &quot;[[een]] [[zeker]]&quot; - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] --&gt;, {{t+check|nl|een of ander}}
+* Esperanto: {{t+|eo|ia}}
+* Finnish: {{t+|fi|eräs}}, {{t+|fi|joku}}, {{t+|fi|jokin}}
+* French: {{t+|fr|quelconque}}
+* German: {{t+|de|irgendein}}
+* Greek: {{t+|el|κάποιος}}
+* Hindi: {{t+|hi|कोई}}, {{t+|hi|कुछ}}
+* Hungarian: {{t+|hu|valamilyen}}, {{t|hu|valamiféle}}, {{t+|hu|valami}}, {{t|hu|[[egy]] [[bizonyos]]}}
+* Indonesian: {{t+|id|beberapa}}
+* Irish: {{t|ga|éigin}}
+*: Old Irish: {{t|sga|nach}}
+{{trans-mid}}
+* Japanese: {{t+|ja|ある|tr=aru|sc=Jpan}}
+* Latin: {{t+|la|quīdam}}
+* Macedonian: {{t|mk|некој}}
+* Polish: {{t+|pl|jakiś|m}}
+* Portuguese: {{t+|pt|algum}}, {{t+|pt|um}}
+* Russian: {{t+|ru|како́й-то}}, {{t+|ru|не́который}}, {{t+|ru|како́й-нибудь}}, {{t+|ru|не́кий}} {{qualifier|a certain}}
+* Scottish Gaelic: {{t|gd|air choireigin}}
+* Slovak: {{t|sk|nejaký}}, {{t|sk|niektorý}}
+* Sundanese: {{t|su|sababaraha}}
+* Swedish: {{t+|sv|någon}}, {{t+|sv|något}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Turkish: {{t+|tr|bir}}
+* Ukrainian: {{t+|uk|яки́йсь}}, {{t|uk|котри́йсь}}, {{t+|uk|де́який}}, {{t+|uk|яки́й-небудь}}
+* Urdu: {{t|ur|کوئی|tr=koī|sc=ur-Arab}}, {{t|ur|کچھ|tr=kuch|sc=ur-Arab}}
+* Vietnamese: {{t|vi|nào đó}}, {{t|vi|gì đó}}
+* Walloon: {{t+|wa|on|m}}, {{t+|wa|ene|f}}
+* Welsh: {{t+|cy|rhyw}}
+{{trans-bottom}}
+{{trans-top|considerable quantity or number of}}
+* Dutch: {{t-check|nl|[[aardig]] [[wat]]}} &lt;!-- was &quot;[[aardig]] [[wat]]&quot; - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] --&gt;
+* Finnish: {{t+|fi|joitakin}}
+* German: {{t+|de|einige}}, {{t+|de|etliche}}
+* Greek: {{t+|el|αρκετά}}
+* Hebrew: {{t+|he|כַּמָה}} (káma), {{t|he|אֲחָדִים|m-p}} (akhadím)
+* Hungarian: {{t+|hu|jókora}}, {{t+|hu|jó}}, {{t|hu|[[jó]] [[pár]]}}, {{t|hu|[[jó]] [[néhány]]}}
+* Indonesian: {{t+|id|beberapa}}
+{{trans-mid}}
+* Polish: {{t+|pl|kilka|p|f}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|не́сколько}}
+* Sundanese: {{t|su|sababaraha}}
+* Walloon: {{t+|wa|sacwants|m|f}}, {{t+|wa|sacwantès|f}}, {{t|wa|kékes|m|f}}, {{t|wa|kékès|f}}, {{t+|wa|puzieurs|m|f}}, {{t|wa|puzieurès|f}}
+* Zazaki: {{t|zza|teney}}
+{{trans-bottom}}
+{{trans-top|informal: remarkable}}
+* Finnish: {{t+|fi|aikamoinen}}, {{t+|fi|melkoinen}}
+* Hungarian: {{t+|hu|ám}}, {{t+|hu|aztán}}, {{t+|hu|micsoda}}, {{t|hu|[[nem]] [[akármilyen]]}}
+{{trans-mid}}
+* Italian: {{t+|it|che}}
+* Portuguese: {{t+|pt|que}}
+* Walloon: {{t|wa|on fameus|m}}, {{t|wa|ene fameuse|f}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Arabic: {{t-check|ar|بَعْض}}, {{t-check|ar|حَوَالِي}}
+*: Egyptian: {{t|ar|بَعْض}}
+* Czech: {{t+check|cs|nějaký|m}}, {{t+check|cs|několik}}
+* Esperanto: {{t-check|eo|kelke}}, {{qualifier|1}} {{t+check|eo|kelka}}, {{qualifier|2}} {{t+check|eo|kelkaj}}
+* Greek: {{t+check|el|μερικοί}}, {{t+check|el|λίγο}}, {{t+check|el|κάποιος}}
+* Ido: {{t+check|io|kelka}}, {{t+check|io|ula}}
+* Italian: {{t+check|it|qualche}}
+* Japanese: {{t+check|ja|或る|tr=ある, aru}}, {{t+check|ja|幾らか|tr=いくらか, ikuraka}}, {{t-check|ja|幾つか|tr=いくつか, ikutsuka}}
+* Korean: {{t+check|ko|어떤}}
+* Kurdish:
+*: Central Kurdish: {{t-check|ckb|ھەنێک}}
+*: Northern Kurdish: {{t+check|kmr|hin}}, {{t+check|kmr|hinek}}, {{t+check|kmr|hindek}}, {{t+check|kmr|çendek}}, {{t+check|kmr|çend}}
+{{trans-mid}}
+* Macedonian: {{t-check|mk|некој|m}}, {{t-check|mk|некои|p}}, {{t-check|mk|извесен|m}}, {{t-check|mk|извесни|p}}, {{t+check|mk|еден|m}}, {{t-check|mk|едни|p}}, {{t+check|mk|неколку}}
+* Maltese: {{t-check|mt|xi}}
+* Mandarin:
+*: Mandarin: {{t+check|cmn|一些|tr=yìxiē|sc=Hani}}, {{t+check|cmn|有的|tr=yǒude|sc=Hani}}, {{t+check|cmn|有些|tr=yǒuxiē|sc=Hani}}, {{t+check|cmn|幾個|sc=Hani}}, {{t+check|cmn|几个|tr=jǐ gè|sc=Hani}}, {{t+check|cmn|某些|tr=mǒuxiē|sc=Hani}}, {{t+check|cmn|某|tr=mǒu|sc=Hani}}, {{t+check|cmn|些|tr=xiē|sc=Hani}}
+* Norwegian: {{t+check|no|noe}} (uncountable), {{t+check|no|noen}} (countable)
+* Romanian: {{t+check|ro|niște}}, {{t-check|ro|câteva}}
+* Slovak: {{t-check|sk|niekoľko}}
+* Spanish: {{t+check|es|algunos|m-p}}, {{t+check|es|algunas|f-p}}
+* Telugu: {{t+check|te|కొన్ని|sc=Telu}}, {{t+check|te|కొందరు|sc=Telu}}, {{t+check|te|కొంత|sc=Telu}}
+* Turkish: {{t+check|tr|biraz}}, {{t+check|tr|bazı}}, {{t+check|tr|yaklaşık}}
+* West Frisian: {{t-check|fy|guon}}
+{{trans-bottom}}
+===Adverb===
+{{en-adv|-}}
+# Of a measurement: [[approximately]], [[roughly]].
+#: {{syn|en|Thesaurus:approximately}}
+#: {{ux|en|I guess he must have weighed '''some''' 90 kilos.}}
+#: {{ux|en|'''Some''' 30,000 spectators witnessed the feat.}}
+#: {{ux|en|'''Some''' 4,000 acres of land were flooded.}}
+# {{lb|en|dialect}} To a certain extent, or for a certain period.
+#* '''2014''', C. R. Scott, ''Invisible War: Attack the Covenant''
+#*: They walked '''some''' and talked '''some'''.
+====Translations====
+{{trans-top|approximately, roughly}}
+* Armenian: {{t+|hy|մոտ|sc=Armn}}
+* Bulgarian: {{t+|bg|около}}
+* Catalan: {{t|ca|al voltant de}}, {{t+|ca|sobre}}, {{t+|ca|vora}}
+* Dutch: {{t+|nl|ongeveer}}
+* Finnish: {{t+|fi|jotakin}}, {{t+|fi|jotakuinkin}}, {{t+|fi|noin}}, {{t+|fi|suunnilleen}}
+* French: {{t+|fr|quelque}}, {{t+|fr|environ}}
+* German: {{t+|de|ungefähr}}, {{t+|de|etwa}}, {{t+|de|um}}
+* Greek: {{t+|el|περίπου}}
+* Hindi: {{t|hi|के लगभग|sc=Deva}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|mintegy}}, {{t+|hu|nagyjából}}, {{t+|hu|körülbelül}}
+* Latin: {{t|la|alii}}
+* Ngazidja Comorian: {{t|zdj|kadiri ya}}
+* Norwegian: {{t+|no|omtrent}}
+* Portuguese: {{t+|pt|uns}}, {{t+|pt|mais ou menos}}
+* Slovak: {{t|sk|zhruba}}, {{t|sk|približne}}
+* Spanish: {{t+|es|unos}}
+* Swedish: {{t+|sv|runt}}, {{t+|sv|omkring}}, {{t+|sv|cirka}}, {{t+|sv|säkert}}, {{t+|sv|nog}}, {{t+|sv|väl}}
+{{trans-bottom}}
+===See also===
+* [[Thesaurus:quantifier]]
+===Further reading===
+* {{R:OneLook}}
+* {{R:Century 1911}}
+===Anagrams===
+* {{anagrams|en|a=emos|'omes|Meos|OEMs|emos|meso-}}
+[[Category:English indefinite pronouns]]
+[[Category:fi:Social media]]
+----
+==Finnish==
+===Etymology===
+{{contraction|fi|sosiaalinen media||social media}}.
+===Pronunciation===
+{{fi-p}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|informal}} [[social media]]
+#: {{ux|fi|Jos tänä päivänä aikoo menestyä politiikassa, on pakko olla '''somessa'''.|If one wants to be successful in politics nowadays, it's obligatory to be on '''social media'''.}}
+====Declension====
+{{fi-decl-nalle|som|||a}}
+====Derived terms====
+* {{l|fi|somettaa}}
+====Compounds====
+{{der4|fi
+|someaddiktio
+|someaika
+|somealusta
+|somehaaste
+|somehitti
+|somehuhu
+|somehäirintä
+|someilmiö
+|somejulkaisu
+|somejulkkis
+|somekalenteri
+|somekampanja
+|somekanava
+|somekansa
+|somekasvatus
+|somekieli
+|somekiusaaja
+|somekiusaaminen
+|somekohu
+|somekoomikko
+|somekoukku
+|somekulttuuri
+|somekupla
+|somekuva
+|somekäyttäjä
+|somekäyttäytyminen
+|someloukkaantuminen
+|someloukkaus
+|somemainonta
+|somemainos
+|somemarkkinointi
+|somepalvelu
+|somepaniikki
+|somepersoona
+|somepostaus
+|somepäivitys
+|someraivo
+|someriippuvuus
+|sometili
+|sometyö
+|somevaikuttaja
+|someviesti
+|someviestintä
+|someyhtiö
+|someähky
+}}
+===Anagrams===
+* {{anagrams|fi|a=emos|meso}}
+----
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|sumir||3|s|pres|indc}}
+----
+==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|soma}}
+===Anagrams===
+* {{anagrams|it|a=emos|Mosè|meso|meso-}}
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA|pt=sóme}}
+* {{a|Brazil}} {{IPA|pt|/ˈso.mi/}}
+* {{a|South Brazil}} {{IPA|pt|/ˈso.me/}}
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|somar}}
+===Pronunciation===
+{{pt-IPA|pt=sóme}}
+* {{a|Brazil}} {{IPA|pt|/ˈsɔ.mi/}}
+* {{a|South Brazil}} {{IPA|pt|/ˈsɔ.me/}}
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|sumir|e}}
+----
+==Serbo-Croatian==
+===Noun===
+{{sh-noun-form}}
+# {{inflection of|sh|som||voc|s}}</text>
+<sha1>fd5adxnqisd8l49yo48159rcdgjp3gd</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yebe</title>
+<ns>0</ns>
+<id>2499907</id>
+<revision>
+<id>59442650</id>
+<parentid>57771253</parentid>
+<timestamp>2020-05-28T18:20:31Z</timestamp>
+<contributor>
+<username>Numberguy6</username>
+<id>3212830</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="347" xml:space="preserve">==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|yeb||dat|s}}
+----
+==Walloon==
+===Etymology===
+From {{inh|wa|fro|erbe}}, from {{inh|wa|la|herba}}, from {{der|wa|ine-pro|*gʰreH₁-}}, {{m|ine-pro|*g(')herə-||to grow, to grow green}}.
+===Noun===
+{{wa-noun|f}}
+# [[grass]]
+# [[pasture]], [[prairie]]
+[[Category:wa:Plants]]</text>
+<sha1>r65036c4u2qh1xnkf99k21ffwh7rmgz</sha1>
+</revision>
+</page>

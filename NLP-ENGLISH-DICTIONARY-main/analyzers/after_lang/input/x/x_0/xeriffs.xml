@@ -1,0 +1,23 @@
+<page>
+<title>xeriffs</title>
+<ns>0</ns>
+<id>1604302</id>
+<revision>
+<id>55690023</id>
+<parentid>53092309</parentid>
+<timestamp>2019-10-15T12:27:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xeriff}}</text>
+<sha1>ikh4ot689zq5olr6abiw265znth7jcu</sha1>
+</revision>
+</page>

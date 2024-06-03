@@ -1,0 +1,46 @@
+<page>
+<title>Yangzhou</title>
+<ns>0</ns>
+<id>1538880</id>
+<revision>
+<id>67887787</id>
+<parentid>67605711</parentid>
+<timestamp>2022-07-12T01:24:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="981" xml:space="preserve">{{also|Yángzhōu}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Yang-chou}}
+* {{sense|{{w|postal romanization}}}} {{l|en|Yangchow}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|揚州}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Jiangsu|in eastern|c/China}}.
+====Translations====
+{{trans-top|a prefecture-level city in eastern China}}
+* Arabic: {{t|ar|يَانْغْجُو|m|tr=yanḡjū}}, {{t|ar|يَانْغْتْشُو|m|tr=yanḡtšū}}
+* Chinese:
+*: Mandarin: {{t+|cmn|揚州}}, {{t+|cmn|扬州|tr=Yángzhōu}}
+* Hungarian: {{t|hu|Jangcsou}}
+* Japanese: {{t|ja|揚州|tr=ようしゅう, Yōshū}}
+{{trans-mid}}
+* Korean: {{t|ko|^양저우}}
+* Macedonian: {{t|mk|Ја́нгџоу|m}}
+* Russian: {{t|ru|Янчжо́у|m}}
+* Vietnamese: {{t|vi|Dương Châu}}
+{{trans-bottom}}</text>
+<sha1>3q0xx4i4an9qkel5qbknncg26a4vse3</sha1>
+</revision>
+</page>

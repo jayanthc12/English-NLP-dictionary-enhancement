@@ -1,0 +1,25 @@
+<page>
+<title>yesters</title>
+<ns>0</ns>
+<id>7093617</id>
+<revision>
+<id>56424085</id>
+<parentid>53093127</parentid>
+<timestamp>2019-10-18T01:59:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yester}}
+===Anagrams===
+* {{anagrams|en|a=eerssty|Eysters|Steyers}}</text>
+<sha1>8107s1npajp0bb1vp8pto8zqidfqpzf</sha1>
+</revision>
+</page>

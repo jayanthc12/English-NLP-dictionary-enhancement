@@ -1,0 +1,41 @@
+<page>
+<title>yaqa</title>
+<ns>0</ns>
+<id>6100272</id>
+<revision>
+<id>60352159</id>
+<parentid>60261877</parentid>
+<timestamp>2020-09-09T02:04:58Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;No […] whitespace at the […] end of a line&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="639" xml:space="preserve">==Fijian==
+===Verb===
+{{head|fj|verb}}
+# {{lb|fj|intransitive}} to [[creep]], to [[crawl]] {{gloss|used especially for insects and bugs}}
+#: {{syn|fj|qasi}}
+{{head|fj|verb|yaqa-va}}
+# {{lb|fj|transitive}} to [[creep]] to, on or over
+====Usage notes====
+The verbs ''yaqa'' and ''yaqava'' should only be used for creatures with legs. For creatures with no legs such as worms, snakes and eels, one should use {{m|fj|dolo}}.
+----
+==Hopi==
+===Noun===
+{{head|hop|noun}}
+# [[nose]] (body part)
+----
+==Quechua==
+===Adverb===
+{{head|qu|adverb}}
+# [[almost]], [[nearly]]
+===Numeral===
+{{head|qu|numeral}}
+# [[quarter]], [[one fourth]]</text>
+<sha1>bc7hti3s76szo754801ap4ob7wnvmio</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>ycaught</title>
+<ns>0</ns>
+<id>3046198</id>
+<revision>
+<id>58051767</id>
+<parentid>54536232</parentid>
+<timestamp>2019-11-24T06:17:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="155" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|caught}}
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|catch|nocat=1}}</text>
+<sha1>5yu0dnurj9bf3ibvuinbs92wp1d6c4z</sha1>
+</revision>
+</page>

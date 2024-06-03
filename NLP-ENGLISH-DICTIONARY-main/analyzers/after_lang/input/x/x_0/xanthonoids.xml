@@ -1,0 +1,23 @@
+<page>
+<title>xanthonoids</title>
+<ns>0</ns>
+<id>4525086</id>
+<revision>
+<id>55645095</id>
+<parentid>53092155</parentid>
+<timestamp>2019-10-15T10:28:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthonoid}}</text>
+<sha1>4t471dc65tn64pa5y16s0oqagemn6xt</sha1>
+</revision>
+</page>

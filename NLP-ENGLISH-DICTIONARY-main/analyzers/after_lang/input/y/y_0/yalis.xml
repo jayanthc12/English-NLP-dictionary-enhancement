@@ -1,0 +1,30 @@
+<page>
+<title>yalis</title>
+<ns>0</ns>
+<id>718622</id>
+<revision>
+<id>62863378</id>
+<parentid>55424215</parentid>
+<timestamp>2021-06-17T07:24:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="208" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yali}}
+===Anagrams===
+* {{anagrams|en|a=ailsy|Islay|saily}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|yali}}</text>
+<sha1>em2drye0k02runf0ros3iupnaisxb3e</sha1>
+</revision>
+</page>

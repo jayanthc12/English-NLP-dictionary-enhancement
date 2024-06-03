@@ -1,0 +1,28 @@
+<page>
+<title>ydinpolttoainekierto</title>
+<ns>0</ns>
+<id>4405293</id>
+<revision>
+<id>69318227</id>
+<parentid>52035639</parentid>
+<timestamp>2022-09-18T17:07:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="281" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinpolttoaine|t1=nuclear fuel|kierto|t2=circulation}}
+===Pronunciation===
+{{fi-p|ydin-poltto-aine*/kierto}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[fuel]] [[circulation]]
+====Declension====
+{{fi-decl-valo|ydinpolttoainekie|rt|rr|o|a}}</text>
+<sha1>hhs8iji3kwph5kpa75hxh6ow6mcvp69</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>xoto</title>
+<ns>0</ns>
+<id>5718035</id>
+<revision>
+<id>69399083</id>
+<parentid>69335967</parentid>
+<timestamp>2022-09-29T17:11:37Z</timestamp>
+<contributor>
+<username>Egbingíga</username>
+<id>3871484</id>
+</contributor>
+<comment>/* Gun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="566" xml:space="preserve">==Gun==
+====Alternative forms====
+*{{alter|guw|hoto}} ''(Nigeria)''
+===Etymology===
+Possibly from {{inh|guw|alv-gbe-pro|*-χʷo}}, cognates include {{cog|ajg|exo}}, {{cog|ayb|xoto}}
+===Pronunciation===
+*{{IPA|guw|/xō.tō/}}
+===Noun===
+{{head|guw|noun|head=xoto|plural|xoto lɛ́}} {{tlb|guw|Benin}}
+# [[belly]]
+# [[pregnancy]]
+----
+==Sechura==
+===Noun===
+{{head|sai-sec|noun}}
+# {{alt form|sai-sec|tutu}}
+===References===
+* Matthias Urban, ''El vocabulario sechurano de Richard Spruce'', in ''Lexis'' volume XXXIX (2) 2015, citing Spruce
+* {{R:CSAIL|261}}</text>
+<sha1>689ccpjf9nq1fiil5aopxd2mgaavd30</sha1>
+</revision>
+</page>

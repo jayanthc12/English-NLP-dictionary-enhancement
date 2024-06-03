@@ -1,0 +1,33 @@
+<page>
+<title>yachty</title>
+<ns>0</ns>
+<id>228289</id>
+<revision>
+<id>60443264</id>
+<parentid>48139974</parentid>
+<timestamp>2020-09-21T04:06:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="355" xml:space="preserve">==English==
+===Etymology 1===
+{{suffix|en|yacht|y|pos2=diminutive suffix}}
+====Alternative forms====
+* {{alter|en|yachtie}}
+====Noun====
+{{en-noun}}
+# {{lb|en|informal}} A [[yachtsman]] or [[yachtswoman]].
+===Etymology 2===
+{{suffix|en|yacht|y}}
+====Adjective====
+{{en-adj|er}}
+# Of or relating to [[yacht]]s.
+[[Category:English 2-syllable words]]</text>
+<sha1>hwn2d5etzjvnioe6eadudxidrv36wai</sha1>
+</revision>
+</page>

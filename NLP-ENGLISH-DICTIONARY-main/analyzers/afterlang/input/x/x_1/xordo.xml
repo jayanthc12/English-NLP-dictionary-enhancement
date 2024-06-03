@@ -1,0 +1,54 @@
+<page>
+<title>xordo</title>
+<ns>0</ns>
+<id>1579932</id>
+<revision>
+<id>68862012</id>
+<parentid>68861288</parentid>
+<timestamp>2022-08-28T05:11:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1544" xml:space="preserve">==Aragonese==
+===Etymology===
+From {{inh|an|la|surdus}}.
+===Adjective===
+{{head|an|adjective}}
+# [[deaf]]
+----
+==Asturian==
+===Adjective===
+{{head|ast|adjective form}}
+# {{inflection of|ast|xordu||n}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|sordo}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|surdus}}. Cognate with {{cog|pt|surdo}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃoɾðʊ]}}
+===Adjective===
+{{gl-adj|f=xorda}}
+# [[deaf]]
+#* '''1457''', J. L. Novo Cazón (ed.), ''El priorato santiaguista de Vilar de Donas en la Edad Media (1194-1500)''. A Coruña: Fundación Barrié, page 400:
+#*: ''dixe aos dictos freyres en como eu era e soon ome que paso de ydade de noueenta annos et fraco e inpotente do corpo e çego et algun tanto '''xordo''', por los quaes defeutos et inpidimentos naturaes eu non poso procurar, admenestrar, defender, anparar et gouernar enno spiritual et tenporal o dicto moesteiro''
+#*:: I told those friars thence that since I was and am a man that surpass the age of ninety years, and am weak and powerless in my body, and blind, and somehow '''deaf''', that because of these defects and natural impediments I can not procure, administer, defend, protect and govern in spiritual and temporal matters said monastery
+# {{lb|gl|linguistics}} [[unvoiced]]
+===Noun===
+{{gl-noun|m|f=xorda}}
+# [[deaf]] person
+===References===
+* {{R:gl:DDGM|sordo}}
+* {{R:gl:CX|xord}}
+* {{R:gl:CX|sord}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Hearing]]</text>
+<sha1>sit0cg0hh4ak2fkndi3m9h5ijzwuehx</sha1>
+</revision>
+</page>

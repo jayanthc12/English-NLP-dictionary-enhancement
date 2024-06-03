@@ -1,0 +1,23 @@
+<page>
+<title>ydmygheden</title>
+<ns>0</ns>
+<id>4580945</id>
+<revision>
+<id>54568066</id>
+<parentid>52793560</parentid>
+<timestamp>2019-10-02T10:47:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{definite singular of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="84" xml:space="preserve">==Danish==
+===Noun===
+{{head|da|noun form}}
+# {{definite singular of|da|ydmyghed}}</text>
+<sha1>kmgfjp5ziucngwdi9qsay8irt903n7q</sha1>
+</revision>
+</page>

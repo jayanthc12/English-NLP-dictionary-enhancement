@@ -1,0 +1,27 @@
+<page>
+<title>yamme</title>
+<ns>0</ns>
+<id>6685350</id>
+<revision>
+<id>67053014</id>
+<parentid>61911854</parentid>
+<timestamp>2022-05-17T11:16:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>templatize topical categories for lang=fr using {{C}}; convert synonyms in French subsection 4 to inline synonyms in subsection 3 based on synonyms with only one definition; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="191" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|Louisiana French}} [[sweet potato]]; [[yam]]
+#: {{syn|fr|patate douce}}
+{{C|fr|Morning glory family plants}}</text>
+<sha1>48le72v0xw150eak8i56aapj9wgsvdt</sha1>
+</revision>
+</page>

@@ -1,0 +1,27 @@
+<page>
+<title>xenagogy</title>
+<ns>0</ns>
+<id>456705</id>
+<revision>
+<id>60445340</id>
+<parentid>58031559</parentid>
+<timestamp>2020-09-21T04:46:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">==English==
+===Etymology===
+From {{m|en|xenagogue}} by analogy with {{m|en|pedagogy}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|very rare}} A [[guidebook]].
+===See also===
+* [[xenagogue]]</text>
+<sha1>e0d21s5q913fzhlnm24aybm2kgf24io</sha1>
+</revision>
+</page>

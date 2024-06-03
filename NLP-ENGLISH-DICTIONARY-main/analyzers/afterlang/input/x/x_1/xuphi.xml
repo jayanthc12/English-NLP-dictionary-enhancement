@@ -1,0 +1,26 @@
+<page>
+<title>xuphi</title>
+<ns>0</ns>
+<id>7321692</id>
+<revision>
+<id>62736784</id>
+<parentid>61614042</parentid>
+<timestamp>2021-06-13T05:44:10Z</timestamp>
+<contributor>
+<username>Kwamikagami</username>
+<id>52912</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==Hadza==
+===Pronunciation===
+* {{IPA|hts|/k͜ǁupʰi/}}
+===Verb===
+{{head|hts|verb}}
+#to close (one's eyes), to sleep
+#: {{syn|hts|ase}}
+[[Category:hts:Sleep]]</text>
+<sha1>su5be6o3h73yhwslevzdi94rrnlcpga</sha1>
+</revision>
+</page>

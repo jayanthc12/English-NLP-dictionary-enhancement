@@ -1,0 +1,29 @@
+<page>
+<title>xata</title>
+<ns>0</ns>
+<id>3652895</id>
+<revision>
+<id>67302971</id>
+<parentid>55550059</parentid>
+<timestamp>2022-06-06T18:27:14Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<comment>/* Catalan */ pron</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="223" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|f|xates}}
+# {{l|en|calf}} {{gloss|young cow or bull}}
+----
+==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{feminine singular of|ca|xato}}</text>
+<sha1>13l4gicjmmvyqpvhq7gdwyjphg8h9ql</sha1>
+</revision>
+</page>

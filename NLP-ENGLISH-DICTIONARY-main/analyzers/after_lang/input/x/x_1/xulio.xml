@@ -1,0 +1,29 @@
+<page>
+<title>xulio</title>
+<ns>0</ns>
+<id>5469106</id>
+<revision>
+<id>60890640</id>
+<parentid>58391770</parentid>
+<timestamp>2020-10-20T17:40:41Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="287" xml:space="preserve">==Galician==
+===Etymology===
+From {{bor|gl|en|joule}}, which is named after the English physicist {{w|James Prescott Joule}}.
+===Noun===
+{{gl-noun|m}}
+# {{l|en|joule}}
+====Synonyms====
+* {{l|gl|joule}}
+[[Category:gl:Energy]]
+[[Category:gl:SI units]]
+[[Category:gl:Units of measure]]</text>
+<sha1>ns00ny714spglmfh6mr12zz3g37vste</sha1>
+</revision>
+</page>

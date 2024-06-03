@@ -1,0 +1,28 @@
+<page>
+<title>xerofilo</title>
+<ns>0</ns>
+<id>1625364</id>
+<revision>
+<id>62769344</id>
+<parentid>51978930</parentid>
+<timestamp>2021-06-16T09:37:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="194" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xero|filo}}
+===Adjective===
+{{it-adj}}
+# {{lb|it|biology}} [[xerophilic]], [[xerophilous]]
+===Noun===
+{{it-noun|m}}
+# {{lb|it|biology}} [[xerophile]]</text>
+<sha1>pzfscvjfr9lyue65yb8g04zchxbmpkw</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xintaremos</title>
+<ns>0</ns>
+<id>4329491</id>
+<revision>
+<id>53115243</id>
+<parentid>40169172</parentid>
+<timestamp>2019-05-19T04:50:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person plural future' to 1|p|fut</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">{{also|xintáremos}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xintar||1|p|fut}}</text>
+<sha1>o5vxmj0ldxhy96akfgfj7gouc6k1h71</sha1>
+</revision>
+</page>

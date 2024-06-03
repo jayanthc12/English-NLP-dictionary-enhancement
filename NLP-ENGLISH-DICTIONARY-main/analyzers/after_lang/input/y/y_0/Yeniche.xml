@@ -1,0 +1,24 @@
+<page>
+<title>Yeniche</title>
+<ns>0</ns>
+<id>4919976</id>
+<revision>
+<id>54988436</id>
+<parentid>47354772</parentid>
+<timestamp>2019-10-10T15:54:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="95" xml:space="preserve">{{also|yéniche|Yéniche}}
+==English==
+===Noun===
+{{en-plural noun}}
+# {{alt form|en|Yenish}}</text>
+<sha1>nb7sywqgpcyojpgk7yyk5mp8faotr6l</sha1>
+</revision>
+</page>

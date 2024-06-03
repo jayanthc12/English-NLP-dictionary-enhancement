@@ -1,0 +1,26 @@
+<page>
+<title>yearman</title>
+<ns>0</ns>
+<id>1215409</id>
+<revision>
+<id>50823022</id>
+<parentid>46797486</parentid>
+<timestamp>2018-11-26T20:09:56Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==English==
+===Noun===
+{{en-noun|yearmen}}
+# {{lb|en|in combination}} Someone in a particular year of e.g. study.
+#: ''He's a second-'''yearman''' at the university.''
+===Anagrams===
+* {{anagrams|en|a=aaemnry|man-year}}</text>
+<sha1>turwh1c8qt1nxf8m5m7zow5cjm43l33</sha1>
+</revision>
+</page>

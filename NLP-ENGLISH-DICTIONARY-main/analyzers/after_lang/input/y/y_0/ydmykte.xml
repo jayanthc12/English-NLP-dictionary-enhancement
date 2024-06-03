@@ -1,0 +1,25 @@
+<page>
+<title>ydmykte</title>
+<ns>0</ns>
+<id>7156766</id>
+<revision>
+<id>53131370</id>
+<parentid>52123150</parentid>
+<timestamp>2019-05-19T09:09:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">==Norwegian Bokmål==
+===Alternative forms===
+* {{alter|nb|ydmyka|ydmyket}}
+===Verb===
+{{nb-verb-form}}
+# {{inflection of|nb|ydmyke||simple past}}</text>
+<sha1>gdcr5h78vkh71ul9mcwtd4su3erq2tz</sha1>
+</revision>
+</page>

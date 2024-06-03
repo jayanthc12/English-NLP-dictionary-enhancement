@@ -1,0 +1,46 @@
+<page>
+<title>Yee</title>
+<ns>0</ns>
+<id>5854669</id>
+<revision>
+<id>69634280</id>
+<parentid>68733736</parentid>
+<timestamp>2022-11-01T11:42:33Z</timestamp>
+<contributor>
+<username>RcAlex36</username>
+<id>3361752</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="998" xml:space="preserve">{{also|yee|yêe|yéé|yę́ę}}
+==English==
+{{wikipedia|Yee (surname)}}
+===Etymology===
+Borrowed from {{bor|en|nan|-}} {{zh-l|余|tr=Î}} or {{bor|en|yue|-}} {{zh-l|爾|tr=ji5}}.
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en|from=Chinese}}.
+===Anagrams===
+* {{anagrams|en|a=eey|Eye|eye}}
+----
+==Cebuano==
+===Etymology===
+From {{bor|ceb|cmn|余|tr=yú}}, spelled as such under [[w:English orthography|English orthography]] during the [[w:History of the Philippines (1898–1946)|American Colonial Era]] in the [[Philippines]]. Also likely influenced by {{bor|ceb|nan-hok|余|tr=î}}.
+===Proper noun===
+{{head|ceb|proper noun}}
+# {{surname|ceb|from=Min Nan}} of Chinese origin
+----
+==Tagalog==
+===Etymology===
+From {{bor|tl|en|Yee}}, from {{der|tl|cmn|余|tr=yú}}, likely also influenced by {{der|tl|nan-hok|余|tr=î}}.
+===Pronunciation===
+* {{tl-IPA|Yi}}
+===Proper noun===
+{{head|tl|proper noun}}
+# {{surname|tl|from=Min Nan}} of Chinese origin
+====See also====
+* {{l|tl|Yu}}</text>
+<sha1>mf04u3r13jkkuy2ik9zqslxs148dt4u</sha1>
+</revision>
+</page>

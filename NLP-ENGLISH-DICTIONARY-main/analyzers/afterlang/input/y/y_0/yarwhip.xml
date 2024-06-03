@@ -1,0 +1,26 @@
+<page>
+<title>yarwhip</title>
+<ns>0</ns>
+<id>3400507</id>
+<revision>
+<id>59986662</id>
+<parentid>49189178</parentid>
+<timestamp>2020-08-07T07:55:52Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete}} The [[bar-tailed godwit]], ''[[Limosa lapponica]]''
+===Anagrams===
+* {{anagrams|en|a=ahiprwy|whipray}}
+[[Category:en:Scolopacids]]</text>
+<sha1>6rdjkr5isiia9khdb4xrldqfwyu4hr9</sha1>
+</revision>
+</page>

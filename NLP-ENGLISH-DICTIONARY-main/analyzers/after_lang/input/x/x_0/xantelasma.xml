@@ -1,0 +1,25 @@
+<page>
+<title>xantelasma</title>
+<ns>0</ns>
+<id>1625317</id>
+<revision>
+<id>45078808</id>
+<parentid>39339327</parentid>
+<timestamp>2017-05-25T20:07:37Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">==Italian==
+===Noun===
+{{it-noun|m}}
+# {{lb|it|medicine}} [[xanthelasma]]
+====Related terms====
+* {{l|it|xantoma}}</text>
+<sha1>f2yalz2509aosq25cygl5gdy4wd8z5e</sha1>
+</revision>
+</page>

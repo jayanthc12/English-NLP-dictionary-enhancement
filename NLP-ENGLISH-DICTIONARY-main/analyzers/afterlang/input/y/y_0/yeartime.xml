@@ -1,0 +1,43 @@
+<page>
+<title>yeartime</title>
+<ns>0</ns>
+<id>3520912</id>
+<revision>
+<id>54180287</id>
+<parentid>52021298</parentid>
+<timestamp>2019-09-19T03:47:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{cog}} for cognates in place of LANG {{m|CODE|...}} or {{etyl|CODE|-}} {{m|CODE|...}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1676" xml:space="preserve">==English==
+===Etymology===
+From {{compound|en|year|time}}. Compare {{cog|nl|jaartijd}}, {{m|nl|jaargetijde||season}}, {{cog|de|Jahreszeit||season, time of year}}, {{cog|sv|årstid||season}}, {{cog|en|yeartide}}.
+===Noun===
+{{en-noun}}
+# A [[time]] of the year; a [[season]].
+#* '''1910''', Sallie Hoffman Perry, ''Poems'':
+#*: Asters. My dearest blossoms of the '''yeartime''' hold Scant eulogy, save wandering children's meed — All scentless [...]
+#* '''1965''', Rowland L. Collins, ''Beowulf'':
+#*: [...], till another '''yeartime''' came to the yards of men, as still today the weather glory-bright always keeps its seasons.
+#* '''1985''', Maureen Duffy, ''Collected poems'':
+#*: Spring that deceive and plugs that won't spark where we made not fierce summer but October soft light lit by flashes I recognize as aurora borealis, a '''yeartime''' of loving out of a fled, raw afternoon.
+#* '''2011''', Alaya Chadwick, ''Alaya's Fables: Tales That Transform &amp; Awaken'':
+#*: There is a “Water Falls” which spills and trickles depending upon the '''yeartime''' one visits its huge boulders.
+# A year's time; the space of time equivalent to a year.
+#* '''1953''', Jack Clement Badcock, ''The truants'':
+#*: [...] even beetle — these thousands of pads in a '''yeartime''' of life — had matted the moss and nettle, [...]
+===Adjective===
+{{en-adj}}
+# [[seasonal|Seasonal]].
+#: '''''yeartime''' variance''
+# Of or pertaining to the timespan of a year or years; [[yearly]].
+#* '''2001''', Sonja Sulzmaier, ''Consumer-oriented business design'':
+#*: To see how valuable a consumer segment really is, calculating such a '''yeartime''' value is obviously not sufficient.</text>
+<sha1>r2i4nx65zrb0yoc2kekduk39y66sv76</sha1>
+</revision>
+</page>

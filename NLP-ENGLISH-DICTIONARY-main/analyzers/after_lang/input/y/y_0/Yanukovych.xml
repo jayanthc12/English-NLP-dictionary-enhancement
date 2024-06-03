@@ -1,0 +1,54 @@
+<page>
+<title>Yanukovych</title>
+<ns>0</ns>
+<id>2044695</id>
+<revision>
+<id>61708215</id>
+<parentid>57973664</parentid>
+<timestamp>2021-02-01T02:36:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{name translit}} for transliterated names, related cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1372" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Yanukovich}}
+===Etymology===
+From {{bor|en|uk|Януко́вич}}.
+===Proper noun===
+{{en-proper noun}}
+# {{name translit|en|uk|Януко́вич|type=surname}}.
+====Translations====
+{{trans-top|Ukrainian surname}}
+* Arabic: {{t|ar|يَانُكُوفِيتْش|tr=yanukūfitš}}
+* Armenian: {{t|hy|Յանուկովիչ|sc=Armn}}
+* Belarusian: {{t|be|Януко́віч|m|f}}
+* Bulgarian: {{t|bg|Януко́вич}}
+* Chinese:
+*: Mandarin: {{t+|cmn|亞努科維奇|sc=Hani}}, {{t+|cmn|亚努科维奇|tr=Yànǔkēwéiqí|sc=Hani}}
+* Czech: {{t+|cs|Janukovyč}}, {{t|cs|Janukovič}}
+* French: {{t|fr|Ianoukovytch}}, {{t+|fr|Ianoukovitch}}
+* Georgian: {{t|ka|იანუკოვიჩი}}
+* German: {{t|de|Janukowytsch}}, {{t|de|Janukowitsch}}
+* Hebrew: {{t|he|ינוקוביץ}}
+{{trans-mid}}
+* Hindi: {{t|hi|यानुकोविच}}
+* Japanese: {{t|ja|ヤヌコーヴィチ|tr=Yanukōvichi}}
+* Korean: {{t|ko|^야누코비치}}
+* Macedonian: {{t|mk|Јанукович}}
+* Persian: {{t|fa|یانوکویچ|tr=yânukovič}}
+* Polish: {{t|pl|Janukowicz}}
+* Portuguese: {{t|pt|Yanukovych}}
+* Russian: {{t+|ru|Януко́вич|m|f}}
+* Serbo-Croatian: {{t|sh|Јанукович|sc=Cyrl}}, {{t|sh|Janukovič}}
+* Spanish: {{t|es|Yanukóvich}}
+* Ukrainian: {{t|uk|Януко́вич|m|f}}
+{{trans-bottom}}</text>
+<sha1>smm54g32fhto03vepr3nvcrp2qi0sbb</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>xylophages</title>
+<ns>0</ns>
+<id>288427</id>
+<revision>
+<id>62863204</id>
+<parentid>54758299</parentid>
+<timestamp>2021-06-17T07:23:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="333" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylophage}}
+----
+==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{homophones|fr|xylophage}}
+* {{hyphenation|fr|xy|lo|phages}}
+===Adjective===
+{{head|fr|adjective form}}
+# {{plural of|fr|xylophage}}
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|xylophage}}</text>
+<sha1>2iegu18nv7un2txft2nwvifswl1q6bk</sha1>
+</revision>
+</page>

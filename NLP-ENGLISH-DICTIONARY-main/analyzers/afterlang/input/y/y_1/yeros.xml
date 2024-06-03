@@ -1,0 +1,36 @@
+<page>
+<title>yeros</title>
+<ns>0</ns>
+<id>4011119</id>
+<revision>
+<id>64470041</id>
+<parentid>64438110</parentid>
+<timestamp>2021-10-28T23:05:10Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Added forms (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="322" xml:space="preserve">{{also|Yeros}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yero}}
+===Anagrams===
+* {{anagrams|en|a=eorsy|Royes|Royse|Sorey|yores}}
+----
+==French==
+===Noun===
+{{head|fr|noun form|g=?}}
+# {{plural of|fr|yero}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{noun form of|es|yero||p}}</text>
+<sha1>dwmn03i7l5j5q75c7gr9lvhck54bsg9</sha1>
+</revision>
+</page>

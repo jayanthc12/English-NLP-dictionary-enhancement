@@ -1,0 +1,36 @@
+<page>
+<title>yawan</title>
+<ns>0</ns>
+<id>6065041</id>
+<revision>
+<id>56442929</id>
+<parentid>53207577</parentid>
+<timestamp>2019-10-18T02:40:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="299" xml:space="preserve">==Kalasha==
+===Alternative forms===
+* {{l|kls|yorwan}}
+===Noun===
+{{head|kls|noun}}
+# [[help]]
+===Synonyms===
+* {{l|kls|madat}}
+----
+==Miskito==
+===Pronunciation===
+* {{IPA|miq|/ˈja.wan/}}
+===Pronoun===
+{{head|miq|pronoun}}
+# {{lb|miq|inclusive}} [[we]]
+====See also====
+{{miq-pers-pron}}</text>
+<sha1>p5clsd486eperk3l9joivsj11vk24fr</sha1>
+</revision>
+</page>

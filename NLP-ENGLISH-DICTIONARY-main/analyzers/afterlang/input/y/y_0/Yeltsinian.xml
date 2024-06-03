@@ -1,0 +1,32 @@
+<page>
+<title>Yeltsinian</title>
+<ns>0</ns>
+<id>4585566</id>
+<revision>
+<id>67642684</id>
+<parentid>61077969</parentid>
+<timestamp>2022-07-04T22:57:59Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Translations */English: add missing {{trans-top}}{{trans-mid}}{{trans-bottom}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="617" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yeltsin|ian}}
+===Adjective===
+{{en-adj}}
+# Of or relating to {{w|Boris Yeltsin}} (Russian: Бори́с Е́льцин; 1931–2007), Russian politician and the first President of the Russian Federation, serving from 1991 to 1999.
+#* {{quote-book|en|title=World politics, 92/93|page=73|author=Helen Purkitt|year=1992|passage=It would be wholly misplaced to assess the '''Yeltsinian''' wager through the prism of our own Jeffersonian democracy.}}
+====Translations====
+{{trans-top}}
+* Italian: {{t+|it|eltsiniano}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:English eponyms]]</text>
+<sha1>38eejzjvdlgm9zwadtu25jx58kidt90</sha1>
+</revision>
+</page>

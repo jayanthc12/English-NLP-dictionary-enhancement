@@ -1,0 +1,29 @@
+<page>
+<title>xilitol</title>
+<ns>0</ns>
+<id>1593051</id>
+<revision>
+<id>69114411</id>
+<parentid>62219318</parentid>
+<timestamp>2022-09-04T16:54:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==Portuguese==
+===Noun===
+{{pt-noun|m|-}}
+# {{lb|pt|organic compound}} [[xylitol]] {{gloss|a pentahydric alcohol derived from xylose}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Noun===
+{{es-noun|m}}
+# {{lb|es|organic compound}} [[xylitol]]</text>
+<sha1>2rcapmyayk35iwiph5vns4e3dt0s8uj</sha1>
+</revision>
+</page>

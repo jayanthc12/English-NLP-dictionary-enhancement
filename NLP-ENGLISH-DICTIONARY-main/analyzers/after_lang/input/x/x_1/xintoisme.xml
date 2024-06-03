@@ -1,0 +1,35 @@
+<page>
+<title>xintoisme</title>
+<ns>0</ns>
+<id>6647357</id>
+<revision>
+<id>69493334</id>
+<parentid>69493308</parentid>
+<timestamp>2022-10-11T04:28:15Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==Catalan==
+===Etymology===
+From {{af|ca|lang1=ja|神道|tr1=Shintō|-isme}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|izme|s=4}}
+===Noun===
+{{ca-noun|m|-}}
+# [[Shinto]] {{gloss|religion of Japan}}
+====Related terms====
+* {{l|ca|xintoista}}
+===Further reading===
+* {{R:DCVB}}
+* {{R:DNV}}
+* {{R:GDLC}}
+* {{R:IEC2}}
+{{c|ca|Religion}}</text>
+<sha1>97ifivs8x8ag9t0yqelbj3u2lnn3162</sha1>
+</revision>
+</page>

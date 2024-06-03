@@ -1,0 +1,28 @@
+<page>
+<title>ydinohjus</title>
+<ns>0</ns>
+<id>748454</id>
+<revision>
+<id>69318214</id>
+<parentid>51994830</parentid>
+<timestamp>2022-09-18T17:06:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|ohjus}}
+===Pronunciation===
+{{fi-p|ydin-ohjus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[missile]]
+====Declension====
+{{fi-decl-vastaus|ydinohju|a}}</text>
+<sha1>nja8dfgtr3obvd36riz4r7521p5jgg5</sha1>
+</revision>
+</page>

@@ -1,0 +1,121 @@
+<page>
+<title>yel</title>
+<ns>0</ns>
+<id>273856</id>
+<revision>
+<id>69458599</id>
+<parentid>69190097</parentid>
+<timestamp>2022-10-06T15:50:12Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3489" xml:space="preserve">{{also|Yel|ýel|þel}}
+==English==
+===Verb===
+{{en-verb}}
+# {{obsolete spelling of|en|yell}}
+===Anagrams===
+* {{anagrams|en|a=ely|Ely|Ley|Lye|ley|lye}}
+----
+==Azerbaijani==
+{{az-variant|c=јел|a=یئل}}
+===Etymology===
+From {{inh|az|trk-pro|*yẹl}}.
+===Pronunciation===
+* {{IPA|az|[jel]}}
+===Noun===
+{{az-noun}}
+# [[wind]]
+#*:{{quote-book|az|year=1954|author={{w|Mohammad-Hossein Shahriar}}|chapter=Heydar Babaya Salam}}
+#*::{{quote|az|‫حیدربابا، گۆن دالووی داغلاسین‬&lt;br/&gt;‫اۆزۆن گۆلسۆن، بولاخلارون آغلاسین‬&lt;br/&gt;اوشاخلارون بیر دسته گۆل باغلاسین&lt;br/&gt;‬یئل''' گلنده، وئر گتیرسین بویانا'''‬&lt;br/&gt;بلکه منیم یاتمیش بختیم اوْیانا‬|transliteration=Heydər Baba, gün daluvı dağlasın,&lt;br/&gt;Üzün gülsün, bulaqlarun ağlasın, &lt;br/&gt;Uşaqlarun bir dəstə gül bağlasın, &lt;br/&gt;'''Yel '''gələndə ver gətirsin bu yana, &lt;br/&gt;[[bəlkə|Bəlkə]] mənim yatmış bəxtim oyana.|translation=Haydar Baba may the sun warm your back,&lt;br/&gt;Make your smiles and your springs shed tears. &lt;br/&gt;Your children collect a bunch of flowers, &lt;br/&gt;Send it with the coming '''wind '''towards us, &lt;br/&gt;Perhaps my sleeping fortune would awaken!}}
+#*:{{quote-book|az|year=1945-|author=Hüseyn Arif|chapter=Mən İnanmadım|passage=Dedilər: - Əhdini danır o ceyran; &lt;br/&gt;Dedim: - Yalan olar! - Mən inanmadım. &lt;br/&gt;Dedilər: - Qış gəlir, qayıt bu yoldan,&lt;br/&gt;Əsdi '''yel''', yağdı qar, mən inanmadım!|translation=They said: the beauty is breaking the sworn oath; &lt;br/&gt;I said: it must be a lie! - I didn't believe. &lt;br/&gt;They said: - The winter is coming, return from this path. &lt;br/&gt;Rose the '''wind''', fell the snow, I didn't believe!}}
+#: {{syn|az|külək}}
+# [[flatus]]
+#: {{uxi|az|[[yel buraxmaq]]|to flatulate}}
+#: {{uxi|az|[[yel çıxarmaq]]|to flatulate}}
+====Declension====
+{{az-decl-noun|e|c}}
+{{C|az|Wind}}
+----
+==Crimean Tatar==
+===Etymology===
+From {{inh|crh|trk-pro|*yẹl}}.
+===Noun===
+{{head|crh|noun}}
+# [[wind]]
+====Declension====
+{{crh-latin-noun|niñ|ge|ni|de|den}}
+----
+==Indonesian==
+{{wikipedia||lang=id}}
+===Etymology===
+From {{bor|id|en|yell}}, from {{der|id|enm|ȝellen}}, {{m|enm|yellen}}, from {{der|id|ang|ġiellan}}, from {{der|id|gem-pro|*gellaną}}.
+===Pronunciation===
+* {{IPA|id|[ˈjɛl]}}
+* {{hyphenation|id|yèl}}
+===Noun===
+{{id-noun|head=|pl=-}}
+# {{l|en|yell}}, [[shout]].
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Salar== 
+===Etymology=== 
+From {{inh|slr|trk-pro|*yẹl}}. 
+===Pronunciation===
+* {{IPA|slr|[jel]}}
+===Noun=== 
+{{slr-noun}} 
+# [[wind]]
+===References=== 
+* {{R:slr:MaChengjun|page=341}}
+* {{R:slr:Lianyun|page=117}}
+* {{R:slr:MaWei|page=104}}
+* {{R:slr:MaWei2|page=260}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[worm]]
+----
+==Turkish==
+===Etymology===
+From {{der|tr|otk|-}} ''yél'', from {{der|tr|trk-pro|*yẹl||wind}}.
+===Pronunciation===
+* {{IPA|tr|/ˈjæl/}}
+===Noun===
+{{head|tr|nouns}}
+# [[wind]]
+----
+==Uzbek==
+===Etymology===
+From {{inh|uz|trk-pro|*yẹl}}.
+===Noun===
+{{uz-noun}}
+# [[wind]]
+----
+==Volapük==
+===Etymology===
+Borrowed from {{bor|vo|en|year}}.
+===Noun===
+{{vo-noun}}
+# [[year]]
+====Declension====
+{{vo-decl-noun}}
+====Derived terms====
+* {{l|vo|lifayel}}
+[[Category:vo:Time]]
+----
+==Zoogocho Zapotec==
+===Noun===
+{{head|zpq|noun}}
+# [[cornfield]]
+===References===
+* {{R:Long &amp; Cruz 2000|page=366}}</text>
+<sha1>sn2aybosiiombz8541uc75y5qe3eq25</sha1>
+</revision>
+</page>

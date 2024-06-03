@@ -1,0 +1,32 @@
+<page>
+<title>yhde</title>
+<ns>0</ns>
+<id>3473232</id>
+<revision>
+<id>65812780</id>
+<parentid>51913747</parentid>
+<timestamp>2022-02-12T20:18:52Z</timestamp>
+<contributor>
+<username>Brittletheories</username>
+<id>3403588</id>
+</contributor>
+<comment>/* Finnish */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="431" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhtyä|t1=to join, unite|e}}
+===Pronunciation===
+{{fi-p|*}}
+===Noun===
+{{fi-noun}}
+# [[coupling]] {{gloss|device, such as tube, cable, channel, rod or similar that couples two or more things together allowing a flow of material or energy between them}}
+====Declension====
+{{fi-decl-hame|yh|d|t|ä}}
+====Synonyms====
+* {{l|fi|yhdyskappale}}
+===Anagrams===
+* {{anagrams|fi|a=dehy|ehdy}}</text>
+<sha1>qo5e2phxut2khsczenwtb55x60fokl4</sha1>
+</revision>
+</page>

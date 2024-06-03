@@ -1,0 +1,24 @@
+<page>
+<title>xings</title>
+<ns>0</ns>
+<id>5875422</id>
+<revision>
+<id>55965396</id>
+<parentid>53092372</parentid>
+<timestamp>2019-10-16T11:36:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">{{also|Xings}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xing}}</text>
+<sha1>fznu9n9t8vjwnc4r4fgunjx6kmbm2bh</sha1>
+</revision>
+</page>

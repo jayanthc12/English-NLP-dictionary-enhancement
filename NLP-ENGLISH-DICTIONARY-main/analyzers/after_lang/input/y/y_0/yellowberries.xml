@@ -1,0 +1,24 @@
+<page>
+<title>yellowberries</title>
+<ns>0</ns>
+<id>1585372</id>
+<revision>
+<id>55679637</id>
+<parentid>53093015</parentid>
+<timestamp>2019-10-15T12:01:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yellowberry}}
+[[Category:English plurals ending in &quot;-ies&quot;]]</text>
+<sha1>cxwco7u5gsz5zglwjx215wkr5tavt6e</sha1>
+</revision>
+</page>

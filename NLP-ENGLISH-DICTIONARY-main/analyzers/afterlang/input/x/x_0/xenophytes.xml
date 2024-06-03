@@ -1,0 +1,23 @@
+<page>
+<title>xenophytes</title>
+<ns>0</ns>
+<id>1343262</id>
+<revision>
+<id>55564370</id>
+<parentid>53092270</parentid>
+<timestamp>2019-10-15T06:48:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenophyte}}</text>
+<sha1>514bikw4z14r3h4e1zzzoexxeb6zoyn</sha1>
+</revision>
+</page>

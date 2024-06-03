@@ -1,0 +1,26 @@
+<page>
+<title>xanthogenic</title>
+<ns>0</ns>
+<id>3730942</id>
+<revision>
+<id>68812746</id>
+<parentid>51983505</parentid>
+<timestamp>2022-08-27T19:58:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="170" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xantho|genic}}.
+===Adjective===
+{{en-adj|-}}
+# Producing a [[yellow]] [[colour]]
+# {{lb|en|organic chemistry}} [[xanthic]]</text>
+<sha1>9x5q55l24g8zulw1lnnrmhhekd3d60b</sha1>
+</revision>
+</page>

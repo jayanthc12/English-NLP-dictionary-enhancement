@@ -1,0 +1,40 @@
+<page>
+<title>yabag</title>
+<ns>0</ns>
+<id>5931710</id>
+<revision>
+<id>65428349</id>
+<parentid>48209957</parentid>
+<timestamp>2022-01-24T15:19:47Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<comment>/* Tagalog */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="527" xml:space="preserve">==Cebuano==
+===Adjective===
+{{head|ceb|adjective}}
+# {{lb|ceb|music}} [[off-key]], [[out of tune]], not [[harmonious]]
+# {{lb|ceb|musical instrument}} something that is not tuned correctly
+===Verb===
+{{ceb-verb|yabag}}
+# {{lb|ceb|music}} to go out of tune
+----
+==Tagalog==
+===Pronunciation===
+* {{hyph|tl|ya|bag}}
+* {{tl-IPA|yabág}}
+===Noun===
+{{tl-noun|yabág}}
+# [[footfall]]; [[footstep]]
+====Derived terms====
+{{der3|tl|yabagan|pagyayabagan}}
+====See also====
+* {{l|tl|yapak}}
+* {{l|tl|tapak}}
+* {{l|tl|padyak}}</text>
+<sha1>1q0f5l3n0fk3s0xlbrgfk5zr356n55a</sha1>
+</revision>
+</page>

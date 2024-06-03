@@ -1,0 +1,27 @@
+<page>
+<title>xuez</title>
+<ns>0</ns>
+<id>3759778</id>
+<revision>
+<id>68813438</id>
+<parentid>47764174</parentid>
+<timestamp>2022-08-27T20:07:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==Asturian==
+===Etymology===
+From {{der|ast|la|iudex|iūdex, iūdicem}}.
+===Noun===
+{{ast-noun|m|xueces}}
+# [[judge]]
+====Related terms====
+* {{l|ast|xulgar}}</text>
+<sha1>5onndyeazs8yo05fks6z617osg16yet</sha1>
+</revision>
+</page>

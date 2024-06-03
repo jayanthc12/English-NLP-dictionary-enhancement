@@ -1,0 +1,31 @@
+<page>
+<title>yape</title>
+<ns>0</ns>
+<id>1286873</id>
+<revision>
+<id>68059587</id>
+<parentid>65362033</parentid>
+<timestamp>2022-07-18T02:39:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yapar]] with 'yapar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="188" xml:space="preserve">{{also|yapé}}
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yapar}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[spider]]</text>
+<sha1>hghaetqgfwal27o0zk8txwai6po4v5w</sha1>
+</revision>
+</page>

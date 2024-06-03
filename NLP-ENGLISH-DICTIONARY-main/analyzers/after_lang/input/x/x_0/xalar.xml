@@ -1,0 +1,36 @@
+<page>
+<title>xalar</title>
+<ns>0</ns>
+<id>7111813</id>
+<revision>
+<id>67335059</id>
+<parentid>51502561</parentid>
+<timestamp>2022-06-10T17:19:23Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="388" xml:space="preserve">==Catalan==
+===Etymology===
+From {{der|ca|la|exhālō}}, probably via {{cog|it|scialare}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|intransitive}} to [[enjoy oneself]]
+#: {{syn|ca|regalar-se}}
+====Conjugation====
+{{ca-conj-ar|xal}}
+====Derived terms====
+{{der3|ca|xala|xalada|xalat}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>jlr4qb1ru5zbct3k304sli4hwl8o3y3</sha1>
+</revision>
+</page>

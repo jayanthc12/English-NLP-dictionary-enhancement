@@ -1,0 +1,28 @@
+<page>
+<title>yhteenkuuluvaisuus</title>
+<ns>0</ns>
+<id>3629812</id>
+<revision>
+<id>69318408</id>
+<parentid>54971220</parentid>
+<timestamp>2022-09-18T17:16:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="261" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteenkuuluvainen|uus}}
+===Pronunciation===
+{{fi-p|yhteen-kuuluvaisuus}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|dated}} {{alternative form of|fi|yhteenkuuluvuus}}.
+====Declension====
+{{fi-decl-kalleus|yhteenkuuluvaisuu|a}}</text>
+<sha1>kt30x2guquh5kalak192cylip4wjilx</sha1>
+</revision>
+</page>

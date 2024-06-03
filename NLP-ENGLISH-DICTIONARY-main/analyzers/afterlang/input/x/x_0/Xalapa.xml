@@ -1,0 +1,38 @@
+<page>
+<title>Xalapa</title>
+<ns>0</ns>
+<id>3185136</id>
+<revision>
+<id>65160877</id>
+<parentid>63953822</parentid>
+<timestamp>2022-01-03T12:10:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Spanish: remove extraneous space surrounding section header name in section 2 (Pronunciation)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="434" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|Jalapa}}
+===Etymology===
+From {{bor|en|es|Xalapa}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|city|state/Veracruz|c/Mexico}}
+#: {{syn|en|Xalapa-Enríquez}}
+----
+==Spanish==
+===Etymology===
+From {{bor|es|nah|Xalapan}}.
+===Pronunciation===
+{{es-IPA|Jalapa}}
+===Proper noun===
+{{es-proper noun}}
+# {{place|es|city|state/Veracruz|c/Mexico}}
+#: {{syn|es|Xalapa-Enríquez}}</text>
+<sha1>je538m2q88cdqu499auw21qmvb4h3n9</sha1>
+</revision>
+</page>

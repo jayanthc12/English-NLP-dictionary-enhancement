@@ -1,0 +1,37 @@
+<page>
+<title>Xylobolus</title>
+<ns>0</ns>
+<id>7012127</id>
+<revision>
+<id>60288249</id>
+<parentid>58061050</parentid>
+<timestamp>2020-09-05T19:33:03Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="739" xml:space="preserve">==Translingual==
+[[File:Xylobolus frustulatus (363448878).jpg|thumb|{{taxlink|Xylobolus frustulatus|species|ver=181130|'''Xylobolus''' frustulatus}}]]
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|{{taxlink|Stereaceae|family|ver=181130}}|certain {{vern|crust fungus|crust fungi}}}}
+====Hypernyms====
+* {{sense|genus}} {{Agaricomycetes Hypernyms}}; [[Russulales]]&amp;nbsp;- order; {{taxlink|Stereaceae|family|ver=181130}}&amp;nbsp;- family
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xylobolus frustulatus|species|ver=181130}}&amp;nbsp;- type species
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:NCBI|i=1|166471}}
+* {{R:EOL|i=1|18801}}
+* {{R:MycoBank|i=1|18770}}</text>
+<sha1>0nep4h8rorkiix82noxhmeoq7lniwz5</sha1>
+</revision>
+</page>

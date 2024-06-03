@@ -1,0 +1,23 @@
+<page>
+<title>yesty</title>
+<ns>0</ns>
+<id>5961884</id>
+<revision>
+<id>54608375</id>
+<parentid>44580827</parentid>
+<timestamp>2019-10-03T05:59:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==English==
+===Adjective===
+{{en-adj}}
+# {{obsolete spelling of|en|yeasty}} {{q|foamy, frothy}}</text>
+<sha1>moqjbv1f62hd2c9wcib25kwfeze7xj5</sha1>
+</revision>
+</page>

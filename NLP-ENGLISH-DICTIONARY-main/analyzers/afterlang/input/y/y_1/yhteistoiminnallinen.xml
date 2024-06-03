@@ -1,0 +1,36 @@
+<page>
+<title>yhteistoiminnallinen</title>
+<ns>0</ns>
+<id>4611515</id>
+<revision>
+<id>69318464</id>
+<parentid>62583270</parentid>
+<timestamp>2022-09-18T17:19:34Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="942" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteistoiminta|llinen}}
+===Pronunciation===
+{{fi-p|yhteis-toiminnallinen}}
+===Adjective===
+{{fi-adj|yhteistoiminnallis|empi|in}}
+# [[cooperative]], [[co-operative]] {{gloss|ready to work with another person or in a team; ready to cooperate}}
+# cooperative, co-operative {{gloss|relating to a cooperative or cooperatives that are not legally organized as ''[[osuuskunta]]''}}
+# cooperative, co-operative {{gloss|relating to cooperation, especially between management and employees as stipulated by law, see ''[[yhteistoiminta]]''}}
+#: '''''yhteistoiminnallinen''' oppiminen'' - '''cooperative''' learning
+====Declension====
+{{fi-decl-nainen|pos=adj|yhteistoiminnalli|a}}
+====Synonyms====
+* {{sense|ready to cooperate}} {{l|fi|yhteistyökykyinen}}, {{l|fi|yhteistyöhaluinen}}
+* {{sense|relating to cooperatives}} {{l|fi|osuustoiminnallinen}}
+====Derived terms====
+* {{l|fi|yhteistoiminnallisuus}}</text>
+<sha1>608ke25rxo5t2ngh1ozfaau7fwi32aw</sha1>
+</revision>
+</page>

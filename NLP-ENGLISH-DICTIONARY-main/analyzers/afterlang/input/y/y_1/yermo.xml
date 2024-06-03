@@ -1,0 +1,43 @@
+<page>
+<title>yermo</title>
+<ns>0</ns>
+<id>92059</id>
+<revision>
+<id>68889352</id>
+<parentid>68001736</parentid>
+<timestamp>2022-08-28T08:54:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="572" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Etymology 1===
+{{inh+|es|LL.|erĕmus}}, borrowed from {{der|es|grc|ἐρῆμος}}, {{m|grc|ἔρημος|t=lonely, solitary, desert, waste}}.
+====Noun====
+{{es-noun|m}}
+# [[wasteland]]
+====Adjective====
+{{es-adj}}
+# [[barren]]; [[deserted]]
+=====Related terms=====
+* {{l|es|yermar}}
+=====See also=====
+* {{l|es|desierto}}
+* {{l|es|páramo}}
+===Etymology 2===
+{{nonlemma}}
+====Verb====
+{{head|es|verb form}}
+# {{es-verb form of|yermar}}
+===Further reading===
+* {{R:es:DRAE}}
+{{cln|es|terms inherited from Latin}}</text>
+<sha1>b72oiwlhcnxrwtelvq87ffthkx9aqtq</sha1>
+</revision>
+</page>

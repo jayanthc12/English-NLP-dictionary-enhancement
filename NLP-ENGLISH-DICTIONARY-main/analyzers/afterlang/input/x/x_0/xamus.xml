@@ -1,0 +1,23 @@
+<page>
+<title>xamus</title>
+<ns>0</ns>
+<id>2616580</id>
+<revision>
+<id>56751541</id>
+<parentid>15896364</parentid>
+<timestamp>2019-10-18T14:39:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|xam||predicative|p}}</text>
+<sha1>fzdpyad2m11tpp63dfwuf0qk54i146u</sha1>
+</revision>
+</page>

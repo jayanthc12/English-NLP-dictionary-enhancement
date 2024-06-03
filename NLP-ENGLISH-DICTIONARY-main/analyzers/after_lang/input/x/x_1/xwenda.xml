@@ -1,0 +1,25 @@
+<page>
+<title>xwenda</title>
+<ns>0</ns>
+<id>5128236</id>
+<revision>
+<id>60833722</id>
+<parentid>44365754</parentid>
+<timestamp>2020-10-12T02:51:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move &quot;Kurdish&quot; lemmas to Northern Kurdish and clean up (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="110" xml:space="preserve">==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun}}
+# [[educated]], [[literate]]</text>
+<sha1>n1dhtuhjppylqk7net4bxtm9hk8rxfj</sha1>
+</revision>
+</page>

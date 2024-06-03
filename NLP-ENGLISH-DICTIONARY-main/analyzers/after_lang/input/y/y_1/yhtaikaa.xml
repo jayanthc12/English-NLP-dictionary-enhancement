@@ -1,0 +1,30 @@
+<page>
+<title>yhtaikaa</title>
+<ns>0</ns>
+<id>1477621</id>
+<revision>
+<id>65148865</id>
+<parentid>47817193</parentid>
+<timestamp>2022-01-03T01:38:38Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="271" xml:space="preserve">{{also|yht'aikaa}}
+==Finnish==
+===Alternative forms===
+* {{l|fi|yht’aikaa}} {{qualifier|dated}}
+===Etymology===
+{{contraction|fi|yhtä aikaa}}
+===Adverb===
+{{fi-adv}}
+# [[at the same time]]
+====Synonyms====
+* {{l|fi|yhtä aikaa}}
+[[Category:Finnish contractions]]</text>
+<sha1>6wpuautq0e6es7sovd0i83gceiie9ot</sha1>
+</revision>
+</page>

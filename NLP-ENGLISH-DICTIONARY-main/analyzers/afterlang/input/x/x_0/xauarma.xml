@@ -1,0 +1,45 @@
+<page>
+<title>xauarma</title>
+<ns>0</ns>
+<id>5116397</id>
+<revision>
+<id>69486594</id>
+<parentid>69114374</parentid>
+<timestamp>2022-10-10T00:03:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="921" xml:space="preserve">==Catalan==
+[[image:Shawarma closeup.png|thumb]]
+===Alternative forms===
+* {{l|ca|shawarma}}
+* {{l|ca|shaurma}}
+* {{l|ca|shawirma}}
+* {{l|ca|shoarma}}
+* {{l|ca|shwarma}}
+===Etymology===
+Borrowed from {{bor|ca|ar|شَاوِرْمَا}}, from {{der|ca|ota|چویرمه|tr={{m|tr|çevirme}}|t=spinning, rotating}}, from {{m|ota|چویرمك|tr={{m|tr|çevirmek}}|t=to turn over}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# {{l|en|shawarma}} {{gloss|Middle Eastern sandwich-like wrap}}
+{{topics|ca|Sandwiches|Meats}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ar|شَاوِرْمَا}}, from {{der|pt|ota|چویرمه|tr={{m|tr|çevirme}}|t=spinning, rotating}}, from {{m|ota|چویرمك|tr={{m|tr|çevirmek}}|t=to turn over}}.
+===Pronunciation===
+{{pt-IPA|xàuarma}}
+===Noun===
+{{pt-noun|f}}
+# [[shawarma]] {{gloss|Middle Eastern sandwich-like wrap}}
+{{C|pt|Sandwiches|Meats}}</text>
+<sha1>p4eufnb0f4a2skqj2wxrotiokjtlmlb</sha1>
+</revision>
+</page>

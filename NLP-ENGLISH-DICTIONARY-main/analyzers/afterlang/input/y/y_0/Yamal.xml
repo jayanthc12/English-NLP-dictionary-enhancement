@@ -1,0 +1,67 @@
+<page>
+<title>Yamal</title>
+<ns>0</ns>
+<id>2162060</id>
+<revision>
+<id>63450897</id>
+<parentid>62004883</parentid>
+<timestamp>2021-07-28T06:47:02Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<comment>add Hausa IPA using headword ([[User:ToilBot/edit logs/2021-07/Hausa IPA|log]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1499" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# A large [[peninsula]] in the [[Russia]]n [[North]].
+====Translations====
+{{trans-top|a large peninsula in the Russian North}}
+* Arabic: {{t|ar|يَامَال|m|tr=yamāl}}
+* Belarusian: {{t|be|Яма́л|m}}
+* Bulgarian: {{t|bg|Яма́л|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|亞馬爾半島}}, {{t|cmn|亚马尔半岛|tr=Yàmǎ'ěr bàndǎo}}, {{t|cmn|亞馬爾}}, {{t|cmn|亚马尔|tr=Yàmǎ'ěr}}
+* Czech: {{t|cs|Jamal|m}}
+* Finnish: {{t|fi|Jamal}}
+* German: {{t|de|Jamal|n}}
+* Japanese: {{t|ja|ヤマル半島|tr=Yamaru hantō}}, {{t|ja|ヤマル|tr=Yamaru}}
+* Korean: {{t|ko|^야말 반도}}, {{t|ko|^야말}}
+{{trans-mid}}
+* Macedonian: {{t|mk|Јама́л|m}}
+* Polish: {{t|pl|Jamał|m}}
+* Portuguese: {{t|pt|Yamal}}
+* Russian: {{t+|ru|Яма́л|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јамал|m}}
+*: Roman: {{t|sh|Jamal|m}}
+* Spanish: {{t|es|península de [[Yamal]]|m}}
+* Ukrainian: {{t|uk|Яма́л|m}}
+{{trans-bottom}}
+====See also====
+* {{l|en|Yamalia}}
+* {{l|en|Nenets}}
+===Anagrams===
+* {{anagrams|en|a=aalmy|Lamay|Malay|Malay.}}
+[[Category:en:Peninsulas]]
+[[Category:en:Russia]]
+----
+==Hausa==
+===Pronunciation===
+* {{ha-IPA|yamàl}}
+===Proper noun===
+{{ha-proper noun|f|Yamàl}}
+# {{place|ha|country|cont/Asia|t=Yemen}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ru|Яма́л}}.
+===Proper noun===
+{{pt-proper noun}}
+# {{place|pt|a=a large|peninsula|in northern|c/Russia|t1=Yamal}}</text>
+<sha1>36kkdnvo70tsbq0pte98hrm8xgwfr7z</sha1>
+</revision>
+</page>

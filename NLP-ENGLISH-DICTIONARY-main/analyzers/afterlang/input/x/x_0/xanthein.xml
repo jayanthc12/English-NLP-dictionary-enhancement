@@ -1,0 +1,40 @@
+<page>
+<title>xanthein</title>
+<ns>0</ns>
+<id>324023</id>
+<revision>
+<id>67289108</id>
+<parentid>65054500</parentid>
+<timestamp>2022-06-06T09:25:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="920" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|fr|xantheine}}, apparently an arbitrary respelling to distinguish it from the similarly spelled {{m|fr|xanthine}}. Ultimately from {{uder|en|grc|-}}; see {{m|en|xanthine}}.
+===Pronunciation===
+* {{IPA|en|/ˈzænθiːn/}}
+* {{homophones|en|xanthene|xanthine}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|chemistry}} The water-soluble part of the yellow [[carotenoid]] pigment present in the cell [[sap]] of some plants.
+====Usage notes====
+* ''Xanthein'' and similar-sounding words have also been used for several different yellow compounds derived from plants.
+====Synonyms====
+* {{l|en|xanthin}}
+* {{l|en|xanthine}}
+====Translations====
+{{trans-top|chemistry: the water-soluble part of the yellow carotenoid pigment present in the cell sap of some plants}}
+* Irish: {{t|ga|xantaein|f}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aehinntx|xanthine}}</text>
+<sha1>hbe0zlm4prridagpiqoxxeelg6w4mz2</sha1>
+</revision>
+</page>

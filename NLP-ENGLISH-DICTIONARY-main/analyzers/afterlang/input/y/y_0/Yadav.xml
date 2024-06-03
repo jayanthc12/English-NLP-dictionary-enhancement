@@ -1,0 +1,34 @@
+<page>
+<title>Yadav</title>
+<ns>0</ns>
+<id>6164349</id>
+<revision>
+<id>67841021</id>
+<parentid>67718086</parentid>
+<timestamp>2022-07-09T22:27:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="655" xml:space="preserve">==English==
+{{swp}}
+===Etymology===
+{{translit|en|hi|यादव}}, {{translit|en|ne|यादव|notext=1}}.
+===Noun===
+{{en-noun|s|Yadav}}
+# A member of a grouping of traditionally non-elite, peasant-pastoral communities or castes in the Indian Subcontinent.
+===Proper noun===
+{{en-prop|Yadavs}}
+# {{surname|en|from=Sanskrit}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yadav'' is the 15734&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1853 individuals. ''Yadav'' is most common among Asian/Pacific Islander (94.01%) individuals.
+===Further reading===
+* {{R:en:DAFN}}
+[[Category:English eponyms]]</text>
+<sha1>7qn2zjdlvt6rx9fyu2lsba9ofeo79qx</sha1>
+</revision>
+</page>

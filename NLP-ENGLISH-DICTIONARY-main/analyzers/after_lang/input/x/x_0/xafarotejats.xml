@@ -1,0 +1,25 @@
+<page>
+<title>xafarotejats</title>
+<ns>0</ns>
+<id>5991146</id>
+<revision>
+<id>64460111</id>
+<parentid>54734272</parentid>
+<timestamp>2021-10-28T12:13:27Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ats|s=5}}
+===Verb===
+{{head|ca|past participle|g=m-p}}
+# {{ca-verb form of|g=mpl|m=ptc|t=past|xafarotejar}}</text>
+<sha1>857idvud76i86i37nfgq0jxfwctjtsi</sha1>
+</revision>
+</page>

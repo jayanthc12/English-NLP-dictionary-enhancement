@@ -1,0 +1,33 @@
+<page>
+<title>xiita</title>
+<ns>0</ns>
+<id>3639788</id>
+<revision>
+<id>69372982</id>
+<parentid>69232536</parentid>
+<timestamp>2022-09-25T10:32:07Z</timestamp>
+<contributor>
+<ip>79.152.113.28</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="623" xml:space="preserve">{{also|xiïta}}
+==Portuguese==
+===Etymology===
+From {{bor|pt|ar|شِيعَة||Shia}} {{suffix|pt||ita}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyphenation|pt|xi|i|ta}}
+===Adjective===
+{{pt-adj|hascomp=no}}
+# {{lb|pt|Islam}} [[Shiite]] {{gloss|of, or relating to Shiites or the Shi'a branch of Islam}}
+# {{lb|pt|slang}} [[extremist]] {{gloss|taking an extreme view on something}}
+===Noun===
+{{pt-noun|mfbysense}}
+# {{lb|pt|Islam}} [[Shiite]] {{gloss|a member of the Shi'a branch of Islam}}
+# {{lb|pt|slang}} [[extremist]] {{gloss|someone who has an extreme view on something}}
+====Coordinate terms====
+* {{l|pt|sunita}}</text>
+<sha1>pfz80794rr957humfnrqg8vtu7wcctn</sha1>
+</revision>
+</page>

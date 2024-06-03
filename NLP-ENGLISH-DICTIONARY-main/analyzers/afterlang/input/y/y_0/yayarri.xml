@@ -1,0 +1,26 @@
+<page>
+<title>yayarri</title>
+<ns>0</ns>
+<id>7051655</id>
+<revision>
+<id>60331206</id>
+<parentid>58074969</parentid>
+<timestamp>2020-09-08T06:51:09Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;No […] whitespace at the […] end of a line&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="161" xml:space="preserve">==Laboya==
+===Adjective===
+{{head|lmy|adjective}}
+# [[quick]]
+#: {{syn|lmy|ngattana|ngingata|payarta|geha|giggara}}
+===References===
+* {{r:lmy:rina|page=103}}</text>
+<sha1>3un1qt8ahh7fi1d9czxv88opdl80zyh</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xendek</title>
+<ns>0</ns>
+<id>6398314</id>
+<revision>
+<id>60848759</id>
+<parentid>60833689</parentid>
+<timestamp>2020-10-14T04:19:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Northern Kurdish==
+===Alternative forms===
+* {{alter|kmr|xendeq}}
+===Etymology===
+From {{bor|kmr|ar|خندق|خَنْدَق|moat}}.
+===Noun===
+{{ku-regional|ckb=خەندەک}}
+{{kmr-noun|m}}
+# [[ditch]], [[trench]], [[channel]]</text>
+<sha1>chgczsffdk79rytsa68501lt30n374n</sha1>
+</revision>
+</page>

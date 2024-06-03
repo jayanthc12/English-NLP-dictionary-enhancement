@@ -1,0 +1,33 @@
+<page>
+<title>XPointer</title>
+<ns>0</ns>
+<id>4578403</id>
+<revision>
+<id>54363542</id>
+<parentid>51578404</parentid>
+<timestamp>2019-09-28T20:47:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="640" xml:space="preserve">==English==
+[[Image:XML languages.svg|thumb|''XML'' languages and their scope]]
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|computing|XML}} A system designed to address [[structural]] and [[positional]] aspects of [[XML]].
+#* {{quote-book|en|title=Putting XML to Work in the Library|author=Dick R. Miller|year=2004|passage=The '''XPointer''' specification was designed for use with XML's linking technology, but it can also be used independently of the XLink specification.}}
+====Related terms====
+* {{l|en|XLink}}
+* {{l|en|XML}}
+* {{l|en|XPath}}
+* {{l|en|XQuery}}
+* {{l|en|XSLT}}
+===Anagrams===
+* {{anagrams|en|a=einoprtx|exportin}}</text>
+<sha1>jkhxg5jbqn1ruq4dle4iibqc6aenkbw</sha1>
+</revision>
+</page>

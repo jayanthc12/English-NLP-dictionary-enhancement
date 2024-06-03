@@ -1,0 +1,25 @@
+<page>
+<title>xoxome</title>
+<ns>0</ns>
+<id>1474976</id>
+<revision>
+<id>63426975</id>
+<parentid>44984399</parentid>
+<timestamp>2021-07-26T03:20:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# {{lb|arn|anatomy}} [[rectum]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>hsinct35ldjohn19g4w33bxs5dpadm9</sha1>
+</revision>
+</page>

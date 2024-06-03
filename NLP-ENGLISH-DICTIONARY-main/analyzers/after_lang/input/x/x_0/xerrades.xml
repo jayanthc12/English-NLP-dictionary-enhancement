@@ -1,0 +1,28 @@
+<page>
+<title>xerrades</title>
+<ns>0</ns>
+<id>6022631</id>
+<revision>
+<id>62883119</id>
+<parentid>57652868</parentid>
+<timestamp>2021-06-18T01:09:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Catalan plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{head|ca|noun form|g=f-p}}
+# {{inflection of|ca|xerrada||p}}
+===Verb===
+{{head|ca|past participle|g=f-p}}
+# {{ca-verb form of|g=fpl|m=ptc|t=past|xerrar}}</text>
+<sha1>59n8o2ehsh7b1wy7rs0uepofk1fpnpp</sha1>
+</revision>
+</page>

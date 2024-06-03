@@ -1,0 +1,23 @@
+<page>
+<title>xubilamos</title>
+<ns>0</ns>
+<id>4351984</id>
+<revision>
+<id>53120032</id>
+<parentid>25807513</parentid>
+<timestamp>2019-05-19T06:04:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person plural present indicative' to 1|p|pres|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xubilar||1|p|pres|ind}}</text>
+<sha1>n3xfcpve8tddbhzjehfj9hlmnrx0qtn</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yestergay</title>
+<ns>0</ns>
+<id>2467442</id>
+<revision>
+<id>55779799</id>
+<parentid>53305934</parentid>
+<timestamp>2019-10-16T02:23:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="309" xml:space="preserve">==English==
+===Etymology===
+{{blend|en|yesterday|gay}}.
+===Pronunciation===
+* {{audio|en|En-au-yestergay.ogg|Audio (AU)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|slang|LGBT}} A former [[gay]] male who is now in a [[heterosexual]] relationship.
+====Coordinate terms====
+* {{l|en|hasbian}}
+[[Category:en:People]]</text>
+<sha1>qg9zv6a5neo53qjnj2xnvqkyij8bapz</sha1>
+</revision>
+</page>

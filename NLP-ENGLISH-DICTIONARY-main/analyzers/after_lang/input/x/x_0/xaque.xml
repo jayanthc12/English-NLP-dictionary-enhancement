@@ -1,0 +1,34 @@
+<page>
+<title>xaque</title>
+<ns>0</ns>
+<id>1777855</id>
+<revision>
+<id>66692973</id>
+<parentid>63204100</parentid>
+<timestamp>2022-05-13T03:21:58Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>correct language code in {{lb}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="343" xml:space="preserve">==Galician==
+===Noun===
+{{head|gl|noun|g=m}}
+# {{lb|gl|chess}} [[check]]
+====Related terms====
+* {{l|gl|xaque mate}}
+----
+==Old Spanish==
+===Etymology===
+From {{bor|osp|ar|-}}; see discussion in the modern descendant {{m|es|jaque}}.
+===Noun===
+{{head|osp|noun|g=m}}
+# {{lb|osp|chess}} [[check]]
+====Descendants====
+* {{desc|es|jaque}}</text>
+<sha1>4rftcf42n18zppt6kxf2usa05txen8h</sha1>
+</revision>
+</page>

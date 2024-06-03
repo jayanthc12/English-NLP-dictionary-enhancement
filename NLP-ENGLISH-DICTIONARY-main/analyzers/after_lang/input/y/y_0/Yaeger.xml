@@ -1,0 +1,34 @@
+<page>
+<title>Yaeger</title>
+<ns>0</ns>
+<id>6138469</id>
+<revision>
+<id>67821183</id>
+<parentid>67698373</parentid>
+<timestamp>2022-07-09T21:13:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="514" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yaegers}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yaeger'' is the 9212&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 3537 individuals. ''Yaeger'' is most common among White (95.73%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aeegry|Yeager}}
+----
+==Pennsylvania German==
+===Etymology===
+Compare {{cog|de|Jäger}}, {{cog|nl|jager}}.
+===Noun===
+{{head|pdc|noun|g=m|plural|Yaeger}}
+# [[hunter]]</text>
+<sha1>lqpj5vwybrw3enazhc2a28nt3vmvyys</sha1>
+</revision>
+</page>

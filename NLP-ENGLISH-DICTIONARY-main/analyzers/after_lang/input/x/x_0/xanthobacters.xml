@@ -1,0 +1,23 @@
+<page>
+<title>xanthobacters</title>
+<ns>0</ns>
+<id>3850783</id>
+<revision>
+<id>56198638</id>
+<parentid>53092138</parentid>
+<timestamp>2019-10-17T08:06:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthobacter}}</text>
+<sha1>bcey6apavdhfq6egqehzu7u4nbasu2g</sha1>
+</revision>
+</page>

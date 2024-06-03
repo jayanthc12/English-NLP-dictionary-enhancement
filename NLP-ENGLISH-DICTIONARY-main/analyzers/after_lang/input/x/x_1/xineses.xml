@@ -1,0 +1,28 @@
+<page>
+<title>xineses</title>
+<ns>0</ns>
+<id>1789855</id>
+<revision>
+<id>66143432</id>
+<parentid>45224281</parentid>
+<timestamp>2022-03-14T08:06:31Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q7026 (cat)-Millars-xineses.wav; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{audio|ca|LL-Q7026 (cat)-Millars-xineses.wav|Audio (Valencian)}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{ca-form of|fp|xinès|val=xinés}}
+===Noun===
+{{head|ca|noun form}}
+# {{ca-form of|fp|xinès|val=xinés}}</text>
+<sha1>g71xu58zf5och197p7uznqwtmcz40oc</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>yawi</title>
+<ns>0</ns>
+<id>4937482</id>
+<revision>
+<id>61149387</id>
+<parentid>56362090</parentid>
+<timestamp>2020-11-18T07:52:36Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="969" xml:space="preserve">==Pipil==
+===Pronunciation===
+* {{a|standard}} {{IPA|ppl|/ˈjawi/}}
+===Verb===
+{{head|ppl|verb}}
+# {{lb|ppl|intransitive}} to [[go]], to [[move]] through space
+#: {{ux|ppl|'''Yajki''' ka itechan pal kita ne imiakwan|She/he '''went''' to his town to see her/his family}}
+#: {{ux|ppl|Nemi pal '''niawi''' nikpanultia muchi tey ne timunekit pal ne shupan|I have to go to move everything we will need for the rainy season}}
+# {{lb|ppl|auxiliary}} to be going to (''used to indicate the future'')
+#: {{ux|ppl|Ashan '''niu'''-ninaka ka nuchan ika nikukuya|Today I'm '''going''' to stay home because I'm sick}}
+====Usage notes====
+* In informal speech, the auxiliary verb ''yawi'' to indicate periphrastic future often takes the shortened form ''yu-'' conjugated for the corresponding person with no plural markers.
+====Conjugation====
+{{ppl-conj-yawi}}
+----
+==Sambali==
+===Etymology===
+Borrowed from {{bor|xsb|es|llave||key}}.
+===Noun===
+{{head|xsb|noun}}
+# [[key]]</text>
+<sha1>pot3an0rpo1ha9cnozueus2h396qh89</sha1>
+</revision>
+</page>

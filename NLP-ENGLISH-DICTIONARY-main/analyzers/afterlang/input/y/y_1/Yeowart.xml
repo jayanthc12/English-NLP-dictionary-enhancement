@@ -1,0 +1,23 @@
+<page>
+<title>Yeowart</title>
+<ns>0</ns>
+<id>7364046</id>
+<revision>
+<id>67799911</id>
+<parentid>67698156</parentid>
+<timestamp>2022-07-09T19:55:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="68" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en}}.</text>
+<sha1>q4tcccbdnx4zmegx3bqm6ju5byiet9q</sha1>
+</revision>
+</page>

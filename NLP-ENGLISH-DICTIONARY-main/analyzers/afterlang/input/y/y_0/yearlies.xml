@@ -1,0 +1,24 @@
+<page>
+<title>yearlies</title>
+<ns>0</ns>
+<id>1096972</id>
+<revision>
+<id>55503888</id>
+<parentid>53092856</parentid>
+<timestamp>2019-10-15T04:10:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="119" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yearly}}
+[[Category:English plurals ending in &quot;-ies&quot;]]</text>
+<sha1>4hss5c4k3v0qm7shu6h7j1nzkhjm010</sha1>
+</revision>
+</page>

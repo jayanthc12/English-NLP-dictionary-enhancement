@@ -1,0 +1,26 @@
+<page>
+<title>yayaberos</title>
+<ns>0</ns>
+<id>5964425</id>
+<revision>
+<id>55309895</id>
+<parentid>41728762</parentid>
+<timestamp>2019-10-14T09:07:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{masculine plural of}}; move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==Spanish==
+===Adjective===
+{{head|es|adjective form|g=m-p}}
+# {{masculine plural of|es|yayabero}}
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{plural of|es|yayabero}}</text>
+<sha1>tbfnuv5ejcscfa8hjrf9ahpassjj1gr</sha1>
+</revision>
+</page>

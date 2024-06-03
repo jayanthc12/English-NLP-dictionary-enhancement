@@ -1,0 +1,33 @@
+<page>
+<title>Yehudit</title>
+<ns>0</ns>
+<id>948876</id>
+<revision>
+<id>65632067</id>
+<parentid>65632066</parentid>
+<timestamp>2022-02-04T01:40:07Z</timestamp>
+<contributor>
+<ip>69.120.66.131</ip>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="802" xml:space="preserve">==English==
+===Alternative forms===
+* {{alt|en|Yehudis}}
+===Etymology===
+Transliteration of {{lbor|en|he|יְהוּדִית||Judith|tr=y'hudít|notext=1}}. {{doublet|en|Judith}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|female|from=Hebrew}}.
+#* {{quote-text|en|year=1994|author={{w|Erica Jong}}|title=Fear of Fifty|page=61|passage=My mother was called '''Yehudit''' by her Russian Jewish parents when she was born in England, but the intransigent Englishman in the registry office had changed it first to Judith and then to Edith ( &quot;good English names&quot; ) - leaving the resultant impression that Jews were not even allowed to keep their own names.}}
+====Related terms====
+{{wikipedia}}
+* [[Judah]]
+* [[Judith]]
+* [[Yehuda]]
+====Translations====
+{{trans-see|female given name|Judith}}</text>
+<sha1>9phu2zvc9m6d44963vuu1vhw8k79inq</sha1>
+</revision>
+</page>

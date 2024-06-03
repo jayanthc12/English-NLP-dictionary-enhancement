@@ -1,0 +1,35 @@
+<page>
+<title>xilofono</title>
+<ns>0</ns>
+<id>814066</id>
+<revision>
+<id>67881966</id>
+<parentid>64713334</parentid>
+<timestamp>2022-07-12T00:37:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{wiki}} to {{wp}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="482" xml:space="preserve">{{also|xilófono}}
+==Italian==
+{{wp|lang=it}}
+[[Image:Mosambik_Xylophon_Linden-Museum_F54669.jpg|thumb|right|250px|Uno '''xilofono''' di legno. – A wooden '''xylophone'''.]]
+===Alternative forms===
+* {{alter|it|silofono}}
+===Etymology===
+{{root|it|ine-pro|*bʰeh₂-|id=speak}}
+{{confix|it|xilo|t1=wood|fono|t2=sound}}
+===Pronunciation===
+{{it-pr|xilòfono}}
+===Noun===
+{{it-noun|m}}
+# [[xylophone]] {{gloss|musical instrument}}
+====Derived terms====
+* {{l|it|xilofonista}}</text>
+<sha1>aqiu45dvbmjwdtnrv6yacixj5e0hc6u</sha1>
+</revision>
+</page>

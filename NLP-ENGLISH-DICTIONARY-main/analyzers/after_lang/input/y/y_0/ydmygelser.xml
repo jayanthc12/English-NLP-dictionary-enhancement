@@ -1,0 +1,23 @@
+<page>
+<title>ydmygelser</title>
+<ns>0</ns>
+<id>4580952</id>
+<revision>
+<id>54520477</id>
+<parentid>52806745</parentid>
+<timestamp>2019-10-01T12:41:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{indefinite plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==Danish==
+===Noun===
+{{head|da|noun form}}
+# {{indefinite plural of|da|ydmygelse}}</text>
+<sha1>2ydopgf69t81w31jljz380271h6mdj7</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xylorimbists</title>
+<ns>0</ns>
+<id>4503497</id>
+<revision>
+<id>55643249</id>
+<parentid>53092506</parentid>
+<timestamp>2019-10-15T10:23:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylorimbist}}</text>
+<sha1>2prdkgx2d9ve7v3mwx0y50ey8fn5i09</sha1>
+</revision>
+</page>

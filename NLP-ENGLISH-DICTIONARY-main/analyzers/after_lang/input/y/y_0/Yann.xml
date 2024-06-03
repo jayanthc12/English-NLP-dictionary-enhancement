@@ -1,0 +1,40 @@
+<page>
+<title>Yann</title>
+<ns>0</ns>
+<id>693465</id>
+<revision>
+<id>68722664</id>
+<parentid>67127421</parentid>
+<timestamp>2022-08-26T04:49:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{given name|br}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="493" xml:space="preserve">==Breton==
+===Etymology===
+From {{der|br|la|Ioannes}}.
+===Proper noun===
+{{br-proper noun}}
+# {{given name|br|male|eq=John|from=Hebrew}}
+====Derived terms====
+* {{l|br|Yannig}} {{q|diminutive}}
+** {{desc|fr|Yannick|bor=1}}
+====Descendants====
+* {{desc|fr|Yann|bor=1}}
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|br|Yann||[[John]]}}.
+===Pronunciation===
+* {{fr-IPA|Yanne}}
+{{homophones|fr|Yanne}}
+===Proper noun===
+{{fr-proper noun|m}}
+# {{given name|fr|male|from=Breton}}</text>
+<sha1>gz3akrpc4h579wammuefbhy2j8yaao5</sha1>
+</revision>
+</page>

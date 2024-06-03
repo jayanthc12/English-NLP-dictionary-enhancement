@@ -1,0 +1,35 @@
+<page>
+<title>Xuanwu</title>
+<ns>0</ns>
+<id>4208026</id>
+<revision>
+<id>67298910</id>
+<parentid>54324890</parentid>
+<timestamp>2022-06-06T12:28:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|cmn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="562" xml:space="preserve">{{also|Xuánwǔ|Xuan Wu}}
+==English==
+{{wikipedia|Black Tortoise}}
+{{wikipedia|Xuan Wu (god)}}
+===Alternative forms===
+* {{l|en|Xuan Wu}}
+* {{l|en|Hsüan-wu}}, {{l|en|Hsüanwu}}, {{l|en|Hsüan Wu}}
+* {{l|en|Hsuanwu}}, {{l|en|Hsuan Wu}}
+===Etymology===
+From the pinyin romanization of {{uder|en|cmn|-}} Chinese {{m|cmn|玄武}} (''Xuánwǔ'', &lt;small&gt;lit.&lt;/small&gt;&amp;nbsp;&quot;Dark Warrior&quot;).
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|astronomy|Chinese culture}} {{synonym of|en|Black Turtle}}
+# A [[Taoist]] [[god]].
+[[Category:en:Gods]]
+[[Category:en:Taoism]]</text>
+<sha1>qer8msp9dock4aygyjho8wsol1nliwy</sha1>
+</revision>
+</page>

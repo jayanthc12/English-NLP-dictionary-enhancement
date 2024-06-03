@@ -1,0 +1,36 @@
+<page>
+<title>ydinherne</title>
+<ns>0</ns>
+<id>4617490</id>
+<revision>
+<id>69318152</id>
+<parentid>52039421</parentid>
+<timestamp>2022-09-18T17:03:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="470" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|herne}}
+===Pronunciation===
+{{fi-p|ydin-herne*}}
+===Noun===
+{{fi-noun}}
+# Common name for several cultivars of [[garden pea]], ''Pisum sativum var. sativum''.
+====Declension====
+{{fi-decl-hame|ydinhern|||ä}}
+====Hypernyms====
+* {{l|fi|herne}} {{qualifier|Pisum sativum}}
+* {{l|fi|tarhaherne}} {{qualifier|garden pea}}
+====Hyponyms====
+* silpoydinherne
+* taittoydinherne
+====Related terms====
+* {{l|fi|sokeriherne}}</text>
+<sha1>52awrwsuvojl57z2vx4s1dhqs4rn1ms</sha1>
+</revision>
+</page>

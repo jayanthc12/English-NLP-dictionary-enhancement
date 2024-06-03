@@ -1,0 +1,34 @@
+<page>
+<title>xurelo</title>
+<ns>0</ns>
+<id>6464637</id>
+<revision>
+<id>68867119</id>
+<parentid>68833225</parentid>
+<timestamp>2022-08-28T05:46:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="400" xml:space="preserve">==Galician==
+[[File:Atlantic Horse Mackerel.jpg|thumb|''xurelo'']]
+===Etymology===
+From {{inh|gl|VL.|*sorellus}}, from {{m|la|saurellus}}, from {{der|gl|grc|σαῦρος||jack mackerel}}.
+===Pronunciation===
+* {{IPA|gl|/ʃuˈɾɛlo̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[jack mackerel]]
+#: {{syn|gl|chicharro|chincho}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+{{C|gl|Jackfish}}</text>
+<sha1>pkqam7qdhf5834c5dt2ahk5q5d53pnl</sha1>
+</revision>
+</page>

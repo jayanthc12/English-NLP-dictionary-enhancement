@@ -1,0 +1,163 @@
+<page>
+<title>yaw</title>
+<ns>0</ns>
+<id>37635</id>
+<revision>
+<id>69501462</id>
+<parentid>66678357</parentid>
+<timestamp>2022-10-12T15:02:32Z</timestamp>
+<contributor>
+<username>Rich Farmbrough</username>
+<id>2068</id>
+</contributor>
+<comment>/* Anagrams */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5800" xml:space="preserve">{{also|Yaw}}
+==English==
+===Pronunciation===
+* {{enPR|yô}}, {{IPA|en|/jɔː/}}
+* {{audio|en|en-us-yaw.ogg|Audio (US)}}
+* {{rhymes|en|ɔː|s=1}}
+* {{homophones|en|yore|your|you're}} {{q|some non-rhotic accents}}
+===Etymology 1===
+{{unknown|en}}, first attested in the mid-16th century. Compare to {{m|en|yar}}.
+====Noun====
+{{wikipedia}}
+{{en-noun}}
+# The [[rotation]] of an [[aircraft]], [[ship]], or [[missile]] about its [[vertical]] [[axis]] so as to cause the [[longitudinal]] axis of the aircraft, ship, or missile to [[deviate]] from the [[flight]] line or [[heading]] in its horizontal [[plane]].
+# The [[angle]] between the longitudinal axis of a projectile at any moment and the [[tangent]] to the [[trajectory]] in the [[corresponding]] point of flight of the [[projectile]].
+# {{lb|en|nautical}} A [[vessel]]'s [[motion]] [[rotate|rotating]] about the vertical axis, so the [[bow]] yaws from side to side; a characteristic of [[unsteadiness]].
+# The [[extent]] of [[#Verb|yaw]]ing; the [[rotation]] [[angle]] about the vertical axis.
+#: {{ux|en|the '''yaw''' of an aircraft}}
+=====Derived terms=====
+* {{l|en|adverse yaw}}
+* {{l|en|yaw damper}}
+=====Translations=====
+{{trans-top|The rotation of an aircraft, ship, or missile about its vertical axis so as to cause the longitudinal axis of the aircraft, ship, or missile to deviate from the flight line or heading in its horizontal plane}}
+* Arabic: {{t-needed|ar}}
+* Bulgarian: {{t-needed|bg}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t-needed|cs}}
+* Dutch: {{t-needed|nl}}
+* Esperanto: {{t-needed|eo}}
+* Finnish: {{t+|fi|kääntyminen}}
+* French: {{t+|fr|lacet|m}}
+* Georgian: {{t|ka|კურსიდან გადახვევა}}
+* German: {{t|de|Gieren|n}}
+{{trans-mid}}
+* Greek: {{t+|el|ελιγμός|m}}
+* Hebrew: {{t-needed|he}}
+* Italian: {{t+|it|imbardata|f}}
+* Japanese: {{t-needed|ja}}
+* Korean: {{t-needed|ko}}
+* Polish: {{t+|pl|odchylenie|n}}, {{t+|pl|obrót|m}}
+* Portuguese: {{t+|pt|guinada|f}}
+* Russian: {{t|ru|[[поворо́т]] [[вокру́г]] [[вертикальный|вертикальной]] [[ось|оси]]}}, {{t+|ru|рысканье|n}}
+* Swedish: {{t+|sv|gir|c}}
+* Thai: {{t-needed|th}}
+{{trans-bottom}}
+{{trans-top|The angle between the longitudinal axis of a projectile at any moment and the tangent to the trajectory in the corresponding point of flight of the projectile}}
+* Finnish: {{t+|fi|kääntyminen}}
+* German: {{t|de|Gierwinkel|m}}
+{{trans-mid}}
+* Russian: {{t|ru|[[у́гол]] [[рысканье|рысканья]]|n}}
+{{trans-bottom}}
+{{trans-top|A vessel's motion rotating about the vertical axis, so the bow yaws from side to side; a characteristic of unsteadiness}}
+* Finnish: {{t|fi|mutkailu}}
+* French: {{t+|fr|lacet|m}}
+{{trans-mid}}
+* Italian: {{t|it|straorzata|f}}
+* Spanish: {{t+|es|guiñada|f}}
+{{trans-bottom}}
+{{trans-top|The extent of yawing, the rotation angle about the vertical axis}}
+* Finnish: {{t+|fi|kääntyminen}}
+{{trans-mid}}
+* German: {{t|de|Gierwinkel|m}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Italian: {{t+|it|imbardata|f}}
+{{trans-mid}}
+{{trans-bottom}}
+====Verb====
+{{en-verb}}
+# {{lb|en|intransitive|aviation}} To [[turn]] about the [[vertical]] [[axis]] while maintaining [[course]].
+# {{lb|en|intransitive|nautical}} To [[swerve]] off course to [[port]] or [[starboard]].
+# {{lb|en|intransitive|nautical}} To [[steer]] badly, [[zigzag]]ging back and forth across the [[intended]] [[course]] of a boat; to go out of the line of course.
+#* {{RQ:Lowell Fireside Travels }}
+#*: Just as he would lay the ship's course, all '''yawing''' being out of the question.
+# {{lb|en|intransitive}} To [[rise]] in [[blister]]s, breaking in white [[froth]], as [[cane]] [[juice]] in the [[clarifier]]s in sugar works.
+=====Translations=====
+{{trans-top|To turn about the vertical axis while maintaining course}}
+* Finnish: {{t+|fi|kääntyä}}
+{{trans-mid}}
+* German: {{t+|de|gieren}}
+* Hebrew: {{t+|he|הִסְתַבְסֵב|m|tr=histavsev}}
+* Portuguese: {{t+|pt|guinar}}
+{{trans-bottom}}
+{{trans-top|To swerve off course to port or starboard}}
+* Finnish: {{t+|fi|poiketa}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|To steer badly, zigzagging back and forth across the intended course of a boat; to go out of the line of course}}
+* Hebrew: {{t+|he|הִסְתַבְסֵב|m|tr=histavsev}}
+* Maori: {{t|mi|wherori}}, {{t|mi|tiwai}}
+{{trans-mid}}
+{{trans-bottom}}
+{{checktrans-top}}
+* German: 1. [[schwanken]]
+{{trans-mid}}
+* Italian: {{t|it|imbardare}}
+{{trans-bottom}}
+====See also====
+* {{l|en|heading}}
+* {{l|en|pitch}}
+* {{l|en|roll}}
+* {{l|en|surge}}
+* {{l|en|scend}}
+===Etymology 2===
+====Noun====
+{{en-noun}}
+# A single [[tumor]] in the disease called [[yaws]].
+#* '''1770''', William Northcote, ''The Marine Practice of Physic and Surgery'' (page 408)
+#*: Sometimes there remains one large '''Yaw''', high and knobbed, red and moist; this is called the master '''Yaw'''; {{...}}
+===Homophones===
+* {{homophones|en|Yaw|yore|your|you're}}
+===Anagrams===
+* {{anagrams|en|a=awy|'way|Way|way|wya}}
+[[Category:en:Military]]
+----
+==Kalasha==
+===Conjunction===
+{{head|kls|conjunction}}
+# [[or]]
+====Synonyms====
+* {{l|kls|khoyo}}
+----
+==Matal==
+===Etymology===
+Ultimately from {{inh|mfh|cdc-pro|*ymn}}. Cognate with {{cog|mfi|yawe}}, {{cog|pbi|yəwa}}, {{cog|mlw|yàm}}, etc.
+===Noun===
+{{head|mfh|noun}}
+# [[water]]
+===References===
+* ''Topics in Chadic linguistics 3'', volume 3 (2007), page 56
+----
+==Middle English==
+===Pronoun===
+{{head|enm|pronoun}}
+# {{alt form|enm|yow}}
+----
+==Pnar==
+===Etymology===
+From {{inh|pbv|aav-khs-pro|*jaw||market}}. Cognate with {{cog|kha|ïew||market}}, {{m|kha|taïew||week}}.
+===Pronunciation===
+* {{IPA|pbv|/jaw/}}
+===Noun===
+{{head|pbv|noun}}
+# [[market]]
+# [[week]]</text>
+<sha1>pfbbkfe9e60dkbvqp0ruu1z4tmpqj3m</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yasu</title>
+<ns>0</ns>
+<id>4406722</id>
+<revision>
+<id>44068978</id>
+<parentid>27172850</parentid>
+<timestamp>2017-05-24T22:19:36Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やす}}</text>
+<sha1>k3xec05bqrck8lkdy4cuoqnnych7rzi</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>yayyafi</title>
+<ns>0</ns>
+<id>4184255</id>
+<revision>
+<id>63450907</id>
+<parentid>47409981</parentid>
+<timestamp>2021-07-28T06:47:15Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<comment>add Hausa IPA using headword ([[User:ToilBot/edit logs/2021-07/Hausa IPA|log]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==Hausa==
+===Pronunciation===
+* {{ha-IPA|yayyafī}}
+===Noun===
+{{ha-noun|m|yayyafī}}
+# {{lb|ha|weather}} [[drizzle]], light rain</text>
+<sha1>6eaccfaa4dvfe2eexhw76apl2alsidk</sha1>
+</revision>
+</page>

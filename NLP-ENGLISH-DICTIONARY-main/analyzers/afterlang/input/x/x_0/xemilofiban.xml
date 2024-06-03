@@ -1,0 +1,26 @@
+<page>
+<title>xemilofiban</title>
+<ns>0</ns>
+<id>2193868</id>
+<revision>
+<id>65314675</id>
+<parentid>61241244</parentid>
+<timestamp>2022-01-11T21:08:56Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<minor />
+<comment>Remove broken WP link (semi-automated)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="234" xml:space="preserve">==English==
+===Etymology===
+From {{af|en||-fiban|t2=fibrinogen receptor antagonist}}.
+{{rfe|en}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pharmaceutical drug}} A [[prodrug]] with possible action against [[cardiovascular]] [[disorder]]s.</text>
+<sha1>945cohdkc2928vomz3d27oeh6z785zt</sha1>
+</revision>
+</page>

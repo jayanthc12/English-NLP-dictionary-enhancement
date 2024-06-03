@@ -1,0 +1,23 @@
+<page>
+<title>xylacine</title>
+<ns>0</ns>
+<id>6642091</id>
+<revision>
+<id>54332668</id>
+<parentid>49402358</parentid>
+<timestamp>2019-09-28T09:15:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{synonym of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="67" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# {{synonym of|en|xylazine}}</text>
+<sha1>2ws60ey2l5ach2hx0isc32bfplqoi9q</sha1>
+</revision>
+</page>

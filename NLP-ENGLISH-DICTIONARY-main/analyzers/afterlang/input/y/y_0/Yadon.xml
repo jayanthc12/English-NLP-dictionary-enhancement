@@ -1,0 +1,27 @@
+<page>
+<title>Yadon</title>
+<ns>0</ns>
+<id>6280446</id>
+<revision>
+<id>67784883</id>
+<parentid>67753836</parentid>
+<timestamp>2022-07-09T18:57:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="354" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yadons}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yadon'' is the 26492&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 921 individuals. ''Yadon'' is most common among White (94.03%) individuals.
+===Anagrams===
+* {{anagrams|en|a=adnoy|ayond}}</text>
+<sha1>eidrtxfqif0sn7z91fciz2idpv0iaj4</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>Yeshu</title>
+<ns>0</ns>
+<id>3056808</id>
+<revision>
+<id>62074259</id>
+<parentid>59131339</parentid>
+<timestamp>2021-03-13T21:13:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-proper noun}}; remove g= from {{lad-proper noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="462" xml:space="preserve">==Ladino==
+===Etymology===
+From {{der|lad|la|Iēsus}}, from {{der|lad|grc|Ἰησοῦς}}, from {{der|lad|he|ישוע|tr=y'hoshúa|sc=Hebr}}.
+===Proper noun===
+{{lad-proper noun}}
+# [[Jesus]]
+[[Category:lad:Christianity]]
+----
+==Old Occitan==
+===Etymology===
+From {{inh|pro|la|Iēsus}}, from {{der|pro|grc|Ἰησοῦς}}, from {{der|pro|he|ישוע|tr=y'hoshúa}}.
+===Proper noun===
+{{head|pro|proper noun}}
+# [[Jesus]]
+[[Category:pro:Christianity]]</text>
+<sha1>fgb4in4d8ayja5jrvb5x8v6dz7vxpc7</sha1>
+</revision>
+</page>

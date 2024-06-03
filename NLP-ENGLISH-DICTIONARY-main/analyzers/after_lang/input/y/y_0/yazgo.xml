@@ -1,0 +1,26 @@
+<page>
+<title>yazgo</title>
+<ns>0</ns>
+<id>225235</id>
+<revision>
+<id>68017812</id>
+<parentid>62125022</parentid>
+<timestamp>2022-07-18T01:12:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[yacer]] with 'yacer'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yacer}}
+#: {{syn|es|yazco|yago}}</text>
+<sha1>cntakt69clnspmypnpztan95epmwvhq</sha1>
+</revision>
+</page>

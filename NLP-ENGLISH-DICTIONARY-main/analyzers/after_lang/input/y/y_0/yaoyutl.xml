@@ -1,0 +1,23 @@
+<page>
+<title>yaoyutl</title>
+<ns>0</ns>
+<id>480035</id>
+<revision>
+<id>55209169</id>
+<parentid>15551923</parentid>
+<timestamp>2019-10-14T04:10:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==Classical Nahuatl==
+===Noun===
+{{head|nci|noun}}
+# {{alternative spelling of|nci|yaoyotl}}</text>
+<sha1>1yg8yc1x31l8uun8wg59vq4czmeqhh7</sha1>
+</revision>
+</page>

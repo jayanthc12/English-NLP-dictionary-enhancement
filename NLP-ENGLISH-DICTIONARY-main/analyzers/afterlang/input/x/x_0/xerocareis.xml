@@ -1,0 +1,24 @@
+<page>
+<title>xerocareis</title>
+<ns>0</ns>
+<id>4638145</id>
+<revision>
+<id>48940650</id>
+<parentid>46603233</parentid>
+<timestamp>2018-02-06T14:51:49Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Orphaned RFD-failed templates, removed redundant genders that are already in the definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|xerocáreis}}
+==Portuguese==
+===Verb===
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xerocar}}</text>
+<sha1>r2okrpguwuth3hewudx4d2k3ng04hs0</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yearbooklike</title>
+<ns>0</ns>
+<id>6113447</id>
+<revision>
+<id>51968593</id>
+<parentid>42789271</parentid>
+<timestamp>2019-03-17T19:18:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="125" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yearbook|like}}.
+===Adjective===
+{{en-adj}}
+# Resembling a {{l|en|yearbook}}.</text>
+<sha1>h8u80em4vw0xtrax05zz4gl9ebhdfkc</sha1>
+</revision>
+</page>

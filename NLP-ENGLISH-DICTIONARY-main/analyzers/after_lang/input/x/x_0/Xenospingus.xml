@@ -1,0 +1,32 @@
+<page>
+<title>Xenospingus</title>
+<ns>0</ns>
+<id>3075486</id>
+<revision>
+<id>58058910</id>
+<parentid>46423626</parentid>
+<timestamp>2019-11-24T22:14:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{rfelite}} to {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="274" xml:space="preserve">==Translingual==
+{{wikipedia}}
+{{wikispecies}}
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Thraupidae}}
+====Hypernyms====
+* {{sense|genus}} {{Thraupidae Hypernyms}}
+===References===
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>63ndma77qngzeheid4ds90mrj8ulqix</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>Xerox</title>
+<ns>0</ns>
+<id>170669</id>
+<revision>
+<id>64245216</id>
+<parentid>61150010</parentid>
+<timestamp>2021-10-16T17:57:18Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="501" xml:space="preserve">{{also|xerox}}
+==English==
+===Noun===
+{{en-noun}}
+# {{alternative case form of|en|xerox}}
+===Verb===
+{{en-verb}}
+# {{alternative case form of|en|xerox}}
+----
+==Hungarian==
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|Xe|rox}}
+* {{rhymes|hu|oks|s=2}}
+===Proper noun===
+{{head|hu|proper noun}}
+# An American multinational document management corporation.
+====Declension====
+{{hu-infl-nom|Xeroxo|o|v=sz}}{{hu-pos-otok|Xerox||ai}}
+====Derived terms====
+* {{l|hu|xerox}}
+* {{l|hu|xeroxi}}</text>
+<sha1>1atgljbgnaoluyapqsruqfheoclq8zn</sha1>
+</revision>
+</page>

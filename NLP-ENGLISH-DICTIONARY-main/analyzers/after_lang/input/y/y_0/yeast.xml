@@ -1,0 +1,287 @@
+<page>
+<title>yeast</title>
+<ns>0</ns>
+<id>4299</id>
+<revision>
+<id>69531719</id>
+<parentid>69368966</parentid>
+<timestamp>2022-10-16T19:26:21Z</timestamp>
+<contributor>
+<username>Hazarasp</username>
+<id>3219301</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="12432" xml:space="preserve">==English==
+{{wikipedia}}
+[[File:Dry yeast.jpg|thumb|right|Dry yeast, for use in baking. (3)]]
+[[File:Simple diagram of yeast cell (en).svg|thumb|right|A diagram of a typical yeast cell]]
+===Etymology===
+{{root|en|ine-pro|*-tus}}
+From {{inh|en|enm|yest}}, {{m|enm|yeest}}, {{m|enm|gest}}, {{m|enm|gist}}, from {{inh|en|ang|ġist}}, {{m|ang|ġyst}}, from {{inh|en|gmw-pro|*jestu}}, from {{inh|en|gem-pro|*jestuz}}. Cognate with {{cog|stq|Jääst|t=yeast}}, {{cog|fy|gêst}}, {{m|fy|gist|t=yeast}}, {{cog|nl|gist|t=yeast}}, {{cog|nds-de|Gest|t=yeast}}, {{cog|de|Gischt|t=sea foam}}, {{cog|sv|jäst|t=yeast}}, {{cog|no|jest|t=yeast}}, {{cog|is|jöstur|t=yeast}}.
+===Pronunciation===
+* {{a|RP}} {{enPR|yēst}}, {{IPA|en|/jiːst/}}
+* {{a|GA}} {{enPR|yēst}}, {{IPA|en|/jist/}}
+* {{a|dialectal}} {{IPA|en|/iːst/}}&lt;ref&gt;{{cite-book|date=August 1973|last=Jones|first=M. Jean|title=The Regional English of the Former Inhabitants of Cades Cove in the Great Smoky Mountains|publisher={{w|University of Tennessee, Knoxville}}|url=https://trace.tennessee.edu/utk_graddiss/1622/|page=121}}.&lt;/ref&gt;
+* {{audio|en|En-au-yeast.ogg|Audio (AU)}}
+* {{rhymes|en|iːst|s=1}}
+===Noun===
+{{en-noun|~}}
+# An often humid, yellowish [[froth]] produced by fermenting malt worts, and used to brew [[beer]], leaven [[bread]], and also used in certain medicines.
+# A single-celled [[fungus]] of a wide variety of taxonomic families.
+#* {{quote-book|en|passage=A microscopical examination of the '''yeast''' taken from these rapid vigorous fermentations will only be able to give useful conclusions in one respect.|page=17|title=Practical Management of Pure Yeast: The Application and Examination of Brewery, Distillery, and Wine, Yeasts|author=Alfred Peter Carlslund Jørgensen (R. Grey, translator)|publisher=The Brewing trade review|year=1903}}
+## A [[true yeast]] or {{vern|budding yeast}} in order [[Saccharomycetales]].
+### {{vern|baker's yeast}}, ''[[Saccharomyces cerevisiae]]''
+#### A compressed cake or dried [[granule]]s of this substance used for mixing with flour to make bread dough rise.
+### [[brewer's yeast]], certain species of ''[[Saccharomyces]]'', principally ''[[Saccharomyces cerevisiae]]'' and {{taxlink|Saccharomyces carlsbergensis|species|ver=161009}}.
+## ''[[Candida]]'', a ubiquitous fungus that can cause various kinds of infections in humans.
+### The resulting infection, [[candidiasis]].
+# {{lb|en|figuratively}} A frothy foam.
+#* {{RQ:Melville Moby-Dick|text=But what most puzzled and confounded you was a long, limber, portentous, black mass of something hovering in the centre of the picture over three blue, dim, perpendicular lines floating in a nameless '''yeast'''.}}
+====Derived terms====
+{{rel-top|terms derived from ''yeast'' (noun)}}
+* {{l|en|active dry yeast}}
+* {{vern|baker's yeast}}
+* {{l|en|brewer's yeast}}
+* {{l|en|red yeast rice}}
+{{der-mid}}
+* {{l|en|true yeast}}
+* {{l|en|turbo yeast}}
+* {{l|en|yeast extract}}
+* {{l|en|yeast infection}}
+* {{l|en|yeasty}}
+{{der-bottom}}
+====Translations====
+{{trans-top|fungus}}
+* Afrikaans: {{t|af|gis}}
+* Albanian: {{t|sq|thartinë|f}}, {{t+|sq|tharm|m}}, {{t+|sq|maja|f}}
+* Arabic: {{t|ar|خَمِيرَة|f}}
+*: Moroccan Arabic: {{t|ary|خميرة|f|tr=ḵmīra}}
+* Armenian: {{t+|hy|խմորիչ}}
+* Azerbaijani: {{t+|az|maya}}, {{t|az|acıtma}}
+* Belarusian: {{t|be|дро́жджы|f-p|sc=Cyrl}}
+* Bengali: {{t|bn|খামির}}
+* Bulgarian: {{t+|bg|квас|m|sc=Cyrl}}
+* Burmese: {{t+|my|တဆေး}}
+* Catalan: {{t+|ca|llevat|m}}
+* Chichewa: {{t|ny|yisiti}}
+* Chinese:
+*: Cantonese: {{t|yue|酵母|tr=gaau3 mou5|sc=Hani}}
+*: Mandarin: {{t+|cmn|酵母|tr=mainland China: jiàomǔ; Taiwan: xiàomǔ}}
+* Czech: {{t+|cs|kvasinka|f}}
+* Danish: {{t|da|gær|c}}
+* Dutch: {{t+|nl|gist|m}}
+* Esperanto: {{t+|eo|gisto}}
+* Estonian: {{t+|et|pärm}}, {{t|et|pärmseened}}
+* Faroese: {{t|fo|ger|f}}
+* Finnish: {{t+|fi|hiiva}}, {{t|fi|hiivasieni}}
+* French: {{t+|fr|levure|f}}
+* Georgian: {{t|ka|სოკო}}
+* German: {{t+|de|Hefe|f}}, {{t+|de|Hefepilz|m}}
+* Greek: {{t+|el|μαγιά|f}}, {{t+|el|ζύμη|f}}
+*: Ancient: {{t|grc|ζύμη|f}}
+* Gujarati: {{t|gu|યીસ્ટના|f}}
+* Haitian Creole: {{t|ht|ledven}}
+* Hebrew: {{t+|he|שְׁמָרִים|m-p|tr=sh'marím}}
+* Hindi: {{t+|hi|ख़मीर|m}}, {{t+|hi|खमीर|m}}
+* Hungarian: {{t+|hu|élesztő}}
+* Icelandic: {{t+|is|ger|n}}
+* Ido: {{t+|io|hefo}}
+* Indonesian: {{t+|id|ragi}}
+* Irish: {{t|ga|giosta|m}}, {{t|ga|gabháil|f}}
+* Italian: {{t+|it|lievito|m}}
+* Japanese: {{t+|ja|酵母|tr=こうぼ, kōbo}}
+* Kabuverdianu: {{t|kea|furméntu}}
+* Kannada: {{t+|kn|ಹುದುಗು}}
+* Kazakh: {{t|kk|ашытқы}}
+* Khmer: {{t+|km|ដំបែ|tr=dɑmbae}}
+* Korean: {{t+|ko|효모(酵母)}}
+* Kyrgyz: {{t+|ky|ачыткы}}
+{{trans-mid}}
+* Lao: {{t|lo|ຢັ່ນ}}, {{t|lo|ສ່າ}}, {{t|lo|ຫມັກ}}, {{t|lo|ເຊຶ້ອ}}
+* Latgalian: {{t|ltg|mīlis|m}}
+* Latin: {{t|la|fermentum|n}}
+* Latvian: {{t|lv|raugs|m}}, {{t|lv|ieraugs|m}}
+* Lithuanian: {{t|lt|mielės|m}}
+* Macedonian: {{t|mk|квасец|m}}
+* Malay: {{t|ms|yis}}, {{t|ms|ragi}}, {{t|ms|khamir}}
+* Malayalam: {{t|ml|യീസ്റ്റ്}}
+* Maltese: {{t|mt|ħmira|f}}
+* Manchu: {{t|mnc|ᠮᠠᡩᠠᠰᡠ|tr=madasu}}
+* Maori: {{t|mi|īhi}}
+* Maranao: {{t|mrw|tapay}}
+* Neapolitan: {{t|nap|criscito}}
+* Norwegian: {{t+|no|gjær|m}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|дрождиѩ|f-p}}
+* Persian: {{t+|fa|مخمر|tr=moxammer}}
+* Plautdietsch: {{t|pdt|Häw|f}}
+* Polish: {{t+|pl|drożdże|f-p}}
+* Portuguese: {{t+|pt|fermento}}, {{t+|pt|levedura}}
+* Romanian: {{t+|ro|drojdie|f}}, {{t|ro|levură|f}}, {{t+|ro|ferment}}
+* Russian: {{t+|ru|дро́жжи|f-p}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|квас|m}}, {{t|sh|квасац|m}}
+*: Roman: {{t+|sh|kvas|m}}, {{t+|sh|kvasac|m}}
+* Skolt Sami: {{t|sms|jäˊstt}}
+* Slovak: {{t|sk|kvas|m}}, {{t|sk|kvasinka|f}}
+* Slovene: {{t+|sl|kvas|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|droždźeje|p}}
+* Spanish: {{t+|es|levadura|f}}
+* Swahili: {{t+|sw|hamira}}
+* Swedish: {{t+|sv|jäst}}
+* Tagalog: {{t|tl|lebadura}}
+* Tajik: {{t+|tg|хамиртуруш|sc=Cyrl}}
+* Thai: {{t|th|ยีสต์}}, {{t|th|ส่า}}, {{t|th|เชื้อหมัก}}
+* Turkish: {{t+|tr|maya}}
+* Turkmen: {{t|tk|hamyrmaýa}}
+* Ukrainian: {{t|uk|дрі́жджі|m-p}}
+* Urdu: {{t|ur|خمیر|m|tr=xamīr}}
+* Uyghur: {{t|ug|ئېچىتقۇ}}
+* Uzbek: {{t+|uz|achitqi}}, {{t+|uz|xamirturush}}, {{t+|uz|drojji}}
+* Vietnamese: {{t+|vi|men}}
+* Welsh: {{t|cy|burum|m}}
+* Yiddish: {{t|yi|הייוון|f-p}}
+{{trans-bottom}}
+{{trans-top|froth used in medicine, baking and brewing}}
+* Afrikaans: {{t|af|gis|s}}
+* Albanian: {{t|sq|thartinë|f}}
+* Arabic: {{t|ar|خَمِيرَة|f}}
+*: Moroccan Arabic: {{t|ary|خميرة|f|tr=ḵmīra}}
+* Armenian: {{t+|hy|թթխմոր}}
+* Bulgarian: {{t+|bg|мая́|f}}, {{t+|bg|квас|m}}
+* Catalan: {{t+|ca|llevat|m}}
+* Chinese:
+*: Cantonese: {{t|yue|酵母|tr=gaau3 mou5|sc=Hani}}
+*: Mandarin: {{t+|cmn|酵母|tr=mainland China: jiàomǔ; Taiwan: xiàomǔ}}
+* Czech: {{t+|cs|droždí|n}}, {{t|cs|kvasnice|f-p}}
+* Danish: {{t|da|gær|c}}
+* Dutch: {{t+|nl|gist|m}}
+* Esperanto: {{t|eo|fermentilo}}, {{t|eo|feĉo}}
+* Estonian: {{t+|et|pärm}}
+* Faroese: {{t|fo|ger|f}}
+* Finnish: {{t+|fi|hiiva}}
+* French: {{t+|fr|levure|f}}
+* Friulian: {{t|fur|levan|m}}
+* Georgian: {{t|ka|საფუარი}}
+* German: {{t+|de|Hefe|f}}, {{qualifier|Northern Germany}} {{t+|de|Bärme|f}}, {{qualifier|southeastern Germany, Austria}} {{t+|de|Germ|f}}, {{qualifier|regional, especially in Northern Germany outdated, in South Africa (KwaZulu-Natal) rare}} {{t+|de|Gest|m|f}}, {{qualifier|South Africa (KwaZulu-Natal)}} {{t+|de|Yeast|m}}
+* Greek:
+*: Ancient: {{t|grc|ζύμη|f}}
+* Hebrew: {{t+|he|שמרים}}
+* Hindi: {{t+|hi|ख़मीर|m}}, {{t+|hi|खमीर|m}}
+* Ido: {{t+|io|hefo}}
+* Irish: {{t|ga|gabháil|f}}, {{t|ga|giosta|m}}
+* Italian: {{t+|it|lievito|m}}, {{t+|it|fermento|m}}
+* Japanese: {{t+|ja|酵母|tr=kōbo}}, {{t|ja|イースト|tr=īsuto}}
+{{trans-mid}}
+* Korean: {{t+|ko|효모(酵母)}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|hevîrtirş|f}}
+* Latin: {{t|la|fermentum|n}}
+* Latvian: {{t|lv|raugs|f}}
+* Macedonian: {{t|mk|квасец|m}}
+* Maori: {{t|mi|īhi}}
+* Norwegian: {{t+|no|gjær|m}}
+* Occitan: {{t+|oc|levadura|f}}
+* Persian: {{t+|fa|مخمر|tr=moxammer|sc=fa-Arab}}, {{t|fa|لوور|tr=levur|sc=fa-Arab}}
+* Polish: {{t+|pl|drożdże|f-p}}
+* Portuguese: {{t+|pt|fermento}}, {{t+|pt|levedura}}
+* Romanian: {{t+|ro|drojdie|f}}, {{t|ro|levură|f}}
+* Romansch: {{t|rm|levon|m}}, {{t|rm|levànt|m}}, {{t|rm|lavamaint|m}}, {{t|rm|tschadamaint|m}}, {{t|rm|alvo}}, {{t|rm|alvamaint|m}}
+* Russian: {{t+|ru|дро́жжи|f-p}}
+* Somali: {{t|so|khamiir}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|droždźeje|p}}
+* Spanish: {{t+|es|levadura|f}}
+* Swedish: {{t+|sv|jäst}}
+* Tagalog: {{t|tl|lebadura}}, {{t|tl|pampaalsa}}
+* Taos: {{t|twf|cą̀pienéna}}
+* Turkish: {{t+|tr|maya}}, {{t+|tr|hamur}}
+* Ukrainian: {{t|uk|дрі́жджі|f-p|sc=Cyrl}}
+* Urdu: {{t|ur|خمیر|m|tr=xamīr}}
+* Venetian: {{t|vec|levà|m}}
+* Walloon: {{t+|wa|yesse|f}}, {{t+|wa|yesses|p|f}}, {{t+|wa|leyes|p|f}}, {{t|wa|leveure|f}}
+* Welsh: {{t|cy|burum|m}}, {{t|cy|berem|m}} {{qualifier|South}}
+{{trans-bottom}}
+{{trans-top|cake or dried granules used to make bread dough rise}}
+* Albanian: {{t|sq|thartinë|f}}
+* Arabic: {{t|ar|خَمِيرَة|f}}
+*: Moroccan Arabic: {{t|ary|خميرة|f|tr=ḵmīra}}
+* Armenian: {{t+|hy|թթխմոր}}
+* Bulgarian: {{t+|bg|мая}}
+* Catalan: {{t+|ca|llevat|m}}
+* Chinese:
+*: Cantonese: {{t|yue|酵母|tr=gaau3 mou5|sc=Hani}}, {{t|yue|依仕|tr=ji1 si6-2|sc=Hani}}
+*: Mandarin: {{t+|cmn|酵母|tr=mainland China: jiàomǔ; Taiwan: xiàomǔ}}
+* Czech: {{t+|cs|droždí|n}}, {{t|cs|kvasnice|f-p}}
+* Danish: {{t|da|gær|c}}
+* Dutch: {{t+|nl|gist|m}}
+* Esperanto: {{t|eo|feĉo}}
+* Faroese: {{t|fo|ger|f}}
+* Finnish: {{t+|fi|hiiva}}, {{t+|fi|kuivahiiva}}
+* French: {{t+|fr|levure|f}}
+* German: {{t+|de|Hefe|f}}, {{qualifier|Northern Germany}} {{t+|de|Bärme|f}}, {{qualifier|southeastern Germany, Austria}} {{t+|de|Germ|f}}, {{qualifier|regional, especially in Northern Germany outdated, in South Africa (KwaZulu-Natal) rare}} {{t+|de|Gest|m|f}}, {{qualifier|South Africa (KwaZulu-Natal)}} {{t+|de|Yeast|m}}
+* Icelandic: {{t+|is|ger|n}}
+* Ido: {{t+|io|hefo}}
+* Interlingua: {{t|ia|levatura}}
+* Irish: {{t|ga|giosta|m}}, {{t|ga|gabháil|f}}
+{{trans-mid}}
+* Italian: {{t+|it|lievito|m}}
+* Japanese: {{t|ja|イースト菌|tr=イーストきん, īsuto-kin}}
+* Macedonian: {{t|mk|квасец|m}}
+* Navajo: {{t|nv|bááh bił álʼíní}}, {{t|nv|dííkʼǫsh}}
+* Norwegian: {{qualifier|no gender}} {{t+|no|gjær}}
+* Persian: {{t+|fa|خمیرمایه|tr=xamirmâye|sc=fa-Arab}}
+* Polish: {{t+|pl|drożdże|p}}
+* Portuguese: {{t+|pt|levedura|f}}
+* Russian: {{t+|ru|дро́жжи|f-p}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|квасац|m|sc=Cyrl}}, {{t|sh|герма|f|sc=Cyrl}}
+*: Roman: {{t+|sh|kvasac|m}}, {{t+|sh|germa|f}}
+* Slovak: {{t|sk|kvasnice}}, {{t|sk|droždie|n}}
+* Slovene: {{t+|sl|kvas|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|droždźeje|p}}
+* Spanish: {{t+|es|levadura|f}}
+* Swedish: {{t+|sv|jäst|c}}
+* Turkish: {{t+|tr|maya}}
+* Ukrainian: {{t|uk|дрі́жджі|f-p|sc=Cyrl}}
+{{trans-bottom}}
+{{trans-top|frothy foam on sea waves}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|رغوة|f|tr=raḡwa}}
+* Bulgarian: {{t+|bg|гребен|m}}
+* Dutch: {{t+|nl|schuim|n}}
+* Finnish: {{t+|fi|vaahto}}
+* French: {{t+|fr|écume|f}}
+* German: {{t+|de|Gischt|f}}
+* Greek: {{t+|el|μαγιά|f}}
+{{trans-mid}}
+* Irish: {{t|ga|[[coipeadh]] [[cúir]]|m}}
+* Italian: {{t+|it|schiuma|f}}, {{t+|it|spuma|f}}
+* Maltese: {{t|mt|ragħwa|m-p}}
+* Portuguese: {{t+|pt|espuma|f}}
+* Swedish: {{t+|sv|skum|n}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Slovene: {{t+check|sl|kvas|m}}, {{t-check|sl|droži|f-p}}
+{{trans-mid}}
+* Turkish: {{t+check|tr|maya}}
+{{trans-bottom}}
+====See also====
+* {{l|en|leaven}}
+* {{l|en|nutritional yeast}}
+===Verb===
+{{en-verb}}
+# To [[ferment]].
+# {{lb|en|of something prepared with a yeasted dough}} To [[rise]].
+# {{lb|en|African American Vernacular English|slang}} To [[exaggerate]]. &lt;ref&gt;http://www.probertencyclopaedia.com/cgi-bin/res.pl?keyword=Yeasting&amp;offset=0&lt;/ref&gt;
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=aesty|Yates|Yeats|as yet|teasy|yates|yeats}}
+[[Category:en:Fungi]]</text>
+<sha1>9i5f58jhshsvnnvp8x5ev2yknex5jku</sha1>
+</revision>
+</page>

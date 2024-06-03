@@ -1,0 +1,62 @@
+<page>
+<title>Yard</title>
+<ns>0</ns>
+<id>170795</id>
+<revision>
+<id>61094981</id>
+<parentid>60896535</parentid>
+<timestamp>2020-11-12T07:10:54Z</timestamp>
+<contributor>
+<username>Dentonius</username>
+<id>3730085</id>
+</contributor>
+<comment>/* Jamaican Creole */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1657" xml:space="preserve">{{also|yard}}
+==English==
+===Proper noun===
+{{en-proper noun|head=the [[yard|Yard]]}}
+# {{w|Scotland Yard}} or {{w|New Scotland Yard}}
+# {{lb|en|Jamaica}} [[Jamaica]]
+# {{lb|en|figurative|metonym}} The {{w|Metropolitan Police Service}}
+====Derived terms====
+* {{lb|en|Jamaica}} {{l|en|Yardie}}
+====Translations====
+{{trans-top|(New) Scotland Yard}}
+* German: {{t|de|([[der]]) [[Yard]]|m}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-see|Jamaica}}
+===Anagrams===
+* {{anagrams|en|a=adry|Dray|Dyar|Rady|adry|dray}}
+----
+==Jamaican Creole==
+===Alternative forms===
+* {{alter|jam|Yaad|Yawd}}
+===Etymology===
+From {{der|jam|en|yard}}.
+===Pronunciation===
+* {{IPA|jam|/jɑːd/|/jɔːd/}}
+* {{hyphenation|jam|Yard}}
+===Proper noun===
+{{jam-proper noun}}
+# [[Jamaica]]
+#* {{quote-book|jam
+|author=Victor Headley
+|isbn=9781874509073
+|page=147
+|passage=“Undeterred, D. repeated: &quot;Consultant, dat is someone who advise people, help dem ina dem work, nuh true?&quot; He didn't wait for confirmation.&quot; So really, is only 'bout we as '''Yard''' man yuh can advise dem.&quot; It was indisputable logic.” {{...}}
+|title=Yush!
+|translation=Undeterred, D. repeated: &quot;Consultant, that's someone who who advises people, helps them with their work, isn't that so?&quot; He didn't wait for confirmation.&quot; So really, the only thing you can advise them about is us -- people from '''Jamaica'''. It was indisputable logic. {{...}}
+|year=1994
+}}
+#: {{ux|jam|No weh nuh better than '''Yard'''.|No place else is better than '''Jamaica'''.}}
+====Synonyms====
+* {{l|jam|Jamaica}}, {{l|jam|Jamdown}}, {{l|jam|Jamrock}}, {{l|jam|Jumieka}}
+====See also====
+* {{l|jam|yard}}
+* {{l|jam|yardie}}</text>
+<sha1>bu8qzgppgkj9ctkiin5c0koj5flwygl</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xanthopathy</title>
+<ns>0</ns>
+<id>3732136</id>
+<revision>
+<id>68812763</id>
+<parentid>51983506</parentid>
+<timestamp>2022-08-27T19:58:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xantho|pathy}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pathology}} [[xanthochromia]]</text>
+<sha1>mrukv64rv5sp1eqxjwm2ardqv0gmmr4</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yardeko</title>
+<ns>0</ns>
+<id>3054399</id>
+<revision>
+<id>62003469</id>
+<parentid>52016786</parentid>
+<timestamp>2021-03-09T22:53:57Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Moving Novial content to [[Appendix:Novial/yardeko]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">==Ido==
+===Etymology===
+{{compound|io|yaro|deko}}
+===Noun===
+{{io-noun|yardek}}
+# [[decade]]
+[[Category:io:Time]]</text>
+<sha1>6waceg4ieo3sjragagl0v4idigouled</sha1>
+</revision>
+</page>

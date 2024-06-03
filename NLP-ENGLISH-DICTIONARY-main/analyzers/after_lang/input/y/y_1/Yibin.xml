@@ -1,0 +1,53 @@
+<page>
+<title>Yibin</title>
+<ns>0</ns>
+<id>6731625</id>
+<revision>
+<id>69581256</id>
+<parentid>67890261</parentid>
+<timestamp>2022-10-23T17:29:13Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 2007 Book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1173" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|I-pin}}
+* {{l|en|Yipin}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|宜賓}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Sichuan|c/China}}.
+#* {{quote-book
+|en
+|year=2007
+|last=Armstrong
+|first=Dan
+|chapter=12
+|title=Taming the Dragon
+|url=https://archive.org/details/tamingdragon0000arms/
+|genre=Fiction
+|ISBN=978-0-595-42125-1
+|OCLC=216935559
+|page=82
+|pageurl=https://archive.org/details/tamingdragon0000arms/page/82/
+|text=About six that evening, they motored beneath the Jiang’an Changliang Bridge and into the city of '''Yibin''', known from ancient times as the source of the Yangtze. And so said Yong just as the Great River split into the Jin Sha River to the right and Min River to the left.}}
+====Synonyms====
+* {{l|en|Süchow}}
+====Translations====
+{{trans-top|prefecture-level city in China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|宜賓|sc=Hani}}, {{t+|cmn|宜宾|tr=Yíbīn|sc=Hani}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>o63uuh1vuzepbgi02c7vfrraacctqfq</sha1>
+</revision>
+</page>

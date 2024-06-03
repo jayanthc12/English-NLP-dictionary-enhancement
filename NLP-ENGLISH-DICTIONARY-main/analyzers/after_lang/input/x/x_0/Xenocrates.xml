@@ -1,0 +1,41 @@
+<page>
+<title>Xenocrates</title>
+<ns>0</ns>
+<id>1732966</id>
+<revision>
+<id>59627803</id>
+<parentid>49640069</parentid>
+<timestamp>2020-06-27T23:32:34Z</timestamp>
+<contributor>
+<username>DTLHS</username>
+<id>794618</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="812" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|grc|Ξενοκράτης|}}.
+===Proper noun===
+{{en-proper noun}}
+# (c. 396–314 {{B.C.E.}}) An Ancient Greek [[philosopher]], mathematician, and the second leader (scholarch) of the [[Plato|Platonic]] [[Academy]] from 339 to 314 {{B.C.E.}}.
+====Derived terms====
+* {{l|en|Xenocratean}}
+====Translations====
+{{trans-top|philosopher}}
+* Armenian: {{t|hy|Քսենոկրատես}}
+*: Old Armenian: {{t|xcl|Քսենոկրատէս}}
+* Greek:
+*: Ancient: {{t|grc|Ξενοκράτης|m}}
+{{trans-mid}}
+* Irish: {{t|ga|Seanócraitéas}}
+* Italian: {{t|it|Senocrate|m}}
+* Russian: {{t|ru|Ксенократ|m}}
+* Spanish: {{t|es|Jenócrates}}, {{t|es|Xenócrates}}
+{{trans-bottom}}
+===Further reading===
+* {{R:OneLook}}
+[[Category:en:Individuals]]</text>
+<sha1>cnc1o6mrpgaiowt1vvezs7juyrpr7v4</sha1>
+</revision>
+</page>

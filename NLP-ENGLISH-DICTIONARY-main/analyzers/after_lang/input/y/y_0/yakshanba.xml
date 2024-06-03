@@ -1,0 +1,29 @@
+<page>
+<title>yakshanba</title>
+<ns>0</ns>
+<id>4816709</id>
+<revision>
+<id>60143373</id>
+<parentid>59014499</parentid>
+<timestamp>2020-08-24T10:43:40Z</timestamp>
+<contributor>
+<ip>8.210.167.95</ip>
+</contributor>
+<comment>/* Uzbek */a</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Uzbek==
+{{wikipedia|lang=uz}}
+{{uz-variant|c=якшанба|r=yakshanba|a=يەكشەنبە}}
+{{attention|uz|basic stub}}
+===Etymology===
+From {{bor|uz|fa|یک‌شنبه}}.
+===Noun===
+{{uz-noun}}
+# [[Sunday]]
+===See also===
+{{table:days of the week/uz}}
+{{c|uz|Days of the week}}</text>
+<sha1>2zwqzqiychqhvmxffa325a2bqucmnbi</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yeas</title>
+<ns>0</ns>
+<id>1405709</id>
+<revision>
+<id>55601933</id>
+<parentid>53092870</parentid>
+<timestamp>2019-10-15T08:33:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yea}}
+===Anagrams===
+* {{anagrams|en|a=aesy|Ayes|Saye|Seay|ayes|easy|eyas|saye|yaes}}</text>
+<sha1>sfzbljdt97isbukuktb0r5a90cpk8fk</sha1>
+</revision>
+</page>

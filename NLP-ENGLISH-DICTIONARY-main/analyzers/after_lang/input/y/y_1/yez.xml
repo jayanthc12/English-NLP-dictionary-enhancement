@@ -1,0 +1,30 @@
+<page>
+<title>yez</title>
+<ns>0</ns>
+<id>1390326</id>
+<revision>
+<id>65250319</id>
+<parentid>62706742</parentid>
+<timestamp>2022-01-09T06:32:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Scots: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="198" xml:space="preserve">==Scots==
+===Pronoun===
+{{sco-pron}}
+# {{alternative form of|sco|youz}}
+----
+==Zoogocho Zapotec==
+===Noun===
+{{head|zpq|noun}}
+# [[corncob]]
+===References===
+* {{R:Long &amp; Cruz 2000|page=367}}</text>
+<sha1>12sl942hej33jjqv4tysoujy12ochn7</sha1>
+</revision>
+</page>

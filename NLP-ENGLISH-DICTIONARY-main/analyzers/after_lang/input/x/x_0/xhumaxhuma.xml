@@ -1,0 +1,27 @@
+<page>
+<title>xhumaxhuma</title>
+<ns>0</ns>
+<id>6919299</id>
+<revision>
+<id>50442897</id>
+<parentid>50442895</parentid>
+<timestamp>2018-10-06T04:44:24Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="200" xml:space="preserve">==Xhosa==
+===Etymology===
+Reduplicated form of {{m|xh|xhuma|3=-xhuma}}.
+===Verb===
+{{xh-verb}}
+# to [[jump]]
+#: {{syn|xh|gxuma|alt1=-gxuma|tsiba|alt2=-tsiba}}
+====Inflection====
+{{rfinfl|xh|verb}}</text>
+<sha1>0alojp2vr46d0lv115akm6w5tgppjek</sha1>
+</revision>
+</page>

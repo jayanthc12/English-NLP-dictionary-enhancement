@@ -1,0 +1,25 @@
+<page>
+<title>xeromorpher</title>
+<ns>0</ns>
+<id>6171726</id>
+<revision>
+<id>60597335</id>
+<parentid>58423979</parentid>
+<timestamp>2020-09-27T13:19:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xeromorpher.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xeromorph}}</text>
+<sha1>nx0ccrnwg8inpslnnz8upkvghj834p5</sha1>
+</revision>
+</page>

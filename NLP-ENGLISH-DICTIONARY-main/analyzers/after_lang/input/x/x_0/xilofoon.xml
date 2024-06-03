@@ -1,0 +1,26 @@
+<page>
+<title>xilofoon</title>
+<ns>0</ns>
+<id>3097330</id>
+<revision>
+<id>68432045</id>
+<parentid>43560979</parentid>
+<timestamp>2022-07-22T09:21:04Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q14196 (afr)-Oesjaar-xilofoon.wav; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="192" xml:space="preserve">==Afrikaans==
+===Pronunciation===
+* {{audio|af|LL-Q14196 (afr)-Oesjaar-xilofoon.wav|Audio}}
+===Noun===
+{{af-noun|xilofone|xilofoontjie}}
+# [[xylophone]]
+[[Category:af:Musical instruments]]</text>
+<sha1>eoh59wvzdh5ohko6j7b2upk5irs0ula</sha1>
+</revision>
+</page>

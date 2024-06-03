@@ -1,0 +1,42 @@
+<page>
+<title>xaltetlah</title>
+<ns>0</ns>
+<id>3825678</id>
+<revision>
+<id>54529646</id>
+<parentid>51928522</parentid>
+<timestamp>2019-10-01T15:22:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1568" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2014|May|9}}
+===Alternative forms===
+* {{l|nci|xaltetla}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{suffix|nci|xāltetl|tlah|t1=gravel}}.
+===Pronunciation===
+* {{IPA|nci|[ʃaːɬˈte.t͡ɬaʔ]}}
+===Noun===
+{{nci-noun|loc|xāltetlah}}
+# an expanse of [[gravel]] or [[pebbles]]; a place abounding with small [[rocks]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 45v.
+#*: Caſcajo otro.&amp;nbsp;&amp;nbsp;&amp;nbsp;xaltetl. / Caſcal.&amp;nbsp;&amp;nbsp;&amp;nbsp;'''xaltetla'''.
+#*:: Another [kind of] gravel.&amp;nbsp;&amp;nbsp;&amp;nbsp;xaltetl. / An expanse of gravel.&amp;nbsp;&amp;nbsp;&amp;nbsp;'''xaltetla'''.
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 158v. col. 1.
+#*: '''Xaltetla'''. lugar donde ay muchas chinas o pedrezuelas.
+#*:: '''Xaltetla'''. a place where there are many pebbles or small rocks.
+====Synonyms====
+* {{sense|expanse of gravel or pebbles}} {{l|nci|tetzicuehuallah|tetzicuēhuallah}}, {{l|nci|xaxalteyoh|xāxālteyoh}}
+====Related terms====
+* {{l|nci|tetlah}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=2008|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]] (1571)|publisher=Editorial Porrúa|page=158}}</text>
+<sha1>iv6omexycxktzpqwfcde603dcb6zl9d</sha1>
+</revision>
+</page>

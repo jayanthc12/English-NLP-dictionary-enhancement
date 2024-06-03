@@ -1,0 +1,32 @@
+<page>
+<title>yeniden</title>
+<ns>0</ns>
+<id>3551528</id>
+<revision>
+<id>65238082</id>
+<parentid>63505170</parentid>
+<timestamp>2022-01-08T02:32:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Turkish: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="436" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یكیدن|tr=yeñiden}}, from {{m|und|*yaŋï-dan}} /{{m|und|*yaŋa-dan|t=again, anew}}, originally ablative of {{inh|tr|trk-pro|*yaŋï}} /{{m|trk-pro|*yaŋa|t=new}}.
+Cognate with {{cog|tt|яңадан}},
+{{cog|ba|яңынан}},
+{{cog|ky|жаңыдан}},
+{{cog|kum|янгыдан}},
+{{cog|uz|yangidan}},
+{{cog|kk|жаңадан}}, etc.
+===Adverb===
+{{tr-adv}}
+# [[anew]]
+# [[again]]</text>
+<sha1>3wfr160m2y6gqszqlkiqks7kf6pg636</sha1>
+</revision>
+</page>

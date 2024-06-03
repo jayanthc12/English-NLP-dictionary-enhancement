@@ -1,0 +1,23 @@
+<page>
+<title>yhteenkuuluvaisuuden</title>
+<ns>0</ns>
+<id>842990</id>
+<revision>
+<id>45807643</id>
+<parentid>32949618</parentid>
+<timestamp>2017-05-26T16:38:02Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="108" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|case=genitive|pl=singular|yhteenkuuluvaisuus}}</text>
+<sha1>k4hbi698uh9v7jodesz4ge637bhdga8</sha1>
+</revision>
+</page>

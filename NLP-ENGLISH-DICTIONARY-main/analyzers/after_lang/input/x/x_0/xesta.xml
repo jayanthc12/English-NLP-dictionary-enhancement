@@ -1,0 +1,52 @@
+<page>
+<title>xesta</title>
+<ns>0</ns>
+<id>6488626</id>
+<revision>
+<id>68867198</id>
+<parentid>68833305</parentid>
+<timestamp>2022-08-28T05:46:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1118" xml:space="preserve">==Galician==
+[[File:Serra de São Mamede com uma giesta a sobrepor-se.JPG|thumb|''xesta'']]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|gẽesta}}, from {{inh|gl|la|genesta|t=broom}}. Cognate with {{cog|pt|gesta}} and {{cog|es|hiniesta}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɛsta̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[broom]] ({{taxlink|Cytisus scoparius|species|ver=191028}})
+#* '''1408''', José Luis Novo Cazón (ed.), ''El priorato santiaguista de Vilar de Donas en la Edad Media (1194-1500)''. A Coruña: Fundación Barrié, page 318:
+#*: ''que façades a dicta metade da dicta casa de pedra e de madeyra e de '''giestas''' e de colmo''
+#*:: you should build that half house with stone and wood and '''brooms''' and thatch
+# [[broom]] {{gloss|tool}}
+====Derived terms====
+{{top3}}
+* {{l|gl|Xesta}}
+* {{l|gl|Xesteda}}
+* {{l|gl|xesteira}}
+* {{l|gl|Xesteira}}
+* {{l|gl|xestal}}
+* {{l|gl|Xestal}}
+* {{l|gl|Xestido}}
+* {{l|gl|Xesto}}
+* {{l|gl|Xestosa}}
+* {{l|gl|xestoso}}
+* {{l|gl|Xestoso}}
+{{bottom}}
+===References===
+* {{R:gl:CX|giest}}
+* {{R:gl:CX|geest}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>7tdrn35555wc8o4kosmdpis09h0oawv</sha1>
+</revision>
+</page>

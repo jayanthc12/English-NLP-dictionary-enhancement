@@ -1,0 +1,35 @@
+<page>
+<title>Yibuti</title>
+<ns>0</ns>
+<id>1362767</id>
+<revision>
+<id>66143681</id>
+<parentid>62969344</parentid>
+<timestamp>2022-03-14T08:24:09Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q1321 (spa)-Rodelar-Yibuti.wav</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="409" xml:space="preserve">==Central Nahuatl==
+===Proper noun===
+{{head|nhn|proper noun}}
+# {{place|nhn|country|cont/Africa|t=Djibouti}}
+----
+==Spanish==
+{{wikipedia|lang=es}}
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-Rodelar-Yibuti.wav|Audio}}
+===Proper noun===
+{{es-proper noun|m}}
+# [[Djibouti]] (Republic of Djibouti)
+====Derived terms====
+* {{l|es|yibutiano}}
+{{C|es|Countries in Africa|Djibouti|Exonyms}}</text>
+<sha1>8zrxnnb67fkxqaasnvc7q4yrsg3qdg1</sha1>
+</revision>
+</page>

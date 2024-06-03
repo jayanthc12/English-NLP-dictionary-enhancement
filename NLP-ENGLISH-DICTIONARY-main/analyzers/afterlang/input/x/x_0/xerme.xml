@@ -1,0 +1,38 @@
+<page>
+<title>xerme</title>
+<ns>0</ns>
+<id>4352173</id>
+<revision>
+<id>68865054</id>
+<parentid>68831727</parentid>
+<timestamp>2022-08-28T05:32:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="346" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|m}}
+# {{l|en|germ}} {{gloss|embryo of a seed}}
+----
+==Galician==
+===Etymology===
+From {{inh|gl|la|germen}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɛɾme̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[germ]]
+====Derived terms====
+* {{l|gl|xermolo}}
+===References===
+* {{R:gl:CX|germe}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}</text>
+<sha1>k4wisdogdpc5i837g9b9y9bvhk88a34</sha1>
+</revision>
+</page>

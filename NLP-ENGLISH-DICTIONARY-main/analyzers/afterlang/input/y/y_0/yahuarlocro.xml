@@ -1,0 +1,25 @@
+<page>
+<title>yahuarlocro</title>
+<ns>0</ns>
+<id>5984170</id>
+<revision>
+<id>62085126</id>
+<parentid>54998795</parentid>
+<timestamp>2021-03-14T03:06:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m|-}}
+# {{lb|es|Ecuador}} {{alt form|es|yaguarlocro}}</text>
+<sha1>q3fe97bmjsdsz1spyq1qmylu4g67qci</sha1>
+</revision>
+</page>

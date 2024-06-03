@@ -1,0 +1,38 @@
+<page>
+<title>Xenophilie</title>
+<ns>0</ns>
+<id>3866569</id>
+<revision>
+<id>69054061</id>
+<parentid>66212011</parentid>
+<timestamp>2022-09-03T06:02:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="583" xml:space="preserve">{{also|xénophilie}}
+==German==
+{{wikipedia|lang=de}}
+===Etymology===
+{{bor+|de|fr|xénophilie}}, ultimately from {{der|de|grc|ξένος||foreign, of a stranger}} + {{m|grc|φιλία||friendship, love, affection, fondness}}.
+===Pronunciation===
+* {{audio|de|De-Xenophilie.ogg|Audio}}
+* {{rhymes|de|iː|s=4}}
+===Noun===
+{{de-noun|f.sg}}
+# [[xenophilia]]
+#: {{syn|de|Fremdenliebe}}
+#: {{ant|de|Ausländerfeindlichkeit|Fremdenfeindlichkeit|Xenophobie}}
+====Declension====
+{{de-ndecl|f.sg}}
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+{{cln|de|terms suffixed with -philie}}</text>
+<sha1>egcb8u37alzzehmrlww6w06kxwv6hhc</sha1>
+</revision>
+</page>

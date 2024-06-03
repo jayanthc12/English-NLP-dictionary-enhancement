@@ -1,0 +1,28 @@
+<page>
+<title>xerosphere</title>
+<ns>0</ns>
+<id>7035176</id>
+<revision>
+<id>61121513</id>
+<parentid>60475273</parentid>
+<timestamp>2020-11-14T09:45:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="988" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xero|sphere}}
+===Noun===
+{{en-noun}}
+# A region with extremely [[arid]] conditions; a [[desert]] environment.
+#* {{quote-book|en|year=1984|title=The Daffodil Journal - Volumes 21-22 |author=|page=136 |ISBN= |passage=We do use the latter across the brook where they make a &quot;lawn&quot; on a rock on rock lateral moraine under big sugar maples, and where absolutely nothing else will grow but the invading pioneers of the '''xerosphere''' such as brambles.}}
+#* {{quote-newsgroup|en|date=April 13, 2001|author=Don K.|title=What Would You Do? |url=|newsgroup=misc.consumers.frugal-living|passage=What about a '''xerosphere'''? Be the first on your block to fill the yard with sand, rocks and ocotillo. }}
+#* {{quote-book|en|year=2009|title=Soil microflora |author=Rajan Kumar Gupta, Mukesh Kumar, Deepak Vyas |page=252 |ISBN= |passage=They are the pioneer colonizers both in hydrosphere and '''xerosphere''' and occupy the base of the trophic pyramid. }}</text>
+<sha1>r2tb2brg1102ws48xtzugb2dvsv0mqt</sha1>
+</revision>
+</page>

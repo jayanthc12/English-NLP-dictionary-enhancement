@@ -1,0 +1,29 @@
+<page>
+<title>xoro</title>
+<ns>0</ns>
+<id>1812127</id>
+<revision>
+<id>61999073</id>
+<parentid>61999069</parentid>
+<timestamp>2021-03-09T12:26:40Z</timestamp>
+<contributor>
+<username>Olybrius</username>
+<id>66211</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">{{also|Xoro}}
+==Romani==
+===Alternative forms===
+* {{alter|rom|xod}}
+===Etymology===
+From {{der|rom|hy|խոր|t=deep}}.
+===Adjective===
+{{head|rom|adjective}}
+# {{lb|rom|German Romani}} [[deep]]
+====References====
+* {{R:xcl:HAB|խոր}}</text>
+<sha1>irydtvznlx0l8rbuqp5lc50de1bbnqt</sha1>
+</revision>
+</page>

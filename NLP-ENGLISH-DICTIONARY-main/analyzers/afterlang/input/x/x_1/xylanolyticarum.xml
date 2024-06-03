@@ -1,0 +1,23 @@
+<page>
+<title>xylanolyticarum</title>
+<ns>0</ns>
+<id>4341892</id>
+<revision>
+<id>56442133</id>
+<parentid>25765335</parentid>
+<timestamp>2019-10-18T02:39:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xylanolyticārum}}
+# {{inflection of|la|xylanolyticus||gen|f|p}}</text>
+<sha1>k8xkx2i3kcszsdve0sx4w7n63xl61cp</sha1>
+</revision>
+</page>

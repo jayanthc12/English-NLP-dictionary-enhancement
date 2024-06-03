@@ -1,0 +1,59 @@
+<page>
+<title>yacacuitlatl</title>
+<ns>0</ns>
+<id>4598344</id>
+<revision>
+<id>68435269</id>
+<parentid>64059577</parentid>
+<timestamp>2022-07-22T18:45:50Z</timestamp>
+<contributor>
+<username>J3133</username>
+<id>3466327</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1789" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{nhn-noun|i}}
+# {{lb|nhn|Cholula}} [[nasal mucus]].
+===References===
+* Meza Patiño, Isidoro (2017); [https://www.sepi.cdmx.gob.mx/storage/app/media/Libro%20Nahuatl%202017.pdf online ''Aprendamos el idioma Náhuatl''], Matinahuatlahtolzalocan; Milpa Alta variant, Government of Mexico City, Mexico.
+[[Category:Milpa Alta Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+{{c|nhn|Bodily fluids}}
+----
+==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|yacatl|cuitlatl|t1=nose|t2=excrement}}.
+===Pronunciation===
+* {{IPA|nci|[ja.kaˈkʷi.t͡ɬat͡ɬ]}}
+===Noun===
+{{nci-noun|i}}
+# [[nasal]] [[mucus]]
+#* '''1571:''' [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 85v. col. 1.
+#*: M Ocos de narizes. '''yacacuitlatl'''. yacatol / li.
+#*:: Mucus from the nose. '''yacauitlatl'''. yacatolli.
+#* ''Idem'', f. 22r. col. 1.
+#*: '''Yacacuitlatl'''.mocos.
+#*:: '''Yacacuitlatl'''. mucus.
+====Synonyms====
+* {{l|nci|yacatolli}}
+====Derived terms====
+{{rel-top3|Terms derived from ''yacacuitlatl''}}
+* {{l|nci|yacacuicuitla}}
+* {{l|nci|yacacuitlacui}}
+{{rel-mid3}}
+* {{l|nci|yacacuitlapōl}}
+* {{l|nci|yacacuitlapotz}}
+{{rel-mid3}}
+* {{l|nci|yacacuitlatlāza}}
+* {{l|nci|yacacuitleh}}
+{{rel-bottom}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=85v, 22r}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=156}}
+[[Category:nci:Bodily fluids]]</text>
+<sha1>j76ertawx3gk5mmh4mnwwmczs50cd90</sha1>
+</revision>
+</page>

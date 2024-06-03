@@ -1,0 +1,72 @@
+<page>
+<title>Xingyang</title>
+<ns>0</ns>
+<id>7034962</id>
+<revision>
+<id>68421574</id>
+<parentid>67918107</parentid>
+<timestamp>2022-07-20T21:47:18Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1985 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2117" xml:space="preserve">{{also|Xíngyáng}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsing-yang}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-l|滎陽}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|county-level city|prefecture-level city/Zhengzhou|p/Henan|c/China}}.
+#* {{quote-journal
+|en
+|year=1979
+|month=February
+|author=Chao Chien
+|title=The Chin Dynasty: Unified Fedual Rule
+|journal={{w|China Reconstructs}}
+|url=https://archive.org/details/cr196912/CR1974-03/
+|publisher={{w|China Welfare Institute}}
+|volume=XXVIII
+|issue=2
+|issn=0009-4447
+|oclc=1554324
+|page=63
+|pageurl=https://archive.org/details/cr196912/CR1979-02/page/n64/
+|text=Wu Kuang, who had been leading another army in an attack at '''Hsingyang''' (west of present-day Chengchow in Honan province), a strategic town held by the Chin forces, was killed by a subordinate officer.
+|brackets=on}}
+#* {{quote-book
+|en
+|year=1985
+|last=Domes
+|first=Jürgen
+|chapter=Social Developments and Problems
+|title=The Government and Politics of the PRC: A Time of Transition
+|url=https://archive.org/details/governmentpoliti00jurg/
+|publisher={{w|Westview Press}}
+|ISBN=0-86531-566-3
+|LCCN=84-29939
+|OCLC=1145273818
+|OL=2866532M
+|page=216
+|pageurl=https://archive.org/details/governmentpoliti00jurg/page/216/
+|text=Only the teams continued to function as production units, but for them, the pre-1958 term &quot;agricultural production cooperative&quot; was now used again.⁶⁹ Similar provisions were suggested in a statement made by the secretary of the district (''ti-ch'ü'') PC of '''Hsingyang''' in Honan,⁷⁰ a move that seems particularly delicate because the district of '''Hsingyang''' includes Suip'ing ''hsien'', where, in mid-April 1958, the first people's commune in China had been established.
+|brackets=on}}
+====Translations====
+{{trans-top|county-level city in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|滎陽|sc=Hani}}, {{t+|cmn|荥阳|tr=Xíngyáng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>en89ppni3788pl2n9wxqsd54w1rmuw5</sha1>
+</revision>
+</page>

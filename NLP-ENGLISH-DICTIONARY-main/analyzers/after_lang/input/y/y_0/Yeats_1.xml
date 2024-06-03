@@ -1,0 +1,28 @@
+<page>
+<title>Yeats</title>
+<ns>0</ns>
+<id>6141069</id>
+<revision>
+<id>67824659</id>
+<parentid>67701621</parentid>
+<timestamp>2022-07-09T21:26:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">==English==
+===Etymology===
+Alternative spelling of {{m|en|Yates}}.
+===Proper noun===
+{{en-proper noun|es}}
+# {{surname|en}}.
+# The author and poet {{w|W. B. Yeats}}
+===Anagrams===
+* {{anagrams|en|a=aesty|Yates|as yet|teasy|yates|yeast}}</text>
+<sha1>3q0bqurgw41k6iu9kui3mz0pvej794t</sha1>
+</revision>
+</page>

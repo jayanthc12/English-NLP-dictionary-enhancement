@@ -1,0 +1,23 @@
+<page>
+<title>yerberos</title>
+<ns>0</ns>
+<id>4683505</id>
+<revision>
+<id>55695440</id>
+<parentid>44174054</parentid>
+<timestamp>2019-10-15T12:41:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yerbero}}</text>
+<sha1>998yaczff3j5mcrz0sdj88bb0118tx0</sha1>
+</revision>
+</page>

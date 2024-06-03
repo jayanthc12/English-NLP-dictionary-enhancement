@@ -1,0 +1,28 @@
+<page>
+<title>ydinpuolustus</title>
+<ns>0</ns>
+<id>4405279</id>
+<revision>
+<id>69318231</id>
+<parentid>52035632</parentid>
+<timestamp>2022-09-18T17:07:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|alt1=ydin-|t1=nuclear|puolustus|t2=degence}}
+===Pronunciation===
+{{fi-p|ydin-puolustus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[defence]]
+====Declension====
+{{fi-decl-vastaus|ydinpuolustu|a}}</text>
+<sha1>b2wimpgt3szqq8zh5r067otwltvvk9y</sha1>
+</revision>
+</page>

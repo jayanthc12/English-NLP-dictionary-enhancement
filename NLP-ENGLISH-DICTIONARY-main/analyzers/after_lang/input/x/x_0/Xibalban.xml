@@ -1,0 +1,28 @@
+<page>
+<title>Xibalban</title>
+<ns>0</ns>
+<id>3708239</id>
+<revision>
+<id>51925496</id>
+<parentid>26929918</parentid>
+<timestamp>2019-03-16T18:27:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="176" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Xibalba|an}}
+===Adjective===
+{{en-adj}}
+# Of or relating to [[Xibalba]].
+===Noun===
+{{en-noun}}
+# An [[inhabitant]] of [[Xibalba]].</text>
+<sha1>puedn873wlmg68xcvlt5n6fluaevfq3</sha1>
+</revision>
+</page>

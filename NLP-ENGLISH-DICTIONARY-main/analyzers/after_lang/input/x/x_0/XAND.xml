@@ -1,0 +1,53 @@
+<page>
+<title>XAND</title>
+<ns>0</ns>
+<id>3925280</id>
+<revision>
+<id>67962903</id>
+<parentid>60048820</parentid>
+<timestamp>2022-07-16T00:45:59Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<minor />
+<comment>/* Noun */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="788" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{blend|en|exclusive|AND}}
+===Noun===
+{{en-noun|-}}
+{| class=&quot;wikitable&quot; style=&quot;clear:right; float:right; width:248px&quot;
+|+ XAND Truth Table
+|-
+!colspan=&quot;2&quot; | Input !! rowspan=&quot;2&quot; | Output
+|-
+!A !! B
+|-
+| 0 || 0 || 1
+|-
+| 0 || 1 || 0
+|-
+| 1 || 0 || 0
+|-
+| 1 || 1 || 1
+|}
+# {{lb|en|electrical engineering|rare}} [[XNOR]], a logic gate.
+====Usage notes====
+* Boolean variables and states ({{l|en|AND}}, {{l|en|OR}}, {{l|en|NOT}}, {{l|en|TRUE}}, {{l|en|FALSE}} etc.) are commonly written in all uppercase in order to distinguish them from the ordinary uses of the words.
+====Synonyms====
+* {{l|en|XNOR}}
+* {{l|en|ex-and}}
+* {{l|en|XAND gate}}
+====Antonyms====
+* {{l|en|XNAND}}
+* {{l|en|XOR}}
+====Related terms====
+* {{l|en|NAND}}
+* {{l|en|AND}}</text>
+<sha1>bv4263rlu55teuwotgdpl9ynk0d1bar</sha1>
+</revision>
+</page>

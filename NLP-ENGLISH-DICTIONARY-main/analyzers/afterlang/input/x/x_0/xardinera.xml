@@ -1,0 +1,23 @@
+<page>
+<title>xardinera</title>
+<ns>0</ns>
+<id>4352159</id>
+<revision>
+<id>35818484</id>
+<parentid>25807835</parentid>
+<timestamp>2015-12-17T20:12:43Z</timestamp>
+<contributor>
+<username>MglovesfunBot</username>
+<id>264304</id>
+</contributor>
+<minor />
+<comment>/* Noun */bot: converting {{l/}} to regular {{l}} in the main namespace</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|f|xardineres}}
+# {{l|en|gardener}} {{gloss|female who gardens}}</text>
+<sha1>rxhgxktzs27fk8296pd7omgwq1hav19</sha1>
+</revision>
+</page>

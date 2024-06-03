@@ -1,0 +1,24 @@
+<page>
+<title>yedma</title>
+<ns>0</ns>
+<id>349753</id>
+<revision>
+<id>43053196</id>
+<parentid>23338928</parentid>
+<timestamp>2017-05-21T16:51:58Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==Dalmatian==
+===Noun===
+{{head|dlm|noun}}
+# [[week]] {{qualifier|[[Vegliot]]}}
+[[Category:dlm:Time]]</text>
+<sha1>8nnq47rzuy46kea1ltjc43g5zmj1mjz</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>xenro</title>
+<ns>0</ns>
+<id>1265008</id>
+<revision>
+<id>68861735</id>
+<parentid>68860781</parentid>
+<timestamp>2022-08-28T05:09:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="555" xml:space="preserve">==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|genrro||son-in-law}} (13th century, ''{{w|Cantigas de Santa Maria}}''), from {{inh|gl|la|gener|gener, generum|son-in-law}}, from {{inh|gl|ine-pro|*ǵm̥ros}}, from {{der|gl|ine-pro|*ǵem-}}. Cognate with {{cog|pt|genro}}, {{cog|es|yerno}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɛŋɾo̝/|/ˈʃeŋɾo̝/}}
+===Noun===
+{{gl-noun|m|f=nora}}
+# [[son-in-law]]
+===References===
+* {{R:gl:DDGM|genrro}}
+* {{R:gl:CX|genrro}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Family]]</text>
+<sha1>59nie7prd0lyxyfyozeldps1nndfvvb</sha1>
+</revision>
+</page>

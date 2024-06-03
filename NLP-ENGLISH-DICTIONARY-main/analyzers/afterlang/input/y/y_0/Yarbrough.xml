@@ -1,0 +1,30 @@
+<page>
+<title>Yarbrough</title>
+<ns>0</ns>
+<id>4653341</id>
+<revision>
+<id>67781019</id>
+<parentid>67757436</parentid>
+<timestamp>2022-07-09T18:41:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="667" xml:space="preserve">==English==
+===Etymology===
+Habitational surname, from {{m|en|Yarborough}} and {{m|en|Yarburgh}} in [[Lincolnshire]], from a compound of {{der|en|ang|eorþe||earth}} + {{m|ang|burh||stronghold}}.
+===Proper noun===
+{{en-proper noun|s}}
+# {{surname|en|from=Old English}}.
+# {{place|en|unincorporated community|co/Quitman County|s/Mississippi|c/US}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yarbrough'' is the 1441&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 24749 individuals. ''Yarbrough'' is most common among White (70.61%) and Black/African American (23.73%) individuals.
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>tfwr6vaj7hr0umyxt9pvxw4ova2ugkd</sha1>
+</revision>
+</page>

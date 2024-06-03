@@ -1,0 +1,29 @@
+<page>
+<title>xenacanthid</title>
+<ns>0</ns>
+<id>3728947</id>
+<revision>
+<id>39481043</id>
+<parentid>36881002</parentid>
+<timestamp>2016-07-28T21:04:04Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Renamed label &gt; lb</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="324" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|paleontology}} Any [[prehistoric]] [[shark]] of the family {{taxlink|Xenacanthidae|family|noshow=1}}.
+====Translations====
+{{trans-top|Any prehistoric shark of the family Xenacanthidae.}}
+* Italian: {{t|it|xenacantido|m}}
+{{trans-mid}}
+{{trans-bottom}}
+[[Category:en:Sharks]]</text>
+<sha1>edd1uhl1otian3ygr5lrh958f4yathq</sha1>
+</revision>
+</page>

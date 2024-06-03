@@ -1,0 +1,35 @@
+<page>
+<title>YE</title>
+<ns>0</ns>
+<id>887062</id>
+<revision>
+<id>67235501</id>
+<parentid>67232977</parentid>
+<timestamp>2022-06-03T09:07:49Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="626" xml:space="preserve">{{also|ᎩᎬ|Appendix:Variations of &quot;ye&quot;}}
+{{wikipedia}}
+==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{ISO 3166|1|2|Yemen|from=1990}}
+#: {{syn|mul|YEM|qq1={{w|ISO 3166-1 alpha-3|alpha-3}}}}
+# {{ISO 3166|1|2|obs=1|North Yemen|from=1974|to=1990}}
+#: {{syn|mul|YEM|qq1={{w|ISO 3166-1 alpha-3|alpha-3}}}}
+====Coordinate terms====
+* {{l|mul|YD}} {{q|formerly {{w|South Yemen}}}}
+----
+==English==
+===Proper noun===
+{{en-proper noun}}
+# {{init of|en|{{w|Young Earth}}|nodot=1}}, a form of [[creationism]] which proposes that the Earth is no more than a few thousand years old.
+===Anagrams===
+* {{anagrams|en|a=ey|-ey|ey}}</text>
+<sha1>a7kb85jskkdb10yl61erc9iowoqp7eh</sha1>
+</revision>
+</page>

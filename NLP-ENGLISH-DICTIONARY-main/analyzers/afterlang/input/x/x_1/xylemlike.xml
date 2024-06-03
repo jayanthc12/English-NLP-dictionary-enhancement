@@ -1,0 +1,27 @@
+<page>
+<title>xylemlike</title>
+<ns>0</ns>
+<id>1875211</id>
+<revision>
+<id>51872728</id>
+<parentid>26929931</parentid>
+<timestamp>2019-03-15T06:49:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="389" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylem|like}}
+===Adjective===
+{{en-adj}}
+# Resembling or characteristic of a [[xylem]].
+#* '''1963''', Pennsylvania Academy of Science, ''Proceedings of the Pennsylvania Academy of Science''
+#*: In the medulla of callus formed in this fashion, a number of lignified cells occurred resembling the '''xylemlike''' cells often found in callus tissue.</text>
+<sha1>tnta1o07niaklvkpxto2rb0qpbifnf5</sha1>
+</revision>
+</page>

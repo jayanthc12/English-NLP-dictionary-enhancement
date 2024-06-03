@@ -1,0 +1,23 @@
+<page>
+<title>xogariamos</title>
+<ns>0</ns>
+<id>1232227</id>
+<revision>
+<id>56626120</id>
+<parentid>35000444</parentid>
+<timestamp>2019-10-18T09:45:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="86" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xogar||1|p|cond|indc}}</text>
+<sha1>6qniff9oq0icntv3sq7e5rggvdr0jwu</sha1>
+</revision>
+</page>

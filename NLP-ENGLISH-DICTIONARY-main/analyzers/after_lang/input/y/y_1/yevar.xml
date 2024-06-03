@@ -1,0 +1,25 @@
+<page>
+<title>yevar</title>
+<ns>0</ns>
+<id>1048649</id>
+<revision>
+<id>62073701</id>
+<parentid>51574057</parentid>
+<timestamp>2021-03-13T21:07:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 1= from {{lad-verb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==Ladino==
+===Etymology===
+From {{inh|lad|osp}}, from {{inh|lad|la|levāre}}, present active infinitive of {{m|la|levō}}.
+===Verb===
+{{lad-verb|heb=ייבֿאר}}
+# {{lb|lad|transitive}} to [[take]], [[carry]]</text>
+<sha1>j3inkqr5am1ziqjppc4nfu3em3nnajf</sha1>
+</revision>
+</page>

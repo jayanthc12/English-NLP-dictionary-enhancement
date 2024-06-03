@@ -1,0 +1,31 @@
+<page>
+<title>yeses</title>
+<ns>0</ns>
+<id>343506</id>
+<revision>
+<id>63759650</id>
+<parentid>60227869</parentid>
+<timestamp>2021-08-26T10:31:10Z</timestamp>
+<contributor>
+<username>Esme Shepherd</username>
+<id>2461284</id>
+</contributor>
+<comment>/* Noun */ quotation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="591" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yesses}}
+===Pronunciation===
+* {{IPA|en|/jɛsɪz/}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yes}}
+#* {{quote-book|en|year=1831|author={{w|Letitia Elizabeth Landon}}|title=Romance and Reality|volume=1|page=322|text=Emily was seated in a window; but there was room for two, and her unsuspected lover took his place. Mechanically she shut the book, assumed an attitude of attention, and prepared a few '''yeses'''.}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yes}}
+[[Category:English plurals ending in &quot;-es&quot;]]</text>
+<sha1>fn1r79zh9wq74m7ghygu91roegbho0u</sha1>
+</revision>
+</page>

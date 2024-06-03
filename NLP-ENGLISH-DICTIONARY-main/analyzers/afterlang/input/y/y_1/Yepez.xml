@@ -1,0 +1,25 @@
+<page>
+<title>Yepez</title>
+<ns>0</ns>
+<id>6112932</id>
+<revision>
+<id>67810530</id>
+<parentid>67688585</parentid>
+<timestamp>2022-07-09T20:36:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="317" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yepezes}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yepez'' is the 5411&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 6433 individuals. ''Yepez'' is most common among Hispanic/Latino (95.51%) individuals.</text>
+<sha1>sam2ukbd78rjl3ie6533h5ku6xirzlw</sha1>
+</revision>
+</page>

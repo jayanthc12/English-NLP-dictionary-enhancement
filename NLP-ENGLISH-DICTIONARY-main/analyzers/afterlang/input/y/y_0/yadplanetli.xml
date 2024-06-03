@@ -1,0 +1,33 @@
+<page>
+<title>yadplanetli</title>
+<ns>0</ns>
+<id>7012042</id>
+<revision>
+<id>67245365</id>
+<parentid>67208944</parentid>
+<timestamp>2022-06-04T22:07:46Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="485" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јадпланетли|a=یادپلانئتلی}}
+===Etymology===
+From {{af|az|yad|gloss1=foreign, alien|planet|-li}}. Possibly a {{calque|az|ru|иноплане́тный|nocap=1}}.
+===Pronunciation===
+* {{IPA|az|[jɑdplɑnetˈli]}}
+* {{hyphenation|az|yad|pla|net|li}}
+===Adjective===
+{{az-adj}}
+# [[extraterrestrial]]
+===Noun===
+{{az-noun}}
+# [[alien]] {{gloss|[[life form]] of [[extraterrestrial]] origin}}
+====Declension====
+{{az-decl-noun|i}}</text>
+<sha1>onwvbrzy4gclhnbes3jzjc6sfll18bu</sha1>
+</revision>
+</page>

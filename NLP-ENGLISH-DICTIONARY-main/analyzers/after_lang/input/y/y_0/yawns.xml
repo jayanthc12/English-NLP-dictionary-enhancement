@@ -1,0 +1,29 @@
+<page>
+<title>yawns</title>
+<ns>0</ns>
+<id>409546</id>
+<revision>
+<id>55346340</id>
+<parentid>53092819</parentid>
+<timestamp>2019-10-14T11:25:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">{{also|Yawns}}
+==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yawn}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yawn}}
+===Anagrams===
+* {{anagrams|en|a=answy|Sawny|wayns}}</text>
+<sha1>p342tt76h68hcle7furx3v80o6hcsd8</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xhaxha</title>
+<ns>0</ns>
+<id>4697663</id>
+<revision>
+<id>63477892</id>
+<parentid>55365950</parentid>
+<timestamp>2021-08-01T00:05:28Z</timestamp>
+<contributor>
+<username>Mellohi!</username>
+<id>650847</id>
+</contributor>
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="441" xml:space="preserve">==Albanian==
+===Etymology===
+{{rfe|sq}}
+===Pronunciation===
+* {{IPA|sq|/dʒadʒa/|[dʒadʒa]}}
+===Noun===
+{{sq-noun|m|xhaxhallarë|xhaxhai|xhaxhallarët}}
+# [[paternal uncle]] {{gloss|father's brother}}
+====Declension====
+{{sq-noun-m|def=xhaxhai|pl=xhaxhallarë|defaccsg=xhaxhanë}}
+===Related terms===
+* {{l|sq|axhë}}
+* {{l|sq|dajë}}
+* {{l|sq|teze}}
+* {{l|sq|hallë}}
+===See also===
+* {{l|sq|dajë}}
+{{catlangcode|sq|Family|Male}}</text>
+<sha1>0s6zhrpbfudl44wbz2ilm8kb90l3n41</sha1>
+</revision>
+</page>

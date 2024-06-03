@@ -1,0 +1,29 @@
+<page>
+<title>yhteisarvo</title>
+<ns>0</ns>
+<id>7099629</id>
+<revision>
+<id>58620584</id>
+<parentid>58593435</parentid>
+<timestamp>2020-02-01T14:20:26Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|arvo}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-arvo}}
+===Noun===
+{{fi-noun}}
+# [[total]] [[value]]
+====Declension====
+{{fi-decl-valo|yhteisarv|||o|a}}</text>
+<sha1>63zrnql980yg76g3fzntgs4923fgwxm</sha1>
+</revision>
+</page>

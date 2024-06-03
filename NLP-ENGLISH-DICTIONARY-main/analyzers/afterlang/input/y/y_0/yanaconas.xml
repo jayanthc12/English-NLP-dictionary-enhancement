@@ -1,0 +1,28 @@
+<page>
+<title>yanaconas</title>
+<ns>0</ns>
+<id>6597613</id>
+<revision>
+<id>64470029</id>
+<parentid>56312508</parentid>
+<timestamp>2021-10-28T23:04:55Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Added forms (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="175" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yanacona}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p|g2=f-p}}
+# {{noun form of|es|yanacona||p}}</text>
+<sha1>9lxq4hx39u0k4qp0dbsnt0egsjz6jtn</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>Xenon</title>
+<ns>0</ns>
+<id>170651</id>
+<revision>
+<id>66038140</id>
+<parentid>65841241</parentid>
+<timestamp>2022-03-01T07:19:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up German lemmas, esp. fix noun declensions and missing spaces; misc cleanups (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="510" xml:space="preserve">{{also|xenon|xénon|xenón|xênon}}
+==German==
+===Pronunciation===
+* {{audio|de|De-at-Xenon.ogg|Audio (English)}}
+* {{audio|de|De-Xenon.ogg|Audio}}
+===Noun===
+{{de-noun|n.sg}}
+# [[xenon]]
+====Declension====
+{{de-ndecl|n.sg}}
+====Coordinate terms====
+* {{sense|Chemical Element}} Previous: {{l|de|Iod}}. Next: {{l|de|Cäsium}}
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+{{C|de|Chemical elements}}
+----
+==Luxembourgish==
+{{elements|lb|Xe|Iod|I|Cäsium|Cs}}
+===Noun===
+{{lb-noun|m|-}}
+# [[xenon]]</text>
+<sha1>st39wgb2v9qzpbge5b8wvetd0ctjd32</sha1>
+</revision>
+</page>

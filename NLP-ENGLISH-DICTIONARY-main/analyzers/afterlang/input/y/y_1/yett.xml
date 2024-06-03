@@ -1,0 +1,43 @@
+<page>
+<title>yett</title>
+<ns>0</ns>
+<id>476069</id>
+<revision>
+<id>69445319</id>
+<parentid>67102068</parentid>
+<timestamp>2022-10-04T12:11:23Z</timestamp>
+<contributor>
+<username>GreyishWorm</username>
+<id>3977710</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2423" xml:space="preserve">==English==
+===Etymology 1===
+====Noun====
+{{en-noun}}
+# {{lb|en|Scotland|Geordie}} [[gate|Gate]].
+#* {{quote-book|en|year=1824|author=Sir Walter Scott|title=Redgauntlet|passage=They rode into the outer courtyard, through the muckle faulding '''yetts''' and aneath the auld portcullis; {{...}} }}
+#* '''2015''', Douglas Nicholas, ''Throne of Darkness'', [https://books.google.com.au/books?id=VmdOBAAAQBAJ&amp;pg=PA126&amp;dq=%22yett%22%7C%22yetts%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi44ujP3IbQAhXNNpQKHfJkD6EQ6AEI_gIwQw#v=onepage&amp;q=%22yett%22%7C%22yetts%22&amp;f=false page 126],
+#*: The outer '''yett''' was closed, and a torch burned in a socket set in the gatehouse wall beside the archway. A guard stepped up, peered through the '''yett''' at Guillaume, and nodded to someone off to the side.
+===Etymology 2===
+====Adverb====
+{{en-adv|-}}
+# {{obsolete spelling of|en|yet}}
+#* '''1608''', ''Kalenders of the Starre Chamber'', extract republished '''1840''', J. Payne Collier (editor), ''Lord Bacon and the Star Chamber'', in ''The Egerton papers: A collection of public and private documents, chiefly illustrative of the times of Elizabeth and James I, from the original documents'', [https://books.google.com.au/books?id=rb0sAAAAMAAJ&amp;pg=PA431&amp;dq=%22yett%22%7C%22yetts%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi44ujP3IbQAhXNNpQKHfJkD6EQ6AEI-QEwLA#v=onepage&amp;q=%22yett%22%7C%22yetts%22&amp;f=false page 431],
+#*: So when the L. Chauncellor or Keeper passeth anie patent by imediate warrant, '''yett''' the fees of the Clerke of the Seale and Signett are ordered to be awnswered, and '''yett''' theie doe noething for them.
+===References===
+* {{R:Todds Geordie 1977}}
+===Anagrams===
+* {{anagrams|en|a=etty|tyet}}
+----
+==Scots==
+===Etymology===
+{{inh+|sco|enm|yet}}, alternative form of {{m|enm|gate}}, from {{inh|sco|ang|ġeat}}, from {{inh|sco|gmw-pro|*gat}}, from {{inh|sco|gem-pro|*gatą}}.
+===Noun===
+{{sco-noun}}
+# [[gate]]
+#* {{RQ:Lorimer New Testament|book=John|chapter=10|verses=1-2|page=179|passage=Trowth an atweill, I tell ye, onie-ane at comesna intil the bucht at the '''yett''', but sclims in somegate else, is a thief an a reiver. The man at comes in bi the '''yett''' is the shepherd o the hirsel.|translation=I tell you without doubt that anyone who doesn't come into the sheep-pen through the '''gate''', but enters another way, is a thief and a robber. [But] the man who comes in through the '''gate''' is the shepherd of the flock.}}</text>
+<sha1>194itjyhmz1x0a6kmgaecuh8ha2ap78</sha1>
+</revision>
+</page>

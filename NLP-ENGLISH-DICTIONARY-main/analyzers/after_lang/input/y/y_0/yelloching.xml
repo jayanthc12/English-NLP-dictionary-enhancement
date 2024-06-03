@@ -1,0 +1,23 @@
+<page>
+<title>yelloching</title>
+<ns>0</ns>
+<id>1330815</id>
+<revision>
+<id>55045982</id>
+<parentid>52485330</parentid>
+<timestamp>2019-10-12T06:29:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="93" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yelloch|nocat=1}}</text>
+<sha1>dg93v91q3kw2re61zvlrutzhmdb95p1</sha1>
+</revision>
+</page>

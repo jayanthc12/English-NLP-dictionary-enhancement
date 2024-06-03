@@ -1,0 +1,32 @@
+<page>
+<title>xte</title>
+<ns>0</ns>
+<id>3429175</id>
+<revision>
+<id>66651427</id>
+<parentid>61724533</parentid>
+<timestamp>2022-05-10T04:06:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>German: use new {{de-adj}}/{{de-adecl}} format for adjectives that can't be auto-converted; lots of adjective cleanup; put participles before derived adjective lemmas; clean up participles (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="614" xml:space="preserve">==German==
+===Etymology===
+From [[x]] as a mathematical [[variable]] for an unknown number and {{l|de|-te}}, the [[ordinal]] suffix.
+===Pronunciation===
+* {{IPA|de|[ɪkste]}}
+===Adjective===
+{{de-adj}}
+# [[umpteenth]], [[yet another]]; indicating a too high number of something already exist
+#: {{ux|de|Das ist das '''xte''' Cover dieses Liedes.|lit=This is the '''x'th''' cover of this song.|This is yet another cover version of this song. / This is the umpteenth cover version of this song (and I think there are far too many already).}}
+====Declension====
+{{de-adecl}}
+====Related terms====
+* {{l|de|zig}}</text>
+<sha1>63i2jbw5fm5u23lg5tlxsbw879xv733</sha1>
+</revision>
+</page>

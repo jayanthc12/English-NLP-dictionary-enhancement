@@ -1,0 +1,31 @@
+<page>
+<title>yarring</title>
+<ns>0</ns>
+<id>321654</id>
+<revision>
+<id>55028804</id>
+<parentid>52485306</parentid>
+<timestamp>2019-10-11T15:15:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="229" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yarr|nocat=1}}
+===Anagrams===
+* {{anagrams|en|a=aginrry|argyrin}}
+----
+==Dharug==
+===Noun===
+{{head|xdk|noun}}
+# [[beard]]
+[[Category:xdk:Anatomy]]</text>
+<sha1>hhedi78v4013jethmxu58lrwcoygjsw</sha1>
+</revision>
+</page>

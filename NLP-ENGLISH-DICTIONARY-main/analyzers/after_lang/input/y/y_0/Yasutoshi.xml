@@ -1,0 +1,36 @@
+<page>
+<title>Yasutoshi</title>
+<ns>0</ns>
+<id>3065734</id>
+<revision>
+<id>64890862</id>
+<parentid>63861517</parentid>
+<timestamp>2021-12-08T21:16:01Z</timestamp>
+<contributor>
+<username>Sarilho1</username>
+<id>522155</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="428" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|やすとし|tr=Yasutoshi}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|from=Japanese}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やすとし}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|やすとし|tr=Yasutoshi}}.
+===Proper noun===
+{{pt-proper noun|m}}
+# {{given name|pt|male|from=Japanese}}</text>
+<sha1>i3q59yahjliw2flv9drbdaywz1mkt5g</sha1>
+</revision>
+</page>

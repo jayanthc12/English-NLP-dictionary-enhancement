@@ -1,0 +1,56 @@
+<page>
+<title>yeni</title>
+<ns>0</ns>
+<id>263517</id>
+<revision>
+<id>67969323</id>
+<parentid>63110071</parentid>
+<timestamp>2022-07-16T14:18:50Z</timestamp>
+<contributor>
+<username>Vahagn Petrosyan</username>
+<id>75989</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1130" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јени|r=yeni|a=یئنی}}
+===Etymology===
+From {{inh|az|trk-pro|*yaŋï}}, {{m|trk-pro|*yeŋi||new}}. Cognate with {{cog|otk|𐰖‬𐰭‬𐰃‬|tr=yaŋï}}&lt;ref&gt;{{R:otk:Bitig|Jyi|818}}&lt;/ref&gt;.
+===Pronunciation===
+* {{IPA|az|[jeˈni]}}
+* {{hyphenation|az|ye|ni}}
+===Adjective===
+{{az-adj}}
+# [[new]]
+#: {{ux|az|Köhnə mebeli atdım, '''yenisini '''aldım|I threw away old furnitures and bought '''new ones'''.}}
+#: {{syn|az|təzə}}
+#: {{ant|az|köhnə|əski}}
+====Derived terms====
+* {{l|az|yenilik}}
+* {{l|az|yeniləşmək}}
+** {{l|az|yeniləşmə}}
+===References===
+&lt;references/&gt;
+----
+==Turkish==
+===Alternative forms===
+* {{alter|tr|yengi||dialectal}}
+===Etymology===
+From {{inh|tr|ota|یڭی|tr=yeñi|t=new}}, from {{inh|tr|trk-pro|*yaŋï}}, {{m|trk-pro|*yeŋi|t=new}}. Cognate with {{cog|otk|𐰖‬𐰭‬𐰃‬|tr=yaŋï}} &lt;ref&gt;{{R:otk:Bitig|{{chars|otk|Jyi}}
+|818}}&lt;/ref&gt;.
+===Pronunciation===
+* {{IPA|tr|/je.ni/}}
+===Adjective===
+{{tr-adj}}
+# [[new]]
+# [[recent]]
+====Antonyms====
+* {{l|tr|eski}}
+====Derived terms====
+* {{l|tr|yenilik}}
+===References===
+&lt;references/&gt;</text>
+<sha1>3in2sacf0ctnggc7ejgc5sqvizkazey</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xenrales</title>
+<ns>0</ns>
+<id>4243245</id>
+<revision>
+<id>56321413</id>
+<parentid>44006115</parentid>
+<timestamp>2019-10-17T12:57:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xenral}}</text>
+<sha1>71gewy6h88j6ko9dm2rqlp97k9tjrcu</sha1>
+</revision>
+</page>

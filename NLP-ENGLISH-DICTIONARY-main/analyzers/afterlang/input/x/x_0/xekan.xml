@@ -1,0 +1,26 @@
+<page>
+<title>xekan</title>
+<ns>0</ns>
+<id>1440748</id>
+<revision>
+<id>63426943</id>
+<parentid>15664330</parentid>
+<timestamp>2021-07-26T03:19:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="229" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[walk]].
+# First-person singular present affirmative real mood form of [[xekan]]; I [[walked]]; I have [[walked]].
+====Conjugation====
+{{Template:arn-conj-n|xeka}}</text>
+<sha1>iabce08pbsz7ltyz08koef4f28otphs</sha1>
+</revision>
+</page>

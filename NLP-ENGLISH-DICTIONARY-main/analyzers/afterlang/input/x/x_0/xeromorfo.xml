@@ -1,0 +1,27 @@
+<page>
+<title>xeromorfo</title>
+<ns>0</ns>
+<id>1921141</id>
+<revision>
+<id>62772020</id>
+<parentid>51980756</parentid>
+<timestamp>2021-06-16T10:27:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="164" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xero|morfo}}
+===Adjective===
+{{it-adj}}
+# {{lb|it|botany}} [[xeromorphic]]
+====Related terms====
+* {{l|it|xeromorfismo}}</text>
+<sha1>fqu2jdex5a6orh5a2jw3u00lhg9az6q</sha1>
+</revision>
+</page>

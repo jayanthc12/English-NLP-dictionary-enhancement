@@ -1,0 +1,32 @@
+<page>
+<title>yelacen</title>
+<ns>0</ns>
+<id>5792188</id>
+<revision>
+<id>56418616</id>
+<parentid>47784112</parentid>
+<timestamp>2019-10-18T01:47:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="566" xml:space="preserve">==Volapük==
+===Etymology===
+From {{compound|vo|yel|t1=year|-a|t2=genitive ending|cen|t3=change}}.
+===Pronunciation===
+* {{IPA|vo|/jelaˈt͡ʃen/}}
+===Noun===
+{{vo-noun}}
+# [[turn of the year]]
+#* '''1957''' January, F. J. Krüger, &quot;Lio spetid e plak Volapüka binons-li? (Vödem redaka)&quot;, ''Volapükagased pro Nedänapükans'', issue 1, 1.
+#*: Pötü '''yelacen''' lofobs reidanes lestüumik{{sic}} obsik vipis gudikün obas.
+#*:: On the occasion of the '''turn of the year''', we offer our esteemed readers our best wishes.
+====Declension====
+{{vo-decl-noun}}</text>
+<sha1>2fshw5ni32fixdydf1v8sft0a5ki3kj</sha1>
+</revision>
+</page>

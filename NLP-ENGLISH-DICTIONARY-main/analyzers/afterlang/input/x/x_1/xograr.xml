@@ -1,0 +1,29 @@
+<page>
+<title>xograr</title>
+<ns>0</ns>
+<id>3087730</id>
+<revision>
+<id>60889037</id>
+<parentid>56048220</parentid>
+<timestamp>2020-10-20T10:21:51Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{l|gl|xogral}}
+===Etymology===
+From {{der|gl|roa-opt|jograr}}, from {{der|gl|la|ioculāris||jocular, laughable}}.
+===Pronunciation===
+* {{IPA|gl|/ʃoˈɣɾaɾ/}}
+===Noun===
+{{gl-noun|m|xograres}}
+# [[minstrel]], [[troubadour]]
+#: {{syn|gl|segrel|bardo|troveiro}}</text>
+<sha1>j0k99vlwtnfhogelfph9paa5ziwddlv</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yields</title>
+<ns>0</ns>
+<id>335883</id>
+<revision>
+<id>58225042</id>
+<parentid>55324197</parentid>
+<timestamp>2019-12-24T17:43:13Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="340" xml:space="preserve">==English==
+===Pronunciation===
+* {{audio|en|en-us-yields.ogg|Audio (US)}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yield}}
+#: ''The agricultural '''yields''' were lower this year.''
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yield}}
+===Anagrams===
+* {{anagrams|en|a=deilsy|Disley|sidely|slidey|ylides}}</text>
+<sha1>tsl50pe8vx3ztp7bekzfxcisezwvxvb</sha1>
+</revision>
+</page>

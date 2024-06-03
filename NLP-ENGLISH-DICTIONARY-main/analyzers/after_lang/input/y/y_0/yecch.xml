@@ -1,0 +1,26 @@
+<page>
+<title>yecch</title>
+<ns>0</ns>
+<id>1582890</id>
+<revision>
+<id>60467622</id>
+<parentid>60438960</parentid>
+<timestamp>2020-09-22T02:56:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove new= from {{en-noun}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="149" xml:space="preserve">==English==
+===Interjection===
+{{en-interj}}
+# {{alternative spelling of|en|yech}}
+===Noun===
+{{en-noun|s}}
+# {{alternative spelling of|en|yech}}</text>
+<sha1>hfuahf3mrtz4octruu7r67k6sg8nes2</sha1>
+</revision>
+</page>

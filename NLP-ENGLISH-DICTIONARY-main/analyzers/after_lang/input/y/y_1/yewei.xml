@@ -1,0 +1,30 @@
+<page>
+<title>yewei</title>
+<ns>0</ns>
+<id>3071621</id>
+<revision>
+<id>68803405</id>
+<parentid>67294490</parentid>
+<timestamp>2022-08-27T17:26:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">{{also|ye wei}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|ye wei}}
+===Etymology===
+From {{uder|en|cmn|野味|tr=[[yěwèi]]}}.
+===Noun===
+{{en-noun|-}}
+# [[game]]
+[[Category:en:Foods]]</text>
+<sha1>s9n91pjm21jehf0fbhyhrwh3crjl5p4</sha1>
+</revision>
+</page>

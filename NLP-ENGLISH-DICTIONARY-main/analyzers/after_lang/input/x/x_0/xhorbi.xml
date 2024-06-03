@@ -1,0 +1,31 @@
+<page>
+<title>xhorbi</title>
+<ns>0</ns>
+<id>3549961</id>
+<revision>
+<id>58992531</id>
+<parentid>56146173</parentid>
+<timestamp>2020-03-24T02:16:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Clean up Frankish errors (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="252" xml:space="preserve">==Walloon==
+===Etymology===
+From {{der|wa|frk|*skurbjan}}, from {{der|wa|goh|furbjan}}.
+===Pronunciation===
+* {{IPA|wa|/ʃɔʀ.bi/}}
+===Verb===
+{{wa-verb}}
+# to [[wipe]]
+====Synonyms====
+[[rixhorbi]], [[stiede]]
+====Derived terms====
+[[rixhorbi]]</text>
+<sha1>hlvea2fvild2ur64xc5yracrrxjwe59</sha1>
+</revision>
+</page>

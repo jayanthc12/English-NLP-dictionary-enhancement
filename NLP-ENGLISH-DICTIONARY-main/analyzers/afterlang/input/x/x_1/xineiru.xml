@@ -1,0 +1,27 @@
+<page>
+<title>xineiru</title>
+<ns>0</ns>
+<id>7016272</id>
+<revision>
+<id>66502234</id>
+<parentid>65343871</parentid>
+<timestamp>2022-04-24T18:10:28Z</timestamp>
+<contributor>
+<ip>70.172.194.25</ip>
+</contributor>
+<comment>[[Wiktionary:Todo/Incorrect derivation templates]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="286" xml:space="preserve">==Leonese==
+===Alternative forms===
+* {{alter|roa-leo|xeneiru}}
+===Etymology===
+From {{inh|roa-leo|VL.|ienuārius}}, from {{inh|roa-leo|la|iānuārius}}.
+===Noun===
+{{head|roa-leo|noun|g=m}}
+# [[January]]
+===References===
+* [http://www.lengualeonesa.eu/castellan/Diccionario AEDLL]</text>
+<sha1>ce3i44uhvdu24i12n7liejfyqps05gp</sha1>
+</revision>
+</page>

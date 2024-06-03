@@ -1,0 +1,28 @@
+<page>
+<title>xokitun</title>
+<ns>0</ns>
+<id>2174603</id>
+<revision>
+<id>63426968</id>
+<parentid>53446621</parentid>
+<timestamp>2021-07-26T03:20:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# to [[try]]; especially, to put forth effort or to [[attempt]].
+# to [[think]].
+# to [[reflect]], to think.
+# {{inflection of|arn|xokitun||1|s|realis|form}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>oqd2adyo5h07jv2ta40tt1xb946ams4</sha1>
+</revision>
+</page>

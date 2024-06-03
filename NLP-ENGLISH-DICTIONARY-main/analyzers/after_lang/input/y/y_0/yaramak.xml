@@ -1,0 +1,39 @@
+<page>
+<title>yaramak</title>
+<ns>0</ns>
+<id>5372529</id>
+<revision>
+<id>64754898</id>
+<parentid>64754897</parentid>
+<timestamp>2021-11-26T19:06:17Z</timestamp>
+<contributor>
+<username>Ardahan Karabağ</username>
+<id>3840298</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="915" xml:space="preserve">==Turkish==
+===Etymology===
+From {{der|tr|otk|yara-||to suit, fit, to be beneficial}}, from {{inh|tr|trk-pro|*yara-||to be beneficial, useful, successful}}&lt;ref&gt;{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2faltet&amp;text_number=2581&amp;root=config “*ǯắra”]&lt;/ref&gt;. Cognate with {{cog|ba|ярау}}, {{cog|tt|ярарга}}, {{cog|uz|yaramoq}}.
+===Verb===
+{{tr-verb|yarar}}
+# {{lb|tr|intransitive}} to [[benefit]], [[serve]] (someone's) purpose; to serve, [[avail]]; to be good for
+#: {{ux|tr|''Savaş kimseye '''yaramaz'''.''|War '''does not serve''' anyone.|inline=1}}
+====Conjugation====
+{{tr-conj-v|yar|ı|a|yarar|a}}
+====Derived terms====
+* {{l|tr|yarama}}
+* {{l|tr|yarayış}}
+* {{l|tr|yarar}}
+* {{l|tr|yaramaz}}
+* {{l|tr|yaranmak}}
+* {{l|tr|işe yaramak}}
+====Related terms====
+* {{l|tr|yaraşmak}}
+* {{l|tr|yaratmak}}
+===References===
+&lt;references/&gt;</text>
+<sha1>827gz8ux6qc53wqc1wbcoku1hq5dd52</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yazmamaq</title>
+<ns>0</ns>
+<id>6051360</id>
+<revision>
+<id>54450829</id>
+<parentid>48973674</parentid>
+<timestamp>2019-09-30T07:12:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{negative of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="79" xml:space="preserve">==Azerbaijani==
+===Verb===
+{{head|az|verb forms}}
+# {{negative of|az|yazmaq}}</text>
+<sha1>e47tox5huruyox5gwb2td9gf64vpis5</sha1>
+</revision>
+</page>

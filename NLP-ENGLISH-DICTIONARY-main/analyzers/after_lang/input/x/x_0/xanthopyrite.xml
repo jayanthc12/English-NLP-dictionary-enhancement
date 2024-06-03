@@ -1,0 +1,25 @@
+<page>
+<title>xanthopyrite</title>
+<ns>0</ns>
+<id>6365631</id>
+<revision>
+<id>67052914</id>
+<parentid>54330796</parentid>
+<timestamp>2022-05-17T11:14:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{prefix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="124" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|xantho-|pyrite}}
+===Noun===
+{{fr-noun|f}}
+# {{lb|fr|mineral}} {{synonym of|fr|pyrite}}</text>
+<sha1>le509c3irjlc5dzpstpgmqsqa0f1ofn</sha1>
+</revision>
+</page>

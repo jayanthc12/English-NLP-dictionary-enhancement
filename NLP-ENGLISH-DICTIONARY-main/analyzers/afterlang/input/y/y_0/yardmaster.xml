@@ -1,0 +1,28 @@
+<page>
+<title>yardmaster</title>
+<ns>0</ns>
+<id>250776</id>
+<revision>
+<id>69611761</id>
+<parentid>60466278</parentid>
+<timestamp>2022-10-28T17:52:02Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>/* Noun */ quote</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="948" xml:space="preserve">==English==
+===Etymology===
+{{compound|en|yard|master}}
+===Noun===
+{{en-noun}}
+# A [[railway]] [[employee]] who is in charge of a railway yard.
+#* {{quote-journal|en|year=1943|month=September and October|author=T. F. Cameron|title=Train and Traffic Control|journal=Railway Magazine|page=265|text=Each evening the '''Yardmaster''' in charge of each yard prepares a list of the freight trains (booked and special) which he proposes to run next day.}} 
+#* {{quote-journal|en|year=1961|month=May|title=Talking of Trains: Stourton and Stafford approved|journal=Trains Illustrated|page=260|text=The London Midland Region has announced receipt of authority from the Ministry of Transport to resume the reconstruction of Stafford station and layout, interrupted at the Minister's behest; contracts have now been placed for the erection of the new station buildings and the '''yardmaster''''s office.}}
+[[Category:en:Occupations]]
+[[Category:en:People]]</text>
+<sha1>ima16fckvtf6ooobgaepl1s890obsp3</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>ydyn</title>
+<ns>0</ns>
+<id>843385</id>
+<revision>
+<id>69117830</id>
+<parentid>60967954</parentid>
+<timestamp>2022-09-04T18:07:02Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="338" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|case=genitive|pl=singular|yty}}
+----
+==Welsh==
+===Verb===
+{{cy-verb form}}
+# {{cln|cy|colloquial verb forms}} {{lb|cy|North Wales}} {{infl of|cy|bod||3p|pres|interr|colloq}}
+====Synonyms====
+* {{l|cy|ydynt}} {{qualifier|literary}}
+* {{l|cy|ŷn}} {{qualifier|South Wales}}</text>
+<sha1>4zsa30vavj6cb83dc823gzqdpfw7137</sha1>
+</revision>
+</page>

@@ -1,0 +1,38 @@
+<page>
+<title>Xingu</title>
+<ns>0</ns>
+<id>248867</id>
+<revision>
+<id>67288182</id>
+<parentid>63034447</parentid>
+<timestamp>2022-06-06T09:05:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|pt}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="549" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|pt|-}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|major river|c/Brazil}} that flows north into the [[Amazon]] [[delta]].
+# A cultural [[reservation]] in central Brazil, in the state of Mato Grosso.
+===Noun===
+{{en-plural noun}}
+# Any of several [[indigenous]] tribes of [[Amerindian]] peoples who live in the Xingu reservation.
+----
+==Portuguese==
+===Etymology===
+{{rfe|pt}}
+===Proper noun===
+{{pt-proper noun|m}}
+# {{place|pt|river|c/Brazil|t1=Xingu}}
+====Quotations====
+{{seeCites|pt}}</text>
+<sha1>9vc9t8xnvcbeqswqiz41b68lroelhfe</sha1>
+</revision>
+</page>

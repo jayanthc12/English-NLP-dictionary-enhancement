@@ -1,0 +1,26 @@
+<page>
+<title>Yiewsley</title>
+<ns>0</ns>
+<id>7165281</id>
+<revision>
+<id>58513188</id>
+<parentid>58354413</parentid>
+<timestamp>2020-01-23T10:25:36Z</timestamp>
+<contributor>
+<username>Benwing</username>
+<id>172432</id>
+</contributor>
+<minor />
+<comment>Semi-manually clean up England places with {{place}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="174" xml:space="preserve">==English==
+{{wp}}
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/juːzli/}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|suburban area|lbor/Hillingdon|co/Greater London}}.</text>
+<sha1>fvq6juy2mxygnz8shlijraezaq6ukpw</sha1>
+</revision>
+</page>

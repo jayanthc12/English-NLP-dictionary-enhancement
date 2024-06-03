@@ -1,0 +1,34 @@
+<page>
+<title>yakamoz</title>
+<ns>0</ns>
+<id>1416663</id>
+<revision>
+<id>65140482</id>
+<parentid>63995742</parentid>
+<timestamp>2022-01-02T10:58:58Z</timestamp>
+<contributor>
+<username>İtidal</username>
+<id>3008460</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="831" xml:space="preserve">==Turkish==
+{{was fwotd|tr|2018|April|18}}
+===Etymology===
+From {{inh|tr|ota|یقاموز}}, {{m|ota|یاقاموز|tr=yakamoz}}, from {{der|tr|el|διακαμός}}.&lt;ref&gt;[http://www.tdk.gov.tr/index.php?option=com_gts&amp;kelime=YAKAMOZ Türk Dil Kurumu: Yakamoz]&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|tr|/jakaˈmoz/}}
+===Noun===
+{{tr-noun|u|lar}}
+# [[phosphorescence]] in the sea due to [[bioluminescent]] [[dinoflagellate]]s
+#* {{w|Mehmet Akif Ersoy}}:
+#*: '''Yakamozlar''' saçarak her tarafından fenerim / Çifte sandal, yüzüyorduk; o yüzer, ben yüzerim.
+#*:: '''Phosphorescence''' scattered all around is my lamp / We were swimming as a double rowboat: it swims, I swim.
+# the [[reflection]] of [[moonlight]] or other lights on [[water]]
+====Declension====
+{{tr-infl-noun-c|o|poss=1|pred=1}}
+===References===
+&lt;references/&gt;</text>
+<sha1>ax0iycmt8txgh7vk2wvg8jffd2k12zd</sha1>
+</revision>
+</page>

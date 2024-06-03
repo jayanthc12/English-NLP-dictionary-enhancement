@@ -1,0 +1,32 @@
+<page>
+<title>yelken</title>
+<ns>0</ns>
+<id>274148</id>
+<revision>
+<id>66250980</id>
+<parentid>62646019</parentid>
+<timestamp>2022-03-28T07:13:54Z</timestamp>
+<contributor>
+<username>Whitekiko</username>
+<id>3765395</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="516" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یلكن|tr=yelken}}.
+===Pronunciation===
+* {{IPA|tr|/jɛlˈcɛn/}}
+* {{hyphenation|tr|yel|ken}}
+===Noun===
+{{tr-noun|i|ler}}
+# {{lb|tr|nautical}} [[sail]]
+# {{lb|tr|nautical}} [[sailboat]]
+#: {{syn|tr|yelkenli}}
+====Declension====
+{{tr-infl-noun-c|e|pred=1|poss=1}}
+====Derived terms====
+{{der4|tr|yelken açmak|yelken balığı|yelken basmak|yelken bezi|yelken dikmek|yelken gemisi|yelken gönderi|yelken iğnesi|yelken kulak|yelken yarışı|yelkenci|yelkenli}}</text>
+<sha1>tu7ow1px5i42xmv5fse42catb294clx</sha1>
+</revision>
+</page>

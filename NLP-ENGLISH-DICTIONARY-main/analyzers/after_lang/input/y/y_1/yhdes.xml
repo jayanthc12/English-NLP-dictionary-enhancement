@@ -1,0 +1,48 @@
+<page>
+<title>yhdes</title>
+<ns>0</ns>
+<id>613617</id>
+<revision>
+<id>69196925</id>
+<parentid>61300560</parentid>
+<timestamp>2022-09-10T14:46:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1400" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yksi|s|id2=ordinal}}
+===Pronunciation===
+{{fi-p}}
+===Numeral===
+{{fi-num}}
+# {{cln|fi|ordinal numbers}} {{lb|fi|in compounds}} [[first]] {{gloss|ordinal of &quot;one&quot;; also in the word for 11th}}
+#: {{uxi|fi|'''yhdes'''toista|eleventh}}
+#: {{uxi|fi|sadas'''yhdes'''toista|one hundred eleventh}}
+#: {{uxi|fi|kolmaskymmenes'''yhdes'''|thirty-'''first'''}}
+#: {{uxi|fi|sadaskolmaskymmenes'''yhdes'''|one hundred thirty-'''first'''}}
+#: {{uxi|fi|neljäskymmenes'''yhdes'''osa|one forty-'''first''' (part)}}
+====Usage notes====
+* Used only in compound numerals, never alone.
+* Not used in front of {{m|fi|sadas||hundredth}}, {{m|fi|tuhannes||thousandth}} etc.
+*: {{uxi|fi|sadas|hundredth}}
+*: {{uxi|fi|sadastuhannes'''yhdes'''|'''one''' hundred '''one''' thousand '''first'''}}
+*: {{uxi|fi|miljoonas|millionth}}
+*: {{uxi|fi|kahdestuhannessadas|two thousand '''one''' hundredth}}
+*: {{uxi|fi|kaksituhattasadas|two thousand '''one''' hundredth}}
+* Interchangeable with {{m|fi|ensimmäinen||first}} at the end of an ordinal, i.e. when indicating ones (except with 11th); ''ensimmäinen'' is currently more commonly used.
+====Declension====
+{{fi-decl-kahdeksas|pos=adj|yhde|ä}}
+====Synonyms====
+* {{l|fi|ensimmäinen}}; except for in {{m|fi|yhdestoista||eleventh}}
+====Related terms====
+* {{l|fi|kahdes}} {{qualifier|second}}
+====See also====
+* {{l|fi|yksitoista}}</text>
+<sha1>3azqyis7mrn6m9dqbxupvw9crp5vn85</sha1>
+</revision>
+</page>

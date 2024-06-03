@@ -1,0 +1,45 @@
+<page>
+<title>yhdistetty</title>
+<ns>0</ns>
+<id>1070682</id>
+<revision>
+<id>69157999</id>
+<parentid>65114166</parentid>
+<timestamp>2022-09-07T14:18:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert optional asterisks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="750" xml:space="preserve">==Finnish==
+===Etymology===
+Passive past participle of the verb {{m|fi|yhdistää||to join, combine}}.
+===Pronunciation===
+{{fi-pronunciation|(*)}}
+===Adjective===
+{{fi-adj|-}}
+# [[joined]], [[combined]]
+# [[connected]] {{gloss|phone call}}
+# {{lb|fi|math}} [[composite]] {{gloss|not prime}}
+# {{lb|fi|statistics}} [[pooled]]
+====Declension====
+{{fi-decl-valo|pos=adj|yhdiste|tt|t|y|ä}}
+====Derived terms====
+* {{l|fi|yhdistetysti}}
+===Noun===
+{{wikipedia|lang=fi}}
+{{head|fi|noun}}
+# {{lb|fi|sports}} [[Nordic combined]].
+====Declension====
+{{fi-decl-valo|yhdiste|tt|t|y|ä}}
+===Participle===
+{{head|fi|past passive participle}}
+# {{fi-participle of|t=past_pasv|yhdistää}}
+====Declension====
+{{fi-decl-valo|pos=adj|yhdiste|tt|t|y|ä}}</text>
+<sha1>ls690v52p4eswv1v35wzh9bd7m1aids</sha1>
+</revision>
+</page>

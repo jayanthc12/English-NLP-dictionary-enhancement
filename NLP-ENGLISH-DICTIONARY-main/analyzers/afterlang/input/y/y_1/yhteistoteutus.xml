@@ -1,0 +1,29 @@
+<page>
+<title>yhteistoteutus</title>
+<ns>0</ns>
+<id>7128089</id>
+<revision>
+<id>58593459</id>
+<parentid>51659426</parentid>
+<timestamp>2020-01-30T12:20:37Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="228" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteis-|toteutus}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-toteutus}}
+===Noun===
+{{fi-noun}}
+# [[joint]] [[implementation]]
+====Declension====
+{{fi-decl-vastaus|yhteistoteutu|a}}</text>
+<sha1>f8i45xim9ehmpy8hmblx7oit8ukglvb</sha1>
+</revision>
+</page>

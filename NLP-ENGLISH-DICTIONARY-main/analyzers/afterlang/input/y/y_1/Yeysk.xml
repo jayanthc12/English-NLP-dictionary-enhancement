@@ -1,0 +1,39 @@
+<page>
+<title>Yeysk</title>
+<ns>0</ns>
+<id>6606033</id>
+<revision>
+<id>69540348</id>
+<parentid>67261233</parentid>
+<timestamp>2022-10-18T08:51:43Z</timestamp>
+<contributor>
+<username>Vox Sciurorum</username>
+<id>3320187</id>
+</contributor>
+<comment>/* Translations */ French Ieïsk</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="520" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|ru|Ейск}}.
+===Proper noun===
+{{en-proper noun}}
+# A town in [[Krasnodar Krai]], [[Russia]]
+====Translations====
+{{trans-top|town}}
+* Belarusian: {{t|be|Ейск|m}}
+* Estonian: {{t|et|Jeisk}}
+* Finnish: {{t|fi|Jeisk|}}
+{{trans-mid}}
+* French: {{t|fr|Ieïsk}}
+* Russian: {{t+|ru|Ейск|m}}
+* Ukrainian: {{t|uk|Єйськ|m}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eksyy|skyey}}
+[[Category:en:Places in Russia]]
+[[Category:en:Towns in Russia]]</text>
+<sha1>p7u4v32w5sv4sjegbifx908cegsahwe</sha1>
+</revision>
+</page>

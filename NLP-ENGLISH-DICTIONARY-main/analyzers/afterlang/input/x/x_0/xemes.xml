@@ -1,0 +1,23 @@
+<page>
+<title>xemes</title>
+<ns>0</ns>
+<id>1346325</id>
+<revision>
+<id>55574415</id>
+<parentid>53092188</parentid>
+<timestamp>2019-10-15T07:16:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="70" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xeme}}</text>
+<sha1>4go2aiubiw5c8nfik0a37mgc0x1x33b</sha1>
+</revision>
+</page>

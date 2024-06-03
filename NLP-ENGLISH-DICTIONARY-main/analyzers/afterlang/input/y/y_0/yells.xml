@@ -1,0 +1,35 @@
+<page>
+<title>yells</title>
+<ns>0</ns>
+<id>454503</id>
+<revision>
+<id>63015049</id>
+<parentid>59233506</parentid>
+<timestamp>2021-06-29T05:25:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Dutch plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="329" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yell}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yell}}
+===Anagrams===
+* {{anagrams|en|a=ellsy|Lyles|selly}}
+----
+==Dutch==
+===Pronunciation===
+* {{audio|nl|Nl-yells.ogg|Audio}}
+===Noun===
+{{head|nl|noun form}}
+# {{plural of|nl|yell}}</text>
+<sha1>r6p8ud3sjisoqfg7q0kfy4mqys8x9uy</sha1>
+</revision>
+</page>

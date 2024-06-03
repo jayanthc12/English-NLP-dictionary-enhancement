@@ -1,0 +1,25 @@
+<page>
+<title>Yetmans</title>
+<ns>0</ns>
+<id>6330775</id>
+<revision>
+<id>63224120</id>
+<parentid>62909125</parentid>
+<timestamp>2021-07-19T23:13:18Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="170" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun form}}
+# {{plural of|en|Yetman}}
+===Anagrams===
+* {{anagrams|en|a=aemnsty|Amnesty|Manteys|Matneys|amnesty|maytens}}</text>
+<sha1>kqk3aydxdp57h3hwpkpjp11rqwzlt1z</sha1>
+</revision>
+</page>

@@ -1,0 +1,37 @@
+<page>
+<title>Yassy</title>
+<ns>0</ns>
+<id>2551537</id>
+<revision>
+<id>58360825</id>
+<parentid>58343333</parentid>
+<timestamp>2020-01-11T19:02:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Romania</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="540" xml:space="preserve">==English==
+{{wikipedia|Iași}}
+===Alternative forms===
+* {{l|en|Iași}}, {{l|en|Iasi}}, {{l|en|Jassy}}, {{l|en|Iassy}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|city|c/Romania}}.
+====Translations====
+{{trans-top|city in Romania}}
+* Armenian: {{t|hy|Յասի|sc=Armn}}
+* German: {{t+|de|Jassy|n}}; {{t|de|Jassenmarkt}} {{qualifier|archaic or historical}}
+* Hungarian: {{t+|hu|Jászvásár}}
+{{trans-mid}}
+* Romanian: {{t+|ro|Iași}}
+* Russian: {{t+|ru|Яссы}}
+* Turkish: {{t+|tr|Yaş}}
+{{trans-bottom}}
+[[Category:en:Towns]]</text>
+<sha1>lfe7ejhiopj57cj6yncy5od47bfa6rw</sha1>
+</revision>
+</page>

@@ -1,0 +1,163 @@
+<page>
+<title>yearly</title>
+<ns>0</ns>
+<id>35297</id>
+<revision>
+<id>69649880</id>
+<parentid>69621921</parentid>
+<timestamp>2022-11-03T16:17:12Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* English */ drop encyclo image not showing the referent; +thes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="5811" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yeerly}}, {{m|enm|yerely}}, from {{inh|en|ang|ġēarlīċ}}, {{m|en|ġērlīċ||yearly, of the year, annual}}, equivalent to {{af|en|year|-ly}}. Cognate with {{cog|sco|yerelie||yearly}}, {{cog|stq|jierelk||yearly}}, {{cog|fy|jierliks||yearly}}, {{cog|nl|jaarlijks||yearly}}, {{cog|af|jaarlijks||yearly}}, {{cog|de|jährlich||yearly}}, {{cog|da|årlig||yearly}}, {{cog|nb|årlig||yearly}}, {{cog|nn|årleg||yearly}}, {{cog|sv|årlig||yearly}}, {{cog|is|árlegur||yearly}}.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ˈjɪɹli/|/ˈjɪəɹli/}}
+* {{a|RP}} {{IPA|en|/ˈjɪəli/}}
+* {{audio|en|en-us-yearly.ogg|Audio (US)}}
+* {{rhymes|en|ɪɹli|ɪəli|ɪə(ɹ)li|s=2}}
+* {{hyph|en|year|ly}}
+===Adjective===
+{{en-adj|-}}
+# Happening once every [[year]].
+#: {{ux|en|Christmas is a '''yearly''' celebration.}}
+#: {{ux|en|We deep-clean the kitchen on a '''yearly''' basis.}}
+# Over the course of one year
+#: {{ux|en|a '''yearly''' income}}
+====Synonyms====
+* {{l|en|annual}}
+* {{l|en|per annum}}
+* {{l|en|perennial}}
+====Translations====
+{{trans-top|happening once every year}}
+* Afrikaans: {{t+|af|jaarliks}}, {{t+|af|jaarlikse}}
+* Arabic: {{t|ar|سَنَوِيّ}}
+* Armenian: {{t+|hy|տարեկան}}
+* Assamese: {{t|as|বছেৰেকীয়া}}, {{t|as|বছৰি}}
+* Belarusian: {{t|be|штого́дны}}, {{t|be|штого́дні}}, {{t|be|штогадо́вы}}
+* Bulgarian: {{t|bg|ежего́ден}}
+* Catalan: {{t+|ca|anual}}
+* Chinese:
+*: Mandarin: {{t+|cmn|每年|alt=每年的|tr=měinián de|sc=Hani}}
+* Czech: {{t+|cs|roční}}
+* Danish: {{t+|da|årlig}}
+* Dutch: {{t+|nl|jaarlijks}}, {{t+|nl|jaarlijkse}}
+* Esperanto: {{t|eo|ĉiujara}}
+* Finnish: {{t+|fi|vuosittainen}}, {{t+|fi|jokavuotinen}}
+* French: {{t+|fr|annuel|m}}
+* Georgian: {{t|ka|წლიური}}, {{t|ka|ყოველწლიური}}
+* German: {{t+|de|jährlich}}
+* Hungarian: {{t+|hu|évenkénti}}, {{t+|hu|évi}}
+* Icelandic: {{t+|is|árlegur}}, {{t|is|árviss}}
+* Irish: {{t|ga|bliantúil}}
+* Italian: {{t+|it|annuale}}
+* Japanese: {{t+|ja|毎年|alt=毎年の|tr=まいとしの, maitoshi no}}
+* Korean: {{t+|ko|매년|alt=매년의}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ساڵانە}}
+{{trans-mid}}
+* Latin: {{t+|la|annuus}}, {{t+|la|quotannīs}}
+* Latvian: {{t|lv|gadskārtējs}}
+* Macedonian: {{t|mk|годишен}}
+* Malay:
+*: Jawi: {{t|ms|تاهونن|sc=Arab}}
+*: Rumi: {{t+|ms|tahunan}}
+* Manx: {{t|gv|bleinoil}}
+* Maori: {{t|mi|huritau}}
+* Norwegian:
+*: Bokmål: {{t+|nb|årlig}}
+*: Nynorsk: {{t|nn|årleg}}
+* Persian: {{t+|fa|سالانه|tr=sâlâne}}
+* Polish: {{t+|pl|roczny}}, {{t+|pl|coroczny}}, {{t+|pl|doroczny}}
+* Portuguese: {{t+|pt|anual}}
+* Romanian: {{t+|ro|anual|m|n}}
+* Russian: {{t+|ru|ежего́дный}}
+* Scottish Gaelic: {{t|gd|bliadhnail}}
+* Slovak: {{t|sk|ročný}}
+* Spanish: {{t+|es|anual}}
+* Swedish: {{t+|sv|årlig}}
+* Thai: {{t|th|ทุกปี|tr=túk-bpii}}, {{t|th|รายปี|tr=raai-bpii}}, {{t|th|ประจำปี|tr=bprà-jam-bpii}}
+* Turkish: {{t+|tr|yıllık}}
+* Ukrainian: {{t|uk|щорі́чний}}
+* Volapük: {{t+|vo|alyelik}}
+* Yiddish: {{t|yi|יאָריק|sc=Hebr}}
+{{trans-bottom}}
+===Adverb===
+{{en-adv|-}}
+# Once a [[year]].
+# Every year.
+====Synonyms====
+* {{l|en|annually}}
+* {{l|en|perennially}}
+====Translations====
+{{trans-top|once a year}}
+* Arabic: {{t|ar|سَنَوِيًّا}}
+* Armenian: {{t+|hy|տարեկան|sc=Armn}}
+* Assamese: {{t|as|বছৰি}}
+* Belarusian: {{t|be|штого́д}}, {{t|be|штого́ду}}
+* Bulgarian: {{t+|bg|ежего́дно}}, {{t|bg|годи́шно}}
+* Catalan: {{t+|ca|anualment}}
+* Chinese:
+*: Mandarin: {{t+|cmn|每年|tr=měinián}}
+* Czech: {{t+|cs|ročně}}
+* Dutch: {{t+|nl|jaarlijks}}
+* Esperanto: {{t|eo|jare}}
+* Finnish: {{t+|fi|vuosittain}}
+* French: {{t+|fr|annuellement}}
+* German: {{t+|de|jährlich}}
+* Hungarian: {{t|hu|évenként}}, {{t+|hu|évente}}
+* Irish: {{t|ga|[[in éadan]] [[an]] [[bliain|bliana]]}}
+* Italian: {{t+|it|annualmente}}
+* Japanese: {{t|ja|年一回|alt=年一回の|tr=ねんいっかいの, nen'ikkai no}}, {{t+|ja|毎年|tr=maitoshi}}
+* Korean: {{t+|ko|해마다}}, {{t+|ko|매년}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ساڵانە}}
+* Macedonian: {{t|mk|годишно}}
+* Maori: {{t|mi|ā-tau}}
+* Norwegian:
+*: Bokmål: {{t+|nb|årlig}}
+* Persian: {{t+|fa|سالانه|tr=sâlâne}}
+* Polish: {{t+|pl|corocznie}}, {{t+|pl|rocznie}}
+* Portuguese: {{t|pt|anualmente}}
+* Russian: {{t+|ru|ежего́дно}}
+* Slovak: {{t|sk|ročne}}
+* Spanish: {{t+|es|anualmente}}, {{t|es|[[cada]] [[año]]}}
+* Swedish: {{t+|sv|årligen}}
+* Thai: {{t|th|ทุกปี|tr=túk-bpii}}, {{t+|th|[[ปี]][[ละ]][[ครั้ง]]|tr=bpii-lá-kráng}}, {{t+|th|[[ปี]][[ละ]][[หน]]|tr=bpii-lá-hǒn}}
+* Turkish: {{t+|tr|yıllık}}
+* Ukrainian: {{t|uk|щорі́чно}}, {{t|uk|щоро́ку}}, {{t|uk|щорі́к}}, {{t|uk|рі́чно}}
+* Volapük: {{t+|vo|alyelo}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# Something that is [[publish]]ed once a [[year]].
+====Translations====
+{{trans-top|something that is published once a year}}
+* Bulgarian: {{t+|bg|годишник|m}}
+* Dutch: {{t|nl|jaaruitgave|f}}, {{t|nl|jaarlijkse uitgave|f}}
+* Finnish: {{t+|fi|vuosikirja}}
+* French: {{t+|fr|annuaire|m}}
+* Italian: {{t+|it|annuario|m}}
+* Japanese: {{t+|ja|年刊|tr=ねんかんの, nenkan no|alt=年刊の}}
+{{trans-mid}}
+* Korean: {{t+|ko|연간|alt=연간의}}
+* Polish: {{t+|pl|rocznik|m}}
+* Russian: {{t+|ru|ежего́дник|m}}
+* Thai: {{t|th|รายปี|tr=raai-bpii}}
+* Turkish: {{t+|tr|yıllık}}
+{{trans-bottom}}
+===See also===
+* [[Thesaurus:frequency]]
+===Anagrams===
+* {{anagrams|en|a=aelryy|yarely}}
+[[Category:English frequency adverbs]]
+[[Category:en:Time]]</text>
+<sha1>qpxcx7n2wajhnpa63z21y28y8inzxur</sha1>
+</revision>
+</page>

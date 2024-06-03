@@ -1,0 +1,29 @@
+<page>
+<title>xiphion</title>
+<ns>0</ns>
+<id>4151345</id>
+<revision>
+<id>60969294</id>
+<parentid>53816477</parentid>
+<timestamp>2020-10-28T09:52:52Z</timestamp>
+<contributor>
+<username>Samubert96</username>
+<id>3098704</id>
+</contributor>
+<comment>/* Latin */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="211" xml:space="preserve">==Latin==
+===Etymology===
+Borrowed from {{bor|la|grc|ξίφιον}}.
+===Noun===
+{{la-noun|xiphion&lt;2&gt;}}
+# [[gladiolus]]
+====Declension====
+{{la-ndecl|xiphion&lt;2&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>669kh4sjixcu9gkre8c2diohcnfbleu</sha1>
+</revision>
+</page>

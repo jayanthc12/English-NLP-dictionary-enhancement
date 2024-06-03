@@ -1,0 +1,26 @@
+<page>
+<title>xipriotes</title>
+<ns>0</ns>
+<id>3935625</id>
+<revision>
+<id>56225831</id>
+<parentid>43933894</parentid>
+<timestamp>2019-10-17T09:12:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Catalan==
+===Adjective===
+{{head|ca|adjective form}}
+# {{plural of|ca|xipriota}}
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xipriota}}</text>
+<sha1>05gv29sdc5lg5rqnsdp87gs4rrkamyn</sha1>
+</revision>
+</page>

@@ -1,0 +1,55 @@
+<page>
+<title>xystus</title>
+<ns>0</ns>
+<id>252523</id>
+<revision>
+<id>67953959</id>
+<parentid>67894174</parentid>
+<timestamp>2022-07-15T06:35:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{projectlink|1911}} -&gt; {{R:Britannica 1911}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="983" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|grc|ξυστός||smooth; scraped}}, from {{m|grc|ξύω||scrape}}, referring to its polished floor.
+===Pronunciation===
+* {{IPA|en|/ˈzɪstəs/}}
+===Noun===
+{{en-noun|xysti}}
+# {{lb|en|historical|architecture|in Ancient Greece}} A long and open [[portico]] within the [[gymnasium]].
+#: {{syn|en|xyst|xystum}}
+===See also===
+* {{pedia|Xystus (architectural term)|Xystus}}
+{{R:Britannica 1911|Xystus}}
+----
+==Latin==
+===Alternative forms===
+* {{alter|la|xystum}}
+===Etymology===
+From {{bor|la|grc|ξυστός|t=xystus}}.
+===Pronunciation===
+* {{la-IPA|xystus}}
+===Noun===
+{{la-noun|xystus&lt;2&gt;}}
+# covered [[portico]] or [[gallery]] (or one planted with trees)
+====Declension====
+{{la-ndecl|xystus&lt;2&gt;}}
+====Descendants====
+* {{desc|en|xystus}}
+* {{desc|pt|xisto}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+* {{R:PersEnc}}
+* {{R:Peck}}
+* {{R:Smith's Antiquities}}
+{{topics|la|Architectural elements}}</text>
+<sha1>innujmmymfmkpd0tupl6hvj9ppq9vmh</sha1>
+</revision>
+</page>

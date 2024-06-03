@@ -1,0 +1,24 @@
+<page>
+<title>ximiemos</title>
+<ns>0</ns>
+<id>4342255</id>
+<revision>
+<id>53117256</id>
+<parentid>40383279</parentid>
+<timestamp>2019-05-19T05:20:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person plural indefinite preterite indicative' to 1|p|indef|pret|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="112" xml:space="preserve">{{also|ximíemos}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|ximir||1|p|indef|pret|ind}}</text>
+<sha1>riazcib7g0iditm29wo6y8cwm84nq1i</sha1>
+</revision>
+</page>

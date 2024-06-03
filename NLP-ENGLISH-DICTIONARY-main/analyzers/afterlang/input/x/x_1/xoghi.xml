@@ -1,0 +1,24 @@
+<page>
+<title>xoghi</title>
+<ns>0</ns>
+<id>3054469</id>
+<revision>
+<id>62904457</id>
+<parentid>55950249</parentid>
+<timestamp>2021-06-18T04:04:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Venetian plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="89" xml:space="preserve">{{also|xóghi}}
+==Venetian==
+===Noun===
+{{head|vec|noun form}}
+# {{plural of|vec|xogo}}</text>
+<sha1>ddcy17j4a8ree1c3wv26vgitdts6qj3</sha1>
+</revision>
+</page>

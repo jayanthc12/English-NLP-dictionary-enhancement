@@ -1,0 +1,41 @@
+<page>
+<title>yicha</title>
+<ns>0</ns>
+<id>902506</id>
+<revision>
+<id>69318707</id>
+<parentid>46190036</parentid>
+<timestamp>2022-09-18T17:33:43Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="784" xml:space="preserve">{{also|yícha}}
+==Navajo==
+===Etymology===
+{{nv-prefixes|y-peg|3s|∅}} {{nv-link-to-stem|-cha|durative imperfective}} {{nv-link-to-root|-CHA|cry}}.
+===Verb===
+{{head|nv|verb}}
+# he/she is [[cry#Verb|cry]]ing, [[weep#Verb|weep]]ing
+====Conjugation====
+{{nv-paradigm|durative|∅/yi}}.
+{{nv-verbtable|IMPERFECTIVE
+|yishcha|yiicha|deiicha|nicha|wohcha|daahcha|yicha|daacha|jicha|dajicha}}
+{{nv-verbtable|PERFECTIVE
+|yícha|yiicha|deiicha|yínícha|woocha|daoocha|yícha|dáácha|jíícha|dajíícha}}
+{{nv-verbtable|FUTURE
+|deeshchah|diichah|dadiichah|dííchah|doohchah|dadoohchah|doochah|dadoochah|jidoochah|dazhdoochah}}
+====Verbal stems====
+* IMPERFECTIVE: -cha
+* PERFECTIVE: -cha
+* FUTURE: -chah
+* ITERATIVE: -chah
+* OPTATIVE: -cha
+====Related terms====
+* {{l|nv|haachééh}}</text>
+<sha1>jitg3vqq4gofg62abzb2f9z73k8iwgw</sha1>
+</revision>
+</page>

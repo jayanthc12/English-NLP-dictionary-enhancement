@@ -1,0 +1,32 @@
+<page>
+<title>yelmo</title>
+<ns>0</ns>
+<id>92055</id>
+<revision>
+<id>68889345</id>
+<parentid>67971839</parentid>
+<timestamp>2022-08-28T08:54:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="461" xml:space="preserve">==Spanish==
+[[File:Greek_-_Corinthian-Type_Helmet_-_Walters_542303.jpg|thumb|right|200px|Ancient Greek Helmet (yelmo)]]
+===Etymology===
+From {{inh|es|LL.|helmus}}, borrowed from {{der|es|frk|*helm||helmet}}, from {{der|es|gem-pro|*helmaz}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# an ancient [[helmet]] that covers head and face
+#: {{syn|es|casco}}
+# {{lb|es|heraldry}} [[helmet]] (of a coat of arms)
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>bthk33u6sya0u3nbweww6rbjy9h2qxc</sha1>
+</revision>
+</page>

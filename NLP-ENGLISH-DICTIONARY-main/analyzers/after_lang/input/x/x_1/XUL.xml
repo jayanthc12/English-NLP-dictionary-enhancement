@@ -1,0 +1,35 @@
+<page>
+<title>XUL</title>
+<ns>0</ns>
+<id>3095000</id>
+<revision>
+<id>59986267</id>
+<parentid>54612612</parentid>
+<timestamp>2020-08-07T07:52:09Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="426" xml:space="preserve">{{also|xul}}
+==English==
+===Pronunciation===
+* {{IPA|en|/ˈzuːl/}}
+* {{hyphenation|en|XUL}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|computing}} {{initialism of|en|[[XML|Xml]] [[user interface|User interface]] [[language|Language]]}}
+====Hypernyms====
+* {{l|en|XML}} {{gloss|a dialect}}
+====Derived terms====
+* {{l|en|XULRunner}}
+====References====
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=lux|Lux.|ULX|lux}}</text>
+<sha1>aboh6u5vtolsnj5w33nc92r5esepm7q</sha1>
+</revision>
+</page>

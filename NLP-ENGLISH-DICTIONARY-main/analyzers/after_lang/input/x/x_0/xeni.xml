@@ -1,0 +1,26 @@
+<page>
+<title>xeni</title>
+<ns>0</ns>
+<id>3550993</id>
+<revision>
+<id>57214743</id>
+<parentid>43773454</parentid>
+<timestamp>2019-10-19T15:21:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xenī}}
+# {{inflection of|la|xenon||gen|s}}
+===References===
+* {{R:Peck}}
+* {{R:Smith's Antiquities}}</text>
+<sha1>d552vxvo159jn3z1a55mop5flfacluk</sha1>
+</revision>
+</page>

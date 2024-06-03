@@ -1,0 +1,25 @@
+<page>
+<title>yakwe</title>
+<ns>0</ns>
+<id>832675</id>
+<revision>
+<id>63661497</id>
+<parentid>59181739</parentid>
+<timestamp>2021-08-15T03:14:46Z</timestamp>
+<contributor>
+<username>Rudi Laschenkohl</username>
+<id>3398941</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="298" xml:space="preserve">==Tocharian B==
+===Etymology===
+From {{inh|txb|ine-toc-pro|*yä́kwë}}, from {{inh|txb|ine-pro|*h₁éḱwos}}, whence also {{cog|sa|अश्व|tr=áśva}}, {{cog|la|equus}}, {{cog|sga|ech}}. Cognate with {{cog|xto|yuk}}.
+===Noun===
+{{head|txb|noun|g=m}}
+# [[horse]]
+[[Category:txb:Mammals]]</text>
+<sha1>t08r275lmuqvqe63b9yr63ixs43tlbj</sha1>
+</revision>
+</page>

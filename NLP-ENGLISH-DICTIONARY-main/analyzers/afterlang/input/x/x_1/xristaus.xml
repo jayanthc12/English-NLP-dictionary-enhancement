@@ -1,0 +1,23 @@
+<page>
+<title>xristaus</title>
+<ns>0</ns>
+<id>5941684</id>
+<revision>
+<id>52198945</id>
+<parentid>50576418</parentid>
+<timestamp>2019-04-01T11:02:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{got-romanization of}} to {{romanization of|got}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">==Gothic==
+===Romanization===
+{{got-rom}}
+# {{romanization of|got|𐍇𐍂𐌹𐍃𐍄𐌰𐌿𐍃}}</text>
+<sha1>4mxd32pivowcza8cek7k6yxa41jxpva</sha1>
+</revision>
+</page>

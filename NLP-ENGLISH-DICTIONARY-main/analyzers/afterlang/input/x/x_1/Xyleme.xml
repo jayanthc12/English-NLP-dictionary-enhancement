@@ -1,0 +1,25 @@
+<page>
+<title>Xyleme</title>
+<ns>0</ns>
+<id>3894974</id>
+<revision>
+<id>66245000</id>
+<parentid>65721875</parentid>
+<timestamp>2022-03-27T17:34:32Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xyleme.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="151" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-Xyleme.ogg|Audio}}
+===Noun===
+{{head|de|noun form|g=n}}
+# {{inflection of|de|Xylem||nom//acc//gen|p}}</text>
+<sha1>rf6dk99a0whonw71cogarvzp1jf6p3m</sha1>
+</revision>
+</page>

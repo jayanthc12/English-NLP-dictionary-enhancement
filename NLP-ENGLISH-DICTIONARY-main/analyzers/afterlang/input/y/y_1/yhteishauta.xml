@@ -1,0 +1,29 @@
+<page>
+<title>yhteishauta</title>
+<ns>0</ns>
+<id>6762623</id>
+<revision>
+<id>58620589</id>
+<parentid>58593440</parentid>
+<timestamp>2020-02-01T14:20:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="268" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|hauta}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-hauta}}
+===Noun===
+{{fi-noun}}
+# [[common]] [[grave]] {{gloss|such as for some group of people}}
+====Declension====
+{{fi-decl-kala|yhteishau|t|d|a}}</text>
+<sha1>mjx184cc6dgnj635j495txvo90f1pc3</sha1>
+</revision>
+</page>

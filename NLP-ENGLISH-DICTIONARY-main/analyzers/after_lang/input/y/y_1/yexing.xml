@@ -1,0 +1,33 @@
+<page>
+<title>yexing</title>
+<ns>0</ns>
+<id>703454</id>
+<revision>
+<id>64460448</id>
+<parentid>61113005</parentid>
+<timestamp>2021-10-28T12:28:07Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="714" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjɛksɪŋ/}}
+* {{rhymes|en|ɛksɪŋ|s=2}}
+===Etymology 1===
+From {{suffix|en|yex|ing}}.
+====Verb====
+{{head|en|verb form}}
+# {{present participle of|en|yex|nocat=1}}
+===Etymology 2===
+From {{inh|en|enm|ȝyxynge}}, {{m|enm|ȝoxing}}, from {{inh|en|ang|ġeoxung}}, {{m|ang|ġeocsung}}, {{m|ang|ġiscung|t=sobbing}}, from {{der|en|ang|ġiscian|t=to sob; sigh}}, equivalent to {{suffix|en|yex|ing}}.
+====Noun====
+{{en-noun}}
+# {{lb|en|archaic|or|dialectal}} a [[hiccup]]
+#* {{quote-text|en|year=1714|author=Titus Lucretius Carus, Thomas Creech|title=Of the Nature of Things: In Six Books - Volume 2|passage=Frequent, convulsive '''Yexings''', or Hickets.}}</text>
+<sha1>ai0a9mbt16a3fxceit8fnzebe6130n3</sha1>
+</revision>
+</page>

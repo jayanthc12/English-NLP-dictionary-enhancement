@@ -1,0 +1,27 @@
+<page>
+<title>xerothermophilous</title>
+<ns>0</ns>
+<id>5209467</id>
+<revision>
+<id>54404278</id>
+<parentid>51578380</parentid>
+<timestamp>2019-09-29T08:50:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="661" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|thermophilous}}
+===Adjective===
+{{en-adj}}
+# Both [[thermophilous]] and [[xerophilous]].
+#* {{quote-journal|en|date=January 20, 2016|author=|title=Detecting Coppice Legacies from Tree Growth|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147205|doi=10.1371/journal.pone.0147205|volume=|issue=|pages=
+|passage=The bedrock, specific geomorphology, warm and dry climate with a '''xerothermophilous''' flora, and the role of humans have resulted in high biodiversity including protected flora and fauna, often light demanding species dependent on the traditional management. }}</text>
+<sha1>0kzxe0dnsrraermgp95z67ukxtowbu1</sha1>
+</revision>
+</page>

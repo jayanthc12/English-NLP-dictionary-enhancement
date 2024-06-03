@@ -1,0 +1,27 @@
+<page>
+<title>Yaretzi</title>
+<ns>0</ns>
+<id>5854172</id>
+<revision>
+<id>61998066</id>
+<parentid>55058551</parentid>
+<timestamp>2021-03-09T09:56:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish lemmas (use {{alter}}, fix indentation errors, templatize categories and quotes, detemplatize English links, clean up manual pronunciations, use {{bor}}/{{inh}} when appropriate for some pages, use {{lb|es|relational}}, {{given name}} fixes, etc.) (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="179" xml:space="preserve">==Spanish==
+===Etymology===
+{{rfe|es}}
+===Proper noun===
+{{es-proper noun|f}}
+# {{lb|es|Latin America}} {{given name|es|female|usage=modern}}
+===See also===
+* {{l|es|Yaritza}}</text>
+<sha1>lo8r3f6o77h32yx0msy1oo9dxdvjp41</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>yermic</title>
+<ns>0</ns>
+<id>4842695</id>
+<revision>
+<id>54365338</id>
+<parentid>51957289</parentid>
+<timestamp>2019-09-28T21:17:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="504" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|es|yermo||desert wasteland}} {{suffix|en||ic}}.
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|soil science}} Characteristic of a [[desert]].
+#* {{quote-book|en|title=Interpretation of Micromorphological Features of Soils and Regoliths|author=Georges Stoops|year=2010|passage=The components of the desert pavement that is often found on top of the '''yermic''' horizon are too large for standard thin section studies and thus they are not discussed in this chapter.}}</text>
+<sha1>qtry4p3unpteozarvdv0qnf7mzdry6l</sha1>
+</revision>
+</page>

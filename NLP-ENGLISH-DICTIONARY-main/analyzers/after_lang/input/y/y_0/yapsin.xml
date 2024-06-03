@@ -1,0 +1,25 @@
+<page>
+<title>yapsin</title>
+<ns>0</ns>
+<id>7277502</id>
+<revision>
+<id>53760111</id>
+<parentid>53621159</parentid>
+<timestamp>2019-07-28T16:40:48Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|enzyme}} A form of [[pepsin]]
+===Anagrams===
+* {{anagrams|en|a=ainpsy|Pinays|aspiny}}</text>
+<sha1>m7lhir0d4n7mqjx1hhh4oze7ei5yium</sha1>
+</revision>
+</page>

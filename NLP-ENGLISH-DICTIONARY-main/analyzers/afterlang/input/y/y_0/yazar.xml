@@ -1,0 +1,42 @@
+<page>
+<title>yazar</title>
+<ns>0</ns>
+<id>3603176</id>
+<revision>
+<id>67659151</id>
+<parentid>67652754</parentid>
+<timestamp>2022-07-06T15:48:12Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert aorist forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="460" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{suf|az|yazmaq|r|alt1=yaz|alt2=ar}}.
+===Noun===
+{{az-head-noun|a|r}}
+# [[author]], [[writer]]
+#: {{syn|az|yazıçı}}
+====Declension====
+{{az-decl-noun|a|r}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Turkish==
+===Noun===
+{{tr-noun|ı|lar}}
+# [[author]], [[writer]]
+====Declension====
+{{tr-infl-noun-c|a}}
+====Synonyms====
+* {{l|tr|müellif}}
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yazmak}}</text>
+<sha1>1y3hxo03vbnawbbshw4v4xv0yvncwvl</sha1>
+</revision>
+</page>

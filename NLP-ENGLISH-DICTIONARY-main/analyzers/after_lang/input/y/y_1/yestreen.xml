@@ -1,0 +1,41 @@
+<page>
+<title>yestreen</title>
+<ns>0</ns>
+<id>457143</id>
+<revision>
+<id>59368167</id>
+<parentid>49842820</parentid>
+<timestamp>2020-05-15T20:17:45Z</timestamp>
+<contributor>
+<username>Shāntián Tàiláng</username>
+<id>3495754</id>
+</contributor>
+<comment>/* English */ improved quotes; added a category</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1127" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|yestereen}}
+===Etymology===
+From {{inh|en|enm|yestreen}}, alteration of {{m|enm|yestereven|t=last night, yesterday evening}}, from {{inh|en|ang|ġiestranǣfen|t=yesterday evening}}, equivalent to {{af|en|yester-|e'en|t2=evening}}. Cognate with {{cog|fy|justerjûn|t=yestreen; last night}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|chiefly|archaic|poetic|or|Scottish}} The night before.
+#* {{quote-book|en|year=1817|author={{w|Walter Scott}}|title={{w|Rob Roy}}|url=http://www.gutenberg.org/files/7025/7025-h/7025-h.htm|passage=It was the creature Dougal that extricated me, as he did '''yestreen''' {{...}}}}
+#* {{quote-book|en|year=1960|author={{w|P. G. Wodehouse}}|title={{w|Jeeves in the Offing}}|chapter=11|passage=You have not forgotten our telephone conversation of '''yestreen''', Jeeves?}}
+====Synonyms====
+* ''see list in'' '''{{l|en|yestereve}}'''
+{{c|en|Past|Night}}
+----
+==Scots==
+===Etymology===
+From {{inh|sco|enm|yestereven||yesterday evening}}.
+===Noun===
+{{sco-noun}}
+# yesterday evening, the night before
+===Adverb===
+{{sco-adv|-}}
+# last night, yesterday</text>
+<sha1>ovpyvpwbkzl6g7mnyql9uo4kk8js0xc</sha1>
+</revision>
+</page>

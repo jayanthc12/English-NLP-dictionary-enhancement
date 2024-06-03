@@ -1,0 +1,30 @@
+<page>
+<title>yaomiqui</title>
+<ns>0</ns>
+<id>471768</id>
+<revision>
+<id>55412698</id>
+<parentid>47712965</parentid>
+<timestamp>2019-10-14T15:08:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="422" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+'''[[yaotl|yāōtl]]''' &quot;enemy; (in compounds) war&quot; + '''[[miqui]]''' &quot;to die&quot;
+===Pronunciation===
+* {{IPA|nci|/jaːoːmiki/}}
+===Verb===
+{{head|nci|verb|head=yāōmiqui}}
+# To [[die]] in [[battle]].
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'' University of Oklahoma Press, p. 266.
+[[Category:nci:Military]]</text>
+<sha1>swox8om2i1vz57ou776b4xw6k6przjc</sha1>
+</revision>
+</page>

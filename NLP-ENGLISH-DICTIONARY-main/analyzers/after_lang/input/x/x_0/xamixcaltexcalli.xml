@@ -1,0 +1,36 @@
+<page>
+<title>xamixcaltexcalli</title>
+<ns>0</ns>
+<id>4651141</id>
+<revision>
+<id>56337653</id>
+<parentid>52039739</parentid>
+<timestamp>2019-10-17T13:35:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1046" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|xamixcalli|texcalli|t1=fired clay brick|t2=oven}}.
+===Pronunciation===
+* {{IPA|nci|[ʃa.miʃ.kaɬ.teʃˈka.lːi]}}
+===Noun===
+{{nci-noun|i}}
+# [[masonry]] [[oven]], [[brick]] [[oven]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 72r. col. 2.
+#*: Horno de ladrillo. '''xamixcaltexcalli'''.
+#*:: A brick oven. '''xamixcaltexcalli'''.
+#* ''Idem'', f. 158v. col. 1.
+#*: '''Xamixcaltexcalli'''. horno de ladrillos.
+#*:: '''Xamixcaltexcalli'''. a brick oven.
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=Vocabulario en lengua castellana y mexicana y mexicana y castellana|publisher=Editorial Porrúa|pages=72r, 158v}}
+* {{cite-book|author=[[w:Rémi Siméon|Rémi Siméon]]|year=1885|title=Diccionario de la lengua náhuatl o mexicana|publisher=Siglo Veintiuno Editores|page=762}}</text>
+<sha1>941pvoi6l4ub1wiswk9dir55l3jky64</sha1>
+</revision>
+</page>

@@ -1,0 +1,55 @@
+<page>
+<title>yal</title>
+<ns>0</ns>
+<id>7030940</id>
+<revision>
+<id>67245367</id>
+<parentid>67208961</parentid>
+<timestamp>2022-06-04T22:07:47Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="908" xml:space="preserve">==Azerbaijani==
+===Pronunciation===
+* {{IPA|az|[jɑɫ]}}
+===Etymology 1===
+From {{inh|az|trk-cmn|*yāl}}.
+====Noun====
+{{az-noun}}
+# [[mane]] {{gloss|longer hair growth on back of neck of an animal, especially a [[horse]] or [[lion]]}} {{C|az|Horses|Animal body parts}}
+#: {{syn|az|yalman}}
+# [[mane]] {{gloss|long or thick hair of a person's head or face}}
+=====Derived terms=====
+* {{l|az|yallamaq}}
+===Etymology 2===
+====Noun====
+{{az-noun}}
+# [[dog food]]
+# [[tasteless]] [[food]]
+=====Derived terms=====
+* {{l|az|yallamaq}}
+===Declension===
+{{az-decl-noun|a|c}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Kabyle==
+===Determiner===
+{{head|kab|determiner}}
+# [[each]], [[every]]
+#: {{ux|kab|'''yal''' aseggas|'''every''' year}}
+#: {{ux|kab|'''yal''' iḍ|'''every''' night}}
+====Derived terms====
+* {{l|kab|yal ass}}
+----
+==Tocharian B==
+===Noun===
+{{head|txb|noun}}
+# [[gazelle]]</text>
+<sha1>6jczeat9rpjzqm9475reed140ddnaym</sha1>
+</revision>
+</page>

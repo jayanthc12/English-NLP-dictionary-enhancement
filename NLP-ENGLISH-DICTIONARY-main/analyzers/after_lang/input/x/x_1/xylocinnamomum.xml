@@ -1,0 +1,28 @@
+<page>
+<title>xylocinnamomum</title>
+<ns>0</ns>
+<id>4151360</id>
+<revision>
+<id>53816483</id>
+<parentid>53646666</parentid>
+<timestamp>2019-08-04T12:09:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="175" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun|xylocinnamōmum&lt;2&gt;}}
+# [[cinnamon]] [[wood]]
+====Declension====
+{{la-ndecl|xylocinnamōmum&lt;2&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>loah2leefwxxf1i07ym2hf8w94kdts6</sha1>
+</revision>
+</page>

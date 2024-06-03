@@ -1,0 +1,45 @@
+<page>
+<title>xapo</title>
+<ns>0</ns>
+<id>6860639</id>
+<revision>
+<id>64051570</id>
+<parentid>61400141</parentid>
+<timestamp>2021-09-28T05:14:17Z</timestamp>
+<contributor>
+<ip>2806:105E:F:41D8:6908:9342:3B8:11F8</ip>
+</contributor>
+<comment>/* Northern Puebla Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="801" xml:space="preserve">==Central Huasteca Nahuatl==
+===Noun===
+{{head|nch|noun}}
+# [[soap]].
+----
+==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[soap]].
+[[Category:Tlaxcala Central Nahuatl]]
+----
+==Northern Puebla Nahuatl==
+===Etymology===
+Borrowed from {{bor|ncj|es|jabón}}.
+===Noun===
+{{head|ncj|noun}}
+# {{l|en|soap}}
+===References===
+* {{R:Brockway et al. 2018|page=242}}
+----
+==Tetelcingo Nahuatl==
+===Etymology===
+Borrowed from {{bor|nhg|es|jabón}}, from {{der|nhg|la|sapo}}.
+===Noun===
+{{head|nhg|noun}}
+# [[soap|Soap]].
+===References===
+* {{cite-book|last=Brewer|first=Forrest|last2=Brewer|first2=Jean G.|title=Vocabulario mexicano de Tetelcingo, Morelos|edition=segunda impresión|location=México, D.F.|publisher=Instituto Lingüístico de Verano|year=1962|year_published=1971|page=245}}</text>
+<sha1>a0mrb46wuz6sm7rvbiq4vc5czvlymg9</sha1>
+</revision>
+</page>

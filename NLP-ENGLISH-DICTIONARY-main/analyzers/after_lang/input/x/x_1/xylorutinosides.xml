@@ -1,0 +1,23 @@
+<page>
+<title>xylorutinosides</title>
+<ns>0</ns>
+<id>4598400</id>
+<revision>
+<id>55667764</id>
+<parentid>53092507</parentid>
+<timestamp>2019-10-15T11:30:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="80" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylorutinoside}}</text>
+<sha1>s9d8mr2ppgwuip9up4yfk36jiga6pk1</sha1>
+</revision>
+</page>

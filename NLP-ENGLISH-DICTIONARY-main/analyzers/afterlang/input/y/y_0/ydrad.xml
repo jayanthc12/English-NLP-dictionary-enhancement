@@ -1,0 +1,29 @@
+<page>
+<title>ydrad</title>
+<ns>0</ns>
+<id>3046181</id>
+<revision>
+<id>55184511</id>
+<parentid>53068604</parentid>
+<timestamp>2019-10-13T23:48:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{past participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==Middle English==
+===Alternative forms===
+* {{l|enm|ydred}}
+===Etymology===
+From {{der|enm|ang|ġedrǣdd}}.
+===Participle===
+{{head|enm|participle}}
+# {{past participle of|enm|dreden||to dread}}
+===See also===
+* {{l|enm|adrad}}</text>
+<sha1>8ublcfprqquevsazykbfg3l9tpnrse7</sha1>
+</revision>
+</page>

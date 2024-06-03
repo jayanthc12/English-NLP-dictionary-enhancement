@@ -1,0 +1,33 @@
+<page>
+<title>yarrayn</title>
+<ns>0</ns>
+<id>323686</id>
+<revision>
+<id>51171353</id>
+<parentid>44878835</parentid>
+<timestamp>2018-12-31T03:19:55Z</timestamp>
+<contributor>
+<username>TheSilverWolf98</username>
+<id>2272658</id>
+</contributor>
+<minor />
+<comment>/* Wiradhuri */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="641" xml:space="preserve">==Wiradhuri==
+===Alternative forms===
+* {{l|wrh|yaran}}
+* {{l|wrh|yerrañ}}
+* {{l|wrh|yarrang}}
+===Etymology===
+From {{inh|wrh|aus-cww-pro|*yarrañ}}, cognate with {{cog|kld|yarray}}.
+===Noun===
+{{head|wrh|noun}}
+# [[beard]]
+#* '''1892''', James Günther, ''Grammar and Vocabulary of the Aboriginal dialect called Wirradhuri,'' in John Fraser (ed.), ''An Australian Language''
+#*: '''Yaran'''—the chin; the beard.
+#* '''1904''', R. H. Mathews, ''The Wiradyuri and other languages of New South Wales,'' in ''The Journal of the Anthropological Institute of Great Britain and Ireland,'' vol. 34
+#*: Beard .... .... .... '''''yerrañ'''.''</text>
+<sha1>0xrnclj4tci85a0iegxg6wo3y0pv0fd</sha1>
+</revision>
+</page>

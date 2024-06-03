@@ -1,0 +1,25 @@
+<page>
+<title>yhdistynyt</title>
+<ns>0</ns>
+<id>803750</id>
+<revision>
+<id>58400630</id>
+<parentid>37449202</parentid>
+<timestamp>2020-01-13T14:30:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add declension for participles; use |pos=adj</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==Finnish==
+===Participle===
+{{head|fi|past active participle}}
+# {{fi-participle of|t=past|yhdistyä}}
+====Declension====
+{{fi-decl-kuollut|pos=adj|yhdistyn|ä}}</text>
+<sha1>5hnrg352mvhja46sq4oics88i7otu5d</sha1>
+</revision>
+</page>

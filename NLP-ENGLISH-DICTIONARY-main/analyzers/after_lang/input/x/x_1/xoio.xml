@@ -1,0 +1,36 @@
+<page>
+<title>xoio</title>
+<ns>0</ns>
+<id>6523256</id>
+<revision>
+<id>68867262</id>
+<parentid>68833364</parentid>
+<timestamp>2022-08-28T05:47:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="466" xml:space="preserve">==Galician==
+[[File:Lolium temulentum 001.JPG|thumb|'''xoio''']]
+===Etymology===
+From {{inh|gl|VL.|*joju}}, from {{der|gl|la|lolium}}. Cognate with {{cog|pt|joio}}, {{cog|es|joyo}}.
+===Pronunciation===
+* {{IPA|gl|[ˈʃɔ.jʊ]}}
+===Noun===
+{{gl-noun|m}}
+# [[darnel]] (cereal weed usually considered harmful)
+#: {{syn|gl|lerica|tarela}}
+====Derived terms====
+* {{l|gl|xoeira}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+{{C|gl|Grains|Plants}}</text>
+<sha1>2gj3fouw1oxpbwyy9vl7arj78djz733</sha1>
+</revision>
+</page>

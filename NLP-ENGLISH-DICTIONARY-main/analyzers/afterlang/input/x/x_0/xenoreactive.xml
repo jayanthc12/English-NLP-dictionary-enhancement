@@ -1,0 +1,28 @@
+<page>
+<title>xenoreactive</title>
+<ns>0</ns>
+<id>3102367</id>
+<revision>
+<id>68803734</id>
+<parentid>51779458</parentid>
+<timestamp>2022-08-27T17:33:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|xeno|reactive}}.
+===Adjective===
+{{en-adj}}
+# {{lb|en|immunology}} That generates a [[reaction]] to material from another [[species]]
+====Related terms====
+* {{l|en|xenoantigen}}
+* {{l|en|xenoreactivity}}</text>
+<sha1>3278qwwvz1j08pi1m7orat0e2wc4z84</sha1>
+</revision>
+</page>

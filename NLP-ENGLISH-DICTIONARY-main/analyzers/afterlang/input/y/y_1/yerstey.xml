@@ -1,0 +1,29 @@
+<page>
+<title>yerstey</title>
+<ns>0</ns>
+<id>6378183</id>
+<revision>
+<id>68849933</id>
+<parentid>68656293</parentid>
+<timestamp>2022-08-28T03:20:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="419" xml:space="preserve">==Yola==
+===Pronunciation===
+* {{IPA|yol|/jɛrs.tɛi/|/jɛrz.dɛi/}}
+===Noun===
+{{head|yol|noun}}
+# {{alt form|yol|yersthei}}
+#* {{quote-book|yol|year=1867|chapter=A YOLA ZONG|number=3|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage='''Yerstey''' w'had a baree, gist ing oor hoane,|translation='''Yesterday''' we had a goal just in our hand.}}
+===References===
+* {{R:Poole 1867|page=84}}
+{{c|yol|Time}}</text>
+<sha1>jvgevqukrmhntz5qxsajy3lgcmkesiq</sha1>
+</revision>
+</page>

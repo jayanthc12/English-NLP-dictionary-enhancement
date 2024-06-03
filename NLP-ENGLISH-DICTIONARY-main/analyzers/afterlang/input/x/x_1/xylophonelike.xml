@@ -1,0 +1,27 @@
+<page>
+<title>xylophonelike</title>
+<ns>0</ns>
+<id>2141259</id>
+<revision>
+<id>54388401</id>
+<parentid>51883096</parentid>
+<timestamp>2019-09-29T04:29:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="651" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylophone|like}}
+===Adjective===
+{{en-adj}}
+# Resembling or characteristic of a [[xylophone]].
+#* {{quote-journal|en|date=April 2, 2007|author=Jon Pareles|title=A Musical Coalition That Raises the Roof|work=New York Times|url=http://www.nytimes.com/2007/04/02/arts/music/02zank.html
+|passage=The lyrics were in several West African languages, and the lineup paired African instruments — the kora (the djelis’ 21-string harp-lute), the '''xylophonelike''' balafon, the small banjolike ngoni and the booming djembe (hand drum) — with modern counterparts: electric guitar, bass, keyboard and trap drums.}}</text>
+<sha1>06vlvnlsuz7fl1dx5dc1ug7z3z10imy</sha1>
+</revision>
+</page>

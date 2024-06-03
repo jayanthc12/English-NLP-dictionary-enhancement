@@ -1,0 +1,33 @@
+<page>
+<title>xeroradiography</title>
+<ns>0</ns>
+<id>486369</id>
+<revision>
+<id>60445792</id>
+<parentid>46203487</parentid>
+<timestamp>2020-09-21T04:53:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="416" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|radiography}}
+===Noun===
+{{en-noun|-|+}}
+# A method of [[X-ray]] [[photography]] which uses an electrically charged metal plate instead of film.
+====Related terms====
+* {{l|en|xeroradiograph}}
+====Translations====
+{{trans-top|method of X-ray photography}}
+* Irish: {{t|ga|xéararadagrafaíocht|f}}
+{{trans-mid}}
+* Italian: {{t|it|xeroradiografia|f}}
+{{trans-bottom}}</text>
+<sha1>36pgar8vxpkqg6gmhf7dijde9lrzgxd</sha1>
+</revision>
+</page>

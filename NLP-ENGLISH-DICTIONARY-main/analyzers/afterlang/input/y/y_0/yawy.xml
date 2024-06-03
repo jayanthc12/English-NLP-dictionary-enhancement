@@ -1,0 +1,27 @@
+<page>
+<title>yawy</title>
+<ns>0</ns>
+<id>2218570</id>
+<revision>
+<id>51884987</id>
+<parentid>47661955</parentid>
+<timestamp>2019-03-15T10:22:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yawey}}
+===Etymology===
+{{suffix|en|yaws|y}}
+===Adjective===
+{{en-adj}}
+# {{lb|en|archaic|medicine}} Pertaining to, or afflicted with, the disease [[yaws]].</text>
+<sha1>d7kg0706c6agk2du89opvfbggb2g2zs</sha1>
+</revision>
+</page>

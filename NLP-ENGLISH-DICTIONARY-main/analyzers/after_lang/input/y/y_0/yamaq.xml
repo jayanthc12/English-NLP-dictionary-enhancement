@@ -1,0 +1,28 @@
+<page>
+<title>yamaq</title>
+<ns>0</ns>
+<id>6979481</id>
+<revision>
+<id>67245370</id>
+<parentid>67208758</parentid>
+<timestamp>2022-06-04T22:07:50Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="227" xml:space="preserve">==Azerbaijani==
+===Etymology===
+Fro {{suf|az|yamamaq|alt1=yama|ik|alt2=q}}.
+===Noun===
+{{az-noun}}
+# [[patch]] {{C|az|Sewing}}
+====Declension====
+{{az-decl-noun|a|q}}
+====Derived terms====
+* {{l|az|yamaq salmaq||to patch}}</text>
+<sha1>bdzi8rkxefjzqztu3dik5hfvmwg4jbk</sha1>
+</revision>
+</page>

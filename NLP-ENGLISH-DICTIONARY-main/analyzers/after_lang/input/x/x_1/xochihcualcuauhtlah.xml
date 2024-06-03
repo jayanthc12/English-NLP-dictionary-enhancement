@@ -1,0 +1,41 @@
+<page>
+<title>xochihcualcuauhtlah</title>
+<ns>0</ns>
+<id>4233486</id>
+<revision>
+<id>54529894</id>
+<parentid>51942299</parentid>
+<timestamp>2019-10-01T15:26:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{was fwotd}}; move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1266" xml:space="preserve">==Classical Nahuatl==
+{{was fwotd|nci|2014|February|6}}
+===Alternative forms===
+* {{l|nci|xochiqualquauhtla}}, {{l|nci|xuchiqualquauhtla}} {{qualifier|obsolete spellings}}
+===Etymology===
+From {{suffix|nci|xōchihcualcuahuitl|tlah|t1=fruit tree}}.
+===Pronunciation===
+* {{IPA|nci|[ʃoː.t͡ʃiʔ.kʷaɬˈkʷaʍ.t͡ɬaʔ]}}
+===Noun===
+{{nci-noun|loc|xōchihcualcuauhtlah}}
+# [[orchard]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 160r. col. 2.
+#*: '''Xochiqualquauhtla'''. tierra de frutales.
+#*:: '''Xochiqualquauhtla'''. land planted with fruit trees.
+#* ''Idem'', f. 161v. col. 2.
+#*: '''Xuchiqualquauhtla'''. arboleda de frutales, o enxer- / tal.
+#*:: '''Xuchiqualquauhtla'''. a grove of fruit trees, or a nursery for grafted fruit trees.
+====Related terms====
+* {{l|nci|xōchihcualloh}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|pages=160, 161}}
+[[Category:nci:Fruits]]</text>
+<sha1>l78gsmsa1qn6t2qtp92ejq7xtqrnqhy</sha1>
+</revision>
+</page>

@@ -1,0 +1,46 @@
+<page>
+<title>xylofonen</title>
+<ns>0</ns>
+<id>2139645</id>
+<revision>
+<id>63015018</id>
+<parentid>54563805</parentid>
+<timestamp>2021-06-29T05:24:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Dutch plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="558" xml:space="preserve">{{also|Xylofonen}}
+==Danish==
+===Noun===
+{{head|da|noun form|g=c}}
+# {{definite singular of|da|xylofon}}
+----
+==Dutch==
+===Pronunciation===
+* {{audio|nl|Nl-xylofonen.ogg|Audio}}
+===Noun===
+{{head|nl|noun form}}
+# {{nl-noun form of|pl|xylofoon}}
+----
+==Norwegian Bokmål==
+===Noun===
+{{head|nb|noun form|g=m}}
+# {{inflection of|nb|xylofon||definite|s}}
+----
+==Norwegian Nynorsk==
+===Noun===
+{{head|nn|noun form|g=m}}
+# {{inflection of|nn|xylofon||definite|s}}
+----
+==Swedish==
+===Noun===
+{{head|sv|noun form}}
+# {{sv-noun-form-def|xylofon}}</text>
+<sha1>1drhpbml02r9na3gf8npu4e3vlxrgzj</sha1>
+</revision>
+</page>

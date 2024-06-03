@@ -1,0 +1,27 @@
+<page>
+<title>yearbooky</title>
+<ns>0</ns>
+<id>6113449</id>
+<revision>
+<id>68847813</id>
+<parentid>51968594</parentid>
+<timestamp>2022-08-28T02:41:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yearbook|y}}.
+===Adjective===
+{{en-adj}}
+# {{lb|en|rare}} In the style or semblance of a {{l|en|yearbook}}, especially a high-school or college yearbook.
+====Synonyms====
+* {{l|en|yearbookish}}</text>
+<sha1>m45py2ky1s8lgttcc5tni0517elz147</sha1>
+</revision>
+</page>

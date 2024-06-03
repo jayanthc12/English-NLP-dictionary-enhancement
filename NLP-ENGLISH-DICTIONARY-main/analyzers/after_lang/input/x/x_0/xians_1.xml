@@ -1,0 +1,31 @@
+<page>
+<title>xians</title>
+<ns>0</ns>
+<id>5884919</id>
+<revision>
+<id>63221677</id>
+<parentid>62863049</parentid>
+<timestamp>2021-07-19T22:12:42Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">{{also|Xians}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xian}}
+===Anagrams===
+* {{anagrams|en|a=ainsx|Xansi}}
+----
+==French==
+===Noun===
+{{head|fr|noun forms|g=m-p}}
+# {{plural of|fr|xian}}</text>
+<sha1>qv6toyyh3ixiiap4mga47gdfl5ty6uh</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xulixuli</title>
+<ns>0</ns>
+<id>1485724</id>
+<revision>
+<id>63426982</id>
+<parentid>45991770</parentid>
+<timestamp>2021-07-26T03:20:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# {{lb|arn|anatomy}} [[elbow]]
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>2btybm4ho8tif7df16ibv0f8r8xi1s1</sha1>
+</revision>
+</page>

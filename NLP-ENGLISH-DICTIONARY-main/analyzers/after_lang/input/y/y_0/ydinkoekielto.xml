@@ -1,0 +1,28 @@
+<page>
+<title>ydinkoekielto</title>
+<ns>0</ns>
+<id>1151670</id>
+<revision>
+<id>69318185</id>
+<parentid>59682788</parentid>
+<timestamp>2022-09-18T17:04:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="218" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydinkoe|kielto}}
+===Pronunciation===
+{{fi-p|ydin-koe*/kielto}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear test]] [[ban]]
+====Declension====
+{{fi-decl-valo|ydinkoekie|lt|ll|o|a}}</text>
+<sha1>au579a1w2zn6vqva97sxajw1cnn692i</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>ximpleses</title>
+<ns>0</ns>
+<id>4697872</id>
+<revision>
+<id>55706158</id>
+<parentid>32251676</parentid>
+<timestamp>2019-10-15T13:08:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|ximplesa}}</text>
+<sha1>bdasft8xcn6ko7wahh41cy1zavdzf2h</sha1>
+</revision>
+</page>

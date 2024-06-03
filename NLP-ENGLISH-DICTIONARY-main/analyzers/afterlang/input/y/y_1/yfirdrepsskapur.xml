@@ -1,0 +1,29 @@
+<page>
+<title>yfirdrepsskapur</title>
+<ns>0</ns>
+<id>693745</id>
+<revision>
+<id>55450495</id>
+<parentid>45713465</parentid>
+<timestamp>2019-10-15T01:37:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="231" xml:space="preserve">==Icelandic==
+===Pronunciation===
+* {{IPA|is|/ˈɪːvɪrtrɛpsˌskaːpʏr/}}
+===Noun===
+{{is-noun|m}}
+# [[pretense]]
+# [[hypocrisy]]
+====Synonyms====
+* {{sense|pretense}} {{l|is|uppgerð}}
+* {{sense|hypocrisy}} {{l|is|hræsni}}</text>
+<sha1>rrwsk6gafzt30rdsmk7q86wa1w516kz</sha1>
+</revision>
+</page>

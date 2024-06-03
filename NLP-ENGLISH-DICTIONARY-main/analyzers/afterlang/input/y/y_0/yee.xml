@@ -1,0 +1,80 @@
+<page>
+<title>yee</title>
+<ns>0</ns>
+<id>309426</id>
+<revision>
+<id>68672841</id>
+<parentid>67353568</parentid>
+<timestamp>2022-08-19T17:15:42Z</timestamp>
+<contributor>
+<username>Dunderdool</username>
+<id>3953866</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1827" xml:space="preserve">{{also|yêe|yééʼ|yę́ę}}
+==English==
+===Alternative forms===
+* {{l|en|ye}}
+===Pronunciation===
+* {{IPA|en|/ji/}}
+* {{audio|en|En-au-yee.ogg|Audio (AU)}}
+* {{rhymes|en|i|s=1}}
+===Pronoun===
+{{en-pron|desc=personal pronoun}}
+# {{lb|en|archaic|and|Geordie}} [[you]] (the people being addressed); {{alternative spelling of|en|ye}}
+# {{form of|en|obsolete emphatic|ye}}
+#* {{RQ:Milton Paradise Lost|text=Speak '''yee''' who best can tell,  ye sons of light,&lt;br/&gt;Angels, for '''yee''' behold him, and with songs&lt;br/&gt;And choral symphonies, Day without Night,&lt;br/&gt;Circle his Throne, rejoycing, '''yee''' in Heav'n,&lt;br/&gt;On Earth joyn all '''yee''' Creatures to extoll.|5}}
+===Interjection===
+{{en-interj}}
+# {{label|en|slang}} [[yes]]
+===Anagrams===
+* {{anagrams|en|a=eey|Eye|eye}}
+----
+==Luganda==
+===Adverb===
+{{head|lg|adverb}}
+# [[yes]]
+====Antonyms====
+* {{l|lg|aaa}}
+====References====
+{{R:Chesswas 1967|152}}
+{{LDL|lg}}
+----
+==Middle English==
+===Pronoun===
+{{head|enm|pronoun}}
+# {{alt form|enm|ye|t=you|id=you}}
+----
+==Navajo==
+===Postposition===
+{{head|nv|postposition}}
+# [[with]], [[by means of]], by means of it
+----
+==Tlingit==
+===Pronoun===
+{{head|tli|pronoun}}
+# [[second-person]] plural possessive pronoun.
+----
+==Yola==
+===Alternative forms===
+* {{alter|yol|yea}}
+===Etymology===
+From {{inh|yol|enm|ye}}, from {{inh|yol|ang|gēa}}, from {{inh|yol|gmw-pro|*jā}}.
+===Adverb===
+{{head|yol|adverb}}
+# [[yes]], [[yea]]
+===References===
+* {{R:Poole 1867|page=80}}
+----
+==Yoruba==
+===Pronunciation===
+* {{yo-IPA|yéè}}
+===Interjection===
+{{yo-pos|interjection|yéè!}}
+# [[ouch]]; {{non gloss definition|An expression of [[pain]].}}
+#:{{ux|yo|'''Yéè'''! Ó dùn mí!|'''Ouch'''! It hurt me!}}
+# [[ouch]]; {{non gloss definition|An expression in [[sympathy]] at another's pain.}}</text>
+<sha1>5ef0ke1sv72zpsbt4m57o892yfocmf2</sha1>
+</revision>
+</page>

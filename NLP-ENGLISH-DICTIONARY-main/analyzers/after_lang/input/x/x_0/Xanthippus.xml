@@ -1,0 +1,33 @@
+<page>
+<title>Xanthippus</title>
+<ns>0</ns>
+<id>5971894</id>
+<revision>
+<id>53823264</id>
+<parentid>53654036</parentid>
+<timestamp>2019-08-04T14:34:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="367" xml:space="preserve">==Latin==
+===Etymology===
+Borrowed from {{bor|la|grc|Ξάνθιππος}}.
+===Pronunciation===
+* {{la-IPA|Xanthippus}}
+===Proper noun===
+{{la-proper noun|Xanthippus&lt;2&gt;}}
+# An [[Athenian]] [[statesman]] and [[general]], father of [[Pericles]]
+====Declension====
+{{la-ndecl|Xanthippus&lt;2&gt;}}
+===References===
+* {{R:Gaffiot}}
+* {{R:L&amp;S}}
+[[Category:la:Individuals]]</text>
+<sha1>62rg0245h63fmiuhrljsa2a3g205t0v</sha1>
+</revision>
+</page>

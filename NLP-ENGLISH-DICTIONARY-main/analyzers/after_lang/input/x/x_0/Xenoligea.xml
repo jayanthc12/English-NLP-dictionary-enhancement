@@ -1,0 +1,31 @@
+<page>
+<title>Xenoligea</title>
+<ns>0</ns>
+<id>3075320</id>
+<revision>
+<id>58058819</id>
+<parentid>52625036</parentid>
+<timestamp>2019-11-24T22:12:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{rfelite}} to {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="360" xml:space="preserve">==Translingual==
+===Etymology===
+* {{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|{{taxlink|Phaenicophilidae|family|ver=190504}}|{{vern|white-winged warbler}} ({{taxlink|Xenoligea montana|species|ver=180422}})}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>8z905yxozfus0rlfc7hx3ut9fa0h71a</sha1>
+</revision>
+</page>

@@ -1,0 +1,111 @@
+<page>
+<title>yana</title>
+<ns>0</ns>
+<id>1758517</id>
+<revision>
+<id>65793790</id>
+<parentid>63675268</parentid>
+<timestamp>2022-02-09T22:37:37Z</timestamp>
+<contributor>
+<username>Br00pVain</username>
+<id>3884557</id>
+</contributor>
+<comment>/* Noun */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2335" xml:space="preserve">{{also|Yana|yāna|yaña|þana|ya na}}
+==English==
+{{was wotd|2014|November|21}}
+{{wikipedia}}
+===Etymology===
+From {{der|en|sa|यान||vehicle}}.
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈjɑː.nə/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-yana.wav|Audio (UK)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|Buddhism}} Any of the [[vehicle]]s of Buddhist or Tantric practice.
+#* {{quote-book|en|2013|Chögyam Trungpa|editor=Judith L. Lief|The Bodhisattva Path of Wisdom and Compassion|volume=2|chapter=1|text=The Tibetan word for '''yana''' is ''thekpa'', which means &quot;that which lifts you up.&quot; Anything that lifts you up and takes you to your destination is a '''yana'''.}}
+====Related terms====
+* {{l|en|Hinayana}}
+* {{l|en|Mahayana}}
+* {{l|en|Vajrayana}}
+====Translations====
+{{trans-top|any of the three vehicles of Buddhist practice}}
+* Burmese: {{t|my|ယာန}}
+* French: {{t|fr|yâna|m}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aany|Anya|Ayan|Ya'an|Ya-an}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やな}}
+----
+==Javanese==
+===Romanization===
+{{jv-rom}}
+# {{romanization of|jv|ꦪꦤ}}
+----
+==Masbatenyo==
+===Adverb===
+{{head|msb|adverb|head=yanâ}}
+# [[now]]; [[today]]
+----
+==Quechua==
+===Adjective===
+{{head|qu|adjective}}
+# [[black]], black or [[blue]]
+====See also====
+{{table:colors/qu}}
+===Noun===
+{{head|qu|noun}}
+# [[partner]], [[counterpart]], [[boyfriend]] or [[girlfriend]]
+# a kind of [[bee]]
+====Usage notes====
+Not to be confused with {{m|qu|yaña}}.
+====Declension====
+{{qu-noun-v}}{{qu-poss-v}}
+====See also====
+* {{l|qu|yanay}}
+----
+==Sranan Tongo==
+===Alternative forms===
+* {{l|srn|yanda}}
+===Etymology===
+From {{der|srn|en|yonder}}.
+===Pronunciation===
+* {{IPA|srn|/ˈja.na/}}
+===Adverb===
+{{head|srn|adverb}}
+# {{l|en|there}}, {{l|en|yonder}}
+----
+==Swahili==
+===Verb===
+{{head|sw|verb form}}
+# {{inflection of|sw|wa na|-wa na|ji-ma|plural|present|affirmative}}
+----
+==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yan||dative|singular}}
+----
+==Uzbek==
+===Etymology===
+From {{der|uz|trk-pro|*jAn-}}.
+===Adverb===
+{{uz-adv}}
+# [[again]]
+====Synonyms====
+* [[tagʻin]]
+----
+==Waray-Waray==
+===Adverb===
+{{head|war|adverb|head=yanâ}}
+# [[now]]; at [[present]]; [[today]]
+# [[since]]</text>
+<sha1>81b8qmgvfl3f2orozupvanxm30e0fbb</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>xanthelasma</title>
+<ns>0</ns>
+<id>1180904</id>
+<revision>
+<id>67115017</id>
+<parentid>66151956</parentid>
+<timestamp>2022-05-20T18:32:57Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="661" xml:space="preserve">{{also|xanthélasma}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|NL.|xanthelasma}}, from {{der|en|grc|ξανθός||yellowc}} + {{m|grc|ἔλασμα||metal plate, foil}}.
+===Pronunciation===
+* {{IPA|en|/zænθɪˈlæzmə/}}
+===Noun===
+{{en-noun|s|xanthelasmata}}
+# A [[deposit]] of [[cholesterol]] on the [[eyelid]].
+====Translations====
+{{trans-top|eyelid cholesterol deposit}}
+* Arabic: {{t|ar|لُوَيْحَة صَفْرَاء}}
+{{trans-mid}}
+{{trans-bottom}}
+====Derived terms====
+* {{l|en|xanthelasmic}}
+* {{l|en|xanthelasmoidea}}
+====Related terms====
+* {{l|en|xanthoma}}
+====Descendants====
+* New Latin: {{l|mul|xanthelasmoideus}}</text>
+<sha1>9lgzrtpddveem3vfb4agj3y4buy6mba</sha1>
+</revision>
+</page>

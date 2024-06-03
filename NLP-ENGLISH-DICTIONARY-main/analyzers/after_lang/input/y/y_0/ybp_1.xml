@@ -1,0 +1,21 @@
+<page>
+<title>ybp</title>
+<ns>0</ns>
+<id>186769</id>
+<redirect title="YBP" />
+<revision>
+<id>34619336</id>
+<parentid>532178</parentid>
+<timestamp>2015-10-17T14:13:58Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Applied [[WT:NORM]] rules</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="17" xml:space="preserve">#REDIRECT [[YBP]]</text>
+<sha1>9e5vusi7uh8g1a1a3bdqn22h41dqq8t</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>ydinaikakausi</title>
+<ns>0</ns>
+<id>1145906</id>
+<revision>
+<id>69318104</id>
+<parentid>52001629</parentid>
+<timestamp>2022-09-18T17:00:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="210" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|aikakausi}}
+===Pronunciation===
+{{fi-p|ydin/aika-kausi}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear age]]
+====Declension====
+{{fi-decl-käsi|n=sg|ydinaikakau|a}}</text>
+<sha1>f0z4jlho1cid4jgyu7d82kkstr737dy</sha1>
+</revision>
+</page>

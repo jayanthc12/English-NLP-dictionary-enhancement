@@ -1,0 +1,32 @@
+<page>
+<title>yalu</title>
+<ns>0</ns>
+<id>4323066</id>
+<revision>
+<id>44047957</id>
+<parentid>31649283</parentid>
+<timestamp>2017-05-24T22:01:06Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="533" xml:space="preserve">==Garawa==
+===Pronoun===
+{{head|wrk|pronoun}}
+# [[they]], {{non-gloss definition|third-person plural pronoun, nominative case}}
+===References===
+* Ilana Mushin, ''A Grammar of (Western) Garrwa'' (2012)
+----
+==Wanyi==
+===Pronoun===
+{{head|wny|pronoun}}
+# [[they]], {{non-gloss definition|third-person plural pronoun, nominative case}}
+===References===
+* Mary Laughren, Rob Pensalfini, Tom Mylne, ''Accounting for verb-initial order in an Australian language'', in ''Verb First: On the syntax of verb-initial languages'' (2005)</text>
+<sha1>51oc0xxwensl5y4irdmjwe4v4d0dxqi</sha1>
+</revision>
+</page>

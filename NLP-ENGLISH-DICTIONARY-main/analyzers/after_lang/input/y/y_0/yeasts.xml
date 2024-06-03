@@ -1,0 +1,28 @@
+<page>
+<title>yeasts</title>
+<ns>0</ns>
+<id>283902</id>
+<revision>
+<id>55314610</id>
+<parentid>53092876</parentid>
+<timestamp>2019-10-14T09:30:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="196" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yeast}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yeast}}
+===Anagrams===
+* {{anagrams|en|a=aessty|sayest}}</text>
+<sha1>40jlf1fzvtcc4xx2d0dngw1yiylv4cx</sha1>
+</revision>
+</page>

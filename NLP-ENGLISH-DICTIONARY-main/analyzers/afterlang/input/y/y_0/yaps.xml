@@ -1,0 +1,28 @@
+<page>
+<title>yaps</title>
+<ns>0</ns>
+<id>334068</id>
+<revision>
+<id>55323979</id>
+<parentid>53092713</parentid>
+<timestamp>2019-10-14T10:10:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="218" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yap}}
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yap}}
+===Anagrams===
+* {{anagrams|en|a=apsy|APYs|AsPy|Pays|aspy|pays|pyas|spay}}</text>
+<sha1>jjyfx2mzc2s4dxqlzd15mev001d3tju</sha1>
+</revision>
+</page>

@@ -1,0 +1,42 @@
+<page>
+<title>yatay</title>
+<ns>0</ns>
+<id>1880052</id>
+<revision>
+<id>68939733</id>
+<parentid>65886811</parentid>
+<timestamp>2022-08-28T19:02:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="498" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[yatay palm]]
+===Further reading===
+* {{R:es:DRAE}}
+----
+==Turkish==
+===Etymology===
+Coined from {{suffix|tr|yatmak|ay|t1=to lie down}} during the language reform to replace the Arabic borrowing {{m|tr|ufki}}.
+===Pronunciation===
+* {{IPA|tr|[jɑ.tɑj]}}
+===Adjective===
+{{head|tr|adjective}}
+# [[horizontal]]
+====Antonyms====
+* {{l|tr|dikey}}
+===See also===
+* {{l|tr|düşey}}
+===References===
+* {{R:tr:Nishanyan}}</text>
+<sha1>g2ldxmep9yvufnuf34fd5bscncfq2vt</sha1>
+</revision>
+</page>

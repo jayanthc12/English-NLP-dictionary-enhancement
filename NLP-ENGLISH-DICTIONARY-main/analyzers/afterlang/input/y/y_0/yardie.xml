@@ -1,0 +1,61 @@
+<page>
+<title>yardie</title>
+<ns>0</ns>
+<id>203905</id>
+<revision>
+<id>68772623</id>
+<parentid>68492847</parentid>
+<timestamp>2022-08-27T06:39:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1455" xml:space="preserve">{{also|Yardie}}
+==English==
+===Etymology 1===
+====Noun====
+{{en-noun}}
+{{wikipedia}}
+# {{alt form|en|Yardie}}
+===Etymology 2===
+{{suf|en|yard|ie}}
+====Noun====
+{{en-noun}}
+# {{lb|en|AU|NZ|slang}} A [[yard of ale]].
+===Anagrams===
+* {{anagrams|en|a=adeiry|e-diary|yerida}}
+----
+==Jamaican Creole==
+{{was fwotd|jam|2021|August|6}}
+===Alternative forms===
+* {{alter|jam|yaadie|yawdie|Yaadie|Yardie|Yawdie}}
+===Etymology===
+{{suffix|jam|Yard|ie|t1=Jamaica}}
+===Pronunciation===
+* {{IPA|jam|/jɑːdɪ/|/jɔːdɪ/}}
+* {{hyphenation|jam|yar|die}}
+* {{jam-audio}}
+===Noun===
+{{jam-noun}}
+# [[Jamaican]]
+#* {{quote-book|en
+|author=Kamille Gentles-Peart, Maurice L. Hall
+|isbn=978-1443834537
+|page=47
+|passage=“Nuff foreign '''yardie''' was flying dung fe de holidays. De fair skin airplane lady a de airport was preaching to evrybaddy fe please, Check on only two piece a baggage an carry de littlest one pon de plane.”
+|termlang=jam
+|title=Re-Constructing Place and Space: Media, Culture, Discourse
+|translation=Lots of overseas '''Jamaicans''' were heading back home for the holidays. The white air hostess at the airport announced that everyone should check only two items of luggage and take one item as a carry-on.
+|year=2011
+}}
+#: {{ux|jam|Nuff '''yardie''' weh live a farin wish dem coulda guh back a yard.|Many '''Jamaicans''' who live overseas wish they could go back to Jamaica.}}
+====See also====
+* {{l|jam|yard}}
+* {{l|jam|Yard man}}</text>
+<sha1>qk2yi4rjatid50fejqmswgb6w2pw0i7</sha1>
+</revision>
+</page>

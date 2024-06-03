@@ -1,0 +1,23 @@
+<page>
+<title>xiphio</title>
+<ns>0</ns>
+<id>4151616</id>
+<revision>
+<id>66995257</id>
+<parentid>56274902</parentid>
+<timestamp>2022-05-15T09:47:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xiphion}}; combine {{inflection of|la|xiphion}} tag sets dat|s and abl|s into dat//abl|s</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">==Latin==
+===Noun===
+{{la-noun-form|xiphiō}}
+# {{inflection of|la|xiphion||dat//abl|s}}</text>
+<sha1>21atbgbujarm5lkw0v3wwpehhzvy6g7</sha1>
+</revision>
+</page>

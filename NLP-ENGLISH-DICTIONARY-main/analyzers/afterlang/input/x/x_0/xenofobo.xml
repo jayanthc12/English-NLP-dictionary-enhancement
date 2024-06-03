@@ -1,0 +1,32 @@
+<page>
+<title>xenofobo</title>
+<ns>0</ns>
+<id>529868</id>
+<revision>
+<id>64564008</id>
+<parentid>63448673</parentid>
+<timestamp>2021-11-08T03:42:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-IPA}} to {{it-pr}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="242" xml:space="preserve">{{also|xenófobo}}
+==Italian==
+===Etymology===
+From {{af|it|xeno-|-fobo}}.
+===Pronunciation===
+{{it-pr|xenòfobo}}
+===Adjective===
+{{it-adj}}
+# [[xenophobic]]
+#: {{syn|it|xenofobico}}
+===Noun===
+{{it-noun|m|f=xenofoba}}
+# [[xenophobe]]</text>
+<sha1>hoonyh54xjq2l559xuwzkud90jobo9e</sha1>
+</revision>
+</page>

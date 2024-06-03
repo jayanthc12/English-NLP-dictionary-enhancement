@@ -1,0 +1,9096 @@
+words
+  jump: pos=[verb,conj,noun,adv,adj]
+
+[verb,noun]
+  because: pos=[adv,con,prep]
+  either: pos=[det,pron,adv,con]
+  for: pos=[con,prep]
+  important: pos=adj
+  jump: pos=[verb,conj,noun,adv,adj]
+  large: pos=[adj,noun,adv]
+  since: pos=[adv,prep,con]
+  some: pos=[pron,det,adv]
+  this: pos=[adv,pron,noun,interj,determiner]
+  X: pos=[proper,noun,adj]
+  xa
+  xaa
+  xaafad
+  xaal
+  xaas
+  xaasj
+  xab
+  xababrek
+  xabakluf
+  xabalinos
+  xabana
+  xabardo
+  xabardos
+  xabaril
+  xabatul
+  xabaz
+  xabbatog: pos=noun
+  xabela
+  xabeque
+  xabeques
+  xabi
+  Xabier
+  xabisa
+  xabiseka
+  Xabizende
+  xabo
+  xaboi
+  xabon
+  xabones
+  Xabon
+  xabre
+  xabres
+  xabxab
+  xaca
+  xacal
+  xacalli
+  xacals
+  xacaltontli
+  xacer
+  xache
+  xachetina
+  xachetine
+  xacintos
+  xacintu
+  XACML: pos=noun
+  xacobea
+  xacobeas
+  xacobeo
+  xacobeos
+  xacra
+  xacres
+  xacuti: pos=noun
+  xacutti: pos=noun
+  xadin
+  xadina
+  xador
+  xadrez
+  xadrezes
+  xadrezista
+  xaenorphica: pos=noun
+  XAF
+  xafardegem
+  xafardegen
+  xafardeges
+  xafardegessin
+  xafardegessis
+  xafardegeu
+  xafardegi
+  xafardegin
+  xafardegis
+  xafardeja
+  xafardejada
+  xafardejades
+  xafardejant
+  xafardejar
+  xafardejaran
+  xafardejarem
+  xafardejaren
+  xafardejares
+  xafardejareu
+  xafardejaria
+  xafardejarien
+  xafardejaries
+  xafardejat
+  xafardejats
+  xafardejava
+  xafardejaven
+  xafardejaves
+  xafardejo
+  xafarder
+  xafardera
+  xafarderes
+  xafarders
+  xafarotegem
+  xafarotegen
+  xafaroteges
+  xafarotegessin
+  xafarotegessis
+  xafarotegeu
+  xafarotegi
+  xafarotegin
+  xafarotegis
+  xafaroteja
+  xafarotejada
+  xafarotejades
+  xafarotejant
+  xafarotejar
+  xafarotejaran
+  xafarotejarem
+  xafarotejaren
+  xafarotejares
+  xafarotejareu
+  xafarotejaria
+  xafarotejarien
+  xafarotejaries
+  xafarotejat
+  xafarotejats
+  xafarotejava
+  xafarotejaven
+  xafarotejaves
+  xafarotejo
+  xafia
+  xafkem
+  xafra
+  xaftona
+  XAG
+  xagee
+  xah
+  xahar
+  xahcalli
+  xahcaltontli
+  xahl
+  xahrejn
+  xai
+  xaile
+  xailes
+  Xaime
+  xaintin
+  xairel
+  xais
+  xaj
+  xak
+  xaka
+  xake
+  xakeka
+  xakelari
+  xal
+  xala
+  xalada
+  xalades
+  xalam: pos=noun
+  xalams: pos=noun
+  xalant
+  Xalapa: pos=proper
+  xalar
+  xalaran
+  xalarem
+  xalaren
+  xalares
+  xalareu
+  xalaria
+  xalarien
+  xalaries
+  xalat
+  xalats
+  xalava
+  xalaven
+  xalaves
+  xale
+  xalem
+  xalen
+  xales
+  xalessin
+  xalessis
+  xaleu
+  xali
+  xalin
+  xaliproden: pos=noun
+  xalis
+  xalka
+  xalkan
+  xalla
+  xallah
+  xalli
+  xalo
+  xaloc
+  xalocs
+  xalq
+  xalqa
+  xals
+  xaltetl
+  xaltetla
+  xaltetlah
+  xaltozan
+  xalundes
+  xalwo: pos=noun
+  xalxalok
+  xalxocotl
+  xalyo
+  xam
+  xama
+  Xamaica
+  xamais
+  xaman
+  xamanismo
+  xamans
+  xamas
+  xambabii
+  xambako
+  xambon
+  xambun
+  xame
+  xamen
+  xames
+  xami
+  Xamir
+  xamis
+  xamitl
+  xamixcalchihualoyan
+  xamixcalcopinaloyan
+  xamixcalli
+  xamixcaltepantli
+  xamixcaltexcalli
+  XAML: pos=proper
+  xamones
+  xamoterol: pos=noun
+  xampanes
+  xampany
+  Xampanya
+  xampanys
+  xampinyons
+  xampu
+  xampus
+  xams
+  xamt
+  Xamtanga: pos=proper
+  xamu
+  xamus
+  xamuscar
+  Xan: pos=[proper,noun]
+  xana
+  xanaa
+  xanaaji
+  xanaaq
+  xanab
+  Xanadu: pos=[proper,noun]
+  xanas
+  Xanatos: pos=proper
+  xanav
+  Xanax: pos=proper
+  Xanaxed: pos=adj
+  xanca
+  xanchromatic: pos=adj
+  Xancidae
+  XAND: pos=noun
+  xandall
+  xandalls
+  xandar
+  Xander: pos=proper
+  Xanderista: pos=noun
+  Xanderistas: pos=noun
+  Xandi
+  Xandra: pos=proper
+  xaneiro
+  xaneiros
+  xanela
+  xanelas
+  xanemuu
+  xanes
+  Xangai
+  xanggiyan
+  xanh
+  xanikw
+  xanin
+  xanith: pos=noun
+  xaniths: pos=noun
+  Xannies: pos=noun
+  Xanny: pos=noun
+  xano
+  xanoata
+  xanol: pos=noun
+  xanomeline: pos=noun
+  xanorphica: pos=noun
+  xanpu
+  xanques
+  Xanrey: pos=proper
+  Xans: pos=noun
+  xanta
+  xantaba
+  xantabais
+  xantabeis
+  xantaben
+  xantabes
+  xantada
+  xantaein
+  xantaes
+  xantaifill
+  xantamos
+  xantan
+  xantana
+  xantanas
+  xantando
+  xantano
+  xantanos
+  xantao
+  xantaos
+  xantar
+  xantara
+  xantarais
+  xantaran
+  xantaras
+  xantare
+  xantareis
+  xantaremos
+  xantaren
+  xantares
+  xantaron
+  xantas
+  xantasti
+  xantastis
+  xantatge
+  xantatges
+  xantati
+  xantato
+  xantatos
+  xante
+  xantelasma
+  xantelasmi
+  xantemos
+  Xanten: pos=proper
+  xantene
+  xanteni
+  xantenica
+  xanteniche
+  xantenici
+  xantenico
+  xanten
+  xantes
+  xantesti
+  xantestis
+  xantha
+  xanthaangom
+  xanthae
+  xanthaemia: pos=noun
+  xantham: pos=noun
+  xanthamide: pos=noun
+  xanthamides: pos=noun
+  xanthan: pos=noun
+  xanthane
+  xanthanes
+  xanthangummi
+  xanthanoid
+  xanthanolide: pos=noun
+  xanthanolides: pos=noun
+  xanthans: pos=noun
+  xantharum
+  xanthas
+  xanthate: pos=noun
+  xanthates: pos=noun
+  xanthatin: pos=noun
+  xanthation: pos=noun
+  xanthations: pos=noun
+  xanthaurine: pos=noun
+  Xanthe: pos=proper
+  xanthein: pos=noun
+  xantheine: pos=noun
+  xantheins: pos=noun
+  xanthelasma: pos=noun
+  xanthelasmas: pos=noun
+  xanthelasmata: pos=noun
+  xanthelasmic: pos=adj
+  xanthelasmoidea: pos=noun
+  xanthelasmoideae
+  xanthelasmoideam
+  xanthelasmoidearum
+  xanthelasmoideas
+  xanthelasmoidee
+  xanthelasmoidei
+  xanthelasmoideis
+  xanthelasmoideo
+  xanthelasmoideorum
+  xanthelasmoideos
+  xanthelasmoideum
+  xanthelasmoideus
+  xanthematin: pos=noun
+  xanthemia: pos=noun
+  xanthene: pos=noun
+  xanthenes: pos=noun
+  xanthenic: pos=adj
+  xanthenone: pos=noun
+  xanthes
+  xanthe
+  xanthi
+  Xanthian: pos=[adj,noun]
+  Xanthians: pos=noun
+  xanthic: pos=adj
+  xanthid: pos=noun
+  xanthide: pos=noun
+  xanthides: pos=noun
+  Xanthidium
+  xanthids: pos=noun
+  xanthidylic: pos=adj
+  xanthie
+  Xanthien
+  Xanthienne
+  Xanthiennes
+  Xanthiens
+  xanthies
+  xanthigera
+  xanthigerae
+  xanthigeram
+  xanthigerarum
+  xanthigeras
+  xanthigeri
+  xanthigeris
+  xanthigero
+  xanthigerorum
+  xanthigeros
+  xanthigerum
+  xanthigerus
+  xanthin: pos=noun
+  xanthine: pos=noun
+  xanthines: pos=noun
+  xanthinic: pos=adj
+  xanthinin: pos=noun
+  xanthinine: pos=noun
+  xanthinol: pos=noun
+  xanthinosin: pos=noun
+  xanthinoxidase: pos=noun
+  xanthinoxidases: pos=noun
+  xanthins: pos=noun
+  Xanthins
+  xanthinuria: pos=noun
+  xanthinurias: pos=noun
+  xanthinuric: pos=adj
+  Xanthin
+  xanthiol: pos=noun
+  xanthione: pos=noun
+  xanthiosite: pos=noun
+  Xanthippae
+  Xanthippe: pos=noun
+  Xanthippen
+  Xanthippes: pos=noun
+  Xanthippic: pos=adj
+  Xanthippus
+  xanthis
+  xanthism: pos=noun
+  xanthitane: pos=noun
+  xanthitanes
+  xanthite: pos=noun
+  Xanthium
+  xanthiuria: pos=noun
+  Xanthi
+  xantho
+  xanthoangelol: pos=noun
+  xanthoastrocytoma: pos=noun
+  xanthoastrocytomas: pos=noun
+  xanthobacter: pos=noun
+  xanthobacters: pos=noun
+  xanthoblast: pos=noun
+  xanthoblasts: pos=noun
+  xanthocarpous: pos=adj
+  Xanthocephalus
+  Xanthochroi
+  xanthochroia: pos=noun
+  xanthochroic: pos=adj
+  xanthochroid: pos=[adj,noun]
+  xanthochroids: pos=noun
+  xanthochroism: pos=noun
+  xanthochroi
+  xanthochrom
+  xanthochromatic: pos=adj
+  xanthochrome: pos=noun
+  xanthochromem
+  xanthochromen
+  xanthochromer
+  xanthochromes: pos=noun
+  xanthochromia: pos=noun
+  xanthochromic: pos=adj
+  xanthochromism: pos=noun
+  xanthochromistic: pos=adj
+  xanthochroous: pos=adj
+  xanthochymol: pos=noun
+  xanthocillin: pos=noun
+  xanthoconite: pos=noun
+  xanthocreatinin: pos=noun
+  xanthocreatinine: pos=noun
+  xanthocroic
+  xanthocyanopia: pos=noun
+  Xanthocyparis
+  xanthoderm: pos=noun
+  xanthoderma: pos=noun
+  xanthodermas: pos=noun
+  xanthoderme
+  xanthodermes
+  xanthodermic: pos=adj
+  xanthoderms: pos=noun
+  xanthodont: pos=noun
+  xanthodontous: pos=adj
+  xanthoepocin: pos=noun
+  xanthofulvin: pos=noun
+  xanthogalenol: pos=noun
+  xanthogaster
+  xanthogastra
+  xanthogastrae
+  xanthogastram
+  xanthogastrarum
+  xanthogastras
+  xanthogastri
+  xanthogastris
+  xanthogastro
+  xanthogastrorum
+  xanthogastros
+  xanthogastrum
+  xanthogen: pos=noun
+  Xanthogenat
+  xanthogenate: pos=noun
+  Xanthogenaten
+  xanthogenates: pos=noun
+  Xanthogenate
+  Xanthogenats
+  xanthogenic: pos=adj
+  xanthogens: pos=noun
+  xanthogranuloma: pos=noun
+  xanthogranulomas: pos=noun
+  xanthogranulomata: pos=noun
+  xanthogranulomatous: pos=adj
+  xanthohumol: pos=noun
+  xanthokreatinin: pos=noun
+  xanthokyanopy: pos=noun
+  xantholiniform: pos=adj
+  Xantholinus
+  xantholysin: pos=noun
+  xantholysins: pos=noun
+  xanthoma: pos=noun
+  xanthomas: pos=noun
+  xanthomata: pos=noun
+  xanthomatoses: pos=noun
+  xanthomatosis: pos=noun
+  xanthomatotic: pos=adj
+  xanthomatous: pos=adj
+  xanthome
+  xanthomegnin: pos=noun
+  xanthomelanous: pos=adj
+  xanthomes
+  Xanthomixis
+  xanthommatin: pos=noun
+  xanthomonad: pos=noun
+  Xanthomonadaceae
+  Xanthomonadales
+  xanthomonadin: pos=noun
+  xanthomonadins: pos=noun
+  xanthomonads: pos=noun
+  Xanthomonas
+  xanthomous: pos=adj
+  Xanthomyza
+  xanthon
+  xanthone: pos=noun
+  xanthones: pos=noun
+  xanthonoid: pos=noun
+  xanthonoids: pos=noun
+  xanthopallescens
+  xanthopallescentem
+  xanthopallescentes
+  xanthopallescenti
+  xanthopallescentia
+  xanthopallescentibus
+  xanthopallescentis
+  xanthopallescentium
+  xanthopathy: pos=noun
+  xanthophane: pos=noun
+  xanthophile: pos=noun
+  xanthophiles: pos=noun
+  xanthophils: pos=noun
+  xanthophobia: pos=noun
+  xanthophore: pos=noun
+  xanthophores: pos=noun
+  Xanthophyceae
+  xanthophyl: pos=noun
+  xanthophyll: pos=noun
+  xanthophylle
+  xanthophylles
+  xanthophyllic: pos=adj
+  xanthophyllite: pos=noun
+  xanthophyllites: pos=noun
+  xanthophyllous: pos=adj
+  xanthophylls: pos=noun
+  xanthophyls: pos=noun
+  xanthophyte: pos=noun
+  xanthophytes: pos=noun
+  xanthopicrite: pos=noun
+  xanthopie
+  xanthopies
+  xanthoproteate: pos=noun
+  xanthoproteates: pos=noun
+  xanthoproteic: pos=adj
+  xanthoprotein: pos=noun
+  xanthoproteins: pos=noun
+  Xanthopsar
+  xanthopsia: pos=noun
+  xanthopsie
+  xanthopsies
+  xanthopsin: pos=noun
+  xanthopsy: pos=noun
+  xanthopsydracia: pos=noun
+  xanthoptera
+  xanthopterae
+  xanthopteram
+  xanthopterarum
+  xanthopteras
+  xanthoptere
+  xanthopteri
+  xanthopterin: pos=noun
+  xanthopterine: pos=noun
+  xanthopterins: pos=noun
+  xanthopteris
+  xanthoptero
+  xanthopterorum
+  xanthopteros
+  xanthopterum
+  xanthopterus
+  xanthopuccin: pos=noun
+  xanthopuccine: pos=noun
+  xanthopurpurin: pos=noun
+  xanthopyrite
+  xanthopyrites
+  xanthorhamnin: pos=noun
+  Xanthorhiza
+  xanthorhodopsin: pos=noun
+  xanthorhodopsins: pos=noun
+  Xanthorhoe
+  Xanthoria
+  xanthorin: pos=noun
+  xanthorism: pos=noun
+  xanthorrhizol: pos=noun
+  Xanthorrhoea
+  Xanthorrhoeaceae
+  xanthorrhoeas: pos=noun
+  xanthorrhoea: pos=noun
+  xanthorum
+  Xanthorum
+  xanthos
+  xanthose: pos=noun
+  xanthoses: pos=noun
+  xanthosine: pos=noun
+  xanthosines: pos=noun
+  xanthosinyl: pos=noun
+  xanthosis: pos=noun
+  Xanthosoma
+  xanthosome: pos=noun
+  xanthosomes: pos=noun
+  xanthospermous: pos=adj
+  xanthosterna
+  xanthosternae
+  xanthosternam
+  xanthosternarum
+  xanthosternas
+  xanthosterne
+  xanthosterni
+  xanthosternis
+  xanthosterno
+  xanthosternorum
+  xanthosternos
+  xanthosternum
+  xanthosternus
+  Xanthotis
+  xanthotitane
+  xanthotitanes
+  xanthotoxin: pos=noun
+  xanthotoxol: pos=noun
+  xanthous: pos=adj
+  xanthoxenite: pos=noun
+  xanthoxenites: pos=noun
+  xanthoxin: pos=noun
+  xanthoxylene: pos=noun
+  xanthoxyletin: pos=noun
+  xanthoxylin: pos=noun
+  Xanthoxylum
+  Xantho
+  xanthum
+  Xanthum
+  xanthurenate: pos=noun
+  xanthurenates: pos=noun
+  xanthurenic: pos=adj
+  xanthuria: pos=noun
+  xanthus
+  Xanthus
+  xanthyl: pos=noun
+  xanthyletin: pos=noun
+  xanthylic: pos=adj
+  xanthylium: pos=noun
+  xanthyliums: pos=noun
+  xantica
+  xantiche
+  xantici
+  xantico
+  xantifibrate: pos=noun
+  xantin
+  xantina
+  xantinaossidasi
+  xantinas
+  xantine
+  xantini
+  xantino
+  xantippa
+  Xantippe: pos=noun
+  Xantippes: pos=noun
+  xanto
+  xantocillin: pos=noun
+  xantocromia
+  xantocromie
+  xantofilla
+  xantofille
+  xantofobia
+  xantofobie
+  xantogenati
+  xantogenato
+  xantogenica
+  xantogeniche
+  xantogenici
+  xantogenico
+  xantoma
+  xantomatosa
+  xantomatose
+  xantomatosi
+  xantomatoso
+  xantomi
+  xantone
+  xantoni
+  xantophore
+  xantopsia
+  xantopsie
+  xantopurpurin: pos=noun
+  xantoxilene
+  xantoxileni
+  Xanto
+  xantusid: pos=noun
+  xantusids: pos=noun
+  xantusiid: pos=noun
+  xantusiids: pos=noun
+  xanu
+  xanuuata
+  xanyan
+  xan
+  XAP: pos=proper
+  xapand
+  xapandibe
+  xapandibim
+  xapandibin
+  xapandin
+  xapandiye
+  xaphyllite
+  xaphyllites
+  xapi
+  xapial
+  xapo
+  Xapon
+  xaponesa
+  xaponeses
+  xaponeso
+  Xapuri: pos=proper
+  xapuriense
+  xapuriensem
+  xapurienses
+  xapuriensi
+  xapuriensia
+  xapuriensibus
+  xapuriensis
+  xapuriensium
+  xaque
+  xaqueca
+  xaquecas
+  xaqueta
+  xaquetes
+  xar
+  xaragan
+  xaramita
+  xarampions
+  xaramuta
+  xarcuteria
+  xarcuteries
+  xarda
+  xardes
+  xardineiro
+  xardineiros
+  xardinera
+  xardineres
+  xardineru
+  xardinos
+  xare
+  xares
+  xareta
+  xaretas
+  xaria
+  xarici
+  xarife
+  xarifiid: pos=noun
+  xarifiids: pos=noun
+  xariif
+  xaris
+  xarit
+  xariwe
+  xariwtuwe
+  xarlatans
+  xarnec
+  xarnecs
+  xarnega
+  xarnego
+  xarnegos
+  xarnegues
+  xaroco
+  xaronca
+  xaronques
+  xarope
+  xaropes
+  xarrones
+  xarrupa
+  xarrupada
+  xarrupades
+  xarrupant
+  xarrupar
+  xarruparan
+  xarruparem
+  xarruparen
+  xarrupares
+  xarrupareu
+  xarruparia
+  xarruparien
+  xarruparies
+  xarrupat
+  xarrupats
+  xarrupava
+  xarrupaven
+  xarrupaves
+  xarrupem
+  xarrupen
+  xarrupes
+  xarrupessin
+  xarrupessis
+  xarrupeu
+  xarrupi
+  xarrupin
+  xarrupis
+  xarrupo
+  xarundel
+  xarxa
+  xarxas
+  xarxes
+  XAS: pos=noun
+  Xasan
+  xasar
+  xasek
+  xaser: pos=noun
+  xasers: pos=noun
+  xash
+  Xasonga: pos=proper
+  Xasonke: pos=proper
+  xassissos
+  Xassonke: pos=proper
+  xasta
+  xastre
+  xastres
+  xasuusi
+  xat: pos=noun
+  xata
+  xate
+  xategem
+  xategen
+  xateges
+  xategessin
+  xategessis
+  xategeu
+  xategi
+  xategin
+  xategis
+  xateja
+  xatejada
+  xatejades
+  xatejant
+  xatejar
+  xatejaran
+  xatejarem
+  xatejaren
+  xatejares
+  xatejareu
+  xatejaria
+  xatejarien
+  xatejaries
+  xatejat
+  xatejats
+  xatejava
+  xatejaven
+  xatejaves
+  xatejo
+  xatera
+  xateras
+  xatero
+  xateros
+  xates
+  xatixi
+  xato
+  xatos
+  xats: pos=noun
+  xatt
+  xatta
+  xatu
+  xatune
+  XAU
+  xauarma
+  xauarmas
+  xauarmes
+  xauim
+  xaula
+  xaulas
+  xaules
+  xaus
+  xau
+  Xav: pos=proper
+  Xava
+  xaval
+  xavals
+  xavanesa
+  xavanesas
+  xavaneses
+  Xavante: pos=[noun,proper]
+  xavantes
+  xavante
+  Xavantina
+  xavasca
+  xavascas
+  xavecar
+  xaveco
+  xaveque
+  Xaver
+  Xaverian: pos=[noun,adj]
+  Xaverians: pos=noun
+  Xavi: pos=proper
+  Xavier: pos=proper
+  Xavierian: pos=[noun,adj]
+  Xavierians: pos=noun
+  Xavierite: pos=noun
+  Xavierites: pos=noun
+  Xawa
+  xawa
+  xax
+  xaxa
+  xaxaar
+  xaxau
+  Xaxim
+  xaxuar
+  xay
+  xayacatl
+  xayawaan
+  xayotl
+  xazaap
+  xazulula
+  xA
+  XA
+  XBA
+  xban
+  xbanyoj
+  XBB
+  XBC
+  XBD
+  xbieha
+  xbihat
+  XBL: pos=proper
+  XBLA: pos=proper
+  xbow: pos=noun
+  xbows: pos=noun
+  Xbox: pos=[noun,verb]
+  Xboxer: pos=noun
+  Xboxers: pos=noun
+  Xboxes: pos=noun
+  XBox
+  Xbrick: pos=noun
+  Xbricks: pos=noun
+  XBT
+  XC: pos=noun
+  Xcaret: pos=proper
+  XCD
+  XCI
+  XCII
+  XCIII
+  XCIV
+  XCIX
+  xcut
+  xcuti
+  XCV
+  XCVI
+  XCVII
+  XCVIII
+  XD: pos=noun
+  XDCC: pos=noun
+  xdiv: pos=adj
+  XDK: pos=proper
+  XDR: pos=adj
+  xDSL: pos=proper
+  xd: pos=adj
+  xD
+  Xe
+  xeada
+  xeadas
+  xeado
+  xeados
+  xear
+  xebat
+  xebatkar
+  xebb
+  xebba
+  xebbah
+  xebec: pos=noun
+  xebeck: pos=noun
+  xebecks: pos=noun
+  xebecs: pos=noun
+  xebh
+  xebrar
+  xebre
+  xec
+  xeca
+  xecs
+  xeecoj
+  xeen
+  xeer: pos=noun
+  xeev
+  xef
+  xefe
+  xefes
+  xefi
+  xefs
+  xega
+  xegisa
+  xeh
+  xehe
+  xehed
+  xeheror
+  xeic
+  xeics
+  xeique
+  xeiques
+  xeira
+  xeita
+  xeitar
+  xeites
+  xeito
+  xeitos
+  xeitoso
+  xeitu
+  xeix
+  xeixs
+  xejn
+  xekan
+  xela
+  xelaba
+  xelabais
+  xelabeis
+  xelaben
+  xelabes
+  xelada
+  xelades
+  xelados
+  xelaes
+  xelamos
+  xelan
+  xelando
+  xelao
+  xelaos
+  xelar
+  xelara
+  xelarais
+  xelaran
+  xelaras
+  xelare
+  xelareis
+  xelaremos
+  xelaren
+  xelares
+  xelaron
+  xelas
+  xelasti
+  xelastis
+  xelat
+  xelatgir
+  xelatinosa
+  xelatinoses
+  xelatinoso
+  xelatinosos
+  xelatinosu
+  xele
+  xelegwisa
+  xelela
+  xelemos
+  xelen
+  xeles
+  xelesti
+  xelestis
+  xeli
+  xelim
+  xelins
+  xellug
+  xelo
+  xeloda: pos=noun
+  xelos
+  xelu
+  xem: pos=pron
+  Xema
+  Xember: pos=proper
+  xemce
+  xeme: pos=noun
+  xemelgo
+  xemelgos
+  xemeneia
+  xemeneies
+  xemes: pos=noun
+  xemiland
+  xemilandibe
+  xemilandibim
+  xemilandibin
+  xemilandin
+  xemilandiye
+  xemilofiban: pos=noun
+  xemo
+  xemple
+  xemples
+  Xemu: pos=proper
+  xemvn
+  xemx
+  xemxi
+  xen
+  Xena: pos=[proper,noun]
+  xenacanth: pos=noun
+  xenacanthid: pos=noun
+  xenacanthids: pos=noun
+  xenacanthimorph: pos=noun
+  xenacanthimorphs: pos=noun
+  xenacanths: pos=noun
+  xenacantidi
+  xenacantido
+  Xenacoelomorpha
+  xenagogies: pos=noun
+  xenagogue: pos=noun
+  xenagogues: pos=noun
+  xenagogy: pos=noun
+  xenalipin: pos=noun
+  Xenaphile: pos=noun
+  Xenaphiles: pos=noun
+  xenari
+  xenaro
+  Xenarthra
+  xenarthral: pos=adj
+  xenarthran: pos=noun
+  xenarthrans: pos=noun
+  xenartri
+  xenartro
+  Xenas: pos=noun
+  xenate: pos=noun
+  xenates: pos=noun
+  Xenaverse: pos=proper
+  xenavidin: pos=noun
+  xena
+  xenbucin: pos=noun
+  xendek
+  xendra
+  xene
+  Xenebra
+  xeneixe
+  xeneixes
+  xeneize
+  xeneizes
+  xenelasia: pos=noun
+  xenelasy: pos=noun
+  xeneral
+  xenerales
+  xeneralice
+  xeneralicedes
+  xeneralicei
+  xeneralicemos
+  xeneralicen
+  xeneralices
+  xeneralidade
+  xeneralidades
+  xeneraliza
+  xeneralizaba
+  xeneralizabades
+  xeneralizabamos
+  xeneralizaban
+  xeneralizabas
+  xeneralizaches
+  xeneralizaciones
+  xeneralizade
+  xeneralizades
+  xeneralizado
+  xeneralizamos
+  xeneralizan
+  xeneralizando
+  xeneralizar
+  xeneralizara
+  xeneralizarades
+  xeneralizaramos
+  xeneralizaran
+  xeneralizaras
+  xeneralizardes
+  xeneralizaredes
+  xeneralizarei
+  xeneralizaremos
+  xeneralizaren
+  xeneralizares
+  xeneralizariades
+  xeneralizariamos
+  xeneralizarmos
+  xeneralizaron
+  xeneralizas
+  xeneralizase
+  xeneralizasen
+  xeneralizases
+  xeneralizastes
+  xeneralizo
+  xeneralizou
+  xeneralmente
+  xenerar
+  xenerosa
+  xenerosamente
+  xenerosas
+  xenerosidade
+  xenerosidades
+  xeneroso
+  xenerosos
+  Xenerpestes
+  xenes
+  xenevri
+  xenevro
+  xenharmonic: pos=adj
+  xenharmonics: pos=noun
+  xeni
+  xenia: pos=noun
+  xenial: pos=adj
+  Xenia: pos=proper
+  xenic: pos=adj
+  xenica: pos=noun
+  Xenical: pos=proper
+  xenicas: pos=noun
+  xeniche
+  xenici
+  xenicid: pos=noun
+  xenicids: pos=noun
+  xenico
+  Xenicus
+  xenid: pos=noun
+  Xenie
+  xenii
+  xeniid: pos=noun
+  xeniids: pos=noun
+  Xeniin
+  xeniis
+  xeniku
+  xenio
+  xeniola
+  xenioli
+  xeniolis
+  xeniolo
+  xeniolorum
+  xeniolum
+  xeniorum
+  xenios
+  xenipentone: pos=noun
+  xenis
+  xenismoi: pos=noun
+  xenismos: pos=noun
+  xenisthmid: pos=noun
+  xenisthmids: pos=noun
+  xenitais
+  xenital
+  xenitales
+  xenium: pos=noun
+  Xenix: pos=proper
+  xenization: pos=noun
+  xennial: pos=noun
+  xennials: pos=noun
+  xeno
+  xenoandrogen: pos=noun
+  xenoandrogenic: pos=adj
+  xenoandrogenicity: pos=noun
+  xenoandrogens: pos=noun
+  xenoanthropology: pos=noun
+  xenoantibodies: pos=noun
+  xenoantibody: pos=noun
+  xenoantigen: pos=noun
+  xenoantigenic: pos=adj
+  xenoantigens: pos=noun
+  xenoarchaeology: pos=noun
+  xenoarchitecture: pos=noun
+  xenobacteriology: pos=noun
+  xenobi
+  xenobio
+  xenobiologia
+  xenobiological: pos=adj
+  Xenobiologie
+  xenobiologie
+  xenobiologist: pos=noun
+  xenobiologists: pos=noun
+  xenobiology: pos=noun
+  xenobiont: pos=noun
+  xenobionte
+  xenobionti
+  xenobionts: pos=noun
+  xenobiosi
+  xenobiosis: pos=noun
+  xenobiotic: pos=[adj,noun]
+  xenobiotica
+  xenobiotically: pos=adv
+  xenobiotiche
+  xenobiotici
+  xenobiotico
+  xenobiotics: pos=noun
+  Xenobiotika
+  Xenobiotikan
+  Xenobiotikum
+  Xenobiotikums
+  xenoblast: pos=noun
+  xenoblastisch
+  xenoblastische
+  xenoblastischem
+  xenoblastischen
+  xenoblastischer
+  xenoblastisches
+  xenoblasts: pos=noun
+  xenobotanist: pos=noun
+  xenobotanists: pos=noun
+  xenobotany: pos=noun
+  xenoceltitid: pos=noun
+  xenoceltitids: pos=noun
+  xenocentric: pos=adj
+  xenocentricism: pos=noun
+  xenocentrism: pos=noun
+  Xenocephalozia
+  xenochemical: pos=[adj,noun]
+  xenochemicals: pos=noun
+  xenochemistry: pos=noun
+  Xenochila
+  xenochimaeric: pos=adj
+  xenochimera: pos=noun
+  xenochimeras: pos=noun
+  xenochimeric: pos=adj
+  xenocidal: pos=adj
+  xenocide: pos=noun
+  xenocides: pos=noun
+  xenocidio
+  xenocidios
+  xenocidiu
+  xenoclast: pos=noun
+  xenoclasts: pos=noun
+  xenocontamination: pos=noun
+  Xenocopsychus
+  xenocoumacin: pos=noun
+  xenocoumacins: pos=noun
+  Xenocratean: pos=adj
+  Xenocrates: pos=proper
+  Xenocratic: pos=adj
+  xenocryst: pos=noun
+  xenocrystal: pos=noun
+  xenocrystals: pos=noun
+  xenocrystic: pos=adj
+  xenocrysts: pos=noun
+  xenocytology: pos=noun
+  Xenodacnis
+  xenodermatid: pos=noun
+  xenodermatids: pos=noun
+  xenodiagnoses: pos=noun
+  xenodiagnosis: pos=noun
+  xenodiagnostic: pos=adj
+  xenodiscid: pos=noun
+  xenodiscids: pos=noun
+  xenodoche
+  xenodocheia: pos=noun
+  xenodocheion: pos=noun
+  xenodochi
+  xenodochia: pos=noun
+  xenodochial: pos=adj
+  xenodochio
+  xenodochis
+  xenodochium: pos=noun
+  xenodochiums: pos=noun
+  xenodocho
+  xenodochorum
+  xenodochos
+  xenodochum
+  xenodochus
+  xenodochy: pos=noun
+  xenodontine: pos=[adj,noun]
+  xenodontines: pos=noun
+  xenoecologia
+  xenoecologica
+  xenoecologiche
+  xenoecologici
+  xenoecologico
+  xenoecologie
+  xenoembryo: pos=noun
+  xenoembryos: pos=noun
+  xenoencyclopedia: pos=noun
+  xenoencyclopedias: pos=noun
+  xenoengineering: pos=noun
+  xenoengraftment: pos=noun
+  xenoestrogen: pos=noun
+  xenoestrogenic: pos=adj
+  xenoestrogenicity: pos=noun
+  xenoestrogens: pos=noun
+  xenoethics: pos=noun
+  xenofiction: pos=noun
+  xenofila
+  xenofile
+  xenofili
+  xenofilia
+  xenofilie
+  xenofilo
+  xenofob
+  xenofoba
+  xenofobe: pos=noun
+  xenofobi
+  xenofobia: pos=noun
+  xenofobias
+  xenofobica
+  xenofobiche
+  xenofobici
+  xenofobico
+  xenofobie
+  xenofobien
+  xenofobismo
+  xenofobismos
+  xenofobo
+  xenofoob
+  xenofree: pos=adj
+  xenogamia
+  xenogamic: pos=adj
+  xenogamie
+  xenogamous: pos=adj
+  xenogamy: pos=noun
+  xenogeneic: pos=adj
+  xenogeneically: pos=adv
+  xenogeneous: pos=adj
+  xenogeneses: pos=noun
+  xenogenesi
+  xenogenesis: pos=noun
+  xenogenetic: pos=adj
+  xenogenetically: pos=adv
+  xenogenic: pos=adj
+  xenogenicity: pos=noun
+  xenogenous: pos=adj
+  xenogeny: pos=noun
+  xenogeography: pos=noun
+  xenogeology: pos=noun
+  Xenoglaux
+  xenoglosia
+  xenoglosias
+  xenoglossia: pos=noun
+  xenoglossic: pos=adj
+  xenoglossically: pos=adv
+  xenoglossie
+  xenoglossies: pos=noun
+  xenoglossofobia
+  xenoglossofobie
+  xenoglossophobia: pos=noun
+  xenoglossy: pos=noun
+  xenognosin: pos=noun
+  xenognosins: pos=noun
+  xenografic: pos=adj
+  xenograft: pos=[noun,verb]
+  xenografted: pos=[adj,verb]
+  xenografting: pos=verb
+  xenografts: pos=noun
+  xenograph
+  xenographic: pos=adj
+  xenographs
+  xenography: pos=noun
+  xenohistory: pos=noun
+  xenohormesis: pos=noun
+  xenohormetic: pos=adj
+  xenohormonal: pos=adj
+  xenohormone: pos=noun
+  xenohormones: pos=noun
+  xenohormoon
+  xenoimmune: pos=adj
+  xenoimmunization: pos=noun
+  xenoimmunize: pos=verb
+  xenoimmunized: pos=verb
+  xenoinfection: pos=noun
+  xenoinfections: pos=noun
+  xenolalia: pos=noun
+  xenolect: pos=noun
+  xenolectal: pos=adj
+  xenolectic: pos=adj
+  xenolecticity: pos=noun
+  xenolects: pos=noun
+  Xenoligea
+  xenoline: pos=noun
+  xenolines: pos=noun
+  xenolinguist: pos=noun
+  xenolinguistic: pos=adj
+  xenolinguistics: pos=noun
+  xenolinguists: pos=noun
+  xenolite: pos=noun
+  xenolith: pos=noun
+  Xenolithe
+  Xenolithen
+  xenolithic: pos=adj
+  xenoliths: pos=noun
+  Xenoliths
+  Xenolith
+  xenolito
+  xenolitos
+  xenolog: pos=noun
+  xenologer: pos=noun
+  xenologers: pos=noun
+  xenologia
+  xenologie
+  xenologist: pos=noun
+  xenologists: pos=noun
+  xenologous: pos=adj
+  xenologs: pos=noun
+  xenologue: pos=noun
+  xenologues: pos=noun
+  xenology: pos=noun
+  xenoma: pos=noun
+  xenomania: pos=noun
+  xenomas: pos=noun
+  xenomedicine: pos=noun
+  xenomelia: pos=noun
+  xenomenia: pos=noun
+  xenomes
+  Xenomi
+  xenomicrobiology: pos=noun
+  xenomicrobiota: pos=noun
+  xenomorfo
+  xenomorfos
+  xenomorph: pos=noun
+  Xenomorphia
+  xenomorphic: pos=adjective
+  xenomorphism: pos=noun
+  xenomorphisms: pos=noun
+  xenomorphology: pos=noun
+  xenomorphous: pos=adjective
+  xenomorphously: pos=adv
+  xenomorphs: pos=noun
+  xenomythology: pos=noun
+  xenon: pos=noun
+  xenonate: pos=noun
+  xenonates: pos=noun
+  xenonatomy: pos=noun
+  xenonba
+  xenonban
+  xenonen
+  xenonet
+  xenonets
+  Xenonfluorid
+  Xenonfluoride
+  Xenonfluoriden
+  Xenonfluorids
+  Xenonhexafluorid
+  Xenonhexafluorids
+  xenonhoz
+  xenonig
+  xenonja
+  xenonjai
+  xenonjaid
+  xenonjaik
+  xenonjaim
+  xenonjaink
+  xenonjaitok
+  xenonjuk
+  xenonnak
+  xenonnal
+  xenonod
+  xenonok
+  xenonokat
+  xenonokba
+  xenonokban
+  xenonokhoz
+  xenonokig
+  xenonokkal
+  xenonoknak
+  xenonokon
+  xenonokra
+  xenonom
+  xenonon
+  xenonotok
+  xenonra
+  xenons: pos=noun
+  Xenons
+  xenont
+  xenonunk
+  Xenonverbindung
+  Xenonverbindungen
+  xenonym: pos=noun
+  xenonyms: pos=noun
+  xenonymy: pos=noun
+  Xenon
+  xenopaleontology: pos=noun
+  xenoparasite: pos=noun
+  xenoparasites: pos=noun
+  xenoparasitic: pos=adj
+  xenoparassita
+  xenoparassiti
+  xenoparoche
+  xenoparochi
+  xenoparochis
+  xenoparocho
+  xenoparochorum
+  xenoparochos
+  xenoparochum
+  xenoparochus
+  xenopathology: pos=noun
+  xenopatient: pos=noun
+  xenopatients: pos=noun
+  xenopeltid: pos=noun
+  Xenopeltidae
+  xenopeltids: pos=noun
+  Xenoperdix
+  xenoperfuse: pos=verb
+  xenoperfused: pos=verb
+  xenoperfusion: pos=noun
+  xenopericardium: pos=noun
+  xenophagic: pos=adj
+  xenophagy: pos=noun
+  Xenophane
+  Xenophanean: pos=adj
+  Xenophanes: pos=proper
+  Xenophanic: pos=adj
+  Xenophidia
+  xenophil
+  xenophile: pos=noun
+  xenophilem
+  xenophilen
+  xenophiler
+  xenophilere
+  xenophilerem
+  xenophileren
+  xenophilerer
+  xenophileres
+  xenophiles: pos=noun
+  xenophilia: pos=noun
+  xenophilic: pos=adj
+  Xenophilie
+  xenophilous: pos=adj
+  xenophilste
+  xenophilstem
+  xenophilsten
+  xenophilster
+  xenophilstes
+  xenophob
+  xenophobe: pos=noun
+  xenophobem
+  xenophoben
+  xenophober
+  xenophobere
+  xenophoberem
+  xenophoberen
+  xenophoberer
+  xenophoberes
+  xenophobes: pos=noun
+  xenophobia: pos=noun
+  xenophobiac: pos=noun
+  xenophobiacs: pos=noun
+  xenophobian: pos=noun
+  xenophobians: pos=noun
+  xenophobias: pos=noun
+  xenophobic: pos=[adj,noun]
+  xenophobically: pos=adv
+  xenophobics: pos=noun
+  Xenophobie
+  Xenophobien
+  xenophobisch
+  xenophobische
+  xenophobischem
+  xenophobischen
+  xenophobischer
+  xenophobischere
+  xenophobischerem
+  xenophobischeren
+  xenophobischerer
+  xenophobischeres
+  xenophobisches
+  xenophobischste
+  xenophobischstem
+  xenophobischsten
+  xenophobischster
+  xenophobischstes
+  xenophobism: pos=noun
+  xenophobist: pos=noun
+  xenophobists: pos=noun
+  xenophobste
+  xenophobstem
+  xenophobsten
+  xenophobster
+  xenophobstes
+  xenophoby: pos=noun
+  Xenophon: pos=proper
+  xenophone: pos=noun
+  xenophones: pos=noun
+  xenophonia: pos=noun
+  Xenophonian: pos=adj
+  Xenophonte
+  Xenophontean: pos=adj
+  Xenophontem
+  Xenophonti
+  Xenophontic: pos=adj
+  Xenophontis
+  xenophontisch
+  xenophontische
+  xenophontischem
+  xenophontischen
+  xenophontischer
+  xenophontischere
+  xenophontischerem
+  xenophontischeren
+  xenophontischerer
+  xenophontischeres
+  xenophontisches
+  xenophontischste
+  xenophontischstem
+  xenophontischsten
+  xenophontischster
+  xenophontischstes
+  xenophora: pos=noun
+  xenophorae: pos=noun
+  xenophoras: pos=noun
+  Xenophora
+  xenophorid: pos=noun
+  xenophorids: pos=noun
+  xenophthalmia: pos=noun
+  xenophya
+  xenophyophore: pos=noun
+  xenophyophores: pos=noun
+  xenophysics: pos=noun
+  xenophyte: pos=noun
+  xenophytes: pos=noun
+  xenopi
+  xenopid: pos=noun
+  xenopids: pos=noun
+  Xenopipo
+  Xenopirostris
+  xenoplasm: pos=noun
+  xenoplastic: pos=adj
+  xenoplastically: pos=adv
+  xenoplasty: pos=noun
+  xenopo
+  Xenopodidae
+  Xenopodinae
+  xenoprotein: pos=noun
+  xenoproteins: pos=noun
+  Xenops
+  Xenopsaris
+  xenopsin: pos=noun
+  xenopsychiatry: pos=noun
+  xenopsychology: pos=noun
+  Xenopterygii
+  Xenopus
+  xenoracism: pos=noun
+  xenoreactive: pos=adj
+  xenoreactivity: pos=noun
+  xenoreceptor: pos=noun
+  xenoreceptors: pos=noun
+  xenorejection: pos=noun
+  xenorepopulation: pos=noun
+  Xenornis
+  xenorum
+  xenosaurid: pos=noun
+  xenosaurids: pos=noun
+  Xenosaurus
+  xenoscience: pos=noun
+  xenosensing: pos=noun
+  xenosensor: pos=noun
+  xenosensors: pos=noun
+  xenosexual: pos=adj
+  xenosiderophore: pos=noun
+  xenosiderophores: pos=noun
+  xenosis: pos=noun
+  Xenosmilus
+  xenosociology: pos=noun
+  xenosome: pos=noun
+  xenosomes: pos=noun
+  xenosomic: pos=adj
+  xenospecific: pos=adj
+  xenospecificity: pos=noun
+  xenosphere: pos=noun
+  xenospheres: pos=noun
+  Xenospingus
+  Xenospiza
+  Xenotarsosaurus
+  xenotech: pos=noun
+  xenotechnologies: pos=noun
+  xenotechnology: pos=noun
+  Xenothallus
+  xenotheology: pos=noun
+  xenotic: pos=adj
+  Xenotim
+  xenotima
+  xenotime: pos=noun
+  Xenotimen
+  xenotimes: pos=noun
+  Xenotime
+  Xenotims
+  xenotine: pos=noun
+  xenotite: pos=noun
+  xenotolerance: pos=noun
+  xenotoxic: pos=adj
+  xenotoxicant: pos=[adj,noun]
+  xenotoxicants: pos=noun
+  xenotoxicity: pos=noun
+  xenotoxin: pos=noun
+  xenotoxins: pos=noun
+  xenotransgraft: pos=noun
+  xenotransgrafts: pos=noun
+  xenotransmission: pos=noun
+  xenotransmit: pos=verb
+  xenotransmitted: pos=verb
+  xenotransplant: pos=[noun,verb]
+  xenotransplantability: pos=noun
+  xenotransplantable: pos=adj
+  xenotransplantatie
+  xenotransplantation: pos=noun
+  xenotransplantations: pos=noun
+  xenotransplante
+  xenotransplanted: pos=adj
+  xenotransplanting: pos=[verb,noun]
+  xenotransplantings: pos=noun
+  xenotransplants: pos=noun
+  xenotrapianti
+  xenotrapianto
+  xenotrasplante
+  xenotrasplantes
+  Xenotriccus
+  xenotrichulid: pos=noun
+  xenotrichulids: pos=noun
+  xenotrophic
+  xenotropic: pos=adj
+  xenotropism: pos=noun
+  xenotumor: pos=noun
+  xenotumors: pos=noun
+  xenoturbellan: pos=noun
+  xenoturbellans: pos=noun
+  xenoturbellid: pos=noun
+  Xenoturbellida
+  xenoturbellids: pos=noun
+  xenotype: pos=noun
+  xenotypes: pos=noun
+  xenotyphlopid: pos=noun
+  xenotyphlopids: pos=noun
+  xenotypic: pos=adj
+  xenovenine: pos=noun
+  xenozoological: pos=adj
+  xenozoologist: pos=noun
+  xenozoologists: pos=noun
+  xenozoology: pos=noun
+  xenozoonoses: pos=noun
+  xenozoonosis: pos=noun
+  xenozoonotic: pos=adj
+  xenra
+  xenral
+  xenrales
+  xenreira
+  xenres
+  xenro
+  xenros
+  xenru
+  xente
+  xenthiorate: pos=noun
+  xenti
+  Xenu: pos=proper
+  xenurine: pos=noun
+  xenurines: pos=noun
+  Xenus
+  xenxibre
+  xenxibres
+  xenxiva
+  xenxives
+  Xenxo
+  xenygloxal: pos=noun
+  xenyl: pos=noun
+  xenylic: pos=adj
+  xenysalate: pos=noun
+  xeo
+  xeobloquear
+  xeobloqueo
+  xeodesia
+  xeolocalizador
+  xeolocalizar
+  xeoloxicamente
+  xeometricamente
+  xeonlleira
+  xeonllo
+  xeonllos
+  xeopoliticamente
+  Xeorxa
+  Xeorxia
+  xeorxiana
+  xeorxianas
+  xeorxiano
+  xeorxianos
+  xeos
+  xepen
+  xeque
+  xeques
+  Xer: pos=noun
+  xera
+  xeraba
+  xerabades
+  xerabamos
+  xeraban
+  xerabas
+  xeraches
+  xeracional
+  xeractinol: pos=noun
+  xerade
+  xerades
+  xerado
+  xerafin: pos=noun
+  xerafins: pos=noun
+  xerais
+  xeral
+  xeralf: pos=noun
+  xeralfic: pos=adj
+  xeralfs: pos=noun
+  xeralmente
+  xeramos
+  xeran
+  xerand: pos=noun
+  xerando
+  xerands: pos=noun
+  xeranses: pos=noun
+  xeransis: pos=noun
+  xeranthemum: pos=noun
+  xeranthemums: pos=noun
+  xerantic: pos=adj
+  xerantica
+  xeranticae
+  xeranticam
+  xeranticarum
+  xeranticas
+  xerantice
+  xerantici
+  xeranticis
+  xerantico
+  xeranticorum
+  xeranticos
+  xeranticum
+  xeranticus
+  xerapheen: pos=noun
+  xerapheens: pos=noun
+  xeraphim: pos=noun
+  xeraphims: pos=noun
+  xeraphin: pos=noun
+  xeraphins: pos=noun
+  xerar
+  xerara
+  xerarades
+  xeraramos
+  xeraran
+  xeraras
+  xerarch: pos=adj
+  xerardes
+  xeraredes
+  xerarei
+  xeraremos
+  xeraren
+  xerares
+  xerariades
+  xerariamos
+  xerarmos
+  xeraron
+  xeras
+  xerase
+  xerasen
+  xerases
+  xerasia: pos=noun
+  xerastes
+  Xerazade
+  xerbo
+  xerbos
+  xerclod: pos=noun
+  xerclods: pos=noun
+  xere
+  xereca
+  xereces
+  xerecista
+  xerecistas
+  xeredes
+  xerei
+  xeremos
+  xeren
+  xerente
+  xerentes
+  xerept: pos=noun
+  xerepts: pos=noun
+  xerert: pos=noun
+  xererts: pos=noun
+  xeres
+  Xeres
+  xereta
+  xeretada
+  xeretadas
+  xeretado
+  xeretados
+  xeretai
+  xeretais
+  xeretam
+  xeretamos
+  xeretando
+  xeretar
+  xeretara
+  xeretaram
+  xeretaras
+  xeretardes
+  xeretarei
+  xeretareis
+  xeretarem
+  xeretaremos
+  xeretares
+  xeretaria
+  xeretariam
+  xeretarias
+  xeretarmos
+  xeretas
+  xeretasse
+  xeretassem
+  xeretasses
+  xeretaste
+  xeretastes
+  xeretava
+  xeretavam
+  xeretavas
+  xerete
+  xeretei
+  xereteis
+  xeretem
+  xeretemos
+  xeretes
+  xereto
+  xeretou
+  xerez
+  xerga
+  xeri
+  xeric: pos=adj
+  xerica
+  xerically: pos=adv
+  xeriche
+  xerici
+  xericity: pos=noun
+  xerico
+  xerif: pos=noun
+  xerife
+  xerifes
+  xeriff: pos=noun
+  xeriffs: pos=noun
+  xerification: pos=noun
+  xerifs: pos=noun
+  xeringa
+  xeringas
+  xeringues
+  xerinola
+  xerinoles
+  xeriphyte: pos=noun
+  xeriphytes: pos=noun
+  xeriscape: pos=[noun,verb]
+  xeriscaped: pos=verb
+  xeriscaper: pos=noun
+  xeriscapers: pos=noun
+  xeriscapes: pos=[noun,verb]
+  xeriscaping: pos=[noun,verb]
+  xeriscapings: pos=noun
+  xermanio
+  xermaniu
+  xerme
+  xermes
+  xermina
+  xerminaba
+  xerminabades
+  xerminabamos
+  xerminaban
+  xerminabas
+  xerminaches
+  xerminade
+  xerminades
+  xerminado
+  xerminamos
+  xerminan
+  xerminando
+  xerminar
+  xerminara
+  xerminarades
+  xerminaramos
+  xerminaran
+  xerminaras
+  xerminardes
+  xerminaredes
+  xerminarei
+  xerminaremos
+  xerminaren
+  xerminares
+  xerminariades
+  xerminariamos
+  xerminarmos
+  xerminaron
+  xerminas
+  xerminase
+  xerminasen
+  xerminases
+  xerminastes
+  xermine
+  xerminedes
+  xerminei
+  xerminemos
+  xerminen
+  xermines
+  xermino
+  xerminou
+  xermolar
+  xermolo
+  xero
+  xerobi
+  xerobia
+  xerobie
+  xerobio
+  xeroca
+  xerocada
+  xerocadas
+  xerocado
+  xerocados
+  xerocai
+  xerocais
+  xerocam
+  xerocamos
+  xerocando
+  xerocar
+  xerocara
+  xerocaram
+  xerocaras
+  xerocardes
+  xerocarei
+  xerocareis
+  xerocarem
+  xerocaremos
+  xerocares
+  xerocaria
+  xerocariam
+  xerocarias
+  xerocarmos
+  xerocas
+  xerocasse
+  xerocassem
+  xerocasses
+  xerocaste
+  xerocastes
+  xerocava
+  xerocavam
+  xerocavas
+  xerochasic: pos=adj
+  xerochastic: pos=adj
+  xerochasy: pos=noun
+  xerochilia: pos=noun
+  xeroco
+  xerocollyria
+  xerocollyrii
+  xerocollyriis
+  xerocollyrio
+  xerocollyriorum
+  xerocollyrium
+  xerocolous: pos=adj
+  xerocopi
+  xerocopia
+  xerocopiaba
+  xerocopiabais
+  xerocopiaban
+  xerocopiabas
+  xerocopiad
+  xerocopiada
+  xerocopiadas
+  xerocopiado
+  xerocopiados
+  xerocopiai
+  xerocopiammo
+  xerocopiamo
+  xerocopiamos
+  xerocopian
+  xerocopiando
+  xerocopiano
+  xerocopiante
+  xerocopiar
+  xerocopiara
+  xerocopiarais
+  xerocopiaran
+  xerocopiaras
+  xerocopiare
+  xerocopiareis
+  xerocopiaremos
+  xerocopiaren
+  xerocopiares
+  xerocopiaron
+  xerocopiarono
+  xerocopias
+  xerocopiase
+  xerocopiaseis
+  xerocopiasen
+  xerocopiases
+  xerocopiasse
+  xerocopiassero
+  xerocopiassi
+  xerocopiassimo
+  xerocopiaste
+  xerocopiasteis
+  xerocopiasti
+  xerocopiata
+  xerocopiate
+  xerocopiati
+  xerocopiato
+  xerocopiatrice
+  xerocopiatrici
+  xerocopiava
+  xerocopiavamo
+  xerocopiavano
+  xerocopiavate
+  xerocopiavi
+  xerocopiavo
+  xerocopie
+  xerocopied: pos=verb
+  xerocopiemos
+  xerocopien
+  xerocopierai
+  xerocopieranno
+  xerocopierebbe
+  xerocopierebbero
+  xerocopierei
+  xerocopieremmo
+  xerocopieremo
+  xerocopiereste
+  xerocopieresti
+  xerocopierete
+  xerocopies: pos=noun
+  xerocopino
+  xerocopio
+  xerocopy: pos=[verb,noun]
+  xerocopying: pos=verb
+  xerocou
+  xerocracy: pos=noun
+  xerocratic: pos=adj
+  xerocytosis: pos=noun
+  xeroderma: pos=noun
+  xerodermas: pos=noun
+  xerodermata: pos=noun
+  xerodermatic: pos=adj
+  xerodermatous: pos=adj
+  xerodermi
+  xerodermia: pos=noun
+  xerodermic: pos=adj
+  xerodermie
+  xerofila
+  xerofile
+  xerofili
+  xerofilo
+  xerofita
+  xerofite
+  xerofiti
+  xerofitica
+  xerofitiche
+  xerofitici
+  xerofitico
+  xerofito
+  xerofluvent: pos=noun
+  xerofluvents: pos=noun
+  xerofobia
+  xerofobie
+  xeroform: pos=noun
+  xeroformi
+  xeroformio
+  xeroftalmi
+  xeroftalmia
+  xeroftalmias
+  xeroftalmica
+  xeroftalmiche
+  xeroftalmici
+  xeroftalmico
+  xeroftalmie
+  xeroftalmo
+  xerofyt
+  xerofyten
+  xerogel: pos=noun
+  xerogels: pos=noun
+  xerografia
+  xerografiaba
+  xerografiabais
+  xerografiaban
+  xerografiabas
+  xerografiad
+  xerografiada
+  xerografiadas
+  xerografiado
+  xerografiados
+  xerografiamos
+  xerografiando
+  xerografiar
+  xerografiara
+  xerografiarais
+  xerografiaran
+  xerografiaras
+  xerografiare
+  xerografiareis
+  xerografiaremos
+  xerografiaren
+  xerografiares
+  xerografiaron
+  xerografiase
+  xerografiaseis
+  xerografiasen
+  xerografiases
+  xerografiaste
+  xerografiasteis
+  xerografica
+  xerografiche
+  xerografici
+  xerografico
+  xerografie
+  xerografiemos
+  xerografisch
+  xerografische
+  xerografischem
+  xerografischen
+  xerografischer
+  xerografisches
+  xerogram: pos=noun
+  xerograms: pos=noun
+  xerograph: pos=noun
+  xerographer: pos=noun
+  xerographers: pos=noun
+  xerographic: pos=adj
+  xerographically: pos=adv
+  xerographics: pos=noun
+  xerographisch
+  xerographische
+  xerographischem
+  xerographischen
+  xerographischer
+  xerographisches
+  xerographs: pos=noun
+  xerography: pos=noun
+  xerohalophyte: pos=noun
+  xerohalophytes: pos=noun
+  xerohalophytic: pos=adj
+  Xeroid: pos=noun
+  Xeroids: pos=noun
+  xerokopio
+  Xerolirion
+  xeroll: pos=noun
+  xerollic: pos=adj
+  xerolls: pos=noun
+  xeroma: pos=noun
+  xeromammogram: pos=noun
+  xeromammograms: pos=noun
+  xeromammographic: pos=adj
+  xeromammographically: pos=adv
+  xeromammography: pos=noun
+  xeromas: pos=noun
+  xeromenia: pos=noun
+  xeromesic: pos=adj
+  xeromorfa
+  xeromorfe
+  xeromorfi
+  xeromorfismi
+  xeromorfismo
+  xeromorfo
+  xeromorph: pos=noun
+  xeromorphe
+  xeromorphem
+  xeromorphen
+  xeromorpher
+  xeromorphes
+  xeromorphic: pos=adj
+  xeromorphous: pos=adj
+  xeromorphs: pos=noun
+  xeromorphy: pos=noun
+  xeromycteria: pos=noun
+  xeromyrrha
+  xeromyrrhae
+  xeromyrrham
+  xeromyrrharum
+  xeromyrrhas
+  xeromyrrhis
+  xeronate: pos=noun
+  xeronic: pos=adj
+  xerontofilia
+  xerophage: pos=noun
+  xerophages: pos=noun
+  xerophagia: pos=noun
+  xerophagiae
+  xerophagiam
+  xerophagiarum
+  xerophagias
+  xerophagies: pos=noun
+  xerophagiis
+  xerophagy: pos=noun
+  xerophil: pos=noun
+  xerophila
+  xerophilae
+  xerophilam
+  xerophilarum
+  xerophilas
+  xerophile: pos=noun
+  xerophilem
+  xerophilen
+  xerophiler
+  xerophilere
+  xerophilerem
+  xerophileren
+  xerophilerer
+  xerophileres
+  xerophiles: pos=noun
+  xerophili
+  xerophilic: pos=adj
+  xerophilis
+  xerophilo
+  xerophilorum
+  xerophilos
+  xerophilous: pos=adj
+  xerophilste
+  xerophilstem
+  xerophilsten
+  xerophilster
+  xerophilstes
+  xerophilum
+  xerophilus
+  xerophily: pos=noun
+  xerophobia: pos=noun
+  xerophthalmia: pos=noun
+  xerophthalmias: pos=noun
+  xerophthalmic: pos=adj
+  xerophthalmus: pos=noun
+  xerophthalmy: pos=noun
+  xerophyllous
+  xerophyte: pos=noun
+  xerophytes: pos=noun
+  xerophytic: pos=[adj,noun]
+  xerophytically: pos=adv
+  xerophytics: pos=noun
+  xerophytism: pos=noun
+  xeropsamment: pos=noun
+  xeropsamments: pos=noun
+  xeropthalmia: pos=noun
+  xeropthalmias: pos=noun
+  xeroque
+  xeroquei
+  xeroqueis
+  xeroquem
+  xeroquemos
+  xeroques
+  xeroradiografia
+  xeroradiografie
+  xeroradiogram: pos=noun
+  xeroradiogramma
+  xeroradiogrammi
+  xeroradiograms: pos=noun
+  xeroradiograph: pos=noun
+  xeroradiographic: pos=adj
+  xeroradiographically: pos=adv
+  xeroradiographies: pos=noun
+  xeroradiographs: pos=noun
+  xeroradiography: pos=noun
+  xeroriparian: pos=adj
+  xerorthent: pos=noun
+  xerorthents: pos=noun
+  xeroseral: pos=adj
+  xerosere: pos=noun
+  xeroseres: pos=noun
+  xeroses: pos=noun
+  xerosfera
+  xerosfere
+  xerosi
+  xerosis: pos=noun
+  xerosol: pos=noun
+  xerosols: pos=noun
+  xerosphere: pos=noun
+  xerospheres: pos=noun
+  xerostoma: pos=noun
+  xerostomia: pos=noun
+  xerostomias: pos=noun
+  xerostomic: pos=adj
+  xerostomie
+  xeroterma
+  xeroterme
+  xerotermi
+  xerotermica
+  xerotermiche
+  xerotermici
+  xerotermico
+  xerotermo
+  xerotes: pos=noun
+  xerotherm: pos=noun
+  xerotherme
+  xerothermem
+  xerothermen
+  xerothermer
+  xerothermere
+  xerothermerem
+  xerothermeren
+  xerothermerer
+  xerothermeres
+  xerothermes
+  xerothermic: pos=adj
+  xerothermophilic: pos=adj
+  xerothermophilous: pos=adj
+  xerothermous: pos=adj
+  xerothermste
+  xerothermstem
+  xerothermsten
+  xerothermster
+  xerothermstes
+  xerotic: pos=adj
+  xerotipia
+  xerotipie
+  xerotolerance: pos=noun
+  xerotolerant: pos=adj
+  xerotripsis: pos=noun
+  xerou
+  xerox: pos=[noun,verb]
+  xeroxable: pos=adj
+  xeroxcopies: pos=noun
+  xeroxcopy: pos=noun
+  xeroxed: pos=verb
+  xeroxer: pos=noun
+  xeroxers: pos=noun
+  xeroxes: pos=[noun,verb]
+  Xeroxes: pos=[noun,verb]
+  xeroxing: pos=verb
+  xeroxlore: pos=noun
+  xeroxozik
+  Xerox: pos=[noun,verb]
+  xerpa
+  xerpes
+  xerq
+  xerra
+  xerrac
+  xerracs
+  xerrada
+  xerrades
+  xerraire
+  xerraires
+  xerrameca
+  xerrameques
+  xerrant
+  xerrar
+  xerraran
+  xerrarem
+  xerraren
+  xerrares
+  xerrareu
+  xerraria
+  xerrarien
+  xerraries
+  xerrat
+  xerrats
+  xerrava
+  xerraven
+  xerraves
+  xerrem
+  xerren
+  xerres
+  xerressin
+  xerressis
+  xerreu
+  xerri
+  xerrin
+  xerris
+  xerro
+  Xers: pos=noun
+  xerulin: pos=noun
+  xerult: pos=noun
+  xerults: pos=noun
+  xerundio
+  xerundios
+  xerundiu
+  Xerus
+  Xerxean: pos=adj
+  Xerxes: pos=proper
+  Xerxeses: pos=proper
+  Xerxis
+  xerye
+  xesi
+  xeso
+  xesos
+  xest
+  xesta
+  Xestobium
+  xestoquinone: pos=noun
+  xestospongin: pos=noun
+  xestospongine: pos=noun
+  xestospongines: pos=noun
+  xestospongins: pos=noun
+  Xesucristu
+  Xeter
+  xette
+  xettes
+  xettiku
+  xevi
+  Xevsurian: pos=proper
+  xew
+  xewa
+  xewk
+  xewka
+  xewn
+  xewqa
+  xewqat
+  xewwex
+  xewx
+  xewxane
+  xex
+  xexeme
+  xeyir
+  xeyr
+  Xezal
+  xezar
+  xezeb
+  xe: pos=pron
+  XFEL: pos=noun
+  XFELs: pos=noun
+  xfer: pos=[noun,verb]
+  xfers: pos=[noun,verb]
+  XFF
+  XFL: pos=proper
+  XFU
+  XGA: pos=proper
+  xh
+  xhaano
+  xhabha
+  xhagajdur
+  xhala
+  xham
+  xhami
+  xhamla
+  xhan
+  xhapha
+  xhaphaza
+  xhasa
+  xhawulisana
+  xhaxha
+  XHCN
+  xhe
+  xhegula
+  xhehenem
+  xhehnem
+  xhel
+  xhela
+  xheloz
+  xhelozi
+  Xhemal
+  xhenem
+  xhenet
+  xhentsa
+  xhep
+  Xhevahir
+  xhieda
+  xhola
+  xhoma
+  xhomekeka
+  xhorbi
+  Xhosa: pos=noun
+  Xhosan: pos=adj
+  Xhosaness: pos=noun
+  Xhosas: pos=noun
+  xhosas
+  xhosa
+  xhosha
+  XHR: pos=proper
+  XHTML: pos=proper
+  xhuga
+  xhuma
+  xhumana
+  xhumanisa
+  xhumaxhuma
+  xhumpirinisa
+  xhur
+  xhutha
+  xhuxh
+  xhuzula
+  xhwaleka
+  xhwila
+  xhwitha
+  Xh
+  xi: pos=noun
+  xia
+  Xiabre
+  Xialu: pos=proper
+  Xiamen: pos=proper
+  xiamycin: pos=noun
+  xiamycins: pos=noun
+  Xian: pos=[proper,noun,adj]
+  Xianbei
+  xianbei
+  Xianfeng: pos=proper
+  xiang
+  Xiangcheng: pos=proper
+  Xianggang: pos=proper
+  xiangjiangite: pos=noun
+  Xiangliu: pos=proper
+  xiangqi: pos=noun
+  xiangsheng: pos=noun
+  Xiangshui: pos=proper
+  Xiangtan: pos=proper
+  Xiangyang: pos=proper
+  Xiangyao: pos=proper
+  Xiangzhou: pos=proper
+  Xiang: pos=proper
+  Xianity: pos=noun
+  Xianning: pos=proper
+  Xians: pos=noun
+  xians: pos=noun
+  Xiantao: pos=proper
+  xian: pos=[noun,adj]
+  xiao: pos=noun
+  Xiaochang: pos=proper
+  Xiaogan: pos=proper
+  xiaojierun
+  xiaolongbao: pos=noun
+  Xiaomin: pos=proper
+  Xiaonan: pos=proper
+  xiaos: pos=noun
+  Xiaos: pos=proper
+  Xiaoting: pos=proper
+  Xiao: pos=proper
+  Xia: pos=proper
+  xiba
+  Xibalba: pos=proper
+  Xibalban: pos=[adj,noun]
+  Xibalbans: pos=noun
+  xibardo
+  xibarte
+  xibartes
+  xibas
+  Xibe: pos=[noun,proper]
+  xibenolol: pos=noun
+  xibia
+  xibies
+  xibio
+  xibiu
+  xibla
+  xiblaba
+  xiblabais
+  xiblabeis
+  xiblaben
+  xiblabes
+  xiblada
+  xiblaes
+  xiblamos
+  xiblan
+  xiblando
+  xiblao
+  xiblaos
+  xiblar
+  xiblara
+  xiblarais
+  xiblaran
+  xiblaras
+  xiblare
+  xiblareis
+  xiblaremos
+  xiblaren
+  xiblares
+  xiblaron
+  xiblas
+  xiblasti
+  xiblastis
+  xiblatos
+  xiblatu
+  xible
+  xiblemos
+  xiblen
+  xibles
+  xiblesti
+  xiblestis
+  xiblida
+  xiblides
+  xiblidos
+  xiblo
+  xibornol: pos=noun
+  Xibraltar
+  xibt
+  Xibuti
+  xibuu
+  xic
+  xica
+  xicama
+  xicamatl
+  Xicana: pos=noun
+  Xicanas: pos=noun
+  Xicano: pos=noun
+  Xicanos: pos=noun
+  Xicanx: pos=[adj,noun]
+  xices
+  Xichang: pos=proper
+  Xicheng: pos=proper
+  xiclet
+  xiclets
+  xicmecayotl
+  xicocuitlaocochiuhqui
+  xicocuitlaocotl
+  xicocuitlatl
+  xicohcuitlaocochiuhqui
+  xicohcuitlaocotl
+  xicohcuitlatl
+  xicohtli
+  xicot
+  xicotli
+  xicots
+  xics
+  xict
+  xictli
+  Xicu
+  xid
+  xie
+  xiebaisaponin: pos=noun
+  xiehouyu: pos=noun
+  Xies: pos=proper
+  xiex
+  xiexie: pos=interj
+  Xie: pos=proper
+  xifengite: pos=noun
+  xifofori
+  xifoforo
+  xifoide
+  xifoidea
+  xifoidee
+  xifoidei
+  xifoideo
+  xifoidi
+  xifosuri
+  xifosuro
+  xifra
+  xifres
+  xifri
+  Xifu: pos=proper
+  xigante
+  xigantes
+  xigantesca
+  xigantescas
+  xigantesco
+  xigantescos
+  Xihe: pos=proper
+  xihua
+  xihuan
+  xihuitl
+  xihuitzontli
+  xihxicuin
+  xihxicuinyotl
+  xihxili
+  XII
+  xiib
+  xiibil
+  xiica
+  XIII
+  xiii
+  xiimbal
+  xiismo
+  xiita
+  xiitas
+  xii
+  xijts
+  xikoorak
+  xikwembu
+  xil
+  xilanasi
+  xilani
+  xilano
+  xilanos
+  xilas
+  xilaskar
+  xilazine
+  Xile
+  xilema
+  xilemas
+  xilematica
+  xilematiche
+  xilematici
+  xilematico
+  xilemi
+  xilena
+  xilene
+  xilenes
+  xileni
+  xileno
+  xilenoli
+  xilenolo
+  xilenos
+  xilens
+  xileos
+  xili
+  xilidina
+  xilidine
+  Xiling: pos=proper
+  xilingolite: pos=noun
+  xilingsaponin: pos=noun
+  xilitol
+  xilitoles
+  xilitoli
+  xilitolo
+  xilo
+  xilobam: pos=noun
+  xilofaga
+  xilofaghe
+  xilofagi
+  xilofago
+  xilofon
+  xilofonba
+  xilofonban
+  xilofone
+  xilofones
+  xilofonhoz
+  xilofoni
+  xilofonig
+  xilofonista
+  xilofonistas
+  xilofoniste
+  xilofonisti
+  xilofonja
+  xilofonjai
+  xilofonjaid
+  xilofonjaik
+  xilofonjaim
+  xilofonjaink
+  xilofonjaitok
+  xilofonjuk
+  xilofonnak
+  xilofonnal
+  xilofono
+  xilofonod
+  xilofonok
+  xilofonokat
+  xilofonokba
+  xilofonokban
+  xilofonokhoz
+  xilofonokig
+  xilofonokkal
+  xilofonoknak
+  xilofonokon
+  xilofonokra
+  xilofonom
+  xilofonon
+  xilofonotok
+  xilofonra
+  xilofont
+  xilofonunk
+  xilofoon
+  xilogalatturonani
+  xilogalatturonano
+  xiloglucani
+  xiloglucano
+  xiloglucanos
+  xilografi
+  xilografia
+  xilografica
+  xilografiche
+  xilografici
+  xilografico
+  xilografie
+  xilografo
+  xiloidina
+  xiloidine
+  Xilokastro: pos=proper
+  Xilokastron: pos=proper
+  xiloli
+  xilolite
+  xiloliti
+  xilolo
+  xilologhi
+  xilologia
+  xilologica
+  xilologiche
+  xilologici
+  xilologico
+  xilologie
+  xilologo
+  xilosa
+  xilosas
+  xilose
+  xiloses
+  xilosi
+  xilosio
+  xiloteca
+  xiloteche
+  xilotl
+  xilotla
+  xilotlah
+  xilulosa
+  xilulosas
+  xilwet
+  xilxag
+  xima
+  ximamos
+  ximan
+  ximas
+  ximbo
+  xime
+  ximelagatran: pos=noun
+  ximelos
+  ximelu
+  ximen
+  Ximena
+  Ximenean: pos=[adj,noun]
+  Ximeneans: pos=noun
+  ximengite: pos=noun
+  ximes
+  ximi
+  ximia
+  ximida
+  ximiemos
+  ximiendo
+  ximiera
+  ximierais
+  ximieran
+  ximieras
+  ximiere
+  ximiereis
+  ximieren
+  ximieres
+  ximieron
+  ximiesti
+  ximiestis
+  ximimos
+  ximin
+  ximina
+  ximio
+  ximios
+  ximir
+  ximiremos
+  ximisti
+  ximistis
+  ximnasia
+  ximnasio
+  ximnasios
+  ximnasiu
+  ximnasta
+  ximnastas
+  ximo
+  ximoprofen: pos=noun
+  ximple
+  ximpleria
+  ximpleries
+  ximples
+  ximplesa
+  ximpleses
+  xin
+  Xina
+  xinachtli
+  xinafoate: pos=noun
+  xinawa
+  xina
+  Xinca: pos=proper
+  Xincan: pos=adj
+  xincas
+  xinca
+  xine
+  xineiru
+  xineru
+  xines
+  xinesa
+  xineses
+  xinesi: pos=noun
+  xinesis: pos=noun
+  xinesos
+  xing: pos=noun
+  xinga
+  xingada
+  xingadas
+  xingado
+  xingados
+  xingai
+  xingais
+  xingam
+  xingamento
+  xingamos
+  xingando
+  xingar
+  xingara
+  xingaram
+  xingaras
+  xingardes
+  xingarei
+  xingareis
+  xingarem
+  xingaremos
+  xingares
+  xingaria
+  xingariam
+  xingarias
+  xingarmos
+  xingas
+  xingasse
+  xingassem
+  xingasses
+  xingaste
+  xingastes
+  xingava
+  xingavam
+  xingavas
+  Xingjiang: pos=proper
+  xingo
+  xingou
+  xings: pos=noun
+  Xingshan: pos=proper
+  xingshu: pos=noun
+  Xings: pos=proper
+  Xingu: pos=proper
+  xingue
+  xinguei
+  xingueis
+  xinguem
+  xinguemos
+  xingues
+  Xingyang: pos=proper
+  xingzhongite: pos=noun
+  xingzhongites: pos=noun
+  Xing: pos=proper
+  xinh
+  Xinhua: pos=proper
+  xinich
+  xinidamine: pos=noun
+  Xining: pos=proper
+  xinisteri: pos=noun
+  Xinjiang: pos=proper
+  xinjiangchelyid: pos=noun
+  xinjiangchelyids: pos=noun
+  Xinjiangese: pos=adj
+  xinkwi
+  xinola
+  xinomavro: pos=noun
+  xinomavros: pos=noun
+  xinomiline: pos=noun
+  Xins: pos=proper
+  Xinshi: pos=proper
+  xinta
+  xintaba
+  xintabais
+  xintabeis
+  xintaben
+  xintabes
+  xintada
+  xintaes
+  xintamos
+  xintan
+  xintando
+  xintao
+  xintaos
+  xintar
+  xintara
+  xintarais
+  xintaran
+  xintaras
+  xintare
+  xintareis
+  xintaremos
+  xintaren
+  xintares
+  xintaron
+  xintas
+  xintasti
+  xintastis
+  xinte
+  xintemos
+  xinten
+  xintes
+  xintesti
+  xintestis
+  xinto
+  xintoisme
+  xintxke
+  xinxa
+  xinxes
+  xinxilla
+  xinxilles
+  Xinyang: pos=proper
+  Xinzhou: pos=proper
+  Xinzhu: pos=proper
+  Xin: pos=proper
+  xiong
+  Xiongnu
+  xiongnu
+  Xiongs: pos=proper
+  Xiong: pos=proper
+  xipamide: pos=noun
+  xipan
+  xipantu
+  xipapan
+  Xipaya: pos=proper
+  xipetz
+  xiphia
+  xiphiae
+  xiphial: pos=adj
+  xiphian
+  xiphiarum
+  xiphias: pos=noun
+  Xiphias: pos=proper
+  xiphidiocercaria: pos=noun
+  Xiphidiopicus
+  xiphihumeralis: pos=noun
+  xiphihumeralises: pos=noun
+  xiphii
+  xiphiid: pos=noun
+  Xiphiidae
+  xiphiids: pos=noun
+  xiphiis
+  xiphio
+  xiphioid: pos=[adj,noun]
+  xiphioids: pos=noun
+  xiphion
+  xiphiorum
+  xiphiplastra: pos=noun
+  xiphiplastral: pos=adj
+  xiphiplastron: pos=noun
+  xiphiplastrons: pos=noun
+  xiphisterna: pos=noun
+  xiphisternal: pos=adj
+  xiphisternum: pos=noun
+  xiphisternums: pos=noun
+  xipho
+  xiphocentronid: pos=noun
+  xiphocentronids: pos=noun
+  Xiphocolaptes
+  xiphocostal: pos=adj
+  Xiphodon
+  xiphodons: pos=noun
+  xiphodontid: pos=noun
+  xiphodontids: pos=noun
+  xiphodon: pos=noun
+  xiphodynia: pos=noun
+  xiphoi: pos=noun
+  xiphoid: pos=[adj,noun]
+  xiphoidal: pos=adj
+  xiphoidalgia: pos=noun
+  xiphoidea
+  xiphoideae
+  xiphoideam
+  xiphoidearum
+  xiphoideas
+  xiphoidee
+  xiphoidei
+  xiphoideis
+  xiphoideo
+  xiphoideorum
+  xiphoideos
+  xiphoideum
+  xiphoideus
+  xiphoidian: pos=adj
+  xiphoiditis: pos=noun
+  xiphoids: pos=noun
+  Xipholena
+  xiphonita
+  xiphonite: pos=noun
+  xiphopagi: pos=noun
+  xiphopagic: pos=adj
+  xiphopagous: pos=adj
+  xiphopagus: pos=[adj,noun]
+  xiphophore
+  xiphophores
+  xiphophorine: pos=adj
+  Xiphophorus
+  xiphophyllous: pos=adj
+  xiphopubic: pos=adj
+  Xiphorhynchus
+  xiphos: pos=noun
+  xiphosauran: pos=noun
+  xiphosaurans: pos=noun
+  xiphoses: pos=noun
+  xiphosternal: pos=adj
+  xiphosternalis
+  xiphosternum: pos=noun
+  Xiphosura
+  xiphosuran: pos=[noun,adj]
+  xiphosurans: pos=noun
+  xiphosure: pos=noun
+  xiphosures: pos=noun
+  xiphosurid: pos=noun
+  xiphosurids: pos=noun
+  xiphosurous: pos=adj
+  Xiphura
+  xiphydriid: pos=noun
+  xiphydriids: pos=noun
+  xipintontli
+  xipollegem
+  xipollegen
+  xipolleges
+  xipollegessin
+  xipollegessis
+  xipollegeu
+  xipollegi
+  xipollegin
+  xipollegis
+  xipolleig
+  xipolleigs
+  xipolleja
+  xipollejada
+  xipollejades
+  xipollejant
+  xipollejar
+  xipollejaran
+  xipollejarem
+  xipollejaren
+  xipollejares
+  xipollejareu
+  xipollejaria
+  xipollejarien
+  xipollejaries
+  xipollejat
+  xipollejats
+  xipollejava
+  xipollejaven
+  xipollejaves
+  xipollejo
+  xipranolol: pos=noun
+  Xipre
+  xipriota
+  xipriotes
+  xiqin: pos=noun
+  Xiquena
+  xiques
+  xiquet
+  xiquets
+  xiquipiltontli
+  xir: pos=det
+  xira
+  xirab
+  xiraba
+  xirabades
+  xirabamos
+  xiraban
+  xirabas
+  xirabtir
+  xiraches
+  xirade
+  xirades
+  xirado
+  xirafa
+  xirafas
+  xirafes
+  xiramos
+  xiran
+  xirando
+  xirar
+  xirara
+  xirarades
+  xiraramos
+  xiraran
+  xiraras
+  xirardes
+  xiraredes
+  xirarei
+  xiraremos
+  xiraren
+  xirares
+  xirariades
+  xirariamos
+  xirarmos
+  xiraron
+  xiras
+  xirase
+  xirasen
+  xirases
+  xirasois
+  xirasol
+  xirasoles
+  xirastes
+  Xiraz
+  Xirdalan: pos=proper
+  xire
+  xiredes
+  xirei
+  xiremos
+  xiren
+  xires
+  Xiri: pos=proper
+  xiriir
+  xiringa
+  xiringar
+  xiringas
+  xiri
+  xiro
+  xiroscopio
+  xirou
+  xirxirand
+  xirxirandibe
+  xirxirandibim
+  xirxirandibin
+  xirxirandin
+  xirxirandiye
+  xis: pos=noun
+  xisaab
+  xiscla
+  xisclada
+  xisclades
+  xisclant
+  xisclar
+  xisclaran
+  xisclarem
+  xisclaren
+  xisclares
+  xisclareu
+  xisclaria
+  xisclarien
+  xisclaries
+  xisclat
+  xisclats
+  xisclava
+  xisclaven
+  xisclaves
+  xiscle
+  xisclem
+  xisclen
+  xiscles
+  xisclessin
+  xisclessis
+  xiscleu
+  xiscli
+  xisclin
+  xisclis
+  xisclo
+  xishood
+  Xishuangbanna: pos=proper
+  Xishui: pos=proper
+  xistibim
+  xisto
+  xistorra
+  xistorres
+  xistos
+  Xis
+  XIs: pos=noun
+  xita
+  xitan
+  xitieshanite: pos=noun
+  xitla
+  xitomatl
+  Xitoy
+  Xitsonga: pos=proper
+  xituculumucumba
+  xituculumucumbas
+  xitulu
+  xitwa
+  xiu
+  xiucai: pos=noun
+  xiuhtlacuilo
+  xiuhtlahcuiloh
+  xiuhtlahcuilohqueh
+  xiuhtotonacoche
+  xiuhtotonacocheh
+  xiuhtotonacochtli
+  xiuhtototic
+  xiuhtototl
+  xiuitl
+  xiula
+  xiulada
+  xiulades
+  xiulant
+  xiular
+  xiularan
+  xiularem
+  xiularen
+  xiulares
+  xiulareu
+  xiularia
+  xiularien
+  xiularies
+  xiulat
+  xiulats
+  xiulava
+  xiulaven
+  xiulaves
+  xiulem
+  xiulen
+  xiules
+  xiulessin
+  xiulessis
+  xiuleu
+  xiuli
+  xiulin
+  xiulis
+  xiulo
+  xiuxiuegem
+  xiuxiuegen
+  xiuxiueges
+  xiuxiuegessin
+  xiuxiuegessis
+  xiuxiuegeu
+  xiuxiuegi
+  xiuxiuegin
+  xiuxiuegis
+  xiuxiueig
+  xiuxiueigs
+  xiuxiueja
+  xiuxiuejada
+  xiuxiuejades
+  xiuxiuejant
+  xiuxiuejar
+  xiuxiuejaran
+  xiuxiuejarem
+  xiuxiuejaren
+  xiuxiuejares
+  xiuxiuejareu
+  xiuxiuejaria
+  xiuxiuejarien
+  xiuxiuejaries
+  xiuxiuejat
+  xiuxiuejats
+  xiuxiuejava
+  xiuxiuejaven
+  xiuxiuejaves
+  xiuxiuejo
+  xiuxiuejos
+  XIV
+  Xiva
+  xivarri
+  xivarris
+  xiv
+  xiwe
+  XIX
+  xixa
+  xixas
+  xixell
+  xixella
+  xixelles
+  xixells
+  xixi
+  Xixianykus
+  Xixiasaurus
+  xixicuin
+  Xixime: pos=noun
+  Xiximes: pos=noun
+  Xixona
+  xixonesa
+  xixoneses
+  xixoneso
+  xixonesos
+  xix
+  xiyar
+  xiz
+  Xizang: pos=proper
+  xizangense
+  xizangensem
+  xizangenses
+  xizangensi
+  xizangensia
+  xizangensibus
+  xizangensis
+  xizangensium
+  XI: pos=noun
+  Xi: pos=[proper,noun]
+  xjaten
+  xjentifikament
+  xjentifiku
+  xjenza
+  XK
+  xkaan
+  xkohke
+  xkuk
+  xkupilja
+  xkwe
+  xkwikpiakw
+  XL: pos=[noun,adj]
+  xla
+  XLI
+  XLII
+  XLIII
+  XLink: pos=proper
+  XLIV
+  XLIX
+  xlnt: pos=adj
+  xlokk
+  xloroplast
+  xloych
+  XLV
+  XLVI
+  XLVII
+  XLVIII
+  xlvi
+  XM: pos=noun
+  XMA: pos=[noun,proper]
+  xmajjar
+  xmara
+  Xmas: pos=noun
+  Xmases: pos=noun
+  Xmassy: pos=adj
+  XMI: pos=proper
+  XML: pos=proper
+  XmlHTTP: pos=proper
+  xml
+  XMM: pos=[noun,proper]
+  XMP: pos=noun
+  XMPP: pos=proper
+  XMRV: pos=proper
+  XMS: pos=proper
+  XMs: pos=noun
+  Xmun
+  xmux
+  Xn
+  XNA: pos=[proper,noun]
+  XNAND: pos=noun
+  XNAs: pos=noun
+  XNAY
+  xnipec: pos=noun
+  XNOR: pos=noun
+  xo: pos=noun
+  xoa
+  xoana: pos=noun
+  xoang
+  xoanon: pos=noun
+  xoanons
+  xoay
+  xobin
+  xobula
+  xoc
+  xoca
+  xocada
+  xocades
+  xocant
+  xocar
+  xocaran
+  xocarem
+  xocaren
+  xocares
+  xocareu
+  xocaria
+  xocarien
+  xocaries
+  xocat
+  xocats
+  xocava
+  xocaven
+  xocaves
+  Xochapa: pos=proper
+  Xochicalcan: pos=adj
+  xochichinancalli
+  xochicualli
+  xochihcual
+  xochihcualcuahuitl
+  xochihcualcuauhtlah
+  xochihcualli
+  xochihua
+  xochili
+  xochilli
+  xochimicque
+  xochimicqueh
+  xochimicqui
+  Xochimilcan: pos=adj
+  Xochimilco
+  xochimilli
+  xochinacaztli: pos=noun
+  xochincuahuitl
+  xochinquauitl
+  xochio
+  xochipalli
+  xochiqualquauhtla
+  xochiqualquauitl
+  Xochistlahuaca: pos=proper
+  xochitl
+  xochiyoh
+  xoco
+  xocoatole
+  xococ
+  xocolata
+  xocolatada
+  xocolatades
+  xocolater
+  xocolatera
+  xocolateres
+  xocolateria
+  xocolateries
+  xocolaters
+  xocolates
+  xocolatina
+  xocolatines
+  xocomecatl
+  xocomecatlite: pos=noun
+  Xocomil: pos=proper
+  xoconochnohpalli
+  xoconochtli
+  xoconostle: pos=noun
+  xoconostles: pos=noun
+  xocotexxoh
+  xocotl
+  xocoyote
+  xocoyotes
+  xocoyotl
+  xocoyotzin
+  xocs
+  xocti
+  xoctli
+  xod
+  xodd
+  xoe
+  XOF
+  xofar
+  xofars
+  xofer
+  xofera
+  xoferes
+  xofers
+  XOFF: pos=noun
+  xoffa
+  xofftejn
+  xofre
+  xoga
+  xogaba
+  xogabades
+  xogabamos
+  xogaban
+  xogabas
+  xogabilidade
+  xogable
+  xogaches
+  xogade
+  xogades
+  xogado
+  xogador
+  xogadora
+  xogadoras
+  xogadores
+  xogamos
+  xogan
+  xogando
+  xogar
+  xogara
+  xogarades
+  xogaramos
+  xogaran
+  xogaras
+  xogardes
+  xogaredes
+  xogarei
+  xogaremos
+  xogaren
+  xogares
+  xogariades
+  xogariamos
+  xogarmos
+  xogaron
+  xogas
+  xogase
+  xogasen
+  xogases
+  xogastes
+  xoghi
+  xogli
+  xogo
+  xogos
+  xogou
+  xografia
+  xografie
+  xogral
+  xograr
+  xograres
+  xogue
+  xoguedes
+  xoguei
+  xoguemos
+  xoguen
+  xogues
+  xoguete
+  xoguetes
+  xogum
+  xogunato
+  xogunatos
+  xoh
+  xohnal
+  xoho
+  xohuilin
+  xoi
+  xoia
+  xoias
+  xoio
+  Xois
+  xojox
+  xok
+  xoka
+  xokitun
+  xoklate
+  Xokleng: pos=[noun,proper]
+  Xoklengs: pos=noun
+  xokotl
+  xokozela
+  xol
+  xola
+  xolahua
+  xolda
+  xolela
+  xolisa
+  xolla
+  xolly
+  Xolmis
+  Xolo: pos=noun
+  xoloa
+  xoloitzcuintle
+  xoloitzcuintles
+  Xoloitzcuintles: pos=noun
+  Xoloitzcuintle: pos=noun
+  Xoloitzcuintli: pos=noun
+  xoloitzcuintli
+  xolopihtli
+  xolopij
+  xolopijti
+  Xolos: pos=noun
+  xoloscuintle
+  xoloscuintles
+  xolos
+  xolotl
+  xoloto
+  xoloton
+  xolo
+  xomot
+  xompilelo
+  xomplelo
+  xomv
+  XON: pos=noun
+  xona
+  xonacatl
+  xonakatl
+  xonaltite: pos=noun
+  xonar
+  xone
+  xones
+  xong
+  xoni
+  xonotlite: pos=noun
+  xonq
+  xonta
+  xontar
+  xonte
+  xoo
+  xood
+  xoog
+  Xoogler: pos=noun
+  Xooglers: pos=noun
+  xook
+  xoong
+  xop
+  xopa
+  xopada
+  xopades
+  xopant
+  xopantlah
+  xopar
+  xoparan
+  xoparem
+  xoparen
+  xopares
+  xopareu
+  xoparia
+  xoparien
+  xoparies
+  xopat
+  xopats
+  xopava
+  xopaven
+  xopaves
+  xopem
+  xopen
+  xopepe
+  xopes
+  xopessin
+  xopessis
+  xopetz
+  xopeu
+  xopi
+  xopilchicuace
+  xopili
+  xopilin
+  xopin
+  xopis
+  xopo
+  xops
+  xoquem
+  xoquen
+  xoques
+  xoquessin
+  xoquessis
+  xoqueu
+  xoqui
+  xoquin
+  xoquis
+  xor: pos=[noun,con]
+  Xorazm
+  xorb
+  xorda
+  xordana
+  xordanas
+  Xordania
+  xordano
+  xordanos
+  xordas
+  xorde
+  xorden
+  xordes
+  xordo
+  xordos
+  xordu
+  XORed: pos=verb
+  XORing: pos=verb
+  xorn: pos=noun
+  xornada
+  xornades
+  xornaes
+  xornais
+  xornal
+  xornales
+  xornalismo
+  xornalista
+  xornalistas
+  xorns: pos=noun
+  xoro
+  xorob
+  xorom
+  xoromsa
+  xorphanol: pos=noun
+  xors: pos=noun
+  XORs: pos=verb
+  xort
+  xoruz
+  xoruzu
+  Xorvatiya
+  XOR: pos=[noun,verb]
+  Xosa: pos=noun
+  Xosas: pos=noun
+  Xosepe
+  xosta
+  xostra
+  xota
+  xotar
+  xotas
+  xote
+  xotes
+  xotin
+  xotla
+  xoto
+  xotsha
+  xou
+  xouba
+  xoujli
+  xous
+  xouucen
+  xova
+  xovane
+  xovani
+  xove
+  xoven
+  xovena
+  xovenco
+  xovencos
+  xovenes
+  xoveno
+  xovenos
+  xoves
+  xox
+  xoxa
+  xoxela
+  xoxo: pos=noun
+  xoxoctic
+  xoxohuic
+  xoxome
+  xoxota
+  xoxotla
+  xoxotlameh
+  xoxotlato
+  xoxotlaton
+  xoxoxo: pos=interj
+  xoyeros
+  xoyeru
+  xoyos
+  xoyu
+  xoz
+  xoza
+  XO: pos=[adj,noun]
+  XP: pos=[noun,proper]
+  xpasiticl
+  XPath: pos=proper
+  XPCOM
+  XPD
+  XPDL: pos=proper
+  Xpen
+  Xpendome
+  XPer: pos=noun
+  XPers: pos=noun
+  XPF
+  xpisatj
+  xpist
+  Xpisten
+  xpo
+  XPointer: pos=proper
+  xpost: pos=[noun,verb]
+  xposted: pos=verb
+  xposting: pos=verb
+  xposts: pos=[verb,noun]
+  xpr
+  XPS: pos=[proper,noun]
+  xpS
+  XPs: pos=noun
+  XPT
+  xpto
+  xpumuy
+  xq
+  XQs: pos=[verb,proper]
+  xqueet
+  XQuery: pos=proper
+  Xquic: pos=proper
+  XR: pos=noun
+  Xray: pos=noun
+  Xrays: pos=noun
+  XRCD: pos=noun
+  XRD: pos=noun
+  Xrd
+  XRF: pos=noun
+  Xrist
+  xristau
+  xristaus
+  xristu
+  xristus
+  xrochre
+  XRR: pos=noun
+  XS: pos=[noun,adj]
+  xsaqarik
+  XSD: pos=proper
+  XSL: pos=noun
+  XSLT: pos=proper
+  XSRF: pos=noun
+  XSRFs: pos=noun
+  XSS: pos=noun
+  Xstmas: pos=noun
+  XSU
+  Xs: pos=noun
+  xs: pos=noun
+  XT: pos=noun
+  xtal: pos=noun
+  xtals: pos=noun
+  xtaq
+  xtara
+  xtat
+  xtayn
+  XTC: pos=noun
+  xtc
+  xte
+  Xtian: pos=[adj,noun]
+  Xtianity: pos=noun
+  Xtians: pos=noun
+  xtieli
+  xtil
+  XTM: pos=noun
+  Xtmas: pos=noun
+  XTMs: pos=noun
+  xtok
+  Xtopher: pos=proper
+  xtr: pos=adj
+  XTS
+  Xty: pos=noun
+  xtyun
+  xt
+  xu: pos=noun
+  XUA
+  xuan
+  Xuanwu: pos=proper
+  Xuan
+  xua
+  xuba
+  xubana
+  xubha
+  xubila
+  xubilaba
+  xubilabais
+  xubilabeis
+  xubilaben
+  xubilabes
+  xubilaciones
+  xubilada
+  xubilaes
+  xubilamos
+  xubilan
+  xubilando
+  xubilao
+  xubilaos
+  xubilar
+  xubilara
+  xubilarais
+  xubilaran
+  xubilaras
+  xubilare
+  xubilareis
+  xubilaremos
+  xubilaren
+  xubilares
+  xubilaron
+  xubilas
+  xubilasti
+  xubilastis
+  xubile
+  xubilemos
+  xubilen
+  xubiles
+  xubilesti
+  xubilestis
+  xubileu
+  xubilo
+  xubir
+  xuboti
+  xuboto
+  xuchichinancalli
+  xuchil
+  xuchiqualli
+  xuchiqualquauhtla
+  xuchiqualquauitl
+  xuchitl
+  xuchiyo
+  xucla
+  xuclada
+  xuclades
+  xuclant
+  xuclar
+  xuclaran
+  xuclarem
+  xuclaren
+  xuclares
+  xuclareu
+  xuclaria
+  xuclarien
+  xuclaries
+  xuclat
+  xuclats
+  xuclava
+  xuclaven
+  xuclaves
+  xuclem
+  xuclen
+  xucles
+  xuclessin
+  xuclessis
+  xucleu
+  xucli
+  xuclin
+  xuclis
+  xuclo
+  xucra
+  xucras
+  xucro
+  xucros
+  xucrut
+  xucruts
+  xucuparaqua
+  xuda
+  xudahafiz
+  xudbin
+  xudeu
+  xudeus
+  xudiciais
+  xudicial
+  xudiciales
+  xudicializar
+  Xudit
+  Xudite
+  xue
+  xueces
+  Xueces
+  xuee
+  xuegos
+  xuegu
+  Xuereb: pos=proper
+  Xues: pos=proper
+  Xueshan: pos=proper
+  Xueta: pos=noun
+  xueta
+  Xuetes: pos=noun
+  xuetes
+  xueves
+  xuez
+  Xue: pos=proper
+  xuf
+  xufftejn
+  xufken
+  xugador
+  xugadore
+  xugadores
+  xugadori
+  xugar
+  xugare
+  xughi
+  xugo
+  xugos
+  xugu
+  xugular
+  xugulares
+  xui
+  xuicios
+  xuiciu
+  xuixo: pos=noun
+  xuixos: pos=noun
+  xujuu
+  xuk
+  xuku
+  xukun
+  xukuparhakua
+  xukur
+  xukuxa
+  xukvr
+  XUL: pos=proper
+  xuld
+  xulga
+  xulgaba
+  xulgabais
+  xulgabeis
+  xulgaben
+  xulgabes
+  xulgada
+  xulgaes
+  xulgamos
+  xulgan
+  xulgando
+  xulgao
+  xulgaos
+  xulgar
+  xulgara
+  xulgarais
+  xulgaran
+  xulgaras
+  xulgare
+  xulgareis
+  xulgaremos
+  xulgaren
+  xulgares
+  xulgaron
+  xulgas
+  xulgasti
+  xulgastis
+  xulgo
+  xulgue
+  xulguemos
+  xulguen
+  xulgues
+  xulguesti
+  xulguestis
+  Xulia
+  xulietl
+  xulio
+  xulios
+  xuliu
+  xulixuli
+  xullo
+  xulu
+  xumer
+  xun: pos=noun
+  xunco
+  xuncos
+  xunetos
+  xunetu
+  xung
+  xungla
+  xungles
+  xunguir
+  xuniones
+  xunkth
+  xunos
+  xunque
+  xunques
+  xuns: pos=noun
+  xunta
+  xuntaba
+  xuntabades
+  xuntabamos
+  xuntaban
+  xuntabas
+  xuntaches
+  xuntade
+  xuntades
+  xuntado
+  xuntamos
+  xuntan
+  xuntando
+  xuntar
+  xuntara
+  xuntarades
+  xuntaramos
+  xuntaran
+  xuntaras
+  xuntardes
+  xuntaredes
+  xuntarei
+  xuntaremos
+  xuntaren
+  xuntares
+  xuntariades
+  xuntariamos
+  xuntarmos
+  xuntaron
+  xuntas
+  xuntase
+  xuntasen
+  xuntases
+  xuntastes
+  xunte
+  xuntedes
+  xuntei
+  xuntemos
+  xunten
+  xuntes
+  xunto
+  xuntos
+  xuntou
+  xuntu
+  xunu
+  xuphi
+  xur
+  xura
+  xuraba
+  xurabais
+  xurabeis
+  xuraben
+  xurabes
+  xurada
+  xuraes
+  xurakta
+  xuramentos
+  xuramentu
+  xuramos
+  xuran
+  xurando
+  xurao
+  xuraos
+  xurar
+  xurara
+  xurarais
+  xuraran
+  xuraras
+  xurare
+  xurareis
+  xuraremos
+  xuraren
+  xurares
+  xuraron
+  xuras
+  xurasti
+  xurastis
+  xurata
+  xuratas
+  xurban
+  xurda
+  xurdades
+  xurdamos
+  xurdan
+  xurdas
+  xurde
+  Xurde
+  xurdiades
+  xurdiamos
+  xurdiches
+  xurdide
+  xurdides
+  xurdido
+  xurdimos
+  xurdindo
+  xurdir
+  xurdira
+  xurdirades
+  xurdiramos
+  xurdiran
+  xurdiras
+  xurdirdes
+  xurdiredes
+  xurdirei
+  xurdiremos
+  xurdiren
+  xurdires
+  xurdiriades
+  xurdiriamos
+  xurdirmos
+  xurdiron
+  xurdise
+  xurdisen
+  xurdises
+  xurdistes
+  xurdiu
+  xurdo
+  xure
+  xurelo
+  xuremos
+  xuren
+  xures
+  xuresti
+  xurestis
+  xurgagailu
+  xurhata
+  xuri
+  xurista
+  xuristas
+  xurma
+  xurmes
+  xuro
+  xuros
+  xurreira
+  xurreria
+  xurreries
+  xurro
+  xurros
+  xuru
+  xurum
+  xurumbambo
+  xurumbambos
+  Xurxo
+  Xus: pos=proper
+  xusta
+  xustamente
+  xustapomos
+  xustapon
+  xustaponde
+  xustapondes
+  xustapondo
+  xustapordes
+  xustaporedes
+  xustaporei
+  xustaporemos
+  xustaporen
+  xustapores
+  xustaporiades
+  xustaporiamos
+  xustapormos
+  xustapos
+  xustaposto
+  xustapuxeches
+  xustapuxemos
+  xustapuxen
+  xustapuxer
+  xustapuxera
+  xustapuxerades
+  xustapuxeramos
+  xustapuxeran
+  xustapuxeras
+  xustapuxerdes
+  xustapuxeren
+  xustapuxeres
+  xustapuxermos
+  xustapuxeron
+  xustapuxese
+  xustapuxesen
+  xustapuxeses
+  xustapuxestes
+  xustapuxo
+  xustas
+  xusteces
+  xustes
+  xusteza
+  xusticia
+  xusticies
+  xustificable
+  xustificar
+  xustiza
+  xusto
+  xustos
+  xustu
+  xus: pos=noun
+  xut
+  xuta
+  xutada
+  xutades
+  xutant
+  xutar
+  xutaran
+  xutarem
+  xutaren
+  xutares
+  xutareu
+  xutaria
+  xutarien
+  xutaries
+  xutat
+  xutats
+  xutava
+  xutaven
+  xutaves
+  xutem
+  xuten
+  xutes
+  xutessin
+  xutessis
+  xuteu
+  Xuthus: pos=proper
+  xuti
+  xutin
+  xutis
+  Xutixtiox
+  xuto
+  xuts
+  xutyilel
+  xuul
+  xuull
+  XUV: pos=noun
+  xuval
+  xuventude
+  xuventudes
+  xux
+  xuxe
+  xuxo: pos=noun
+  xuxos: pos=noun
+  xuxu
+  xuxus
+  xuygu
+  xuyun
+  xuzgar
+  Xuzhou: pos=proper
+  Xu: pos=proper
+  XV
+  xvfon
+  xvgkvr
+  XVI
+  XVII
+  XVIII
+  xviii
+  XVIIJ
+  xvii
+  xvi
+  xvlke
+  xvna
+  xv
+  xw
+  xwa
+  xwalxwal
+  xwar
+  xwarbar
+  xwardin
+  xwaribim
+  xwarin
+  xwaringeh
+  xwas
+  xwaskwus
+  xwaya
+  xwayisa
+  xwegir
+  xweitl
+  xwen
+  xwend
+  xwenda
+  xwendekar
+  xwendevan
+  xwendin
+  xwendingeh
+  xwerist
+  xweser
+  xwestin
+  xwestok
+  xweza
+  xwezanas
+  xwfw
+  XWT: pos=proper
+  xwtl
+  xwx
+  XX
+  xxape
+  xxeko
+  XXI
+  XXII
+  XXIII
+  xxiii
+  xxii
+  XXIV
+  xxiv
+  XXIX
+  xxi
+  XXL: pos=[noun,adj]
+  XXO
+  xxoo
+  XXOs
+  xxo
+  XXS: pos=[noun,adj]
+  xxudleko
+  XXV
+  XXVI
+  XXVII
+  XXVIII
+  xxvii
+  XXX: pos=[adj,verb,noun]
+  XXXed: pos=verb
+  XXXes: pos=verb
+  XXXI
+  XXXII
+  XXXIII
+  XXXing: pos=verb
+  XXXIV
+  XXXIX
+  XXXL: pos=[noun,adj]
+  XXXs: pos=verb
+  XXXV
+  XXXVI
+  XXXVII
+  XXXVIII
+  xxxvii
+  XXXX: pos=[proper,adjective]
+  xxx: pos=noun
+  XXY: pos=adjective
+  xx
+  XY: pos=proper
+  xya
+  xyektli
+  xyelid: pos=noun
+  xyelids: pos=noun
+  xylacine: pos=noun
+  xylaloe: pos=noun
+  xylaloes: pos=noun
+  xylamide: pos=noun
+  xylan: pos=noun
+  xylanase: pos=noun
+  xylanases: pos=noun
+  xylani
+  xylanisolvens
+  xylano
+  xylanohydrolase: pos=noun
+  xylanohydrolases: pos=noun
+  xylanolysis: pos=noun
+  xylanolytic: pos=adj
+  xylanolytica
+  xylanolyticae
+  xylanolyticam
+  xylanolyticarum
+  xylanolyticas
+  xylanolytice
+  xylanolytici
+  xylanolyticis
+  xylanolytico
+  xylanolyticorum
+  xylanolyticos
+  xylanolyticum
+  xylanolyticus
+  xylanovorans
+  xylanovorantem
+  xylanovorantes
+  xylanovoranti
+  xylanovorantia
+  xylanovorantibus
+  xylanovorantis
+  xylanovorantium
+  xylans: pos=noun
+  xylanthrax: pos=noun
+  xylarate: pos=noun
+  xylarates: pos=noun
+  xylariaceous: pos=adj
+  xylarium: pos=noun
+  xylary: pos=adj
+  xylate: pos=noun
+  xylates: pos=noun
+  xylazil: pos=noun
+  xylazine: pos=noun
+  xylazole: pos=noun
+  xyleem
+  xylem: pos=noun
+  xylema
+  Xyleme
+  Xylemen
+  xylemic: pos=adj
+  xylemless: pos=adj
+  xylemlike: pos=adj
+  xylems: pos=noun
+  Xylems
+  Xylem
+  xylen
+  xylene: pos=noun
+  xylenes: pos=noun
+  xylenol: pos=noun
+  Xylenolorange
+  Xylenoloranges
+  xylenols: pos=noun
+  xylenyl: pos=noun
+  Xyleutes
+  xylharmonicon
+  xylharmonicons
+  xylic: pos=adj
+  xylicole
+  xylicoles
+  xylicolous: pos=adj
+  xylidic: pos=adj
+  xylidin: pos=noun
+  xylidine: pos=noun
+  xylidines: pos=noun
+  xylidins: pos=noun
+  xylina
+  xylindein: pos=noun
+  xylini
+  xylinis
+  xylino
+  xylinorum
+  xylinum
+  xylique
+  xyliques
+  xylite: pos=noun
+  xylites: pos=noun
+  xylitol: pos=noun
+  xylitoles
+  Xylitols
+  xylitols: pos=noun
+  Xylitol
+  xylitone: pos=noun
+  xylitones: pos=noun
+  xylivorous: pos=adj
+  xylo: pos=noun
+  xylobalsama
+  xylobalsami
+  xylobalsamis
+  xylobalsamo
+  xylobalsamorum
+  xylobalsamum: pos=noun
+  xylobiose: pos=noun
+  xylobioses: pos=noun
+  xylobiotic: pos=adj
+  Xylobolus
+  xylocain: pos=noun
+  xylocaine: pos=noun
+  xylocarp: pos=noun
+  xylocarpous: pos=adj
+  xylocarps: pos=noun
+  xylocassia
+  xylocassiae
+  xylocassiam
+  xylocassiarum
+  xylocassias
+  xylocassiis
+  xylochemistry: pos=noun
+  xylochimie
+  xylochimies
+  xylochrome: pos=noun
+  xylochromes: pos=noun
+  xylocinnamoma
+  xylocinnamomi
+  xylocinnamomis
+  xylocinnamomo
+  xylocinnamomorum
+  xylocinnamomum
+  Xylocopa
+  xylocopid: pos=noun
+  xylocopids: pos=noun
+  xylocopine: pos=adj
+  xylocoumarol: pos=noun
+  xylocryptite
+  xylocryptites
+  xyloculture
+  xylocultures
+  xylodextrin: pos=noun
+  xylodextrins: pos=noun
+  xylodie
+  xylodies
+  xylofer
+  xylofers
+  xylofobia
+  xylofobie
+  xylofon
+  xylofonane
+  xylofonar
+  Xylofone
+  xylofonen
+  xylofonene
+  xylofonens
+  Xylofonen
+  xylofoner
+  xylofonerna
+  xylofonernas
+  xylofonerne
+  xylofoners
+  xylofons
+  Xylofons
+  Xylofon
+  xylofoon
+  xylofoons
+  xylofoontje
+  xylofoontjes
+  xylofucogalactan: pos=noun
+  xylofucoglucuronan: pos=noun
+  xylofucoglycuronan: pos=noun
+  xylofucoglycuronans: pos=noun
+  xylofucomannan: pos=noun
+  xylofuranose: pos=noun
+  xylofuranoses: pos=noun
+  xylofuranoside: pos=noun
+  xylofuranosides: pos=noun
+  xylogalactan: pos=noun
+  xylogalactans: pos=noun
+  xylogalacturonan: pos=noun
+  xylogalacturonans: pos=noun
+  xylogalacturonase: pos=noun
+  xylogalacturonases: pos=noun
+  xylogen: pos=noun
+  xylogenesis: pos=noun
+  xylogenetic: pos=adj
+  xylogenic: pos=adj
+  xylogenous: pos=adj
+  xyloglossie
+  xyloglossies
+  xyloglucan: pos=noun
+  xyloglucanase: pos=noun
+  xyloglucanases: pos=noun
+  xyloglucans: pos=noun
+  xyloglucoside: pos=noun
+  xyloglucosyl: pos=adj
+  xyloglyphy: pos=noun
+  xylograf
+  xylografia
+  xylografie
+  xylografisch
+  xylografische
+  xylografischem
+  xylografischen
+  xylografischer
+  xylografisches
+  xylograph: pos=[noun,verb]
+  xylographe
+  xylographed: pos=verb
+  xylographer: pos=noun
+  xylographers: pos=noun
+  xylographes
+  xylographic: pos=adj
+  xylographical: pos=adjective
+  xylographically: pos=adv
+  xylographie
+  xylographies: pos=noun
+  xylographing: pos=verb
+  xylographique
+  xylographiques
+  xylographisch
+  xylographische
+  xylographischem
+  xylographischen
+  xylographischer
+  xylographisches
+  xylographs: pos=noun
+  xylography: pos=noun
+  xyloheptaose: pos=noun
+  xylohexaose: pos=noun
+  xylohexaoses: pos=noun
+  xylohexoside: pos=noun
+  xylohydroquinone: pos=noun
+  xylohydroquinones: pos=noun
+  xyloid: pos=adj
+  xyloidin: pos=noun
+  xyloidine: pos=noun
+  xyloidines: pos=noun
+  xyloidins: pos=noun
+  xyloidone: pos=noun
+  Xylokastro: pos=proper
+  Xylokastron: pos=proper
+  xyloketal: pos=noun
+  xyloketals: pos=noun
+  xyloketose: pos=noun
+  xylol: pos=noun
+  xylolalie
+  xylolalies
+  xyloliet
+  xylolite: pos=noun
+  xylolites: pos=noun
+  xylolithe
+  xylolithes
+  xylological: pos=adj
+  xylologie
+  xylologist: pos=noun
+  xylologists: pos=noun
+  xylologue
+  xylologues
+  xylology: pos=noun
+  xylols: pos=noun
+  xyloma: pos=noun
+  xylomancy: pos=noun
+  xylomannan: pos=noun
+  xylomannans: pos=noun
+  xylomarimba: pos=noun
+  xylomarimbas: pos=noun
+  xylomas: pos=noun
+  xylomata: pos=noun
+  xylometazoline: pos=noun
+  xylometer: pos=noun
+  xylometers: pos=noun
+  xylomethazoline: pos=noun
+  xylometric: pos=adj
+  xylometry: pos=noun
+  xylomycetophagous: pos=adj
+  xylomyid: pos=noun
+  xylomyids: pos=noun
+  xylon: pos=noun
+  xylonate: pos=noun
+  xylonates: pos=noun
+  xylonic: pos=adj
+  xylonide
+  xylonides
+  xylonite: pos=noun
+  xylonites: pos=noun
+  xylonolactonase: pos=noun
+  xylonolactonases: pos=noun
+  xylonolactone: pos=noun
+  xylonolactones: pos=noun
+  xylons
+  xylooligomer: pos=noun
+  xylooligomers: pos=noun
+  xylooligosaccharide: pos=noun
+  xylooligosaccharides: pos=noun
+  xylopale
+  xylopales
+  xylopentaose: pos=noun
+  xylopentaoses: pos=noun
+  xylopentaxophile
+  xylopentaxophiles
+  xylopentose: pos=noun
+  Xylophaga
+  xylophagan: pos=noun
+  xylophagans: pos=noun
+  xylophage: pos=noun
+  xylophages: pos=noun
+  xylophagia: pos=noun
+  xylophagic: pos=adj
+  xylophagid: pos=noun
+  Xylophagidae
+  xylophagids: pos=noun
+  xylophagie
+  xylophagies
+  xylophagous: pos=adj
+  xylophagy: pos=noun
+  xylophene: pos=noun
+  xylophilous: pos=adj
+  xylophobia: pos=noun
+  Xylophon
+  xylophone: pos=[noun,verb]
+  xylophoned: pos=verb
+  xylophonelike: pos=adj
+  Xylophonen
+  xylophones: pos=[noun,verb]
+  Xylophone
+  xylophonic: pos=adj
+  xylophonically: pos=adv
+  xylophoning: pos=[noun,verb]
+  xylophonist: pos=noun
+  xylophoniste
+  xylophonistes
+  xylophonists: pos=noun
+  Xylophons
+  xylophyta
+  xylophyte: pos=noun
+  xylophytes: pos=noun
+  xylophyti
+  xylophytic: pos=adj
+  xylophytis
+  xylophyto
+  xylophytorum
+  xylophytum
+  Xylopia
+  xylopias: pos=noun
+  xylopia: pos=noun
+  xylopie
+  xylopies
+  xyloplastic: pos=adj
+  Xylopolis
+  xylopolysaccharide: pos=noun
+  xylopolysaccharides: pos=noun
+  xylopyranose: pos=noun
+  xylopyranoses: pos=noun
+  xylopyranoside: pos=noun
+  xylopyranosides: pos=noun
+  xylopyranosyl: pos=noun
+  xylopyranosyls: pos=noun
+  xylopyrography: pos=noun
+  xyloquinone: pos=noun
+  xyloquinones: pos=noun
+  xylorcin: pos=noun
+  xyloretinite: pos=noun
+  xylorimba: pos=noun
+  xylorimbas: pos=noun
+  xylorimbist: pos=noun
+  xylorimbists: pos=noun
+  xylorutinoside: pos=noun
+  xylorutinosides: pos=noun
+  xyloryctid: pos=noun
+  xyloryctids: pos=noun
+  xylos: pos=noun
+  xylosaccharide: pos=noun
+  xylosaccharides: pos=noun
+  xylosan: pos=noun
+  xylosans: pos=noun
+  xylose: pos=noun
+  xyloses: pos=noun
+  Xylose
+  xylosidase: pos=noun
+  xylosidases: pos=noun
+  xyloside: pos=noun
+  xylosides: pos=noun
+  xylosidic: pos=adj
+  xylosma: pos=noun
+  xylosmas: pos=noun
+  Xylosma
+  xylostein: pos=noun
+  xylostome
+  xylostomes
+  xylostroma: pos=noun
+  xylostromata: pos=noun
+  xylostyptic: pos=adj
+  xylosyl: pos=noun
+  xylosylate: pos=verb
+  xylosylated: pos=verb
+  xylosylates: pos=verb
+  xylosylating: pos=verb
+  xylosylation: pos=noun
+  xylosylations: pos=noun
+  xylosylfructose: pos=noun
+  xylosylfructoside: pos=noun
+  xylosylfructosides: pos=noun
+  xylosylprotein: pos=noun
+  xylosylproteins: pos=noun
+  xylosyltransferase: pos=noun
+  xylosyltransferases: pos=noun
+  xylotetraose: pos=noun
+  xylotetraoses: pos=noun
+  xylotetrose: pos=noun
+  xylotheque: pos=noun
+  xylotheques: pos=noun
+  xylotherapy: pos=noun
+  xylotomic: pos=adj
+  xylotomically: pos=adv
+  xylotomist: pos=noun
+  xylotomists: pos=noun
+  xylotomous: pos=adj
+  xylotomy: pos=noun
+  xylotriose: pos=noun
+  xylotrioses: pos=noun
+  xylotrophic: pos=adj
+  xylotrophy: pos=noun
+  Xylotrya
+  xylotype: pos=noun
+  xylotypes: pos=noun
+  xylotypographic: pos=adj
+  xylotypography: pos=noun
+  xylovore: pos=noun
+  xylovores: pos=noun
+  xyloxemine: pos=noun
+  xylulokinase: pos=noun
+  xylulokinases: pos=noun
+  xylulose: pos=noun
+  xyluloses: pos=noun
+  xylyl: pos=noun
+  xylylene: pos=noun
+  xylylenes: pos=noun
+  xylyls: pos=noun
+  Xyniae
+  xynisteri: pos=noun
+  xynistery: pos=noun
+  xynomavro
+  xynomyzithra: pos=noun
+  xyoo
+  xyoos
+  Xypete
+  xyr: pos=det
+  Xyrichtys
+  xyrid: pos=noun
+  Xyridaceae
+  xyridaceous: pos=adj
+  Xyridales
+  xyrids: pos=noun
+  Xyris
+  xyrises: pos=noun
+  xyris: pos=noun
+  xyrophilic: pos=adj
+  xyrophobia
+  xyrophobic: pos=adj
+  xyrospasm: pos=noun
+  xyrs
+  xyrself: pos=pron
+  xysma: pos=noun
+  Xysmalobium
+  xysmalogenin: pos=noun
+  xysmalorin: pos=noun
+  xyst: pos=noun
+  xysta: pos=noun
+  xystarch: pos=noun
+  xystarchae
+  xystarcharum
+  xystarchas
+  xystarche
+  xystarchen
+  xystarches
+  xystarchis
+  xystarchs: pos=noun
+  xyste
+  xyster: pos=noun
+  xysters: pos=noun
+  xystes
+  xysti: pos=noun
+  xystice
+  xystici
+  xysticis
+  xystico
+  xysticorum
+  xysticos
+  xysticum
+  xysticus
+  xystis
+  xysto
+  xystodesmid: pos=noun
+  xystodesmids: pos=noun
+  xystoi: pos=noun
+  xyston: pos=noun
+  xystons: pos=noun
+  xystorum
+  xystos: pos=noun
+  xystra
+  xysts: pos=noun
+  xystum: pos=noun
+  xystus: pos=noun
+  XYZ: pos=noun
+  xyzzy: pos=noun
+  Xzavier: pos=proper
+  xzero
+  x: pos=[adjective,con]
+  y: pos=[noun,adv]
+  ya: pos=[pron,interj,adv,interjection,det,noun]
+  yaa: pos=noun
+  yaaas: pos=interjection
+  yaaay: pos=interjection
+  yaab
+  yaac
+  yaadawata
+  yaadha
+  yaadi
+  yaagana
+  Yaahr
+  Yaahre
+  Yaahreszeide
+  Yaahreszeit
+  Yaakov: pos=proper
+  Yaaku: pos=proper
+  yaaku
+  yaal
+  yaala
+  yaama
+  yaamgask
+  yaamur
+  yaang
+  yaani
+  yaar: pos=noun
+  yaars: pos=noun
+  yaas: pos=noun
+  yaassiigek
+  yaassiik
+  yaatui
+  yaawa
+  yaawi
+  yaax
+  yaaya
+  yaba
+  yabaa
+  yabag
+  yabai
+  Yaban
+  yabang
+  yabangan
+  yaban
+  yabat
+  Yabataikoku
+  yabatan
+  yabba: pos=noun
+  yabbas: pos=noun
+  yabber: pos=verb
+  yabbered: pos=verb
+  yabbering: pos=verb
+  yabbers: pos=verb
+  yabbie: pos=noun
+  yabbied: pos=verb
+  yabbies: pos=noun
+  yabbo: pos=noun
+  yabbos: pos=noun
+  yabbut: pos=[cont,noun]
+  yabbuts: pos=noun
+  yabby: pos=[noun,verb]
+  yabbying: pos=verb
+  yabe
+  yabem
+  Yabes
+  Yabgu
+  yabi
+  yabil
+  yabili
+  Yabim: pos=[noun,proper]
+  Yabims: pos=noun
+  yable
+  yables
+  yabo
+  yabok
+  yabon
+  yabong
+  yabongyabong
+  yaboo: pos=noun
+  yaboos: pos=noun
+  yaboy
+  yaboys
+  yabti
+  yabu: pos=noun
+  yabuku
+  yabula
+  yaburu
+  yabusame: pos=noun
+  Yabut: pos=proper
+  Yabuts: pos=proper
+  Yabu
+  yabyab
+  yac
+  yaca
+  yacacuitlatl
+  yacacuitle
+  yacacuitleh
+  yacametl
+  yacare: pos=noun
+  yacares: pos=noun
+  yacas
+  yacatl
+  yacatotonaton
+  yacatzompilli
+  yacaxihuitl
+  yacaxiuitl
+  yacca: pos=noun
+  yaccas: pos=noun
+  yace
+  yaced
+  yacemos
+  yacen
+  yacente
+  yacentes
+  yacer
+  yaceremos
+  yaces
+  yach
+  yachachikuq
+  yachachiq
+  yachachiy
+  yachak
+  yachakuq
+  yachakuy
+  yachay
+  yachaysapa
+  yachaywasi
+  yachin
+  yachmak
+  yachmaks
+  yacht: pos=[noun,verb]
+  yachtane
+  yachtar
+  yachtboard: pos=adj
+  yachted: pos=verb
+  Yachten
+  yachtene
+  yachtens
+  yachten
+  yachter: pos=noun
+  yachterna
+  yachternas
+  yachters: pos=noun
+  yachtful: pos=noun
+  yachtfuls: pos=noun
+  yachtie: pos=noun
+  yachtier
+  yachties: pos=noun
+  yachtiest
+  yachting: pos=[verb,noun]
+  yachtings: pos=noun
+  yachtless: pos=adj
+  yachtlike: pos=adj
+  yachtman: pos=noun
+  yachtmans
+  yachtmanship: pos=noun
+  yachtmen: pos=noun
+  yachts: pos=[noun,verb]
+  yachtsfolk
+  yachtsful: pos=noun
+  yachtsman: pos=noun
+  yachtsmans
+  yachtsmanship: pos=noun
+  yachtsmanships: pos=noun
+  yachtsmen: pos=noun
+  yachtspeople: pos=noun
+  yachtsperson: pos=noun
+  yachtspersons: pos=noun
+  yachtswoman: pos=noun
+  yachtswomans
+  yachtswomen: pos=noun
+  yachtwoman
+  yachtwomans
+  yachtwomen
+  yachty: pos=[noun,adj]
+  Yacht
+  yacida
+  yacidas
+  yacido
+  yacidos
+  yaciendo
+  yaciente
+  yacientes
+  yaciera
+  yacierais
+  yacieran
+  yacieras
+  yaciere
+  yaciereis
+  yacieren
+  yacieres
+  yacieron
+  yaciese
+  yacieseis
+  yaciesen
+  yacieses
+  yacigia
+  yacigias
+  yacigio
+  yacigios
+  yacija
+  yacijas
+  yacimiento
+  yacimientos
+  yacimos
+  Yacinthe
+  yaciste
+  yacisteis
+  yack: pos=[noun,verb]
+  Yackarabul: pos=proper
+  yacked: pos=verb
+  yacker: pos=noun
+  yackers: pos=noun
+  yackety: pos=adj
+  yackier
+  yackiers
+  yacking: pos=verb
+  yacks: pos=[noun,verb]
+  yacon: pos=noun
+  Yacoub: pos=proper
+  Yacoubian: pos=proper
+  Yacoubs: pos=proper
+  Yacouh
+  yacs
+  yacti
+  yacuyacu
+  yad: pos=noun
+  yadakadu
+  yadanawi
+  Yadao: pos=proper
+  Yadaos: pos=proper
+  Yadav: pos=noun
+  Yadava
+  Yadavs: pos=[noun,proper]
+  yadda: pos=[interj,noun]
+  yaddan
+  yaddas: pos=noun
+  yadha
+  yadi
+  Yadiel: pos=proper
+  yadim: pos=noun
+  Yadkin: pos=proper
+  Yadkinville: pos=proper
+  yadnya: pos=noun
+  yadnyas: pos=noun
+  yadokari
+  Yadon: pos=proper
+  Yadons: pos=proper
+  yadorigi
+  yadoya
+  yadplanetli
+  yadre
+  yads: pos=noun
+  yadu: pos=noun
+  yadunu
+  yadus: pos=noun
+  yadza
+  yadzisa
+  yadzuluka
+  yae: pos=noun
+  yaed
+  Yaeger: pos=proper
+  Yaegers: pos=proper
+  Yaeko: pos=proper
+  yaekseiz
+  Yael: pos=proper
+  yaem
+  yaemere
+  yaes: pos=noun
+  yaeuh
+  yaeuj
+  Yaeyama
+  yaeyamense
+  yaeyamensem
+  yaeyamenses
+  yaeyamensi
+  yaeyamensia
+  yaeyamensibus
+  yaeyamensis
+  yaeyamensium
+  yaf
+  yaff: pos=verb
+  Yaffe: pos=proper
+  Yaffes: pos=proper
+  yaffingale: pos=noun
+  yaffingales: pos=noun
+  yaffle: pos=[noun,verb]
+  yaffler: pos=noun
+  yafflers: pos=noun
+  yaffles: pos=[noun,verb]
+  yafkan
+  Yafo: pos=proper
+  yafraq
+  yafsoanite: pos=noun
+  yafuru
+  YAG: pos=noun
+  yaga
+  yagaay
+  yagadom
+  yagadoms
+  yagamos
+  yagan
+  yagana
+  yaganas
+  yaganes
+  yagang
+  yagans
+  Yagar: pos=proper
+  Yagara: pos=proper
+  yagara
+  Yagarr: pos=proper
+  yagarr
+  yagaru
+  yagar
+  yagas
+  yagate
+  yagayaga
+  yagayagai
+  yagban
+  yage: pos=noun
+  yager: pos=noun
+  yagers: pos=noun
+  Yagers: pos=proper
+  Yager: pos=proper
+  yagger: pos=noun
+  Yaggera: pos=proper
+  yaggera
+  yaggers: pos=noun
+  yagh
+  Yaghnobi: pos=[noun,proper]
+  yaghnobi
+  Yaghoubian: pos=proper
+  yaghourt: pos=noun
+  yagi: pos=noun
+  yagid
+  yagiite: pos=noun
+  yagis: pos=noun
+  yagit
+  Yagi: pos=proper
+  yagkaw
+  yagna: pos=noun
+  yagnas: pos=noun
+  YAGNI: pos=noun
+  Yagnobi: pos=[noun,proper]
+  yagnya: pos=noun
+  yagnyas: pos=noun
+  yago
+  yagomgom
+  yagona: pos=noun
+  yagonas: pos=noun
+  yagong
+  yagouarondi: pos=noun
+  yagouaroundi: pos=noun
+  yagouarundi: pos=noun
+  Yago
+  yagpag
+  yagruma
+  yagrumas
+  yagrumo
+  yagrumos
+  YAGs: pos=noun
+  yags
+  yagtan
+  yagtans
+  yagu
+  yagua
+  yaguajayense
+  yaguajayenses
+  yaguarlocro
+  yaguarlocros
+  yaguarondi: pos=noun
+  yaguarondis: pos=noun
+  yaguarundi: pos=noun
+  yaguarundis: pos=noun
+  yaguas
+  yaguasa
+  yaguasas
+  yaguayajense
+  yaguayajenses
+  Yaguchi: pos=proper
+  yagumyom
+  yagura: pos=noun
+  yaguranage: pos=noun
+  yaguy
+  yagya: pos=noun
+  yagyag
+  Yagyagan
+  yagyas: pos=noun
+  yag
+  yah: pos=[adv,intj,noun,pron]
+  yaha
+  Yahannam
+  yahari
+  yahat
+  yahaw
+  yahaya
+  Yahbulon: pos=proper
+  yahen
+  Yahir: pos=proper
+  yahlula
+  yahmaiq
+  Yahn: pos=proper
+  Yahns: pos=proper
+  yahod
+  yahong
+  yahoo: pos=[noun,interj,verb]
+  yahooed: pos=verb
+  yahooing: pos=verb
+  yahooism: pos=noun
+  yahooisms: pos=noun
+  yahoos: pos=noun
+  Yahoos: pos=[noun,verb]
+  Yahoo: pos=[noun,verb]
+  yahourt
+  yahourts
+  yahrtzeit: pos=noun
+  yahrtzeits: pos=noun
+  yahrzeit: pos=noun
+  yahrzeits: pos=noun
+  yahs: pos=noun
+  Yahtzee: pos=[proper,noun]
+  Yahtzees: pos=noun
+  Yahu: pos=proper
+  yahua
+  yahuanti
+  yahuarlocro
+  yahuasca
+  yahuascas
+  Yahudi: pos=noun
+  Yahudide
+  Yahudiden
+  Yahudiler
+  Yahudilerde
+  Yahudilerden
+  Yahudilere
+  Yahudileri
+  Yahudilerin
+  Yahudilik
+  Yahudinin
+  Yahudis: pos=noun
+  Yahudiye
+  Yahudiyi
+  yahut
+  Yahuwah: pos=proper
+  Yahve: pos=proper
+  Yahveh: pos=proper
+  Yahvist: pos=noun
+  yahvista
+  yahvistas
+  Yahvists: pos=noun
+  Yahwe: pos=proper
+  Yahweh: pos=proper
+  Yahwehist: pos=noun
+  Yahwehists: pos=noun
+  Yahwism: pos=noun
+  Yahwist: pos=[noun,adj]
+  Yahwists: pos=noun
+  Yahya: pos=proper
+  Yah: pos=proper
+  yai
+  yaiba
+  yaicha
+  yaichuma
+  Yailaq: pos=proper
+  Yailombo: pos=proper
+  yaina
+  yainas
+  Yainville
+  Yair: pos=proper
+  yaird: pos=noun
+  yairds: pos=noun
+  yaire
+  yairs
+  yair: pos=noun
+  yaisi
+  yaitkor
+  yaja
+  yaji
+  yajibuka
+  yajiri
+  yajiuma
+  yajkana
+  yajna: pos=noun
+  yajnas: pos=noun
+  yajtikini
+  Yajurveda: pos=proper
+  Yajurvedi: pos=proper
+  Yajurvedis: pos=proper
+  yak: pos=[noun,verb]
+  yaka
+  yakag
+  yakagan
+  yakai
+  yakal: pos=noun
+  yakalamak
+  yakalanmak
+  yakalo: pos=noun
+  yakalos: pos=noun
+  yakals: pos=noun
+  yakamashii
+  yakameleste
+  yakamik: pos=noun
+  yakamiks: pos=noun
+  yakamoz
+  yakan
+  yakana
+  yakantop
+  Yakan: pos=proper
+  yakap
+  yakar
+  yakare: pos=noun
+  yakares: pos=noun
+  Yakarta
+  yakata: pos=noun
+  yakayaka: pos=noun
+  yakayake: pos=noun
+  Yakbutter
+  yake
+  yaken
+  yakeru
+  yakfest: pos=noun
+  yakfests: pos=noun
+  yakga
+  yakha
+  yakhdan: pos=noun
+  yakhdans: pos=noun
+  yakhni: pos=noun
+  yakhontovite: pos=noun
+  yaki: pos=noun
+  yakibuta
+  Yakima: pos=[noun,proper]
+  Yakimas: pos=noun
+  yakimochi
+  yakimono: pos=noun
+  yakin: pos=noun
+  yakiniku: pos=noun
+  yakins: pos=noun
+  yakis
+  yakisoba: pos=noun
+  yakisobas: pos=noun
+  yakissoba
+  yakitori: pos=noun
+  yakitoris: pos=noun
+  yakitsuku
+  yakizakana
+  yakje
+  yakjes
+  yakka: pos=[noun,verb]
+  yakked: pos=verb
+  yakken
+  yakker: pos=noun
+  yakkers: pos=noun
+  yakkha
+  yakkier
+  yakkiest
+  yakking: pos=verb
+  yakkookay
+  yakky: pos=adj
+  yakkyoku
+  yakless: pos=adj
+  yaklike: pos=adj
+  yakmak
+  yakmaz
+  yakmo
+  yakne
+  yakni
+  yaknow: pos=contraction
+  yako
+  Yakob
+  Yakobo
+  yakoke
+  Yakoot: pos=[noun,proper]
+  Yakoots: pos=noun
+  yakos
+  Yakova: pos=proper
+  yakow: pos=noun
+  yakows: pos=noun
+  yakozen
+  yaks: pos=noun
+  yaksha: pos=noun
+  yakshanba
+  yakshas: pos=noun
+  yakshi: pos=noun
+  yakshini: pos=noun
+  yakshinis: pos=noun
+  yakshis: pos=noun
+  yakskin: pos=noun
+  yakskins: pos=noun
+  Yaks
+  yaktaro
+  yaktaros
+  yaku
+  yakua
+  Yakubik: pos=proper
+  Yakubov: pos=proper
+  Yakubovs: pos=proper
+  Yakubu
+  yakugaku
+  yakuhin
+  yakuman
+  yakumo
+  Yakumo
+  Yakup
+  yakurigaku
+  Yakuruto
+  yakusa
+  yakusas
+  yakusha
+  yakushimense
+  yakushimensem
+  yakushimenses
+  yakushimensi
+  yakushimensia
+  yakushimensibus
+  yakushimensis
+  yakushimensium
+  yakusho
+  yakusoku
+  yakusu
+  yakusuru
+  Yakut: pos=[noun,proper]
+  yakuti
+  Yakutia: pos=proper
+  Yakutian: pos=[adj,noun]
+  Yakutians: pos=noun
+  Yakuts: pos=noun
+  Yakutsk: pos=proper
+  yakut
+  yakuza: pos=noun
+  yakuzaa
+  yakuzain
+  yakuzaksi
+  yakuzan
+  yakuzas: pos=noun
+  yakuzassa
+  yakuzasta
+  yakuzat
+  yakuzatta
+  yakuzoiksi
+  yakuzoilla
+  yakuzoin
+  yakuzoineen
+  yakuzoissa
+  yakuzoista
+  yakuzoitta
+  yakuzoja
+  yakuzojen
+  yakwe
+  yakyak
+  yakyakan
+  yakyakin
+  yakyoku
+  Yak
+  yal
+  Yala: pos=proper
+  yalach
+  yalagiirrmawu
+  yalak
+  yalamak
+  yalamaq
+  yalan
+  yalana
+  yalanda
+  yalandan
+  yalanlamak
+  yalanlar
+  yalanlara
+  yalanlarda
+  yalanlardan
+  yalany
+  yalay
+  yala
+  yalbarin
+  yald: pos=adj
+  Yalda: pos=proper
+  Yaldabaoth: pos=proper
+  yaldamaq
+  Yale: pos=proper
+  yales: pos=noun
+  yaleza
+  yale: pos=noun
+  yalhua
+  yalhuaya
+  yalhuru
+  yali: pos=noun
+  Yalie: pos=noun
+  Yalies: pos=noun
+  Yalikavak: pos=proper
+  yalis: pos=noun
+  yaliwunga
+  yaliyomo
+  yalkaparidontid: pos=noun
+  yalkari
+  yalke
+  yall: pos=cont
+  yallah
+  yaller: pos=adj
+  Yalli
+  yalliy
+  yalli
+  yallo: pos=interj
+  yallundae
+  yalmburr
+  yalpaq
+  Yalta: pos=proper
+  yaltse
+  yalu
+  yalua
+  yaluk
+  Yalung
+  yalungi
+  yaluu
+  yalvaran
+  yalvarmak
+  yalvarmamaq
+  yalvarmaq
+  yalvarmayan
+  yam: pos=[noun,verb]
+  yama
+  yamaarashi
+  yamabato
+  yamabushi: pos=noun
+  Yamaceratops
+  Yamachiche
+  Yamada: pos=proper
+  yamadou: pos=noun
+  yamafuda
+  Yamagata: pos=proper
+  yamagawa
+  Yamagawa: pos=proper
+  Yamagishi: pos=proper
+  Yamaguchi: pos=proper
+  Yamaha: pos=proper
+  yamai
+  yamaimo: pos=noun
+  Yamai
+  yamakasi
+  yamakasis
+  Yamakawa: pos=proper
+  Yamakuchi: pos=proper
+  Yamal: pos=proper
+  Yamalia: pos=proper
+  yamalka: pos=noun
+  yamalkas: pos=noun
+  yamalke: pos=noun
+  yamalkes: pos=noun
+  yamamak
+  yamamomo: pos=noun
+  Yamamoto: pos=proper
+  Yamamura: pos=proper
+  Yaman: pos=proper
+  Yamanaka: pos=proper
+  Yamanakas: pos=proper
+  Yamanashi: pos=proper
+  yamanashi
+  yamanba: pos=noun
+  yamanbas: pos=noun
+  Yamane: pos=proper
+  yamaneko
+  Yamaner
+  yamane
+  yamang
+  Yamanishi
+  yamanlamaq
+  yamanobori
+  Yamanoue: pos=proper
+  Yamansoy
+  yaman
+  yamaq
+  yamar
+  yamarts
+  yamas
+  Yamasaki: pos=proper
+  Yamasee: pos=noun
+  Yamasees: pos=noun
+  yamashii
+  Yamashiro: pos=proper
+  Yamashiros: pos=proper
+  Yamashita: pos=proper
+  yamat
+  Yamataikoku
+  Yamato: pos=[proper,noun]
+  Yamatobumi
+  yamatogoto
+  yamatokotoba
+  yamatologi
+  yamatologia
+  yamatologie
+  yamatologo
+  Yamatos: pos=noun
+  Yamatu
+  yamauba
+  Yamauchi: pos=proper
+  yamav
+  yamawasabi
+  Yamazaki: pos=proper
+  Yama: pos=proper
+  yamb
+  yamba
+  Yambao: pos=proper
+  Yambaos: pos=proper
+  yambas
+  yamberries: pos=noun
+  yamberry: pos=noun
+  yambi
+  yambo
+  Yambol: pos=proper
+  yamboo: pos=noun
+  yamboos: pos=noun
+  yambos
+  yambuli
+  yame
+  Yameijnizya
+  yamelka: pos=noun
+  yamelkas: pos=noun
+  yamelke: pos=noun
+  yamelkes: pos=noun
+  yamen: pos=noun
+  Yamena
+  yamens: pos=noun
+  yameru
+  Yamhill: pos=proper
+  yami
+  Yamileth: pos=proper
+  yamin
+  yamini
+  yamiroore
+  yamis
+  YAML: pos=proper
+  yamless: pos=adj
+  yamlike: pos=adj
+  yamma: pos=noun
+  yammak
+  yammas: pos=noun
+  yammat
+  yamme
+  yammer: pos=[verb,noun]
+  yammered: pos=verb
+  yammerer: pos=noun
+  yammerers: pos=noun
+  yammerin
+  yammering: pos=[verb,noun]
+  yammerings: pos=noun
+  yammers: pos=verb
+  yammert
+  Yammy: pos=noun
+  Yamnaya: pos=[proper,adj]
+  yamo
+  yamog
+  yamogenin: pos=noun
+  yamome
+  yamori
+  yamot
+  Yamoussoukro: pos=proper
+  yamoussoukrois
+  yamoussoukroise
+  yamoussoukroises
+  Yamoussoukroises
+  Yamoussoukroise
+  Yamoussoukrois
+  yamp: pos=noun
+  yampa: pos=noun
+  yampah: pos=noun
+  yampahs: pos=noun
+  Yampanesi
+  yampas: pos=noun
+  yampee: pos=noun
+  yampees: pos=noun
+  yampi: pos=noun
+  yampie: pos=noun
+  yampies: pos=noun
+  yampis: pos=noun
+  yampy: pos=[noun,adj]
+  yams: pos=noun
+  yamstchik: pos=noun
+  yamstchiks: pos=noun
+  yamstick: pos=noun
+  yamsticks: pos=noun
+  yamswortel
+  Yams: pos=proper
+  yamtchik
+  yamtchiks
+  yamu
+  yamua
+  yamuabee
+  yamuako
+  yamuam
+  yamucha
+  yamuk
+  yamuka: pos=noun
+  yamukas: pos=noun
+  yamukela
+  yamuklar
+  yamukmok
+  yamukunaun
+  yamukunauntope
+  yamukutai
+  yamukutopa
+  yamukutopanaun
+  yamulka: pos=noun
+  yamulkas: pos=noun
+  yamulke: pos=noun
+  yamulkes: pos=noun
+  yamun: pos=noun
+  Yamuna: pos=proper
+  yamungmong
+  yamuns: pos=noun
+  yamuruka
+  yamutmot
+  Yamuxmis
+  yamyam
+  yamyami
+  Yamyam
+  Yam: pos=proper
+  yan
+  Yana: pos=[proper,noun]
+  yanacaq
+  yanacona: pos=noun
+  yanaconas: pos=noun
+  yanagi
+  Yanagi
+  yanak
+  yanakuna: pos=noun
+  yanakunas: pos=noun
+  yananhi
+  yananukia
+  yanapay
+  yanaq
+  yanar
+  yanas: pos=noun
+  yanasey
+  yanay
+  yanaya
+  yana: pos=noun
+  Yanbian: pos=proper
+  Yanbu: pos=proper
+  yance: pos=adv
+  Yancey: pos=proper
+  Yanceys: pos=proper
+  Yanceyville: pos=proper
+  Yancheng: pos=proper
+  yancuic
+  Yancy: pos=proper
+  Yancys: pos=proper
+  yanda
+  Yandang: pos=proper
+  Yandell: pos=proper
+  Yandells: pos=proper
+  yander: pos=adv
+  yandere: pos=noun
+  yanderes: pos=noun
+  Yandex: pos=proper
+  yandied: pos=verb
+  yandies: pos=[verb,noun]
+  yandiorn
+  Yandle: pos=proper
+  Yandles: pos=proper
+  yandou
+  yandous
+  yandoux
+  yandy: pos=[verb,noun]
+  yandying: pos=verb
+  yane
+  yanela
+  yaneyfri
+  Yanez: pos=proper
+  Yanezes: pos=proper
+  yang: pos=[noun,verb]
+  yanga
+  yangarlu
+  yangasngas
+  yangaw
+  Yanga
+  yangban: pos=noun
+  yangbans: pos=noun
+  Yangchow: pos=proper
+  yanged: pos=verb
+  yangga
+  yanggal
+  yanggi
+  yanggona: pos=noun
+  yanggonas: pos=noun
+  Yanghgangj
+  yanghir
+  yanghirs
+  yangi
+  yangilik
+  yangiliklar
+  yanging: pos=verb
+  yangit
+  Yangjiang: pos=proper
+  yangkaw
+  Yangluo: pos=proper
+  yangmei: pos=noun
+  yangmeis: pos=noun
+  yangochiropteran: pos=noun
+  yangochiropterans: pos=noun
+  Yangon: pos=proper
+  yangona: pos=noun
+  yangonas: pos=noun
+  yangonin: pos=noun
+  yangot
+  yangpan: pos=noun
+  yangpans: pos=noun
+  yangpela
+  yangqin: pos=noun
+  yangqins: pos=noun
+  yangs: pos=noun
+  Yangs
+  Yangtse: pos=proper
+  Yangtze: pos=proper
+  Yangtzean: pos=adj
+  yangu
+  Yangxin: pos=proper
+  yangyang
+  yangzcoeng
+  Yangzhou: pos=proper
+  Yangzi: pos=proper
+  Yang: pos=proper
+  yani
+  yanig
+  yaniqueque
+  yaniqueques
+  Yanito: pos=[proper,noun]
+  Yanitos: pos=noun
+  Yanity: pos=proper
+  Yanjing: pos=proper
+  yank: pos=[noun,verb]
+  yankapin: pos=noun
+  yankapins: pos=noun
+  Yanke: pos=proper
+  yanked: pos=verb
+  Yankee: pos=[noun,verb]
+  Yankeed: pos=verb
+  Yankeedom: pos=noun
+  Yankeeing: pos=verb
+  Yankeeism: pos=noun
+  Yankeeisms: pos=noun
+  Yankeeland
+  Yankees: pos=[noun,proper]
+  yankees
+  Yankeeyn
+  yankee: pos=noun
+  yanker: pos=noun
+  yankers: pos=noun
+  Yankes: pos=proper
+  Yankey: pos=proper
+  Yankeys: pos=proper
+  yankha
+  yankho
+  yanki
+  yankii
+  yanking: pos=verb
+  yankis
+  yankiste
+  yankistes
+  yanks: pos=[noun,verb]
+  Yankspeak: pos=noun
+  Yanks: pos=noun
+  Yankton: pos=[proper,noun]
+  Yanktons: pos=noun
+  yankunytja
+  Yankunytjatjara: pos=[proper,adj]
+  Yank: pos=noun
+  yanma
+  yanmak
+  yanmaq
+  yanmaz
+  Yann
+  yannash
+  Yanni: pos=proper
+  Yannick: pos=proper
+  Yannik
+  Yannis: pos=proper
+  yanno: pos=interj
+  yano: pos=noun
+  yanola
+  Yanomami: pos=noun
+  Yanomamis: pos=noun
+  yanomamis
+  yanomamite: pos=noun
+  yanomami
+  Yanomamo: pos=[noun,proper]
+  Yanomamos: pos=noun
+  yanonin: pos=noun
+  Yanornis
+  Yanos: pos=proper
+  yanot
+  Yano: pos=proper
+  yanqui: pos=noun
+  yanquilandia
+  yanquis: pos=noun
+  Yanshan: pos=proper
+  yansumi
+  Yant: pos=proper
+  yanta
+  yantaba
+  yantabais
+  yantaban
+  yantabas
+  yantad
+  yantada
+  yantadas
+  yantadig
+  yantado
+  yantados
+  Yantai: pos=proper
+  yantamos
+  yantan
+  yantando
+  yantar
+  yantara
+  yantarais
+  yantaran
+  yantaras
+  yantare
+  yantareis
+  yantaremos
+  yantaren
+  yantares
+  yantaron
+  yantas
+  yantase
+  yantaseis
+  yantasen
+  yantases
+  yantaste
+  yantasteis
+  yantaw
+  yantaymaq
+  yante
+  yantemos
+  yanten
+  yantes
+  yanthosiderite
+  yanthosiderites
+  yanti
+  yanto
+  yantok
+  yantra: pos=noun
+  yantras: pos=noun
+  yantric: pos=adj
+  Yants: pos=proper
+  Yanuaar
+  Yanuar
+  Yanukovich: pos=proper
+  Yanukovych: pos=proper
+  yanul
+  yanuls
+  yanumaka
+  yanun
+  yanuy
+  yanuyanu
+  yanvar
+  Yanyan
+  yanyi
+  yanypa
+  Yanzi: pos=proper
+  Yan: pos=proper
+  yao
+  yaoacalli
+  yaocalli
+  yaocho: pos=noun
+  yaodong: pos=noun
+  yaodongs: pos=noun
+  yaoi: pos=noun
+  Yaoi: pos=proper
+  yaomiqui
+  yaon
+  yaotenhuah
+  yaotequihuah
+  yaotl
+  yaotlatquichihchihua
+  yaotlatquichihchiuhqui
+  yaotlatquitl
+  Yaoto
+  Yaou
+  yaouank
+  yaouled
+  yaouleds
+  Yaounde: pos=proper
+  yaourt: pos=noun
+  yaourter
+  yaourtier
+  yaourtiers
+  yaourts
+  yaoya
+  yaoyotl
+  yaoyutl
+  Yao: pos=proper
+  yap: pos=[noun,verb]
+  yapa
+  yapaba
+  yapabais
+  yapaban
+  yapabas
+  yapad
+  yapada
+  yapadas
+  yapado
+  yapados
+  yapak
+  yapamos
+  yapan: pos=noun
+  yapando
+  yapang
+  yapar
+  yapara
+  yaparais
+  yaparan
+  yaparas
+  yapare
+  yapareis
+  yaparemos
+  yaparen
+  yapares
+  yaparon
+  yapas
+  yapase
+  yapaseis
+  yapasen
+  yapases
+  yapaste
+  yapasteis
+  yapay
+  yapboz
+  yape
+  yapemos
+  yapen
+  yapes
+  Yapese: pos=[proper,adj,noun]
+  Yapha
+  yapi
+  yapis
+  Yaple: pos=proper
+  Yaples: pos=proper
+  yapma
+  yapmak
+  yapmalar
+  yapmam
+  yapmamaq
+  yapmaq
+  yapmayan
+  yapmaz
+  yapo
+  yapock: pos=noun
+  yapocks: pos=noun
+  yapok: pos=noun
+  yapoks: pos=noun
+  yapon: pos=noun
+  Yaponiya
+  yapons: pos=noun
+  yapos
+  yapoy
+  yapp: pos=noun
+  yappari
+  yapped: pos=[verb,adj]
+  yapper: pos=noun
+  yappers: pos=noun
+  yappie: pos=noun
+  yappier
+  yappies: pos=noun
+  yappiest
+  yapping: pos=[verb,noun]
+  yappingly: pos=adv
+  yappings: pos=noun
+  yapps: pos=noun
+  yappy: pos=adj
+  yaprak
+  yapraklar
+  Yaprak
+  yapraq
+  yaproq
+  yaps: pos=[noun,verb]
+  yapsaw
+  yapsin: pos=noun
+  yapsins: pos=noun
+  yapunyah: pos=noun
+  yapunyahs: pos=noun
+  yapuy
+  yapyap
+  Yap: pos=proper
+  yaq
+  yaqa
+  yaqona: pos=noun
+  yaqonas: pos=noun
+  yaquar
+  yaqui
+  Yaquina: pos=proper
+  yaquinae
+  yaquis
+  yaqulla
+  yaqullay
+  yar: pos=[verb,adj]
+  yara
+  yaraay
+  yaraba
+  Yaracuy
+  yaracuyana
+  yaracuyanas
+  yaracuyano
+  yaracuyanos
+  yarage: pos=noun
+  yarak: pos=noun
+  yaraklar
+  yaraklara
+  yaraklarda
+  yaraklardan
+  yarakta
+  yaraktan
+  yarala
+  yaralamaq
+  yaralan
+  yaralanma
+  yaralar
+  yarale
+  yaram: pos=noun
+  yaramak
+  yaraman
+  yaramaq
+  yaramaz
+  yaran
+  yaranga: pos=noun
+  yarangas: pos=noun
+  yaranmaq
+  yarar
+  Yaras: pos=proper
+  yarasa
+  yarasalar
+  yarat
+  yaratacak
+  yaratma
+  yaratmak
+  yaratmalar
+  yaratmam
+  yaratman
+  yaratmaq
+  yaratmaz
+  yaravi: pos=noun
+  yaravis: pos=noun
+  yarawi
+  yarawiy
+  yaray: pos=noun
+  yarayn
+  Yara: pos=proper
+  yarb: pos=noun
+  Yarber: pos=proper
+  Yarberry: pos=proper
+  Yarberrys: pos=proper
+  Yarbers: pos=proper
+  yarborough: pos=noun
+  yarboroughs: pos=noun
+  Yarboroughs: pos=[proper,noun]
+  Yarborough: pos=[proper,noun]
+  Yarbough: pos=proper
+  Yarboughs: pos=proper
+  Yarbro: pos=proper
+  Yarbros: pos=proper
+  Yarbrough: pos=proper
+  yarbs: pos=noun
+  yarchagumba
+  yarchagumbas
+  yarco: pos=noun
+  yarcos: pos=noun
+  yard: pos=[noun,verb]
+  yarda
+  yardage: pos=noun
+  yardages: pos=noun
+  yardaje
+  yardajes
+  yardang: pos=noun
+  yardangs: pos=noun
+  yardarm: pos=noun
+  yardarms: pos=noun
+  yardas
+  yardbird: pos=noun
+  yardbirds: pos=noun
+  yarde
+  yarded: pos=verb
+  yardeko
+  yarder: pos=noun
+  yarders: pos=noun
+  yardfowl: pos=noun
+  yardfowlism: pos=noun
+  yardfowls: pos=noun
+  yardful: pos=noun
+  yardfuls: pos=noun
+  yardgoat: pos=noun
+  yardgoats: pos=noun
+  yardgrass: pos=noun
+  yardhorse: pos=noun
+  yardhorses: pos=noun
+  yardie: pos=noun
+  yardies: pos=noun
+  Yardies: pos=noun
+  Yardie: pos=noun
+  yarding: pos=verb
+  yardland: pos=noun
+  yardlands: pos=noun
+  yardless: pos=adj
+  Yardley
+  yardlike: pos=adj
+  yardlong: pos=adj
+  yardman: pos=noun
+  yardmaster: pos=noun
+  yardmasters: pos=noun
+  yardmen: pos=noun
+  yardpeople: pos=noun
+  yardperson: pos=noun
+  yardpersons: pos=noun
+  yards: pos=[noun,verb]
+  yardsale: pos=noun
+  yardsales: pos=noun
+  yardsnap: pos=noun
+  yardsnaps: pos=noun
+  yardstick: pos=noun
+  yardsticks: pos=noun
+  yardus
+  yardust
+  yardusti
+  yardwand: pos=noun
+  yardwands: pos=noun
+  yardwork: pos=noun
+  Yard: pos=proper
+  yare: pos=[adj,adv,noun]
+  Yared
+  Yareli: pos=proper
+  yarely: pos=adv
+  Yaren: pos=proper
+  yarer
+  yarest
+  Yaretzi
+  yarewe
+  yareyare
+  Yare: pos=proper
+  yarfa: pos=noun
+  Yarg: pos=noun
+  Yarger: pos=proper
+  Yargers: pos=proper
+  yari: pos=noun
+  yarichin
+  yarim
+  yariman
+  yaripirrki
+  Yaritza
+  yark: pos=verb
+  Yarkand: pos=proper
+  Yarkandi: pos=adj
+  yarkas
+  yarke: pos=noun
+  yarked: pos=verb
+  yarking: pos=verb
+  yarks: pos=verb
+  yarl: pos=[noun,verb]
+  yarled: pos=verb
+  yarligh: pos=noun
+  yarlighs: pos=noun
+  yarling: pos=verb
+  yarls: pos=[noun,verb]
+  yarluke
+  yarluki
+  yarluwar
+  yarlyk: pos=noun
+  yarlyks: pos=noun
+  yarm: pos=[verb,noun]
+  yarmak
+  yarmalka: pos=noun
+  yarmalkas: pos=noun
+  yarmalke: pos=noun
+  yarmalkes: pos=noun
+  yarmaz
+  yarmed: pos=verb
+  yarmelka: pos=noun
+  yarmelkas: pos=noun
+  yarmelke: pos=noun
+  yarmelkes: pos=noun
+  yarmili
+  yarmilo
+  yarming: pos=verb
+  yarmoc
+  Yarmouk: pos=proper
+  Yarmouth: pos=proper
+  yarms: pos=noun
+  yarmulka: pos=noun
+  yarmulkas: pos=noun
+  yarmulke: pos=noun
+  yarmulkes: pos=noun
+  Yarm: pos=proper
+  yarn: pos=[noun,verb]
+  Yarnall: pos=proper
+  Yarnalls: pos=proper
+  yarnbombing: pos=noun
+  yarncraft: pos=noun
+  yarndie: pos=noun
+  yarne: pos=noun
+  yarned: pos=verb
+  Yarnell: pos=proper
+  Yarnells: pos=proper
+  yarner: pos=noun
+  yarners: pos=noun
+  yarnes: pos=noun
+  yarning: pos=verb
+  yarnkarra
+  yarnless: pos=adj
+  yarnlike: pos=adj
+  yarnmaker: pos=noun
+  yarnmakers: pos=noun
+  yarnover: pos=noun
+  yarnovers: pos=noun
+  yarns: pos=[noun,verb]
+  yarnspinner: pos=noun
+  yarnspinners: pos=noun
+  yarnspinning: pos=noun
+  yarnut: pos=noun
+  yarnuts: pos=noun
+  yarnwindle: pos=noun
+  yarnwindles: pos=noun
+  yarny: pos=adj
+  yaro
+  yarok
+  yaroka
+  yaroo: pos=interj
+  yarooch
+  yarooh: pos=interj
+  yaros
+  Yaroslav: pos=proper
+  yaroslavite: pos=noun
+  Yaroslavl: pos=proper
+  yarou
+  yarovization: pos=noun
+  yarovize: pos=verb
+  yarovized: pos=verb
+  yarovizes: pos=verb
+  yarovizing: pos=verb
+  yarow
+  yarowe
+  yarpaq
+  yarpay
+  yarpha: pos=noun
+  yarpie: pos=noun
+  yarpies: pos=noun
+  yarpo
+  yarqa
+  yarqay
+  yarqhay
+  yarquy
+  yarr: pos=[verb,noun,interj]
+  yarra
+  yarraaman
+  yarraan
+  Yarraanbaa
+  Yarraanbarra
+  yarraman: pos=noun
+  yarramans: pos=noun
+  yarramen: pos=noun
+  yarran: pos=noun
+  yarrangan
+  yarrans: pos=noun
+  yarray
+  yarrayn
+  yarred: pos=verb
+  yarrelli
+  yarri: pos=noun
+  yarrin
+  yarring: pos=verb
+  yarringle: pos=noun
+  yarringles: pos=noun
+  Yarrington: pos=proper
+  Yarringtons: pos=proper
+  yarris: pos=noun
+  yarrish: pos=adj
+  yarro
+  yarroshite
+  yarroshites
+  yarrow: pos=noun
+  yarrowite: pos=noun
+  yarrows: pos=noun
+  Yarrow: pos=proper
+  yarrpala
+  yarrs: pos=verb
+  yarrul
+  yarrum: pos=noun
+  yarsagumba
+  yarsagumbas
+  yarsagumbu
+  yarsagumbus
+  yarta: pos=noun
+  yartas: pos=noun
+  yarteki
+  yarto
+  yartseit: pos=noun
+  yartseits: pos=noun
+  yartzeit: pos=noun
+  yartzeits: pos=noun
+  yaru
+  yarula
+  yarum: pos=noun
+  yarumo
+  yarumos
+  yarun
+  yarungu
+  yarush
+  yarvin
+  yarwe
+  yarwhelp: pos=noun
+  yarwhelps: pos=noun
+  yarwhip: pos=noun
+  yarwhips: pos=noun
+  yarwip: pos=noun
+  yarwips: pos=noun
+  Yarwood: pos=proper
+  yas: pos=[interj,pronoun]
+  yasa
+  yasai
+  yasaibatake
+  yasak: pos=noun
+  yasaklamak
+  yasaklar
+  yasaks: pos=noun
+  yasal
+  yasalar
+  yasamaq
+  yasang
+  yasaq
+  yasar
+  yasas
+  yasashii
+  Yasay
+  Yasa
+  YASD: pos=noun
+  YASDs: pos=noun
+  yase
+  Yasemin
+  yasemin
+  Yasgur: pos=proper
+  yasha
+  yashamoq
+  yashi
+  yashigani
+  yashika
+  yashiki: pos=noun
+  yashikis: pos=noun
+  yashil
+  yashinai
+  yashinau
+  yashiva
+  yashivas
+  yashiyu
+  yashmac: pos=noun
+  yashmacked: pos=adj
+  yashmacs: pos=noun
+  yashmak: pos=noun
+  yashmaked: pos=adj
+  yashmaks: pos=noun
+  Yashoda
+  yashoku
+  yasht: pos=noun
+  yashts: pos=noun
+  yasi
+  Yasin
+  yasmak: pos=noun
+  yasmaks: pos=noun
+  Yasmeen: pos=proper
+  Yasmeena: pos=proper
+  Yasmim
+  Yasmin: pos=proper
+  Yasmina: pos=proper
+  Yasmine: pos=proper
+  Yasna: pos=proper
+  yaso
+  Yasodhara
+  yasoji
+  Yasothon: pos=proper
+  Yaso
+  yass: pos=interjection
+  Yassa: pos=proper
+  yassas
+  yassa
+  yasseur
+  yasseurs
+  yasseuse
+  yasseuses
+  Yassin: pos=proper
+  Yassins: pos=proper
+  yassuh: pos=interj
+  Yassy: pos=proper
+  Yass: pos=proper
+  yast
+  yastreb
+  Yastrebov: pos=proper
+  yasu
+  Yasuaki
+  Yasuda: pos=proper
+  yasude
+  Yasufumi
+  Yasuharu
+  Yasuhiko
+  Yasuhiro: pos=proper
+  Yasuhisa
+  yasui
+  Yasui: pos=proper
+  Yasuji
+  Yasukatsu
+  Yasuko: pos=proper
+  Yasumasa
+  Yasumi
+  yasumishishi
+  Yasumitsu
+  yasumi
+  yasumu
+  Yasunaga
+  Yasunari
+  Yasunobu
+  Yasunori
+  Yasuo: pos=proper
+  yasuragi
+  yasuragu
+  yasuraka
+  yasuri
+  Yasushi: pos=proper
+  Yasutaka
+  Yasutane
+  Yasutomo
+  Yasutoshi: pos=proper
+  Yasuyoshi
+  Yasuyuki
+  Yasu
+  yasyas
+  yat: pos=noun
+  yata
+  yatab
+  yatagan: pos=noun
+  yataganes
+  yatagans: pos=noun
+  yataghan: pos=noun
+  yataghans: pos=noun
+  yatai: pos=noun
+  yatak
+  yatalase: pos=noun
+  yatan
+  yatap
+  yatapoxvirus: pos=noun
+  yatapoxviruses: pos=noun
+  Yatapoxvirus
+  yataq
+  yataqxana
+  yatay
+  yatayes
+  yatch: pos=noun
+  Yatco
+  yate: pos=noun
+  Yateley: pos=proper
+  yates: pos=noun
+  Yates: pos=proper
+  Yate: pos=proper
+  yatga: pos=noun
+  yatgas: pos=noun
+  yathaarr
+  yathala
+  Yathi: pos=proper
+  yati: pos=noun
+  yatihan
+  yatik
+  yatim
+  yatima
+  yating
+  yatis: pos=noun
+  Yatish: pos=proper
+  yatista
+  yatistas
+  Yati
+  yatmak
+  yatmamaq
+  yatmaq
+  yatmayan
+  yatot
+  yatra: pos=noun
+  yatras: pos=noun
+  yatri: pos=noun
+  yatris: pos=noun
+  yats: pos=noun
+  yatsa
+  yatsin
+  yatsu
+  yatsumeunagi
+  Yatsuo
+  yatsureru
+  Yats: pos=noun
+  yatt: pos=noun
+  yatta: pos=interj
+  yaTTan
+  yattekuru
+  yatter: pos=[noun,verb]
+  yattered: pos=verb
+  yattering: pos=[verb,noun]
+  yatterings: pos=noun
+  yatters: pos=[noun,verb]
+  Yatton: pos=proper
+  yatts: pos=noun
+  yattsu
+  Yatvingian: pos=[adj,proper]
+  yatwe
+  yatyat
+  yatzy: pos=noun
+  Yat: pos=[proper,noun]
+  yau
+  yaucht: pos=noun
+  yauchts: pos=noun
+  yaud: pos=noun
+  yaude
+  yaudes
+  Yaudes
+  Yaude
+  yauds: pos=noun
+  yaue
+  Yauger: pos=proper
+  Yaugers: pos=proper
+  yaugh
+  yauh
+  yauitl
+  yaul: pos=noun
+  yauld: pos=adj
+  yaulder
+  yauldest
+  yauls: pos=noun
+  yaum
+  yaup: pos=[noun,verb,adj]
+  yaupan: pos=noun
+  yaupas
+  yauped: pos=verb
+  yauper: pos=noun
+  yaupers: pos=noun
+  yauping: pos=verb
+  yaupon: pos=noun
+  yaupons: pos=noun
+  yaups: pos=noun
+  Yaus: pos=proper
+  yaut
+  yautai
+  yautia: pos=noun
+  yautias: pos=noun
+  yauwu
+  Yauzcuz
+  Yau: pos=proper
+  yav
+  yavapaiite: pos=noun
+  yave
+  YAVIS: pos=adj
+  yavluq
+  Yavne: pos=proper
+  Yavneh: pos=proper
+  yavru
+  yavrulamaz
+  yavrular
+  yavrum
+  yavrun
+  yavrunun
+  yavrusu
+  yavruyu
+  yavuz
+  Yavuzsoy
+  Yavuz
+  yaw: pos=[noun,verb]
+  yawa
+  yawaka
+  yawali
+  yawan
+  yawar
+  yawara
+  yawaragu
+  yawarakai
+  yawarda
+  yawarts
+  yaway
+  yawaywet
+  yawbani
+  yawe
+  yawed: pos=verb
+  yawey: pos=adj
+  yawi
+  yawing: pos=verb
+  yawingly: pos=adv
+  yawit
+  yawj
+  yawknut
+  yawl: pos=[noun,verb]
+  yawled: pos=verb
+  yawling: pos=verb
+  yawls: pos=noun
+  yawlyn
+  yawmeter: pos=noun
+  yawmeters: pos=noun
+  yawn: pos=[verb,noun]
+  yawnable: pos=adj
+  yawnay
+  yawned: pos=verb
+  yawner: pos=noun
+  yawners: pos=noun
+  yawnest: pos=verb
+  yawneth: pos=verb
+  yawnfest: pos=noun
+  yawnfests: pos=noun
+  yawnier
+  yawniest
+  yawnily: pos=adv
+  yawniness: pos=noun
+  yawning: pos=[verb,noun,adj]
+  yawningly: pos=adv
+  yawnings: pos=noun
+  yawnless: pos=adj
+  yawns: pos=[verb,noun]
+  yawnsome: pos=adj
+  Yawns: pos=proper
+  yawny: pos=adj
+  Yawn: pos=proper
+  yawo
+  yawoi
+  yawp: pos=[verb,noun]
+  yawpan: pos=noun
+  yawped: pos=verb
+  yawper: pos=noun
+  yawpers: pos=noun
+  yawping: pos=[verb,noun]
+  yawpings: pos=noun
+  yawps: pos=[noun,verb]
+  yawri
+  yaws: pos=[noun,verb]
+  Yaws: pos=proper
+  yawu
+  yawurr
+  Yawuru: pos=proper
+  yawy: pos=adj
+  yawyaw
+  yawyay
+  Yaw: pos=proper
+  yax
+  yaxmaq
+  yaxshi
+  yay: pos=[interj,adv,noun]
+  yaya: pos=noun
+  yayabera
+  yayaberas
+  yayabero
+  yayaberos
+  yayahuic
+  yayakoshii
+  yayalar
+  yayamang
+  yayarri
+  yayas: pos=noun
+  yayat
+  yayay
+  yayaya
+  Yaya: pos=proper
+  yaydja
+  yaye
+  yayen
+  yayi
+  yaykuy
+  yaylaq
+  yaymak
+  yaymaq
+  yayness: pos=interj
+  yayo: pos=noun
+  yayog
+  yayoi
+  yayoisaponin: pos=noun
+  Yayoi: pos=proper
+  yayong
+  yayongi
+  yayos
+  yays: pos=noun
+  yayu
+  yayue: pos=noun
+  yayuh: pos=intj
+  yayun
+  yayyafi
+  Yay: pos=proper
+  yaz
+  yazan
+  yazanak
+  yazanaklar
+  yazar
+  yazarlar
+  yazata: pos=noun
+  yazatas: pos=noun
+  Yazawa: pos=proper
+  yazca
+  yazcamos
+  yazcan
+  yazcas
+  yazco
+  Yazd: pos=proper
+  Yazdani: pos=proper
+  Yazdanis: pos=proper
+  yazde
+  Yazdegerd: pos=proper
+  yaze
+  yazga
+  yazgamos
+  yazgan
+  yazgas
+  Yazghulami: pos=proper
+  yazgo
+  Yazgulam: pos=proper
+  Yazgulyam: pos=proper
+  Yazgulyami: pos=proper
+  yazh: pos=noun
+  yazhs: pos=noun
+  yazi
+  yazid
+  Yazidi: pos=noun
+  Yazidis: pos=noun
+  Yazidism: pos=proper
+  yazidisme
+  yazidismes
+  yazidismo
+  yazidismos
+  yazidis
+  yazidi
+  yazma
+  yazmak
+  yazmalar
+  yazmam
+  yazmamaq
+  yazmaq
+  yazmayan
+  yazmaz
+  yazoo: pos=noun
+  yazoos: pos=noun
+  Yazoo
+  Yazzie
+  YA: pos=noun
+  yA
+  Yb
+  yba
+  ybaka
+  Ybanez: pos=proper
+  Ybanezes: pos=proper
+  ybanysshed
+  ybaptized: pos=verb
+  Ybarra: pos=proper
+  Ybarras: pos=proper
+  ybarred
+  YBAs: pos=noun
+  ybathed
+  ybatinga
+  YBA: pos=noun
+  Ybbsitz
+  YBCO: pos=noun
+  ybe
+  ybedded
+  ybeen
+  ybegunne
+  ybent: pos=verb
+  yblamed
+  yblent: pos=[verb,adj]
+  yblowe
+  ybore: pos=verb
+  yborn: pos=verb
+  yborne
+  ybought: pos=verb
+  ybound: pos=[verb,adj]
+  ybounden: pos=verb
+  YBP
+  ybp
+  YBq
+  yBq
+  ybrent: pos=verb
+  ybroke: pos=verb
+  ybroken: pos=verb
+  ybrought: pos=verb
+  ybuilt: pos=verb
+  Yburan
+  yburied: pos=verb
+  Ybut
+  YBYSAIA
+  ybytu
+  yb: pos=verb
+  YC: pos=noun
+  ycalled: pos=verb
+  ycarried: pos=verb
+  ycaught: pos=verb
+  yce: pos=noun
+  ych
+  ychased: pos=verb
+  ychaunged: pos=verb
+  ychcacalli
+  ychcaconetl
+  ychcaeuatl
+  ychcatilmatli
+  ychcatl
+  ychcueitl
+  ychel
+  ychelbaarch
+  ychelbarchje
+  ychelbargen
+  ychele
+  ychels
+  ycheltsje
+  ychen
+  ychosen: pos=verb
+  Ychoux
+  ychpuchtli
+  ychpuchtotoli
+  ychteccatetlatzontequiliani
+  ychtecqui
+  ychtli
+  ychwanegiad
+  ychwanegiadau
+  ychwanegol
+  ychwanegu
+  ychydig
+  yciuh
+  YCL: pos=proper
+  yclad: pos=verb
+  ycladd: pos=verb
+  ycleped: pos=adjective
+  yclept: pos=[adj,verb]
+  ycleyed
+  yclosed: pos=verb
+  yclothed: pos=adj
+  yclys
+  ycnociuatl
+  ycnociuayotl
+  ycnooquichotl
+  ycnooquichtli
+  ycnopilcalli
+  ycnotlacayotl
+  ycomen: pos=verb
+  ycond: pos=[verb,con]
+  yconomique
+  ycovered: pos=verb
+  ycpatetl
+  ycpatetontli
+  ycpitl
+  ycrowned: pos=verb
+  ycrystned
+  yC
+  yd: pos=noun
+  yda
+  ydade
+  ydamned: pos=verb
+  ydan
+  ydd
+  ydda
+  yddim: pos=noun
+  yddims: pos=noun
+  Yddim
+  yde
+  ydelse
+  ydelsen
+  ydelsens
+  ydelser
+  ydelserne
+  ydelsernes
+  ydelsers
+  ydelses
+  yderpol
+  Ydes
+  ydfran
+  ydin
+  ydinaikakausi
+  ydinaikaskaala
+  ydinaine
+  ydinaines
+  ydinajatus
+  ydinala
+  ydinalue
+  ydinalus
+  ydinammus
+  ydinarsenaali
+  ydinase
+  ydinasearsenaali
+  ydinaseet
+  ydinaseeton
+  ydinaseettomuus
+  ydinasehanke
+  ydinaseiden
+  ydinaseilla
+  ydinaseista
+  ydinaseistaa
+  ydinaseistus
+  ydinasekiista
+  ydinasekoe
+  ydinasemaa
+  ydinaseneuvottelu
+  ydinaseneuvottelut
+  ydinaseohjelma
+  ydinaseoptio
+  ydinasepelote
+  ydinasepolitiikka
+  ydinaseriisunta
+  ydinasesopimus
+  ydinasetieto
+  ydinasevalta
+  ydinasevaltio
+  ydinasevarustelu
+  ydinasevarustus
+  ydinasevastainen
+  ydinenergia
+  ydinfissio
+  ydinfunktio
+  ydinfuusio
+  ydinfysiikka
+  ydinfyysikko
+  ydingas
+  ydinherne
+  ydinhiukkanen
+  ydinisku
+  ydinjatke
+  ydinjatkos
+  ydinjauho
+  ydinjoukko
+  ydinkappale
+  ydinkasvi
+  ydinkaupunki
+  ydinkemia
+  ydinkemisti
+  ydinkeskus
+  ydinkeskusta
+  ydinkoe
+  ydinkoealue
+  ydinkoekielto
+  ydinkohdan
+  ydinkohta
+  ydinkokeet
+  ydinkompetenssi
+  ydinkysymys
+  ydinlaitos
+  ydinlaji
+  ydinlanka
+  ydinlaskeuma
+  ydinlataus
+  ydinluu
+  ydinmagneettinen
+  ydinmalli
+  ydinmateriaali
+  ydinmehu
+  ydinmiina
+  ydinohjus
+  ydinolemus
+  ydinonnettomuus
+  ydinontelo
+  ydinosa
+  ydinosaaminen
+  ydinparisto
+  ydinpelote
+  ydinperhe
+  ydinpilvi
+  ydinpolttoaine
+  ydinpolttoainekierto
+  ydinpommi
+  ydinpommittaja
+  ydinpuolustus
+  ydinpuu
+  ydinreaktio
+  ydinreaktori
+  ydinsaaste
+  ydinsalaisuus
+  ydinsatelliitti
+  ydinskandaali
+  ydinsoda
+  ydinsolu
+  ydinsolukko
+  ydinsopimus
+  ydinsota
+  ydinsukellusvene
+  ydinsulkusopimus
+  ydintalvi
+  ydintekniikka
+  ydintekninen
+  ydinteknologia
+  ydinteollisuus
+  ydintuppi
+  ydinturvallisuus
+  ydintutkimus
+  ydinvalta
+  ydinvaltio
+  ydinvaraus
+  ydinvarustelu
+  ydinvastainen
+  ydinvastuu
+  ydinvoima
+  ydinvoimakeskustelu
+  ydinvoimala
+  ydinvoimalaitos
+  ydinvoimalakatastrofi
+  ydinvoimalaonnettomuus
+  ydinvoiman
+  ydinvoimavastainen
+  ydmygelse
+  ydmygelsen
+  ydmygelsens
+  ydmygelser
+  ydmygelserne
+  ydmygelsernes
+  ydmygelsers
+  ydmygelses
+  ydmyghed
+  ydmygheden
+  ydmyghedens
+  ydmygheds
+  ydmyk
+  ydmyka
+  ydmyke
+  ydmykelse
+  ydmykelsen
+  ydmykelsene
+  ydmykelser
+  ydmykende
+  ydmyker
+  ydmykes
+  ydmyket
+  ydmykhet
+  ydmykheta
+  ydmykheten
+  ydmykt
+  ydmykte
+  ydo
+  ydola
+  ydolas
+  ydrad
+  Ydre
+  ydred
+  ydromancy: pos=noun
+  ydromel
+  ydronke: pos=verb
+  ydropisia
+  ydropisie
+  yds: pos=noun
+  ydw
+  ydy
+  ydych
+  ydyin
+  ydyn
+  ydyt
+  ye: pos=[pron,article,interj,noun,pronoun]
+  yea: pos=[adv,con,interj,noun]
+  yead: pos=noun
+  Yeading: pos=proper
+  yeads: pos=noun
+  Yeager: pos=proper
+  yeaghe: pos=noun
+  yeaghes: pos=noun
+  Yeagley: pos=proper
+  Yeagleys: pos=proper
+  yeah: pos=[interj,noun]
+  Yeakel: pos=proper
+  Yeakels: pos=proper
+  yealing: pos=noun
+  yealings: pos=noun
+  yeallow: pos=adj
+  yealm: pos=[noun,verb]
+  yealmed: pos=verb
+  yealming: pos=verb
+  yealms: pos=[noun,verb]
+  Yeaman: pos=proper
+  yean: pos=verb
+  yeaned: pos=verb
+  yeaning: pos=verb
+  yeanling: pos=noun
+  yeanlings: pos=noun
+  yeans: pos=verb
+  yeap: pos=adv
+  year: pos=noun
+  yeara: pos=noun
+  yearbook: pos=noun
+  yearbooker: pos=noun
+  yearbookers: pos=noun
+  yearbookish: pos=adj
+  yearbooklike: pos=adj
+  yearbooks: pos=noun
+  yearbooky: pos=adj
+  Yearby: pos=proper
+  Yearbys: pos=proper
+  yeard: pos=[noun,verb]
+  yearday: pos=noun
+  yeardays: pos=noun
+  Yeardley: pos=proper
+  yeards: pos=noun
+  yeare: pos=noun
+  yeared: pos=adj
+  yearend: pos=noun
+  yearends: pos=noun
+  yearer: pos=noun
+  yearers: pos=noun
+  yeares: pos=noun
+  yearful: pos=noun
+  yearfuls: pos=noun
+  Yeargin: pos=proper
+  yeargroup: pos=noun
+  yeargroups: pos=noun
+  yearhundred: pos=noun
+  yearhundreds: pos=noun
+  yearlies: pos=noun
+  yearling: pos=noun
+  yearlings: pos=noun
+  yearlong: pos=[adj,adv]
+  yearly: pos=[adj,adv,noun]
+  yearman: pos=noun
+  yearmen: pos=noun
+  yearn: pos=[verb,conj,noun]
+  yearne: pos=noun
+  yearned: pos=verb
+  yearnedst: pos=verb
+  yearner: pos=noun
+  yearners: pos=noun
+  yearnest: pos=verb
+  yearneth: pos=verb
+  yearnful: pos=adj
+  yearnfully: pos=adv
+  yearning: pos=[noun,verb]
+  yearningly: pos=adv
+  yearningness: pos=noun
+  yearnings: pos=noun
+  yearns: pos=verb
+  yearnsome: pos=adj
+  yearny: pos=adj
+  Yearout: pos=proper
+  Yearouts: pos=proper
+  years: pos=noun
+  Yearsley: pos=proper
+  Yearsleys: pos=proper
+  yearslong: pos=adj
+  yearsman: pos=noun
+  yearsmen: pos=noun
+  yearsworth: pos=noun
+  yearth: pos=noun
+  yearthousand: pos=noun
+  yearthousands: pos=noun
+  yearths: pos=noun
+  yeartide: pos=noun
+  yeartides: pos=noun
+  yeartime: pos=[noun,adj]
+  yeartimes: pos=noun
+  yearward: pos=adv
+  Yearwood: pos=proper
+  Yearwoods: pos=proper
+  Yeary: pos=proper
+  Yearys: pos=proper
+  yeas: pos=noun
+  yeasaid: pos=verb
+  yeasay: pos=verb
+  yeasayer: pos=noun
+  yeasayers: pos=noun
+  yeasaying: pos=verb
+  yeasays: pos=verb
+  yeaspi
+  yeast: pos=[noun,verb]
+  yeaste
+  yeasted: pos=[adj,verb]
+  yeastful: pos=adj
+  yeastier
+  yeastiest
+  yeastily: pos=adv
+  yeastiness: pos=noun
+  yeasting: pos=verb
+  yeastless: pos=adj
+  yeastlike: pos=adj
+  yeastolate: pos=noun
+  yeastolates: pos=noun
+  yeasts: pos=[noun,verb]
+  yeasty: pos=adj
+  yeat: pos=noun
+  yeate
+  Yeater: pos=proper
+  Yeaters: pos=proper
+  Yeatman: pos=proper
+  yeatmanite: pos=noun
+  Yeatmans: pos=proper
+  Yeaton: pos=proper
+  Yeatons: pos=proper
+  yeats: pos=noun
+  Yeatsian: pos=adj
+  Yeats: pos=proper
+  yeaught: pos=noun
+  yeaughts: pos=noun
+  yeb
+  yeba
+  yebaga
+  yebas
+  yebe
+  yebes
+  yebha
+  yebi
+  yebis
+  yebo: pos=adv
+  Yeboah: pos=proper
+  Yeboahs: pos=proper
+  Yebra: pos=proper
+  Yebras: pos=proper
+  yebs
+  YEC: pos=noun
+  yeca
+  yecas
+  yecatl
+  yecca
+  yecch: pos=[interj,noun]
+  yecchier
+  yecchiest
+  yecchs: pos=noun
+  yecchy: pos=adj
+  yech: pos=[interj,noun]
+  yechidah: pos=noun
+  yechier
+  yechiest
+  yechs: pos=noun
+  yechy: pos=adj
+  yecoraite: pos=noun
+  YECs: pos=noun
+  yectenehua
+  yecteneua
+  yectli
+  yed: pos=[verb,noun]
+  yeddi
+  yeddinci
+  yedding: pos=[noun,verb]
+  yeddings: pos=noun
+  Yeddo: pos=proper
+  yede: pos=verb
+  yedek
+  yedekler
+  yeder
+  yedi
+  yedigen
+  yedigeni
+  yedigenler
+  yedinci
+  yedincilik
+  yedirir
+  yedirmek
+  yedirmez
+  yedirtir
+  yedirtmek
+  yedirtmez
+  yedlinite: pos=noun
+  yedma
+  Yedo: pos=proper
+  yedra
+  yedras
+  yedres
+  yeds: pos=noun
+  yedza
+  yee: pos=[pron,interj]
+  yeearreeit
+  yeearreeoil
+  yeeast
+  yeeastyn
+  Yeeastyn
+  yeeb
+  yeech: pos=intj
+  yeed: pos=verb
+  yeees: pos=interj
+  yeeha: pos=interj
+  yeehaw: pos=[interj,verb]
+  yeehawed: pos=verb
+  yeehawing: pos=verb
+  yeehaws: pos=verb
+  yeek: pos=interj
+  yeel
+  yeeld: pos=verb
+  yeelde: pos=verb
+  yeelin: pos=noun
+  yeelins: pos=noun
+  yeen: pos=noun
+  yeens: pos=noun
+  yeep: pos=[interj,noun]
+  yeepachajpi
+  yeeps: pos=noun
+  yeepsen: pos=noun
+  yeer: pos=noun
+  yeerd
+  yeere: pos=noun
+  yeeres: pos=noun
+  yeern
+  yeers: pos=noun
+  yees: pos=pron
+  yeesh: pos=interj
+  yeeso
+  yeest
+  yeet: pos=[interj,noun,verb]
+  yeeted: pos=verb
+  yeeting: pos=verb
+  yeets: pos=[noun,verb]
+  yeewa
+  Yeezy: pos=proper
+  Yee: pos=proper
+  yefazugun
+  Yefrem: pos=proper
+  yeg: pos=noun
+  yega
+  yegang
+  yeged: pos=article
+  yegeds
+  yegerme
+  yeget
+  yegg: pos=[noun,verb]
+  yegged: pos=verb
+  yeggman: pos=noun
+  yeggmen: pos=noun
+  yeggs: pos=[noun,verb]
+  Yeghegnadzor: pos=proper
+  yeghes
+  yeging
+  yegs: pos=noun
+  Yegsa
+  yegua
+  yeguada
+  yeguadas
+  yeguar
+  yeguares
+  yeguas
+  yeh: pos=[interj,pron]
+  yehhuan
+  yehhuatl
+  yehiye
+  Yehovah: pos=proper
+  yehquog
+  Yehs: pos=proper
+  Yehsuh
+  yehuatl
+  Yehuda: pos=proper
+  Yehudi: pos=[proper,noun]
+  Yehudim
+  Yehudis: pos=noun
+  Yehudit: pos=proper
+  yehyectzi
+  Yeh: pos=proper
+  yei
+  yeild
+  yeir
+  yeirhunder
+  yeiy
+  Yei: pos=proper
+  yej
+  yejemet
+  yek
+  yeka
+  Yekaterimburgo
+  Yekaterinburg: pos=proper
+  Yekaterinodar: pos=proper
+  Yekavian: pos=proper
+  yeke: pos=noun
+  yekeko
+  yekes: pos=noun
+  yekesters
+  yekinmek
+  yekjimar
+  yekjimarr
+  Yekke: pos=noun
+  Yekkes: pos=noun
+  yekkes: pos=noun
+  yekke: pos=noun
+  Yekkish: pos=adj
+  yekte
+  yekti
+  yektlajkwiloli
+  yel: pos=verb
+  yela
+  yelacen
+  yelai
+  yelamber: pos=noun
+  yelambers: pos=noun
+  Yelamu
+  yelas
+  yeld: pos=adj
+  Yelda
+  Yeldell: pos=proper
+  Yeldells: pos=proper
+  yeldrin: pos=noun
+  yeldring: pos=noun
+  yeldrings: pos=noun
+  yeldrins: pos=noun
+  yeldrock: pos=noun
+  yeldrocks: pos=noun
+  yele
+  yelek: pos=noun
+  yeleks: pos=noun
+  Yelena: pos=proper
+  yelenqa
+  yeles
+  yelewe
+  yeli
+  yelie
+  yelis
+  Yelisei: pos=proper
+  Yelisey: pos=proper
+  Yeliz
+  Yelizaveta: pos=proper
+  yeliztli
+  yelk: pos=noun
+  yelken
+  yelkeni
+  yelkenler
+  yelkenleri
+  yelkenlerin
+  yelks: pos=noun
+  yell: pos=[verb,noun,adj]
+  yella: pos=adjective
+  yellable: pos=adj
+  Yelle: pos=proper
+  yelled: pos=verb
+  yellen
+  yeller: pos=[noun,adj]
+  yellers: pos=noun
+  Yelles: pos=proper
+  yelleth: pos=verb
+  yelle
+  yelli
+  yellih
+  Yellin: pos=proper
+  yelling: pos=[verb,noun]
+  yellinge
+  yellings: pos=noun
+  Yellins: pos=proper
+  YELLIS: pos=proper
+  yello: pos=interj
+  yelloch: pos=verb
+  yelloched: pos=verb
+  yelloching: pos=verb
+  yellochs: pos=verb
+  yellow: pos=[adj,noun,verb]
+  yellowammer: pos=noun
+  yellowammers: pos=noun
+  yellowback: pos=noun
+  yellowbacks: pos=noun
+  yellowbellies: pos=noun
+  yellowbelly: pos=noun
+  yellowberries: pos=noun
+  yellowberry: pos=noun
+  yellowbill: pos=noun
+  yellowbills: pos=noun
+  yellowbird: pos=noun
+  yellowbirds: pos=noun
+  yellowcake: pos=noun
+  yellowcakes: pos=noun
+  yellowcress: pos=noun
+  yellowed: pos=[adj,verb]
+  yellower
+  yellowest
+  yelloweye: pos=noun
+  yelloweyes: pos=noun
+  yellowface: pos=noun
+  yellowfacing: pos=noun
+  yellowfin: pos=noun
+  yellowfins: pos=noun
+  yellowfish: pos=noun
+  yellowfishes: pos=noun
+  Yellowhair: pos=proper
+  Yellowhairs: pos=proper
+  yellowhammer: pos=noun
+  yellowhammers: pos=noun
+  yellowhead: pos=noun
+  yellowheads: pos=noun
+  yellowhorn: pos=noun
+  yellowhorns: pos=noun
+  Yellowhorse
+  yellowier
+  yellowiest
+  yellowing: pos=[verb,noun]
+  yellowings: pos=noun
+  yellowish: pos=adj
+  yellowishly: pos=adv
+  yellowishness: pos=noun
+  yellowjacket: pos=noun
+  yellowjackets: pos=noun
+  Yellowknife: pos=proper
+  Yellowknifer: pos=noun
+  Yellowknifers: pos=noun
+  yellowleg: pos=noun
+  yellowlegs: pos=noun
+  yellowly: pos=adv
+  yellowman: pos=noun
+  Yellowman
+  yellowmen: pos=noun
+  yellowmouth: pos=adj
+  yellowness: pos=noun
+  yellownesses: pos=noun
+  yellowred: pos=[adj,noun]
+  yellowreds: pos=noun
+  yellowroot: pos=noun
+  yellows: pos=[noun,verb]
+  yellowseed: pos=noun
+  yellowseeds: pos=noun
+  yellowshanks: pos=noun
+  yellowshins: pos=noun
+  Yellowstone: pos=proper
+  yellowstonense
+  yellowstonensis
+  yellowtail: pos=[adj,noun]
+  yellowtails: pos=noun
+  yellowthroat: pos=noun
+  yellowthroats: pos=noun
+  yellowtop: pos=noun
+  yellowtops: pos=noun
+  yellowware: pos=noun
+  yellowwares: pos=noun
+  yellowwood: pos=noun
+  yellowwoods: pos=noun
+  yellowwort: pos=noun
+  yellowy: pos=adj
+  yells: pos=[noun,verb]
+  Yell
+  yelm: pos=[noun,verb]
+  yelmed: pos=verb
+  yelming: pos=verb
+  yelmo
+  yelmos
+  yelms: pos=[noun,verb]
+  yelmu
+  yelna
+  yelo
+  yelok
+  yelopela
+  yelovik
+  yelovilik
+  yelow
+  yelp: pos=[noun,verb]
+  yelpaze
+  yelpe
+  yelped: pos=verb
+  yelper: pos=noun
+  yelpere
+  yelpers: pos=noun
+  Yelpers: pos=noun
+  Yelper: pos=noun
+  yelpier
+  yelpiest
+  yelpik
+  yelping: pos=[verb,noun]
+  yelpinge
+  yelpinges
+  yelpingge
+  yelpings: pos=noun
+  yelps: pos=[noun,verb]
+  yelpt: pos=verb
+  yelpy: pos=adj
+  yelpyng
+  yels
+  yelsos
+  yelsu
+  yelting: pos=noun
+  yeltings: pos=noun
+  Yelton: pos=proper
+  Yeltons: pos=proper
+  Yeltsin: pos=proper
+  Yeltsinian: pos=adj
+  Yeltsinism: pos=noun
+  yelva
+  yelve: pos=noun
+  Yelverton: pos=proper
+  Yelvertons: pos=proper
+  yelves: pos=noun
+  yelwe
+  Yel
+  yem: pos=[adv,noun]
+  yema
+  yeman: pos=noun
+  yemas
+  yembe
+  yembes
+  yemc
+  yeme: pos=verb
+  yemek
+  Yemen: pos=proper
+  yemenense
+  yemenensem
+  yemenenses
+  yemenensi
+  yemenensia
+  yemenensibus
+  yemenensis
+  yemenensium
+  Yemeni: pos=[adj,noun]
+  Yemeniness: pos=noun
+  Yemenis: pos=noun
+  yemenita
+  yemenitas
+  Yemenite: pos=noun
+  Yemenites: pos=noun
+  yemenite
+  yemeniti
+  Yemenization: pos=noun
+  Yemenize: pos=verb
+  yemeni
+  Yemenli
+  yemen: pos=noun
+  yemes
+  yemine
+  yemista: pos=noun
+  yemlik
+  yemlikler
+  yemoq
+  yems: pos=noun
+  yemtchik
+  yemtchiks
+  yemula
+  YEM
+  yen: pos=[noun,verb]
+  yena
+  Yenakiyeve: pos=proper
+  Yenakiyevo: pos=proper
+  Yenangyaung: pos=proper
+  yende
+  yendirir
+  yendirmek
+  yendirmez
+  yendirtir
+  yendirtmek
+  yendirtmez
+  yendles
+  yendo
+  yene
+  yeneinit
+  Yener
+  Yenerol
+  yener
+  yenes
+  yeng
+  yenge
+  yengece
+  yengeci
+  yengenhe
+  Yengi
+  yengil
+  yengyegang
+  yeni
+  Yeniche
+  yenici
+  yeniden
+  yenik
+  yenilik
+  yenilmek
+  yenir
+  Yenisei: pos=proper
+  Yeniseian: pos=[proper,noun,adj]
+  Yeniseianist: pos=noun
+  Yeniseianists: pos=noun
+  Yeniseians: pos=noun
+  Yenisey: pos=proper
+  Yenish: pos=adj
+  Yenissei: pos=proper
+  Yenisseian: pos=adj
+  Yenissey
+  yenite: pos=noun
+  yenmek
+  yenmez
+  Yenna: pos=proper
+  Yenne
+  yenned: pos=verb
+  yennep: pos=noun
+  yenneps: pos=noun
+  Yenner
+  yenning: pos=verb
+  yennois
+  yennoise
+  yennoises
+  Yennoises
+  Yennoise
+  Yennois
+  yeno
+  yenom: pos=noun
+  yenotte
+  yenottes
+  yenpe
+  yens: pos=[noun,verb,pron]
+  yenta: pos=noun
+  yentas: pos=noun
+  yente: pos=noun
+  yentes: pos=noun
+  yentuke
+  yenu
+  yenv
+  yenye
+  Yenyen
+  yenyewe
+  Yen: pos=proper
+  yeo: pos=noun
+  Yeoh: pos=proper
+  yeoman: pos=noun
+  yeomanerie
+  yeomaneries
+  yeomanette: pos=noun
+  yeomanettes: pos=noun
+  yeomanlike: pos=[adj,adv]
+  yeomanly: pos=[adj,adv]
+  yeomanries: pos=noun
+  yeomanry: pos=noun
+  Yeomans: pos=proper
+  yeomans
+  Yeoman: pos=proper
+  yeomen: pos=noun
+  yeoperson: pos=noun
+  yeopersons: pos=noun
+  yeorling: pos=noun
+  yeorlings: pos=noun
+  yeos: pos=noun
+  yeouch: pos=interj
+  Yeovil: pos=proper
+  Yeovilton: pos=proper
+  yeow: pos=interj
+  Yeowart: pos=proper
+  yeowch: pos=interj
+  yeowoman: pos=noun
+  yeowomen: pos=noun
+  Yeo: pos=proper
+  yep: pos=[adv,noun]
+  yepatl
+  yepe
+  Yepes
+  Yepez: pos=proper
+  Yepezes: pos=proper
+  yepi
+  yepiman
+  yeply: pos=adv
+  yepoko
+  yepokopakara
+  yepperoni: pos=adv
+  yeppers: pos=interj
+  yeppity: pos=adv
+  yeppo: pos=intj
+  Yeppoon: pos=proper
+  yeps: pos=noun
+  yepsen: pos=noun
+  yepsens: pos=noun
+  yepyeni
+  YEP: pos=proper
+  yer: pos=[adv,noun,pron,cont,determiner]
+  yera
+  yerais
+  Yeraskh: pos=proper
+  Yerazgavors: pos=proper
+  yerb: pos=noun
+  yerba: pos=noun
+  yerbabuena
+  yerbabuenas
+  yerbal
+  yerbales
+  yerbaluisa
+  yerbaluisas
+  yerbas: pos=noun
+  yerbatal
+  yerbatales
+  yerbatera
+  yerbateras
+  yerbatero
+  yerbateros
+  yerbera
+  yerberas
+  yerbero
+  yerberos
+  yerbes
+  yerbilim
+  yerbita
+  yerbitas
+  yerbs: pos=noun
+  Yerby: pos=proper
+  Yerbys: pos=proper
+  yerd: pos=[noun,verb]
+  yerde
+  yerden
+  yere: pos=[pron,noun]
+  yereis
+  yerel
+  Yeremei: pos=proper
+  Yeremey: pos=proper
+  Yeremia
+  yeren
+  Yerena: pos=proper
+  Yerenas: pos=proper
+  yeres
+  yeresyeve
+  Yerevan: pos=proper
+  Yerevanian: pos=[noun,adj]
+  Yerevanians: pos=noun
+  yerga
+  yergamos
+  yergan
+  yergas
+  Yerger: pos=proper
+  Yergers: pos=proper
+  yergo
+  yergue
+  yerguen
+  yergues
+  yeri: pos=noun
+  Yerian: pos=proper
+  Yerians: pos=proper
+  yerida: pos=noun
+  yeridah: pos=noun
+  yeridahs: pos=noun
+  yeridas: pos=noun
+  yeridot: pos=noun
+  yerim
+  yerime
+  yerimi
+  yerin
+  yerine
+  Yerington: pos=proper
+  yerini
+  yerk: pos=[verb,noun]
+  yerked: pos=verb
+  yerking: pos=verb
+  Yerkish: pos=proper
+  yerks: pos=verb
+  yerkwanto
+  yerl
+  yerler
+  yerli
+  yerlik
+  Yerlston
+  yerma
+  yermaba
+  yermabais
+  yermaban
+  yermabas
+  yermad
+  yermada
+  yermadas
+  yermado
+  yermados
+  yermamos
+  yerman
+  yermando
+  yermar
+  yermara
+  yermarais
+  yermaran
+  yermaras
+  yermare
+  yermareis
+  yermaremos
+  yermaren
+  yermares
+  yermaron
+  yermas
+  yermase
+  yermaseis
+  yermasen
+  yermases
+  yermaste
+  yermasteis
+  yerme
+  yermek
+  yermeli
+  yermemos
+  yermen
+  Yermenonville
+  yermes
+  yermic: pos=adj
+  yermo
+  yermos
+  yermosol: pos=noun
+  yermosols: pos=noun
+  yermu
+  yermulke: pos=noun
+  yermulkes: pos=noun
+  yern: pos=[adverb,verb]
+  Yernagh
+  Yernaghys
+  yerned: pos=verb
+  yerni
+  yerning: pos=verb
+  yernis
+  Yernish
+  Yernisheyr
+  Yernisheyryn
+  yerno
+  yernos
+  yerns: pos=verb
+  yernut: pos=noun
+  yernuts: pos=noun
+  yero: pos=noun
+  yeron: pos=noun
+  Yeronim
+  yeros: pos=noun
+  yerpe
+  yerpvn
+  yerra
+  yerran
+  yerrar
+  yerras
+  yerrcha
+  yerre
+  yerren
+  yerres
+  Yerres
+  yerro
+  yerros
+  yers: pos=noun
+  yersel: pos=pron
+  yerself: pos=pron
+  yerselves: pos=pron
+  yersi
+  yersinia: pos=noun
+  yersiniabactin: pos=noun
+  yersiniae: pos=noun
+  yersinial: pos=adj
+  yersinias: pos=noun
+  Yersinia
+  Yersiniose
+  Yersiniosen
+  yersinioses: pos=noun
+  yersiniose
+  yersiniosis: pos=noun
+  yersinosis: pos=noun
+  yersis
+  yersiz
+  yerstey
+  Yers: pos=noun
+  yerta
+  yertas
+  yerter
+  yerth: pos=noun
+  yerto
+  yertos
+  yerungi
+  Yerushalayim
+  yerva
+  Yerville
+  yery: pos=noun
+  YER
+  Yer: pos=noun
+  yes: pos=[interj,noun,verb]
+  yesable: pos=adj
+  Yesanguan: pos=proper
+  yesca
+  yescas
+  yese
+  Yesenia
+  yesera
+  yeseras
+  yesero
+  yeseros
+  yeses: pos=[noun,verb]
+  yesh: pos=interj
+  yeshiva: pos=noun
+  yeshivah: pos=noun
+  yeshivahs: pos=noun
+  yeshivas: pos=noun
+  Yeshivas: pos=noun
+  Yeshiva: pos=noun
+  yeshivish: pos=adj
+  Yeshivish: pos=proper
+  yeshivot: pos=noun
+  yeshivoth: pos=noun
+  Yeshivot: pos=noun
+  yeshpual
+  Yeshu
+  Yeshua: pos=proper
+  yesi
+  yesish: pos=interjection
+  yesk: pos=verb
+  yesked: pos=verb
+  yesking: pos=verb
+  yesks: pos=verb
+  yesman: pos=noun
+  yesmanship: pos=noun
+  yesmen: pos=noun
+  yeso
+  yesos
+  yesquero
+  yesqueros
+  yesques
+  yessah: pos=contraction
+  yessed: pos=verb
+  yesses: pos=noun
+  yessing: pos=verb
+  yessir: pos=[interj,noun]
+  yessiree: pos=interj
+  yessirree: pos=interj
+  yesso
+  yessoense
+  yessoensem
+  yessoenses
+  yessoensi
+  yessoensia
+  yessoensibus
+  yessoensis
+  yessoensium
+  yessotoxin: pos=noun
+  yessotoxins: pos=noun
+  Yesso: pos=proper
+  yesss: pos=interj
+  yessuh: pos=contraction
+  yessum: pos=cont
+  yest: pos=noun
+  yestaday: pos=adv
+  yeste
+  yester: pos=[adv,adj,noun]
+  yestercentury: pos=[adv,noun]
+  yesterdawn: pos=[noun,adv]
+  yesterdawns: pos=noun
+  yesterday: pos=[noun,adv]
+  yesterdays: pos=noun
+  yestereen: pos=noun
+  yestereens: pos=noun
+  yestereve: pos=[noun,adv]
+  yestereven: pos=adv
+  yesterevening: pos=noun
+  yestereves: pos=noun
+  yesterfang: pos=noun
+  yestergay: pos=noun
+  yestergays: pos=noun
+  yesterminute
+  yestermonth: pos=adv
+  yestermorn: pos=[adv,noun]
+  yestermorning: pos=noun
+  yestermorrow: pos=[noun,adv]
+  yestermorrows: pos=noun
+  yestern: pos=[adj,adv,noun]
+  yesternight: pos=[adv,noun]
+  yesternights: pos=noun
+  yesternoon: pos=noun
+  yesternoons: pos=noun
+  yesterns: pos=noun
+  yesternyght
+  yesters: pos=noun
+  yesterseason: pos=noun
+  yestersol: pos=[adv,noun]
+  yestersols: pos=noun
+  yestertech: pos=noun
+  yestertide: pos=[noun,adv]
+  yestertime: pos=[noun,adv]
+  yestertimes: pos=noun
+  yesterweek: pos=[adv,noun]
+  yesteryear: pos=noun
+  yesteryears: pos=noun
+  yesti
+  yestreen: pos=noun
+  yestreens: pos=noun
+  yests: pos=noun
+  yesty: pos=adj
+  Yesu
+  yeswoman: pos=noun
+  yeswomen: pos=noun
+  yet: pos=[adv,con,verb,noun]
+  yeta
+  yetakala
+  yete: pos=verb
+  yetella
+  yeten
+  yetenek
+  yetenekli
+  Yeter
+  yeterli
+  yeterlik
+  yeterlikler
+  yeterlilik
+  yeterlilikler
+  yetersizlik
+  yetersizlikler
+  yeter
+  yeth
+  yethdi
+  yethow
+  yeti: pos=noun
+  yetietje
+  yetietjes
+  yetiler
+  yetilike: pos=adj
+  yetim
+  yetinin
+  yetis: pos=noun
+  Yetis
+  yetiyi
+  Yeti
+  yetki
+  yetkiler
+  yetkili
+  yetkililer
+  yetkiliyi
+  yetkim
+  yetkimin
+  Yetkin
+  yetkinin
+  yetkin
+  yetkisi
+  yetkisinin
+  yetkisiz
+  yetkiyi
+  yetl
+  yetling: pos=noun
+  yetlings: pos=noun
+  Yetman: pos=proper
+  Yetmans: pos=proper
+  yetmek
+  yetmezlik
+  yetmezlikler
+  yetmezlikleri
+  Yetminster: pos=proper
+  yeto
+  yets: pos=[noun,verb]
+  yetse
+  yett: pos=[noun,adv]
+  yetted: pos=verb
+  Yetter: pos=proper
+  Yetters: pos=proper
+  yetti
+  yettinchi
+  yetting: pos=verb
+  yetts: pos=noun
+  yetu
+  yetwe
+  yeuch: pos=interj
+  yeue
+  yeugh: pos=[noun,interj]
+  yeughs: pos=noun
+  yeugua
+  yeuk: pos=[noun,verb]
+  yeuked: pos=verb
+  yeuking: pos=verb
+  yeuks: pos=[noun,verb]
+  yeuky: pos=adj
+  yeule
+  yeules
+  yeulx
+  Yeung: pos=proper
+  Yeungs: pos=proper
+  yeur
+  yeurgh: pos=interj
+  yeusaie
+  yeusaies
+  yeuse
+  yeuseraie
+  yeuseraies
+  yeuses
+  yeux
+  yev
+  yevagam
+  Yevanic: pos=proper
+  yevar
+  yevari
+  yeven
+  Yevgeni
+  Yevgeny: pos=proper
+  Yevpatoria: pos=proper
+  Yevropa
+  yevu
+  yevuwo
+  yew: pos=[noun,adj,pron]
+  yewdi
+  yewei: pos=noun
+  yewel
+  yewen: pos=adj
+  yewet
+  Yewnanistan
+  yews: pos=noun
+  yewy: pos=noun
+  yex: pos=[verb,noun]
+  yexed: pos=verb
+  yexes: pos=verb
+  yexing: pos=[verb,noun]
+  yexings: pos=noun
+  yexpa
+  yey: pos=interj
+  yeyawa
+  yeye
+  yeyn
+  yeyo: pos=noun
+  yeyos
+  yeyote
+  Yeysk: pos=proper
+  yeyuka
+  yeyukwa
+  yeyuna
+  yeyunas
+  yeyuno
+  yeyunos
+  yeyusha
+  yeyushwa
+  yez
+  Yezdi: pos=noun
+  Yezdis: pos=noun
+  yezgo
+  yezgos
+  yezh
+  yezhadur
+  yezhoniezh
+  Yezidee: pos=noun
+  Yezidees: pos=noun
+  Yezidi: pos=noun
+  Yezidis: pos=noun
+  Yezidism: pos=proper
+  Yeznanz
+  yezugun
+  Ye: pos=proper
+  YE: pos=proper
+  YF: pos=noun
+  yfaf
+  yfante
+  yfed: pos=verb
+  yfel
+  yfela
+  yfele
+  yfelum
+  yfelwillende
+  yfelwillendnes
+  yfemest
+  yfere: pos=adv
+  yffante
+  Yffiniac
+  yffiniacais
+  yffiniacaise
+  yffiniacaises
+  Yffiniacaises
+  Yffiniacaise
+  Yffiniacais
+  yfir
+  yfirdrepsskapur
+  yfirengill
+  yfirgefa
+  yfirheiti
+  yfirkoma
+  yfirlit
+  yfirstanda
+  yfirtaka
+  yfirvald
+  yfirvinna
+  yfoh
+  yfory
+  yfought: pos=verb
+  yfound: pos=verb
+  yfounded: pos=verb
+  yfrum
+  yftisite: pos=noun
+  yfvarstaf
+  yF
+  yf: pos=conjunction
+  yg
+  ygara
+  ygarusu
+  Ygdrasyl: pos=proper
+  Yggdrasil: pos=proper
+  Yggdrasill
+  yghe
+  yghes
+  yglaunst: pos=verb
+  yglesia
+  yglesias
+  yglise
+  YGM
+  ygo: pos=adv
+  ygoe: pos=adv
+  ygone: pos=verb
+  ygot: pos=verb
+  Ygot
+  Ygraine: pos=proper
+  ygrandais
+  ygrandaise
+  ygrandaises
+  Ygrandais
+  Ygrande
+  ygreja
+  yground: pos=verb
+  ygrown: pos=verb
+  YGTR
+  YGWYPF
+  YGy
+  yGy
+  Yg
+  YH
+  YHA: pos=proper
+  yhad: pos=verb
+  yhala
+  yham
+  YHBT
+  YHBW
+  yhde
+  yhdeksi
+  yhdeksien
+  yhdeksiin
+  yhdeksiksi
+  yhdeksille
+  yhdeksin
+  yhdeksine
+  yhdeksisen
+  yhdelle
+  yhden
+  yhdenlainen
+  yhdenlaisen
+  yhdenlaiset
+  yhdenmukainen
+  yhdenmukaistaa
+  yhdenmukaistaminen
+  yhdenmukaistan
+  yhdenmukaisti
+  yhdenmukaistu
+  yhdenmukaistua
+  yhdenmukaistui
+  yhdenmukaistun
+  yhdenmukaisuus
+  yhdenmuotoinen
+  yhdenmuotoisuuskuvaus
+  yhdenneksitoista
+  yhdennen
+  yhdennet
+  yhdenny
+  yhdennyn
+  yhdensi
+  yhdensuuntainen
+  yhdensuuntaisprojektio
+  yhdensuuntaistaa
+  yhdensuuntaistan
+  yhdensuuntaisti
+  yhdensuuntaistu
+  yhdensuuntaistua
+  yhdensuuntaistui
+  yhdensuuntaistuksen
+  yhdensuuntaistun
+  yhdensuuntaistus
+  yhdensuuntaisuus
+  yhdensuuntaisuusaksiooma
+  yhdentyi
+  yhdentyminen
+  yhdenvertainen
+  yhdenvertaisesti
+  yhdenvertaisuus
+  yhdes
+  yhdesti
+  yhdestoista
+  yhdestoistaosa
+  yhdet
+  yhdiste
+  yhdisteen
+  yhdisteet
+  yhdistelen
+  yhdistely
+  yhdistelykemia
+  yhdistelyn
+  yhdistettiin
+  yhdistetty
+  yhdistetyn
+  yhdisti
+  yhdisty
+  yhdistyi
+  yhdistyksen
+  yhdistyminen
+  yhdistymisvapaus
+  yhdistyn
+  yhdistyneet
+  yhdistyneiden
+  yhdistynyt
+  yhdistys
+  yhdistyslaki
+  yhdistysrekisteri
+  yhdy
+  yhdyn
+  yhdyselin
+  yhdyskunta
+  yhdyskuntalintu
+  yhdyskuntasuunnittelu
+  yhdyslukusana
+  yhdysmerkki
+  yhdysnomini
+  yhdysputki
+  yhdyssana
+  yhdyssanaa
+  yhdyssanaan
+  yhdyssanan
+  yhdyssanat
+  yhdyssanoihin
+  yhdyssanoja
+  yhdyssanojen
+  yhdyssorminen
+  yhdyssormisuus
+  yhdystie
+  yhdysvaikutus
+  Yhdysvallat
+  Yhdysvaltain
+  yhdysvaltalainen
+  yhdysvaltalaisen
+  yhdysvaltalaiset
+  yhdysvaltalaismies
+  yhdysvaltalaisnainen
+  Yhdysvaltojen
+  yhdysvarpainen
+  yhdysvarpaisuus
+  yhdysviiva
+  yhdytti
+  yhe
+  yhed
+  yherd
+  yherde
+  yhi
+  yhiyutl
+  YHJBT
+  yholde: pos=verb
+  Yhole
+  yhong
+  yhonge
+  yhour
+  yhoure
+  yhow
+  yhtaikaa
+  yhtaikaisesti
+  yhteen
+  yhteenkuuluvaisuuden
+  yhteenkuuluvaisuus
+  yhteenkuuluvuus
+  yhteenlaskea
+  yhteenlaskettava
+  yhteenlaskettu
+  yhteenlasketun
+  yhteenlaskija
+  yhteenlasku
+  yhteenlaskumerkki
+  yhteenotto
+  yhteensattuma
+  yhteensointuva
+  yhteensopimaton
+  yhteensopimattomuus
+  yhteensopiva
+  yhteensopivuus
+  yhteensovittaminen
+  yhteentoista
+  yhteenvedon
+  yhteenveto
+  yhteinen
+  yhteisarvo
+  yhteisasunto
+  yhteiseen
+  yhteiselin
+  yhteisen
+  yhteisesiintyminen
+  yhteisesiintymisen
+  yhteisesiintymiset
+  yhteisesti
+  yhteiset
+  yhteishaku
+  yhteishanke
+  yhteishauta
+  yhteishenki
+  yhteishuoltaja
+  yhteishuoltajuus
+  yhteisjakauma
+  yhteiskoulu
+  yhteiskoulutus
+  yhteiskunnallinen
+  yhteiskunnalliseen
+  yhteiskunnallisempi
+  yhteiskunnallisen
+  yhteiskunnallisessa
+  yhteiskunnallisesta
+  yhteiskunnallisesti
+  yhteiskunnallisin
+  yhteiskunnallisuuden
+  yhteiskunnallisuus
+  yhteiskunnan
+  yhteiskunnasta
+  yhteiskunnat
+  yhteiskunta
+  yhteiskuntafilosofia
+  yhteiskuntakriitikko
+  yhteiskuntakritiikki
+  yhteiskuntaluokka
+  yhteiskuntaoppi
+  yhteiskuntasopimus
+  yhteiskuntateoria
+  yhteiskuntatiede
+  yhteiskuntavastuu
+  yhteislaukaus
+  yhteisluettelo
+  yhteismaa
+  yhteismarkkinat
+  yhteismitallinen
+  yhteismitallisuus
+  yhteismitaton
+  yhteismitattoman
+  yhteismitattomuuden
+  yhteismitattomuus
+  yhteisneuvottelu
+  yhteisomistus
+  yhteispisteet
+  yhteisrahoitteinen
+  yhteissuoli
+  yhteistalous
+  yhteistiheysfunktio
+  yhteistila
+  yhteistoiminnallinen
+  yhteistoiminta
+  yhteistoimintalaki
+  yhteistoimintamenettely
+  yhteistoimintaneuvottelu
+  yhteistoimintaneuvottelut
+  yhteistoimivuuden
+  yhteistoteutus
+  yhteistuotanto
+  yhteistutkinto
+  yhteistuumin
+  yhteisvaimoisuus
+  yhteisvastuisesti
+  yhteisvastuu
+  yhteisvastuullinen
+  yhteisvoimin
+  yhteisyritys
+  yhteisyyden
+  yhteisyys
+  yhtenen
+  yhtenevyyden
+  yhtenevyys
+  yhteyden
+  yhteydenotto
+  yhteydenottoja
+  yhteydenpito
+  yhteys
+  yhteysalus
+  yhteyshauta
+  yhteysnumero
+  yhteyspiste
+  yhteystiedot
+  yhteystieto
+  yhteysvene
+  yhteytti
+  yhteytyksen
+  yhteytys
+  yhtye
+  yhtyeen
+  yhtyeet
+  yhtyi
+  yhtyneet
+  yhtyy
+  yhu
+  yhuitl
+  yhung
+  yhure
+  YHVH: pos=proper
+  YHWH: pos=proper
+  yhyng
+  yhyyotl
+  yHz
+  YHz
+  yH
+  yi
+  yia
+  yiable
+  yiables
+  yianh
+  Yiannitsa: pos=proper
+  Yiannopoulos: pos=proper
+  yiarn
+  yiarnagh
+  yiarnrey
+  yiarnyn
+  yiaspi
+  yibaay
+  yibah
+  yibal
+  yibatha
+  yibathaa
+  yibermek
+  Yibin: pos=proper
+  yibizh
+  yibok
+  Yibuti
+  yibutiana
+  yibutianas
+  yibutiano
+  yibutianos
+  yicha
+  Yichang: pos=proper
+  Yicheng: pos=proper
+  yichud: pos=noun
+  yichus: pos=noun
+  yicker: pos=verb
+  yickered: pos=verb
+  yickering: pos=verb
+  yickers: pos=verb
+  yid: pos=noun
+  yidahista
+  yidahistas
+  yidaki: pos=noun
+  yidakis: pos=noun
+  Yidali
+  yidam: pos=noun
+  yidams: pos=noun
+  yidda
+  Yidden: pos=noun
+  yiddisch
+  Yiddish: pos=[adj,proper]
+  Yiddisher: pos=noun
+  Yiddishers: pos=noun
+  Yiddishism: pos=noun
+  Yiddishisms: pos=noun
+  Yiddishist: pos=[noun,adj]
+  Yiddishistic: pos=adj
+  Yiddishists: pos=noun
+  Yiddishize: pos=verb
+  Yiddishized: pos=verb
+  Yiddishizes: pos=verb
+  Yiddishizing: pos=verb
+  Yiddishkeit: pos=noun
+  Yiddishland
+  Yiddishlike: pos=adj
+  yiddishophone
+  yiddishophones
+  yiddishs
+  yiddish
+  Yiddo: pos=noun
+  Yiddos: pos=noun
+  Yidglish: pos=noun
+  yidglish
+  yidi
+  yidich
+  yidiche
+  yidiches
+  yidiilkaal
+  yidileeh
+  Yidinj: pos=proper
+  Yidiny: pos=proper
+  yidis
+  yidishkayt: pos=noun
+  yidishkeyt: pos=noun
+  yidiz
+  yidleesh
+  yidloh
+  Yidn: pos=noun
+  yidoobish
+  yids: pos=noun
+  Yids: pos=noun
+  Yidu: pos=proper
+  yidziih
+  Yid: pos=noun
+  yie
+  yieb
+  yiebdaeuz
+  yield: pos=[verb,noun]
+  yieldable: pos=adj
+  yieldance: pos=noun
+  yieldco: pos=noun
+  yieldcos: pos=noun
+  yielded: pos=verb
+  yieldedst: pos=verb
+  yielder: pos=noun
+  yielders: pos=noun
+  yieldest: pos=verb
+  yieldeth: pos=verb
+  yieldful: pos=adj
+  yielding: pos=[verb,adj,noun]
+  yieldingly: pos=adv
+  yieldingness: pos=noun
+  yieldings: pos=noun
+  yieldless: pos=adj
+  yieldly: pos=adj
+  yields: pos=[noun,verb]
+  yieldy: pos=adj
+  yiemzsih
+  yiengz
+  yier
+  yietc
+  Yiewsley: pos=proper
+  yif: pos=con
+  yifar
+  yiff: pos=[interj,noun,verb]
+  yiffed: pos=verb
+  yiffer: pos=noun
+  yiffers: pos=noun
+  yiffier
+  yiffiest
+  yiffing: pos=verb
+  yiffs: pos=[verb,noun]
+  yiffy: pos=adj
+  yifoya
+  yift: pos=noun
+  yiftu
+  YIG: pos=noun
+  yigan
+  yigeeh
+  yigh: pos=interj
+  yighaas
+  yigirmi
+  yigit
+  yigoh
+  yih
+  Yi: pos=proper
+  Y: pos=[noun,interj,proper]
+

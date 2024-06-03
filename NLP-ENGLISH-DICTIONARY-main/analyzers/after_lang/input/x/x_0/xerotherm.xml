@@ -1,0 +1,35 @@
+<page>
+<title>xerotherm</title>
+<ns>0</ns>
+<id>6345386</id>
+<revision>
+<id>66663983</id>
+<parentid>62140148</parentid>
+<timestamp>2022-05-10T08:07:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|er|sten}} to new-format {{de-adj|comp}}; convert {{de-decl-adj|xerotherm|xerothermer|xerothermst}} to {{de-adecl|comp}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="311" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# Any [[xerothermic]] [[organism]].
+----
+==German==
+===Etymology===
+{{confix|de|xero|therm}}
+===Pronunciation===
+* {{IPA|de|/kseʁoˈtɛʁm/}}
+* {{audio|de|De-xerotherm.ogg|Audio}}
+===Adjective===
+{{de-adj|comp}}
+# [[xerothermic]]
+====Declension====
+{{de-adecl|comp}}</text>
+<sha1>q725cfal6d6b2buj0lds5x773afqd3g</sha1>
+</revision>
+</page>

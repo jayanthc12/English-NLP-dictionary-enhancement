@@ -1,0 +1,27 @@
+<page>
+<title>yeyushwa</title>
+<ns>0</ns>
+<id>6390305</id>
+<revision>
+<id>61882360</id>
+<parentid>47558159</parentid>
+<timestamp>2021-02-23T18:58:13Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio Sw-ke-yeyushwa.flac; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==Swahili==
+===Pronunciation===
+* {{audio|sw|Sw-ke-yeyushwa.flac|Audio (Kenya)}}
+===Verb===
+{{sw-verb}}
+# {{sw-derform|pass|yeyusha}}
+====Conjugation====
+{{sw-conj}}</text>
+<sha1>iayvqpd3fd78mtaeeacqb95lih84102</sha1>
+</revision>
+</page>

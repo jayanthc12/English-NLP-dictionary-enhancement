@@ -1,0 +1,29 @@
+<page>
+<title>yerth</title>
+<ns>0</ns>
+<id>1911254</id>
+<revision>
+<id>54356005</id>
+<parentid>51578551</parentid>
+<timestamp>2019-09-28T18:36:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="773" xml:space="preserve">==English==
+===Noun===
+{{en-noun|?}}
+# {{lb|en|dialectal|dated}} [[earth]]
+#* {{quote-book|en|year=1875|author=Various|title=Lippincott's Magazine of Popular Literature and Science Vol. XV., No. 85. January, 1875.|chapter=|edition=|url=http://www.gutenberg.org/etext/13440
+|passage=Maybe the great anes o' the '''yerth''' get sic a forlethie (''surfeit'') o' grand'ur 'at they're for nae mair, an' wad perish like the brute beast.}}
+#* {{quote-book|en|year=1902|author=Ellen Glasgow|title=The Battle Ground|chapter=|edition=|url=http://www.gutenberg.org/etext/6872
+|passage=Den he drap right ter de '''yerth''', en I des stop long enough ter put a tin bucket on my haid 'fo' I began ter crawl atter Marse Dan.}}
+===Anagrams===
+* {{anagrams|en|a=ehrty|ethyr|theyr|threy}}</text>
+<sha1>l8z6j5iwvlw17k8c9nsqofxxw8ph7xy</sha1>
+</revision>
+</page>

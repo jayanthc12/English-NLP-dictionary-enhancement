@@ -1,0 +1,27 @@
+<page>
+<title>Yeddo</title>
+<ns>0</ns>
+<id>170833</id>
+<revision>
+<id>50773526</id>
+<parentid>46145164</parentid>
+<timestamp>2018-11-26T05:33:13Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|obsolete}} [[Tokyo]]
+====See also====
+* {{l|en|Edo}}
+===Anagrams===
+* {{anagrams|en|a=ddeoy|dydoe}}</text>
+<sha1>71w999hq1rftro1a8vg4o6axxtfjow5</sha1>
+</revision>
+</page>

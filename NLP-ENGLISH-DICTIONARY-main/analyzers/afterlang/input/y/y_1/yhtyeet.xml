@@ -1,0 +1,25 @@
+<page>
+<title>yhtyeet</title>
+<ns>0</ns>
+<id>1012624</id>
+<revision>
+<id>50973617</id>
+<parentid>49429038</parentid>
+<timestamp>2018-11-28T14:03:08Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==Finnish==
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|yhtye|case=nominative|pl=plural}}
+===Anagrams===
+* {{anagrams|fi|a=eehttyy|hyyteet}}</text>
+<sha1>2cjfc48nb4jsvrt6nujfdun6q001ct0</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xhep</title>
+<ns>0</ns>
+<id>4634466</id>
+<revision>
+<id>60978054</id>
+<parentid>48071390</parentid>
+<timestamp>2020-10-29T21:46:28Z</timestamp>
+<contributor>
+<username>Herakliu</username>
+<id>2823677</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==Albanian==
+===Etymology===
+Borrowed from {{bor|sq|ota|جیب|tr=ceb, cep}}, from {{der|sq|ar|جَيْب||pocket}}.
+===Noun===
+{{sq-noun|m|xhepa|xhepi|xhepat}}
+# [[pocket]]
+#: {{syn|sq|shqek|shqyekë|shqeksë|}}</text>
+<sha1>8b9m3jhonlj9hjhjt303j119fn7snuc</sha1>
+</revision>
+</page>

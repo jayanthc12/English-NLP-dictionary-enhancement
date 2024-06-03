@@ -1,0 +1,23 @@
+<page>
+<title>xiphoideae</title>
+<ns>0</ns>
+<id>3440607</id>
+<revision>
+<id>66995263</id>
+<parentid>57118123</parentid>
+<timestamp>2022-05-15T09:47:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xiphoideus}} (3); combine {{inflection of|la|xiphoideus}} tag sets gen|f|s and dat|f|s into gen//dat|f|s; combine {{inflection of|la|xiphoideus}} tag sets nom|f|p and voc|f|p into nom//voc|f|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="117" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xiphoideae}}
+# {{inflection of|la|xiphoideus||nom//voc|f|p|;|gen//dat|f|s}}</text>
+<sha1>k27ergd6vxq98k44gtt8u9japtfwt8n</sha1>
+</revision>
+</page>

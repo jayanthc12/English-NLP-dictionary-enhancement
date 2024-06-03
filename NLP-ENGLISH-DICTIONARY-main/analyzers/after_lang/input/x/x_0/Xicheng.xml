@@ -1,0 +1,95 @@
+<page>
+<title>Xicheng</title>
+<ns>0</ns>
+<id>4204104</id>
+<revision>
+<id>69241473</id>
+<parentid>67916675</parentid>
+<timestamp>2022-09-12T17:38:10Z</timestamp>
+<contributor>
+<username>Arundhatisgupta</username>
+<id>3921770</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3060" xml:space="preserve">{{also|Xīchéng}}
+==English==
+{{wikipedia}}
+{{commonscat|Xicheng District}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsi-ch'eng}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} [[romanization]] of {{uder|en|cmn|-}} Chinese {{zh-l|西城|lit=[[west]] [[city]]}}.
+===Pronunciation===
+* {{IPA|en|/ʃiːˈt͡ʃʌŋ/}}
+===Proper noun===
+{{head|en|proper noun}}
+# {{place|en|district|in [[downtown]]|city/Beijing|c/China|comprising the sections immediately [[west]] of the [[Forbidden City]]}}.
+#* {{quote-book
+|en
+|year=1983
+|author=Clifton W. Pannell
+|author2=Laurence J. C. Ma
+|title=China: The Geography of Development and Modernization
+|url=https://archive.org/details/chinageographyof0000pann/
+|publisher=V. H. Winston &amp; Sons
+|ISBN=0-470-27377-1
+|page=85
+|pageurl=https://archive.org/details/chinageographyof0000pann/page/85/
+|text=The city of Peking has 85 neighborhoods, each with more than 50,000 residents (Luo, 1980). The Fengsheng Neighborhood in the '''Xicheng''' District of Peking, for example, has 14,136 families and 52,978 persons.}}
+#* {{quote-book
+|en
+|year=1989
+|author=Yi Mu; Mark V. Thompson
+|title=Crisis at Tiananmen: Reform and Reality in Modern China
+|url=https://archive.org/details/crisisattiananme00yimu/
+|location=[[San Francisco]]
+|publisher={{w|China Books}}
+|ISBN=0-8351-2290-5
+|LCCN=89-81313
+|OCLC=499120267
+|page=229
+|pageurl=https://archive.org/details/crisisattiananme00yimu/page/229/
+|text=In Xixingsheng lane of the '''Xicheng''' District, more than 20 armed policemen were beaten up by mobs; some were badly injured, and the others’ whereabouts are unknown.}}
+#* {{quote-book
+|en
+|year=2000
+|last=Brown
+|first=J. D.
+|title=Beijing
+|series={{w|Frommer's}}
+|url=https://archive.org/details/frommersbeijing00brow/
+|location=[[Foster City]], CA
+|publisher={{w|IDG Books}}
+|ISBN=0-02-862960-4
+|ISSN=1520-5568
+|OCLC=43481306
+|OL=7268947M
+|page=36
+|pageurl=https://archive.org/details/frommersbeijing00brow/page/36/
+|text='''Xicheng''' The sector immediately west of the Forbidden City, '''Xicheng''' is the site of some of the most extensive old ''hutong'' (alleyway) neighborhoods left in Beijing.}}
+#* {{quote-web
+|en
+|date=30 October 2021
+|title=China cracks down over 'serious' Covid outbreak
+|archiveurl=https://web.archive.org/web/20211030113447/https://www.france24.com/en/live-news/20211030-china-cracks-down-over-serious-covid-outbreak
+|archivedate=30 October 2021
+|work={{w|France 24}}
+|text=In Beijing, authorities ordered all cinemas closed until November 14 in the capital's '''Xicheng''' district, which lies west of Tiananmen Square and is home to over a million people.}}
+#* {{seemoreCites|en}}
+# a [[subdistrict]] in [[Zengdu]], [[Suizhou]], [[Hubei]], [[China]]
+# a [[subdistrict]] in [[Jingzhou]], [[Jingzhou]], [[Hubei]], [[China]]
+====Translations====
+{{trans-top|district; subdistricts}}
+* Chinese:
+*: Mandarin: {{t|cmn|西城|tr=Xīchéng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===See also===
+* {{l|en|Dongcheng}}
+[[Category:en:Places in China]]</text>
+<sha1>lxh4ty2qljtwmu1r6l39ahb02l08nvj</sha1>
+</revision>
+</page>

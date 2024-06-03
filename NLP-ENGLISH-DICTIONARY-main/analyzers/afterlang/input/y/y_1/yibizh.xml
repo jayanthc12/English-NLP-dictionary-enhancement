@@ -1,0 +1,39 @@
+<page>
+<title>yibizh</title>
+<ns>0</ns>
+<id>4506160</id>
+<revision>
+<id>69316519</id>
+<parentid>46216993</parentid>
+<timestamp>2022-09-18T15:36:05Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="898" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|3s|3o|∅}} {{nv-link-to-stem|-bizh|conclusive imperfective}} {{nv-link-to-root|-BIZH|braid}}.
+===Verb===
+{{head|nv|verb}}
+# he/she is [[braid#Verb|braid]]ing it, [[plait#Verb|plait]]ing it
+#: {{ux|nv|Shimá sání, shitsiiʼ shá nibizh, tʼáá shǫǫdí.|Grandmother, would you braid my hair, please?|inline=1}}
+====Conjugation====
+{{nv-paradigm|conclusive|∅/si}}.
+{{nv-verbtable|IMPERFECTIVE
+|yishbizh|yiibizh|deiibizh|nibizh|wohbizh|daahbizh|yibizh|deibizh|jibizh|dajibizh}}
+{{nv-verbtable|PERFECTIVE
+|shébizh|shiibizh|dashiibizh|shíníbizh|shoobizh|dashoobizh|yizhbizh|deizhbizh|jizhbizh|dajizhbizh}}
+{{nv-verbtable|FUTURE
+|deeshbish|diibish|dadiibish|dííbish|doohbish|dadoohbish|yidoobish|deidoobish|jidoobish|dazhdoobish}}
+====Verbal stems====
+* IMPERFECTIVE: -bizh
+* PERFECTIVE: -bizh
+* FUTURE: -bish
+* ITERATIVE: -bish
+* OPTATIVE: -bizh</text>
+<sha1>4i4p5l1pfwf8a7hkk2ne20vv65cfjrp</sha1>
+</revision>
+</page>

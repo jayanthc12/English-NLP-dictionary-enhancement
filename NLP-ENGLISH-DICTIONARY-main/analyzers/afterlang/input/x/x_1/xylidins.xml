@@ -1,0 +1,23 @@
+<page>
+<title>xylidins</title>
+<ns>0</ns>
+<id>4831252</id>
+<revision>
+<id>55749349</id>
+<parentid>53092449</parentid>
+<timestamp>2019-10-15T15:08:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylidin}}</text>
+<sha1>ahi8st8v3km2pd18pdfxpgv0pew8pgu</sha1>
+</revision>
+</page>

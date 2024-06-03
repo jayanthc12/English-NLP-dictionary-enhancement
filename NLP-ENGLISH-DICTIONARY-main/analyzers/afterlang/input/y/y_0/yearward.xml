@@ -1,0 +1,29 @@
+<page>
+<title>yearward</title>
+<ns>0</ns>
+<id>3520934</id>
+<revision>
+<id>51916353</id>
+<parentid>50871214</parentid>
+<timestamp>2019-03-16T15:48:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="389" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|year|ward}}.
+===Adverb===
+{{en-adv}}
+# In the direction of the [[year]] as a whole; toward the remainder of the year.
+#* '''1940''', Canada lumberman:
+#*: In looking '''yearward''' at this time, it is difficult to forecast the immediate future of the lumber business, because of the War.
+===Anagrams===
+* {{anagrams|en|a=aaderrwy|warrayed}}</text>
+<sha1>0j5pjtl29zqskpp3y0p43fp2xdcukr1</sha1>
+</revision>
+</page>

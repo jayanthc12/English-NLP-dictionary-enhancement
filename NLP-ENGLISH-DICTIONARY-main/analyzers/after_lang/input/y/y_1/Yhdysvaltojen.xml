@@ -1,0 +1,23 @@
+<page>
+<title>Yhdysvaltojen</title>
+<ns>0</ns>
+<id>3102570</id>
+<revision>
+<id>32949609</id>
+<parentid>27719492</parentid>
+<timestamp>2015-06-09T20:46:48Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed unnecessary type= parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="113" xml:space="preserve">==Finnish==
+===Proper noun===
+{{head|fi|proper noun form}}
+# {{fi-form of|Yhdysvallat|case=genitive|pl=plural}}</text>
+<sha1>flgutmwg1evxdo0ibmpfy6xfjntqtsl</sha1>
+</revision>
+</page>

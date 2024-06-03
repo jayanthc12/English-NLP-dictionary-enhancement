@@ -1,0 +1,37 @@
+<page>
+<title>xicohcuitlaocochiuhqui</title>
+<ns>0</ns>
+<id>4307505</id>
+<revision>
+<id>56275093</id>
+<parentid>51943209</parentid>
+<timestamp>2019-10-17T11:10:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1073" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xicocuitlaocochiuhqui}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{suffix|nci|xīcohcuitlaocōchīhua|qui|t1=to make candles}}.
+===Pronunciation===
+* {{IPA|nci|[ʃiː.koʔ.kʷi.t͡ɬa.o.koːˈt͡ʃiːʍ.ki]}}
+===Noun===
+{{nci-noun|a|xīcohcuitlaocōchīuhqui}}
+# [[chandler]], [[candlemaker]]
+#* '''1571''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 159r. col. 1.
+#*: '''Xicocuitlaocochiuhqui'''. cerero que las haze.
+#*:: '''Xicocuitlaocochiuhqui'''. chandler, one who makes them [candles].
+====Related terms====
+* {{l|nci|xīcohcuitlaocōtl}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|page=159}}
+[[Category:nci:Occupations]]</text>
+<sha1>i3igopesg8d75wagi539lnd5xmbf6le</sha1>
+</revision>
+</page>

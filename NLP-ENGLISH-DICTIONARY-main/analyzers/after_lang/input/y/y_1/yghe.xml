@@ -1,0 +1,24 @@
+<page>
+<title>yghe</title>
+<ns>0</ns>
+<id>3046849</id>
+<revision>
+<id>54964850</id>
+<parentid>49037895</parentid>
+<timestamp>2019-10-10T09:30:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">{{also|yȝe}}
+==Middle English==
+===Noun===
+{{enm-noun}}
+# {{alternative form of|enm|eie}}</text>
+<sha1>4dszurlkn0jtickokq2qrblfgrr875y</sha1>
+</revision>
+</page>

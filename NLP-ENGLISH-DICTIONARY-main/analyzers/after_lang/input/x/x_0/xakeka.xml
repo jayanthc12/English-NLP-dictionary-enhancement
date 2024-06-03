@@ -1,0 +1,27 @@
+<page>
+<title>xakeka</title>
+<ns>0</ns>
+<id>6919316</id>
+<revision>
+<id>59336129</id>
+<parentid>50442930</parentid>
+<timestamp>2020-05-11T00:39:07Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Verb */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==Xhosa==
+===Etymology===
+From {{affix|xh|xaka|alt1=-xaka|-eka}}.
+===Verb===
+{{xh-verb|xákéka}}
+# {{lb|xh|intransitive}} to be [[puzzled]]
+# {{lb|xh|intransitive}} to be [[busy]]
+====Inflection====
+{{rfinfl|xh|verb}}</text>
+<sha1>ogsxsaq3gqunlidgu7r9qlvz4d4d476</sha1>
+</revision>
+</page>

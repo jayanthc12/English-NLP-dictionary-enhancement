@@ -1,0 +1,37 @@
+<page>
+<title>xinachtli</title>
+<ns>0</ns>
+<id>479971</id>
+<revision>
+<id>64056680</id>
+<parentid>63658066</parentid>
+<timestamp>2021-09-28T19:48:31Z</timestamp>
+<contributor>
+<ip>2806:105E:F:5DCC:11AA:36E4:3AE9:9772</ip>
+</contributor>
+<comment>/* Central Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="744" xml:space="preserve">==Central Nahuatl==
+===Pronunciation===
+* {{IPA|nhn|/ʃinaːtʃtɬi/}}
+===Noun===
+{{head|nhn|noun}}
+# {{lb|nhn|Amecameca|Cholula|and|Milpa Alta}}: [[seed]]
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Milpa Alta Central Nahuatl]]
+{{c|nhn|Plants}}
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃinaːtʃtɬi/}}
+===Noun===
+{{head|nci|noun|head=xinachtli}}
+# [[seed|Seed]].
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 264.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 325.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.</text>
+<sha1>e9yc6vlog1f2fma1n8rm97qejaapvpa</sha1>
+</revision>
+</page>

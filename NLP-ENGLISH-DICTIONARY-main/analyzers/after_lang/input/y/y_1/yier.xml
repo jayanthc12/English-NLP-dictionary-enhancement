@@ -1,0 +1,29 @@
+<page>
+<title>yier</title>
+<ns>0</ns>
+<id>4919670</id>
+<revision>
+<id>54174193</id>
+<parentid>41077190</parentid>
+<timestamp>2019-09-18T12:07:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{cog}} for cognates in place of LANG {{m|CODE|...}} or {{etyl|CODE|-}} {{m|CODE|...}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="296" xml:space="preserve">==Aromanian==
+===Alternative forms===
+* {{l|rup|yieru}}
+===Etymology===
+From {{m|rup|ayinji|ayinji, yinji}}, or from {{inh|rup|la|vīneārius}}. Compare {{cog|ro|vier}}.
+===Noun===
+{{head|rup|noun|g=m|plural|yieri}}
+# [[vine]] grower, [[vineyard]] owner
+====Related terms====
+* {{l|rup|yin}}</text>
+<sha1>7k65o65fiwu3zapgvfkg3uuqr2fd7oa</sha1>
+</revision>
+</page>

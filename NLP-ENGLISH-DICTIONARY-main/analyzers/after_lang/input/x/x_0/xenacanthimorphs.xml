@@ -1,0 +1,23 @@
+<page>
+<title>xenacanthimorphs</title>
+<ns>0</ns>
+<id>6948019</id>
+<revision>
+<id>56387775</id>
+<parentid>53092190</parentid>
+<timestamp>2019-10-18T00:33:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenacanthimorph}}</text>
+<sha1>mgtlssr1vy1f9ijb1zuoltiix7xru4f</sha1>
+</revision>
+</page>

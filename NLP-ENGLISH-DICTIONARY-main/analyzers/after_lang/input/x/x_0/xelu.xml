@@ -1,0 +1,36 @@
+<page>
+<title>xelu</title>
+<ns>0</ns>
+<id>1178903</id>
+<revision>
+<id>67322973</id>
+<parentid>64036207</parentid>
+<timestamp>2022-06-09T05:12:11Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>/* Etymology */correct language code in {{inh}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="335" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|gelū}}.
+===Noun===
+{{ast-noun|m|xelos}}
+# [[ice]]
+====Related terms====
+* {{l|ast|xelar}}
+----
+==Leonese==
+===Etymology===
+From {{inh|roa-leo|la|gelū}}.
+===Noun===
+{{head|roa-leo|noun|g=m}}
+# [[ice]]
+===References===
+* [http://www.lengualeonesa.eu/castellan/Diccionario AEDLL]</text>
+<sha1>3qro57n2ap1pmonfqkccd4xwm48ptxo</sha1>
+</revision>
+</page>

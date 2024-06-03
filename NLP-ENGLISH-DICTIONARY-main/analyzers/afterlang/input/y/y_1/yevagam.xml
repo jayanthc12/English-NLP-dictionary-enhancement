@@ -1,0 +1,25 @@
+<page>
+<title>yevagam</title>
+<ns>0</ns>
+<id>5440629</id>
+<revision>
+<id>44458029</id>
+<parentid>38715490</parentid>
+<timestamp>2017-05-25T03:11:44Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==Muyuw==
+===Noun===
+{{head|myw|noun}}
+# [[water]]
+===References===
+* ''[http://www-01.sil.org/pacific/png/pubs/928474531317/Muyuw_discourse.pdf Muyuw discourse]''</text>
+<sha1>tjrc0vduntwtq2sfrojq630n4po5whe</sha1>
+</revision>
+</page>

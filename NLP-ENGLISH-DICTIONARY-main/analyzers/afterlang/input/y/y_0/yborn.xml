@@ -1,0 +1,38 @@
+<page>
+<title>yborn</title>
+<ns>0</ns>
+<id>615055</id>
+<revision>
+<id>68781477</id>
+<parentid>61274809</parentid>
+<timestamp>2022-08-27T10:20:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1014" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|born}}
+===Verb===
+{{head|en|verb form}}
+# {{en-obsolete past participle of|bear}}
+#* {{ante|1536}}, ''A Little Child There is '''Yborn''''', a carol quoted in '''1915''', Edith Rickert, ''Ancient English Christmas Carols, 1400-1700'', page 42:
+#*: ''A Little Child There is '''Yborn''''' &lt;small&gt;Before 1536.&lt;/small&gt;
+#*: ''Gloria Tibi, Domine, / Qui natus es de virgine!'' / A little child there is '''yborn''', / Out of Jesse's stock ycorn [chosen], / To save all us that were forlorn.
+#* {{RQ:Spenser Faerie Queene|year=1596.2|book=IV|canto=IX|stanza=3|page=128|passage=Yet did this Truſtie ſquire with proud diſdaine / For his friends ſake her offred fauours ſcorne, / And ſhe her ſelfe her ſyre, of whom ſhe was '''yborne'''.}}
+===Anagrams===
+* {{anagrams|en|a=bnory|Bryon|Byron|Norby|Robyn|brony}}
+----
+==Middle English==
+===Etymology===
+From {{der|enm|ang|ġeboren}}.
+===Verb===
+{{head|enm|past participle}}
+# {{past participle of|enm|bear|nocat=1}}</text>
+<sha1>lvifo5oedyfnstmvgdp68kybak1iyoj</sha1>
+</revision>
+</page>

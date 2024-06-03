@@ -1,0 +1,25 @@
+<page>
+<title>Xochimilcan</title>
+<ns>0</ns>
+<id>3728336</id>
+<revision>
+<id>51926157</id>
+<parentid>26929926</parentid>
+<timestamp>2019-03-16T18:39:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="135" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Xochimilco|an}}
+===Adjective===
+{{en-adj}}
+# Of or relating to [[Xochimilco]] in [[Mexico]].</text>
+<sha1>r3bftg4m9nbskaivnnfglvwxd2coxq6</sha1>
+</revision>
+</page>

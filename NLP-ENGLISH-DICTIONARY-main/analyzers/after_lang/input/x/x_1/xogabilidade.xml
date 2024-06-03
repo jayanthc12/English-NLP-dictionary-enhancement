@@ -1,0 +1,25 @@
+<page>
+<title>xogabilidade</title>
+<ns>0</ns>
+<id>7249054</id>
+<revision>
+<id>68876089</id>
+<parentid>53288221</parentid>
+<timestamp>2022-08-28T06:31:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="113" xml:space="preserve">==Galician==
+===Etymology===
+From {{suffix|gl|xogable|bilidade}}.
+===Noun===
+{{gl-noun|f|-}}
+# [[playability]]</text>
+<sha1>tstbs4r0vivcxcb4081tf6zjkl799ig</sha1>
+</revision>
+</page>

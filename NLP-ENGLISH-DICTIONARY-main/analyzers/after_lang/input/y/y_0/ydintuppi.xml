@@ -1,0 +1,28 @@
+<page>
+<title>ydintuppi</title>
+<ns>0</ns>
+<id>4613831</id>
+<revision>
+<id>69318282</id>
+<parentid>52039362</parentid>
+<timestamp>2022-09-18T17:09:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="246" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|tuppi|alt1=ydin-|t1=medullary|t2=sheath}}
+===Pronunciation===
+{{fi-p|ydin-tuppi}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|anatomy}} [[medullary sheath]]
+====Declension====
+{{fi-decl-ovi|ydintu|pp|p|a}}</text>
+<sha1>szyb2b8gv4ufko2v6n7cgsh78stg50z</sha1>
+</revision>
+</page>

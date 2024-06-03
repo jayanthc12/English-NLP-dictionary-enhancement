@@ -1,0 +1,23 @@
+<page>
+<title>xanthosternis</title>
+<ns>0</ns>
+<id>3425776</id>
+<revision>
+<id>66995103</id>
+<parentid>57091678</parentid>
+<timestamp>2022-05-15T09:46:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthosternus}} (5); combine {{inflection of|la|xanthosternus}} tag sets dat|m|p and dat|f|p into dat|m//f|p; combine {{inflection of|la|xanthosternus}} tag sets dat|m//f|p and dat|n|p into dat|m//f//n|p; combine {{inflection of|la|xanthosternus}} tag sets abl|m|p and abl|n|p into abl|m//n|p; combine {{inflection of|la|xanthosternus}} tag sets abl|m//n|p and abl|f|p into abl|m//n//f|p; combine {{inflection of|la|xanthosternus}} tag sets dat|m//f//n...</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="115" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthosternīs}}
+# {{inflection of|la|xanthosternus||dat//abl|m//f//n|p}}</text>
+<sha1>8ik59f7xlrzcsuz1uih5znadho4045k</sha1>
+</revision>
+</page>

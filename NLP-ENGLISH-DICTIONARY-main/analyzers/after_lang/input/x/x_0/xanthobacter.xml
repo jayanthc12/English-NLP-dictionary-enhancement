@@ -1,0 +1,30 @@
+<page>
+<title>xanthobacter</title>
+<ns>0</ns>
+<id>3850782</id>
+<revision>
+<id>66171102</id>
+<parentid>64960835</parentid>
+<timestamp>2022-03-18T17:37:13Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="291" xml:space="preserve">{{also|Xanthobacter}}
+==English==
+{{rfi|en}}
+===Etymology===
+From the genus name.
+===Noun===
+{{en-noun}}
+# Any of the [[genus]] {{taxlink|Xanthobacter|genus}} of [[gram-negative]] [[bacteria]].
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|Xanthobacteraceae|i=1}}</text>
+<sha1>1qqn1hny51z41c3q5vuzxxnh35tbkw8</sha1>
+</revision>
+</page>

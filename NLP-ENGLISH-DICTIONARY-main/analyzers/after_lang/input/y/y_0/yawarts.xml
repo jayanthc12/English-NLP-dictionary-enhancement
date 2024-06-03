@@ -1,0 +1,30 @@
+<page>
+<title>yawarts</title>
+<ns>0</ns>
+<id>6837209</id>
+<revision>
+<id>55533950</id>
+<parentid>54911362</parentid>
+<timestamp>2019-10-15T05:24:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{seeCites}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="287" xml:space="preserve">==Cebuano==
+===Etymology===
+A [[minced oath]] of {{m|ceb|yawa}}.
+===Pronunciation===
+* {{hyphenation|ceb|ya|warts}}
+===Interjection===
+{{head|ceb|interjection}}
+# {{n-g|an expression  of [[surprise]], [[disbelief]], etc.}}
+===Quotations===
+{{seeCites|ceb}}
+{{cln|ceb|minced oaths}}</text>
+<sha1>b2ocm7k2tift8qg81us23ocf5fzs409</sha1>
+</revision>
+</page>

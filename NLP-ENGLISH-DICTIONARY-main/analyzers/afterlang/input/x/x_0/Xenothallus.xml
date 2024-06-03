@@ -1,0 +1,32 @@
+<page>
+<title>Xenothallus</title>
+<ns>0</ns>
+<id>1198163</id>
+<revision>
+<id>66281036</id>
+<parentid>66281023</parentid>
+<timestamp>2022-03-30T15:34:10Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Translingual */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="423" xml:space="preserve">==Translingual==
+{{rfi|mul}}
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Pallaviciniaceae|a group of [[liverwort]]s}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Xenothallus volcanicola|species|ver=220328}}&amp;nbsp;- type species
+===References===
+* {{pedia|Pallaviciniaceae}}
+* {{specieslite|Pallaviciniaceae}}
+* {{comcatlite|Pallaviciniaceae}}
+* {{R:Tropicos|i=1|35002512}}</text>
+<sha1>ffgyrsbw4xkfykeaqbntbq9885lot3e</sha1>
+</revision>
+</page>

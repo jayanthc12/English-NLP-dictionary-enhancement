@@ -1,0 +1,27 @@
+<page>
+<title>xmara</title>
+<ns>0</ns>
+<id>1737572</id>
+<revision>
+<id>64524776</id>
+<parentid>58704072</parentid>
+<timestamp>2021-11-03T21:35:24Z</timestamp>
+<contributor>
+<ip>2.201.0.85</ip>
+</contributor>
+<comment>/* Maltese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="609" xml:space="preserve">==Maltese==
+===Etymology===
+From {{bor|mt|scn|ciumi}} (“river”, plural {{m|scn|ciùmira}}), or rather a related southern Italian form (''[[ciumara]], [[sciumara]]'').&lt;ref&gt;Wortatlas der arabischen Dialekte, Band I: Mensch, Natur, Flora und Fauna. Brill, 2010.&lt;/ref&gt; Ultimately from {{der|mt|la|flūmen}}. Though Maltese has replaced many, even everyday words with Romance borrowings, in this case it must be remembered that there are no rivers nor permanent brooks in Malta.
+===Pronunciation===
+* {{IPA|mt|/ˈʃmaː.ra/}}
+===Noun===
+{{mt-noun|g=f|p=xmajjar}}
+# [[river]]
+===References===
+&lt;references/&gt;</text>
+<sha1>bmm77kpasrsd4aiwg5hqej83jdns9hm</sha1>
+</revision>
+</page>

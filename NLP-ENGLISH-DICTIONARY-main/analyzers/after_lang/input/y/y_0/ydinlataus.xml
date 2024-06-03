@@ -1,0 +1,28 @@
+<page>
+<title>ydinlataus</title>
+<ns>0</ns>
+<id>4617507</id>
+<revision>
+<id>69318206</id>
+<parentid>52039425</parentid>
+<timestamp>2022-09-18T17:05:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|lataus}}
+===Pronunciation===
+{{fi-p|ydin-lataus}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[explosive]] [[charge]]
+====Declension====
+{{fi-decl-vastaus|ydinlatau|a}}</text>
+<sha1>l8jle4dhxgz0q8o9unsqeacn3hkjcxl</sha1>
+</revision>
+</page>

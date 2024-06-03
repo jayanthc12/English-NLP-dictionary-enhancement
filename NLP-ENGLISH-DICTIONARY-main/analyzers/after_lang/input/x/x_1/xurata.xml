@@ -1,0 +1,33 @@
+<page>
+<title>xurata</title>
+<ns>0</ns>
+<id>7048453</id>
+<revision>
+<id>54608918</id>
+<parentid>53798771</parentid>
+<timestamp>2019-10-03T06:09:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{obsolete spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="395" xml:space="preserve">==Purepecha==
+===Noun===
+{{head|pua|noun}}
+# {{obsolete spelling of|pua|xurhata}}
+----
+==Spanish==
+===Etymology===
+Borrowed from {{bor|es|pua|xurhata}}.
+===Noun===
+{{es-noun|f}}
+# {{lb|es|Michoacán}} {{taxlink|Gaudichaudia cynanchoides|species}}
+# {{lb|es|Michoacán}} {{vern|sea island cotton}} ({{taxlink|Gossypium barbadense|species}})
+===References===
+* {{R:CANVCPEM 1923|page=651}}</text>
+<sha1>fnb2cl5rhr8gzpfz1hvpn913j651ke6</sha1>
+</revision>
+</page>

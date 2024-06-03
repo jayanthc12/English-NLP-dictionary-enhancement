@@ -1,0 +1,25 @@
+<page>
+<title>yarmili</title>
+<ns>0</ns>
+<id>6555152</id>
+<revision>
+<id>56306128</id>
+<parentid>52445000</parentid>
+<timestamp>2019-10-17T12:21:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="101" xml:space="preserve">==Ido==
+===Pronunciation===
+{{io-IPA}}
+===Noun===
+{{head|io|noun form}}
+# {{plural of|io|yarmilo}}</text>
+<sha1>cggkad2np582hzffq63aqp8dxng2abh</sha1>
+</revision>
+</page>

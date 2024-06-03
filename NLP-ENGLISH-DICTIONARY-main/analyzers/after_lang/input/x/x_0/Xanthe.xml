@@ -1,0 +1,42 @@
+<page>
+<title>Xanthe</title>
+<ns>0</ns>
+<id>2149656</id>
+<revision>
+<id>59333046</id>
+<parentid>54927936</parentid>
+<timestamp>2020-05-10T11:55:30Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1057" xml:space="preserve">{{also|xanthe}}
+==English==
+===Etymology===
+From {{bor|en|grc|Ξανθή|lit=blond-haired}}, from {{m|grc|ξανθός|t=yellow}}.
+===Pronunciation===
+* {{IPA|en|/ˈzænθi/}}
+* {{hyph|en|Xan|the}}
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|rare}} {{given name|en|female|from=Ancient Greek}}.
+#* '''2009''', {{w|Anne Tyler}}, ''Noah's Compass'', Vintage {{ISBN|9780099539582}}, page 165:
+#*: &quot;So that was '''Xanthe''',&quot; she said in a musing tone.
+#*: &quot;You're thinking it's a misnomer ,aren't you,&quot; Liam said.
+#*: &quot;What?&quot;
+#*: &quot;'''Xanthe'''. It means 'golden'.&quot;
+#*: &quot;Well, I'm sure she's very pleasant as a rule.&quot;
+#*: Liam had been referring to '''Xanthe's''' coloring―her brown hair and level dark eyebrows.
+#* '''2012''', {{w|Anna Jacobs}}, ''The Trader's Dream'', Hachette UK {{ISBN|9781444714685}}
+#*: Maura looked at her in bafflement. What had this to do with her? She knew no one called '''Xanthe'''. What sort of name was that, anyway?
+----
+==Latin==
+===Proper noun===
+{{la-proper noun-form|Xanthe}}
+# {{inflection of|la|Xanthus||voc|s}}</text>
+<sha1>isb5eavnff2p6bxr6k6x3g0cqhn04h5</sha1>
+</revision>
+</page>

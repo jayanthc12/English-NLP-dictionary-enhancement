@@ -1,0 +1,36 @@
+<page>
+<title>xisto</title>
+<ns>0</ns>
+<id>1589745</id>
+<revision>
+<id>69114424</id>
+<parentid>66575831</parentid>
+<timestamp>2022-09-04T16:54:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s) (2); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="351" xml:space="preserve">{{also|Xisto}}
+==Galician==
+===Noun===
+{{gl-noun|m}}
+# [[schist]]
+# [[shale]]
+[[Category:gl:Geology]]
+----
+==Portuguese==
+===Etymology===
+{{bor+|pt|fr|schiste}}, from {{der|pt|grc|σχιστός}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xis|to}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|rock}} [[schist]]; [[shale]] {{gloss|a metamorphic rock}}</text>
+<sha1>6ufikbg5iewjsnsjmhtre3vo6a8rw40</sha1>
+</revision>
+</page>

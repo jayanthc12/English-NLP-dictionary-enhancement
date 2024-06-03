@@ -1,0 +1,45 @@
+<page>
+<title>xofre</title>
+<ns>0</ns>
+<id>1581285</id>
+<revision>
+<id>68861346</id>
+<parentid>68829227</parentid>
+<timestamp>2022-08-28T05:07:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1651" xml:space="preserve">==Galician==
+{{wikipedia|lang=gl}}
+[[File:Sulphur-178943.jpg|thumb|''Xofre'']]
+===Etymology===
+Circa 1300. Already attested in Old Galician and {{inh|gl|roa-opt|-}} in the ''{{w|Cantigas de Santa Maria}}'' (13th century) as {{m|roa-opt|suffre}}. From {{inh|gl|la|sulfur}}, {{m|la|sulphur|sulphur, sulphure}}, from {{inh|gl|ine-pro|*swelplos}}, from the root {{m|ine-pro|*swel-|t=to burn, smoulder}}. Compare {{cog|pt|enxofre}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɔfɾɪ/}}
+===Noun===
+{{gl-noun|m|-}}
+# [[sulfur]], [[sulphur]]
+#* '''1455''', X. Ferro Couselo (ed.), ''A vida e a fala dos devanceiros. Escolma de documentos en galego dos séculos XIII ao XVI'', page 315:
+#*: ''Acharon en hun esqeiro hun pedaço de '''pedra xofre''' [...] et fogil et ysca et candea de çera et hun pente e mechas de '''xofre''' e hun cordón de sedas''
+#*:: ''They found in a tinder container a piece of '''sulphur stone''' [...]  and a tinderbox, and tinder, and a candle made of wax, and a comb, and '''sulfur''' wicks, and a silk cord''
+====Related terms====
+* {{l|gl|xofrar}}
+* {{l|gl|axofrar}}
+* {{l|gl|desaxofrar}}
+* {{l|gl|axofrador}}
+* {{l|gl|arxofre}}
+===References===
+* “[http://sli.uvigo.es/DDGM/ddd_pescuda.php?pescuda=xufre&amp;tipo_busca=lema suffre]” in Dicionario de Dicionarios do galego medieval, SLI - ILGA 2006-2012.
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=x%5Bou%5Dfr&amp;corpus=xelmirez xofre]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Chemical elements]]</text>
+<sha1>hu2t1iin216n08gtqxaigrq62dwekn3</sha1>
+</revision>
+</page>

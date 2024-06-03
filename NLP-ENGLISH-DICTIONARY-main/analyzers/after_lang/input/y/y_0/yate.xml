@@ -1,0 +1,103 @@
+<page>
+<title>yate</title>
+<ns>0</ns>
+<id>92039</id>
+<revision>
+<id>68889323</id>
+<parentid>68845553</parentid>
+<timestamp>2022-08-28T08:54:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2989" xml:space="preserve">{{also|Yate}}
+==English==
+===Etymology 1===
+From {{inh|en|enm|ȝate}}, {{m|enm|yate}}, {{m|enm|ȝeat}}, alternative forms of {{m|enm|gate}}, {{m|enm|gat}}, from {{inh|en|ang|ġeat||a gate, door}}, from {{inh|en|gem-pro|*gatą||hole, opening}}.
+====Noun====
+{{en-noun}}
+# {{obsolete form of|en|gate}}
+#* {{quote-book|en|year=c. 1420|first=Thomas|last=Hoccleve|title=Dialogue|passage=Syn he of helthe hath opned me the '''yate'''}}
+#* {{quote-book|en|year=1579|year2=1679|first=Edmund|last=Spenser|authorlink=Edmund Spenser|title={{w|The Shepheardes Calender}}|chapter=May|title2=The Works of that Famous English Poet, Mr. Edmond Spenser|location2=London|publisher2=Henry Hills|page2=21|pageurl2=https://books.google.com/books?id=S9tBAQAAMAAJ&amp;pg=RA2-PA21|passage=For thy my Kiddie, be ruled by me, &lt;br&gt; And never give trust to his trechery: &lt;br&gt; And if he chance come when I am abroad, &lt;br&gt; Spar the '''yate''' fast, for fear of fraud.}}
+#* {{quote-book|en|year=1847|year_published=1870|title={{w|Wuthering Heights}}|first=Emily|last=Brontë|authorlink=Emily Bronte|location=London|publisher=Smith, Elder &amp; Co.|page=69|pageurl=https://books.google.com/books?id=7wXy0iWQhmUC&amp;pg=PA69|passage=He's left th' '''yate''' at t' full swing, and Miss's pony has trodden dahn two rigs o' corn , and plottered through, raight o'er into t' meadow!}}
+===Etymology 2===
+{{unk|en}}
+====Noun====
+{{en-noun}}
+# Any of several species of ''[[Eucalyptus]]''.
+===Anagrams===
+* {{anagrams|en|a=aety|Taye|yeat}}
+----
+==Bikol Central==
+===Etymology===
+Borrowed from {{bor|bcl|es|yate}}.
+===Pronunciation===
+* {{hyph|bcl|ya|te}}
+* {{bcl-IPA}}
+===Noun===
+{{head|bcl|noun}}
+# [[yacht]]
+====Derived terms====
+{{der3|bcl|magyate}}
+----
+==Cebuano==
+===Etymology===
+Borrowed from {{bor|ceb|es|yate}}, from {{der|ceb|en|yacht}}.
+===Pronunciation===
+* {{hyph|ceb|ya|te}}
+* {{ceb-IPA}}
+===Noun===
+{{ceb-noun}}
+# [[yacht]]
+===Quotations===
+{{seeCites|ceb}}
+{{topics|ceb|Watercraft}}
+----
+==Fijian==
+===Etymology===
+From {{m|fj|ate}}, from Proto-Central-Pacific ''*qate'', from {{inh|fj|poz-oce-pro|*qate}}, from {{inh|fj|pqe-pro|*qatay}}, from {{inh|fj|poz-cet-pro|*qatay}}, from {{inh|fj|poz-pro|*qatay}}, from {{inh|fj|map-pro|*qaCay}}.
+===Noun===
+{{head|fj|noun}}
+# {{lb|fj|anatomy}} [[liver]] {{qualifier|organ of the body}}
+----
+==Middle English==
+===Noun===
+{{enm-noun|pl=yatis}}
+# {{alternative form of|enm|gate|t=gate|id=gate}}
+----
+==Spanish==
+===Etymology===
+Borrowed from {{bor|es|en|yacht}}, from {{der|es|nl|jacht}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[yacht]]
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Watercraft}}
+----
+==Tagalog==
+===Etymology===
+Borrowed from {{bor|tl|es||yate|yacht}}.
+===Pronunciation===
+* {{IPA|tl|/ˈja.te/}}
+===Noun===
+{{tl-noun}}
+# [[yacht]]
+====Derived terms====
+* {{l|tl|yatihan}}
+----
+==Yola==
+===Contraction===
+{{head|yol|contraction}}
+# {{alt form|yol|yeeit}}
+===References===
+* {{R:Poole 1867|page=80}}</text>
+<sha1>sh40q6eanymh0wkm6tmypmrde3qxhv9</sha1>
+</revision>
+</page>

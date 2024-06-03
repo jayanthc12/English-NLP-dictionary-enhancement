@@ -1,0 +1,29 @@
+<page>
+<title>yhdistetyn</title>
+<ns>0</ns>
+<id>842984</id>
+<revision>
+<id>45807636</id>
+<parentid>32991805</parentid>
+<timestamp>2017-05-26T16:38:02Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="300" xml:space="preserve">==Finnish==
+===Adjective===
+{{head|fi|adjective form}}
+# {{fi-form of|case=genitive|pl=singular|yhdistetty}}
+===Noun===
+{{head|fi|noun form}}
+# {{fi-form of|case=genitive|pl=singular|yhdistetty}}
+===Verb===
+{{head|fi|participle form}}
+# {{fi-participle of|t=past_pasv|case=genitive|yhdistää}}</text>
+<sha1>sil66kjvat1v05kzobohgrl7iaq4nq5</sha1>
+</revision>
+</page>

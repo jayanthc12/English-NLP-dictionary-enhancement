@@ -1,0 +1,30 @@
+<page>
+<title>yaama</title>
+<ns>0</ns>
+<id>5786393</id>
+<revision>
+<id>56417527</id>
+<parentid>47663363</parentid>
+<timestamp>2019-10-18T01:44:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="343" xml:space="preserve">==Gamilaraay==
+===Pronunciation===
+* {{IPA|kld|/jaːma/}}
+===Interjection===
+{{head|kld|interjections}}
+# [[hello]]
+# question word
+===References===
+* Dhiirrala Gamilaraay Yuwaalaraay Language Program St Joseph School Po Box 125 Walgett NSW 2368 Australia
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary
+* (2015) “Ma Gamilaraay”</text>
+<sha1>gqn2t5lcjbvtrmz2v5fh9g89jb3mme9</sha1>
+</revision>
+</page>

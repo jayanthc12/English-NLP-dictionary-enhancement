@@ -1,0 +1,26 @@
+<page>
+<title>xenophobisch</title>
+<ns>0</ns>
+<id>724695</id>
+<revision>
+<id>66663975</id>
+<parentid>65672327</parentid>
+<timestamp>2022-05-10T08:07:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{de-adj|xenophobischer|xenophobischsten}} to new-format {{de-adj|comp}}; convert {{de-decl-adj|xenophobisch|xenophobischer|xenophobischst}} to {{de-adecl|comp}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==German==
+===Adjective===
+{{de-adj|comp}}
+# [[xenophobic]]
+#: {{syn|de|ausländerfeindlich|fremdenfeindlich}}
+====Declension====
+{{de-adecl|comp}}</text>
+<sha1>81c1uallnbgoeuypcovto7qazcnyxkf</sha1>
+</revision>
+</page>

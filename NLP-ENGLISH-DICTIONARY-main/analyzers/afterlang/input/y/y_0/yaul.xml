@@ -1,0 +1,25 @@
+<page>
+<title>yaul</title>
+<ns>0</ns>
+<id>3055028</id>
+<revision>
+<id>63629572</id>
+<parentid>54964919</parentid>
+<timestamp>2021-08-12T07:32:23Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="116" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative form of|en|yawl}}
+===Anagrams===
+* {{anagrams|en|a=aluy|Yalu}}</text>
+<sha1>129d6pr7z95ms40p2wmfcaa3v943078</sha1>
+</revision>
+</page>

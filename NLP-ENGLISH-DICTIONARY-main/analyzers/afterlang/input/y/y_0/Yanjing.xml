@@ -1,0 +1,30 @@
+<page>
+<title>Yanjing</title>
+<ns>0</ns>
+<id>1162920</id>
+<revision>
+<id>67291385</id>
+<parentid>43046796</parentid>
+<timestamp>2022-06-06T10:13:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|cmn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="596" xml:space="preserve">{{also|Yānjīng|yǎnjìng|yǎnjīng}}
+==English==
+{{wikipedia}}
+===Etymology===
+From the Pinyin romanization of {{uder|en|cmn|-}} {{zh-l|燕京|tr=Yānjīng}}, composed of [[燕]] (''Yān'', the name of one of the powers of the Warring States Period during the Zhou Dynasty) and [[京]] (''jīng'', &quot;capital&quot;).
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|historical}} An [[ancient]] [[city]] [[located]] within [[present-day]] [[Beijing]], the [[capital]] of [[Ji]] and [[Yan]].
+# {{lb|en|informal}} An [[epithet]] of [[modern]] [[Beijing]].
+# A brand of [[beer]].
+[[Category:en:Beijing]]</text>
+<sha1>2rhfbdltqe3ps3axjln1sbofq758erh</sha1>
+</revision>
+</page>

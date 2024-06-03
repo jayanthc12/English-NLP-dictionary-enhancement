@@ -1,0 +1,25 @@
+<page>
+<title>Yarberry</title>
+<ns>0</ns>
+<id>6289371</id>
+<revision>
+<id>67791135</id>
+<parentid>67682174</parentid>
+<timestamp>2022-07-09T19:22:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="315" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yarberrys}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yarberry'' is the 28001&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 856 individuals. ''Yarberry'' is most common among White (91.59%) individuals.</text>
+<sha1>r6m8mjv7nc7ewommtrx3nd8q77qpvv9</sha1>
+</revision>
+</page>

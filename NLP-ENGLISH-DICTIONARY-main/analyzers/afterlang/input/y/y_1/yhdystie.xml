@@ -1,0 +1,29 @@
+<page>
+<title>yhdystie</title>
+<ns>0</ns>
+<id>6892065</id>
+<revision>
+<id>62424409</id>
+<parentid>58620579</parentid>
+<timestamp>2021-04-25T11:04:12Z</timestamp>
+<contributor>
+<ip>86.169.238.169</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="509" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdys-|tie}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-tie}}
+===Noun===
+{{fi-noun}}
+# [[connecting]] [[road]] {{gloss|road belonging to a road class in Finland with roads numbered 1000–9999 and in some contexts also 11000–19999}}
+====Declension====
+{{fi-decl-suo|yhdystie|ä}}
+====Coordinate terms====
+* {{sense|road classes in Finland from largest to smallest}} {{l|fi|valtatie}}, {{l|fi|kantatie}}, {{l|fi|seututie}}, '''yhdystie'''
+[[Category:fi:Roads]]</text>
+<sha1>k42gw8c4zjt39ky0271oyrz2b2jrwl2</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>yairds</title>
+<ns>0</ns>
+<id>3572134</id>
+<revision>
+<id>63219082</id>
+<parentid>56090475</parentid>
+<timestamp>2021-07-19T21:12:21Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yaird}}
+===Anagrams===
+* {{anagrams|en|a=adirsy|disray|riyads}}
+----
+==Scots==
+===Noun===
+{{head|sco|noun plural form}}
+# {{plural of|sco|yaird}}</text>
+<sha1>3dg82na3cuzoymm7ysh3li1c5uyxbn3</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Yankey</title>
+<ns>0</ns>
+<id>6324105</id>
+<revision>
+<id>67805586</id>
+<parentid>67696202</parentid>
+<timestamp>2022-07-09T20:17:47Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="345" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yankeys}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yankey'' is the 30630&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 761 individuals. ''Yankey'' is most common among White (74.77%) and Black/African American (21.68%) individuals.</text>
+<sha1>kcr1zd18o3dzrmq93tg17yqke1xa5pc</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>Yeshiva</title>
+<ns>0</ns>
+<id>4069123</id>
+<revision>
+<id>60456284</id>
+<parentid>54471481</parentid>
+<timestamp>2020-09-21T07:54:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">{{also|yeshiva}}
+==English==
+===Noun===
+{{en-noun|s|Yeshivot}}
+# {{alternative case form of|en|yeshiva}}</text>
+<sha1>ocdeubcelmpo98utxp8xq1opcvu4l2n</sha1>
+</revision>
+</page>

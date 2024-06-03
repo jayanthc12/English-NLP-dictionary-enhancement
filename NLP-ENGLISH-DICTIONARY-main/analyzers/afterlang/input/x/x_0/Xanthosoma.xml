@@ -1,0 +1,42 @@
+<page>
+<title>Xanthosoma</title>
+<ns>0</ns>
+<id>505189</id>
+<revision>
+<id>68779496</id>
+<parentid>68582764</parentid>
+<timestamp>2022-08-27T09:36:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace 3+ newlines with 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1065" xml:space="preserve">==Translingual==
+[[File:Elephantear reduced.jpg|thumb|''[[Xanthosoma sagittifolium]]'']]
+===Etymology===
+{{der|mul|NL.|-}}, {{confix|mul|xantho|soma}}, from {{der|mul|grc|ξανθός||yellow}} + {{m|grc|σῶμα||body}}
+===Proper noun===
+{{taxoninfl|i=1|g=n}}
+# {{taxon|genus|family|Araceae|many [[tropical]] [[American]] [[arum]]s, several of which are [[starchy]] [[food]] [[staple]]s}}
+====Hypernyms====
+* {{sense|genus}} {{Araceae Hypernyms}}; [[Caladieae]]&amp;nbsp;- tribe
+====Hyponyms====
+* {{sense|genus}} ''[[Xanthosoma sagittifolium]]''&amp;nbsp;- type species; for other species see {{pedia|i=1}}
+====Coordinate terms====
+* {{sense|genus in Caladieae}} ''[[Caladium]]'', {{taxlink|Chlorospatha|genus}}, {{taxlink|Hapaline|genus}}, {{taxlink|Jasarum|genus}}, {{taxlink|Scaphispatha|genus}}, {{taxlink|Syngonium|genus}}&amp;nbsp;- genera
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:ITIS|42581|i=1}}
+* {{R:NCBI|15105|i=1}}
+* {{R:EOL|29451|i=1}}
+* {{R:USDA Plants|XANTH4}}
+* {{R:APWeb|Alismatales|Aroideae}}
+* {{R:TPL|i=1}}</text>
+<sha1>1i0kx0xjm7mb5c4xw679alr6ftsxbc9</sha1>
+</revision>
+</page>

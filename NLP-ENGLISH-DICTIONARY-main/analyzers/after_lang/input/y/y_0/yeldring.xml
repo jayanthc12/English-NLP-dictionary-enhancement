@@ -1,0 +1,25 @@
+<page>
+<title>yeldring</title>
+<ns>0</ns>
+<id>5024272</id>
+<revision>
+<id>54990360</id>
+<parentid>34874214</parentid>
+<timestamp>2019-10-10T16:26:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alt form|en|yeldrin}}
+#* '''1866''', Alexander Smith, ''Alfred Hagart's Household'' (page 20)
+#*: And the birds! not the gray sparrows you see here, but shilfas and bullfinches and yellow-'''yeldrings'''.</text>
+<sha1>kz20n5ssbxvtk7333zzrocro5sin6sn</sha1>
+</revision>
+</page>

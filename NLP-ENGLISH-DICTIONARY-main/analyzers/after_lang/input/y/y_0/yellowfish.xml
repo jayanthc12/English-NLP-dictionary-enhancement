@@ -1,0 +1,31 @@
+<page>
+<title>yellowfish</title>
+<ns>0</ns>
+<id>3038965</id>
+<revision>
+<id>60452973</id>
+<parentid>58096176</parentid>
+<timestamp>2020-09-21T07:00:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="428" xml:space="preserve">==English==
+[[File:Labeobarbus aeneus, Orange river, Richtersveld.jpg|thumb|a smallmouth '''yellowfish''', ''Labeobarbus aeneus'']]
+===Etymology===
+{{compound|en|yellow|fish}}
+===Noun===
+{{en-noun|+|yellowfish}}
+# Certain species of the [[genus]] ''[[Labeobarbus]]'' of mid-sized ray-finned [[fish]].
+===Further reading===
+* {{pedia}}
+* {{specieslite|Labeobarbus|i=1}}
+* {{comcatlite|Labeobarbus|i=1}}
+[[Category:en:Carps]]</text>
+<sha1>902a9wtakkmzbb0sig7ly90thiq0s5i</sha1>
+</revision>
+</page>

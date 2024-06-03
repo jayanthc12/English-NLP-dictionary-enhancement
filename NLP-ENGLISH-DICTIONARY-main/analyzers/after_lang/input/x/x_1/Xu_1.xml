@@ -1,0 +1,51 @@
+<page>
+<title>Xu</title>
+<ns>0</ns>
+<id>6103776</id>
+<revision>
+<id>67802228</id>
+<parentid>63856012</parentid>
+<timestamp>2022-07-09T20:04:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1339" xml:space="preserve">==English==
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsu}}, {{l|en|Hsü}}
+* {{alter|en|Sheu}}
+===Pronunciation===
+* {{IPA|en|/ʃuː/}}
+===Proper noun===
+{{en-proper noun|Xus}}
+# {{surname|en|Chinese|from=Mandarin}} from {{m|zh|徐|tr=xú}} or {{m|zh|許|tr=xǔ}}.
+====Related terms====
+{{top2}}
+* {{sense|surname from {{l|zh||徐|tr=xú}}}}
+** {{l|en|Chui}}, {{l|en|Tsui}}, {{l|en|Choi}} {{q|Cantonese}}
+** {{l|en|Chie}}, {{l|en|Choi}} {{q|Gan}}
+** {{l|en|Sy}}, {{l|en|Chi}} {{q|Hakka}}
+** {{l|en|Su}}, {{l|en|Chi}}, {{l|en|Chee}}, {{l|en|Swee}}, {{l|en|Shui}} {{q|Hokkien}}
+** {{l|en|Cher}}, {{l|en|Cheu}} {{q|Tokkien}}
+** {{l|en|Jo}} {{q|Japanese}}
+** {{l|en|Seo}} {{q|Korean}}
+{{mid}}
+* {{sense|surname from {{l|zh||許|tr=xǔ}}}}
+** {{l|en|Hui}}, {{l|en|Hoi}}, {{l|en|Hua}} {{q|Cantonese}}
+** {{l|en|Kho}}, {{l|en|Khor}}, {{l|en|Khaw}}, {{l|en|Ko}} {{q|Hakka}}
+** {{l|en|Koh}}, {{l|en|Kho}} {{q|Teochew}}
+** {{l|en|Hee}} {{q|Fuzhou}}
+** {{l|en|Heo}} {{q|Korean}}
+** {{l|en|Hy}}, {{l|en|Hai}} {{q|Vietnamese}}
+{{bottom}}
+===Statistics===
+* According to the 2010 United States Census, ''Xu'' is the 1381&lt;sup&gt;st&lt;/sup&gt; most common surname in the United States, belonging to 25622 individuals. ''Xu'' is most common among Asian/Pacific Islander (98.25%) individuals.
+===Anagrams===
+* {{anagrams|en|a=ux|&amp; ux.|UX}}</text>
+<sha1>1op7znwizkssjr7fl085tz8s12gbrs6</sha1>
+</revision>
+</page>

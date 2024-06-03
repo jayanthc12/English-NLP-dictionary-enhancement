@@ -1,0 +1,41 @@
+<page>
+<title>years</title>
+<ns>0</ns>
+<id>73467</id>
+<revision>
+<id>68718748</id>
+<parentid>65033322</parentid>
+<timestamp>2022-08-25T23:32:46Z</timestamp>
+<contributor>
+<username>Adelpine</username>
+<id>472128</id>
+</contributor>
+<comment>Replacing the IPA and enPR pronunciations and rhymes by adding those of [[year]] and /z/</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1455" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/jɪəz/}}
+* {{a|Wales|South Africa|other regions}} {{IPA|en|/jɜːz/}}
+* {{a|GenAm}} {{enPR|yîrz}}, {{IPA|en|/jɪɹz/}}
+** {{audio|en|en-us-years.ogg|Audio (US)}}
+* {{rhymes|en|ɪəz|ɜːz|ɪɹz|s1=2|s2=1}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|year}}.
+#* '''1981''', May 5 1718-PDT, Jim McGrath, ''Earliest Usenet use via Google Groups: fa.sf-lovers'', said with a smile at an awards ceremony in the Pennsylvania state Capitol
+#*: It will be a shorter book and it will not start four million '''years''' ago.
+#* {{quote-journal|en|year=2013|month=September-October|author=[http://www.americanscientist.org/authors/detail/katie-l-burke Katie L. Burke]
+|magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/5/in-the-news-47 In the News]
+|passage=Oxygen levels on Earth skyrocketed 2.4 billion '''years''' ago, when cyanobacteria evolved photosynthesis: the ability to convert water and carbon dioxide into carbohydrates and waste oxygen using solar energy.}}
+===Noun===
+{{en-plural noun}}
+# {{lb|en|colloquial|hyperbole}} A very long time.
+#: ''It took '''years''' for the bus to come.''
+====Synonyms====
+* {{sense|unusually long time}} {{l|en|ages}}, {{l|en|yonks}}, {{l|en|for ever}}, {{l|en|donkey’s years}}, {{l|en|donkey’s}}
+===Anagrams===
+* {{anagrams|en|a=aersy|Areys|Ayers|Ayres|Rayes|Reays|Sayer|Sayre|arsey|ayres|eyras|resay|sayer}}</text>
+<sha1>2mwti2znp72yptxmeuzx2watxybzyc6</sha1>
+</revision>
+</page>

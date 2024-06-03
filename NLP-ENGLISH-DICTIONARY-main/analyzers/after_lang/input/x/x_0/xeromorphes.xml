@@ -1,0 +1,25 @@
+<page>
+<title>xeromorphes</title>
+<ns>0</ns>
+<id>6171729</id>
+<revision>
+<id>60597336</id>
+<parentid>58423980</parentid>
+<timestamp>2020-09-27T13:19:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="147" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xeromorphes.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xeromorph}}</text>
+<sha1>ol24byrr99tllp2mfu12og8pwvyesy0</sha1>
+</revision>
+</page>

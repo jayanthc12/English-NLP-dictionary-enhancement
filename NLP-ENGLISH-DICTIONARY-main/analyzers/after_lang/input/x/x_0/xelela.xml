@@ -1,0 +1,26 @@
+<page>
+<title>xelela</title>
+<ns>0</ns>
+<id>6919309</id>
+<revision>
+<id>59331889</id>
+<parentid>50442919</parentid>
+<timestamp>2020-05-10T04:18:04Z</timestamp>
+<contributor>
+<username>AztecWarrior28</username>
+<id>565513</id>
+</contributor>
+<comment>/* Verb */ tone</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="173" xml:space="preserve">==Xhosa==
+===Etymology===
+From {{affix|xh|xela|alt1=-xela|-ela}}.
+===Verb===
+{{xh-verb|xélela}}
+# {{lb|xh|transitive}} to [[tell]]
+====Inflection====
+{{rfinfl|xh|verb}}</text>
+<sha1>f1z3mfwg02b16d7c5tegajx62hv7hrk</sha1>
+</revision>
+</page>

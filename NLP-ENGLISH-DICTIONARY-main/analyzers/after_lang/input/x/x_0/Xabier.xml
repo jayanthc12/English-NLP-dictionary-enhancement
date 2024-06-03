@@ -1,0 +1,36 @@
+<page>
+<title>Xabier</title>
+<ns>0</ns>
+<id>4047273</id>
+<revision>
+<id>67966120</id>
+<parentid>65433027</parentid>
+<timestamp>2022-07-16T04:47:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>eliminate dab= in {{wikipedia}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="603" xml:space="preserve">==Basque==
+{{wikipedia|Xavier (given name)|Xabier|lang=en}}
+{{wikipedia|Xabier (izena)|Xabier|lang=eu}}
+===Etymology===
+Probably composed of {{m|eu|etxe||house, home}} and {{m|eu|berri||new}}.
+===Pronunciation===
+{{eu-IPA|xabyer}}
+===Proper noun===
+{{eu-proper noun|an}}
+# {{given name|eu|male}}, [[Xavier]]
+====Declension====
+{{eu-decl-proper-anim}}
+====Descendants====
+* {{desc|en|bor=1|Xavier}}
+* {{desc|es|bor=1|Javier}}
+===References===
+* [http://www.euskaltzaindia.net/index.php?option=com_eoda&amp;Itemid=469&amp;lang=en&amp;testua=XABIER&amp;view=izenak Royal Academy of the Basque language - Onomastics]</text>
+<sha1>keexqxrq40990jmikvcn112hn4al2rh</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>yellowfishes</title>
+<ns>0</ns>
+<id>3038966</id>
+<revision>
+<id>55946876</id>
+<parentid>53093022</parentid>
+<timestamp>2019-10-16T10:44:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="122" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yellowfish}}
+[[Category:English plurals ending in &quot;-es&quot;]]</text>
+<sha1>075e6d85mof34iqqv23ciqtq43uxfc2</sha1>
+</revision>
+</page>

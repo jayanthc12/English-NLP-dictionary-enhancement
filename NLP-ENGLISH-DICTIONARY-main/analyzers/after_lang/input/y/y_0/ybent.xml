@@ -1,0 +1,31 @@
+<page>
+<title>ybent</title>
+<ns>0</ns>
+<id>1214702</id>
+<revision>
+<id>66328353</id>
+<parentid>64037938</parentid>
+<timestamp>2022-04-02T01:17:42Z</timestamp>
+<contributor>
+<username>-sche</username>
+<id>444485</id>
+</contributor>
+<comment>this is Scots, see RFC</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1327" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|ibent}}
+===Etymology===
+From {{inh|en|enm|ybende}}, {{m|enm|i-bente}}, from {{inh|en|ang|*ġebended}}, past participle of {{der|en|ang|bendan}} as well as {{m|ang|ġebendan}}. Equivalent to {{af|en|y-|bend|-t}}.
+===Verb===
+{{head|en|verb form}}
+# {{term-label|en|obsolete}} {{past participle of|en|bend}}: [[bent]]
+#* {{quote-book|en|year=1567 |title=Of the Tormets of Hell and the Paines of Loue|author=George Turbervile|page= |ISBN=|passage=Though Tytius doe indure his Liuer to be rent Of Vultures tyring on the same unto his spoyle '''ybent''':}}
+#* {{RQ:Spenser Shepheardes Calender|chapter=December|folio=49|folioend=49|versoend=1|passage=And for I was in thilke ſame looſer yeares, / (Whether the Muſe, ſo wrought me from my birth, / Or I tomuch beleeued my ſhepherd peres) / Somedele '''ybent''' to ſong and muſicks mirth, / A good olde ſhephearde, ''Wrenock'' was his name, / Made me by arte more cunning in the ſame.}}
+#* {{quote-book|en|year=1611 |title=The Troublesome Raigne of King Iohn |author=William Shakespeare|page= |ISBN=|passage=My boy shew me thy hand, blesse thee my boy, For in thy palme I see a many troubles are '''ybent''' to dwel, But thou shalt scape them all, and doe full well. }}
+===Anagrams===
+* {{anagrams|en|a=benty|Tenby|benty}}</text>
+<sha1>lf3h80ytbg9s8kkz9i14wvz8qbevk4c</sha1>
+</revision>
+</page>

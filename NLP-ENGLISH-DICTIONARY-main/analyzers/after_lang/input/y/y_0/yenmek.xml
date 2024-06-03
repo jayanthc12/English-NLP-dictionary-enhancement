@@ -1,0 +1,40 @@
+<page>
+<title>yenmek</title>
+<ns>0</ns>
+<id>247247</id>
+<revision>
+<id>69537981</id>
+<parentid>69389551</parentid>
+<timestamp>2022-10-17T19:51:16Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="722" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jænmec]}}
+* {{hyphenation|tr|yen|mek}}
+* {{audio|tr|106-yenmek.wav|Audio}}
+===Etymology 1===
+From {{inh|tr|ota|یكمك|tr=yeŋmek}}, from {{inh|tr|trk-pro|*yẹŋ-||to win}}, a possible borrowing from {{der|tr|och|贏||to win}}. Cognate with {{cog|otk||tr=yeŋ-||to win}}, {{cog|kk|жеңу}}, {{cog|ky|жеңүү}}, etc.
+====Verb====
+{{tr-verb|yener}}
+# to [[defeat]], [[overcome]]
+=====Declension=====
+{{tr-conj|yen|e|yener|e|d}}
+=====Derived terms=====
+* {{l|tr|yenilmek}}
+* {{l|tr|yendirmek}} {{qualifier|rare}}
+===Etymology 2===
+Passive form of {{m|tr|yemek||to eat}}.
+====Verb====
+{{tr-verb|yenir}}
+# to be [[eaten]]
+=====Derived terms=====
+* {{l|tr|yenilmek}}</text>
+<sha1>6g181vxsz8gzqg9j2odun9k8c92xfrn</sha1>
+</revision>
+</page>

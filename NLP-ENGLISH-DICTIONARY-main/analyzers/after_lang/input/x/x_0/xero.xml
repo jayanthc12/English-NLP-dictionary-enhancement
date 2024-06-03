@@ -1,0 +1,44 @@
+<page>
+<title>xero</title>
+<ns>0</ns>
+<id>1852717</id>
+<revision>
+<id>64552942</id>
+<parentid>63106269</parentid>
+<timestamp>2021-11-07T21:10:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-IPA}} to {{it-pr}} in cases where automatic conversion produces warnings (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="585" xml:space="preserve">{{also|xero-}}
+==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xerar||1|s|pres|indc}}
+----
+==Italian==
+===Etymology===
+Borrowed from {{bor|it|mul|Xerus}}, from {{der|it|grc|ξηρός||dry; lean}}.
+===Pronunciation===
+{{it-pr|xèro}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|zoology}} the ''[[Xerus]]'' [[taxonomic]] [[genus]]
+# any member of the ''[[Xerus]]'' taxonomic genus
+====Related terms====
+* {{l|it|xerico}}
+* {{l|it|xero-}}
+===References===
+* {{R:it:Trec}}
+----
+==Venetian==
+===Verb===
+{{head|vec|verb form}}
+# {{inflection of|vec|èser||1|s|impf|indc}}</text>
+<sha1>17ussgzevr48t1dl9y1tpmvdhgjge3k</sha1>
+</revision>
+</page>

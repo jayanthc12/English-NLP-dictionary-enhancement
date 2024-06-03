@@ -1,0 +1,44 @@
+<page>
+<title>yamen</title>
+<ns>0</ns>
+<id>1786035</id>
+<revision>
+<id>65789019</id>
+<parentid>62472649</parentid>
+<timestamp>2022-02-09T07:01:46Z</timestamp>
+<contributor>
+<username>廣九直通車</username>
+<id>2626288</id>
+</contributor>
+<comment>/* Noun */ img.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="923" xml:space="preserve">{{also|yámen|yámén}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alter|en|yamun}}
+===Etymology===
+From {{bor|en|cmn|-}} {{zh-l|衙門}}.
+===Pronunciation===
+* {{IPA|en|/ˈjɑːmən/|/jɑːˈmɛn/|/jɑːˈmʌn/}}
+===Noun===
+{{en-noun}}
+[[File:Prefect Administration Office Main Hall.jpg|thumb|The interior of a typical yamen, showing the seat for the magistrate.]]
+# A [[residence]] of an official of the [[Chinese]] Empire.
+#: {{ux|en|'''yamen''' [[runner]]}}
+====Translations====
+{{trans-top|a residence of an official of the Chinese Empire}}
+* Chinese:
+*: Mandarin: {{t+|cmn|衙門}}, {{t+|cmn|衙门|tr=yámen}}, {{t+|cmn|官衙|tr=guānyá}}
+* French: {{t+|fr|yamen|m}}
+{{trans-mid}}
+* Japanese: {{t+|ja|官衙|tr=かんが, kanga}}
+* Korean: {{t+|ko|관아}}
+* Russian: {{t|ru|ямэ́нь|m}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aemny|Eyman|Maney|Mayen|Mayne|Meany|manye|meany|yeman}}</text>
+<sha1>r5c9pafgwhz2swz0n124ehciakkphzy</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xalka</title>
+<ns>0</ns>
+<id>1321236</id>
+<revision>
+<id>63426929</id>
+<parentid>49268768</parentid>
+<timestamp>2021-07-26T03:19:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[firearm]]
+===References===
+* {{R:Wixaleyiñ 2008}}
+[[Category:arn:Weapons]]</text>
+<sha1>0vhoggkli43di3ch0qu84bvzyq7c0wa</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yellowleg</title>
+<ns>0</ns>
+<id>6141451</id>
+<revision>
+<id>60262240</id>
+<parentid>53494737</parentid>
+<timestamp>2020-09-05T04:48:33Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="250" xml:space="preserve">==English==
+{{rfi|en}}
+===Noun===
+{{en-noun}}
+# Either of two species of [[shorebird]]s, of the genus ''[[Tringa]]'', that have yellow legs
+====Derived terms====
+* {{vern|greater yellowleg}}
+* {{vern|lesser yellowleg}}
+[[Category:en:Scolopacids]]</text>
+<sha1>mfc77qjxwsu5w0pfus6xf14bxst8ql2</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xeroses</title>
+<ns>0</ns>
+<id>285578</id>
+<revision>
+<id>62397039</id>
+<parentid>55318894</parentid>
+<timestamp>2021-04-19T22:53:07Z</timestamp>
+<contributor>
+<username>BD2412</username>
+<id>5540</id>
+</contributor>
+<minor />
+<comment>/* Noun */assign categorization task to template, replaced: {{plural of|en| → {{en-irregular plural of|ending=es| using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="93" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{en-irregular plural of|ending=es|xerosis}}</text>
+<sha1>gklqzfc3hqkizucmt8pthh61zs3gja8</sha1>
+</revision>
+</page>

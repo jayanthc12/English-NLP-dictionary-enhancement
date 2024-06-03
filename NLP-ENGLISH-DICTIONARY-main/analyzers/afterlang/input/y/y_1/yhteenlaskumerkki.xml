@@ -1,0 +1,27 @@
+<page>
+<title>yhteenlaskumerkki</title>
+<ns>0</ns>
+<id>7145486</id>
+<revision>
+<id>59774140</id>
+<parentid>58603439</parentid>
+<timestamp>2020-07-18T00:26:23Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteenlasku|merkki}}
+===Pronunciation===
+{{fi-pronunciation|yhteen-lasku/merkki}}
+===Noun===
+{{fi-noun}}
+# [[addition]] [[sign]], [[plus]] [[sign]]
+====Declension====
+{{fi-decl-risti|yhteenlaskumer|kk|k|ä}}</text>
+<sha1>gjrrs9enxjut4vtthtmv9c6tn0irm7x</sha1>
+</revision>
+</page>

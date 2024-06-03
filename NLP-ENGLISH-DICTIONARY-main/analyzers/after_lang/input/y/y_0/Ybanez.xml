@@ -1,0 +1,30 @@
+<page>
+<title>Ybanez</title>
+<ns>0</ns>
+<id>6212576</id>
+<revision>
+<id>67843865</id>
+<parentid>67721483</parentid>
+<timestamp>2022-07-09T22:40:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="630" xml:space="preserve">{{also|Ybañez|Ybáñez}}
+==English==
+===Etymology===
+Anglicization of {{bor|en|es|Ybáñez}}, variant of {{m|es|Ibáñez}}. A surname common in the Philippines and Argentina. {{doublet|en|Ibanez}}.
+===Proper noun===
+{{en-proper noun|Ybanezes}}
+# {{surname|en|Hispanic and Filipino|from=Spanish}}.
+===Statistics===
+* According to the 2010 United States Census, ''Ybanez'' is the 16734&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 1709 individuals. ''Ybanez'' is most common among Hispanic/Latino (64.77%) and Asian/Pacific Islander (24.34%) individuals.
+===Anagrams===
+* {{anagrams|en|a=abenyz|Zeynab}}</text>
+<sha1>478kgxs7njr30ur6n5k6d3kjrd9rphn</sha1>
+</revision>
+</page>

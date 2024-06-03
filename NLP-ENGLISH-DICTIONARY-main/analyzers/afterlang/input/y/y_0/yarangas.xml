@@ -1,0 +1,23 @@
+<page>
+<title>yarangas</title>
+<ns>0</ns>
+<id>3738913</id>
+<revision>
+<id>56159923</id>
+<parentid>53092716</parentid>
+<timestamp>2019-10-17T06:23:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yaranga}}</text>
+<sha1>972y52lx4wlivxnmcg3recu7d0z186z</sha1>
+</revision>
+</page>

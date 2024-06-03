@@ -1,0 +1,32 @@
+<page>
+<title>ydinluu</title>
+<ns>0</ns>
+<id>4646914</id>
+<revision>
+<id>69318207</id>
+<parentid>52039636</parentid>
+<timestamp>2022-09-18T17:05:53Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="330" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|luu|t1=marrow|t2=bone}}
+===Pronunciation===
+{{fi-p|ydin-luu}}
+===Noun===
+{{fi-noun}}
+# [[marrowbone]] {{gloss|bone that contains edible marrow}}
+====Declension====
+{{fi-decl-maa|ydinluu|a}}
+====See also====
+* {{l|fi|luuydin}}
+===Anagrams===
+* {{anagrams|fi|a=dilnuuy|luuydin}}</text>
+<sha1>dpxme2pyats5q2m3sbqw75o2g3dm62o</sha1>
+</revision>
+</page>

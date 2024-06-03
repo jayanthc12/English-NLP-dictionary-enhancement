@@ -1,0 +1,41 @@
+<page>
+<title>XXS</title>
+<ns>0</ns>
+<id>557772</id>
+<revision>
+<id>67331192</id>
+<parentid>67330414</parentid>
+<timestamp>2022-06-10T03:09:09Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1359" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# {{lb|mul|chiefly|clothing}} [[extra extra small]] {{gl|the manufactured size}}
+{{C|mul|Size}}
+----
+==English==
+===Noun===
+{{en-noun|?}} {{tlb|en|no plural}}
+# {{lb|en|chiefly|clothing}} {{init of|en|extra extra small|nodot=1}} {{gl|the manufactured size or an item of that size}}.
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|chiefly|clothing}} {{init of|en|extra extra small|nodot=1}} {{gl|of the manufactured size}}.
+{{C|en|Size}}
+----
+==French==
+===Etymology===
+{{bor+|fr|en|XXS}}.
+===Adjective===
+{{fr-adj|inv=1}}
+# [[extra]] [[extra]] [[small]]
+#* {{quote-book|fr|termlang=mul|author=Sylvain Darnil|author2=Mathieu Le Roux|title=80 hommes pour changer le monde|publisher={{w|JC Lattès}}|year=2005|isbn=978-2-709-64168-5|passage=Pour le prouver, il débourse desa poche 850 thakas (24 euros). Ces prêts taille '''XXS''' aideront à financer les microprojetsde quarantedeux femmes parmiles plus pauvres de Jobra. Celaleur suffit, par exemple, pour acquérir une pouleet générer un revenu quotidien de la vente des œufs.}}
+#* {{quote-book|fr|termlang=mul|title=Guide du Routard Thaïlande 2022/23|publisher=[[w:Hachette (publisher)|Hachette Livre]]|year=2021|page=131|ibsn=978-2-01-711523-6|passage=Quelques doubles aussi, avec ou sans salle de bains, certaines taille '''XXS'''.}}
+{{C|fr|Size}}</text>
+<sha1>ld9bficd0j8oq0lqhto3i3oa1syyt54</sha1>
+</revision>
+</page>

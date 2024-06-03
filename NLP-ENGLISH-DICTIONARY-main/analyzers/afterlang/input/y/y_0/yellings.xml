@@ -1,0 +1,25 @@
+<page>
+<title>yellings</title>
+<ns>0</ns>
+<id>4359521</id>
+<revision>
+<id>56344715</id>
+<parentid>53092906</parentid>
+<timestamp>2019-10-17T13:52:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yelling}}
+===Anagrams===
+* {{anagrams|en|a=egillnsy|singlely}}</text>
+<sha1>cjgb11o24sfe6cfyiomqfmpe9cy94er</sha1>
+</revision>
+</page>

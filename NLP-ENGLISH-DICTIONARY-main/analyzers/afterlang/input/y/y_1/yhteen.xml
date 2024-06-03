@@ -1,0 +1,44 @@
+<page>
+<title>yhteen</title>
+<ns>0</ns>
+<id>534225</id>
+<revision>
+<id>59930491</id>
+<parentid>59930490</parentid>
+<timestamp>2020-08-04T21:14:02Z</timestamp>
+<contributor>
+<username>Thadh</username>
+<id>3494157</id>
+</contributor>
+<minor />
+<comment>/* Finnish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="783" xml:space="preserve">==Finnish==
+===Pronunciation===
+{{fi-pronunciation}}
+===Numeral===
+{{head|fi|numeral form}}
+# {{fi-form of|yksi|case=illative|pl=singular}}
+#: {{ux|fi|Olimme baarissa kello '''yhteen'''.|We were in the bar '''until one''' o'clock.}}
+#: {{ux|fi|Pankaa kaikki '''yhteen''' paikkaan!|Put everything '''into one''' place, please!}}
+===Adverb===
+{{fi-adv}}
+# [[together]] {{gloss|into one place; into one single thing}}
+#: [[sana|Sanat]] [[liittää|liitettiin]] '''yhteen'''.
+#:: The words were joined '''together'''.
+#: [[sovittaa]] '''yhteen''' = to [[combine]]
+====Derived terms====
+{{der-top}}
+* {{l|fi|sopia yhteen}}
+* {{l|fi|yhteenlasku}}
+{{der-mid}}
+* {{l|fi|yhteensovitus}}
+* {{l|fi|yhteentörmäys}}
+{{der-bottom}}
+====See also====
+* {{l|fi|yhdessä}}
+* {{l|fi|yhteinen}}</text>
+<sha1>6fytweuy48ixfw0gxggvw72klnyv8vm</sha1>
+</revision>
+</page>

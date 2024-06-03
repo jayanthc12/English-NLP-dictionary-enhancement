@@ -1,0 +1,35 @@
+<page>
+<title>Yeo</title>
+<ns>0</ns>
+<id>4215107</id>
+<revision>
+<id>67773216</id>
+<parentid>67752881</parentid>
+<timestamp>2022-07-09T18:10:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="552" xml:space="preserve">{{also|yeo|þeo}}
+==English==
+{{wikipedia}}
+{{slim-wikipedia|River Yeo}}
+===Pronunciation===
+* {{IPA|en|/ˈjəʊ/}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en}}.
+# Any of several [[river]]s in [[Somerset]] and [[Devon]], [[England]]
+## {{place|en|A &lt;&lt;river&gt;&gt;, also known as the River Ivel, in North &lt;&lt;co/Dorset&gt;&gt; and South &lt;&lt;co/Somerset&gt;&gt;, which joins the River &lt;&lt;river/Parrett&gt;&gt; near &lt;&lt;town/Langport&gt;&gt;}}.
+====Derived terms====
+* {{l|en|Yeoford}} {{q|Devon}}
+* {{l|en|Yeovil}} {{q|Somerset}}
+===Anagrams===
+* {{anagrams|en|a=eoy|EOY|yoe}}</text>
+<sha1>ogsve19u209cgmccp2oced91jlyqtj0</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xaqueca</title>
+<ns>0</ns>
+<id>4811964</id>
+<revision>
+<id>65007893</id>
+<parentid>56354044</parentid>
+<timestamp>2021-12-21T06:56:02Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<minor />
+<comment>/* Old Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="922" xml:space="preserve">==Old Spanish==
+===Etymology===
+Borrowed from {{bor|osp|xaa|-}}, from {{der|osp|ar|شَقِيقَة}}.
+===Pronunciation===
+* {{IPA|osp|/ʃaˈkeka/}}
+===Noun===
+{{osp-noun|f}}
+# [[migraine]]
+#* '''c. 1250''', [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 8r.
+#*: Et a tal uertud que tuelle la dolor que ſe faze en la media cabeça aq́ llaman en arauigo '''xaq́ca'''. ¬ en latin migranea.
+#*:: And its virtue is such that it alleviates the pain felt in the middle of the head, called '''''xaqueca''''' [migraine] in Arabic and ''migranea'' in Latin. &lt;!--Note that the author is not really providing the actual Arabic or Latin terms for “migraine,” but rather presenting two Old Spanish terms, the first the Arabic-derived ''jaqueca'' and the second a Latinate spelling of the Latin/Greek-derived ''migranna'' (in Late Latin actually ''hēmicrānia''), as equivalents.--&gt;
+====Descendants====
+* {{desc|es|jaqueca}}</text>
+<sha1>fzdc0925zqi5eidrzom8zzs9c42sx9x</sha1>
+</revision>
+</page>

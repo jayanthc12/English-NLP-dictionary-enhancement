@@ -1,0 +1,43 @@
+<page>
+<title>xeriscape</title>
+<ns>0</ns>
+<id>267592</id>
+<revision>
+<id>69042717</id>
+<parentid>61012378</parentid>
+<timestamp>2022-09-03T03:52:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2068" xml:space="preserve">==English==
+{{was wotd|2008|February|8}}
+===Etymology===
+From 1980s {{m|en|Xeriscape}}, a term coined (and trademarked) by [[w:Denver Water|Denver Water]]. From {{confix|en|xeri|scape}}.
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈzɛ.ɹɪ.skeɪp/}}
+* {{a|US}} {{IPA|en|/ˈzɛ.ɹə.skeɪp/}}
+* {{audio|en|en-us-xeriscape.ogg|Audio (US)}}
+===Noun===
+{{en-noun}}
+# A kind of [[landscape]] design for [[arid]] regions, minimising the need for [[irrigation]]. {{defdate|from 1980s}}
+#* '''1999''', {{w|Neal Stephenson}}, ''[[w:Cryptonomicon|Cryptonomicon]]'', London: [[w:Heinemann (publisher)|Heinemann]], &lt;small&gt;{{ISBN|978-0-434-00883-4}}&lt;/small&gt;; republished London: Arrow Books, {{w|Random House}}, 2000, &lt;small&gt;{{ISBN|978-0-09-941067-6}}&lt;/small&gt;, [https://books.google.com/books?id=Lw-00wTgBy8C&amp;pg=PA628 page 628]:
+#*: Randy looks up over the Impala and the retaining wall and the ice-clogged '''xeriscape''' above that and into the lobby of Waterhouse House, where Amy Shaftoe has her feet up on a coffee table and is looking through some of the extremely sad Cayuse-related literature that Randy bought for Avi.
+#* {{quote-book|en|author=George Oxford Miller|chapter=Native Plant Profiles|title=Landscaping with Native Plants of Texas|edition=2nd|location=Minneapolis, Minn.|publisher=[[w:The Quarto Group|Voyageur Press]]|year=2013|page=132|pageurl=https://books.google.com/books?id=pe36CwAAQBAJ&amp;pg=PA132|isbn=978-0-7603-4441-5|passage=Small, shrubby yuccas give your landscape a characteristic Southwest flavor. Their size adapts them to limited areas, such as patio and pool gardens or corner plantings. The blade-like leaves add variety to a cactus or '''xeriscape''' garden. Small yuccas make ideal accent plants, and when they send up their stalk of flowers, they become the center of attention.}}
+===Verb===
+{{en-verb}}
+# To [[landscape]] in a [[water]]-[[friendly]] manner.
+===Related terms===
+* {{l|en|xeric}}
+* {{l|en|xerophyte}}
+* {{l|en|xerophytic}}
+* {{l|en|xerophytically}}
+* {{l|en|xerophytism}}
+[[Category:English terms suffixed with -scape]]</text>
+<sha1>74swwdexhr1txlrekzgnb6efn73ybds</sha1>
+</revision>
+</page>

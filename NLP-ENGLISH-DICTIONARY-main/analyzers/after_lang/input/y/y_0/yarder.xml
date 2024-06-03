@@ -1,0 +1,38 @@
+<page>
+<title>yarder</title>
+<ns>0</ns>
+<id>56318</id>
+<revision>
+<id>67886495</id>
+<parentid>64460321</parentid>
+<timestamp>2022-07-12T01:13:32Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1009" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yard|er}}.
+===Pronunciation===
+* {{rhymes|en|ɑː(ɹ)də(ɹ)|s=2}}
+===Noun===
+{{en-noun}}
+# {{lb|en|forestry}} A motor-driven [[logging]] machine which transports logs by means of a system of [[cable]]s and [[winch]]es.
+# {{lb|en|in combination}} Something that is a stated number of [[yard]]s in some [[dimension]].
+#* '''2014''', Richard Gibson, &quot;[http://www.theguardian.com/football/2014/sep/15/hull-city-west-ham-united-premier-league-match-report West Ham’s Enner Valencia makes mark as points are shared with Hull]&quot;, ''The Guardian'', 15 September 2014:
+#*: His 25-'''yarder''' was sandwiched by classy finishes from Hull’s debutants Abel Hernández and Mohamed Diamé before a howler from the goalkeeper Allan McGregor resulted in a Curtis Davies own goal.
+====Derived terms====
+* {{l|en|grapple yarder}}
+* {{l|en|mobile yarder}}
+====See also====
+* {{l|en|footer}}
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=aderry|Ardrey|Drayer|dreary|yarred}}</text>
+<sha1>4avrx6ejsvjpf8pg984nr2d43zo12kx</sha1>
+</revision>
+</page>

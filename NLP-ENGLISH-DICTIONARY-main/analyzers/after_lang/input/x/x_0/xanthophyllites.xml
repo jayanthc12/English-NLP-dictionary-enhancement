@@ -1,0 +1,23 @@
+<page>
+<title>xanthophyllites</title>
+<ns>0</ns>
+<id>2667542</id>
+<revision>
+<id>55909031</id>
+<parentid>53092159</parentid>
+<timestamp>2019-10-16T08:55:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="80" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xanthophyllite}}</text>
+<sha1>o71pw3o5lfs4czek1g5bu7xogaub05z</sha1>
+</revision>
+</page>

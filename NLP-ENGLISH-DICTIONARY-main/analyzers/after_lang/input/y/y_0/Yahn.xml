@@ -1,0 +1,27 @@
+<page>
+<title>Yahn</title>
+<ns>0</ns>
+<id>6280939</id>
+<revision>
+<id>67785631</id>
+<parentid>67676699</parentid>
+<timestamp>2022-07-09T19:00:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="354" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yahns}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yahn'' is the 26727&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 911 individuals. ''Yahn'' is most common among White (94.51%) individuals.
+===Anagrams===
+* {{anagrams|en|a=ahny|Hany|nyah}}</text>
+<sha1>mvq6i9munmdxuq277nn6ft1rd96rdcp</sha1>
+</revision>
+</page>

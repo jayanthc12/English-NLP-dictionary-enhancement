@@ -1,0 +1,48 @@
+<page>
+<title>xuixo</title>
+<ns>0</ns>
+<id>5864594</id>
+<revision>
+<id>66313214</id>
+<parentid>59827247</parentid>
+<timestamp>2022-03-31T19:45:20Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="745" xml:space="preserve">==English==
+[[File:Xuixo.jpg|thumb]]
+===Alternative forms===
+* {{alter|en|xuxo}}
+===Etymology===
+{{bor|en|ca|xuixo}}
+===Noun===
+{{en-noun}}
+# A [[viennoiserie]] [[pastry]] from [[Girona]] in [[Catalonia]], Spain.
+===Further reading===
+* {{pedia}}
+[[Category:en:Cakes and pastries]]
+----
+==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Etymology 1===
+Borrowed from {{bor|ca|fr|chouchou}}.
+====Noun====
+{{ca-noun|m}}
+# [[#English|xuixo]] {{gloss|[[viennoiserie]] from [[Girona]] in Catalonia, Spain}}
+===Etymology 2===
+Borrowed from {{bor|ca|es|chuzo}}.
+====Noun====
+{{ca-noun|m}}
+# A [[pointed]] [[stick]] formerly wielded by [[night watchmen]].
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}
+{{C|ca|Cakes and pastries|Weapons}}</text>
+<sha1>p1994iqqitlodaxyep0iu4eyadveogp</sha1>
+</revision>
+</page>

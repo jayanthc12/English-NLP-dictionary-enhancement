@@ -1,0 +1,25 @@
+<page>
+<title>yampie</title>
+<ns>0</ns>
+<id>6073265</id>
+<revision>
+<id>55000062</id>
+<parentid>50922851</parentid>
+<timestamp>2019-10-11T04:45:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="111" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alt form|en|yampee}}
+===Anagrams===
+* {{anagrams|en|a=aeimpy|pyemia}}</text>
+<sha1>6emll5ozcugatsxkr5ebfr0yk0wyahh</sha1>
+</revision>
+</page>

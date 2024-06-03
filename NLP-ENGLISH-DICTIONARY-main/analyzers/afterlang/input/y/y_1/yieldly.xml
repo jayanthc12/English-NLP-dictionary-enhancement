@@ -1,0 +1,33 @@
+<page>
+<title>yieldly</title>
+<ns>0</ns>
+<id>4565248</id>
+<revision>
+<id>51947624</id>
+<parentid>51135860</parentid>
+<timestamp>2019-03-17T01:40:59Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1068" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yield|ly}}.
+===Adjective===
+{{en-adj}}
+# Of, relating to, or producing [[yield]]; [[productive]].
+#* '''1922''', ''Typographical Journal - Volume 60 - Page 448'':
+#*: The executive council feels the full strength of the appeal made by you that the historic continuity of the arbitration agreement should not be subject to interruption, but the council, nevertheless, feels that the advantages gained for our members by past generations should not lightly be jeopardized or weakly '''yieldly'''.
+#* '''1971''', ''The Sarawak Museum Journal - Volume 19 - Page 188'':
+#*: Come and instruct, come speak to us Come and take pity on us Come O hawk, come to the left Take away all that evil, all that disturbs&quot; Or &quot;Come O hawk, o come to the right Make our rice healthy, make it '''yieldly''', Strong in leaf, strong in root.
+#* '''1990''', ''Rajasthan Economic Journal - Volume 14 - Page 63'':
+#*: Liberalisation policies adopted in 1980s have, however, begun '''yieldly''' results.
+====Derived terms====
+* {{l|en|unyieldly}}</text>
+<sha1>e35xleyrgnihkzhf32bytl78wv073we</sha1>
+</revision>
+</page>

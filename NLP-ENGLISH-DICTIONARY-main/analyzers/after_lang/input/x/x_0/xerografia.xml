@@ -1,0 +1,33 @@
+<page>
+<title>xerografia</title>
+<ns>0</ns>
+<id>1056676</id>
+<revision>
+<id>54210735</id>
+<parentid>51977660</parentid>
+<timestamp>2019-09-20T14:24:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Replace raw links with templated links: [[xerografico]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">{{also|xerografiá|xerografía}}
+==Italian==
+===Etymology===
+{{confix|it|xero|grafia}}
+===Noun===
+{{it-noun|f}}
+# [[xerography]]
+====Related terms====
+* {{l|it|xerografico}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|f|-}}
+# [[xerography]]</text>
+<sha1>cici3e9sz0at7itl16ya6c636f6mske</sha1>
+</revision>
+</page>

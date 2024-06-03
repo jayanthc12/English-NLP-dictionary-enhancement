@@ -1,0 +1,34 @@
+<page>
+<title>xex</title>
+<ns>0</ns>
+<id>3474059</id>
+<revision>
+<id>68929409</id>
+<parentid>67526826</parentid>
+<timestamp>2022-08-28T16:39:19Z</timestamp>
+<contributor>
+<username>Flāvidus</username>
+<id>3475616</id>
+</contributor>
+<comment>/* Noun */ edited using [[wikt:User:Dixtosa/AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="446" xml:space="preserve">==Bouyei==
+===Etymology===
+From {{inh|pcc|tai-pro|*z.ɟɯːꟲ||to [[buy]]}}. Cognate with {{cog|th|ซื้อ}}, {{cog|lo|ຊື້}}, {{cog|khb|ᦌᦹᧉ}}, {{cog|shn|သိုဝ်ႉ}}, {{cog|aho|𑜏𑜢𑜤𑜈𑜫}}, {{cog|za|cawx}}.
+===Pronunciation===
+{{pcc-pron}}
+===Verb===
+{{head|pcc|verb}}
+# to [[buy]]
+----
+==Yazghulami==
+===Noun===
+{{rfp|yah}}
+{{head|yah|noun}}
+# [[water]]
+===References===
+* {{R:yah:Edelman|page=309}}</text>
+<sha1>3tbw9efwcayrfehqg8bupq6f400svc8</sha1>
+</revision>
+</page>

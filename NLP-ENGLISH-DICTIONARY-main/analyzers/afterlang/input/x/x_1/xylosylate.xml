@@ -1,0 +1,25 @@
+<page>
+<title>xylosylate</title>
+<ns>0</ns>
+<id>4928111</id>
+<revision>
+<id>61014198</id>
+<parentid>60999664</parentid>
+<timestamp>2020-11-03T06:22:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove new=1 from {{en-verb}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylosyl|ate}}
+===Verb===
+{{en-verb}}
+# To attach a [[xylosyl]] moiety to a molecule</text>
+<sha1>qymd9sq4mjf5at9uygbn1ex67ob41lg</sha1>
+</revision>
+</page>

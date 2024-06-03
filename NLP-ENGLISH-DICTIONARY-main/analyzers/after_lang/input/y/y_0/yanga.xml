@@ -1,0 +1,45 @@
+<page>
+<title>yanga</title>
+<ns>0</ns>
+<id>6081838</id>
+<revision>
+<id>68984445</id>
+<parentid>60362453</parentid>
+<timestamp>2022-08-30T05:21:16Z</timestamp>
+<contributor>
+<username>TagaSanPedroAko</username>
+<id>2101924</id>
+</contributor>
+<comment>/* Jamaican Creole */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1052" xml:space="preserve">{{also|Yanga}}
+==Jamaican Creole==
+===Etymology===
+Possibly from or related to {{m|jam|nyanga}}, from {{der|jam|men|nyanga||ostentation; showing off}}.  Possibly influenced by {{cog|es|yanga||carelessly; without necessity}}.  Compare {{cog|bnt-pro|*-yȧng-||dance in joy}}&lt;!-- source reads &quot;cf CB [Common Bantu] *-yȧng-, dance about in joy&quot; --&gt; and {{cog|kg|-yangalala||be happy}}.
+===Pronunciation===
+* {{IPA|jam|/ˈjaŋɡa/}}
+===Noun===
+{{jam-noun}}
+# A [[dance]] with a [[fast]] [[rhythm]].
+===Verb===
+{{jam-verb}}
+# To [[walk]] or [[dance]] [[provocatively]].
+===References===
+* {{cite-book|title=Dictionary of Jamaican English|editors=Cassidy, Frederic Gomes; Le Page, Robert Brock|publisher=University of the West Indies Press|year=2002|isbn=9789766401276|edition=2nd|page=484}}
+----
+==Kapampangan==
+===Noun===
+{{pam-noun|yánga}}
+# type of [[earthen]] [[jar]] used to [[store]] [[rice]] for making {{m|pam|busa}}.
+----
+==Tagalog==
+===Noun===
+{{tl-noun|yangá}}
+# [[flowerpot]]
+====Synonyms====
+* {{l|tl|masetera}}
+* {{l|tl|paso}}</text>
+<sha1>qrqi0ev8zz049w34s4vyxhjsxultxe6</sha1>
+</revision>
+</page>

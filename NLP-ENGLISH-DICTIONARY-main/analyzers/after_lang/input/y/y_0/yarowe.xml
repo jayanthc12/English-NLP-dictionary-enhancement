@@ -1,0 +1,23 @@
+<page>
+<title>yarowe</title>
+<ns>0</ns>
+<id>7006754</id>
+<revision>
+<id>55019075</id>
+<parentid>50763662</parentid>
+<timestamp>2019-10-11T09:53:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="76" xml:space="preserve">==Middle English==
+===Noun===
+{{head|enm|noun}}
+# {{alt form|enm|ȝarowe}}</text>
+<sha1>nyxvpbf543ex5k1fp322cisq45s1zbx</sha1>
+</revision>
+</page>

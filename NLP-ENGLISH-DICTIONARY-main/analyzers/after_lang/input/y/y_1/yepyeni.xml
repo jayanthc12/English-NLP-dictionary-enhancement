@@ -1,0 +1,28 @@
+<page>
+<title>yepyeni</title>
+<ns>0</ns>
+<id>1540242</id>
+<revision>
+<id>62943980</id>
+<parentid>46308843</parentid>
+<timestamp>2021-06-23T21:15:25Z</timestamp>
+<contributor>
+<username>Whitekiko</username>
+<id>3765395</id>
+</contributor>
+<comment>/* Turkish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="290" xml:space="preserve">==Turkish==
+===Etymology===
+From {{l|tr|yeni}} (“new”).
+===Pronunciation===
+* {{IPA|tr|[ˈjep.je.ni]}}
+* {{hyphenation|tr|yep|ye|ni}}
+===Adjective===
+{{tr-adj}}
+# A more intense version of [[yeni]] (&quot;new&quot;)
+#: {{ux|tr|'''Yepyeni''' bir fikrimiz var.|We have a '''brand new''' idea.}}</text>
+<sha1>6ctabxz1lzbj27kgpa81xbbjypavvx5</sha1>
+</revision>
+</page>

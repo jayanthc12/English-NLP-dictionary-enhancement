@@ -1,0 +1,43 @@
+<page>
+<title>xiaolongbao</title>
+<ns>0</ns>
+<id>3040090</id>
+<revision>
+<id>68504652</id>
+<parentid>67888230</parentid>
+<timestamp>2022-08-01T03:19:12Z</timestamp>
+<contributor>
+<username>Justinrleung</username>
+<id>1298227</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1159" xml:space="preserve">{{also|xiǎolóngbāo}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Etymology===
+From the [[Hanyu Pinyin]] romanization of {{bor|en|cmn|小籠包|tr=xiǎolóngbāo|lit=[[little]]-[[basket]] [[dumpling]]}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈʃaʊlɒŋbaʊ/}}
+* {{a|UK}} {{IPA|en|/ˈʃaʊlɔŋbaʊ/}} or {{IPA|en|/ʃaʊlɔŋˈbaʊ/}}, ''{{smallcaps|shao}}-long-bao''
+===Noun===
+{{en-noun|xiaolongbao}}
+# {{lb|en|Chinese cuisine}} A [[type]] of [[dumpling]] or [[steamed]] [[bun]] (''[[baozi]]'') [[associate]]d with [[eastern]] [[China]], [[particularly]] [[Nanxiang]] near [[Shanghai]].
+====Translations====
+{{trans-top|steamed dumpling}}
+* Chinese:
+*: Cantonese: {{t|yue|小籠包}}, {{t|yue|小笼包|tr=siu2 lung4 baau1}}
+*: Mandarin: {{t+|cmn|小籠包|sc=Hani}}, {{t+|cmn|小笼包|tr=xiǎolóngbāo}}, {{t|cmn|小籠饅頭|sc=Hani}}, {{t|cmn|小笼馒头|tr=xiǎolóng mántou}}
+* Finnish: {{t+|fi|myky}}
+{{trans-mid}}
+* French: {{t-needed|fr}}
+* Japanese: {{t|ja|小籠包|tr=しょうろんぽう, shōronpō|sc=Jpan}}
+* Korean: {{t-needed|ko}}
+* Russian: {{t|ru|сяолунба́о|m|n}}
+{{trans-bottom}}
+[[Category:en:Food and drink]]</text>
+<sha1>btk3p5l64t0zi5pzt9eb7rgt6m1ejvk</sha1>
+</revision>
+</page>

@@ -1,0 +1,44 @@
+<page>
+<title>Yankunytjatjara</title>
+<ns>0</ns>
+<id>874818</id>
+<revision>
+<id>62990435</id>
+<parentid>62990414</parentid>
+<timestamp>2021-06-29T00:50:37Z</timestamp>
+<contributor>
+<username>Sonofcawdrey</username>
+<id>2848980</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1039" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Yankuntjatjarra}}
+===Etymology===
+From {{der|en|kdd|Yankunytjatjara}}, from {{compound|kdd|yankunytja|tjara|nocat=1}}, literally 'having (the word) &quot;yankunytja&quot; (as opposed to the word {{m|pjt|pitjantja}})'.
+===Proper noun===
+{{en-proper noun}}
+# An [[Aboriginal]] [[language]] (or dialect), mainly spoken in central [[Australia]] and belonging to the Western Desert language group (or language), which in turn belongs to the [[Pama-Nyungan]] subfamily.
+===Adjective===
+{{en-adj|-}}
+# Of or pertaining to the Yankunytjatjara people, culture, or language.
+===See also===
+* {{l|en|Ngaanyatjarra}}
+* {{l|en|Ngaatjatjarra}}
+* {{l|en|Pitjantjatjara}}
+====Further reading====
+* {{ethnologue|code=kdd}}
+[[Category:en:Languages]]
+----
+==Yankunytjatjara==
+===Etymology===
+From {{compound|kdd|yankunytja|tjara}}, literally 'having (the word) &quot;yankunytja&quot; (as opposed to the word {{m|pjt|pitjantja}})'.
+===Proper noun===
+{{head|kdd|proper nouns}}
+# [[#English|Yankunytjatjara]]</text>
+<sha1>s8rdgqjbw9conediy94yq8mgbn9cq8g</sha1>
+</revision>
+</page>

@@ -1,0 +1,56 @@
+<page>
+<title>Xibe</title>
+<ns>0</ns>
+<id>6473341</id>
+<revision>
+<id>67414709</id>
+<parentid>67412828</parentid>
+<timestamp>2022-06-19T19:01:00Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1094" xml:space="preserve">==English==
+{{wikipedia|lang=en}}
+===Alternative forms===
+* {{alter|en|Sibe|Sibo|Xibo}}
+===Pronunciation===
+* {{IPA|en|/ˈsi.be/}}
+===Noun===
+{{en-noun|Xibe}}
+# A [[Tungusic]] people of [[Xinjiang]] Uyghur Autonomous Region in Northwest China.
+====Translations====
+{{trans-top|people}}
+* Chinese:
+*: Mandarin: {{t+|cmn|錫伯}}, {{t+|cmn|锡伯|tr=xībó}}
+* Japanese: {{t|ja|シベ族}}
+* Kazakh: {{t|kk|сібе}}
+* Manchu: {{t|mnc|ᠰᡳᠪᡝ}}
+{{trans-mid}}
+* Russian: {{t|ru|сибо|m}}
+* Xibe: {{t|sjo|ᠰᡞᠪᡝ|tr=sibe}}
+{{trans-bottom}}
+===Proper noun===
+{{en-proper noun}}
+# The [[Tungusic]] language spoken by the [[Xibe]] people of Northwest China.
+====Translations====
+{{trans-top|language}}
+* Chinese:
+*: Mandarin: {{t+|cmn|錫伯語}}, {{t+|cmn|锡伯语|tr=xíbó yǔ}}
+{{trans-mid}}
+* Japanese: {{t|ja|シベ語}}
+* Xibe: {{t|sjo|ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ|tr=sibe gisun}}
+{{trans-bottom}}
+===Further reading===
+* {{ISO 639|ref=1|3=sjo}}
+* {{ethnologue|sjo}}
+===Anagrams===
+* {{anagrams|en|a=beix|exbi-|ibex}}
+[[Category:en:Demonyms]]
+[[Category:en:Languages]]</text>
+<sha1>grh0nem6waix2i78k5e6c3nhuiiv4d6</sha1>
+</revision>
+</page>

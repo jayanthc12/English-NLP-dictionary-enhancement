@@ -1,0 +1,29 @@
+<page>
+<title>Xampanya</title>
+<ns>0</ns>
+<id>6604923</id>
+<revision>
+<id>64245205</id>
+<parentid>62411898</parentid>
+<timestamp>2021-10-16T17:56:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="241" xml:space="preserve">==Catalan==
+{{wikipedia|lang=ca}}
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|aɲa|s=3}}
+===Proper noun===
+{{ca-proper noun|f}}
+# {{place|ca|region|c/France|t1=Champagne}}
+====Related terms====
+* {{l|ca|xampany}}
+* {{l|ca|xampanyès}}</text>
+<sha1>4dzsnpy0mgdf67tesrbq4nnsaf6w070</sha1>
+</revision>
+</page>

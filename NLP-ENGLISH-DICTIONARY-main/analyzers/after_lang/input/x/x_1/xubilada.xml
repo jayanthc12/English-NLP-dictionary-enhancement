@@ -1,0 +1,23 @@
+<page>
+<title>xubilada</title>
+<ns>0</ns>
+<id>4352036</id>
+<revision>
+<id>54627410</id>
+<parentid>33490994</parentid>
+<timestamp>2019-10-03T12:06:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine singular past participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="126" xml:space="preserve">==Asturian==
+===Verb===
+{{head|ast|past participle form|g=f}}
+# {{feminine singular past participle of|ast|xubilar|nocat=1}}</text>
+<sha1>5v7d262wtjqmlczl7a8saz4t5fs4yow</sha1>
+</revision>
+</page>

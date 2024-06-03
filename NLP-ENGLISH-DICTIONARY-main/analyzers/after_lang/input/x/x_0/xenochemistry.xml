@@ -1,0 +1,35 @@
+<page>
+<title>xenochemistry</title>
+<ns>0</ns>
+<id>6090600</id>
+<revision>
+<id>67049132</id>
+<parentid>61119123</parentid>
+<timestamp>2022-05-17T10:03:21Z</timestamp>
+<contributor>
+<username>Adam78</username>
+<id>3172</id>
+</contributor>
+<minor />
+<comment>/* See also */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="586" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|chemistry}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare|scifi}} The [[study]] of [[extraterrestrial]] [[chemistry]].
+#* '''2012''', Norman M. Wereley, Janet M. Sater, ''Plants and Mechanical Motion: A Synthetic Approach to Nastic Materials and Structures''
+#*: The engineering scale shows “simple copy” at the biological “system or structure” level down to “'''xenochemistry''' of engineered systems” at the “molecular level.”
+===See also===
+{{col4|en
+|chemistry
+|astrochemistry
+|cosmochemistry
+|xenobiochemistry
+|xenophysics
+}}</text>
+<sha1>16zvgz17m9ag9atnzbj6o3e6tilnr61</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>yaodong</title>
+<ns>0</ns>
+<id>6843159</id>
+<revision>
+<id>67300908</id>
+<parentid>64150683</parentid>
+<timestamp>2022-06-06T13:02:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|cmn}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="676" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|cmn|-}} {{zh-l|窯洞|tr=yáodòng}}.
+===Pronunciation===
+* {{IPA|en|/jaʊˈdʊŋ/}}
+===Noun===
+{{en-noun}}
+# A [[type]] of [[earth]] [[shelter]] [[dwelling]] common in the [[Loess Plateau]] in [[northern]] [[China]].
+====Translations====
+{{trans-top|earth shelter dwelling}}
+* Chinese:
+*: Mandarin: {{t+|cmn|窯洞}}, {{t+|cmn|窑洞|tr=yáodòng}}
+* French: {{t+|fr|yaodong|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|ヤオトン|tr=yaoton}}, {{t|ja|窰洞|tr=ヤオトン, yaoton}}
+* Korean: {{t+|ko|요동(窯洞)}}
+* Russian: {{t|ru|яоду́н|m}}
+{{trans-bottom}}
+[[Category:en:Buildings]]
+[[Category:en:China]]</text>
+<sha1>6ht4mn9vvf9owpe6t9rh7qeon5095h4</sha1>
+</revision>
+</page>

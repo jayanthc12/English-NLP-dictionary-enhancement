@@ -1,0 +1,22 @@
+<page>
+<title>xipollejaria</title>
+<ns>0</ns>
+<id>5991057</id>
+<revision>
+<id>41924280</id>
+<timestamp>2016-12-25T05:03:00Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="144" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=3|n=sg|m=cond|xipollejar}}
+# {{ca-verb form of|p=1|n=sg|m=cond|xipollejar}}</text>
+<sha1>fuhxtnm0gie7lr3gfn7ri69arqb4k07</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xeroftalmo</title>
+<ns>0</ns>
+<id>1625368</id>
+<revision>
+<id>67324619</id>
+<parentid>62731384</parentid>
+<timestamp>2022-06-09T09:36:21Z</timestamp>
+<contributor>
+<username>GianWiki</username>
+<id>581633</id>
+</contributor>
+<comment>+rhyme [[Rhymes:Italian/almo|-almo]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==Italian==
+===Pronunciation===
+* {{rhymes|it|almo|s=4}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|pathology}} [[xerophthalmia]]
+#: {{syn|it|xeroftalmia}}</text>
+<sha1>lhxqungrv7ggy096kzpcrfjf67nj1j2</sha1>
+</revision>
+</page>

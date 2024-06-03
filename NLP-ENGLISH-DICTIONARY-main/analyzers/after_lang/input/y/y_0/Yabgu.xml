@@ -1,0 +1,24 @@
+<page>
+<title>Yabgu</title>
+<ns>0</ns>
+<id>2452912</id>
+<revision>
+<id>54928283</id>
+<parentid>46390390</parentid>
+<timestamp>2019-10-09T11:13:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{given name}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">{{also|yabgu}}
+==Turkish==
+===Proper noun===
+{{tr-proper noun}}
+# {{given name|tr|male}}</text>
+<sha1>c0xx60nprbqfugxbuf9jgtpwnisgvwd</sha1>
+</revision>
+</page>

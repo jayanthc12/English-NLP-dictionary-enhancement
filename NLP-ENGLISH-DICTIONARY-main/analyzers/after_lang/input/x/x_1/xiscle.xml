@@ -1,0 +1,33 @@
+<page>
+<title>xiscle</title>
+<ns>0</ns>
+<id>7061177</id>
+<revision>
+<id>69600066</id>
+<parentid>51252447</parentid>
+<timestamp>2022-10-26T20:23:07Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<minor />
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="256" xml:space="preserve">==Catalan==
+===Etymology===
+{{deverbal|ca|xisclar}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# [[cry]], [[yell]]; [[shriek]], [[scream]]
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+{{C|ca|Vocalizations}}</text>
+<sha1>iqfewzwnz2kzy56pp0td52nhiddayxw</sha1>
+</revision>
+</page>

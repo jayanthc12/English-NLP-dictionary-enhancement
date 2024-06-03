@@ -1,0 +1,62 @@
+<page>
+<title>yaourt</title>
+<ns>0</ns>
+<id>269385</id>
+<revision>
+<id>68775436</id>
+<parentid>67078036</parentid>
+<timestamp>2022-08-27T07:54:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1755" xml:space="preserve">==English==
+{{tea room|en|y=2021|m=February}}
+===Alternative forms===
+* {{l|en|yaoort}}
+* {{l|en|yaourti}}
+* {{l|en|yaort}}
+* {{l|en|youart}}
+* {{l|en|yourt}}
+===Etymology===
+From {{bor|en|fr|yaourt}}, from {{der|en|tr|yoğurt}}&lt;ref&gt;Oxford English Dictionary. 1989.&lt;/ref&gt;&lt;ref&gt;[http://dictionary.reference.com/browse/yaourt &quot;yaourt.&quot;] Dictionary.com. ''Dictionary.com Unabridged (v 1.1).'' Random House, Inc. 2008.&lt;/ref&gt; {{doublet|en|yogurt}}.
+===Noun===
+{{en-noun|-}}
+# A [[liquor]] [[ferment]]ed from [[milk]], originally by the [[Turk]]s.
+====Related terms====
+* {{l|en|yoghourt}}, {{l|en|yoghurd}}, {{l|en|yoghurt}}, {{l|en|yogurt}}
+===References===
+&lt;references /&gt;
+===Anagrams===
+* {{anagrams|en|a=aortuy|Touray|outray}}
+[[Category:en:Alcoholic beverages]]
+----
+==French==
+[[File:Pot_faïence-yaourt_des_Gourmets.jpg|thumb|un pot de '''yaourt''']]
+===Alternative forms===
+* {{alt|fr|yahourt}}
+* {{alt|fr|yoghourt}}
+* {{alt|fr|yogourt}}
+===Etymology===
+From {{bor|fr|tr|yoğurt}}.
+===Pronunciation===
+* {{fr-asph}} {{fr-IPA|yaourte|+}}
+* {{audio|fr|Fr-yaourt.ogg|audio}}
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|chiefly|France}} {{l|en|yoghurt}}
+# a song where the singer makes up the words as they're singing, either as dummy lyrics as part of the songwriting process, or because the singer doesn't know the real lyrics of an existing song; used primarily with a verb: ''chanter en yaourt''
+====Usage notes====
+* This word is treated as if it has an [[aspirated h]] despite not being written with an h.
+* The variants {{m|fr|yoghourt}} and {{m|fr|yogourt}} are more common in Belgium, Switzerland and Canada. Especially in Canada the form {{m|fr|yaourt}} is rarely used.
+===Further reading===
+* {{R:TLFi}}
+* {{pedia|lang=fr}}
+{{C|fr|Foods}}</text>
+<sha1>6r7yxwrvmatfi5i5s45zw8rdq1itjqi</sha1>
+</revision>
+</page>

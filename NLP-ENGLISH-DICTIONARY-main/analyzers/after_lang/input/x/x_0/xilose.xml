@@ -1,0 +1,33 @@
+<page>
+<title>xilose</title>
+<ns>0</ns>
+<id>4986652</id>
+<revision>
+<id>69232538</id>
+<parentid>69217356</parentid>
+<timestamp>2022-09-11T11:48:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (replace default plural 'xiloses' with '+')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="379" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{af|pt|xilo-|-ose}} (compare {{cog|fr|xylose}}, {{cog|es|xilosa}}).
+===Pronunciation===
+{{pt-IPA|xilóse}}
+* {{hyph|pt|xi|lo|se}}
+===Noun===
+{{pt-noun|f|-|pl2=+}}
+# {{lb|pt|carbohydrate}} [[xylose]] {{gloss|a sugar derived from wood}}
+===Further reading===
+* {{R:pt:Aulete}}
+* {{R:pt:Infopédia}}
+* {{R:pt:Michaelis}}
+* {{R:pt:Priberam}}</text>
+<sha1>gl5ieiywzskqlimuwqudsfyh2bk30og</sha1>
+</revision>
+</page>

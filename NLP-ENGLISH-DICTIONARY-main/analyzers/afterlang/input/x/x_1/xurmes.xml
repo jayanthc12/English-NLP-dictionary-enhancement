@@ -1,0 +1,23 @@
+<page>
+<title>xurmes</title>
+<ns>0</ns>
+<id>4802972</id>
+<revision>
+<id>55732850</id>
+<parentid>44209808</parentid>
+<timestamp>2019-10-15T14:24:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xurma}}</text>
+<sha1>l17wh69whiek8o2cqo8507qa5m3b5pp</sha1>
+</revision>
+</page>

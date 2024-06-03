@@ -1,0 +1,40 @@
+<page>
+<title>xenotime</title>
+<ns>0</ns>
+<id>706774</id>
+<revision>
+<id>67290326</id>
+<parentid>62822190</parentid>
+<timestamp>2022-06-06T09:51:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="744" xml:space="preserve">{{also|Xenotime|xénotime}}
+==English==
+[[Image:Xenotime_Yttrium_phosphate_Trout_Creek_Pass_Chaffee_County_Colorado_1929.jpg|thumb|Xenotime]]
+{{wikipedia}}
+===Etymology===
+From {{uder|en|grc|κενός||vain}}, {{m|grc|τιμή||honour}}, because the [[yttrium]] in the mineral was originally thought to be a new element.
+===Noun===
+{{en-noun|~}}
+# {{lb|en|mineral}} A yellow-brown [[mineral]], [[yttrium phosphate]] ([[yttrium|Y]][[phosphorus|P]][[oxygen|O]]&lt;sub&gt;4&lt;/sub&gt;)
+====Translations====
+{{trans-top|a yellow-brown mineral}}
+* Finnish: {{t|fi|ksenotiimi}}
+* German: {{t+|de|Xenotim|m}}
+{{trans-mid}}
+* Italian: {{t|it|xenotima|f}}
+{{trans-bottom}}
+----
+==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xenotima}}</text>
+<sha1>2ayihyvkqd0da6sngkz6e9d1qqds3rp</sha1>
+</revision>
+</page>

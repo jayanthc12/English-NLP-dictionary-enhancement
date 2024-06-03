@@ -1,0 +1,25 @@
+<page>
+<title>yhdeksiin</title>
+<ns>0</ns>
+<id>803052</id>
+<revision>
+<id>50966834</id>
+<parentid>50001251</parentid>
+<timestamp>2018-11-28T12:09:39Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Finnish==
+===Numeral===
+{{head|fi|numeral form}}
+# {{fi-form of|yhdeksän|case=illative|pl=plural}}
+===Anagrams===
+* {{anagrams|fi|a=dehiiknsy|ehdyksiin}}</text>
+<sha1>54plp9ykx23z4urceeoztyd99g0ld21</sha1>
+</revision>
+</page>

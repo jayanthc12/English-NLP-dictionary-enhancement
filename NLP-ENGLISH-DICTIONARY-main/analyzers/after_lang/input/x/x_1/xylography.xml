@@ -1,0 +1,36 @@
+<page>
+<title>xylography</title>
+<ns>0</ns>
+<id>43915</id>
+<revision>
+<id>64460267</id>
+<parentid>59365823</parentid>
+<timestamp>2021-10-28T12:20:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1276" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|fr|xylographie}}, corresponding to {{af|en|xylo-|-graphy|gloss1=wood|gloss2=writing}}.&lt;ref&gt;{{R:Merriam-Webster Online}}&lt;/ref&gt;
+===Pronunciation===
+* {{audio|en|en-us-xylography.ogg|Audio (US)}}
+* {{rhymes|en|ɒɡɹəfi|s=4}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare}} The art of making [[xylograph]]s.
+#: {{coordinate terms|en|woodblock printing}}
+#* '''1995''', Manfredo Tafuri, ''Venice and the Renaissance'', MIT Press ({{ISBN|9780262700542}}), page 236:
+#*: Furthermore, one ought to mention the '''xylography''' that has been attributed to  Titian since the eighteenth century and that represents San Rocco e storie della  sua vita (fig. 72) (London, British Museum, inv. 1860-4-14-140), circulated as a {{...}}
+#* '''2018''', Peter Francis Kornicki, ''Chinese Writing and the Rise of the Vernacular in East Asia'', Oxford University Press ({{ISBN|9780192518699}})
+#*: '''Xylography''' involves writing the text to be printed onto thin paper, fixing the paper face down on a flat wooden block and then carving away the  white parts to leave the text upstanding in relief. In order to print, it is necessary to {{...}}
+====Translations====
+{{trans-see|art of making xylographs|woodcut}}
+===References===
+&lt;references/&gt;</text>
+<sha1>b9sya5dwwos21rwbuu50azyyhteqd16</sha1>
+</revision>
+</page>

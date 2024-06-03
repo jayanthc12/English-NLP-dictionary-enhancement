@@ -1,0 +1,27 @@
+<page>
+<title>xylophonic</title>
+<ns>0</ns>
+<id>2995745</id>
+<revision>
+<id>54390543</id>
+<parentid>51893840</parentid>
+<timestamp>2019-09-29T05:06:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="494" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xylophone|ic}}
+===Adjective===
+{{en-adj}}
+# Of or pertaining to a [[xylophone]].
+#* {{quote-journal|en|date=February 10, 2008|author=David Colman|title=Long Before Legos, Wood Was Nice and Did Suffice|work=New York Times|url=http://www.nytimes.com/2008/02/10/fashion/10POSS.html
+|passage=Everything about them &amp;mdash; the look, the feel, the faint smell, the '''xylophonic''' sound they make when they fall over &amp;mdash; reminds him of his youth.}}</text>
+<sha1>8es28e4axubtxl00xllfepeop1bfgbh</sha1>
+</revision>
+</page>

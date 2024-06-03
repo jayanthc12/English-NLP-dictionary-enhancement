@@ -1,0 +1,34 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-7 14:31:34
+# MODIFIED:
+###############################################
+
+@CODE
+
+if (G("$islastfile") || !G("$isdirrun")) {
+   # KBDump();
+    L("file") = G("$kbpath")+"words.kbb";
+    L("output") = openfile(L("file"));
+    # SaveKB("stats.kbb",G("stats"),2);
+    # SaveKB( L("output"),G("words"),2);
+    closefile(L("output"));
+    G("debug") << "Conjugations: " << str(G("conju")) << "\n";
+}
+
+closefile(G("debug"));
+# if(G("$isfirstfile"))
+    cbuf()<< "<xml>";
+
+XMLOut(cbuf());
+
+# if(G("$islastfile"))
+    cbuf()<< "</xml>";
+# XMLOut("output.xml");
+# cbuf()<<"hello";
+
+
+
+@@CODE

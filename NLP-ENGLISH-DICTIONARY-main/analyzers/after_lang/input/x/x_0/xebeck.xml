@@ -1,0 +1,25 @@
+<page>
+<title>xebeck</title>
+<ns>0</ns>
+<id>4691558</id>
+<revision>
+<id>54363896</id>
+<parentid>51578343</parentid>
+<timestamp>2019-09-28T20:53:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{archaic form of}}; move lang= to 1= in {{quote-book}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2554" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{archaic form of|en|xebec}}
+#* {{quote-book|en|author=“a sea-officer” &amp;#91;{{w|Thomas Mathews}}?&amp;#93;|title=A Narrative of the Proceedings of His Majesty’s Fleet in the Mediterranean, and the Combined Fleets of France and Spain, from the Year 1741, to March 1744. Including an Accurate Account of the Late Fight near Toulon, and the Causes of Our Miscarriage: The Lines of Battle on Both Sides, Plans of Villa Franca, Naples, Hieres Bay, and Toulon: The French Admiral’s Journal in French and English, from the Time He Left Toulon, until He Anchored with His Fleet in Alicant Road. Likewise Some Signals Greatly Wanted on the Late Occasion: And a List of Captains and Lieutenants Made by Admiral Mathews in the Mediterranean, Their Different Removes, &amp;c. With Many Useful Observations|location=London|publisher=Printed for J. Millan, near {{w|Whitehall}}|year=1744|page=25|pageurl=https://books.google.com/books?id=KuVbAAAAQAAJ&amp;pg=PA25|oclc=883653443|passage=Fourteen '''''Xebecks''''' loaded with Ammunition, Cannon, and other warlike Stores from ''Majorca'', bound to any Part of ''Italy'', where they could be landed for the Uſe of the ''Spaniſh'' Army, having got ſafe to ''Genoa'' in the latter End of ''June'', Admiral ''Mathews'' on board of the ''Namur'', with the ''Barfleur'', ''Norfolk'', ''Princeſs Caroline'', ''Ipſwich'' and ''Revenge'' went there, and concluded a Treaty; {{...}}}}
+#* {{quote-book|en|author=Daniel Panzac|author2=John E. Hawkes|author3=Victoria Hobson, transl.|chapter=The Commercial Fleets of the Maghreb|editors={{w|Suraiya Faroqhi}} and {{w|Halil İnalcık}}|title=Barbary Corsairs: The End of a Legend 1800–1820|series=The Ottoman Empire and Its Heritage: Politics, Society and Economy|seriesvolume=29|location=Leiden|publisher=[[w:Brill Publishers|Koninklijke Brill]]|year=2005|pages=193–194|pageurl=https://books.google.com/books?id=_dyeFP5Hyc4C&amp;pg=PA193|isbn=978-90-04-12594-0|issn=1380-6076|passage=The choice of ship of the Maghrebi sailors was influenced above all by local traditions, by their different objectives, and by the availability of the vessels. It is apparent that the '''xebeck''', with its sleek lines, its reputation for speed—admittedly at the expense of its carrying capacity—was the preferred choice of the North Africans. It is true that the '''xebeck''' served in privateering and at least a percentage of the ships assigned to shipping merchandise were converted corsairs, with somewhat reduced gunpowder and much smaller crews.}}</text>
+<sha1>4t4l90urlcj9b2zedyl1lajczdwo70m</sha1>
+</revision>
+</page>

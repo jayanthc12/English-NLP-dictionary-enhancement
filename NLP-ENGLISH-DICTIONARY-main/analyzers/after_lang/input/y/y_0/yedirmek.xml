@@ -1,0 +1,31 @@
+<page>
+<title>yedirmek</title>
+<ns>0</ns>
+<id>3893145</id>
+<revision>
+<id>67134882</id>
+<parentid>67114710</parentid>
+<timestamp>2022-05-23T08:03:33Z</timestamp>
+<contributor>
+<username>MhmtÖ</username>
+<id>3714419</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="319" xml:space="preserve">==Turkish==
+===Etymology===
+{{suf|tr|yemek|dir|mek|alt1=ye-}}
+===Pronunciation===
+* {{IPA|tr|[jɛdiɾmɛk]}}
+* {{hyphenation|tr|ye|dir|mek}}
+===Verb===
+{{tr-verb|yedirir}}
+# {{lb|tr|rare}} to find someone who [[feat]]s
+====Conjugation====
+{{tr-conj|yedir|i|yedirir|i|d}}
+====Derived terms====
+* {{l|tr|yedirtmek}}</text>
+<sha1>gxaatly6gfqr8gdk487dr7so7zqenbx</sha1>
+</revision>
+</page>

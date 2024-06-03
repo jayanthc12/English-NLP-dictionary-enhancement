@@ -1,0 +1,36 @@
+<page>
+<title>xehe</title>
+<ns>0</ns>
+<id>7064358</id>
+<revision>
+<id>57991823</id>
+<parentid>56620418</parentid>
+<timestamp>2019-11-12T18:23:20Z</timestamp>
+<contributor>
+<username>ArbDardh</username>
+<id>3474106</id>
+</contributor>
+<comment>/* Synonyms */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="459" xml:space="preserve">==Albanian==
+===Alternative forms===
+* {{l|sq|xehë}}, {{l|sq|cehë}}
+===Etymology===
+From {{bor|sq|sh|ceh|gloss=bill}}, from {{der|sq|gmh|Zeche|gloss=mine}}.&lt;ref&gt;{{R:sq:Omari|page=320}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|sq|[ˈd͡zɛhɛ]}}
+===Noun===
+{{sq-noun|f|xehe|xehja|xehet}}
+# [[ore]]
+# [[mine]]
+====Synonyms====
+* {{l|sq|xeheror}}
+* {{l|sq|përrërë}}
+====Derived terms====
+* {{l|sq|xehetar}}, {{l|sq|xehetari}}
+===References===
+&lt;references/&gt;</text>
+<sha1>c6zhe1hqm4154qa02190vl3547aef9m</sha1>
+</revision>
+</page>

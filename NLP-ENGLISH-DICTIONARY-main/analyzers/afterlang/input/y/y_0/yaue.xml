@@ -1,0 +1,23 @@
+<page>
+<title>yaue</title>
+<ns>0</ns>
+<id>1935386</id>
+<revision>
+<id>54958764</id>
+<parentid>45326805</parentid>
+<timestamp>2019-10-10T07:46:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==Old French==
+===Noun===
+{{fro-noun|f}}
+# {{alternative form of|fro|iaue}}</text>
+<sha1>doh1mey3kkjsqligcry6p56dvb0kquf</sha1>
+</revision>
+</page>

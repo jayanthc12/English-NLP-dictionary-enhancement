@@ -1,0 +1,46 @@
+<page>
+<title>xeonllo</title>
+<ns>0</ns>
+<id>1595970</id>
+<revision>
+<id>69643935</id>
+<parentid>68862131</parentid>
+<timestamp>2022-11-02T18:07:24Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2306" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|joelho||Reintegrationist}}
+* {{alter|gl|xeollo|xoello|xollo|xonllo}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|gẽollo}}, ''[[geonllo]]'', ''[[gionllo]]'', ''[[jeonllo]]'', from {{inh|gl|LL.|genuculum}}, alteration of {{inh|gl|la|geniculum}}, diminutive of {{m|la|genū|t=knee}}, ultimately from {{inh|gl|ine-pro|*ǵónu}}.
+Cognate with {{cog|pt|joelho}} and {{cog|es|hinojo}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeˈonʎo̝/}}
+===Noun===
+{{gl-noun|m}}
+# {{lb|gl|anatomy}} [[knee]]
+#* '''1332''', Clarinda de Azevedo Maia (ed.), ''História do galego-português. Estado linguístico da Galiza e do Noroeste de Portugal do século XII ao século XVI (com referência á situação do galego moderno)''. Coimbra: I.N.I.C., p. 155:
+#*: ''Johan de Naue, alfayate deſta mééſma villa, eſtãdo en '''geonloſ''' preſo cõ hũa cadẽa na gargãta τ húús ferros nos péés, ante Johan Beya, alcayde de Monte Rey por Roy Paez de Bema que o queriã yr juſtiçar τ matar''
+#*:: Johan de Nave, tailor of this town, being on his '''knees''', prisoner with a chain on his neck and fetters on his feet, before Johan Beya, mayor of Monterrei in the name of Roi Paez de Bema, who wanted to sentence him to death and to kill him
+#* '''1435''', A. López Carreira, ''Fragmentos de notarios'', doc. E2-8:
+#*: ''... que aderençaran ao dito Goterre Afonso et que o dito Fernando de Mourelos que sacara a espada da beyna contra o dito Goterre Afonso por lo matar, et seus conpaneiros como lo viran sacar que o ajudaran contra o dito Goterre Afonso, do qual lle logo deran huna grande ferida en huna perna esqerda, en que o feriran debayxo do '''gionllo''' ata o qualquanar''
+#*:: ... they approached said Goterre Afonso and that the mentioned Fernando de Mourelos extracted the sword from its scabbard against said Goterre Afonso, for killing him; and his companions, as they saw this, helped him against said Goterre Afonso, and consequently he gave him a large wound in the left leg, in which he injured him from under the '''knee''' till the heel
+====Related terms====
+* {{l|gl|axeonllar}}
+* {{l|gl|xeonlleira}}
+===References===
+* {{R:gl:DDGM|geollo}}
+* {{R:gl:CX|geol}}
+* {{R:gl:CX|geonl}}
+* {{R:gl:DDLG|xionllo}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>3kdvftqj2mhw79q2cjb3gzrcv501tbg</sha1>
+</revision>
+</page>

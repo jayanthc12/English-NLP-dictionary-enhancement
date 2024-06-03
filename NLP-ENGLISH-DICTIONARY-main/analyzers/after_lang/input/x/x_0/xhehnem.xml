@@ -1,0 +1,32 @@
+<page>
+<title>xhehnem</title>
+<ns>0</ns>
+<id>3168296</id>
+<revision>
+<id>67277361</id>
+<parentid>56071286</parentid>
+<timestamp>2022-06-06T06:43:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|sq|ar}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="291" xml:space="preserve">==Albanian==
+===Alternative forms===
+* {{l|sq|xhenem}}
+* {{l|sq|xhehenem}}
+===Etymology===
+From {{uder|sq|ar|جَهَنَّم}}.
+===Pronunciation===
+* {{IPA|sq|/dʒɛhˈnɛm/|[dʒɛˈnɛm]}}
+===Noun===
+{{sq-noun|m||xhehnemi}}
+# {{lb|sq|Islam}} [[hell]]
+===See also===
+* {{l|sq|xhenet}}</text>
+<sha1>309ecox5yst598khifka2ua75jqqwjt</sha1>
+</revision>
+</page>

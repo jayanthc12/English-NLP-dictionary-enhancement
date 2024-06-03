@@ -1,0 +1,59 @@
+<page>
+<title>xolotl</title>
+<ns>0</ns>
+<id>4159306</id>
+<revision>
+<id>65318873</id>
+<parentid>63867137</parentid>
+<timestamp>2022-01-12T03:12:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Nahuatl: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1608" xml:space="preserve">{{also|Xolotl}}
+==Central Huasteca Nahuatl==
+===Noun===
+{{head|nch|noun}}
+# [[naked]].
+----
+==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# a kind of [[animal]].
+[[Category:Amecameca Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|[ˈʃoː.loːt͡ɬ]}}
+===Noun===
+{{nci-noun|a|xōlōtl}}
+# [[male]] [[servant]]
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 31v. col. 2.
+#*: Criado que ſirue o acompaña. tlaqueualli. tetlaye- / colti.teach.'''texolouh'''.xolo.'''xolotl'''.tetlauical.
+#*:: A servant who serves or accompanies. tlaqueualli. tetlayecolti. teach. '''texolouh'''. xolo. '''xolotl'''. tetlauical.
+#* ''Idem'', f. 161r. col. 1.
+#*: '''Xolotl'''. buſa xolo.
+#*:: '''Xolotl'''. search for ''xolo''. &lt;small&gt;[Meaning it is synonymous with (and likely less commonly used than) {{m|nci|xōlo}}.]&lt;/small&gt;
+====Synonyms====
+* {{sense|male servant}} {{l|nci|tlācohtli}}, {{l|nci|xōlo}}
+====Derived terms====
+* {{l|nci|axolotl}}
+* {{l|nci|tlacaxolotl}}
+* {{l|nci|xolo}}
+* {{l|nci|xoloitzcuintli}}
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=2008|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]] (1571)|publisher=Editorial Porrúa|pages=31, 161}}
+[[Category:nci:Occupations]]
+[[Category:nci:People]]
+----
+==Eastern Huasteca Nahuatl==
+===Verb===
+{{head|nhe|verb}}
+# to [[be]] [[afraid]].</text>
+<sha1>k3sjp3kadv4gdnjzhazwrw7ltaklkns</sha1>
+</revision>
+</page>

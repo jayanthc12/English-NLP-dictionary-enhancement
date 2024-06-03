@@ -1,0 +1,27 @@
+<page>
+<title>xanthuria</title>
+<ns>0</ns>
+<id>3754999</id>
+<revision>
+<id>68868052</id>
+<parentid>68813342</parentid>
+<timestamp>2022-08-28T05:53:31Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="963" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xanth|uria}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|pathology}} The presence of [[xanthine]] in the [[urine]], especially the presence of a large amount of xanthine due to a metabolic disorder.
+#* {{quote-book|en|title=The Practitioners Guide in Urinalysis|page=194|author=Clifford Mitchell|year=1882|passage='''Xanthuria'''. — Voiding of urine depositing xanthin.}}
+#* {{quote-journal|en|journal=Urology|volume=2|page=12|year=1985|passage='''Xanthuria''' is an hereditary disorder in which there is an absence of the enzyme xanthine oxidase which interferes with the metabolic breakdown of purines, leading to an increased excretion of xanthine in the urine and to formation of stones.}}
+#* {{quote-book|en|title=Radiological Imaging of the Kidney|page=398|author=Emilio Quaia|year=2014|passage=Xanthine calculi are seen in patients with hereditary '''xanthuria''' and those undergoing treatment with allopurinol.}}</text>
+<sha1>01rt6c15inl07rjrk90ogvh8mj4mkv8</sha1>
+</revision>
+</page>

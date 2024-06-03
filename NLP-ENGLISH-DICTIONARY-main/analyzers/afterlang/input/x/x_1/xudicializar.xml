@@ -1,0 +1,32 @@
+<page>
+<title>xudicializar</title>
+<ns>0</ns>
+<id>7309593</id>
+<revision>
+<id>68878154</id>
+<parentid>62296411</parentid>
+<timestamp>2022-08-28T06:42:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="317" xml:space="preserve">==Galician==
+===Etymology===
+From {{af|gl|xudicial|-izar}}.
+===Verb===
+{{gl-verb|xudicializ|ar|pret=xudicialicei}}
+# to [[judicialize]]
+#: {{ant|gl|desxudicializar}}
+====Conjugation====
+{{gl-conj-zar|xudicializ|xudicialic}}
+====Derived terms====
+* {{l|gl|xudicialización}}
+===Further reading===
+* {{R:gl:DRAG}}</text>
+<sha1>bgfnlmlbyvpwh66qujcb3aisbvu57hi</sha1>
+</revision>
+</page>

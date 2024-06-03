@@ -1,0 +1,30 @@
+<page>
+<title>yeke</title>
+<ns>0</ns>
+<id>3087246</id>
+<revision>
+<id>50857362</id>
+<parentid>48005516</parentid>
+<timestamp>2018-11-27T05:40:05Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="557" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yek}}
+===Etymology===
+From {{inh|en|enm|ȝek}}, {{m|enm|ȝeac}}, from {{inh|en|ang|ġēac||cuckoo, gawk}}, from {{inh|en|gem-pro|*gaukaz||cuckoo}}, from {{inh|en|ine-pro|*gʰAuǵ-}}, {{m|ine-pro|*gʰegʰAuǵ-||cuckoo}}. Cognate with {{cog|sco|gowk||cuckoo}}, {{cog|de|Gauch||cuckoo}}, {{cog|da|gøg||cuckoo}}, {{cog|sv|gök||cuckoo}}. See also {{m|en|gawk}}, {{m|en|gowk}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|UK|_|dialectal}} A [[cuckoo]].
+===Anagrams===
+* {{anagrams|en|a=eeky|yeek}}
+[[Category:en:Cuckoos]]</text>
+<sha1>3zgezsxvf2u1ltjuj1oz4sm82bxrh9p</sha1>
+</revision>
+</page>

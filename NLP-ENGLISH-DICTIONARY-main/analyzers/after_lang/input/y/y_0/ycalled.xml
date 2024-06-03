@@ -1,0 +1,28 @@
+<page>
+<title>ycalled</title>
+<ns>0</ns>
+<id>1265293</id>
+<revision>
+<id>58051716</id>
+<parentid>54535927</parentid>
+<timestamp>2019-11-24T06:16:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{term-context}} to {{term-label}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|y|called}}
+===Verb===
+{{head|en|verb form}} {{term-label|en|obsolete}}
+# {{past participle of|en|call|nocat=1}}
+#: ''That made hem gentil men '''ycalled''' be''
+====Synonyms====
+* {{l|en|called}}</text>
+<sha1>004obhm74zsx0rb9jf0llgbixvvi0nt</sha1>
+</revision>
+</page>

@@ -1,0 +1,660 @@
+<page>
+<title>jump</title>
+<ns>0</ns>
+<id>4640</id>
+<revision>
+<id>69507027</id>
+<parentid>69384379</parentid>
+<timestamp>2022-10-13T10:40:52Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<comment>/* Adverb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="31826" xml:space="preserve">{{also|Jump}}
+==English==
+===Pronunciation===
+* {{a|UK|US}} {{enPR|jŭmp}}, {{IPA|en|/dʒʌmp/|[d͡ʒʌmp]}}
+* {{audio|en|en-us-jump.ogg|Audio (US)}}
+* {{rhymes|en|ʌmp|s=1}}
+===Etymology 1===
+[[File:NwFusionTapM.jpg|thumb|125px|A tap dancer jumping.]]
+From {{inh|en|enm|jumpen|t=to walk quickly, run, jump}}, probably of {{der|en|gml|-}} or {{der|en|gmq|-}} origin, ultimately from {{der|en|gem-pro|*gempaną}}, {{m|gem-pro|*gembaną|t=to hop, skip, jump}}, from {{der|en|ine-pro|*gʷʰemb-|t=to spring, hop, jump}}.  The OED instead suggests an {{onomatopoeic|en|title=imitative}} origin.&lt;ref&gt;{{R:OED}}&lt;/ref&gt; Related to {{l|en|jumble}}.
+{{rel-top|Cognates}}
+Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh|gumpen}}, {{m|gmh|gampen||to jump, hop}} (dialectal {{cog|de|gampen}}, {{cog|gsw|gumpe}}, [[Walser]] dialect {{m|de|kumpu}}), {{cog|da|gumpe||to jolt}}, {{cog|sv|gumpa||to jump}}, {{cog|da|gimpe||to move up and down}}, {{cog|enm|jumpren}}, {{m|enm|jumbren||to mix, jumble}}. {{rel-bottom}}
+====Verb====
+{{en-verb}}
+# {{lb|en|intransitive}} To [[propel]] oneself [[rapidly]] [[upward]], [[downward]] and/or in any horizontal direction such that [[momentum]] causes the [[body]] to become [[airborne]].
+#: {{ux|en|The boy '''jumped''' over a fence.}}
+#: {{ux|en|Kangaroos are known for their ability to '''jump''' high.}}
+#* {{RQ:Shakespeare Winter's Tale|IV|iv|passage=Not the worst of the three but '''jumps''' twelve foot and a half by the square.}}
+# {{lb|en|intransitive}} To cause oneself to [[leave]] an [[elevated]] location and fall [[downward]].
+#: {{ux|en|She is going to '''jump''' from the diving board.}}
+# {{lb|en|transitive}} To pass by a spring or leap; to overleap.
+#: {{ux|en|to '''jump''' a stream}}
+# {{lb|en|intransitive}} To employ a [[parachute]] to leave an [[aircraft]] or elevated location.
+# {{lb|en|intransitive}} To react to a [[sudden]], often [[unexpected]], [[stimulus]] (such as a [[sharp]] [[prick]] or a loud sound) by [[jerk]]ing the body [[violently]].
+#: {{ux|en|The sudden sharp sound made me '''jump'''.}}
+# {{lb|en|intransitive|figuratively}} To [[increase]] sharply, to [[rise]], to [[shoot up]].
+#: {{ux|en|Share prices '''jumped''' by 10% after the company announced record profits.}}
+# {{lb|en|intransitive}} To employ a [[move]] in certain [[board games]] where one game piece is moved from one legal [[position]] to another [[pass]]ing over the position of another piece.
+#: {{ux|en|The player's knight '''jumped''' the opponent's bishop.}}
+# {{lb|en|transitive}} To move to a position (in a [[queue]]/[[line]]) that is further forward.
+#: {{ux|en|I hate it when people '''jump''' the queue.}}
+# {{lb|en|transitive}} To [[attack]] suddenly and violently.
+#: {{ux|en|The hoodlum '''jumped''' a woman in the alley.}}
+# {{lb|en|transitive|slang}} To engage in [[sexual intercourse]] with (a person).
+#* '''1983''', ''[[w:The Big Chill (film)|The Big Chill]]'':
+#*: Harold: How is Sarah? I don't want to '''jump''' her while she's [[on the rag]].
+# {{lb|en|transitive}} To [[cause]] to jump.
+#: {{ux|en|The rider '''jumped''' the horse over the fence.}}
+# {{lb|en|transitive}} To move the distance between two opposing subjects.
+# {{lb|en|transitive}} To increase the [[height]] of a [[tower crane]] by inserting a section at the base of the tower and jacking up everything above it.
+# {{lb|en|cycling|intransitive}} To [[increase]] [[speed]] aggressively and without warning.
+# {{lb|en|transitive|obsolete}} To expose to danger; to risk; to hazard.
+#* {{RQ:Shakespeare Coriolanus|III|i|passage=to '''jump''' a body with a dangerous physic}}
+# {{lb|en|transitive|smithwork}} To join by a [[buttweld]].
+# To [[thicken]] or [[enlarge]] by [[endwise]] [[blows]]; to [[upset]].
+# {{lb|en|quarrying}} To [[bore]] with a [[jumper]].
+# To [[jump-start]] a car or other vehicle with a dead [[battery]], as with [[jumper cable]]s.
+#* {{quote-book|en|year=2000|author=United States. Employees' Compensation Appeals Board|title=Decisions of the Employees' Compensation Appeals Board: Index digest|page=511
+|text=[Someone] and Mr. Benfield were at the corner of Elm and Walton Streets when they were approached by Mr. Gray, who asked for help to '''jump''' his car. When informed they did not have jumper cables, Mr. Gray asked them to take him to get some.}}
+#* {{quote-book|en|date=2015-01-30|author=Robert M. Morgan|author2=Janet Turner Parish|author3=George Deitz|title=Handbook on Research in Relationship Marketing|publisher=Edward Elgar Publishing|isbn=9781783478637|page=250
+|text={{...}} his wife, who was at home with their children, would drive to school to '''jump''' his car; both would drive home;{{nb...}}}}
+# {{lb|en|obsolete}} To coincide; to agree; to accord; to tally; followed by ''with''.
+#* {{quote-book|en|author=William Shakespeare |authorlink=William Shakespeare|title=Henry IV, Part 1|year=a. 1597|section=Act I, scene ii|text=It '''jumps''' with my humour.}}
+#*:
+# {{lb|en|intransitive|programming}} To start [[execute|executing]] [[code]] from a different [[location]], rather than following the [[program counter]].
+#* {{quote-book|en|year=2008|author=Garry Robinson|title=Real World Microsoft Access Database Protection and Security|passage=When this section is completed, the code generally '''jumps''' back to the Exit Section, and the procedure is closed.}}
+# {{lb|en|intransitive|slang|archaic}} To [[flee]]; to make one's escape.
+#* {{quote-book|en|year=1891|author=Arthur Conan Doyle|title=The Red-Headed League|passage=“It's all clear,” he whispered. “Have you the chisel and the bags? Great Scott! '''Jump''', Archie, '''jump''', and I'll swing for it!”&lt;br&gt;Sherlock Holmes had sprung out and seized the intruder by the collar. The other dived down the hole, and I heard the sound of rending cloth as Jones clutched at his skirts.}}
+=====Conjugation=====
+{{en-conj|old=1}}
+=====Synonyms=====
+* {{sense|propel oneself upwards}} {{l|en|leap}}, {{l|en|spring}}
+* {{sense|cause oneself to leave an elevated location and fall}} {{l|en|jump down}}, {{l|en|jump off}}
+* {{sense|employ a parachute to leave an aircraft or elevated location}} {{l|en|skydive}}
+* {{sense|react to a sudden stimulus by jerking the body violently}} {{l|en|flinch}}, {{l|en|jerk}}, {{l|en|jump out of one's skin}}, {{l|en|leap out of one's skin}}, {{l|en|twitch}}
+* {{sense|move to a position in a queue/line}} {{l|en|skip}}
+* {{sense|attack suddenly and violently}} {{l|en|ambush}}, {{l|en|assail}}; see also [[Thesaurus:attack]]
+* {{sense|engage in sexual intercourse}} {{l|en|hump}}, {{l|en|jump someone's bones}}; see also [[Thesaurus:copulate with]]
+* {{sense|bore with a jumper}} see also [[Thesaurus:make a hole]]
+* {{sense|make one's escape}} {{l|en|beat it}}, {{l|en|rabbit}}, {{l|en|take off}}; see also [[Thesaurus:flee]]
+=====Derived terms=====
+&lt;!--&quot;jumping-off point&quot; is derived from &quot;jumping&quot;--&gt;
+{{rel-top|Terms derived from ''jump'' (verb)}}
+* {{l|en|ask how high when someone says jump}}
+* {{l|en|jumped-up}}
+* {{l|en|jumper}}&lt;!--one who jumps--&gt;
+* {{l|en|jumpily}}
+* {{l|en|jumpy}}
+* {{l|en|jump about}}
+* {{l|en|jump around}}
+* {{l|en|jump at}}
+* {{l|en|jump down}}
+* {{l|en|jump down someone's throat}}
+* {{l|en|jump for joy}}
+* {{l|en|jump in}}
+* {{l|en|jump in one's skin}}
+* {{l|en|jump leads}}
+* {{l|en|jump off}}
+{{rel-mid}}
+* {{l|en|jump on}}
+* {{l|en|jump out}}
+* {{l|en|jump out at}}
+* {{l|en|jump up}}
+* {{l|en|jump out of one's skin}}
+* {{l|en|jump rope}}&lt;!--verb--&gt;
+* {{l|en|jump seat}}
+* {{l|en|jump ship}}
+* {{l|en|jump shot}}
+* {{l|en|jump-start}}
+* {{l|en|jump suit}}
+* {{l|en|jump the gun}}
+* {{l|en|jump the queue}}
+* {{l|en|jump the shark}}
+* {{l|en|the quick brown fox jumps over the lazy dog}}
+{{rel-bottom}}
+''See also'' '''[[jumped]]''', '''[[jamp]]''', '''[[jumper]]''' ''and'' '''[[jumping]]'''
+=====Translations=====
+{{trans-top-see|propel oneself rapidly upward such that momentum causes the body to become airborne|leap}}
+* Albanian: {{t+|sq|kërcej}}
+* Alviri-Vidari: {{t|avd|بپرستن|tr=bepperestan}}
+* American Sign Language: {{t|ase|V@Palm-FingerDown-OpenB@CenterTrunkhigh-PalmUp BentV@NearPalm-FingerDown-OpenB@CenterTrunkhigh-PalmUp}}
+* Arabic: {{t+|ar|قَفَزَ}}
+*: Egyptian Arabic: {{t|arz|نط|tr=naṭṭ}}
+*: Hijazi Arabic: {{t|acw|نط|tr=naṭṭ}}, {{t|acw|نَقَز|tr=nagaz}}, {{t|acw|نَطْنَط|tr=naṭnaṭ}}
+* Armenian: {{t+|hy|ցատկել}}, {{t+|hy|թռչել}}
+* Aromanian: {{t|rup|sar}}, {{t|rup|ansar}}
+* Assamese: {{t|as|জঁপিওৱা}}, {{t|as|জাঁপ মাৰা}}
+* Asturian: {{t|ast|blincar}}, {{t|ast|saltar}}
+* Azerbaijani: {{t+|az|atılmaq}}, {{t+|az|tullanmaq}}, {{t|az|hoppanmaq}}, {{t+|az|sıçramaq}}, {{t+|az|atlanmaq}}
+* Bashkir: {{t|ba|һикереү}}, {{t|ba|ырғыу}}
+* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
+* Belarusian: {{t|be|скака́ць|impf}}, {{t|be|ско́кнуць|pf}}, {{t|be|ско́чыць|pf}}
+* Bengali: {{t|bn|লাফান}}, {{t|bn|ঝাঁপ দেত্তয়া}}
+* Bikol Central: {{t+|bcl|lukso}}
+* Bulgarian: {{t+|bg|ска́чам|impf}}, {{t|bg|ско́ча|pf}}
+* Burmese: {{t+|my|ခုန်}}
+* Catalan: {{t+|ca|saltar}}
+* Cherokee: {{t|chr|ᎠᎵᏔᏕᎦ}}
+* Chickasaw: {{t|cic|malli}}
+* Chinese:
+*: Cantonese: {{t|yue|跳|tr=tiu3}}
+*: Mandarin: {{t+|cmn|跳|tr=tiào}}, {{t+|cmn|蹦跳|tr=bèngtiào}}, {{t+|cmn|蹦|tr=bèng}}
+* Czech: {{t+|cs|skočit|pf}}, {{t+|cs|skákat|impf}}
+* Dalmatian: {{t|dlm|satur}}
+* Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
+* Dutch: {{t+|nl|springen}}, {{t+|nl|opspringen}}
+* Elfdalian: {{t|ovd|uppa}}
+* Esperanto: {{t+|eo|salti}}
+* Estonian: {{t|et|hüppama}}
+* Faroese: {{t|fo|hoppa}}, {{t|fo|leypa}}
+* Finnish: {{t+|fi|hypätä}}
+* French: {{t+|fr|sauter}}
+* Friulian: {{t|fur|saltâ}}
+* Galician: {{t|gl|brincar}}, {{t+|gl|saltar}}, {{t+|gl|pular}}, {{t|gl|galgar}}, {{t+|gl|choutar}}, {{t|gl|avantar}}, {{t|gl|avantuxar}}, {{t|gl|chimpar}}, {{t|gl|ralbar}}
+* Georgian: {{t|ka|ხტომა}}, {{t|ka|ხტუნვა}}, {{t|ka|ხტუნაობა}}
+* German: {{t+|de|springen}}, {{t+|de|hüpfen}}
+*: Alemannic German: {{t|gsw|gumpe}}, {{t|gsw|springä}}
+* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
+*: Ancient: {{t|grc|πηδάω}}, {{t|grc|ἅλλομαι}}
+* Greenlandic: {{t|kl|pissippoq}}
+* Hadza: {{t|hts|khaxxe}}
+* Hebrew: {{t+|he|קָפַץ|tr=kafats}}
+* Hindi: {{t+|hi|कूदना}}
+* Hungarian: {{t+|hu|ugrik}}
+* Icelandic: {{t+|is|hoppa}}
+* Indonesian: {{t+|id|melompat}}
+* Irish: {{t|ga|léim}}
+* Istriot: {{t|ist|saltà}}
+* Italian: {{t+|it|saltare}}
+* Japanese: {{t+|ja|跳ぶ|tr=とぶ, tobu}}, {{t+|ja|ジャンプ|tr=janpu suru|alt=ジャンプする}}
+* Javanese: {{t+|jv|mlumpat}}
+* Kazakh: {{t+|kk|секіру}}
+* Khmer: {{t+|km|លោត|tr=loot|sc=Khmr}}
+{{trans-mid}}
+* Korean: {{t+|ko|뛰다}}, {{t|ko|점프하다}}
+* Kyrgyz: {{t+|ky|секирүү}}
+* Lao: {{t|lo|ໂດດ}}, {{t|lo|ກະໂດດ}}
+* Latgalian: {{t|ltg|lēkt}}, {{t|ltg|laksteit}}
+* Latin: {{t|la|saliō}}, {{t|la|saltō}}
+* Latvian: {{t+|lv|lēkt}}, {{t+|lv|lēkāt}}
+* Lithuanian: {{t+|lt|šokti}}, {{t|lt|šokinėti}}
+* Lombard: {{t+|lmo|saltà}}
+* Luxembourgish: {{t|lb|sprangen}}
+* Macedonian: {{t|mk|ско́ка}}, {{t|mk|скокне}}
+* Malay: {{t|ms|melompat}}
+* Malayalam: {{t+|ml|ചാടുക}}
+* Maltese: {{t|mt|qabeż}}
+* Maori: {{t|mi|panau}} {{qualifier|of a fish out of water}}, {{t|mi|oma}}
+* Mongolian: {{t+|mn|харайх}}, {{t+|mn|үсрэх}}
+* Neapolitan: {{t|nap|zumpà}}
+* Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
+* Northern Sami: {{t|se|njuiket}}
+* Norwegian: {{t+|no|hoppe}}
+* Occitan: {{t+|oc|sautar}}
+* Old English: {{t|ang|hlēapan}}
+* Oromo: {{t|om|utaaluu}}
+* Persian: {{t+|fa|پریدن|tr=paridan}}, {{t+|fa|جهیدن|tr=jahidan}}, {{t+|fa|جستن|tr=jastan}}
+* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
+* Quechua: {{t+|qu|tusuy}}
+* Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
+* Romansch: {{t|rm|siglir}}, {{t|rm|saglir}}, {{t|rm|sagleir}}
+* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|скака́ть|impf}}, {{t+|ru|скакну́ть|pf}}
+* Sanskrit: {{t|sa|प्रवते}}, {{t+|sa|हठति}}
+* Sardinian: {{t|sc|saltai}}, {{t|sc|saltare}}, {{t|sc|sartare}}
+* Scottish Gaelic: {{t|gd|leum}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|скочити|pf|sc=Cyrl}}, {{t|sh|скакати|impf|sc=Cyrl}}
+*: Roman: {{t+|sh|skočiti|pf}}, {{t+|sh|skakati|impf}}
+* Sicilian: {{t+|scn|satari}}, {{t+|scn|sautari}}
+* Slovak: {{t|sk|skočiť|pf}}
+* Slovene: {{t|sl|skočiti|pf}}
+* Somali: {{t|so|boodid}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
+*: Upper Sorbian: {{t|hsb|skočić|pf}}, {{t+|hsb|skakać|impf}}
+* Spanish: {{t+|es|saltar}}, {{t+|es|brincar}}
+* Swedish: {{t+|sv|hoppa}}
+* Tagalog: {{t|tl|talon}}, {{t|tl|lundag}}, {{t|tl|kandag}}
+* Tajik: {{t+|tg|паридан}}
+* Telugu: {{t+|te|దూకు}}
+* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
+* Turkish: {{t+|tr|zıplamak}}, {{t+|tr|sekmek}}
+* Turkmen: {{t+|tk|bökmek}}
+* Ukrainian: {{t|uk|стриба́ти|impf}}, {{t|uk|скака́ти|impf}}
+* Urdu: {{t|ur|کودنا|tr=kūdnā}}
+* Uzbek: {{t+|uz|sakramoq}}, {{t+|uz|irgʻimoq}}
+* Venetian: {{t|vec|saltar}}
+* Vietnamese: {{t+|vi|nhảy}}
+* Walloon: {{t+|wa|potchî}}, {{t+|wa|zoupler}}, {{t+|wa|hopler}}, {{t+|wa|sôtler}}, {{t+|wa|djibler}}
+* Welsh: {{t+|cy|neidio}}, {{t+|cy|ysboncio}}
+* Yiddish: {{t|yi|שפּרינגען}}
+{{trans-bottom}}
+{{trans-top|cause oneself to leave an elevated location and fall downward}}
+* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
+* Bulgarian: {{t+|bg|ска́чам|impf}}, {{t|bg|ско́ча|pf}}
+* Catalan: {{t+|ca|saltar}}
+* Chickasaw: {{t|cic|malli}}, {{t|cic|mallittakaali}}
+* Chinese:
+*: Mandarin: {{t+|cmn|跳|tr=tiào}}
+* Czech: {{t+|cs|skočit}}, {{t+|cs|skákat}}
+* Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
+* Dutch: {{t+|nl|springen}}
+* Finnish: {{qualifier|[[alas]]}} {{t+|fi|hypätä}}
+* French: {{t+|fr|sauter}}
+* Galician: {{t|gl|chimpar}}, {{t+|gl|choutar}}, {{t|gl|brincar}}, {{t|gl|cimpar}}, {{t|gl|aveirar}}
+* Georgian: {{t|ka|ჩახტომა}}
+* German: {{t+|de|springen}}
+* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
+* Hebrew: {{t+|he|קפץ|tr=kafáts}}
+* Italian: {{t+|it|saltare}}
+* Japanese: {{t|ja|飛び降りる|tr=とびおりる, tobioriru}}
+* Macedonian: {{t|mk|скока}}
+* Mongolian: {{t+|mn|үсрэх}}, {{t+|mn|дэвхрэх}}
+* Malayalam: {{t+|ml|ചാടുക}}
+{{trans-mid}}
+* Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|hoppe}}
+* Old English: {{t|ang|hlēapan}}
+* Persian: {{t|fa|پایین پریدن|tr=paein paridan}}
+* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
+* Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
+* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
+* Scottish Gaelic: {{t|gd|leum}}
+* Slovene: {{t|sl|skočiti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
+* Spanish: {{t+|es|saltar}}
+* Swedish: {{t+|sv|hoppa}}
+* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
+* Turkish: {{t+|tr|atlamak}}
+{{trans-bottom}}
+{{trans-top|employ a parachute to leave an aircraft or elevated location}}
+* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
+* Bulgarian: {{t+|bg|скачам}}
+* Catalan: {{t+|ca|saltar}}
+* Danish: {{t+|da|springe}}
+* Dutch: {{qualifier|parachutespringen}} {{t+|nl|springen}}
+* Finnish: {{t+|fi|hypätä}}
+* Galician: {{t+|gl|saltar}}, {{t|gl|chimpar}}, {{t|gl|cimpar}}
+* Georgian: {{t|ka|გადახტომა}}
+* German: {{t+|de|springen}}
+* Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
+* Hebrew: {{t+|he|קפץ|m|tr=kafáts}}
+* Italian: {{t+|it|saltare}}
+* Japanese: (command) {{t+|ja|降下}}！
+* Macedonian: {{t|mk|скока}}
+{{trans-mid}}
+* Norwegian: {{t+|no|hoppe}}
+* Persian: {{t+|fa|پرش|tr=paresh}}
+* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
+* Romanian: {{t+|ro|sări}}
+* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
+* Scottish Gaelic: {{t|gd|leum}}
+* Slovene: {{t|sl|skočiti}}
+* Spanish: {{t+|es|saltar}}
+* Swedish: {{t+|sv|hoppa}}
+* Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
+{{trans-bottom}}
+{{trans-top|react to a sudden stimulus by jerking the body violently}}
+* Bulgarian: {{t+|bg|подскачам}}
+* Catalan: {{t+|ca|sobresaltar}}
+* Chickasaw: {{t|cic|mallittakaali}}
+* Danish: {{t|da|spjætte}}, {{t|da|fare sammen}}
+* Dutch: {{t+|nl|opspringen}}, {{t+|nl|opschrikken}}
+* Finnish: {{t+|fi|hätkähtää}}, {{t+|fi|sätkiä}}
+* French: {{t+|fr|sursauter}}
+* Galician: {{t|gl|espuliñar}}, {{t|gl|atoutar}}, {{t|gl|atorar}}, {{t|gl|atortar}}, {{t|gl|trafugar}}
+* Georgian: {{t|ka|ახტომა}}, {{t|ka|შეკრთომა}}
+* German: {{t+|de|zucken}}
+* Hebrew: {{t+|he|קפץ|tr=kafáts}}
+* Macedonian: {{t|mk|скокнува}}
+* Malayalam: {{t|ml|പേടിച്ച് ചാടുക}}, {{t+|ml|തുള്ളുക }}
+* Norwegian: {{t|no|skvette}}
+{{trans-mid}}
+* Polish: {{t+|pl|podskoczyć}}
+* Portuguese: {{t|pt|sobressaltar}}
+* Romanian: {{t+|ro|tresări}}
+* Russian: {{t+|ru|вска́кивать|impf}}, {{t+|ru|вскочи́ть|pf}}, {{t+|ru|подпры́гивать|impf}}, {{t+|ru|подпрыгнуть|pf}}, {{t+|ru|вздра́гивать|impf}}, {{t+|ru|вздро́гнуть|pf}}
+* Scottish Gaelic: {{t|gd|leum}}
+* Slovene: {{t|sl|skočiti}}, {{t|sl|poskočiti}}
+* Swedish: {{t+|sv|hoppa till}}, {{t+|sv|hoppa}}
+{{trans-bottom}}
+{{trans-top|employ a move in certain board games in which one piece moves over another}}
+* Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
+* Bulgarian: {{t+|bg|прескачам}}
+* Catalan: {{t+|ca|saltar}}
+* Danish: {{t+|da|springe}}
+* Dutch: {{t+|nl|springen}}, {{t+|nl|zetten}}
+* Finnish: {{t+|fi|hypätä}}
+* Galician: {{t|gl|rebrincar}}, {{t|gl|salvar}}, {{t|gl|resbar}}, {{t|gl|avantuxar}}
+* Italian: {{t+|it|saltare}}
+* Macedonian: {{t|mk|прескокнува}}
+{{trans-mid}}
+* Norwegian: {{t|no|hoppe over}}
+* Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
+* Romanian: {{t+|ro|sări}} {{qualifier|peste}}
+* Russian: {{t+|ru|перепры́гивать|impf}}, {{t+|ru|перепры́гнуть|pf}}, {{t+|ru|перескакивать|impf}}, {{t+|ru|перескочить|pf}}
+* Slovene: {{t|sl|preskočiti}}
+* Swedish: {{t+|sv|hoppa}}, {{t+|sv|hoppa över}}
+{{trans-bottom}}
+{{trans-top|move to a position in (a queue/line) that is further forward}}
+* Bulgarian: {{t+|bg|прескачам}}
+* Catalan: {{t+|ca|saltar}}
+* Danish: {{t|da|springe over}}
+* Dutch: {{t+|nl|voordringen}}
+* Finnish: {{t+|fi|etuilla}}
+* French: {{t+|fr|doubler}}
+* Galician: {{t|gl|avantar}}, {{t|gl|avantuxar}}
+* Hebrew: {{t+|he|קפץ|tr=kafáts}}
+* Italian: {{t+|it|saltare}}
+* Japanese: {{t|ja|飛び越す|tr=とびこす, tobikosu}}
+{{trans-mid}}
+* Macedonian: {{t|mk|прескокнува}}
+* Norwegian: {{t|no|snike}}, {{t|no|gå forbi}}
+* Portuguese: {{t+|pt|furar}}
+* Slovene: {{t|sl|preskočiti}}
+* Spanish: {{t+|es|saltar}}
+* Swedish: {{t+|sv|smita före}}, {{t|sv|gå förbi}}
+* Thai: {{t+|th|แซง}}
+{{trans-bottom}}
+{{trans-top|engage in sexual intercourse}}
+* Finnish: {{t+|fi|astua}}, {{t+|fi|panna}}
+* French: {{t+|fr|sauter}}
+{{trans-mid}}
+* Greek: {{t+|el|πηδάω}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Breton: {{qualifier|1,2,3}} {{t+check|br|lammat}}, {{qualifier|1,2}} {{t-check|br|sailhañ}}, {{qualifier|4}} {{t+check|br|gourlammat}}
+* Esperanto: {{t+check|eo|salti}}
+* Estonian: {{t-check|et|hüppama}}
+* Guaraní: {{t+check|gn|po}}
+* Indonesian: {{t+check|id|lompat}}, {{t+check|id|loncat}}
+{{trans-mid}}
+* Interlingua: {{t-check|ia|saltar}}
+* Korean: {{t+check|ko|뛰다}}, {{t-check|ko|점프하다}}
+* Latvian: {{t-check|lv|lekt}}
+* Portuguese: {{t+check|pt|saltar}}
+* Romanian: {{t+check|ro|sări}}, {{t+check|ro|sălta}}
+* Spanish: {{t+check|es|saltar}}
+* Tupinambá: {{t-check|tpn|por}}
+{{trans-bottom}}
+====Noun====
+{{wikipedia|jump discontinuity}}
+{{wikipedia|jump instruction}}
+{{wikipedia|hydraulic jump}}
+{{wikipedia|jump cut}}
+{{en-noun}}
+# The act of [[#Verb|jump]]ing; a [[leap]]; a [[spring]]; a [[bound]].
+#* {{RQ:Locke Conduct}}
+#*: To advance by '''jumps'''.
+# An [[effort]]; an [[attempt]]; a [[venture]].
+#* {{RQ:Shakespeare Antony and Cleopatra|III|viii|passage=Our fortune lies / Upon this '''jump'''.}}
+# {{lb|en|mining}} A [[dislocation]] in a [[stratum]]; a [[fault]].
+# {{lb|en|architecture}} An [[abrupt]] [[interruption]] of [[level]] in a piece of [[brickwork]] or [[masonry]].
+# An [[instance]] of [[propel]]ling [[oneself]] [[upwards]].
+#: {{ux|en|The boy took a skip and a '''jump''' down the lane.}}
+# {{senseid|en|ramp}} An [[object]] which causes one to [[#Verb|jump]]; a [[ramp]].
+#: {{ux|en|The skier flew off the '''jump''' and landed perfectly.}}
+# An instance of causing oneself to [[fall]] from an [[elevated]] [[location]].
+#: {{ux|en|There were a couple of '''jumps''' from the bridge.}}
+# An instance of [[employ]]ing a [[parachute]] to [[leave]] an [[aircraft]] or [[elevated]] [[location]].
+#: {{ux|en|She was terrified before the '''jump''', but was thrilled to be skydiving.}}
+# An instance of [[react]]ing to a [[sudden]] [[stimulus]] by [[jerk]]ing the [[body]].
+# A [[#Verb|jump]]ing [[move]] in a [[board game]].
+#: {{ux|en|the knight's '''jump''' in chess}}
+# A [[button]] (of a [[joypad]], [[joystick]] or similar [[device]]) used to make a [[video game]] [[character]] [[#Verb|jump]] ([[propel]] itself [[upwards]]).
+#: {{ux|en|Press '''jump''' to start.}}
+# {{lb|en|sports|horses}} An [[obstacle]] that forms part of a [[showjumping]] course, and that the [[horse]] has to [[#Verb|jump]] [[over]] [[cleanly]].
+#: {{ux|en|Heartless managed the scale the first '''jump''' but fell over the second.}}
+# {{lb|en|with ''on''}} An [[early]] [[start]] or an [[advantage]].
+#: {{ux|en|He got a '''jump''' on the day because he had laid out everything the night before.}}
+#: {{ux|en|Their research department gave them the '''jump''' on the competition.}}
+# {{lb|en|mathematics}} A [[discontinuity]] in the [[graph]] of a [[function]], where the function is [[continuous]] in a [[punctured interval]] of the discontinuity.
+# {{lb|en|physics|hydrodynamics}} An [[abrupt]] [[increase]] in the [[height]] of the [[surface]] of a [[flow]]ing [[liquid]] at the [[location]] where the flow [[transition]]s from [[supercritical]] to [[subcritical]], involving an abrupt [[reduction]] in flow [[speed]] and increase in [[turbulence]].
+# {{lb|en|science fiction}} An instance of [[faster-than-light]] [[travel]], not [[observable]] from [[ordinary]] [[space]].
+# {{lb|en|programming}} A change of the [[path]] of [[execution]] to a different [[location]].
+# {{lb|en|US|informal|automotive}} {{short for|en|jump-start}}
+#: {{ux|en|My car won't start. Could you give me a '''jump'''?}}
+# {{lb|en|film}} {{clipping of|en|jump cut}}
+# {{lb|en|theatre}} {{synonym of|en|one-night stand||single evening's performance}}
+#* '''1950''', ''Billboard'' (23 December 1950, page 36)
+#*: Next '''jump''' will be at the Chicago Theater, Chicago.
+=====Quotations=====
+* {{seeCites|en}}
+=====Synonyms=====
+* {{sense|instance of propelling oneself into the air}} {{l|en|leap}}
+* {{sense|instance of causing oneself to fall from an elevated location}}
+* {{sense|instance of employing a parachute to leave an aircraft or elevated location}}
+* {{sense|instance of reacting to a sudden stimulus by jerking the body}} {{l|en|flinch}}, {{l|en|jerk}}, {{l|en|twitch}}
+=====Derived terms=====
+&lt;!--&quot;for the high jump&quot; is derived from &quot;high jump&quot;--&gt;
+{{rel-top3|Terms derived from ''jump'' (noun)}}
+* {{l|en|high jump}}
+* {{l|en|hop, skip and jump}}
+* {{l|en|hop, step and jump}}
+* {{l|en|hydraulic jump}}
+* {{l|en|hyperjump}}
+{{rel-mid3}}
+* {{l|en|JMP}}
+* {{l|en|jump blues}}
+* {{l|en|jump drive}}
+* {{l|en|jump jet}}&lt;!--attributive use of noun--&gt;
+* {{l|en|jump rope}}&lt;!--attributive--&gt;
+{{rel-mid3}}
+* {{l|en|long jump}}
+* {{l|en|loop jump}}
+* {{l|en|triple jump}}
+* {{l|en|Walleye jump}}
+{{rel-bottom}}
+=====Translations=====
+{{trans-top-see|instance of propelling oneself into the air|leap}}
+* Arabic: {{t|ar|قَفْزَة|f}}
+*: Hijazi Arabic: {{t|acw|نَطَّة|f|tr=naṭṭa}}
+* Armenian: {{t+|hy|ցատկ}}
+* Assamese: {{t|as|জাঁপ}}, {{t|as|লাফ}}, {{t|as|ওফৰ}}, {{t|as|ছিটিক}}
+* Asturian: {{t+|ast|saltu|m}}, {{t|ast|blincu|m}}
+* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
+* Bulgarian: {{t+|bg|скок|m}}
+* Catalan: {{t+|ca|salt|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|跳|tr=tiào|sc=Hani}}
+* Corsican: {{t|co|saltu|m}}
+* Czech: {{t+|cs|skok|m}}
+* Danish: {{t+|da|spring|n}}, {{t+|da|hop|n}}
+* Dutch: {{t+|nl|sprong|m}}
+* Esperanto: {{t+|eo|salto}}
+* Estonian: {{t|et|hüpe}}
+* Finnish: {{t+|fi|hyppy}}, {{t+|fi|loikka}}
+* French: {{t+|fr|saut|m}}
+* Friulian: {{t|fur|salt|m}}
+* Galician: {{t+|gl|salto|m}}, {{t|gl|brinco|m}}, {{t|gl|chimpo|m}}, {{t+|gl|pulo|m}}, {{t|gl|pincho|m}}
+* Georgian: {{t|ka|ნახტომი|sc=Geor}}
+* German: {{t+|de|Sprung|m}}
+*: Alemannic German: {{t|gsw|Gump|m}}
+* Greek: {{t+|el|άλμα|n}}, {{t+|el|αναπήδηση|f}}
+*: Ancient: {{t|grc|πήδημα|n}}, {{t|grc|ἅλμα|n}}
+* Hebrew: {{t+|he|קפיצה|f|tr=kfitsá}}
+* Icelandic: {{t+|is|stökk|n}}
+* Italian: {{t+|it|salto|m}}
+* Japanese: {{t+|ja|跳躍|tr=chōyaku|sc=Jpan}}, {{t+|ja|ジャンプ|tr=janpu}}
+* Korean: {{t+|ko|도약}}, {{t|ko|점프}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|باز}}
+* Latin: {{t+|la|saltus|m}}
+* Latvian: {{t|lv|lēciens|m}}
+* Lithuanian: {{t|lt|šuolis|m}}
+* Lombard: {{t+|lmo|salt|m}}
+* Macedonian: {{t|mk|скок|m}}
+* Maltese: {{t|mt|qabża|f}}
+* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
+* Occitan: {{t+|oc|saut|m}}
+* Old English: {{t|ang|hlīep|m}}
+* Persian: {{t|fa|بپر|tr=bepar|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|Sprunk|m}}
+* Polish: {{t+|pl|skok|m-in}}
+* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
+* Quechua: {{t|qu|phinkiy}}
+* Russian: {{t+|ru|прыжо́к|m}}, {{t+|ru|скачо́к|m}}
+* Scottish Gaelic: {{t|gd|leum|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|скок|sc=Cyrl}}
+*: Roman: {{t+|sh|skok}}
+* Sicilian: {{t+|scn|sàutu|m}}, {{t+|scn|satu}}, {{t+|scn|sàvutu}}
+* Slovene: {{t|sl|skok|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|skok|m}}
+* Spanish: {{t+|es|salto|m}}
+* Swedish: {{t+|sv|hopp}}
+* Ukrainian: {{t|uk|стрибо́к|m}}
+* Venetian: {{t+|vec|salt|m}}, {{t|vec|salto}}
+* Welsh: {{t+|cy|naid|f}}
+* Walloon: {{t|wa|potchaedje|m}}, {{t+|wa|hope|f}}, {{t|wa|såtlaedje|m}}, {{t|wa|zouplaedje|m}}
+* Yiddish: {{t|yi|שפּרונג|m}}
+{{trans-bottom}}
+{{trans-top|instance of causing oneself to fall from an elevated location}}
+* Armenian: {{t+|hy|ցատկ}}
+* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
+* Bulgarian: {{t+|bg|скок|m}}
+* Catalan: {{t+|ca|salt|m}}
+* Czech: {{t+|cs|skok}}
+* Danish: {{t+|da|spring|n}}, {{t+|da|hop|n}}
+* Dutch: {{t+|nl|sprong|m}}
+* Esperanto: {{t+|eo|salto}}
+* Finnish: {{t+|fi|hyppy}}
+* French: {{t+|fr|saut|m}}
+* German: {{t+|de|Sprung|m}}
+* Hebrew: {{t+|he|קפיצה|f|tr=kfitsá}}
+* Italian: {{t+|it|salto|m}}
+* Macedonian: {{t|mk|скок|m}}
+{{trans-mid}}
+* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
+* Old English: {{t|ang|hlīep|m}}
+* Plautdietsch: {{t|pdt|Sprunk|m}}
+* Polish: {{t+|pl|skok|m-in}}
+* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
+* Russian: {{t+|ru|прыжо́к|m}}
+* Scottish Gaelic: {{t|gd|leum|m}}
+* Slovene: {{t|sl|skok|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|skok|m}}
+* Swedish: {{t+|sv|hopp}}
+* Ukrainian: {{t|uk|стрибо́к|m}}
+{{trans-bottom}}
+{{trans-top|instance of employing a parachute to leave an aircraft or elevated location}}
+* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
+* Bulgarian: {{t+|bg|скок|m}}
+* Catalan: {{t+|ca|salt|m}}
+* Danish: {{t+|da|spring|n}}
+* Dutch: {{t+|nl|sprong|m}}
+* Esperanto: {{t+|eo|salto}}
+* Finnish: {{t+|fi|hyppy}}
+* German: {{t+|de|Sprung|m}}
+* Hebrew: {{t|he|צניחה|f|tr=tsnikhá}}
+* Macedonian: {{t|mk|скок|m}}
+{{trans-mid}}
+* Norwegian: {{t+|no|hopp|n}}, {{t|no|sprang|n}}
+* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
+* Russian: {{t+|ru|прыжо́к|m}}
+* Scottish Gaelic: {{t|gd|leum|m}}
+* Serbo-Croatian: {{t+|sh|skok}}
+* Slovene: {{t|sl|skok|m}}
+* Swedish: {{t+|sv|hopp}}
+{{trans-bottom}}
+{{trans-top|instance of reacting to a sudden stimulus by jerking the body}}
+* Bulgarian: {{t+|bg|подскачане|n}}
+* Catalan: {{t+|ca|sobresalt|m}}
+* Danish: {{t|da|spjæt|n}}
+* Dutch: {{t+|nl|sprong|m}}
+* Esperanto: {{t|eo|barakto}}
+* Finnish: {{t+|fi|sätky}}
+* Hebrew: {{t+|he|קפיצה|f|tr=kfitsá}}
+* Icelandic: {{t+|is|viðbragð|n}}, {{t|is|kippur|m}}
+* Irish: {{t|ga|geit|f}}
+{{trans-mid}}
+* Macedonian: {{t|mk|скок|m}}
+* Norwegian: {{t|no|skvetting|m}}
+* Portuguese: {{t+|pt|sobressalto|m}}
+* Scottish Gaelic: {{t|gd|leum|m}}, {{t|gd|clisgeadh|m}}
+* Slovene: {{t|sl|skok|m}}, {{t|sl|poskok|m}}
+* Swedish: {{t+|sv|hopp}}
+{{trans-bottom}}
+{{trans-top|jumping move in a board game}}
+* Basque: {{t|eu|jauzi}}, {{t+|eu|salto}}
+* Bulgarian: {{t|bg|прескачане|n}}
+* Danish: {{t+|da|spring|n}}
+* Dutch: {{t+|nl|sprong|m}}
+* Esperanto: {{t+|eo|salto}}
+* Finnish: {{t+|fi|hyppy}}
+* German:
+*: Alemannic German: {{t|gsw|Gump|m}}
+* Macedonian: {{t|mk|прескок|m}}, {{t|mk|скок|m}}
+* Norwegian: {{t|no|sprang|n}}
+* Portuguese: {{t+|pt|salto|m}}, {{t+|pt|pulo|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|прыжо́к|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|скок|sc=Cyrl}}
+*: Roman: {{t+|sh|preskok}}
+* Slovene: {{t|sl|preskok|m}}
+* Swedish: {{t+|sv|hopp}}
+{{trans-bottom}}
+{{trans-top|discontinuity of function}}
+* Esperanto: {{t+|eo|salto}}
+* German:
+*: Alemannic German: {{t|gsw|Unterbruch|m}}
+* Hebrew: {{t+|he|קפיצה|f|tr=kfitsá}}
+* Swedish: {{t+|sv|hopp}}
+{{trans-mid}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Arabic: {{t+check|ar|قفز}}
+* Breton: {{qualifier|1,2}} {{t+check|br|lamm|m}}, {{qualifier|1}} {{t+check|br|sailh|m}}
+* Esperanto: {{t+check|eo|salto}}
+* Estonian: {{t-check|et|hüpe}}
+* Guaraní: {{t+check|gn|po}}
+{{trans-mid}}
+* Interlingua: {{t-check|ia|salto}}
+* Malayalam: {{t+check|ml|ചാട്ടം}}
+* Romanian: {{t+check|ro|salt|n}}, {{t+check|ro|săritură|f}}
+* Spanish: {{t+check|es|salto|m}}
+* Tagalog: {{t-check|tl|talon}}
+* Tupinambá: {{t-check|tpn|pora}}
+{{trans-bottom}}
+====Adverb====
+{{en-adv|-}}
+# {{lb|en|obsolete}} [[exactly|Exactly]]; [[precisely]]
+#* {{quote-book|en|year=c. 1599–1601|authorlink=William Shakespeare|first=William|last=Shakespeare|title={{w|Hamlet}}|others=act 1, scene 1|lines=64–65|passage=Thus twice before, and '''jump''' at this dead hour,&lt;br /&gt;With martial stalk hath he gone by our watch.}}
+=====Synonyms=====
+* {{l|en|accurately}}, {{l|en|just}}, {{l|en|slap bang}}; see also [[Thesaurus:exactly]]
+====Adjective====
+{{en-adj}}
+# {{lb|en|obsolete}} Exact; matched; fitting; precise.
+#* '''1640''', {{w|Ben Jonson}}, ''An Execration Upon Vulcan''
+#*: '''jump''' names
+#* {{RQ:Shakespeare Hamlet|1|1|text=Thus twice before, and '''jump''' at this dead hour, / With martial stalk hath he gone by our watch}}
+====References====
+&lt;references/&gt;
+===Etymology 2===
+Compare {{cog|fr|jupe||a long petticoat, a skirt}} and {{cog|en|jupon}}.
+====Noun====
+{{en-noun}}
+# A kind of loose jacket for men.
+=====Related terms=====
+* {{l|en|jumper}}
+* {{l|en|jumps}}
+[[Category:en:Buttons]]
+[[Category:en:Clothing]]
+[[Category:en:Gaits]]
+[[Category:en:Violence]]</text>
+<sha1>brqg31n61mlt7gvnla4h8gz98h5okpm</sha1>
+</revision>
+</page>

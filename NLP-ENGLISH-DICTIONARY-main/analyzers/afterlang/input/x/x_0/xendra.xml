@@ -1,0 +1,39 @@
+<page>
+<title>xendra</title>
+<ns>0</ns>
+<id>7365054</id>
+<revision>
+<id>68871703</id>
+<parentid>68835981</parentid>
+<timestamp>2022-08-28T06:13:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="475" xml:space="preserve">==Galician==
+===Etymology===
+Attested since circa 1539 (''gendra''). Probably from {{inh|gl|la|genus|genera}}.&lt;ref&gt;{{R:gl:Olea|gendra}}.&lt;/ref&gt; Compare {{cog|en|engender}}.
+===Pronunciation===
+* {{IPA|gl|/ʃenˈdɾa̝/}}
+===Noun===
+{{gl-noun|f}}
+# [[bud]]
+# [[sprout]]
+====Derived terms====
+* {{l|gl|Gendra}}
+* {{l|gl|Gendre}}
+====Related terms====
+* {{l|gl|enxendrar}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:DDLG|gendra}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;References/&gt;</text>
+<sha1>3eoh3o5sh7ctysnn0zpcnvt5p3mq19v</sha1>
+</revision>
+</page>

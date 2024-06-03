@@ -1,0 +1,25 @@
+<page>
+<title>xylographisches</title>
+<ns>0</ns>
+<id>6345515</id>
+<revision>
+<id>60597363</id>
+<parentid>58424009</parentid>
+<timestamp>2020-09-27T13:19:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="155" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xylographisches.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xylographisch}}</text>
+<sha1>966x7mt3yyoeq5mizu8a2qqxex2fpja</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>Yakbutter</title>
+<ns>0</ns>
+<id>6998205</id>
+<revision>
+<id>66247282</id>
+<parentid>65754864</parentid>
+<timestamp>2022-03-27T20:24:36Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* German */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==German==
+===Alternative forms===
+* {{alter|de|Jakbutter}}
+===Etymology===
+From {{af|de|Yak|Butter}}.
+===Noun===
+{{de-noun|f.sg}}
+# [[yak]] [[butter]]
+====Declension====
+{{de-ndecl|f.sg}}</text>
+<sha1>3w7go476jekq3gevsewzp7ud0dz5dqh</sha1>
+</revision>
+</page>

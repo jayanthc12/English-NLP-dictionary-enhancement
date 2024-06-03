@@ -1,0 +1,35 @@
+<page>
+<title>yacer</title>
+<ns>0</ns>
+<id>92026</id>
+<revision>
+<id>68889313</id>
+<parentid>67382092</parentid>
+<timestamp>2022-08-28T08:54:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="601" xml:space="preserve">==Spanish==
+===Etymology===
+From {{inh|es|osp|yazer}}, inherited from {{inh|es|la|iaceo|iacēre, iaceō}}, from {{inh|es|itc-pro|*jakēō}}. Cognate with {{cog|fr|gésir}}, {{cog|it|giacere}}, {{cog|pt|jazer}}, {{cog|ca|jeure}}. Compare {{cog|en|gist}} and {{m|en|joist}}.
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-AdrianAbdulBaha-yacer.wav|Audio (Colombia)}}
+===Verb===
+{{es-verb}}
+# to [[lie]]; to [[recline]]
+#: {{syn|es|reposar}}, {{syn|es|recostar}}
+====Conjugation====
+{{es-conj|nocomb=1}}
+====Derived terms====
+* {{l|es|yacimiento}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>57ut4tqi7rmsc8r5yeeqcbp64pnqnx9</sha1>
+</revision>
+</page>

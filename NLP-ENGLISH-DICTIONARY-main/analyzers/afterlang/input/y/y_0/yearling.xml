@@ -1,0 +1,62 @@
+<page>
+<title>yearling</title>
+<ns>0</ns>
+<id>248773</id>
+<revision>
+<id>64484573</id>
+<parentid>63752969</parentid>
+<timestamp>2021-10-29T03:36:15Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>French: Added &quot;Further reading&quot; section with TLFi link (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2385" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yerling}}, {{m|enm|yerlyng}}, equivalent to {{suffix|en|year|ling}}. Cognate with {{cog|nl|jaarling|t=yearling}}, {{cog|de|Jährling|t=yearling}}.
+===Noun===
+{{en-noun}}
+# An [[animal]] that is between one and two [[year]]s old; one that is in its second year (but not yet two full years old).
+#: {{ux|en|a '''yearling''' lamb}}
+#* {{quote-journal|en|author=Henry Fountain|title=‘The Worst Thing I Can Ever Remember’: How Drought Is Crushing Ranchers|work=The New York Times|date=2021-08-25|url=https://www.nytimes.com/2021/08/25/climate/drought-cattle.html|issn=0362-4331|author2=Benjamin Rasmussen|passage=Tom Fettig and his wife, Kim, were there with 60 '''yearlings''', about half of a herd they were helping their son raise on the outskirts of Bismarck.}}
+# A [[racehorse]] that is [[considered]] to be one year old until a [[subsequent]] [[January]] 1st.&lt;!-- I think --&gt;
+# {{lb|en|US}} A [[sophomore]] at [[West Point]] [[military]] [[academy]].
+#* '''1910''', H. Irving Hancock, ''Dick Prescott's Second Year at West Point'' (page 84)
+#*: &quot;But is a [[plebe]] forbidden to stroll here?&quot;&lt;br&gt;&quot;If a plebe did have the brass to try it,&quot; replied Anstey slowly, &quot;I reckon he would have to fight the whole '''yearling''' class in turn.&quot;
+====Translations====
+{{trans-top|one-year-old animal}}
+* Asturian: {{t|ast|aneyu|m}}
+* Danish: {{t|da|åring|c}}
+* Dutch: {{t+|nl|jaarling|m}}
+* Galician: {{t+|gl|anello|m}}
+* Georgian: {{t|ka|ერთი წლის ცხოველი}}
+* German: {{t+|de|Jährling|m}}
+* Irish: {{t|ga|athrón|m}} {{qualifier|seal}}, {{t|ga|colann|f}} {{qualifier|calf}}, {{t|ga|colpach|f}} {{qualifier|heifer or bullock}}, {{t|ga|dairt|f}} {{qualifier|heifer}}, {{t|ga|fóisc|f}} {{qualifier|ewe}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|ettåring|m}}, {{t|nb|åring|m}}
+*: Nynorsk: {{t|nn|eittåring|m}}, {{t|nn|åring|m}}, {{t|nn|vetlide|m}}
+* Polish: {{t+|pl|roczniak|m}}
+* Portuguese: {{t+|pt|anelho|m}}
+* Spanish: {{t+|es|añojo|m}} {{qualifier|bull}}
+* Swedish: {{t+|sv|ettåring|c}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aegilnry|grayline|layering|re-laying|relaying}}
+[[Category:en:Baby animals]]
+[[Category:en:Horse racing]]
+----
+==French==
+===Pronunciation===
+* {{fr-IPA|yeurling|yirling}}
+===Noun===
+{{fr-noun|m}}
+# {{l|en|yearling}}
+===Further reading===
+* {{R:TLFi}}</text>
+<sha1>6s15fdqquww3o0uf7e6shqz1ykcb26k</sha1>
+</revision>
+</page>

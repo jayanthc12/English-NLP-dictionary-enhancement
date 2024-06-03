@@ -1,0 +1,57 @@
+<page>
+<title>yeh</title>
+<ns>0</ns>
+<id>41446</id>
+<revision>
+<id>68766768</id>
+<parentid>66344081</parentid>
+<timestamp>2022-08-27T03:14:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1074" xml:space="preserve">==English==
+===Etymology 1===
+{{rfe|en|When did this variant originate? When did it become popular?}}
+====Pronunciation====
+* {{IPA|en|[jɛ]|[jɛː]|[jɛə]}}
+====Interjection====
+{{en-interj}}
+# {{lb|en|colloquial|informal}} {{alternative form of|en|yeah|nodot=11}}; [[yes]].
+===Etymology 2===
+====Pronunciation====
+* {{IPA|en|/jə/|qual2=narrowly|[jɛ]}}
+====Pronoun====
+{{en-pron}}
+# {{lb|en|dialectal}} {{pronunciation spelling of|en|you}}
+#* {{RQ:Rowling Harry Potter|1|iv|text=‘[[budge up|Budge up]], '''yeh''' great lump,’ said the stranger.}}
+===Anagrams===
+* {{anagrams|en|a=ehy|Hey|hey|hye}}
+----
+==Balinese==
+===Romanization===
+{{ban-rom}}
+# {{romanization of|ban|ᬬᬾᬄ}}
+----
+==Classical Nahuatl==
+===Pronoun===
+{{head|nci|pronoun}}
+# {{lb|nci|emphatic}} [[he]], [[she]], [[it]]
+====Synonyms====
+* {{l|nci|yehhuatl}}
+----
+==Scots==
+===Numeral===
+{{head|sco|numeral}}
+# {{lb|sco|South Scots}} {{alt form|sco|ae||one}}
+#: ''Jist the '''yeh''' for mei, ta.''
+#:: Just the '''one''' for me, thanks.
+===References===
+* {{R:DSL|pos=adj}}</text>
+<sha1>hyzd81motu1318kwowst81qoxqadjzi</sha1>
+</revision>
+</page>

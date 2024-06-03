@@ -1,0 +1,21 @@
+<page>
+<title>xatejo</title>
+<ns>0</ns>
+<id>5991165</id>
+<revision>
+<id>41924444</id>
+<timestamp>2016-12-25T05:10:24Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|m=ind|t=pres|xatejar}}</text>
+<sha1>l7zyky0ln4tw1lcaywitkyrz9z45kaz</sha1>
+</revision>
+</page>

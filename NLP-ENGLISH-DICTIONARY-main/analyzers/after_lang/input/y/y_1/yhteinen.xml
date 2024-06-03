@@ -1,0 +1,64 @@
+<page>
+<title>yhteinen</title>
+<ns>0</ns>
+<id>613631</id>
+<revision>
+<id>62583268</id>
+<parentid>59223669</parentid>
+<timestamp>2021-05-22T21:17:55Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add comparatives/superlatives/derived terms to adjective entries from a manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1141" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yksi|alt1=yhte-|inen}}
+===Pronunciation===
+{{fi-p}}
+===Adjective===
+{{fi-adj|yhteis|empi|in}}
+# [[shared]], [[joint]], (in) [[common]]
+# {{lb|fi|in compounds}} [[collaborative]], [[collective]], [[co-]], [[co-ed]]
+====Declension====
+{{fi-decl-nainen|pos=adj|yhtei|ä}}
+====Usage notes====
+* &quot;to share&quot; may be expressed with &quot;olla '''yhteinen'''&quot;.
+*: ''Meillä '''on yhteinen''' asunto.''
+*:: We '''share''' a flat.
+====Synonyms====
+* {{l|fi|jaettu}} {{qualifier|shared}}
+====Antonyms====
+* {{l|fi|erillinen}} {{qualifier|separate}}
+* {{l|fi|yksityinen}} {{qualifier|of property}}
+====Derived terms====
+* {{l|fi|yhteisesti}}
+* {{l|fi|yhteisyys}}
+* {{l|fi|yhteisö}}
+====Compounds====
+{{top4}}
+* {{l|fi|yhteisesiintyminen}}
+* {{l|fi|yhteiskoulu}}
+* {{l|fi|yhteiskunta}}
+{{mid4}}
+* {{l|fi|yhteislaulu}}
+* {{l|fi|yhteismaa}}
+* {{l|fi|yhteismajoitus}}
+{{mid4}}
+* {{l|fi|yhteisomaisuus}}
+* {{l|fi|yhteisomistus}}
+* {{l|fi|yhteissauna}}
+{{mid4}}
+* {{l|fi|yhteistila}}
+* {{l|fi|yhteistyö}}
+* {{l|fi|yhteisymmärrys}}
+{{bottom}}
+====Related terms====
+* {{l|fi|yhdistää}}
+* {{l|fi|yhteisöllinen}}</text>
+<sha1>luttnhchj1nwxllkoieux85mhlpkg4m</sha1>
+</revision>
+</page>

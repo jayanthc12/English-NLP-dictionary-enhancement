@@ -1,0 +1,26 @@
+<page>
+<title>yerbabuena</title>
+<ns>0</ns>
+<id>5925989</id>
+<revision>
+<id>68965014</id>
+<parentid>55283509</parentid>
+<timestamp>2022-08-29T00:32:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="156" xml:space="preserve">{{also|yerba buena|Yerba Buena}}
+==Spanish==
+===Noun===
+{{es-noun|f}}
+# {{alternative spelling of|es|hierba buena}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>j19wqe31vfxnu992z4sbaowvg7klola</sha1>
+</revision>
+</page>

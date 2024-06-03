@@ -1,0 +1,72 @@
+<page>
+<title>xylofon</title>
+<ns>0</ns>
+<id>209471</id>
+<revision>
+<id>68772904</id>
+<parentid>67656523</parentid>
+<timestamp>2022-08-27T06:46:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1290" xml:space="preserve">{{also|Xylofon|xylofón}}
+==Czech==
+===Pronunciation===
+* {{IPA|cs|[ˈksɪlofon]|[ˈksɪlofoːn]}}
+* {{hyphenation|cs|xy|lo|fon}}
+===Noun===
+{{cs-noun|g=m-in}}
+# [[xylophone]]
+====Declension====
+{{cs-decl-noun|xylofon|xylofonu|xylofonu|xylofon|xylofone|xylofonu|xylofonem|xylofony|xylofonů|xylofonům|xylofony|xylofony|xylofonech|xylofony}}
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+[[Category:cs:Musical instruments]]
+----
+==Danish==
+{{wikipedia|lang=da}}
+===Noun===
+{{head|da|noun|g=c|definite singular|xylofonen|indefinite plural|xylofoner|definite plural|xylofonerne}}
+# a [[xylophone]]
+[[Category:da:Musical instruments]]
+----
+==Norwegian Bokmål==
+{{wikipedia|lang=no}}
+===Etymology===
+From {{confix|nb|xylo|fon}}.
+===Noun===
+{{nb-noun-m1}}
+# a [[xylophone]]
+===References===
+* {{R:The Bokmål Dictionary}}
+[[Category:nb:Musical instruments]]
+----
+==Norwegian Nynorsk==
+{{wikipedia|lang=nn}}
+===Etymology===
+From {{confix|nn|xylo|fon}}.
+===Noun===
+{{nn-noun-m1}}
+# a [[xylophone]]
+===References===
+* {{R:The Nynorsk Dictionary}}
+[[Category:nn:Musical instruments]]
+----
+==Swedish==
+===Noun===
+{{sv-noun|c}}
+# a [[xylophone]]
+====Declension====
+{{sv-infl-noun-c-er}}
+====Derived terms====
+* {{l|sv|xylofonist}}
+[[Category:sv:Musical instruments]]</text>
+<sha1>t0wbb1mn2nh39udvlsp30jo7h3y6keb</sha1>
+</revision>
+</page>

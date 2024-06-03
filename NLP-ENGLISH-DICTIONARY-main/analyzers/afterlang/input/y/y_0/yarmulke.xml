@@ -1,0 +1,81 @@
+<page>
+<title>yarmulke</title>
+<ns>0</ns>
+<id>54713</id>
+<revision>
+<id>69127396</id>
+<parentid>68534704</parentid>
+<timestamp>2022-09-05T04:19:05Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3402" xml:space="preserve">==English==
+{{was wotd|2008|September|23}}
+[[File:Casamento judeu1.jpg|thumb|Yarmulkes]]
+===Alternative forms===
+* {{alter|en|yarmalka|yarmalke|yarmelka|yarmelke|yarmulka|yermulke||rhotic variants}}
+* {{alter|en|yamaka|yamalka|yamalke|yamelka|yamelke|yamilke|yamuka|yamulka|yamulke||nonrhotic variants}}
+===Etymology===
+Borrowed from {{bor|en|yi|יאַרמלקע}}, from {{der|en|pl|jarmułka|t=skullcap}} or a {{der|en|uk|-}} cognate of the same. Possibly from the {{der|en|tr|yağmurluk|t=rainwear}}, though it could also be from {{der|en|ML.|almutia|t=hood, cowl}} (compare {{cog|la|amictus|t=clothed, veiled}}).
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjɑːməlkə/}}
+* {{a|US}} {{IPA|en|/ˈjɑ(ɹ)mə(l)kə/}}
+* {{audio|en|en-us-yarmulke.ogg|Audio (US)}}
+===Noun===
+{{en-noun}}
+# A [[skullcap]] worn by [[religious]] [[Jewish]] males (especially during [[prayer]]). {{defdate|from 1903}}
+#: {{syn|en|kippah|kappel|skullcap}}
+#* {{quote-web|en|date=1991-10-01|title=The New Anti-Semitism: A Geshrei|page=33|work=Village Voice|author=Richard Goldstein|url=https://www.villagevoice.com/2020/01/04/the-new-anti-semitism-a-geshrai/|passage=And I always feel uncomfortable dur­ing the High Holy Days watching people in '''yarmulkes''' rushing through the streets, knowing they’ll be swaying and moaning something ancient and indecipherable, even to me.}}
+#* {{quote-web|en|author=Patricia Cohen|url=https://www.nytimes.com/2007/04/29/books/29pcoh.html?ex=1179115200|title=The Frozen Dozen|work=New York Times|date=April 29, 2007|passage=But once Dr. Levenson, who works for the Indian Health Service and wears a colorful tapestry '''yarmulke''', has alerted the tiny network, it almost seems as if we have stepped into Yiddishland.}}
+====Translations====
+{{trans-top|skullcap worn by religious Jewish males}}
+* Arabic: {{t|ar|قُبَّة|f}}, {{t|ar|كِبَّة|f}}
+* Belarusian: {{t|be|ярмо́лка|f}}
+* Bulgarian: {{t|bg|ермо́лка|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|卡巴|tr=kǎbā}}
+* Czech: {{t|cs|kipa|f}}, {{t|cs|jarmulka|f}}
+* Esperanto: {{t|eo|kipao}}
+* Finnish: {{t+|fi|kipa}}
+* French: {{t+|fr|kippa|f}}
+* German: {{t+|de|Jarmulke|f}}
+* Greek: {{t+|el|σκούφος|m}}
+* Hebrew: {{t+|he|כִּפָּה|f|tr=kipá}}
+* Hungarian: {{t|hu|kipa}}, {{t|hu|jarmulke}}
+* Indonesian: {{t|id|kippah}}
+* Italian: {{t+|it|kippah|f}}
+* Japanese: {{t|ja|キッパー|tr=kippā}}, {{t|ja|キッパ|tr=kippa}}, {{t|ja|ヤムルカ|tr=yamuruka}}
+* Korean: {{t|ko|키파}}, {{t|ko|야물커}}
+* Macedonian: {{t|mk|јармулка|f}}
+{{trans-mid}}
+* Malay: {{t|ms|kippah}}
+* Persian: {{t+|fa|کیپا|tr=kipâ}}, {{t|fa|یاماکا|tr=yâmâkâ}}
+* Polish: {{t+|pl|jarmułka|f}}
+* Portuguese: {{t+|pt|quipá|m|f}}
+* Russian: {{t+|ru|ермо́лка|f}}, {{t+|ru|кипа́|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|јарму̀лка|f}}
+*: Roman: {{t+|sh|jarmùlka|f}}
+* Slovak: {{t|sk|kipa|f}}, {{t|sk|jarmulka|f}}
+* Slovene: {{t|sl|jarmulka|f}}
+* Spanish: {{t+|es|kipá|f}}
+* Swedish: {{t+|sv|kippa|c}}
+* Tagalog: {{t|tl|kipa}}
+* Turkish: {{t+|tr|kipa}}, {{t|tr|kippa}}, {{t|tr|yarmulke}}
+* Ukrainian: {{t+|uk|ярму́лка|f}}
+* Yiddish: {{t|yi|יאַרמלקע|f}}
+{{trans-bottom}}
+===References===
+* ''Merriam-Webster's Collegiate Dictionary 10th Edition'' (1997) &lt;br /&gt;
+* {{R:Dictionary.com}}
+[[Category:en:Headwear]]
+[[Category:en:Judaism]]
+[[Category:en:Religion]]</text>
+<sha1>96dqy9ukqcs3wv52r01zmsrh9s75wig</sha1>
+</revision>
+</page>

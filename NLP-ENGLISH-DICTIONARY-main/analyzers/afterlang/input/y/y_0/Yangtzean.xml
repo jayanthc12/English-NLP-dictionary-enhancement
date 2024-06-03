@@ -1,0 +1,31 @@
+<page>
+<title>Yangtzean</title>
+<ns>0</ns>
+<id>3870830</id>
+<revision>
+<id>51929662</id>
+<parentid>47195862</parentid>
+<timestamp>2019-03-16T19:42:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1200" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yangtze|an}}
+===Adjective===
+{{en-adj|-}}
+# Of or pertaining to the [[Yangtze]] [[river]].
+#* '''1988''', Lyman P. Van Slyke, ''Yangtze: Nature, History, and the River'', Addison-Wesley Publishing Co. (1988), {{ISBN|0201088940}}, [http://books.google.com/books?id=oxZxAAAAMAAJ&amp;q=%22yangtzean%22&amp;redir_esc=y page 3]:
+#*: Natural time, social time, remembered time — these are the three kinds of time, the three lenses, through which I will try to view the '''Yangtzean''' world.
+#* '''1990''', ''Palaeontologia Cathayana'', Volume 5, [http://books.google.com/books?id=rn8fAQAAIAAJ&amp;q=%22yangtzean%22 page 173]:
+#*: In China, the '''Yangtzean''' (or North China) fauna is equivalent to the shelf biofacies including endemic polymeroid ptychoparioids, corynexochids, redlichiids, etc., {{…}}
+#* '''2001''', Stephen J. Pyne, ''Fire: A Brief History'', University of Washington Press (2001), {{ISBN|9780714127620}}, [http://books.google.com/books?id=AOUvDp89rioC&amp;pg=PA68&amp;dq=%22yangtzean%22# page 68]:
+#*: Excepting some outliers — true wildlands, or the Nilotic, Mesopotamian, '''Yangtzean''' floodplains — fire and field came to share a mutual geography.</text>
+<sha1>pzx6hkqmstfc2u0wga7dznp4mx4qpd2</sha1>
+</revision>
+</page>

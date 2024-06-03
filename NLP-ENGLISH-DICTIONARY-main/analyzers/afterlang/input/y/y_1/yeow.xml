@@ -1,0 +1,31 @@
+<page>
+<title>yeow</title>
+<ns>0</ns>
+<id>3443989</id>
+<revision>
+<id>64460426</id>
+<parentid>62479653</parentid>
+<timestamp>2021-10-28T12:26:55Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="783" xml:space="preserve">{{also|þeow}}
+==English==
+===Etymology===
+Imitative; compare {{m|en|ow}}, {{m|en|yowch}}, etc.
+===Pronunciation===
+* {{rhymes|en|aʊ|s=1}}
+===Interjection===
+{{en-interj}}
+# Expressing sudden pain or startlement.
+#* {{quote-book|en|year=1999|author=Annie Berthold-Bond|title=Better Basics for the Home: Simple Solutions for Less Toxic Living|text='''Yeow'''! I don't think I could recommend going to this extreme, but the story certainly illustrates the lengths to which one is inspired to go to experience the feeling of steam-cleaned skin.}}
+#* {{quote-book|en|year=1995|author=Robin Gibson|title=The Sheriff of Whiskey City|passage=&quot;You see anything?&quot; '''Yeow'''! I jumped ten feet in the air, dropping the lamp in the process.}}
+===Anagrams===
+* {{anagrams|en|a=eowy|yowe}}</text>
+<sha1>dlwkv6fvqmlp1emfoicad8u812712fi</sha1>
+</revision>
+</page>

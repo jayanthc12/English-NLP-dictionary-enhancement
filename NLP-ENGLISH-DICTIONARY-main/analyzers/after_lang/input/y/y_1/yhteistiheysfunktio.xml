@@ -1,0 +1,29 @@
+<page>
+<title>yhteistiheysfunktio</title>
+<ns>0</ns>
+<id>7045285</id>
+<revision>
+<id>59682859</id>
+<parentid>58620596</parentid>
+<timestamp>2020-07-04T23:55:42Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) add etymology based on manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="268" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|tiheysfunktio}}
+===Pronunciation===
+{{fi-pronunciation|yhteis/tiheys-funktio}}
+===Noun===
+{{fi-noun}}
+# [[joint probability density function]]
+====Declension====
+{{fi-decl-valtio|yhteistiheysfunktio|a}}</text>
+<sha1>melz60rxumwnqq0mlfqsrfu8m8j9aos</sha1>
+</revision>
+</page>

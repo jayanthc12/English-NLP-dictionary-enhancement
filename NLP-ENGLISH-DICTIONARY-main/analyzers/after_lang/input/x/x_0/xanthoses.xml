@@ -1,0 +1,25 @@
+<page>
+<title>xanthoses</title>
+<ns>0</ns>
+<id>1102651</id>
+<revision>
+<id>62397034</id>
+<parentid>55505155</parentid>
+<timestamp>2021-04-19T22:53:01Z</timestamp>
+<contributor>
+<username>BD2412</username>
+<id>5540</id>
+</contributor>
+<minor />
+<comment>assign categorization task to template, replaced: {{plural of|en| → {{en-irregular plural of|ending=es| using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{lb|en|rare}} {{en-irregular plural of|ending=es|xanthosis}}
+===Anagrams===
+* {{anagrams|en|a=aehnosstx|sexathons}}</text>
+<sha1>kj9vcoctdgupimow6q20awm0px8kiu1</sha1>
+</revision>
+</page>

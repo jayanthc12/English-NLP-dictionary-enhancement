@@ -1,0 +1,28 @@
+<page>
+<title>yarran</title>
+<ns>0</ns>
+<id>1214526</id>
+<revision>
+<id>69608694</id>
+<parentid>66579999</parentid>
+<timestamp>2022-10-28T08:00:34Z</timestamp>
+<contributor>
+<username>GreyishWorm</username>
+<id>3977710</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="303" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia|Acacia homalophylla}}
+{{wikispecies|Acacia homalophylla}}
+===Etymology===
+From a native name.{{etystub|en}}
+===Noun===
+{{en-noun}}
+# {{taxlink|Acacia homalophylla|species|noshow=1}}, a species of [[acacia]] tree found commonly in Australia.
+[[Category:en:Acacias]]</text>
+<sha1>la67xe376h8vzl42d8q9hdo80466zts</sha1>
+</revision>
+</page>

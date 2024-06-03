@@ -1,0 +1,28 @@
+<page>
+<title>xics</title>
+<ns>0</ns>
+<id>6578506</id>
+<revision>
+<id>55316566</id>
+<parentid>49115490</parentid>
+<timestamp>2019-10-14T09:38:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{masculine plural of}}; move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{masculine plural of|ca|xic}}
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xic}}</text>
+<sha1>lelcxzncj1aaalx42w08nry80xbwrc7</sha1>
+</revision>
+</page>

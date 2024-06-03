@@ -1,0 +1,70 @@
+<page>
+<title>Xuzhou</title>
+<ns>0</ns>
+<id>1892814</id>
+<revision>
+<id>68654092</id>
+<parentid>67887969</parentid>
+<timestamp>2022-08-16T23:03:30Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1980 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2079" xml:space="preserve">{{also|Xùzhōu}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-m|徐州}}, from a former prefecture administered from the city.
+====Alternative forms====
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsu-chou}}, {{l|en|Hsü-chou}}
+* {{l|en|Suchow}}, {{l|en|Süchow}}
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|prefecture-level city|in northwestern|p/Jiangsu|c/China}}.
+#* {{quote-book
+|en
+|year=1980
+|last=Perry
+|first=Elizabeth J.
+|authorlink=Elizabeth J. Perry
+|title=Rebels and Revolutionaries in North China, 1845-1945
+|url=https://archive.org/details/rebelsrevolution0000perr/
+|location=[[Stanford]], [[California]]
+|publisher={{w|Stanford University Press}}
+|ISBN=0-8047-1175-5
+|OCLC=803060884
+|page=25
+|pageurl=https://archive.org/details/rebelsrevolution0000perr/page/25/
+|text=T’ung-shan County in the '''Hsüchou''' district of Kiangsu was apparently famous for nonglutenous rice during the Han and Northern Wei dynasties (third century B.C. to third century A.D.).
+|brackets=on}}
+=====Synonyms=====
+* {{l|en|Tongshan}}
+=====Translations=====
+{{trans-top|a prefecture-level city of Jiangsu, China}}
+* Arabic: {{t|ar|شُوجُو|m|tr=šujū}}
+* Chinese:
+*: Mandarin: {{t+|cmn|徐州|tr=Xúzhōu|sc=Hani}}
+* Hungarian: {{t|hu|Hszücsou}}
+{{trans-mid}}
+* Japanese: {{t|ja|徐州|tr=じょしゅう, Joshū}}
+* Korean: {{t|ko|^쉬저우}}
+* Russian: {{t|ru|Сюйчжо́у|m}}
+* Vietnamese: {{t|vi|Từ Châu}}
+{{trans-bottom}}
+===Etymology 2===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-m|敘州}}, from a former prefecture administered from the city.
+{{wikipedia|Xuzhou, Sichuan}}
+====Alternative forms====
+* {{sense|obsolete}} {{l|en|Suifu}}, {{l|en|Suifoo}}, {{l|en|Suchow}}
+====Proper noun====
+{{en-proper noun}}
+# {{lb|en|historical}} {{place|en|A [[former]] [[name]] of [[Yibin]], a &lt;&lt;prefecture-level city&gt;&gt; in &lt;&lt;p/Sichuan&gt;&gt;, &lt;&lt;c/China&gt;&gt;, at the [[confluence]] of the [[Min]] and [[Yangtze]] [[river]]s}}.</text>
+<sha1>ov1o8urd6xp3ac06z5l7hc6kc4qgxoq</sha1>
+</revision>
+</page>

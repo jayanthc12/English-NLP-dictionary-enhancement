@@ -1,0 +1,32 @@
+<page>
+<title>xylophagia</title>
+<ns>0</ns>
+<id>3748905</id>
+<revision>
+<id>68813079</id>
+<parentid>67642302</parentid>
+<timestamp>2022-08-27T20:02:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="309" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xylo|phagia}}.
+===Noun===
+{{wikipedia}}
+{{en-noun|-}}
+# {{lb|en|biology}} [[feeding]] on [[wood]]
+# {{lb|en|pathology}} Eating wood as a form of [[pica]]
+====Translations====
+{{checktrans-top}}
+* Italian: {{t+check|it|xilofagia}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>orpr2mjzxl16u3mqd3dlyqw1x0cs9nv</sha1>
+</revision>
+</page>

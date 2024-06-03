@@ -1,0 +1,40 @@
+<page>
+<title>yedek</title>
+<ns>0</ns>
+<id>3712192</id>
+<revision>
+<id>68678979</id>
+<parentid>64979330</parentid>
+<timestamp>2022-08-20T16:58:33Z</timestamp>
+<contributor>
+<username>J3133</username>
+<id>3466327</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="827" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یدك|tr=yedek}}, from the obsolete verb {{m|tr|yedmek||to lead, tow}}. Compare {{cog|otk||tr=yet-|t=to tow}}.
+Cognate with {{cog|otk||tr=yetgek|t=saddlebag, bundle}}, etc.
+===Adjective===
+{{tr-adj}}
+# [[auxiliary]]
+# [[spare]]
+#: {{ux|tr|'''Yedek''' lastiği almaya unuttuğum o gün lastiğim patlamıştı.|The day I forgot to take the '''spare''' tire with me, my tire burst.}}
+===Noun===
+{{tr-noun|yedeği|ler}}
+# [[replacement]]
+# [[spare]], [[substitute]]
+#: {{ux|tr|O görev için bir '''yedeğimiz''' var.|We have a '''substitute''' for that task.}}
+====Declension====
+{{tr-infl-noun-c|e|pred=1|poss=1|stem=yedeğ}}
+====Derived terms====
+* {{l|tr|yedekleme}}
+* {{l|tr|yedeklemek}}
+===References===
+* {{R:tr:Nishanyan|yedek}}
+* {{R:ota:Redhouse|یدك|page=2199}}</text>
+<sha1>8guirmrsa8ep8aurav6m4nzrmsseji7</sha1>
+</revision>
+</page>

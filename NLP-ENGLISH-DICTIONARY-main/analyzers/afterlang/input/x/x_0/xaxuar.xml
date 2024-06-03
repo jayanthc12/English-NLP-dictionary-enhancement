@@ -1,0 +1,32 @@
+<page>
+<title>xaxuar</title>
+<ns>0</ns>
+<id>7064263</id>
+<revision>
+<id>68877990</id>
+<parentid>51271996</parentid>
+<timestamp>2022-08-28T06:41:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAG}} to {{R:gl:DRAG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="314" xml:space="preserve">==Galician==
+===Etymology===
+Ultimately from {{der|gl|la|iēiūnō}}. Compare {{cog|pt|jejuar}}.
+===Verb===
+{{gl-verb|xaxu|ar}}
+# to [[fast]] {{gloss|to abstain from food}}
+====Conjugation====
+{{gl-conj-ar|xaxu}}
+====Related terms====
+* {{l|gl|xaxún}}
+* {{l|gl|xexuno}}
+===Further reading===
+* {{R:gl:DRAG}}</text>
+<sha1>sm3ntq0gal857thgo4n6yny1esctgt7</sha1>
+</revision>
+</page>

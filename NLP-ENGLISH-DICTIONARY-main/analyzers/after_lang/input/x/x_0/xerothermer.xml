@@ -1,0 +1,28 @@
+<page>
+<title>xerothermer</title>
+<ns>0</ns>
+<id>6345452</id>
+<revision>
+<id>60597347</id>
+<parentid>58423985</parentid>
+<timestamp>2020-09-27T13:19:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{head|de|adjective form}} to {{head|de|comparative adjective}}; add {{de-adj form of}} for comparative</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerothermer.ogg|Audio}}
+===Adjective===
+{{head|de|comparative adjective}}
+# {{comparative of|de|xerotherm}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xerotherm}}</text>
+<sha1>nhlglvxizrz5hqjv6suwwrq9ly24pcd</sha1>
+</revision>
+</page>

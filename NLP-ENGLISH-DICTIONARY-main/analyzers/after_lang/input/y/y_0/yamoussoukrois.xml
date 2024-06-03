@@ -1,0 +1,24 @@
+<page>
+<title>yamoussoukrois</title>
+<ns>0</ns>
+<id>6361798</id>
+<revision>
+<id>67195486</id>
+<parentid>47350075</parentid>
+<timestamp>2022-05-30T08:36:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>French: major cleanup: fix pronuns, remove unnecessary ones, remove ~ in subst specs; raw quotes -&gt; {{ux}}/{{uxi}}/{{quote}}; {{ux|inline=1}} -&gt; {{uxi}}; add {{place}}, {{lit}}; fix relational adjectives; remove unnecessary caps in defns; remove DEFAULTSORT; 'confer' in etyms -&gt; 'compare'; clean up verlan terms; {{fr-adjective}} -&gt; {{fr-adj}}; etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">{{also|Yamoussoukrois}}
+==French==
+===Adjective===
+{{fr-adj}}
+# {{lb|fr|relational}} of [[Yamoussoukro]]</text>
+<sha1>rd22j5zaryu7jl9akw1hgt84qj9ibon</sha1>
+</revision>
+</page>

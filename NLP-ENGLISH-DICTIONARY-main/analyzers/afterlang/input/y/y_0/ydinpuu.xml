@@ -1,0 +1,28 @@
+<page>
+<title>ydinpuu</title>
+<ns>0</ns>
+<id>4616792</id>
+<revision>
+<id>69318232</id>
+<parentid>54325510</parentid>
+<timestamp>2022-09-18T17:07:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|puu|t1=core|t2=wood}}
+===Pronunciation===
+{{fi-p|ydin-puu}}
+===Noun===
+{{fi-noun}}
+# {{synonym of|fi|sydänpuu}}
+====Declension====
+{{fi-decl-maa|ydinpuu|a}}</text>
+<sha1>hdgrpo0o3goy8gc9c0536tzq7bhgvu3</sha1>
+</revision>
+</page>

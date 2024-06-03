@@ -1,0 +1,23 @@
+<page>
+<title>yauping</title>
+<ns>0</ns>
+<id>2095280</id>
+<revision>
+<id>55200378</id>
+<parentid>52485308</parentid>
+<timestamp>2019-10-14T03:44:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{present participle of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yaup|nocat=1}}</text>
+<sha1>e4p25bnoaqe60uccuesc12mkudgy2hd</sha1>
+</revision>
+</page>

@@ -1,0 +1,97 @@
+<page>
+<title>XP</title>
+<ns>0</ns>
+<id>1184280</id>
+<revision>
+<id>68473068</id>
+<parentid>67631130</parentid>
+<timestamp>2022-07-26T19:45:35Z</timestamp>
+<contributor>
+<username>Diddy-sama6</username>
+<id>711136</id>
+</contributor>
+<comment>/* French */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2481" xml:space="preserve">==Translingual==
+===Symbol===
+{{mul-symbol}}
+# An [[East Asian]] [[smiley]] [[emoticon]] representing a happy face sticking out its tongue.
+[[Category:Translingual emoticons]]
+----
+==English==
+===Etymology 1===
+An abbreviation.
+====Noun====
+{{en-noun|-}}
+# {{lb|en|software engineering}} {{initialism of|en|[[extreme programming|Extreme Programming]]}}
+# {{lb|en|medicine}} {{initialism of|en|[[xeroderma pigmentosum|Xeroderma Pigmentosum]]}}
+====Noun====
+{{en-noun|XP}}
+# {{lb|en|role-playing games}} {{initialism of|en|[[experience point|Experience Point]]}}
+=====Related terms=====
+{{rel3|en|title=experience point|
+|MP
+|HP
+}}
+====Noun====
+{{en-noun|XPs}}
+# {{lb|en|motorsport}} {{abbreviation of|en|[[extreme]] [[prix]]; xPrix}}; from being an extreme [[grand prix]].
+=====Related terms=====
+{{rel3|en|title=motorsports|
+|XE
+|EP
+|GP
+}}
+====Proper noun====
+{{en-proper noun}}
+# {{lb|en|computing}} {{ellipsis of|en|{{w|lang=en|Windows XP}}}}
+===Etymology 2===
+Combination of prefix [[P]] and prefix modifier [[X]].
+====Prefix====
+{{en-prefix|head=[[X]][[P]]}}
+# {{lb|en|aviation|military|obsolete|US}} {{l|en|experimental|eXperimental}}, {{l|en|pursuit|Pursuit}}, {{l|en|fighter}} {{qualifier|prefix}}
+=====Derived terms=====
+* {{l|en|XP-90}}
+* {{l|en|XP-53}}
+=====See also=====
+* {{l|en|XA}}, {{l|en|XB}}, {{l|en|XC}}, {{l|en|XF}}, {{l|en|XQ}}
+* {{l|en|X-plane}}
+* {{l|en|YP}}
+===Etymology 3===
+''X'' is a variable which can stand for letters representing parts of speech such as: ''N'' (noun), ''V'' (verb), ''P'' (preposition), etc.
+====Noun====
+{{en-noun}}
+# {{lb|en|grammar|X-bar theory}} {{initialism of|en|[[X]] [[phrase|Phrase]]}} {{gloss|a phrase which consists of either: (1) an optional [[specifier]] and an [[X-bar]] phrase, or (2) a [[conjunction]] [[sandwiched]] between two other XPs. The X is a &quot;pro-letter&quot; which can be substituted by letters such as N for noun, V for verb, P for preposition, I for inflectional, etc.}}
+=====Hyponyms=====
+{{col4
+|en|AP
+|IP
+|NP
+|PP
+|VP
+}}
+===References===
+* {{pedia}}
+===Anagrams===
+* {{anagrams|en|a=px|PX|Px|px}}
+[[Category:en:Microsoft]]
+----
+==French==
+===Etymology===
+Abbreviation.
+===Noun===
+{{fr-noun|m}}
+# {{lb|fr|motorsport}} {{abbreviation of|fr|[[extrême]] [[prix]]; [[xPrix]]}}; from [[grand prix]] extrême
+====Related terms====
+{{rel3|fr|title=motorsports|
+|EP
+|GP
+|XE
+}}
+===Proper noun===
+{{fr-proper noun|m}}
+# {{lb|fr|computing}} {{ellipsis of|fr|{{w|lang=fr|Windows XP}}}}</text>
+<sha1>pknz84lmq0uh03vbo9ps5rqrm1vwvgp</sha1>
+</revision>
+</page>

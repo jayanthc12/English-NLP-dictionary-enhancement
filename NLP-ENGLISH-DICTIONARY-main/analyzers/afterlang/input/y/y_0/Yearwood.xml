@@ -1,0 +1,25 @@
+<page>
+<title>Yearwood</title>
+<ns>0</ns>
+<id>6142881</id>
+<revision>
+<id>67825109</id>
+<parentid>67702063</parentid>
+<timestamp>2022-07-09T21:27:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="351" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yearwoods}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yearwood'' is the 10429&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 3085 individuals. ''Yearwood'' is most common among White (50.15%) and Black/African American (38.8%) individuals.</text>
+<sha1>cfqbc5jby89rladnd8ic03185xlb9ql</sha1>
+</revision>
+</page>

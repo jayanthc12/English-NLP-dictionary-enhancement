@@ -1,0 +1,24 @@
+<page>
+<title>xustapuxo</title>
+<ns>0</ns>
+<id>1217740</id>
+<revision>
+<id>56594338</id>
+<parentid>29854296</parentid>
+<timestamp>2019-10-18T08:35:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xustapoñer||3|s|pret|indc}}
+# {{inflection of|gl|xustapór||3|s|pret|indc}}</text>
+<sha1>kgy5np319nebmp3a11uplx7a4f6sns4</sha1>
+</revision>
+</page>

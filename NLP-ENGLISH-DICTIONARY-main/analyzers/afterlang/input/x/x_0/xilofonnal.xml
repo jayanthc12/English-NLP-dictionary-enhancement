@@ -1,0 +1,24 @@
+<page>
+<title>xilofonnal</title>
+<ns>0</ns>
+<id>1791352</id>
+<revision>
+<id>60726099</id>
+<parentid>40406421</parentid>
+<timestamp>2020-10-03T00:51:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{hu-inflection of}} to {{inflection of|hu}} with appropriate param changes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">{{also|xilofonnál}}
+==Hungarian==
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||ins|s}}</text>
+<sha1>tl55066nygt7zwzecg4bepotckybwm3</sha1>
+</revision>
+</page>

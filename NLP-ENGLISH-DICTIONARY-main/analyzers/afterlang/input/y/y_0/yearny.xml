@@ -1,0 +1,34 @@
+<page>
+<title>yearny</title>
+<ns>0</ns>
+<id>3595277</id>
+<revision>
+<id>51920787</id>
+<parentid>34727658</parentid>
+<timestamp>2019-03-16T17:06:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1021" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|yearn|y}}.
+===Adjective===
+{{en-adj|er|more}}
+# Indicating strong [[desire]], [[passion]], or [[longing]]; [[eager]].
+#* '''2003''', Jennifer Donnelly, ''A Northern Light'':
+#*: It was beautiful and made me feel '''yearny''' for home.
+#* '''2011''', Anthony Burgess, ''A Clockwork Orange'':
+#*: I was slooshying more like malenky romantic songs, what they call Lieder, just a goloss and a piano, very quiet and like '''yearny''', different from when it had been all bolshy orchestras and me lying on the bed between [...]
+# Overly [[desirous]]; [[sentimental]].
+#* '''2009''', Stefan Kanfer, ''Somebody: The Reckless Life and Remarkable Career of Marlon Brando'':
+#*: &quot;Long Ago and Far Away,&quot; &quot;Sentimental Journey&quot;: &quot;Never thought my heart could be so '''yearny''', Why did I decide to roam? Gotta take that sentimental journey, Sentimental journey home.&quot;
+#* '''2011''', Jill Mansell, ''To The Moon and Back'':
+#*: Apart from the pathetic '''yearny''' crush bit, obviously.</text>
+<sha1>l4mksutrobqmblf15nt5i1v42jvtlxy</sha1>
+</revision>
+</page>

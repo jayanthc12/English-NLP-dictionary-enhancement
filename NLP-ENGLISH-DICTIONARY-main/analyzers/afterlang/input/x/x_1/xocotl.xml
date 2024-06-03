@@ -1,0 +1,104 @@
+<page>
+<title>xocotl</title>
+<ns>0</ns>
+<id>4503147</id>
+<revision>
+<id>68826003</id>
+<parentid>66695978</parentid>
+<timestamp>2022-08-27T22:06:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3205" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Tlaxcala}} {{l|nhn|xokotl}}
+===Etymology===
+From {{der|nhn|nci|xocotl}}.
+===Pronunciation===
+* {{IPA|nhn|/ʃoːkotɬ/}}
+===Noun===
+{{nhn-noun|i|xocotl}}
+# {{lb|nhn|Amecameca|and|Cholula}} [[apple]], [[pear]].
+====Derived terms====
+* {{l|nhn|ezxocotl}}
+* {{l|nhn|texocotl}}
+===References===
+* Mancilla Sepúlveda, Héctor. (2002) ''Lecciones de Nahuatl'', Amecameca, Hirata Editorial, México DF. p. 158.
+* Medina, Genaro. (1999) ''Curso de Nahuatl'', University of Americas, Cholula, Puebla.
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+{{c|nhn|Fruits}}
+----
+==Classical Nahuatl==
+===Etymology===
+Compare {{cog|ncx|xocotl|t=apple}}, {{cog|azz|xokot|t=fruit, orange, peach}}, {{cog|ncj|xokotl|t=apple}}, {{cog|nhg|xocotl|t=pear}}.
+===Pronunciation===
+* {{IPA|nci|/ʃoːkot͡ɬ/}}
+===Noun===
+{{head|nci|noun}}
+# [[hog plum|Hog plum]]
+# A [[fruit]].
+====Related terms====
+* {{l|nci|xochihcualli}}
+====Derived terms====
+* {{l|nci|texocotl}}
+====Descendants====
+* {{desc|nch|xokotl}}
+* {{desc|nhn|xocotl}}
+* {{desc|ncx|xocotl}}
+* {{desc|nhe|xokotl}}
+* {{desc|ngu|xokotl}}
+* {{desc|azz|xokot}}
+* {{desc|ncj|xokotl}}
+* {{desc|nlv|xokotl}}
+* {{desc|nhg|xocotl}}
+* {{desc|nhw|xokotl}}
+* {{desc|bor=1|es|jocote}}
+** {{desc|bor=1|en|jocote}}
+===References===
+* {{cite-book|author=James Lockhart|year=2001|title=Nahuatl as Written: Lessons in Older Written Nahuatl, with Copious Examples and Texts|publisher=Stanford University Press|page=241}}
+===References===
+* {{cite-book|last=Molina|first=Alonso de|authorlink=Alonso de Molina|title=Vocabulario en la lengua mexicana y castellana|location=Mexico|publisher=Antonio de Spinosa|year=1571|page=160v|passage='''Xocotl'''. fruta.}}
+{{topics|nci|Fruits}}
+----
+==Eastern Huasteca Nahuatl==
+===Alternative forms===
+* {{sense|Chalma, Chiconamel and Zacatianguis}} {{l|nhe|xokotl}}
+* {{sense|Ixcatepec, Tantoyuca, Tepetzintla and Temapache}} {{l|nhe|xokotl}}
+===Noun===
+{{head|nhe|noun}}
+# {{lb|nhe|Chicontepec}} A [[fruit]]
+[[Category:Chicontepec Eastern Huasteca Nahuatl]]
+{{topic|nhe|Fruits}}
+----
+==Northern Puebla Nahuatl==
+===Etymology===
+From {{der|ncj|nci|xocotl}}.
+===Pronunciation===
+* {{IPA|ncj|/ʃoːkotɬ/}}
+===Noun===
+{{head|ncj|noun}}
+# [[apple|Apple]].
+===References===
+* {{cite-book|last=Brockway|first=Earl|last2=Hershey de Brockway|first2=Trudy|last3=Santos Valdés|first3=Leodegario|title=Diccionario náhuatl del norte del estado de Puebla|url=http://mexico.sil.org/resources/archives/74580|edition=segunda ILV edición (versión electrónica)|publisher=Instituto Lingüístico de Verano, A.C.|year=2000|year_published=2018|page=245}}
+{{topic|ncj|Fruits}}
+----
+==Tetelcingo Nahuatl==
+===Etymology===
+From {{der|nhg|nci|xocotl}}.
+===Pronunciation===
+* {{IPA|nhg|/ʃoːkotɬ/}}
+===Noun===
+{{head|nhg|noun}}
+# [[pear|Pear]], [[apple]].
+===References===
+* {{cite-book|last=Brewer|first=Forrest|last2=Brewer|first2=Jean G.|title=Vocabulario mexicano de Tetelcingo, Morelos|edition=segunda impresión|location=México, D.F.|publisher=Instituto Lingüístico de Verano|year=1962|year_published=1971|page=247}}
+{{topics|nhg|Fruits}}</text>
+<sha1>qa8jt55335znh4adpk8psrjbwo0fzc8</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>xaval</title>
+<ns>0</ns>
+<id>2663547</id>
+<revision>
+<id>63794102</id>
+<parentid>61935532</parentid>
+<timestamp>2021-08-30T14:14:57Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */ ety</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="365" xml:space="preserve">==Catalan==
+===Etymology===
+From {{bor|ca|rmq|chavale}}, vocative plural of {{m|rmq|chavó||boy}}. Compare {{cog|es|chaval}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m|f=xavala}}
+# {{lb|ca|colloquial}} [[boy]], [[young]] [[man]]
+#: {{syn|ca|noi}}
+====Derived terms====
+* {{l|ca|xava}}
+===Further reading===
+* {{R:DCVB}}
+* {{R:GDLC}}
+* {{R:IEC2}}</text>
+<sha1>47oyzuhc0pakz9zqd8q0mwwpydn19kl</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>ydromel</title>
+<ns>0</ns>
+<id>4621337</id>
+<revision>
+<id>54299284</id>
+<parentid>31912883</parentid>
+<timestamp>2019-09-25T09:23:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{desc}} for descendants in place of LANG {{l|CODE|...}} or LANG [[LINK]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="105" xml:space="preserve">==Old French==
+===Noun===
+{{fro-noun|m}}
+# [[mead]] (drink)
+====Descendants====
+* {{desc|fr|hydromel}}</text>
+<sha1>6dmkyklo9zaauyhvqzgyswswrmxpdpy</sha1>
+</revision>
+</page>

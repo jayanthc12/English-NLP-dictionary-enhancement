@@ -1,0 +1,34 @@
+<page>
+<title>Yatapoxvirus</title>
+<ns>0</ns>
+<id>5593971</id>
+<revision>
+<id>67057373</id>
+<parentid>59498930</parentid>
+<timestamp>2022-05-18T00:45:07Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="878" xml:space="preserve">{{also|yatapoxvirus}}
+==Translingual==
+===Etymology===
+From {{m|mul|Yaba monkey tumor virus|'''Ya'''ba}} + {{m|mul|Tanapox virus|'''Ta'''napox}} + {{m|en|poxvirus}}.
+===Proper noun===
+{{taxoninfl|i=1}}
+# {{taxon|genus|family|Poxviridae|i=1}}
+====Hypernyms====
+* {{sense|subfamily}} [[Virus]]&amp;nbsp;- kingdom; Group I: [[dsDNA]]; ''[[Poxviridae]]''&amp;nbsp;- family; ''[[Chordopoxvirinae]]''&amp;nbsp;- subfamily
+** {{Nucleocytoviricota Hypernyms}}; ''{{taxlink|Pokkesviricetes|class|ver=200608}}''&amp;nbsp;- class; ''{{taxlink|Chitovirales|order|ver=200608}}''&amp;nbsp;- order; ''[[Poxviridae]]''&amp;nbsp;- family; ''[[Chordopoxvirinae]]''&amp;nbsp;- subfamily&amp;nbsp;- ICTV 2019
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Tanapox virus|species}}, {{taxlink|Yaba monkey tumor virus|species}}&amp;nbsp;- species
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|Poxviridae|i=1}}</text>
+<sha1>h3vvch71qmg5hx6t2gxt0kvqa9rhf29</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yaratmam</title>
+<ns>0</ns>
+<id>3672070</id>
+<revision>
+<id>57277658</id>
+<parentid>34332041</parentid>
+<timestamp>2019-10-19T17:38:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yaratma||1|s|poss}}
+====Usage notes====
+In the pronunciation, the stress is placed on the last syllable. It means &quot;my creation&quot; as well as &quot;I do not create&quot;.</text>
+<sha1>0er9v2vier0h40uisgghij9k8pj6f2o</sha1>
+</revision>
+</page>

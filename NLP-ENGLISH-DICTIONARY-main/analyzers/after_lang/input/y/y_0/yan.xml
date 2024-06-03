@@ -1,0 +1,216 @@
+<page>
+<title>yan</title>
+<ns>0</ns>
+<id>523610</id>
+<revision>
+<id>67658263</id>
+<parentid>67521749</parentid>
+<timestamp>2022-07-06T13:41:10Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert imperatives to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4920" xml:space="preserve">{{also|Yan|yán|yàn|yān|yǎn|'yan|ƴan|þan}}
+==English==
+{{wikipedia}}
+===Pronunciation===
+* {{IPA|en|/jæn/|/jɛn/}}
+* {{rhymes|en|æn|ɛn|s=1}}
+===Etymology 1===
+Along with {{m|sco|ane}} and {{m|en|yen}}, a Northumbrian form of {{m|en|one}}, from the {{inh|en|ang|ān}}. An example is &quot;yan, twee, tree, fower&quot; for &quot;one, two, three, four&quot;.
+====Numeral====
+{{head|en|numeral}}
+# {{lb|en|North East England}} [[one|One]].
+=====Derived terms=====
+* {{l|en|yance}} or [[yence]]
+=====References=====
+* {{cite-book
+|last=Griffiths
+|first=Bill
+|title=A Dictionary of North East Dialect
+|year=2004
+|publisher=Northumbria University Press
+|isbn=1-904794-16-5
+|page=191
+}}
+* {{cite-book
+|last=Leith
+|first=Dick
+|title=A Social History of English
+|year=1997
+|publisher=Routledge
+|isbn=0415097975
+|page=45
+}}
+===Etymology 2===
+From {{der|en|cel-bry}} numerals, with influence from {{cog|ang|ān}} or modern Northern English {{m|en|yan}} or {{m|en|yen}}.
+====Numeral====
+{{head|en|numeral}}
+# {{lb|en|Cumbria}} [[one|One]] {{n-g|in Cumbrian [[sheep]] [[counting]] rhyme}}.
+{{wikipedia|Yan Tan Tethera}}
+=====Derived terms=====
+{{col2|en
+|yan-a-dick
+|yan-a-bumfit
+}}
+=====See also=====
+* {{list:Borrowdale sheep counting}}
+=====References=====
+* {{cite-book
+|last=Wright
+|first=Peter
+|title=Cumbrian Chat
+|year=1995
+|publisher=Dalesman Publishing Company
+|isbn=185-568-092-0
+|page=7
+}}
+* {{cite-book
+|last=Deakin
+|first=Michael A.B.
+|editor=Leigh-Lancaster, David
+|title=The Name of the Number
+|year=2007
+|url=http://books.google.co.uk/books?id=sSGPsbUdzuMC&amp;printsec=frontcover&amp;dq=The+Name+of+the+Number&amp;client=firefox-a&amp;sig=rltANTWrl82R7Ho4mEv0PivE698
+|accessdate=2008-05-17
+|publisher=Australian Council for Educational Research
+|isbn=0864317573
+|page=75
+}}
+* {{cite-book
+|last=Varvogli
+|first=Aliki
+|title=Annie Proulx's The Shipping News: A Reader's Guide
+|year=2002
+|url=http://books.google.co.uk/books?id=YwW7f0jB9swC&amp;printsec=frontcover&amp;dq=subject:%22Proulx,+Annie%22&amp;client=firefox-a&amp;sig=1V4j_clhRbrJm7XnesnFDk8NU0Q
+|accessdate=2008-05-17
+|publisher=Continuum International Publishing Group
+|isbn=0826452337
+|pages=24-25
+}}
+===Anagrams===
+* {{anagrams|en|a=any|AYN|Ayn|NAY|NYA|Nay|any|any%|ayn|nay}}
+[[Category:en:One]]
+----
+==Azerbaijani==
+===Etymology===
+from {{inh|az|trk-pro|*yān||side}}. Cognate with {{cog|cv|ҫум}}, etc.
+===Noun===
+{{az-head-noun|a|c}}
+# [[side]]
+#: {{syn|az|tərəf}}
+# {{lb|az|anatomy}} [[buttock]]
+====Declension====
+{{az-latin-decl-noun|a|n}}
+====Derived terms====
+* {{l|az|yanında||next to}}
+* {{l|az|yanına||to}}
+* {{l|az|yan-yana}}, {{l|az|yanbayan||side by side}}
+* {{l|az|yan baxmaq||to look askance, look sideways}}
+* {{l|az|yan almaq||to dock}}
+----
+==Bambara==
+===Adverb===
+{{head|bm|adverb}}
+# [[here]]
+====See also====
+* {{l|bm|yen}}
+----
+==Bikol Central==
+===Pronunciation===
+* {{bcl-IPA}}
+===Pronoun===
+{{head|bcl|pronoun|head='yan}}
+# {{nonstandard spelling of|bcl|iyan}}
+----
+==Chamorro==
+===Conjunction===
+{{head|ch|conjunction}}
+# [[and]]
+====Usage notes====
+Used to connect similar words or phrases. To indicate causation the alternate {{m|ch|ya}} is used.
+====See also====
+* [[ya]]
+----
+==Dalmatian==
+===Alternative forms===
+* {{l|dlm|jan}}, {{l|dlm|yain}}, {{l|dlm|jain}}
+===Etymology===
+From {{inh|dlm|la|annus}}.
+===Noun===
+{{head|dlm|noun|g=m}}
+# [[year]] {{qualifier|[[Vegliot]]}}
+[[Category:dlm:Time]]
+----
+==Ilocano==
+===Etymology===
+From ''*giyan'', compare {{cog|ibg|gian}}.
+===Noun===
+{{head|ilo|noun}}
+# [[place]]
+----
+==Mandarin==
+===Romanization===
+{{cmn-pinyin|notr=1}}
+# {{nonstandard spelling of|cmn|sc=Latn|yān}}
+# {{nonstandard spelling of|cmn|sc=Latn|yán}}
+# {{nonstandard spelling of|cmn|sc=Latn|yǎn}}
+# {{nonstandard spelling of|cmn|sc=Latn|yàn}}
+====Usage notes====
+* {{cmn-toneless-note}}
+----
+==Old Javanese==
+===Conjunction===
+{{head|kaw|conjunction}}
+# [[if]]
+----
+==Tapirapé==
+===Noun===
+{{head|taf|noun}}
+# [[canoe]]
+===References===
+*Antonio Almeida, A Lingua Tapirape. http://biblio.wdfiles.com/local--files/almeida-1983-tapirape/almeida_1983_tapirape.pdf
+----
+==Turkish==
+===Etymology 1===
+From {{inh|tr|ota|یان|tr=yan}}, from {{inh|tr|trk-pro|*yān|t=side}}.
+====Noun====
+{{tr-noun|ı|lar}}
+# [[side]]
+#: {{ux|tr|Erkek, eşyalarımın '''yanında''' oturuyordu|The man was sitting '''next to''' my belongings}}
+=====Declension=====
+{{tr-infl-noun-c|a|poss=1}}
+=====Derived terms=====
+* {{l|tr|yandaş}}
+* {{l|tr|yanlı}}
+===Etymology 2===
+====Verb====
+{{head|tr|verb form}}
+# {{tr-verb form of|yanmak}}
+----
+==Volapük==
+===Etymology===
+Probably borrowed from {{bor|vo|la|iānua}}.
+===Pronunciation===
+* {{IPA|vo|/jan/}}
+===Noun===
+{{vo-noun}}
+# {{l|en|door}}
+====Declension====
+{{vo-decl-noun}}
+====Derived terms====
+* {{l|vo|leyan}}
+====Related terms====
+* {{l|vo|yanul}}
+----
+==Western Maninkakan==
+===Adverb===
+{{head|mlq|adverb}}
+# [[here]]</text>
+<sha1>d9wm6bqswn875w85tcgdjvigf85xgbc</sha1>
+</revision>
+</page>

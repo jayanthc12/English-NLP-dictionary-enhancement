@@ -1,0 +1,27 @@
+<page>
+<title>yamogenin</title>
+<ns>0</ns>
+<id>3443541</id>
+<revision>
+<id>51213692</id>
+<parentid>49380504</parentid>
+<timestamp>2019-01-07T03:06:06Z</timestamp>
+<contributor>
+<username>Chuck Entz</username>
+<id>401874</id>
+</contributor>
+<minor />
+<comment>removed [[Category:en:Legumes]]; added [[Category:en:Trifolieae tribe plants]] using [[Help:Gadget-HotCat|HotCat]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">==English==
+===Etymology===
+{{blend|en|yam|sapogenin}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|organic compound}} A [[sapogenin]] found in [[fenugreek]] and [[yam]]s.
+[[Category:en:Dioscoreales order plants]]
+[[Category:en:Trifolieae tribe plants]]</text>
+<sha1>lvk6n38ryfsskdj279oekqf32qgityo</sha1>
+</revision>
+</page>

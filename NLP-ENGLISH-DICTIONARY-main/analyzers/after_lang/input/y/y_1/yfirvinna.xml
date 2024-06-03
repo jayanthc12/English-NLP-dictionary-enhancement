@@ -1,0 +1,27 @@
+<page>
+<title>yfirvinna</title>
+<ns>0</ns>
+<id>6944243</id>
+<revision>
+<id>50532118</id>
+<timestamp>2018-10-20T14:51:47Z</timestamp>
+<contributor>
+<username>Ofkosinn</username>
+<id>3419535</id>
+</contributor>
+<comment>Created page with &quot;==Old Norse==  ===Etymology=== From {{prefix|non|yfir|t1=over|vinna|t2=win}}.  ===Verb=== {{non-verb|yfirvann|yfirunnu|yfirunninn}}  # to [[vanquish]], [[overcome]]  ====Conju...&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="290" xml:space="preserve">==Old Norse==
+===Etymology===
+From {{prefix|non|yfir|t1=over|vinna|t2=win}}.
+===Verb===
+{{non-verb|yfirvann|yfirunnu|yfirunninn}}
+# to [[vanquish]], [[overcome]]
+====Conjugation====
+{{non-conj-strong|class=3|yfirvinn|yfirvann|yfirunn|3i=yfirynn|yfirunn}}
+===References===
+* {{R:Zoega}}</text>
+<sha1>kg98moj5fmiktwmfxvtv4ocw6iywupa</sha1>
+</revision>
+</page>

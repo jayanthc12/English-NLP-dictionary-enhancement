@@ -1,0 +1,23 @@
+<page>
+<title>yardfuls</title>
+<ns>0</ns>
+<id>1345815</id>
+<revision>
+<id>55572688</id>
+<parentid>53092737</parentid>
+<timestamp>2019-10-15T07:11:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="73" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yardful}}</text>
+<sha1>4wq4g6nplszs3neuzat5e01czrvlzor</sha1>
+</revision>
+</page>

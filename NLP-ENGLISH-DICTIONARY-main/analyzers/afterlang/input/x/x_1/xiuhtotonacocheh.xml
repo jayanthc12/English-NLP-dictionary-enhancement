@@ -1,0 +1,35 @@
+<page>
+<title>xiuhtotonacocheh</title>
+<ns>0</ns>
+<id>831410</id>
+<revision>
+<id>55476838</id>
+<parentid>47725786</parentid>
+<timestamp>2019-10-15T02:52:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="940" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xiuhtotonacoche}}
+===Etymology===
+'''[[xiuhtotonacochtli|xiuhtōtōnacochtli]]''' &quot;Lovely Continga-feather ear pendant&quot; + '''[[-eh]]''' &quot;possessor&quot;
+===Pronunciation===
+* {{IPA|nci|/xiwtoːtoːnakotʃeʔ/}}
+===Noun===
+{{head|nci|noun|head=xiuhtōtōnacocheh}}
+# One that has an ear [[pendant]] of [[Lovely Continga]] feathers.
+#* '''16C:''' [[w:Bernardino de Sahagún|Bernardino de Sahagún]], &quot;[[w:Florentine Codex|Florentine Codex]]&quot;, book 1
+#*: Auh ynjc muchichioaia: '''xiuhtotonacacohe''' catca
+#*: (And he was thus arrayed: he had an ear pendant of lovely continga feathers)
+===References===
+* {{cite-book|author=Sahagún, Bernardino de|year=1981|title=Florentine Codex: Book 1 - The Gods|others=ed. and trans. by Arthur J. O. Anderson and Charles E. Dibble|edition=2nd ed., rev.|location=Salt Lake City|publisher=University of Utah Press|page=2}}
+[[Category:nci:Jewelry]]</text>
+<sha1>tu7e8vvgd74n1d7w0clkn3lv5e6v2p1</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>xanten</title>
+<ns>0</ns>
+<id>4332148</id>
+<revision>
+<id>53116359</id>
+<parentid>40486678</parentid>
+<timestamp>2019-05-19T05:07:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}} (2); combined adjacent calls to {{inflection of}}; canonicalized multiword inflection tag 'third-person plural present indicative' to 3|p|pres|ind; canonicalized multiword inflection tag 'third-person plural present subjunctive' to 3|p|pres|sub; combined tag sets 3|p|pres|ind and 3|p|pres|sub into 3|p|pres|ind//sub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="109" xml:space="preserve">{{also|Xanten}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xantar||3|p|pres|ind//sub}}</text>
+<sha1>g4wllbgf9aviu1af9plag85w5p3y88a</sha1>
+</revision>
+</page>

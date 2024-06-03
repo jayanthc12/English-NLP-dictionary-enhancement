@@ -1,0 +1,74 @@
+<page>
+<title>Xichang</title>
+<ns>0</ns>
+<id>5881104</id>
+<revision>
+<id>68844959</id>
+<parentid>68476201</parentid>
+<timestamp>2022-08-28T01:51:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2012" xml:space="preserve">{{see also|xìcháng|Xīchāng}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsi-ch'ang}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{uder|en|zh|西昌||[[western|Western]] [[prosperity|Prosperity]]|tr=Xīchāng}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|county-level city|autonomous prefecture/Liangshan|p/Sichuan|c/China}}
+#* {{quote-book
+|en
+|year=1954
+|last=Wiens
+|first=Herold J.
+|title=Han Chinese Expansion in South China
+|url=https://archive.org/details/hanchineseexpans0000wien/
+|publisher=Shoe String Press
+|year_published=1967
+|LCCN=67-16409
+|OCLC=473651484
+|page=290
+|pageurl=https://archive.org/details/hanchineseexpans0000wien/page/290/
+|text=Chao-erh-feng planned some fundamental measures to control the Lolo, including the construction of a through road between Lei-po and '''Hsi-ch'ang'''. Up to the present this has not been accomplished, however. The '''Hsi-ch'ang''' sector was finished as far as Chao-chio city and beyond to Yeh-lu-na-ta.
+|brackets=on}}
+#* {{quote-journal
+|en
+|year=1978
+|month=February
+|title=The Long March (II)
+|journal=Eastern Horizon
+|url=https://archive.org/details/sim_eastern-horizon_1978-02_17_2/
+|volume=XVII
+|issue=2
+|location=[[Hong Kong]]
+|publisher=Eastern Horizon Press
+|issn=0012-8813
+|oclc=751117974
+|page=39
+|pageurl=https://archive.org/details/sim_eastern-horizon_1978-02_17_2/page/39/
+|column=2
+|text=After a five-day rest at Huili, the Red Army continued its drive northward. Passing through the Yi nationality area of Tehchang, '''Hsichang''' the vanguard troops led by Liu Po-cheng made an alliance with the chieftains of the Kuchi tribe, and managed to neutralize the Laowu tribe.
+|brackets=on}}
+====Synonyms====
+* {{sense|historic}} {{l|en|Jiandu}}; {{l|en|Jianchang}}
+====Translations====
+{{trans-top}}
+* Chinese:
+*: Mandarin: {{t+|cmn|西昌|tr=Xīchāng}}
+{{trans-mid}}
+* Sichuan Yi: {{t|ii|ꀒꎂ}}
+{{trans-bottom}}</text>
+<sha1>6xf7l5v329kbey4s80iq1kxxjbrxjzf</sha1>
+</revision>
+</page>

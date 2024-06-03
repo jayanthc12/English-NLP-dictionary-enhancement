@@ -1,0 +1,28 @@
+<page>
+<title>yhdestoistaosa</title>
+<ns>0</ns>
+<id>2399975</id>
+<revision>
+<id>69318372</id>
+<parentid>59152380</parentid>
+<timestamp>2022-09-18T17:14:48Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="252" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdestoista|osa}}
+===Pronunciation===
+{{fi-p|yhdes-toista/osa}}
+===Noun===
+{{head|fi|noun}}
+# [[eleventh]] {{gloss|one of eleven equal parts of a whole}}
+====Declension====
+{{fi-decl-koira|yhdestoistaos|||a}}</text>
+<sha1>favk3td454d7iotoaslloulgm9t8h8o</sha1>
+</revision>
+</page>

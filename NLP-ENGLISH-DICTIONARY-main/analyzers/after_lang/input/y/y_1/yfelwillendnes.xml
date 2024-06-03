@@ -1,0 +1,31 @@
+<page>
+<title>yfelwillendnes</title>
+<ns>0</ns>
+<id>7242261</id>
+<revision>
+<id>66205218</id>
+<parentid>60986145</parentid>
+<timestamp>2022-03-23T13:45:19Z</timestamp>
+<contributor>
+<username>Hundwine</username>
+<id>3447987</id>
+</contributor>
+<minor />
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="304" xml:space="preserve">==Old English==
+===Etymology===
+{{suffix|ang|yfelwillende|nes}}
+===Pronunciation===
+* {{ang-IPA|yfel-willendnes}}
+===Noun===
+{{ang-noun|f}}
+# [[malevolence]], [[malice]]
+====Declension====
+{{ang-decl-noun-o-f|ufelwillendnesse|nomsg=ufelwillendnes|num=sg}}
+====Antonyms====
+* {{l|ang|welwillendnes}}</text>
+<sha1>n60ps54t4emx8vrstuxnowpsf3at1g1</sha1>
+</revision>
+</page>

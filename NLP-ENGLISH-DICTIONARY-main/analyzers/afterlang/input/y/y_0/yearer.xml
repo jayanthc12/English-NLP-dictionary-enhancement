@@ -1,0 +1,27 @@
+<page>
+<title>yearer</title>
+<ns>0</ns>
+<id>6029867</id>
+<revision>
+<id>59422380</id>
+<parentid>46408579</parentid>
+<timestamp>2020-05-26T01:43:01Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>quote-book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="692" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|year|er}}
+===Noun===
+{{en-noun}}
+# {{lb|en|in combinations}} A period of a certain number of years.
+#* {{quote-book|en|year=1983|author=Mordecai Richler|title=The Best of modern humor|passage=&quot;Five '''yearers'''&quot; were said to be allowed to grow moustaches or even marry a wife if such a thing were available. If &quot;four '''yearers'''&quot; mixed with &quot;one '''yearers'''&quot; the worst was suspected and very often turned out to be true.}}
+#* '''2009''', Joachim Radkau, ''Max Weber'':
+#*: He feels the resentment of lower-class recruits and NCOs against the ''''one-yearer'''' with higher education, who does not even have to sleep in the murk of the barracks.</text>
+<sha1>bsmeoks9jnktte6s9fzn2ngzs98dgps</sha1>
+</revision>
+</page>

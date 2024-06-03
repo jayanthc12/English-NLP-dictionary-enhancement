@@ -1,0 +1,33 @@
+<page>
+<title>xueta</title>
+<ns>0</ns>
+<id>6561236</id>
+<revision>
+<id>54302920</id>
+<parentid>49030672</parentid>
+<timestamp>2019-09-25T10:26:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Use {{desc}} for descendants in place of LANG {{l|CODE|...}} or LANG [[LINK]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">{{also|Xueta}}
+==Catalan==
+===Adjective===
+{{ca-adj|mf}}
+# of or pertaining to [[Xueta]]s
+===Noun===
+{{ca-noun|mf}}
+# [[Xueta]]
+====Descendants====
+* {{desc|en|Xueta}}
+* {{desc|es|chueta}}
+===Further reading===
+* {{R:IEC2}}
+{{C|ca|Judaism}}</text>
+<sha1>8cdmu1quofzd2dz06x9y6rubl1opbq4</sha1>
+</revision>
+</page>

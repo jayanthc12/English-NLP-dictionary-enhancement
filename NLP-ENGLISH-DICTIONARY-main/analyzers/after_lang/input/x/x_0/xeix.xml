@@ -1,0 +1,26 @@
+<page>
+<title>xeix</title>
+<ns>0</ns>
+<id>1482606</id>
+<revision>
+<id>62227834</id>
+<parentid>50421472</parentid>
+<timestamp>2021-03-22T15:11:16Z</timestamp>
+<contributor>
+<username>Jberkel</username>
+<id>1580588</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="184" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA|é}}
+===Noun===
+{{ca-noun|f}}
+# {{Latn-def|ca|name|X|x|dot=,}} especially when used for {{IPAchar|/ʃ/}}.
+====See also====
+* {{l|ca|ics}}</text>
+<sha1>t1pjpg3cm3sq8hpizj6jcydbpu47qrq</sha1>
+</revision>
+</page>

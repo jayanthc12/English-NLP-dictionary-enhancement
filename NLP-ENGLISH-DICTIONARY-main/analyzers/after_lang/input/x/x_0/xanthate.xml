@@ -1,0 +1,36 @@
+<page>
+<title>xanthate</title>
+<ns>0</ns>
+<id>245616</id>
+<revision>
+<id>68867112</id>
+<parentid>68866731</parentid>
+<timestamp>2022-08-28T05:46:08Z</timestamp>
+<contributor>
+<username>Quercus solaris</username>
+<id>1131030</id>
+</contributor>
+<comment>[[wikt:Wiktionary:Semantic relations|semantic relations]] and [[w:ontology components|ontology components]]—cot</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="590" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xanth|ate}}
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈzænθeɪt/}}
+===Noun===
+{{wikipedia}}
+{{en-noun}}
+# {{lb|en|chemistry}} Any [[salt]] or [[ester]] of [[xanthic acid]].
+====Coordinate terms====
+* {{l|en|xanthic acid}} {{lb|en|coordinate as an acid versus a base, but synonymous in the practical sense that the conjugate base and conjugate acid coexist in solution}}
+====Derived terms====
+* {{l|en|xanthation}}
+====Translations====
+{{trans-top|salto or ester of xanthic acid}}
+* Finnish: {{t|fi|ksantaatti}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>l5sqfk5huwfqbzk95u2xcfq7ry7t0g9</sha1>
+</revision>
+</page>

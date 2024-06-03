@@ -1,0 +1,31 @@
+<page>
+<title>Yeshua</title>
+<ns>0</ns>
+<id>102403</id>
+<revision>
+<id>61111234</id>
+<parentid>58934596</parentid>
+<timestamp>2020-11-14T05:55:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="602" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Jeshua}}
+===Etymology===
+From {{der|en|hbo|יֵשׁוּעַ|tr=Yēšū́a|t=Jesus” ''or'' “Joshua}}. Cognate directly equivalent to {{m|en|Jesus}} via {{cog|la|Iēsus}} and {{cog|grc|Ἰησοῦς}} from nearly identical {{cog|arc|יֵשׁוּע|tr=Yēšū́ʿ}}. Cognate to {{m|en|Joshua}} from related variant Hebrew form {{m|he|יְהוֹשֻׁעַ|tr=Yĕhōšúa|t=Joshua}}.
+===Pronunciation===
+* {{IPA|en|/ˈjɛ.ʃuː.ə/}} {{i|common}}
+* {{IPA|en|/jɛˈʃuː.ɐ/}} {{i|properly}}
+===Proper noun===
+{{en-proper noun}}
+# [[Jesus]]
+# [[Joshua]]</text>
+<sha1>bp7n3czez6pvcem3b8b0v86zxbrae7k</sha1>
+</revision>
+</page>

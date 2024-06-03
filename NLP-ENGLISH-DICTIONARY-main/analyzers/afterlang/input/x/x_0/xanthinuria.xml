@@ -1,0 +1,28 @@
+<page>
+<title>xanthinuria</title>
+<ns>0</ns>
+<id>1478024</id>
+<revision>
+<id>67900809</id>
+<parentid>44986448</parentid>
+<timestamp>2022-07-12T03:49:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{pedialite}} to {{pedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="232" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xanthine|uria}}
+===Noun===
+{{en-noun|~}}
+# An abnormally high level of [[xanthine]] in one's [[urine]].
+# The [[genetic]] [[disorder]] that causes this.
+====Further reading====
+* {{pedia}}</text>
+<sha1>luzocnl0tj4oasos1anmm796fofqelc</sha1>
+</revision>
+</page>

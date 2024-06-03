@@ -1,0 +1,33 @@
+<page>
+<title>xuri</title>
+<ns>0</ns>
+<id>7279062</id>
+<revision>
+<id>68877932</id>
+<parentid>65321816</parentid>
+<timestamp>2022-08-28T06:40:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace 3+ newlines with 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="398" xml:space="preserve">==Jurchen==
+===Etymology===
+From {{inh|juc|tuw-pro|}}. Cognate with {{cog|mnc|ᡥᡡᡵᡳ}} etc.
+===Numeral===
+{{head|juc|numeral}} ([[w:Jurchen script|Jurchen script]]: , Image: [[FIle:Xuri (Jurchen script).png|25px]])
+# [[pine nut]]
+====Descendants====
+* {{desc|mnc|ᡥᡡᡵᡳ}}
+----
+==Sicilian==
+===Noun===
+{{scn-noun|xur|m|i}}
+# {{alt form|scn|ciuri}}
+[[Category:Jurchen lemmas]]</text>
+<sha1>7o8jkyc7aortsplix2paasbf80v40rg</sha1>
+</revision>
+</page>

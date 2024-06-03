@@ -1,0 +1,25 @@
+<page>
+<title>xerogram</title>
+<ns>0</ns>
+<id>3779939</id>
+<revision>
+<id>68813992</id>
+<parentid>51983597</parentid>
+<timestamp>2022-08-27T20:14:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==English==
+===Etymology===
+From {{confix|en|xero|gram}}.
+===Noun===
+{{en-noun}}
+# [[xeroradiograph]]</text>
+<sha1>r7lj21m6esn7iyu9a4cx827e4r8mv40</sha1>
+</revision>
+</page>

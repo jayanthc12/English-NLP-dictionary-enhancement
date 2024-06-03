@@ -1,0 +1,42 @@
+<page>
+<title>yakag</title>
+<ns>0</ns>
+<id>6334182</id>
+<revision>
+<id>47788173</id>
+<parentid>47663395</parentid>
+<timestamp>2017-10-15T00:48:43Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>reorder headers according to WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="785" xml:space="preserve">==Tagalog==
+===Noun===
+{{tl-noun}}
+# [[invitation]] {{gloss|by word of mouth}}; [[persuasion]]; [[act]] of [[invite|inviting]] [[another]] or [[others]] personally to go with oneself to a certain place or to help do something
+# [[person]] [[invite]]d in this [[manner]]
+====Synonyms====
+* {{sense|invitation}} {{l|tl|akit}}, {{l|tl|anyaya}}, {{l|tl|kumbida}}
+* {{sense|person}} {{l|tl|kumbidado}}
+====Related terms====
+{{top2}}
+* {{l|tl|magkayakagan}}
+* {{l|tl|magyakagan}}
+* {{l|tl|magyakag}}
+* {{l|tl|mayakag}}
+{{mid2}}
+* {{l|tl|pagyayakag}}
+* {{l|tl|yakagan}}
+* {{l|tl|yakagin}}
+* {{l|tl|yumakag}}
+{{bottom}}
+===Adjective===
+{{tl-adj}}
+# [[refer]]ring to a [[person]] or [[person]]s invited personally by [[someone]] to [[help]] [[perform]] a [[certain]] [[work]] for [[free]]</text>
+<sha1>8o3v2kbown7jjf8i8413nadvfh00g2l</sha1>
+</revision>
+</page>

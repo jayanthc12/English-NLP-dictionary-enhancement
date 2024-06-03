@@ -1,0 +1,31 @@
+<page>
+<title>xiz</title>
+<ns>0</ns>
+<id>4352176</id>
+<revision>
+<id>69371473</id>
+<parentid>69371469</parentid>
+<timestamp>2022-09-25T02:41:32Z</timestamp>
+<contributor>
+<username>Leasnam</username>
+<id>220495</id>
+</contributor>
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="392" xml:space="preserve">==Asturian==
+===Alternative forms===
+* {{alt|ast|tiz|tiza}}
+===Noun===
+{{ast-noun|m|xices}}
+# {{l|en|chalk}} {{gloss|a piece of chalk used for drawing and on a blackboard}}
+----
+==Galician==
+===Etymology===
+From {{inh|gl|la|gypsum}}, from {{der|gl|grc|γύψος||chalk}}.
+===Noun===
+{{gl-noun|m|xices}}
+# {{l|en|chalk}} {{gloss|a piece of chalk used for drawing and on a blackboard}}</text>
+<sha1>dzqvgmcur8yfrmjkjzyldgp1b23s6h9</sha1>
+</revision>
+</page>

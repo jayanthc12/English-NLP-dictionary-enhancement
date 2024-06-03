@@ -1,0 +1,49 @@
+<page>
+<title>yerro</title>
+<ns>0</ns>
+<id>92062</id>
+<revision>
+<id>69127135</id>
+<parentid>68889358</parentid>
+<timestamp>2022-09-05T03:41:10Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1130" xml:space="preserve">==Old Spanish==
+===Etymology===
+{{deverbal|osp|errar||to err}}.
+===Pronunciation===
+* {{IPA|osp|/ˈjero/}}
+===Noun===
+{{osp-noun|m}}
+# [[error]], [[blunder]], [[transgression]]
+#* '''c. 1200''', Almerich, ''[[w:Fazienda de Ultramar|Fazienda de Ultramar]]'', f. 11v.
+#*: {{quote|osp|{{...}} E dixo aſſi dizredes aioſep. Priegot q́ perdones el '''ẏerro''' atos ermanos. e ſo peccado del mal quet fizieró. Agora perdona a ſieruos del dios de to padre.|“{{...}} and he said thus, ‘You shall say to Joseph: I beg you forgive the '''transgression''' of your brothers, and their sin of the wrong they did to you.’ Now, forgive the servants of the God of your father.”}}
+====Descendants====
+* {{desc|lad|yerro}}
+* {{desc|es|yerro}}
+----
+==Spanish==
+===Pronunciation===
+{{es-IPA}}
+* {{homophones|es|hierro}}
+===Etymology 1===
+From {{inh|es|osp|yerro}}. {{deverbal|es|errar}}.
+====Noun====
+{{es-noun|m}}
+# [[error]], [[blunder]]
+#: {{syn|es|error}}
+===Etymology 2===
+{{nonlemma}}
+====Verb====
+{{head|es|verb form}}
+# {{es-verb form of|errar&lt;ye[Spain],+[Latin America]&gt;}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>n7ceh28kp2k8zbj97zoxzr32c39vu19</sha1>
+</revision>
+</page>

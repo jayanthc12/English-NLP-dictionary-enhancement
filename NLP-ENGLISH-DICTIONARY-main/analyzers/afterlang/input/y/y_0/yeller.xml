@@ -1,0 +1,40 @@
+<page>
+<title>yeller</title>
+<ns>0</ns>
+<id>809375</id>
+<revision>
+<id>60947919</id>
+<parentid>54351652</parentid>
+<timestamp>2020-10-25T11:48:25Z</timestamp>
+<contributor>
+<username>Mx. Granger</username>
+<id>970063</id>
+</contributor>
+<comment>not eye dialect</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="776" xml:space="preserve">==English==
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈjɛlə/}}
+* {{a|US}} {{IPA|en|/ˈjɛlɚ/}}
+===Etymology 1===
+{{suffix|en|yell|er|id2=agent noun}}
+====Noun====
+{{en-noun}}
+# Someone who [[yells]].
+===Etymology 2===
+Eye dialect.
+====Alternative forms====
+* {{l|en|yaller}}
+====Adjective====
+{{en-adj}}
+# {{pronunciation spelling of|en|yellow}}
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=10
+|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
+|passage=Men that I knew around Wapatomac didn't wear high, shiny plug hats, nor '''yeller''' spring overcoats, nor carry canes with ivory heads as big as a catboat's anchor, as you might say.}}
+===Anagrams===
+* {{anagrams|en|a=eellry|Ellery}}
+[[Category:English agent nouns]]</text>
+<sha1>42tk8oyjgzjrdup8uwimzr7pwfaz4ep</sha1>
+</revision>
+</page>

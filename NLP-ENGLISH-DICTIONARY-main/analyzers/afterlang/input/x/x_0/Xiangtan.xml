@@ -1,0 +1,40 @@
+<page>
+<title>Xiangtan</title>
+<ns>0</ns>
+<id>4565826</id>
+<revision>
+<id>68827381</id>
+<parentid>67888817</parentid>
+<timestamp>2022-08-27T22:21:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="719" xml:space="preserve">{{see also|xiāngtán|Xiāngtán}}
+==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiangtan}}, {{l|en|Hsiang-t'an}}
+* {{l|en|Siangtan}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation of {{zh-l|湘潭|lit=[place of the] [[Xiang]] [[river|River]] [[eddy]]}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Hunan|c/China}}, on the [[lower]] [[Xiang]] [[river|River]].
+====Translations====
+{{trans-top|city in Hunan}}
+* Chinese:
+*: Cantonese: {{t|yue|湘潭|tr=soeng1 taam4}}
+*: Mandarin: {{t+|cmn|湘潭|tr=Xiāngtán}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>je3zvawb3p8s9pot1ljrwwjx1mr0s98</sha1>
+</revision>
+</page>

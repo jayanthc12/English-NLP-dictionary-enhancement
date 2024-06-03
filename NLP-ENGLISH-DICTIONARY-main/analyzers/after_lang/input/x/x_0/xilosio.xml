@@ -1,0 +1,26 @@
+<page>
+<title>xilosio</title>
+<ns>0</ns>
+<id>1610497</id>
+<revision>
+<id>64713337</id>
+<parentid>51978876</parentid>
+<timestamp>2021-11-22T11:27:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move {{wikipedia}} line to top of etym section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==Italian==
+{{wikipedia|lang=it}}
+===Etymology===
+{{confix|it|xilo|osio}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|carbohydrate}} [[xylose]]</text>
+<sha1>tq6j3y0netmoeoczbcqntfqdpw7jpma</sha1>
+</revision>
+</page>

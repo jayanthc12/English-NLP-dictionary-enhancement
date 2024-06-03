@@ -1,0 +1,36 @@
+<page>
+<title>xerraire</title>
+<ns>0</ns>
+<id>6021091</id>
+<revision>
+<id>67534033</id>
+<parentid>65164587</parentid>
+<timestamp>2022-06-24T16:30:14Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="573" xml:space="preserve">==Catalan==
+===Etymology===
+From {{suffix|ca|xerrar|aire}}.
+===Adjective===
+{{ca-adj|mf}}
+# [[chatty]], [[talkative]]
+===Noun===
+{{ca-noun|mf}}
+# [[chatterbox]]
+#: {{syn|ca|palatreca}}
+# [[laughingthrush]] {{gloss|any of various species of [[birds]] of the family [[Leiothrichidae]], known for their garrulousness}}
+# [[black-winged stilt]].
+#: {{syn|ca|camallarga comú}}
+====Derived terms====
+{{der3|ca|xerraire caputxí|xerraire caranegre|xerraire cendrós|xerraire crestablanc|xerraire pigallat}}
+===Further reading===
+* {{R:IEC2}}
+{{C|ca|People|Birds|Talking}}</text>
+<sha1>ahw1pyckf01vrpog5sos9ff4owx4l5z</sha1>
+</revision>
+</page>

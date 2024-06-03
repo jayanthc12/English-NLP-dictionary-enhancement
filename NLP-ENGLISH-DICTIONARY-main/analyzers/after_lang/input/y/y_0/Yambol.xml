@@ -1,0 +1,32 @@
+<page>
+<title>Yambol</title>
+<ns>0</ns>
+<id>36859</id>
+<revision>
+<id>58554859</id>
+<parentid>58338691</parentid>
+<timestamp>2020-01-26T19:23:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove cats redundant to {{place}}: en:Towns</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="296" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Jambol}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|town|in southeastern|c/Bulgaria}}.
+====Translations====
+{{trans-top|town}}
+* Bulgarian: {{t|bg|Ямбол}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=ablmoy|Lamboy}}</text>
+<sha1>sct8n7xwlftd08pvdvyqv27fln2llgf</sha1>
+</revision>
+</page>

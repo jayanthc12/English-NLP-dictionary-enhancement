@@ -1,0 +1,29 @@
+<page>
+<title>xyloglyphy</title>
+<ns>0</ns>
+<id>2122826</id>
+<revision>
+<id>67293295</id>
+<parentid>47914051</parentid>
+<timestamp>2022-06-06T10:48:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="502" xml:space="preserve">==English==
+===Etymology===
+{{uder|en|grc|ξύλον||wood}} + {{m|grc|γλυφή||carving}}
+===Noun===
+{{en-noun|-}}
+# The art of carving in wood.
+#: '''''Xyloglyphy''' is a form of sculpture, whereas [[xylography]] is engraving in wood.''
+# Work produced by this means.
+#: ''The artist's most popular '''xyloglyphy''' was his &quot;Laughing Buddha&quot; series of carvings.''
+#: ''The company produced household '''xyloglyphy''', including shrines and other kinds of carvings in Chinese traditional style.''</text>
+<sha1>b4wyj4w083nf6atnykk1kqdvehqvohf</sha1>
+</revision>
+</page>

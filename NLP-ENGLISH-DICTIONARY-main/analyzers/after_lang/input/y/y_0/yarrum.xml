@@ -1,0 +1,40 @@
+<page>
+<title>yarrum</title>
+<ns>0</ns>
+<id>750064</id>
+<revision>
+<id>54351415</id>
+<parentid>51578486</parentid>
+<timestamp>2019-09-28T17:06:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{quote-book}}; move lang= to 1= in {{seemoreCites}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="770" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|yaram}}, {{l|en|yarum}}
+===Etymology===
+{{unk|en}}
+===Pronunciation===
+* {{IPA|en|/ˈjæɹəm/}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|obsolete|UK|thieves' cant}} [[milk|Milk]].
+#* {{quote-book|en|year=1652|authorlink=Richard Brome|first=Richard|last=Brome|title=A Joviall Crew: or, the Merry Beggars|others=play, first performed 1641|passage=Here's Pannum and Lap, and good Poplars of '''Yarrum''', / To fill up the Crib, and to comfort the Quarron.}}
+#* {{seemoreCites|en|yarrum}}
+===References===
+* OED2
+* {{R:Grose 1788}}
+* {{R:1811 Vulgar Tongue}}
+* {{R:Barrere|entry=yarum|volume=2|page=424}}
+* {{R:Farmer|entry=yarum|volume=7|page=372}}
+===Anagrams===
+* {{anagrams|en|a=amrruy|Murray|murray}}
+[[Category:en:Milk]]</text>
+<sha1>h6nog1is8qqr5c7c8lxvkgf1ha053ui</sha1>
+</revision>
+</page>

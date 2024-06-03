@@ -1,0 +1,28 @@
+<page>
+<title>ydinkompetenssi</title>
+<ns>0</ns>
+<id>1642517</id>
+<revision>
+<id>69318189</id>
+<parentid>59682789</parentid>
+<timestamp>2022-09-18T17:05:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|kompetenssi}}
+===Pronunciation===
+{{fi-p|ydin-kompetenssi}}
+===Noun===
+{{head|fi|noun}}
+# A [[core competency]].
+====Declension====
+{{fi-decl-risti|ydinkompetenss|||a}}</text>
+<sha1>s2iwt5d7j80p46eccqcev4zn06hodvd</sha1>
+</revision>
+</page>

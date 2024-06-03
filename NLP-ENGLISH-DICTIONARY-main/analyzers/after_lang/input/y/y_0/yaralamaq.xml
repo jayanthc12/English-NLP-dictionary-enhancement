@@ -1,0 +1,36 @@
+<page>
+<title>yaralamaq</title>
+<ns>0</ns>
+<id>687899</id>
+<revision>
+<id>59893834</id>
+<parentid>47663498</parentid>
+<timestamp>2020-08-01T22:50:03Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="401" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{suf|az|yara|lə|alt2=la}}.
+===Verb===
+{{head|az|verb}} {{tlb|az|transitive}}
+# to [[wound]], to [[injure]]
+====Conjugation====
+{{az-conj|a}}
+====Derived terms====
+* {{l|az|yaralanmaq}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Crimean Tatar==
+===Verb===
+{{head|crh|verb}}
+# to [[scar]], to [[wound]].
+===References===
+* {{R:Useinov-Mireev 2002}}</text>
+<sha1>rbha4h6v8yoflbtrzrgg8tkz4o84moz</sha1>
+</revision>
+</page>

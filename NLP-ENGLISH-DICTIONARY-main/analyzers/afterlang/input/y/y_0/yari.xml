@@ -1,0 +1,124 @@
+<page>
+<title>yari</title>
+<ns>0</ns>
+<id>1106682</id>
+<revision>
+<id>69416632</id>
+<parentid>69416615</parentid>
+<timestamp>2022-10-02T13:39:19Z</timestamp>
+<contributor>
+<username>Houflings</username>
+<id>3862513</id>
+</contributor>
+<comment>/* Tagalog */  should the two adjectives be merged... and should we use q to say yarî or just adjective</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3329" xml:space="preserve">{{also|yarî|yarı}}
+==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|ja|やり|tr=yari}}.
+===Noun===
+{{en-noun|yari}}
+# {{lb|en|weapons}} Any of various sizes of [[spear]] used in Japanese [[martial art]]s.
+===Anagrams===
+* {{anagrams|en|a=airy|Airy|Iyar|Riya|Yair|airy|yair}}
+[[Category:en:Spears]]
+----
+==Hausa==
+===Pronunciation===
+* {{ha-IPA|yàrī}}
+===Noun===
+{{ha-noun|m|yàrī|yàrī}}
+# [[earring]]
+[[Category:ha:Jewelry]]
+----
+==Ido==
+===Pronunciation===
+{{io-IPA}}
+===Noun===
+{{head|io|noun form}}
+# {{plural of|io|yaro}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やり}}
+----
+==Kalasha==
+===Noun===
+{{head|kls|noun}}
+# [[friendship]]
+#: {{syn|kls|yardusti}}
+----
+==Sranan Tongo==
+===Etymology===
+Borrowed from {{bor|srn|nl|jaar}}.
+===Noun===
+{{head|srn|noun}}
+# [[year]]
+[[Category:srn:Time]]
+----
+==Tagalog==
+===Etymology 1===
+Borrowed from {{bor|tl|ms|jadi||to become}}.
+===Pronunciation 1===
+* {{hyph|tl|ya|ri}}
+* {{tl-IPA}}
+* {{rhymes|tl|aɾi|s=2}}
+===Noun===
+{{tl-noun|yári}}
+# {{n-g|root of words meaning &quot;[[event]]&quot; or &quot;[[occurrence]]&quot;, such as {{m|tl|mangyari}} or {{m|tl|pangyayari}}}}
+# {{n-g|root of words meaning &quot;[[power]]&quot;, such as {{m|tl|kapangyarihan}}}}
+====Usage notes====
+* This word (with the pronunciation above) can no longer stand alone.
+====Derived terms====
+{{der3|tl|kapangyarihan|makapangyari|makapangyarihan|mangyari|pangyayari|pinangyarihan|pangyari}}
+===Etymology 2===
+From {{inh|tl|poz-pro|*a-di||that, there}}, from {{inh|tl|map-pro|*-di}}. Cognate with {{cog|blw|yadi||that}}, {{cog|msk|yadi||this}}, and {{cog|mg|ary||there, yonder}}.
+===Pronunciation 2===
+* {{IPA|tl|/jaˈɾi/|[jɐˈɾɪ]}}
+* {{rhymes|tl|i}}
+===Pronoun===
+{{head|tl|pronoun|head=yarí}}
+# {{lb|tl|dialectal|poetic}} [[this]] {{q|close to the speaker}}
+#: {{syn|tl|iri|ito}}
+====See also====
+{{tl-dem pronouns}}
+===Etymology 3===
+===Pronunciation 3===
+* {{hyph|tl|ya|ri}}
+* {{tl-IPA|yarì}}
+* {{tl-IPA|yarî}} {{q|adjective}}
+* {{rhymes|tl|aɾiʔ|iʔ}}
+===Noun===
+{{tl-noun|yarì}}
+# act or manner of [[making]] or [[manufacturing]] something
+#: {{syn|tl|gawa|paggawa|pagkagawa|pagyari|pagkayari}}
+# the thing [[manufacture]]d or [[made]]; [[product]]
+#: {{syn|tl|gawa|produkto}}
+# {{n-g|used with {{m|tl|sa}} to mean &quot;made of&quot;}}
+#: {{ux|tl|Mayroon siyang ngipin na '''yari''' sa ginto.|He has a golden tooth. (lit. He has a tooth '''made of''' gold.)}}
+# completion of something being done, made, or manufactured
+# [[output]]; amount [[produce]]d
+# [[style]]; a [[make]] or [[build]]
+#: {{syn|tl|kayarian|modelo}}
+# [[texture]]; [[structure]]; [[composition]]
+# {{lb|tl|colloquial|slang}} meeting one's downfall or getting what one deserves
+===Adjective===
+{{tl-adj|yarì}}
+# [[made]]; [[finished]]; [[manufactured]]
+#: {{syn|tl|tapos}}
+# [[ready-made]]
+====Derived terms====
+{{der3|tl|iyari|kayarian|makayari|magyari|mapagkayarian|mayari|pagkakayari|pagyari|pagyayari|yarian|yariin|yaring-kamay|yaring-makina|yaring-pabrika|yumari}}
+===Adjective===
+{{tl-adj|yarî}}
+# {{lb|tl|common in|_|Bataan}} [[finished]]; [[completed]] {{q|usually with '''{{m|tl|na}}'''}}
+#: {{syn|tl|tapos}}
+#: {{ux|tl|'''Yari''' na ang mga damit.|The clothes have already been '''made'''.}}
+# [[ready-made]]
+# {{lb|tl|colloquial|slang}} [[dead]]</text>
+<sha1>p3fjjzu9abf4fkn71pzqkuyxnlzwql5</sha1>
+</revision>
+</page>

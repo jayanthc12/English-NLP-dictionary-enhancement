@@ -1,0 +1,28 @@
+<page>
+<title>yhdeksisen</title>
+<ns>0</ns>
+<id>2215859</id>
+<revision>
+<id>69196922</id>
+<parentid>49617793</parentid>
+<timestamp>2022-09-10T14:46:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdeksän|t1=nine|-isen}}
+===Pronunciation===
+{{fi-p}}
+===Adverb===
+{{fi-adv}}
+# [[about]] [[nine]]
+#: ''Raskaus kestää '''yhdeksisen''' kuukautta.''
+#:: Pregnancy lasts '''about nine''' months.</text>
+<sha1>icq0he7dvw0eafkfh6r0tdn3gs5r8l0</sha1>
+</revision>
+</page>

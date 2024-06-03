@@ -1,0 +1,23 @@
+<page>
+<title>yakusoku</title>
+<ns>0</ns>
+<id>3101112</id>
+<revision>
+<id>43562683</id>
+<parentid>34917956</parentid>
+<timestamp>2017-05-24T14:21:44Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="85" xml:space="preserve">==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やくそく}}</text>
+<sha1>iogdn5ouju50ltubkrj8t4868b6jqar</sha1>
+</revision>
+</page>

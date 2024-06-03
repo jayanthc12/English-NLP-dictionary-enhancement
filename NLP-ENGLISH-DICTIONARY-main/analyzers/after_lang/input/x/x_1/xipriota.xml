@@ -1,0 +1,31 @@
+<page>
+<title>xipriota</title>
+<ns>0</ns>
+<id>3935623</id>
+<revision>
+<id>51931429</id>
+<parentid>49132173</parentid>
+<timestamp>2019-03-16T20:14:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="208" xml:space="preserve">==Catalan==
+===Etymology===
+{{suffix|ca|Xipre|ota}}
+===Adjective===
+{{ca-adj}}
+# [[Cypriot]]
+===Noun===
+{{ca-noun|mf}}
+# [[Cypriot]]
+====Related terms====
+* {{l|ca|Xipre}}
+[[Category:ca:Nationalities]]</text>
+<sha1>0f8y73cxin14ky19sn8i2umsbqys26k</sha1>
+</revision>
+</page>

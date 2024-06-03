@@ -1,0 +1,28 @@
+<page>
+<title>xoang</title>
+<ns>0</ns>
+<id>6437709</id>
+<revision>
+<id>48156108</id>
+<parentid>47975375</parentid>
+<timestamp>2017-11-24T12:35:13Z</timestamp>
+<contributor>
+<username>Wyangbot</username>
+<id>1553528</id>
+</contributor>
+<minor />
+<comment>Vietnamese etymology template cleanup</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="146" xml:space="preserve">==Vietnamese==
+===Etymology===
+{{vi-etym-sino|腔}}.
+===Pronunciation===
+{{vi-IPA}}
+===Noun===
+{{vi-noun}}
+# [[tune]]; [[melody]]
+# [[cavity]]</text>
+<sha1>md91jkrx1gatwgcs261239gt2huimd5</sha1>
+</revision>
+</page>

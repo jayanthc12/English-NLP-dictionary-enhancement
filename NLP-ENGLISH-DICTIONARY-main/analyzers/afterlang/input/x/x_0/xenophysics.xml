@@ -1,0 +1,33 @@
+<page>
+<title>xenophysics</title>
+<ns>0</ns>
+<id>6090599</id>
+<revision>
+<id>61119121</id>
+<parentid>59422412</parentid>
+<timestamp>2020-11-14T08:53:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1087" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|physics}}.
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare|science fiction}} The [[study]] of [[extraterrestrial]] [[physics]].
+#* '''2012''', Jonathan Strahan, Hannu Rajaniemi, Pat Cadigan, ''Edge of Infinity''
+#*: Stormchases had always had an interest in '''xenophysics'''. He felt his wings furl with shock as he realised that the object might show that heatpattern if it had warmed its belly with friction as it entered the atmosphere, but the upper part were still ...
+#* {{quote-book|en|year=2014|author=Ville Vuorela|title=Nemesis|passage='''Xenophysics''', especially at this level, were not his strong suit. But you didn't go about busting artefact smugglers for a decade without learning something.}}
+#* {{quote-book|en|year=2016|author=Alex Lamb|title=Nemesis|passage=I graduated top of my class in '''Xenophysics''' and have been pushing for missions ever since.' Mark found her story slightly embarrassing. In some ways, she'd had it harder than him.}}
+===See also===
+* {{l|en|physics}}
+* {{l|en|astrophysics}}
+* {{l|en|xenochemistry}}</text>
+<sha1>exqgpxqp4qfltbvqwn0hgar32syz5hj</sha1>
+</revision>
+</page>

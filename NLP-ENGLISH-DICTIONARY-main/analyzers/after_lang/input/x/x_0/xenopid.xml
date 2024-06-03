@@ -1,0 +1,35 @@
+<page>
+<title>xenopid</title>
+<ns>0</ns>
+<id>3111742</id>
+<revision>
+<id>68803875</id>
+<parentid>51897387</parentid>
+<timestamp>2022-08-27T17:37:13Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="816" xml:space="preserve">==English==
+{{rfi|en}}
+{{wikipedia|Xenopus}}
+{{wikispecies|Xenopus}}
+===Etymology===
+From {{m|mul|Xenopus}} {{suffix|en||id}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any of the [[genus]] ''[[Xenopus]]'' of clawed [[frog]]s.
+#* '''1961''', ''Proceedings of the Zoological Society of London: Volume 137''
+#*: Concerning this latter point, however, it should be recalled that the '''xenopid''' larvae are equally microphagous and yet their manicotto structure is essentially of the ranid type.
+#* '''1972''', Zdeněk V. Špinar, ''Tertiary frogs from Central Europe''
+#*: On the tails of some tadpoles the melanophores which were scattered on the surface of the body are visible, in the same way as in the tadpoles of the '''xenopids'''.
+===Anagrams===
+* {{anagrams|en|a=deinopx|doxepin}}
+[[Category:en:Frogs]]</text>
+<sha1>nc9jzs0z14tkyxxc3ef95jiqold9lcy</sha1>
+</revision>
+</page>

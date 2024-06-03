@@ -1,0 +1,33 @@
+<page>
+<title>yidileeh</title>
+<ns>0</ns>
+<id>6107178</id>
+<revision>
+<id>69318943</id>
+<parentid>46417801</parentid>
+<timestamp>2022-09-18T17:45:43Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="531" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|3o|di-inceptive|3s|∅}} {{nv-link-to-stem|-leeh}} {{nv-link-to-root|-LOʼ|act with a rope}}.
+===Verb===
+{{head|nv|verb}}
+# he/she starts to [[drive]] it along (a vehicle, originally by means of reins or cables)
+# he/she starts to [[carry]] it along by a handle, string, or cord (as a suitcase)
+====Conjugation====
+{{nv-conj-auto|di|yi|∅|leeh|loʼ|loh}}
+====Verbal stems====
+* ITERATIVE: -d + -loh = -dloh
+* OPTATIVE: -leeh
+====Related terms====
+* {{l|nv|yíleeh}}
+* {{l|nv|yooloh}}</text>
+<sha1>71jcc2c2bycsmo9i35go04brwbkdrdu</sha1>
+</revision>
+</page>

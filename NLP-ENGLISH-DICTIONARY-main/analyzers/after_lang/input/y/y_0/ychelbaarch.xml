@@ -1,0 +1,30 @@
+<page>
+<title>ychelbaarch</title>
+<ns>0</ns>
+<id>1408288</id>
+<revision>
+<id>61875565</id>
+<parentid>52642278</parentid>
+<timestamp>2021-02-23T02:00:44Z</timestamp>
+<contributor>
+<username>Ppcosta</username>
+<id>3519286</id>
+</contributor>
+<minor />
+<comment>Added pronunciation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="270" xml:space="preserve">==West Frisian==
+===Etymology===
+From {{compound|fy|ychel|baarch}}.
+===Pronunciation===
+* {{IPA|fy|/ˈixəlbaːrx/}}
+===Noun===
+{{fy-noun|c|ychelbargen|ychelbarchje}}
+# {{topics|fy|Mammals}} [[hedgehog]]
+#: {{syn|fy|ychel}}
+====Further reading====
+* {{R:WFT|42536}}</text>
+<sha1>mwv6wcqbehuaf3n34v32bbbpv8stj9v</sha1>
+</revision>
+</page>

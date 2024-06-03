@@ -1,0 +1,27 @@
+<page>
+<title>xenotransmit</title>
+<ns>0</ns>
+<id>7339514</id>
+<revision>
+<id>61027100</id>
+<parentid>54048454</parentid>
+<timestamp>2020-11-03T11:05:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-verb}} to use ++</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="192" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|transmit}}
+===Verb===
+{{en-verb|++}}
+# To [[transmit]] (typically [[disease]]) between [[species]]
+====Related terms====
+* [[xenotransmission]]</text>
+<sha1>s4d9k6eo1dhhckqkiwz2pj3je7mcl8h</sha1>
+</revision>
+</page>

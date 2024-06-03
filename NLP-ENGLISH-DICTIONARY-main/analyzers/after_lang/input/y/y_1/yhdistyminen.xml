@@ -1,0 +1,35 @@
+<page>
+<title>yhdistyminen</title>
+<ns>0</ns>
+<id>664831</id>
+<revision>
+<id>58593405</id>
+<parentid>54764665</parentid>
+<timestamp>2020-01-30T12:18:22Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="456" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdistyä|minen}}
+===Pronunciation===
+{{fi-pronunciation}}
+===Noun===
+{{fi-noun}}
+# [[unification]] {{gloss|the act of becoming one}}
+# {{lb|fi|physics}} [[interference]] {{gloss|effect caused by the superposition of two systems of waves}}
+====Declension====
+{{fi-decl-nainen|yhdistymi|ä}}
+====Related terms====
+* {{l|fi|yhdistäminen}}
+===Verb===
+{{head|fi|infinitive}}
+# {{fi-infinitive of|t=4|yhdistyä}}</text>
+<sha1>e9nq8jveuzilvxq6v4rzi0tqyhatf1v</sha1>
+</revision>
+</page>

@@ -1,0 +1,34 @@
+<page>
+<title>yfere</title>
+<ns>0</ns>
+<id>3062044</id>
+<revision>
+<id>69379031</id>
+<parentid>68803223</parentid>
+<timestamp>2022-09-26T08:13:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up {{defdate}}, remove stray Unicode bidi marks (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="615" xml:space="preserve">==English==
+===Etymology===
+From Old English ge- + fēra 'associate, comrade, fellow-disciple'.
+===Adverb===
+{{en-adv|-}}
+# {{lb|en|obsolete|poetic}} [[together|Together]]. {{defdate|13th|18th c.}}
+#* {{RQ:Spenser Faerie Queene|3|1|passage=So goodly all agreed they forth '''yfere''' did ryde.}}
+===Anagrams===
+* {{anagrams|en|a=eefry|feyer|reefy}}
+----
+==Middle English==
+===Adverb===
+{{head|enm|adverb}}
+# {{rfdef|enm}}
+#* {{RQ:Chaucer Troilus|2|passage=Of this and that they pleide and gonnen wade / In many an vnkouth, gladde, and depe matere, / As frendes doon whan thei ben mette '''y-fere''' [...].}}</text>
+<sha1>fprci6u9shruav33xj0tawsyle2rn3p</sha1>
+</revision>
+</page>

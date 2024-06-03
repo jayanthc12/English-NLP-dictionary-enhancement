@@ -1,0 +1,28 @@
+<page>
+<title>yhteiskunnallisuus</title>
+<ns>0</ns>
+<id>3629813</id>
+<revision>
+<id>69318441</id>
+<parentid>58620590</parentid>
+<timestamp>2022-09-18T17:18:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="249" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteiskunnallinen|uus}}
+===Pronunciation===
+{{fi-p|yhteis-kunnallisuus}}
+===Noun===
+{{fi-noun}}
+# the quality of being [[social]] or [[societal]]
+====Declension====
+{{fi-decl-kalleus|yhteiskunnallisuu|a}}</text>
+<sha1>dla1srst1uvkqczxee7yc7sy7v6wql6</sha1>
+</revision>
+</page>

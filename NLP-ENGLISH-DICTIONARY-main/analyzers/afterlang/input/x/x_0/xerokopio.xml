@@ -1,0 +1,27 @@
+<page>
+<title>xerokopio</title>
+<ns>0</ns>
+<id>4363717</id>
+<revision>
+<id>55266066</id>
+<parentid>49372860</parentid>
+<timestamp>2019-10-14T06:47:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="174" xml:space="preserve">==Finnish==
+===Etymology===
+&lt; {{bor|fi|en|xerocopy}}
+===Noun===
+{{fi-noun}}
+# {{alternative spelling of|fi|kserokopio}}.
+====Declension====
+{{fi-decl-valtio|xerokopio|a}}</text>
+<sha1>f6hiojb3majefj4hf14opt5ffsonlqe</sha1>
+</revision>
+</page>

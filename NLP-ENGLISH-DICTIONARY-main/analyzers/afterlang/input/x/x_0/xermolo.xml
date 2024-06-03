@@ -1,0 +1,38 @@
+<page>
+<title>xermolo</title>
+<ns>0</ns>
+<id>6995496</id>
+<revision>
+<id>68869145</id>
+<parentid>68834789</parentid>
+<timestamp>2022-08-28T06:00:44Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="437" xml:space="preserve">==Galician==
+===Alternative forms===
+* {{alter|gl|xaramolo|xoromelo|xurumelo}}
+===Etymology===
+From a diminutive form of {{der|gl|la|germen|t=germ}}.
+===Pronunciation===
+* {{IPA|gl|/ʃeɾˈmolo̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[bud]]
+#: {{syn|gl|brote|brotón|grelo|gromo|xeno}}
+# [[scion]]
+#: {{syn|gl|rebento}}
+# a [[potato]] [[eye]] or [[shoot]]
+#: {{syn|gl|gromo}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>nikwf0pjkg8ofx6n7kife2q22s073hq</sha1>
+</revision>
+</page>

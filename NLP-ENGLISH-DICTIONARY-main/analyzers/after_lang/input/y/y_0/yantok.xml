@@ -1,0 +1,38 @@
+<page>
+<title>yantok</title>
+<ns>0</ns>
+<id>5698450</id>
+<revision>
+<id>56411300</id>
+<parentid>47735314</parentid>
+<timestamp>2019-10-18T01:30:36Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="581" xml:space="preserve">==Tagalog==
+===Pronunciation===
+* {{IPA|tl|/janˈtok/}}
+===Noun===
+{{tl-noun|yantók}}
+# [[rattan]]
+#: '''''Yantok''' ang ginagamit sa paggawa ng mesa.''
+#:: Rattan is used in making tables.
+# [[long]] [[stem]] of [[rattan]], usually made into [[cane]]s, [[stick]]s, and [[furniture]] (such as chairs, tables, etc.)
+# [[strip]]s of [[rattan]], usually used for tying and for [[wickerwork]]
+===Adjective===
+{{tl-adj|yantók}}
+# [[made]] of [[rattan]]
+====Derived terms====
+{{rel-top3|Terms derived from ''yantok''}}
+* {{l|tl|yantukin}}
+{{rel-mid3}}
+{{rel-mid3}}
+{{rel-bottom}}</text>
+<sha1>exwzlmq80yve7gud6dkn6ii6pq7chal</sha1>
+</revision>
+</page>

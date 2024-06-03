@@ -1,0 +1,28 @@
+<page>
+<title>ydinvalta</title>
+<ns>0</ns>
+<id>1151669</id>
+<revision>
+<id>69318285</id>
+<parentid>59682795</parentid>
+<timestamp>2022-09-18T17:09:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="232" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|valta}}
+===Pronunciation===
+{{fi-p|ydin-valta}}
+===Noun===
+{{head|fi|noun}}
+# [[nuclear power]] (country possessing nuclear weapons)
+====Declension====
+{{fi-decl-kala|ydinva|lt|ll|a}}</text>
+<sha1>7f32g47lz9hmh46c8415nbs5s0pm7rg</sha1>
+</revision>
+</page>

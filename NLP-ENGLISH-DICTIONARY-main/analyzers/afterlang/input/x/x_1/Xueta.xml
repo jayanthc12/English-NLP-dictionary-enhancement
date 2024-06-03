@@ -1,0 +1,33 @@
+<page>
+<title>Xueta</title>
+<ns>0</ns>
+<id>3170607</id>
+<revision>
+<id>58150562</id>
+<parentid>54430637</parentid>
+<timestamp>2019-12-12T01:04:42Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>quote-book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1162" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|ca|xueta}}.
+===Noun===
+{{en-noun|Xuetes}}
+{{wikipedia}}
+# One of a strictly [[endogamous]] [[social group]] on the [[island]] of [[Majorca]], [[descendant]]s of Majorcan [[Jew]]s who either converted to [[Christianity]] or were forced to keep their [[religion]] hidden.
+#* {{quote-book|en|year=1976|author=Kenneth Moore|title=Those of the street: the Catholic-Jews of Mallorca|passage=I remember being insulted as a child, being called a '''Xueta''' fool by playmates, and once someone spit in my face. There has always existed a sense of community among Xuetas and from my grandparents I learned pride in being a Xueta{{...}}}}
+#* {{quote-text|en|year=2009|author=Peter Wade|title=Race, Ethnicity and Nation: Perspectives from Kinship and Genetics|page=131|passage=But maybe it is more relevant for my purpose, which is to show the creativity of alliances, to concentrate on the question of the ethnic boundary between '''Xuetes''' and Old Christians{{...}}}}
+====Translations====
+{{trans-top|descendant of Majorcan Jews}}
+* Catalan: {{t+|ca|xueta|m|f}}
+{{trans-mid}}
+* Spanish: {{t|es|chueta|m|f}}
+{{trans-bottom}}</text>
+<sha1>ai1212nzsweirvmsm6eji6a4s0zi302</sha1>
+</revision>
+</page>

@@ -1,0 +1,39 @@
+<page>
+<title>yaylaq</title>
+<ns>0</ns>
+<id>6847948</id>
+<revision>
+<id>67199247</id>
+<parentid>59212152</parentid>
+<timestamp>2022-05-30T17:18:21Z</timestamp>
+<contributor>
+<username>Sahib1609</username>
+<id>3692630</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="706" xml:space="preserve">==Azerbaijani==
+{{wikipedia|yaylak}}
+{{az-variant|a=یایلاق|c=јајлаг|r=yaylaq}}
+===Etymology===
+From {{suf|az|yay|lək|alt2=laq|t1=summer}}. Cognate with {{cog|tr|yaylak}}, {{cog|kk|жайлау}}, etc.
+===Pronunciation===
+* {{IPA|az|[jɑjˈlɑχ]}}
+* {{hyphenation|az|yay|laq}}
+===Noun===
+{{az-head-noun|a|q}}
+# [[summer]] [[highland]] [[pasture]]
+#: {{ant|az|qışlaq}}
+# [[country house]]
+# plot of land in the countryside used for recreation during the summer
+====Declension====
+{{az-decl-noun|a|q}}
+====Derived terms====
+* {{l|az|yaylaqlamaq}}, {{l|az|yaylaqlanmaq}}
+* {{l|az|yaylaqçı}}
+====Descendants====
+* {{desc|tly|yəyləğ|bor=on}}
+* {{desc|fa|ییلاق|tr=yeylâq|bor=on}}</text>
+<sha1>ey0974ev76s6ccolklgh907cwh1bspr</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xanthoptera</title>
+<ns>0</ns>
+<id>3375218</id>
+<revision>
+<id>66995074</id>
+<parentid>57011607</parentid>
+<timestamp>2022-05-15T09:46:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xanthopterus}} (4); combine {{inflection of|la|xanthopterus}} tag sets nom|n|p and acc|n|p into nom//acc|n|p; combine {{inflection of|la|xanthopterus}} tag sets nom|f|s and voc|f|s into nom//voc|f|s; combine {{inflection of|la|xanthopterus}} tag sets nom//acc|n|p and voc|n|p into nom//acc//voc|n|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xanthoptera}}
+# {{inflection of|la|xanthopterus||nom//voc|f|s|;|nom//acc//voc|n|p}}
+===Adjective===
+{{la-adj-form|xanthopterā}}
+# {{inflection of|la|xanthopterus||abl|f|s}}</text>
+<sha1>rxsj76hdo68abw8m3k0wp72c0e2pvuq</sha1>
+</revision>
+</page>

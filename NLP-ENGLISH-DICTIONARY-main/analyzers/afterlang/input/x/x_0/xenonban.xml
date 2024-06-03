@@ -1,0 +1,23 @@
+<page>
+<title>xenonban</title>
+<ns>0</ns>
+<id>1791407</id>
+<revision>
+<id>60726149</id>
+<parentid>25546448</parentid>
+<timestamp>2020-10-03T00:52:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{hu-inflection of}} to {{inflection of|hu}} with appropriate param changes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="84" xml:space="preserve">==Hungarian==
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xenon||ine|s}}</text>
+<sha1>a96bl5gaxg9vvw8rnbmcrbokf0uoq2j</sha1>
+</revision>
+</page>

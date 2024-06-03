@@ -1,0 +1,27 @@
+<page>
+<title>yhteisvastuisesti</title>
+<ns>0</ns>
+<id>7190972</id>
+<revision>
+<id>58593468</id>
+<parentid>54336113</parentid>
+<timestamp>2020-01-30T12:20:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteisvastuinen|-sti}}
+===Pronunciation===
+{{fi-pronunciation|yhteis-vastuisesti*}}
+===Adverb===
+{{fi-adv}}
+# {{lb|fi|rare}} {{synonym of|fi|yhteisvastuullisesti}}</text>
+<sha1>1f5hrb19y5l9kjcodcazc75kq5587nk</sha1>
+</revision>
+</page>

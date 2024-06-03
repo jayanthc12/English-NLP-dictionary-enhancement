@@ -1,0 +1,23 @@
+<page>
+<title>yeech</title>
+<ns>0</ns>
+<id>5059394</id>
+<revision>
+<id>54990545</id>
+<parentid>35332804</parentid>
+<timestamp>2019-10-10T16:29:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alt form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="68" xml:space="preserve">==English==
+===Interjection===
+{{en-intj}}
+# {{alt form|en|yeesh}}</text>
+<sha1>6hfkirj8z55nudxbpgqon01bgyxvbzj</sha1>
+</revision>
+</page>

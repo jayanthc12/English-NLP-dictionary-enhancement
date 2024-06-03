@@ -1,0 +1,25 @@
+<page>
+<title>yachtsful</title>
+<ns>0</ns>
+<id>5875445</id>
+<revision>
+<id>55965478</id>
+<parentid>53092571</parentid>
+<timestamp>2019-10-16T11:36:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="130" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yachtful}}
+===Anagrams===
+* {{anagrams|en|a=acfhlstuy|yachtfuls}}</text>
+<sha1>35uy9o4hjc75dt44wcbadsrwzvxpvru</sha1>
+</revision>
+</page>

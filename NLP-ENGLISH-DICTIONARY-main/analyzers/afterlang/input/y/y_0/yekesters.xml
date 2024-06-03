@@ -1,0 +1,33 @@
+<page>
+<title>yekesters</title>
+<ns>0</ns>
+<id>6919260</id>
+<revision>
+<id>61793139</id>
+<parentid>59700889</parentid>
+<timestamp>2021-02-10T08:23:34Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>/* References */Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="506" xml:space="preserve">==Middle English==
+===Alternative forms===
+* {{alter|enm|ȝekesteris|ȝekesters|ȝeksters|ȝekesterse}}
+===Etymology===
+From {{af|enm|ȝekes|ters|t1=cuckoo's|t2=penis}}.
+===Pronunciation===
+* {{IPA|enm|/ˈjɛːk(i)stɛrs/}}
+===Noun===
+{{head|enm|noun}}
+# {{lb|enm|figurative}} [[cuckoopint]] {{gloss|''[[Arum maculatum]]'' or ''[[Arum italicum]]''}}
+# {{&amp;lit|enm|ȝekes|ters}}
+====References====
+* {{R:MED Online|entry=yēkes ters |pos=phr|id=MED53798|accessdate=2018-10-06}}
+[[Category:enm:Plants]]</text>
+<sha1>dmt9hmk27bm6vby8nsp9uxxlphthyg3</sha1>
+</revision>
+</page>

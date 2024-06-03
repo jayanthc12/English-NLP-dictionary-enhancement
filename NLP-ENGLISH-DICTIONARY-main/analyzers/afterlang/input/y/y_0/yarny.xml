@@ -1,0 +1,25 @@
+<page>
+<title>yarny</title>
+<ns>0</ns>
+<id>1859148</id>
+<revision>
+<id>51872082</id>
+<parentid>26929968</parentid>
+<timestamp>2019-03-15T06:38:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yarn|y}}
+===Adjective===
+{{en-adj}}
+# Resembling [[yarn]]; [[coarse]], [[ropelike]].</text>
+<sha1>dzh6k9jq619rx2mleb0359jql9ze65a</sha1>
+</revision>
+</page>

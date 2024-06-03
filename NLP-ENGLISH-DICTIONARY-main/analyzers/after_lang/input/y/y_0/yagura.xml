@@ -1,0 +1,32 @@
+<page>
+<title>yagura</title>
+<ns>0</ns>
+<id>230589</id>
+<revision>
+<id>53180080</id>
+<parentid>48071455</parentid>
+<timestamp>2019-05-26T22:10:55Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="445" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|櫓||tower, turret, keep, scaffold}}.
+===Noun===
+{{en-noun|yagura}}
+# {{lb|en|sumo}} A high [[wooden]] [[tower]] in front of a [[sumo]] [[arena]] from which a [[yobidashi]] beats the [[taiko]] [[drum]] each day before and after each [[tournament]].
+===Anagrams===
+* {{anagrams|en|a=aagruy|Yugara}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やぐら}}</text>
+<sha1>jvxd23v8txb6o8s6wtr0f4w3k6l0w9h</sha1>
+</revision>
+</page>

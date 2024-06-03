@@ -1,0 +1,35 @@
+<page>
+<title>xewqa</title>
+<ns>0</ns>
+<id>7278742</id>
+<revision>
+<id>61409878</id>
+<parentid>61291487</parentid>
+<timestamp>2020-12-28T18:31:45Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>replaced {{[[T:mt-rootbox|mt-rootbox]]}} with {{[[T:mt-root|mt-root]]}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="484" xml:space="preserve">==Maltese==
+{{mt-root|x-w-q}}
+===Etymology===
+Singulative derivation from {{der|mt|ar|شَوْق|t=longing}}, thus originally “a single instance or object of longing”.
+===Pronunciation===
+* {{IPA|mt|/ˈʃɛw.ʔa/}}
+===Noun===
+{{mt-noun|g=f|p=xewqat}}
+# [[desire]]
+# [[wish]] {{gloss|that which one wishes}}
+# [[will]] {{gloss|that which one wants or wills}}
+#: {{syn|mt|rieda|voluntà|q2=fairly rare}}
+# [[birthmark]]
+#: {{syn|mt|xehwa}}
+====Related terms====
+* {{l|mt|xtaq}}</text>
+<sha1>8qj5rhlrq38fc3b8s6etwv4yo760ydp</sha1>
+</revision>
+</page>

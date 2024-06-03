@@ -1,0 +1,25 @@
+<page>
+<title>yacidos</title>
+<ns>0</ns>
+<id>1635543</id>
+<revision>
+<id>68413564</id>
+<parentid>68324668</parentid>
+<timestamp>2022-07-19T11:49:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish past participle forms (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="129" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Participle===
+{{head|es|past participle form|g=m-p}}
+# {{es-verb form of|yacer}}</text>
+<sha1>kmjpmj4rdt1f7o2niu2v4m26sqlgd34</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xantin</title>
+<ns>0</ns>
+<id>1245937</id>
+<revision>
+<id>44799163</id>
+<parentid>9368633</parentid>
+<timestamp>2017-05-25T16:22:10Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="53" xml:space="preserve">==Czech==
+===Noun===
+{{cs-noun|g=m}}
+# [[xanthine]]</text>
+<sha1>7p74cglvgm8vker6u6bqw2s4cjckpxt</sha1>
+</revision>
+</page>

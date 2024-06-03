@@ -1,0 +1,24 @@
+<page>
+<title>xod</title>
+<ns>0</ns>
+<id>1812128</id>
+<revision>
+<id>55244158</id>
+<parentid>47019267</parentid>
+<timestamp>2019-10-14T05:45:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">{{also|ход}}
+==Romani==
+===Adjective===
+{{head|rom|adjective}}
+# {{alternative spelling of|rom|xoro}}</text>
+<sha1>6dvvy2sxdkt06he018ggucvsk7bfijq</sha1>
+</revision>
+</page>

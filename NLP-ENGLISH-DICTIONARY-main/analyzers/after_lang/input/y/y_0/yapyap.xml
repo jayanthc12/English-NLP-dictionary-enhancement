@@ -1,0 +1,55 @@
+<page>
+<title>yapyap</title>
+<ns>0</ns>
+<id>5104668</id>
+<revision>
+<id>69385941</id>
+<parentid>69385914</parentid>
+<timestamp>2022-09-27T15:00:24Z</timestamp>
+<contributor>
+<username>Otterfolwer</username>
+<id>3895884</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1024" xml:space="preserve">==Bikol Central==
+===Pronunciation===
+* {{hyph|bcl|yap|yap}}
+* {{bcl-IPA}}
+===Noun===
+{{head|bcl|noun}}
+# [[hand]] [[fan]]
+#: {{syn|bcl|abaniko|kayab|kabkab|pamaypay}}
+====Derived terms====
+{{der3|bcl|magyapyap|yapyapan}}
+----
+==Cebuano==
+===Etymology===
+[[onomatopoeic|Onomatopoeic]].
+===Pronunciation===
+* {{hyph|ceb|yap|yap}}
+* {{ceb-IPA|yápyáp}}
+===Noun===
+{{head|ceb|noun}}
+# the [[chirping]] [[sound]] of a [[bird]] or a [[chick]]
+# a [[cheep]]; a [[chirp]]
+===Verb===
+{{head|ceb|verb}}
+# to [[make]] a [[chirping]] sound
+===Synonyms===
+* {{sense|cheep}} {{l|ceb|iyak}}. {{l|ceb|yapyap}}
+[[Category:Cebuano onomatopoeias]]
+[[Category:Cebuano reduplications]]
+----
+==Tagalog==
+===Pronunciation===
+* {{hyph|tl|yap|yap}}
+* {{tl-IPA|yapyáp}}
+===Noun===
+{{tl-noun|yapyáp}}
+# [[general]] [[term]] for any [[small]] [[fish]], [[crab]]s, or [[shrimp]]s [[sold]] [[cheap]] in quantities in the [[market]]
+# [[loose]], [[idle]] [[talk]] or [[chatter]]
+# [[person]] [[given]] to loose, idle talk or chatter</text>
+<sha1>i3882nfxfbx6gsj5jbwcd5by7r3vfmg</sha1>
+</revision>
+</page>

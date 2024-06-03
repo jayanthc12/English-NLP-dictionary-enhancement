@@ -1,0 +1,23 @@
+<page>
+<title>yeldrocks</title>
+<ns>0</ns>
+<id>7056972</id>
+<revision>
+<id>56414911</id>
+<parentid>53092902</parentid>
+<timestamp>2019-10-18T01:38:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yeldrock}}</text>
+<sha1>dodev1r7o80im36c1szpi7v760vwx58</sha1>
+</revision>
+</page>

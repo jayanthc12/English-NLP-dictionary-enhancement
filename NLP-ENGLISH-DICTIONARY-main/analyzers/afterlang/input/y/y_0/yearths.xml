@@ -1,0 +1,25 @@
+<page>
+<title>yearths</title>
+<ns>0</ns>
+<id>1330805</id>
+<revision>
+<id>55545489</id>
+<parentid>53092867</parentid>
+<timestamp>2019-10-15T05:55:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="132" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yearth}}
+===Anagrams===
+* {{anagrams|en|a=aehrsty|Hayters|aethyrs}}</text>
+<sha1>crpuxn1w3epcm2sxby05yt53nf4wcys</sha1>
+</revision>
+</page>

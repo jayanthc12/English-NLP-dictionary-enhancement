@@ -1,0 +1,26 @@
+<page>
+<title>yachakuy</title>
+<ns>0</ns>
+<id>4297929</id>
+<revision>
+<id>49171636</id>
+<parentid>47152809</parentid>
+<timestamp>2018-03-16T22:29:09Z</timestamp>
+<contributor>
+<username>Linguist97</username>
+<id>3339014</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==Quechua==
+===Etymology===
+From {{af|qu|yachay|alt1=yacha-|t1=knowledge; to know|-ku|pos2=reflexive|-y|pos3=infinitive}}.
+===Verb===
+{{head|qu|verb}}
+# {{lb|qu|transitive}} to [[study]]
+====Conjugation====
+{{qu-conj|yachaku}}</text>
+<sha1>ou5chmoojjny43p02rlpaesqgo8lqy1</sha1>
+</revision>
+</page>

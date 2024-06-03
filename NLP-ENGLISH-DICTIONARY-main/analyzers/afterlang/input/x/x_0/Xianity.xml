@@ -1,0 +1,49 @@
+<page>
+<title>Xianity</title>
+<ns>0</ns>
+<id>93082</id>
+<revision>
+<id>68770436</id>
+<parentid>67286623</parentid>
+<timestamp>2022-08-27T05:35:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1607" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|Xtianity}}
+===Etymology===
+From {{m|en|Christianity}}, replacing {{m|en|Christ}} with the abbreviation {{m|en|X}}, from {{uder|en|grc|Χ||pos=the letter chi}}, the first letter of {{m|grc|Χριστός||[[Christ]]}}. Compare the more common {{m|en|Xmas}}.
+===Noun===
+{{en-noun|-}}
+# {{abbreviation of|en|Christianity}}
+#* {{quote-book
+|en
+|year=1861
+|title=Sussex Archaeological Collections relating to the History and Antiquities of the County
+|volume=13
+|author=Sussex Archaeological Society
+|publisher=George P. Bacon
+|location=Sussex
+|quotee=Vicar of Rye
+|page=62
+|pageurl=http://books.google.com/books?id=SDcGAAAAQAAJ&amp;pg=PA62&amp;dq=xianity
+|passage=Not but that I perswade myselfe to bee able to convince you (if you list to undergoe yo&lt;sup&gt;r&lt;/sup&gt; triall) how interolerable an injury it is you doe y&lt;sup&gt;r&lt;/sup&gt;selfe, in y&lt;sup&gt;e&lt;/sup&gt; first place, y&lt;sup&gt;r&lt;/sup&gt; ignorant followers, y&lt;sup&gt;e&lt;/sup&gt; King's authority, y&lt;sup&gt;e&lt;/sup&gt; credit of the towne, and y&lt;sup&gt;e&lt;/sup&gt; progress of '''Xianity''' in general, in these parts, by y&lt;sup&gt;r&lt;/sup&gt; schisme and separation.
+}}
+#* '''1950''' December 14, [[w:C. S. Lewis|Lewis, C. S.]], letter to Sheldon Vanauken, quoted in ''Sleuthing C. S. Lewis'' by Kathryn Ann Lindskoog:
+#*: I believe Buddhism to be a simplification of Hinduism and Islam to be a simplification of '''Xianity'''.
+====Usage notes====
+As with {{m|en|Xmas}}, as of the late 20th century this term may be considered informal or disrespectful.
+====Related terms====
+* {{l|en|Xian}}
+* {{l|en|Xmas}}
+* {{l|en|Xtianity}}
+[[Category:en:Christianity]]</text>
+<sha1>fscsm1e8vbgrjemn5swmo6uxtqddjhn</sha1>
+</revision>
+</page>

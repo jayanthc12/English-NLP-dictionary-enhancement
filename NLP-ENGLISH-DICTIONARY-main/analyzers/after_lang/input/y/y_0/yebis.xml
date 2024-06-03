@@ -1,0 +1,23 @@
+<page>
+<title>yebis</title>
+<ns>0</ns>
+<id>2499911</id>
+<revision>
+<id>57771258</id>
+<parentid>33423410</parentid>
+<timestamp>2019-10-20T12:45:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|yeb||acc|p}}</text>
+<sha1>evuh6t16svaxe2yoqnxrxxu0w3jzcz2</sha1>
+</revision>
+</page>

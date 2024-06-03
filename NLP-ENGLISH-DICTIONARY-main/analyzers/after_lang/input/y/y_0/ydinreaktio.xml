@@ -1,0 +1,28 @@
+<page>
+<title>ydinreaktio</title>
+<ns>0</ns>
+<id>748457</id>
+<revision>
+<id>69318234</id>
+<parentid>51994832</parentid>
+<timestamp>2022-09-18T17:07:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="201" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|reaktio}}
+===Pronunciation===
+{{fi-p|ydin-reaktio}}
+===Noun===
+{{fi-noun}}
+# [[nuclear reaction]]
+====Declension====
+{{fi-decl-valtio|ydinreaktio|a}}</text>
+<sha1>4z10lreckigwvspb89jsnebctomshhf</sha1>
+</revision>
+</page>

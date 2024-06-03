@@ -1,0 +1,39 @@
+<page>
+<title>yewen</title>
+<ns>0</ns>
+<id>2099002</id>
+<revision>
+<id>65553079</id>
+<parentid>58652009</parentid>
+<timestamp>2022-01-28T21:55:43Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ +en rhymes (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="738" xml:space="preserve">==English==
+===Alternative forms===
+* {{alter|en|eughen||obsolete}}
+===Etymology===
+From {{inh|en|enm|*ewen}}, from {{inh|en|ang|īwen||made of yew, yewen}}, equivalent to {{suffix|en|yew|en|id2=made of}}.
+===Pronunciation===
+* {{IPA|en|/ˈjuːən/|/ˈjuːn/}}
+* {{rhymes|en|uːən|uːn|s1=2|s2=1}}
+* {{homophones|en|Euan|Ewan|Ewen|Iwan}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|archaic}} Made from the [[wood]] of the [[yew]] tree.
+#: ''But if a knight shall come with many-coloured clothes, with an ermine bonnet and a '''yewen''' bow with a silken string...''
+====Translations====
+{{trans-top|Made from wood of the yew tree}}
+* German: {{t+|de|eiben}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eenwy|weeny}}</text>
+<sha1>jkhtou01jregyp2lisbyxbm8g1r6uip</sha1>
+</revision>
+</page>

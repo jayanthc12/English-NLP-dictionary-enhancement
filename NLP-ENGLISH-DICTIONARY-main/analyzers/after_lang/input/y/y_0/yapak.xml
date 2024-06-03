@@ -1,0 +1,42 @@
+<page>
+<title>yapak</title>
+<ns>0</ns>
+<id>6340661</id>
+<revision>
+<id>69487186</id>
+<parentid>52292526</parentid>
+<timestamp>2022-10-10T03:15:23Z</timestamp>
+<contributor>
+<username>Ysrael214</username>
+<id>3954129</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="707" xml:space="preserve">==Tagalog==
+===Pronunciation===
+* {{hyph|tl|ya|pak}}
+* {{tl-IPA|yapák}} {{q|adjective}}
+* {{tl-IPA}} {{q|noun}}
+===Adjective===
+{{tl-adj|yapák|b={{tl-bay sc}}}}
+# [[barefoot]]
+#: {{syn|tl|apak|nakatapak|nakayapak|tapak}}
+====Derived terms====
+{{der3|tl|magyapak|nakayapak|pagyapakin}}
+===Noun===
+{{tl-noun|b={{tl-bay sc}}}}
+# [[tread]]; [[act]] of [[step]]ping or [[put]]ting down one's [[foot]] on [[something]]
+#: {{syn|tl|apak|pagtuntong|tapak|tuntong}}
+# [[footstep]]; [[step]]
+#: {{syn|tl|hakbang}}
+# [[footfall]]
+#: {{syn|tl|yabag}}
+# [[footprint]]
+#: {{syn|tl|bakas ng paa}}
+====Derived terms====
+{{der3|tl|iyapak|mayapakan|yapakan|yumapak}}
+===References===
+* {{R:Pambansang Diksiyonaryo}}</text>
+<sha1>npy9lmgruqbd24fq0esvkq6d5wujvfh</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yhteysalus</title>
+<ns>0</ns>
+<id>7186596</id>
+<revision>
+<id>58593478</id>
+<parentid>52381874</parentid>
+<timestamp>2020-01-30T12:21:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="212" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteys|alus}}
+===Pronunciation===
+{{fi-pronunciation|yhteys-alus}}
+===Noun===
+{{fi-noun}}
+# [[connecting]] [[vessel]]
+====Declension====
+{{fi-decl-vastaus|yhteysalu|a}}</text>
+<sha1>kygm1khuljbcd400cypw1dpihmy3gs9</sha1>
+</revision>
+</page>

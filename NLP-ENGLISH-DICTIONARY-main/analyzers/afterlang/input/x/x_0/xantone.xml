@@ -1,0 +1,25 @@
+<page>
+<title>xantone</title>
+<ns>0</ns>
+<id>1625336</id>
+<revision>
+<id>51978922</id>
+<parentid>39339335</parentid>
+<timestamp>2019-03-17T23:41:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="121" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xanto|one}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|organic compound}} [[xanthone]]</text>
+<sha1>3g2bxlnd1q9d728p4nisb4lbvfsw1iw</sha1>
+</revision>
+</page>

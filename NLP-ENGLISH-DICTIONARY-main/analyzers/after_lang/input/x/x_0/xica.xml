@@ -1,0 +1,29 @@
+<page>
+<title>xica</title>
+<ns>0</ns>
+<id>6578504</id>
+<revision>
+<id>60736626</id>
+<parentid>54514832</parentid>
+<timestamp>2020-10-03T06:56:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>{{feminine noun of}} -&gt; {{female equivalent of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{feminine singular of|ca|xic}}
+===Noun===
+{{ca-noun|f}}
+# {{female equivalent of|ca|xic}}; [[girl]]
+#: {{syn|ca|noia}}</text>
+<sha1>7g0lgw7kplud1nice9nlpso5v65cn7v</sha1>
+</revision>
+</page>

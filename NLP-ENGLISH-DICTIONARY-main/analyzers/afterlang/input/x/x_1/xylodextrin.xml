@@ -1,0 +1,27 @@
+<page>
+<title>xylodextrin</title>
+<ns>0</ns>
+<id>5850409</id>
+<revision>
+<id>54408298</id>
+<parentid>51821231</parentid>
+<timestamp>2019-09-29T09:55:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="668" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xylo|dextrin}}
+===Noun===
+{{en-noun}}
+# {{lb|en|carbohydrate}} An [[oligomer]] of [[xylose]]
+#* {{quote-journal|en|date=August 16, 2015|author=Xin Li et al.|title=Cellobionic acid utilization: from Neurospora crassa to Saccharomyces cerevisiae|journal=Biotechnology for Biofuels|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537572/|doi=10.1186/s13068-015-0303-2|volume=8|issue=|pages=
+|passage=These are then transported into the cells by cellodextrin and '''xylodextrin''' transporters and—in the case of '''xylodextrin'''s—reduced before they are further processed to monomeric sugars by intracellular hydrolases.}}</text>
+<sha1>6qeqaf4o5thcouqs7stjhqe38v6zsne</sha1>
+</revision>
+</page>

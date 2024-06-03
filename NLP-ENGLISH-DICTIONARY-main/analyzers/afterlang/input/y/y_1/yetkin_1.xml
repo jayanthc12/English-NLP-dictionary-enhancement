@@ -1,0 +1,46 @@
+<page>
+<title>yetkin</title>
+<ns>0</ns>
+<id>3669243</id>
+<revision>
+<id>59702328</id>
+<parentid>59702312</parentid>
+<timestamp>2020-07-07T15:05:58Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Adjective */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="574" xml:space="preserve">{{also|Yetkin}}
+==Azerbaijani==
+===Etymology===
+From {{suf|az|yetmək|kin|alt1=yet-|alt2=kin}}.
+===Adjective===
+{{head|az|adjective}}
+# [[mature]]
+# [[ripe]]
+====Derived terms====
+* {{l|az|yetkinlik||maturity}}
+* {{l|az|yetkinləşmək||to mature}}
+** {{l|az|yetkinləşmə}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Turkish==
+===Etymology 1===
+====Adjective====
+{{tr-adj}}
+# [[competent]]
+# [[perfect]]
+=====Synonyms=====
+* {{l|tr|kâmil}}
+* {{l|tr|mükemmel}}
+===Etymology 2===
+====Noun====
+{{head|tr|noun form}}
+# {{inflection of|tr|yetki||2|s|poss}}</text>
+<sha1>8v1ix48lo6xtn7yvguhj3q7oc7x29q4</sha1>
+</revision>
+</page>

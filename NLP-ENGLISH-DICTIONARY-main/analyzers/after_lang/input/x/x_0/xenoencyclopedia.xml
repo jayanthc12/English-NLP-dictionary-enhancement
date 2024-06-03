@@ -1,0 +1,32 @@
+<page>
+<title>xenoencyclopedia</title>
+<ns>0</ns>
+<id>6289632</id>
+<revision>
+<id>61119381</id>
+<parentid>54412757</parentid>
+<timestamp>2020-11-14T08:58:54Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1518" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xeno|encyclopedia}}
+===Pronunciation===
+* {{IPA|en|/zɛnəɪnˌsaɪ.kləˈpi(ː).di.ə/}}
+* {{hyphenation|en|xe|no|en|cy|clo|pe|dia}}
+===Noun===
+{{en-noun}}
+# {{lb|en|science fiction|rare}} [[encyclopedia|Encyclopedia]] of [[science fiction]].
+#* {{quote-journal|en|year=2012|work=Science Fiction Studies|title=Of Enigmas and Xenoencyclopedias|author=Istvan Csicsery-Ronay, Jr. |volume=39|number=3|passage=The competent reader gradually learns more and more about the genre's own grand-scale '''xenoencyclopedia''' in order to understand each new work's specific '''xenoencyclopedia'''...}}
+#* '''2015''', Maylis Rospide, Sandrine Sorlin, ''The Ethics and Poetics of Alterity: New Perspectives on Genre Literature''
+#*: The '''(xeno)encyclopedia''' of the (science fiction) reader In L'empire du pseudo, Richard Saint-Gelais applies Umberto Eco's textual cooperation theory to the science fiction genre. He proposes to call “'''xenoencyclopedia'''” all the cognitive ...
+#* {{quote-journal|en|year=2018|work=Comics Memory|title=Sons and Grandsons of Origins: Narrative Memory in Marvel Superhero Comics |author=J.M. Méon |volume=|number=|passage=They offer a supplement—or possibly a starting point—to the reader's “personal encyclopedia” (Eco 1985 [1979]) or, in this case, “'''xeno-encyclopedia'''” (Saint-Gelais 1999), which was constituted through previous Marvel readings and which these publications help to configure according to the publisher's...}}</text>
+<sha1>0ryna17fzm3mi0g95cn79kzz6eixw6r</sha1>
+</revision>
+</page>

@@ -1,0 +1,41 @@
+<page>
+<title>Yenish</title>
+<ns>0</ns>
+<id>4919972</id>
+<revision>
+<id>59988844</id>
+<parentid>50902953</parentid>
+<timestamp>2020-08-07T08:16:10Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="627" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Yeniche}}
+===Noun===
+{{en-plural noun}}
+# A group of [[nomadic]] [[people]] in [[Europe]], living mostly in [[Germany]], [[Austria]], [[Switzerland]], [[Wallonia]]{{,}} and parts of [[France]]. They often claim to be descendants of the [[Celtic]] [[Helvetii]].
+====Translations====
+{{trans-top}}
+* German: {{t+|de|Jenisch}}
+{{trans-mid}}
+{{trans-bottom}}
+===Adjective===
+{{en-adj|-}}
+# Relating to these people
+====Translations====
+{{trans-top}}
+* German: {{t+|de|jenisch}}
+{{trans-mid}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=ehinsy|hineys|shenyi}}</text>
+<sha1>koupbiiexydd63mvt6vukkx7mag70r1</sha1>
+</revision>
+</page>

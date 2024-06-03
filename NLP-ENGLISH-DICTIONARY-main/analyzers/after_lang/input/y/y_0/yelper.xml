@@ -1,0 +1,32 @@
+<page>
+<title>yelper</title>
+<ns>0</ns>
+<id>1705642</id>
+<revision>
+<id>54387540</id>
+<parentid>53946739</parentid>
+<timestamp>2019-09-29T04:15:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="671" xml:space="preserve">{{also|Yelper}}
+==English==
+===Etymology===
+From {{inh|en|enm|yelpere}}; equivalent to {{suffix|en|yelp|er|id2=agent noun}}.
+===Noun===
+{{en-noun}}
+# One who [[yelp]]s.
+#* {{quote-journal|en|date=July 21, 2009|author=Nate Chinen|title=Vocals That Deliver a Jolt, as ‘Ooh’ Morphs Into ‘Eh’|work=New York Times|url=http://www.nytimes.com/2009/07/21/arts/music/21dirty.html
+|passage=Mr. Longstreth, who can be a bit of a '''yelper''', sang sweetly, perhaps in search of contrast.}}
+# {{lb|en|UK|dialect}} The [[avocet]] (so-called from its sharp, shrill cry).
+# {{lb|en|US|dialect}} A bird, the [[tattler]].
+[[Category:en:Scolopacids]]
+[[Category:en:Shorebirds]]</text>
+<sha1>iukm0dq3yrnnsdbcbde6213j5l2x4g0</sha1>
+</revision>
+</page>

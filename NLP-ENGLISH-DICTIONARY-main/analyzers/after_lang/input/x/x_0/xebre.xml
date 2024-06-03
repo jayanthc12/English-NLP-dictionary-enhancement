@@ -1,0 +1,47 @@
+<page>
+<title>xebre</title>
+<ns>0</ns>
+<id>6851640</id>
+<revision>
+<id>68868647</id>
+<parentid>68856722</parentid>
+<timestamp>2022-08-28T05:57:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="607" xml:space="preserve">==Galician==
+===Etymology 1===
+From {{inh|gl|la|separ|t=separate, different}}.&lt;ref&gt;{{R:es:DCECH|parar}}&lt;/ref&gt;
+====Alternative forms====
+* {{alter|gl|xebro|t=boundary}}
+====Pronunciation====
+* {{IPA|gl|/ˈʃeβɾe̝/}}
+====Adjective====
+{{gl-adj|mf}}
+# [[net]], [[superior]]; [[strong]]
+# [[separated]]
+# [[unseasoned]]
+====Noun====
+{{gl-noun|m}}
+# [[boundary]]
+# [[part]] (hair)
+=====Related terms=====
+* {{l|gl|xebrar}}
+* {{l|gl|enxebre}}
+===Etymology 2===
+====Noun====
+{{gl-noun|f}}
+# {{alternative form of|gl|ceba}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>0wlginjvss9twtjylpaq0sgkvipy8b1</sha1>
+</revision>
+</page>

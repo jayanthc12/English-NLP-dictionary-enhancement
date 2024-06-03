@@ -1,0 +1,33 @@
+<page>
+<title>yarra</title>
+<ns>0</ns>
+<id>625713</id>
+<revision>
+<id>65071121</id>
+<parentid>62516958</parentid>
+<timestamp>2021-12-28T18:37:08Z</timestamp>
+<contributor>
+<username>Donnanz</username>
+<id>1154150</id>
+</contributor>
+<comment>{{also}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="527" xml:space="preserve">{{also|Yarra}}
+==Kaurna==
+===Noun===
+{{head|zku|noun}}
+# [[posterior]] part of the [[knee]], the [[popliteal]] space
+----
+==Woiwurrung==
+===Etymology===
+Related to {{cog|aus-cww-pro|*yarrañ||beard}} and {{cog|bdy|yarayn||beard}}.
+===Noun===
+{{head|wyi|noun}}
+# [[hair]]
+===References===
+* Barry J. Blake, ''Woiwurrung'', in ''The Aboriginal Language of Melbourne and Other Sketches'' (1991; edited by R. M. W. Dixon and Barry J. Blake; OUP, Handbook of Australian Languages 4), pages 31–124
+[[Category:wyi:Anatomy]]</text>
+<sha1>f7schl3cv3m7w816xmrvwq8ctf1lhl6</sha1>
+</revision>
+</page>

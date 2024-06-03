@@ -1,0 +1,38 @@
+<page>
+<title>yerno</title>
+<ns>0</ns>
+<id>92061</id>
+<revision>
+<id>68889354</id>
+<parentid>64460432</parentid>
+<timestamp>2022-08-28T08:54:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="621" xml:space="preserve">==Spanish==
+===Etymology===
+From {{inh|es|osp|yerno}}, from {{inh|es|la|generum}}, accusative singular of {{m|la|gener||son-in-law}}, from {{inh|es|ine-pro|*ǵm̥ros}}, from {{der|es|ine-pro|*ǵem-}}.
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-AdrianAbdulBaha-yerno.wav|Audio (Colombia)}}
+* {{rhymes|es|eɾno|s=2}}
+===Noun===
+{{es-noun|m|f=nuera}}
+# [[son-in-law]]
+====Derived terms====
+* {{l|es|proyerno||grandchild/son-in-law}}
+* {{l|es|abyerno||great-grandchild/son-in-law}}
+===See also===
+* {{l|es|nuera|g=f}}
+* {{l|es|suegro|g=m}}
+===Further reading===
+* {{R:es:DRAE}}
+{{C|es|Family members}}</text>
+<sha1>ewm9aztppws9zzb5lh9kt6tkw0ce5x8</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>xahcaltontli</title>
+<ns>0</ns>
+<id>4426919</id>
+<revision>
+<id>54617617</id>
+<parentid>51944899</parentid>
+<timestamp>2019-10-03T08:55:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}; move lang= to 1= in {{diminutive of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1261" xml:space="preserve">==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xacaltontli}} {{qualifier|obsolete spelling}}
+===Etymology===
+From {{suffix|nci|xahcalli|tōn|t1=thatch hut}}.
+===Pronunciation===
+* {{IPA|nci|[ʃaʔ.kaɬˈtoːn.t͡ɬi]}}
+===Noun===
+{{nci-noun|i|xahcaltōntli}}
+# {{diminutive of|nci|xahcalli}}; a small [[hut]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aquí comiença un vocabulario en la lengua castellana y mexicana|Aqui comienca vn vocabulario en la lengua castellana y mexicana]]'', f. 65v.
+#*: Choza. &amp;nbsp;'''xacaltontli'''.
+#*:: A hut. '''xacaltontli'''.
+#* '''1571''', ''Idem'', ''[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]'', f. 35v. col. 1.
+#*: Choça. '''xacaltontli'''.
+#*:: A hut. '''xacaltontli'''.
+#* ''Idem'', f. 150r. col. 1.
+#*: '''Xacaltontli'''.choçuela o bohío pequeño.
+#*:: '''Xacaltontli'''. a small hut or wooden shack.
+===References===
+* {{cite-book|author=[[w:Alonso de Molina|Alonso de Molina]]|year=1571|title=[[w:Vocabulario en lengua castellana y mexicana y mexicana y castellana|Vocabulario en lengua castellana y mexicana y mexicana y castellana]]|publisher=Editorial Porrúa|pages=35v, 150r}}</text>
+<sha1>dj3v3b6rznlhn65sti23cxec4cq1go6</sha1>
+</revision>
+</page>

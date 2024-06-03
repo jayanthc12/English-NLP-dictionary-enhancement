@@ -1,0 +1,25 @@
+<page>
+<title>xenophontischeren</title>
+<ns>0</ns>
+<id>6345427</id>
+<revision>
+<id>60516012</id>
+<parentid>58423949</parentid>
+<timestamp>2020-09-26T12:32:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}; convert {{head|de|adjective form}} to {{head|de|comparative adjective form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="169" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xenophontischeren.ogg|Audio}}
+===Adjective===
+{{head|de|comparative adjective form}}
+# {{de-adj form of|xenophontisch}}</text>
+<sha1>nmfs6b9jx79kakgy9pugyzdrk3ipvnv</sha1>
+</revision>
+</page>

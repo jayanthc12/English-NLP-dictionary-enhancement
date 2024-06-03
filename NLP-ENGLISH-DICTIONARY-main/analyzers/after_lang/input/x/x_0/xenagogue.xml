@@ -1,0 +1,29 @@
+<page>
+<title>xenagogue</title>
+<ns>0</ns>
+<id>456698</id>
+<revision>
+<id>65858813</id>
+<parentid>65386403</parentid>
+<timestamp>2022-02-18T16:15:20Z</timestamp>
+<contributor>
+<username>Notusbutthem</username>
+<id>3875519</id>
+</contributor>
+<comment>/* Pronunciation */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="350" xml:space="preserve">==English==
+===Etymology===
+From {{der|en|grc|ξένος||foreign}} + {{m|grc|ἀγωγός||guide}}.
+===Pronunciation===
+* {{IPA|en|/ˈzɛnəɡɒɡ/|/ˈziːnəɡɒɡ/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-xenagogue.wav|Audio (Berkshire, UK)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|rare}} A [[tour guide]].
+====Related terms====
+* {{l|en|xenagogy}}</text>
+<sha1>1m5pbd21wwqybztyatxu4pfpupg2awo</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yabili</title>
+<ns>0</ns>
+<id>5857750</id>
+<revision>
+<id>64062944</id>
+<parentid>63515688</parentid>
+<timestamp>2021-09-29T11:05:53Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Pronunciation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="332" xml:space="preserve">==Gamilaraay==
+[[File:Kiss - Hiro at the Maritime Hotel.jpg|thumb|yabili]]
+===Pronunciation===
+* {{IPA|kld|/ˈjabili/}}
+===Verb===
+{{head|kld|verb}}
+# [[kiss]]
+# [[twist]], [[plait]]
+===References===
+* (2003) Gamilaraay Yuwaalaraay Yuwaalayaay Dictionary
+* (2015) “Ma Gamilaraay”
+[[Category:Gamilaraay verbs ending in -li]]</text>
+<sha1>5iz010ixtyo3iscidq1iq7w27jxoxku</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yermado</title>
+<ns>0</ns>
+<id>6522236</id>
+<revision>
+<id>68402823</id>
+<parentid>68276051</parentid>
+<timestamp>2022-07-19T08:47:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Spanish past participles (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="114" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Participle===
+{{es-past participle}}
+# {{es-verb form of|yermar}}</text>
+<sha1>g5jjo3u1rxe1by7k55oessus6dlaybz</sha1>
+</revision>
+</page>

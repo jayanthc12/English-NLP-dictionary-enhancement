@@ -1,0 +1,29 @@
+<page>
+<title>ydinaine</title>
+<ns>0</ns>
+<id>4618934</id>
+<revision>
+<id>69318108</id>
+<parentid>52039466</parentid>
+<timestamp>2022-09-18T17:00:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="511" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|aine}}
+===Pronunciation===
+{{fi-p|ydin-aine*}}
+===Noun===
+{{fi-noun}}
+# [[core]] [[material]]
+# {{lb|fi|legal}} [[nuclear]] [[material]] {{gloss|[[nuclear fuel]], except [[natural uranium]] and [[depleted uranium]], and any [[radioactive]] product, except [[radioisotopes]], which are used or are in a condition to be used for industrial, commercial, agricultural, medicinal, scientific or educational purpose}}
+====Declension====
+{{fi-decl-hame|ydinain|||a}}</text>
+<sha1>57qj6jogenxs0a3fvkuv8r220dgacwi</sha1>
+</revision>
+</page>

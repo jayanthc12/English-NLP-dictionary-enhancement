@@ -1,0 +1,35 @@
+<page>
+<title>yae</title>
+<ns>0</ns>
+<id>5712807</id>
+<revision>
+<id>68843846</id>
+<parentid>65377654</parentid>
+<timestamp>2022-08-28T01:32:12Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="418" xml:space="preserve">{{also|Yae|ya'e|-yä}}
+==English==
+===Noun===
+{{en-noun}}
+# The [[Korean]] [[vowel]] [[ㅒ]].
+# The [[Cyrillic]] [[letter]] [[Ԙ]] (capital), [[ԙ]] (lower case), a [[ligature]] of [[Я]] and [[Е]].
+===Anagrams===
+* {{anagrams|en|a=aey|Aye|aye|yea}}
+{{c|en|Cyrillic letter names|Korean letter names}}
+----
+==Scots==
+===Numeral===
+{{head|sco|numeral}}
+# {{alt form|sco|ae}}
+===References===
+* {{R:DSL|pos=adj}}</text>
+<sha1>hoz489lo65o2cprcbl0b1hkbzve07au</sha1>
+</revision>
+</page>

@@ -1,0 +1,33 @@
+<page>
+<title>xenogeneic</title>
+<ns>0</ns>
+<id>881046</id>
+<revision>
+<id>61294798</id>
+<parentid>49753633</parentid>
+<timestamp>2020-12-12T18:47:48Z</timestamp>
+<contributor>
+<username>BaptisteGrandGrand</username>
+<id>1041910</id>
+</contributor>
+<comment>/* Adjective */ Quotation</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="827" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|geneic}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|genetics}} Derived from a different [[species]] and therefore [[genetically]] and [[immunologically]] [[incompatible]]
+#* {{quote-journal|1=en|year=2000|author=Kanazawa A.|author2=Platt J.L.|title= Prospects for xenotransplantation of the liver |journal=Seminars in liver disease|doi=10.1055/s-2000-13159|text=Among the types of [[xenograft|xenografts]] that might be undertaken are [[extracorporeal]] &quot;xenoperfusion&quot; or perfusion of devices containing '''xenogeneic''' [[hepatocytes]], auxiliary liver transplants, bridge liver transplants, and hepatocyte transplants.}}
+====Derived terms====
+* [[nonxenogeneic]]
+* [[xenogeneic transplantation]]
+====See also====
+* [[allogeneic]]
+* [[autologous]]
+* [[syngeneic]]
+* [[xenogenic]]</text>
+<sha1>2esr0dxsy73mw9daftn2yfxci6lwt2v</sha1>
+</revision>
+</page>

@@ -1,0 +1,66 @@
+<page>
+<title>yarak</title>
+<ns>0</ns>
+<id>211327</id>
+<revision>
+<id>69364606</id>
+<parentid>68773000</parentid>
+<timestamp>2022-09-23T19:17:20Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1963" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|fa|یارکی||power, strength, ability, boldness|tr=yârakî}}.
+===Pronunciation===
+* {{IPA|en|/ˈja.ɹak/|||qual1=General American}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|falconry}} A super-alert state where the bird is hungry, but not weak, with a trance like state of alertness and ready to [[hunt]].
+#* {{quote-book|en|author=T[erence] H[anbury] White|authorlink=T. H. White|chapter=II|title={{w|The Once and Future King}}|location=New York, N.Y.|publisher={{w|G. P. Putnam's Sons}}|year=1958|section=book I (''The Sword in the Stone'')|isbn=978-0-399-10597-5|passage=Kay began walking off in the wrong direction, raging in his heart because he knew that he had flown the bird when he was not properly in '''yarak''', and the Wart had to shout after him the right way.}}
+----
+==Kalasha==
+===Etymology===
+Ultimately borrowed from Old Turkic [[𐰖𐰺𐰴]]‎ (yarak, “weapon”), from [[yar#Old Turkic|yar]]‎ (yar, “to split in two”) +‎ [[-ak#Old Turkic|-ak]]‎ (-ak).
+===Noun===
+{{head|kls|noun}}
+# [[weapons]]
+====Synonyms====
+* {{l|kls|wasila}}
+====Related terms====
+* {{l|kls|badok}} 'axe'
+* {{l|kls|polat}} 'battle axe'
+* {{l|kls|tupanca}} 'revolver'
+* {{l|kls|tupec}} 'gun'
+* {{l|kls|rapal}} 'gun'
+* {{l|kls|tup}} 'cannon'
+* {{l|kls|politai}} 'rifle'
+* {{l|kls|mukai}} 'shotgun'
+* {{l|kls|gorai}} 'repeating rifle'
+* {{l|kls|yawbani}} 'single-shot rifle'
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|ياراق|tr=yarak|t=weapon}}, from {{der|tr|otk|𐰖𐰺𐰴|tr=yarak|t=weapon}}, from {{compound|otk|yar|-ak|t1=to split in two|nocat=1}}.
+===Pronunciation===
+* {{IPA|tr|[jɑˈɾɑk]|[jɑˈɾːɑk]}}
+===Noun===
+{{tr-noun|yarağı|lar}}
+# {{lb|tr|archaic}} [[weapon]]
+# {{lb|tr|vulgar}} [[penis]]
+====Declension====
+{{tr-infl-noun-c|a|stem=yarağ|poss=1}}
+====Synonyms====
+* {{l|tr|sik}}
+====See also====
+* {{l|tr|penis}}
+* {{l|tr|taşak}}
+* {{l|tr|pipi}}
+* {{l|tr|çük}}</text>
+<sha1>t4fbitvioq2xzaq7kf0j0uikrkq26cl</sha1>
+</revision>
+</page>

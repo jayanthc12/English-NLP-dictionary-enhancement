@@ -1,0 +1,35 @@
+<page>
+<title>Xylopolis</title>
+<ns>0</ns>
+<id>6261355</id>
+<revision>
+<id>53835168</id>
+<parentid>53823267</parentid>
+<timestamp>2019-08-07T01:57:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Replaced &lt;{{la-proper noun|Xylopolis&lt;3&gt;|g=f}}&gt; with &lt;{{la-proper noun|Xylopolis&lt;3&gt;}}&gt; (manually remove |g=f from -polis cities and 4th decl -ō nouns (it's now the default))</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="360" xml:space="preserve">==Latin==
+===Etymology===
+From {{der|la|grc|Ξυλόπολις}}.
+===Pronunciation===
+* {{la-IPA}}
+===Proper noun===
+{{la-proper noun|Xylopolis&lt;3&gt;}}
+# A town of [[Mygdonia]]
+====Declension====
+{{la-ndecl|Xylopolis&lt;3&gt;}}
+====Related terms====
+* {{l|la|Xylopolītae}}
+===References===
+* {{R:Smith's Geography}}
+[[Category:la:Greece]]
+[[Category:la:Towns]]</text>
+<sha1>ao7qn9frwr028cr6bezrqr710zi1aa1</sha1>
+</revision>
+</page>

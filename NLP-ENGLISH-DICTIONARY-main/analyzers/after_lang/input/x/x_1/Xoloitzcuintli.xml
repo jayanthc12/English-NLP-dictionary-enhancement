@@ -1,0 +1,41 @@
+<page>
+<title>Xoloitzcuintli</title>
+<ns>0</ns>
+<id>1869932</id>
+<revision>
+<id>69611513</id>
+<parentid>69611460</parentid>
+<timestamp>2022-10-28T17:10:57Z</timestamp>
+<contributor>
+<username>Hekaheka</username>
+<id>25987</id>
+</contributor>
+<comment>/* Translations */ trans-see</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1165" xml:space="preserve">{{also|xoloitzcuintli}}
+==English==
+{{slim-wikipedia}}
+===Alternative forms===
+* {{l|en|Xoloitzcuintle}}
+===Etymology===
+Through {{uder|en|es|-}} from {{uder|en|nci|xoloitzcuintli||lit=dog of [[w:Xolotl|Xolotl]]}}.
+===Pronunciation===
+* {{a|US}} {{IPA|en|/ˌʃoʊ.loʊ.ɪtsˈkwɪn.tli/}}
+===Noun===
+{{en-noun|Xoloitzcuintli}}
+# A breed of [[dog]], the [[Mexican Hairless]].
+#* '''1991''', Guillermo García Oropeza, ''Perros en las tumbas de Colima''
+#*: Whoever has petted a hairless dog will verify that these wrinkles are produced by a lack of hair, especially among the pups of the '''xoloitzcuintli'''.
+#* {{quote-book|en|year=2005|author=Eduardo Kac|title=Telepresence and bio art: networking humans, rabbits, and robots|passage=The Mexican '''xoloitzcuintli''' (or xolo) is a likely GFP K-9 breed (fig. 77).}}
+#* '''2005''', Kent V Flannery, Joyce Marcus, ''Excavations at San José Mogote 1: the household archaeology''
+#*: Owing to its hairless condition, the '''xoloitzcuintli''' visibly perspires...
+====Synonyms====
+* {{l|en|Mexican hairless}}
+* {{l|en|Xolo}}
+====Translations====
+{{trans-see|breed of dog|Mexican hairless}}
+[[Category:en:Dogs]]</text>
+<sha1>4o30e4a3e1oixmp37al5bx99s6d4bzr</sha1>
+</revision>
+</page>

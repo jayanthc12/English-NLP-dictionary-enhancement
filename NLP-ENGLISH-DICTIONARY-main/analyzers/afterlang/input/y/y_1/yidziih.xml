@@ -1,0 +1,39 @@
+<page>
+<title>yidziih</title>
+<ns>0</ns>
+<id>4688016</id>
+<revision>
+<id>69320033</id>
+<parentid>46218441</parentid>
+<timestamp>2022-09-18T18:41:28Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="934" xml:space="preserve">==Navajo==
+===Etymology===
+{{nv-prefixes|y-peg|3s|d}} {{nv-link-to-stem|-dziih}} {{nv-link-to-root|-DZÍÍʼ|remain}}.
+===Verb===
+{{head|nv|verb}}
+# {{qualifier|intransitive}} he/she has [[survive#Verb|survived]], [[remain#Verb|remains]], is [[leave#Verb|left]]
+# {{qualifier|transitive}} he/she has [[leave#Verb|left]], [[remain#Verb|remaining]]
+====Conjugation====
+{{nv-paradigm|momentaneous|∅/yi}}.
+{{nv-verbtable|IMPERFECTIVE
+|yisdziih|yiidziih|deiidziih|nidziih|wohdziih|daahdziih|yidziih|—|jidziih|dajidziih}}
+{{nv-verbtable|PERFECTIVE
+|yisdzííʼ|yiidzííʼ|deiidzííʼ|yínídzííʼ|woohdzííʼ|daoohdzííʼ|[[yidzííʼ]] / [[yoodzííʼ]] (?) |—|joodzííʼ|dajoodzííʼ}}
+{{nv-verbtable|FUTURE
+|deesdzih|diidzih|dadiidzih|díídzih|doohdzih|dadoohdzih|—|—|jidoodzih|dazhdoodzih}}
+====Verbal stems====
+* IMPERFECTIVE: -dziih
+* PERFECTIVE: -dzííʼ
+* FUTURE: -dzih
+* ITERATIVE: -dzih
+* OPTATIVE: -dziih</text>
+<sha1>2pv1r3erkuhbwg5gp5o6iyv805fm0nz</sha1>
+</revision>
+</page>

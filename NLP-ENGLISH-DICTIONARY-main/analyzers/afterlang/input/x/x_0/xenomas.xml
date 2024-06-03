@@ -1,0 +1,30 @@
+<page>
+<title>xenomas</title>
+<ns>0</ns>
+<id>1611615</id>
+<revision>
+<id>62899240</id>
+<parentid>55693577</parentid>
+<timestamp>2021-06-18T03:41:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Galician plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="213" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenoma}}
+===Anagrams===
+* {{anagrams|en|a=aemnosx|Sexmoan|mesaxon}}
+----
+==Galician==
+===Noun===
+{{head|gl|noun form}}
+# {{plural of|gl|xenoma}}</text>
+<sha1>eb8dem5xsid056xsszyvxd0clvpvgnb</sha1>
+</revision>
+</page>

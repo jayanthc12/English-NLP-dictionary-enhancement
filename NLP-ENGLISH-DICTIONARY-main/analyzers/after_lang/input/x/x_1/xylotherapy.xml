@@ -1,0 +1,26 @@
+<page>
+<title>xylotherapy</title>
+<ns>0</ns>
+<id>4977027</id>
+<revision>
+<id>51815809</id>
+<parentid>44261778</parentid>
+<timestamp>2019-03-14T10:14:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="233" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xylo|therapy}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|medicine|historical}} A [[treatment]] of [[disease]] by applying [[wood]] to the surface of the body.
+[[Category:English 5-syllable words]]</text>
+<sha1>itgtxy2nz10g1w2gzsi33sm9d8hsdht</sha1>
+</revision>
+</page>

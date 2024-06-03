@@ -1,0 +1,25 @@
+<page>
+<title>yeomanerie</title>
+<ns>0</ns>
+<id>6362520</id>
+<revision>
+<id>67053037</id>
+<parentid>47354805</parentid>
+<timestamp>2022-05-17T11:16:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{suffix}} to {{af}}; misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">==French==
+===Etymology===
+{{af|fr|yeoman|-erie}}
+===Noun===
+{{fr-noun|f}}
+# [[yeomanry]]</text>
+<sha1>sbxpji8pjf256oetr9ufl456r8ojdsp</sha1>
+</revision>
+</page>

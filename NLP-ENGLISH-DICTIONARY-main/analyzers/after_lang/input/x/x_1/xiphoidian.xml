@@ -1,0 +1,28 @@
+<page>
+<title>xiphoidian</title>
+<ns>0</ns>
+<id>3035388</id>
+<revision>
+<id>64460210</id>
+<parentid>63428164</parentid>
+<timestamp>2021-10-28T12:18:13Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="429" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xiphoid|ian}}
+===Pronunciation===
+* {{rhymes|en|ɔɪdiən|s=4}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|anatomy|rare}} [[xiphoid]]
+#* '''1936''', Louis Hamman, ''International Clinics: A Quarterly of Illustrated Clinical Lectures''
+#*: ...the deep '''xiphoidian''' para-umbilical vein which anastomoses the umbilical circulation, tributary of the portal vein to the xiphoidian plexus...</text>
+<sha1>4i1b4bd7ozanuowru5aq703oqb2aqgl</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>xadrezista</title>
+<ns>0</ns>
+<id>4579904</id>
+<revision>
+<id>69232515</id>
+<parentid>69217334</parentid>
+<timestamp>2022-09-11T11:48:07Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="302" xml:space="preserve">==Portuguese==
+===Etymology===
+From {{affix|pt|xadrez|-ista}}.
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xa|dre|zis|ta}}
+===Noun===
+{{pt-noun|mfbysense}}
+# [[chess player]] {{gloss|person who plays chess}}
+#: {{syn|pt|enxadrista|q1=Brazil}}
+====Related terms====
+* {{l|pt|xadrez}}
+{{C|pt|Chess}}</text>
+<sha1>mkp7thtoblf0l4qv53nf8huyn3tos21</sha1>
+</revision>
+</page>

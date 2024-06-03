@@ -1,0 +1,30 @@
+<page>
+<title>yetts</title>
+<ns>0</ns>
+<id>784183</id>
+<revision>
+<id>55441035</id>
+<parentid>53093139</parentid>
+<timestamp>2019-10-15T01:09:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="215" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yett}}
+===Anagrams===
+* {{anagrams|en|a=estty|Setty|testy|tyets}}
+----
+==Scots==
+===Noun===
+{{head|sco|noun plural form}}
+# {{plural of|sco|yett}}</text>
+<sha1>08ft1ldsi9tycw8ju5ynn22j6wroijq</sha1>
+</revision>
+</page>

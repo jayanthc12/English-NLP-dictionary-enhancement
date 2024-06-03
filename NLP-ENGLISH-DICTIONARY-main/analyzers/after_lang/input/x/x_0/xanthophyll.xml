@@ -1,0 +1,29 @@
+<page>
+<title>xanthophyll</title>
+<ns>0</ns>
+<id>95527</id>
+<revision>
+<id>54780167</id>
+<parentid>53164035</parentid>
+<timestamp>2019-10-06T10:40:14Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="439" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{af|en|xantho-|-phyll}}.
+===Noun===
+{{en-noun|~}}
+# {{lb|en|organic chemistry|countable}} Any of various [[hydroxy]], [[carbonyl]] or [[carboxylic acid]] derivatives of [[carotene]]s.
+# {{lb|en|organic compound|uncountable}} [[lutein|Lutein]].
+====Synonyms====
+* {{sense|class of compounds derived from carotenes}} {{l|en|phylloxanthin}}
+* {{sense|the specific compound}} {{l|en|lutein}}</text>
+<sha1>po49wkoa93wspwuvmv8pgfqd908oyjn</sha1>
+</revision>
+</page>

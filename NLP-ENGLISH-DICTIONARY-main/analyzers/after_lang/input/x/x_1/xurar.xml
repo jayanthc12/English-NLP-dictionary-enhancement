@@ -1,0 +1,57 @@
+<page>
+<title>xurar</title>
+<ns>0</ns>
+<id>4126214</id>
+<revision>
+<id>68864756</id>
+<parentid>68863888</parentid>
+<timestamp>2022-08-28T05:30:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1319" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|jūrāre}}, {{m|la|iūrāre}}, present active infinitive of {{m|la|iūrō||I swear}}.
+===Verb===
+{{ast-verb}}
+# to [[swear]] {{gloss|promise}}
+====Conjugation====
+{{ast-conj-ar|xur}}
+====Related terms====
+* {{l|ast|xuru}}
+* {{l|ast|xuramentu}}
+----
+==Galician==
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jurar}}, from {{inh|gl|la|jūrāre}}, {{m|la|iūrāre}}, present active infinitive of {{m|la|iūrō||I swear}}.
+===Pronunciation===
+* {{IPA|gl|[ʃuˈɾaɾ]}}
+===Verb===
+{{gl-verb|xur|ar}}
+# to [[swear]] {{gloss|to promise}}
+#* '''1252''', J. I. Fernández de Viana et al. (eds.), &quot;El Tumbo de Caaveiro. 2ª Parte&quot;, in ''Cátedra (Revista eumesa de estudios)'', 4, page 353:
+#*: ''Et don Rodrigo chamou ante sy ós omes boos e fézoos '''jurar''' en santos evangeus que soubessen verdade''
+#*:: And Don Rodrigo called before him the good men and made them '''swear''' on the Holy Gospels for knowing the truth
+# to [[swear]] {{gloss|to use offensive, profane, or obscene language}}
+====Conjugation====
+{{gl-conj-ar|xur}}
+====Related terms====
+* {{l|gl|xurado}}
+* {{l|gl|xurador}}
+* {{l|gl|xuramento}}
+====Further reading====
+* {{R:RAG}}
+===References===
+* {{R:gl:DDGM|jurar}}
+* {{R:gl:CX|jurar}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}</text>
+<sha1>5wruf6m27sy9mpg9rxkbbxx234lhhz3</sha1>
+</revision>
+</page>

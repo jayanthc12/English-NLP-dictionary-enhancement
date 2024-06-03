@@ -1,0 +1,25 @@
+<page>
+<title>xeromorfismo</title>
+<ns>0</ns>
+<id>1921140</id>
+<revision>
+<id>51980755</id>
+<parentid>39377066</parentid>
+<timestamp>2019-03-18T00:12:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="119" xml:space="preserve">==Italian==
+===Etymology===
+{{confix|it|xero|morfismo}}
+===Noun===
+{{it-noun|m}}
+# {{lb|it|botany}} [[xeromorphism]]</text>
+<sha1>boaj73014n55ftq5s4b4o965b1arqg1</sha1>
+</revision>
+</page>

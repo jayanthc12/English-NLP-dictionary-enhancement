@@ -1,0 +1,36 @@
+<page>
+<title>xabardo</title>
+<ns>0</ns>
+<id>7131574</id>
+<revision>
+<id>68870091</id>
+<parentid>68856960</parentid>
+<timestamp>2022-08-28T06:04:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1061" xml:space="preserve">==Galician==
+{{was fwotd|gl|2019|April|24}}
+===Etymology===
+{{unk|gl|title=Obscure}}; perhaps from {{m|gl||*enxamardo}}, from {{affix|gl|enxame|t1=swarm|-ardo|nocat=1}}, or a derivation of {{m|gl|xebrar|t=to separate}}. Alternatively from {{der|gl|qfa-sub-ibe}}. Compare {{cog|es|jabardo|t=swarm}} and the dialectal {{cog|pt|javardo|t=boar}}, which is probably unrelated.&lt;ref&gt;{{R:es:DCECH|jabardo}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|gl|[ʃaˈβaɾðʊ]}}
+===Noun===
+{{gl-noun|m}}
+# a small swarm; in particular, an [[afterswarm]] {{gloss|the second, smaller swarm that leaves the hive in a year}}
+#* '''2015''', Marcelino Salgueiro, ''Volframio, música e profecías'', Meubook, [https://books.google.com/books?id=kF4uDwAAQBAJ&amp;pg=PA33&amp;dq=%22xabardo%22#v=onepage page 33]:
+#*: {{...}}, ou o pousar dun '''xabardo''' nun castiñeiro covo—fendido por un raio—, {{...}}
+#*:: {{...}}, or the landing of an '''afterswarm''' on a hollow chestnut—cracked by a lightning—, {{...}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>9z6qoen3ku56404yzt3ogo8hh8xibum</sha1>
+</revision>
+</page>

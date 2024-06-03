@@ -1,0 +1,44 @@
+<page>
+<title>yanmak</title>
+<ns>0</ns>
+<id>1551006</id>
+<revision>
+<id>69367990</id>
+<parentid>67203551</parentid>
+<timestamp>2022-09-24T10:55:06Z</timestamp>
+<contributor>
+<username>Cat234971</username>
+<id>3962891</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2008" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یانمق|tr=yanmak||to be burnt, suffer}}, from {{der|tr|trk-pro|*yan-||to burn (intr.), blaze up}}.&lt;ref&gt;{{R:tut-pro:SDM|*jan-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+151&amp;root=config}}&lt;/ref&gt;
+Cognate with {{cog|xqa||tr=yan-||to burn}}, {{cog|az|-}}, {{cog|crh|yanmaq||to burn}}, {{cog|ba|яныу||to burn}}, {{cog|cv|ҫунма||to burn, shine, worry, suffer}}, {{cog|kk|жану||to burn}}, {{cog|ky|жануу||to burn}}, {{cog|tk|ýanmak||to be burnt}}, {{cog|uz|yonmoq||to ignite, glow}}, {{cog|sah|сандаар||to shine}} (&lt; caus. *jan-tɨr-).
+===Pronunciation===
+* {{IPA|tr|/jɑnˈmɑk/}}
+===Verb===
+{{tr-verb|yanar}}
+# {{lb|tr|intransitive}} to [[burn]], be on [[fire]]; to [[burn up]], [[burn down]]
+# {{lb|tr|intransitive}} to be [[burned]], [[scorched]], or [[singed]]; to get a burn or [[scald]]; to get [[sunburned]]
+# {{lb|tr|intransitive|for a place}} to be [[blazing]] [[hot]], be hot as blazes
+# {{lb|tr|intransitive}} to have [[fever]], be [[feverish]]
+# {{lb|tr|intransitive}} to [[smart]], [[suffer]]
+# {{lb|tr|intransitive}} to be in a [[bad]] [[predicament]], be [[sunk]], be [[done]] for, have had it; to get it in the neck; to be in the soup
+# {{lb|tr|intransitive}} to [[expire]]; to become [[void]]
+# {{lb|tr|intransitive|child language}} to be [[out]], be [[eliminated]]
+## {{lb|tr|intransitive|child language|video games}} to [[die]], to [[lose]]
+##: {{ux|tr|Sen '''yanınca''' sıra kardeşinde.|Your little brother will start playing '''when you lose'''.}}
+# {{lb|tr|intransitive|with dative case}} to feel great [[sadness]] (at); to feel [[bitter]] [[regret]] (for)
+# {{lb|tr|intransitive}} to be burning (with an emotion, a feeling), to have a burning desire (for).
+====Conjugation====
+{{tr-conj|yan|ı|yanar|a|d}}
+====Derived terms====
+{{der4|tr|yanma|yanış|yanar|yanıcı|yanık|yangı|yandırmak|yanamamak|yanabilmek}}
+===References===
+&lt;references/&gt;</text>
+<sha1>qba66lz7wi02mqrcqm0bsxtandfdr0v</sha1>
+</revision>
+</page>

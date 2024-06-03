@@ -1,0 +1,26 @@
+<page>
+<title>yeuseraie</title>
+<ns>0</ns>
+<id>6363726</id>
+<revision>
+<id>55002287</id>
+<parentid>54578590</parentid>
+<timestamp>2019-10-11T05:25:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}; move lang= to 1= in {{alternative form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-yeuseraie.wav|Audio}}
+===Noun===
+{{fr-noun|f}}
+# {{alternative form of|fr|yeusaie}}</text>
+<sha1>fuc5qwca8qg9heqshd9gd2mln7q14gs</sha1>
+</revision>
+</page>

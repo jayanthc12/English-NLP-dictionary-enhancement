@@ -1,0 +1,26 @@
+<page>
+<title>xenophobian</title>
+<ns>0</ns>
+<id>4184777</id>
+<revision>
+<id>68820224</id>
+<parentid>60844781</parentid>
+<timestamp>2022-08-27T21:20:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace 3+ newlines with 2</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|rare}} A [[xenophobe]]; one who is [[xenophobic]].
+====Synonyms====
+* {{l|en|xenophobiac}}
+[[Category:en:People]]</text>
+<sha1>0wl6jdnu1w33i0gzwfno04c4364hacq</sha1>
+</revision>
+</page>

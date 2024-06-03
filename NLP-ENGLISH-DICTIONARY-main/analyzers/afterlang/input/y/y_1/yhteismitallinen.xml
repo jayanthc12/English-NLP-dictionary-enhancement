@@ -1,0 +1,33 @@
+<page>
+<title>yhteismitallinen</title>
+<ns>0</ns>
+<id>1482739</id>
+<revision>
+<id>69318454</id>
+<parentid>69266641</parentid>
+<timestamp>2022-09-18T17:19:04Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="518" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|mitta|-llinen|t1=common|t2=measure}}
+===Pronunciation===
+{{fi-p|yhteis-mitallinen}}
+===Adjective===
+{{fi-adj|yhteismitallis|empi|in}}
+# [[commensurable]] {{gloss|able to be measured using a common standard}}
+# [[commensurate]], [[proportionate]], commensurable {{gloss|related in size or scale}}
+====Declension====
+{{fi-decl-nainen|pos=adj|yhteismitalli|a}}
+====Antonyms====
+* {{l|fi|yhteismitaton}}
+====Derived terms====
+* {{l|fi|yhteismitallisuus}}</text>
+<sha1>jjtygw3cup231rb5w0dlnoh9j7ngfg2</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xigantescas</title>
+<ns>0</ns>
+<id>1600717</id>
+<revision>
+<id>56963927</id>
+<parentid>39076666</parentid>
+<timestamp>2019-10-19T06:17:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">==Galician==
+===Adjective===
+{{head|gl|adjective form|g=f-p}}
+# {{inflection of|gl|xigantesco||f|p}}</text>
+<sha1>61x6i4zqbvsii13mg08hq736k8unylv</sha1>
+</revision>
+</page>

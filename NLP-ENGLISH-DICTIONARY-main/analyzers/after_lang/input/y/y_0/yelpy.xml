@@ -1,0 +1,27 @@
+<page>
+<title>yelpy</title>
+<ns>0</ns>
+<id>1539574</id>
+<revision>
+<id>50833908</id>
+<parentid>47143286</parentid>
+<timestamp>2018-11-26T23:01:35Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yelp|y}}
+===Adjective===
+{{en-adj|er}}
+# Prone to [[yelp]].
+===Anagrams===
+* {{anagrams|en|a=elpyy|yeply}}</text>
+<sha1>oe4cd5mahs1g44tzbrpmu07z9vdtbbc</sha1>
+</revision>
+</page>

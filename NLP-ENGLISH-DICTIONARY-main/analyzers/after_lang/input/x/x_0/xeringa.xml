@@ -1,0 +1,44 @@
+<page>
+<title>xeringa</title>
+<ns>0</ns>
+<id>3700563</id>
+<revision>
+<id>67448682</id>
+<parentid>67399996</parentid>
+<timestamp>2022-06-20T14:36:13Z</timestamp>
+<contributor>
+<username>Vriullop</username>
+<id>62029</id>
+</contributor>
+<comment>/* Catalan */ fix doublet</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="623" xml:space="preserve">==Asturian==
+===Pronunciation===
+{{ast-IPA}}
+===Noun===
+{{ast-noun|f|xeringues}}
+# [[syringe]]
+----
+==Catalan==
+===Etymology===
+From {{der|ca|ML.|syringa}}, from {{der|ca|grc|σῦριγξ|t=pipe, syrinx}}. {{doublet|ca|siringa}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|f}}
+# [[syringe]]
+# {{lb|ca|colloquial}} [[garden hose]], [[firehose]]
+#: {{syn|ca|mànega}}
+# {{lb|ca|botany}} [[squirting cucumber]] {{gloss|[[Ecballium elaterium]]}}
+#: {{syn|ca|cogombre salvatge}}
+===See also===
+* {{l|ca|injecció}} {{g|f}}
+----
+==Galician==
+===Noun===
+{{gl-noun|f}}
+# {{alternative form of|gl|xiringa}}</text>
+<sha1>pgrizk473dnjdtmwqomx1p7pfkski2w</sha1>
+</revision>
+</page>

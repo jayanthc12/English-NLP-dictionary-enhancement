@@ -1,0 +1,41 @@
+<page>
+<title>yeanling</title>
+<ns>0</ns>
+<id>283365</id>
+<revision>
+<id>59316708</id>
+<parentid>55113128</parentid>
+<timestamp>2020-05-07T19:22:54Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1050" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|eanling}}
+===Etymology===
+From {{suffix|en|yean|ling}}.
+===Noun===
+{{en-noun}}
+# The newly born [[offspring]] of a [[goat]] or [[sheep]].
+#* '''1886''', [[w:Anna Swanwick|Anna Swanwick]] (translator), ''[[s:Dramas of Aeschylus (Swanwick)|The Dramas of Aeschylus]]'', 4th edition, ''[[s:Dramas of Aeschylus (Swanwick)/Eumenides|Eumenides]]'', page 183, lines 903–904
+#*: But in due season here may flocks of worth
+#*:: Twin '''yeanlings''' bear;
+====Translations====
+{{trans-top|the newly born offspring of a goat or sheep}}
+* Polish: {{t+|pl|jagnię|n}}, {{t+|pl|owieczka|f}}
+* Romanian: {{t+|ro|ied|m}} {{qualifier|goat}}, {{t+|ro|iadă|f}} {{qualifier|goat}}, {{t+|ro|miel|m}} {{qualifier|sheep}}, {{t+|ro|mioară|f}} {{qualifier|sheep}}
+{{trans-mid}}
+* Russian: {{t+|ru|козлёнок|m}} {{qualifier|goat}}, {{t+|ru|ягнёнок|m}} {{qualifier|sheep}}
+* Slovak: {{t|sk|jahňa|n}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=aegilnny|Lingayen|enlaying}}
+[[Category:en:Baby animals]]</text>
+<sha1>mkeqjebccq0wenxadpn7xg2ec4ge0bj</sha1>
+</revision>
+</page>

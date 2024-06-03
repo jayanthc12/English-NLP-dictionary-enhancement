@@ -1,0 +1,28 @@
+<page>
+<title>xofar</title>
+<ns>0</ns>
+<id>5876958</id>
+<revision>
+<id>69401650</id>
+<parentid>66572712</parentid>
+<timestamp>2022-09-30T03:39:56Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="313" xml:space="preserve">==Catalan==
+[[File:Liten askenasisk sjofar 5380.jpg|thumb|Xofar]]
+===Etymology===
+From the {{bor|ca|he|שׁוֹפָר|tr=shofár||shofar|sc=Hebr}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# {{l|en|shofar}} {{gloss|ram's horn trumpet used in Jewish rituals}}
+{{C|ca|Judaism|Wind instruments}}</text>
+<sha1>g36o2rt0moa1u7si2ltwi3f7jkt8f1a</sha1>
+</revision>
+</page>

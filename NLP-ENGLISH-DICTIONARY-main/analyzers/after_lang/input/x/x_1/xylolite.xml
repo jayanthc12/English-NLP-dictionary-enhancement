@@ -1,0 +1,29 @@
+<page>
+<title>xylolite</title>
+<ns>0</ns>
+<id>4783201</id>
+<revision>
+<id>60211797</id>
+<parentid>44200585</parentid>
+<timestamp>2020-09-01T21:33:50Z</timestamp>
+<contributor>
+<username>DTLHS</username>
+<id>794618</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="476" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xylo|lite}}
+===Noun===
+{{en-noun}}
+# A compressed [[wood]] product used for flooring.
+#* {{quote-book|en|title=Building Materials|page=212|author=V. A. Vorobyev|year=1965|passage=The base of a '''xylolite''' floor must be free from lime, slag, gypsum and other materials reacting with magnesia-binding agents.}}
+====Translations====
+{{trans-top|compressed wood product}}
+* Italian: {{t|it|xilolite|f}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>4m1q8r7r5zt6sylssle07x8opt9tl02</sha1>
+</revision>
+</page>

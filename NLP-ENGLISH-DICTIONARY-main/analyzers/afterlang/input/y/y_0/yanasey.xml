@@ -1,0 +1,26 @@
+<page>
+<title>yanasey</title>
+<ns>0</ns>
+<id>1108205</id>
+<revision>
+<id>15631742</id>
+<parentid>4723183</parentid>
+<timestamp>2011-12-31T15:43:02Z</timestamp>
+<contributor>
+<username>MglovesfunBot</username>
+<id>264304</id>
+</contributor>
+<minor />
+<comment>bot: bypassing template redirects, minor spacing using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="120" xml:space="preserve">==Sranan Tongo==
+===Adverb===
+{{head|srn|adverb}}
+# [[yonder]]
+===Determiner===
+{{head|srn|determiner}}
+# [[yonder]]</text>
+<sha1>p57cfjy08t2n9dpvjk56q1dtb1dp0gg</sha1>
+</revision>
+</page>

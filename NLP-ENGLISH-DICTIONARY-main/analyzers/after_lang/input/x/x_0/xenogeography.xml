@@ -1,0 +1,29 @@
+<page>
+<title>xenogeography</title>
+<ns>0</ns>
+<id>6090596</id>
+<revision>
+<id>61119120</id>
+<parentid>42640363</parentid>
+<timestamp>2020-11-14T08:53:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="738" xml:space="preserve">==English==
+===Etymology===
+{{af|en|xeno-|geography}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|rare|science fiction}} The [[study]] of [[exoplanet]] [[geography]].
+#* '''2009''', Margaret Weis, Tracy Hickman, ''Nightsword: A Starshield Novel''
+#*: He found the relaxed atmosphere fresh and exciting and actually began to excel in many areas of flight systems, propulsion, and even '''xenogeography'''.
+#* '''2016''', Carol Van Natta, ''Pico's Crush: Central Galactic Concordance, Book 3''
+#*: “Like a lot of kids, I wanted to be an exploration spacer, so I got my Blevel certificate in '''xenogeography'''. Once I actually met some of them, though, I couldn't see being stuck on a ship with a bunch of arrogant wankers for years at a time.</text>
+<sha1>stk9tlzisbni5cfcl9gkt2ytvc5tjm4</sha1>
+</revision>
+</page>

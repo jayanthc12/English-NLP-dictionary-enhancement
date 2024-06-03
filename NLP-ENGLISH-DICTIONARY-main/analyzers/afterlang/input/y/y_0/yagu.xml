@@ -1,0 +1,25 @@
+<page>
+<title>yagu</title>
+<ns>0</ns>
+<id>5571118</id>
+<revision>
+<id>61117851</id>
+<parentid>50566468</parentid>
+<timestamp>2020-11-14T08:28:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">==Nyawaygi==
+===Noun===
+{{head|nyt|noun}}
+# [[water]]
+===References===
+* R.M.W. Dixon, Barry J. Blake, ''Handbook of Australian Languages'', volume 3 (1983)</text>
+<sha1>1b8p52gzxcy2xzx598z23o00tomvd6g</sha1>
+</revision>
+</page>

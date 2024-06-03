@@ -1,0 +1,65 @@
+<page>
+<title>XML</title>
+<ns>0</ns>
+<id>8256</id>
+<revision>
+<id>68514857</id>
+<parentid>68514854</parentid>
+<timestamp>2022-08-02T06:50:04Z</timestamp>
+<contributor>
+<username>沈澄心</username>
+<id>3628797</id>
+</contributor>
+<comment>Æ /* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1160" xml:space="preserve">==English==
+===Proper noun===
+{{head|en|proper noun}}
+# {{lb|en|computer languages}} {{initialism of|en|Extensible Markup Language|nodot=1}} {{gloss|a flexible text format for creating structured computer documents in machine-readable form.}}
+====Hyponyms====
+* {{l|en|FXML}}
+====Derived terms====
+* {{l|en|XMLNS}}
+====Related terms====
+{{rel4|en
+|XHTML
+|XLink
+|XMI
+|XPath
+|XPointer
+|XSLT
+}}
+====Translations====
+{{trans-top|extensible markup language}}
+* Arabic: {{t|ar|إكس إم إل|tr=إكْسْ إمْ إلْ}}
+* Finnish: {{t+|fi|XML}}, {{t|fi|[[XML]]-[[kieli]]}}
+* German: {{t+|de|XML}}
+* Norwegian: {{t+|no|XML|n}}
+{{trans-mid}}
+* Polish: {{t+|pl|XML}}
+* Serbo-Croatian: {{t|sh|XML|m}}
+* Swedish: {{t+|sv|XML|n}}
+* Turkish: {{t+|tr|GİD}}, {{t+|tr|XML}}
+{{trans-bottom}}
+===See also===
+* {{l|en|HTML}}
+* {{l|en|SGML}}
+* {{l|en|XAML}}
+* {{l|en|XUL}}
+===Further reading===
+* {{pedia}}
+----
+==Japanese==
+===Etymology===
+{{bor+|ja|en|XML}}.
+===Pronunciation===
+{{ja-pron|エックスエムエル|acc=7|acc_ref=DJR}}
+===Noun===
+{{ja-noun|エックス%エム%エル}}
+# {{lb|ja|computer languages}} {{l|en|XML}}
+===References===
+&lt;references/&gt;</text>
+<sha1>nmukufjs5iykoq996zehlfj3ysl85tm</sha1>
+</revision>
+</page>

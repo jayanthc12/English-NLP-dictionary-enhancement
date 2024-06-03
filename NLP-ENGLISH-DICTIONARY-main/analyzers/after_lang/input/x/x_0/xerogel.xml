@@ -1,0 +1,33 @@
+<page>
+<title>xerogel</title>
+<ns>0</ns>
+<id>252549</id>
+<revision>
+<id>64981239</id>
+<parentid>51737791</parentid>
+<timestamp>2021-12-17T13:19:05Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="344" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xero|gel}}
+===Noun===
+{{en-noun}}
+# a [[solid]] formed by the [[dehydration]] of a [[gel]]
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|fr|xérogel}} or {{bor|ro|de|Xerogel}} or {{bor|ro|en|xerogel}}.
+===Noun===
+{{ro-noun|n|xerogeluri}}
+# {{l|en|xerogel}}
+====Declension====
+{{ro-noun-n-uri}}</text>
+<sha1>j9h9ra3cduf4n18tfhpwq72n5l3hso5</sha1>
+</revision>
+</page>

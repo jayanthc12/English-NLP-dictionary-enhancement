@@ -1,0 +1,25 @@
+<page>
+<title>Xenotims</title>
+<ns>0</ns>
+<id>4261988</id>
+<revision>
+<id>59732731</id>
+<parentid>56354132</parentid>
+<timestamp>2020-07-12T08:28:21Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xenotims.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-Xenotims.ogg|Audio}}
+===Noun===
+{{head|de|noun form|g=m}}
+# {{inflection of|de|Xenotim||gen|s}}</text>
+<sha1>hoxr1ku20iz0wwk0kbncg1s0c21l59w</sha1>
+</revision>
+</page>

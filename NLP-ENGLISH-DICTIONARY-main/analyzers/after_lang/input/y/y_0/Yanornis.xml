@@ -1,0 +1,26 @@
+<page>
+<title>Yanornis</title>
+<ns>0</ns>
+<id>6544327</id>
+<revision>
+<id>51197596</id>
+<parentid>51197592</parentid>
+<timestamp>2019-01-05T01:06:22Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="356" xml:space="preserve">==Translingual==
+===Etymology===
+From Chinese [[燕]] ([[Yan]], name of historical dynasties) and {{m|grc|ὄρνις|sc=polytonic||bird}}.
+===Noun===
+†{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|{{taxlink|Songlingornithidae|family|ver=190104}}|extinct genus of fish-eating early [[Cretaceous]] birds}}
+====Synonyms====
+* ''{{l|mul|Archaeovolans}}''</text>
+<sha1>irapqegn9tqrwyu565try2bdknec056</sha1>
+</revision>
+</page>

@@ -1,0 +1,44 @@
+<page>
+<title>xoves</title>
+<ns>0</ns>
+<id>1176980</id>
+<revision>
+<id>68992634</id>
+<parentid>68861401</parentid>
+<timestamp>2022-08-31T11:44:29Z</timestamp>
+<contributor>
+<username>Froaringus</username>
+<id>268470</id>
+</contributor>
+<comment>/* Galician */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1409" xml:space="preserve">==Galician==
+{{wikipedia|lang=gl}}
+===Pronunciation===
+* {{IPA|gl|/ˈʃɔβe̝s/}}
+===Etymology 1===
+From Old Galician {{m|roa-opt|joves}} (not attested in {{inh|gl|roa-opt|-}} proper), from {{inh|gl|la||Iovis dīēs}}, variant of {{m|la|dīēs Iovis}}.
+====Noun====
+{{gl-noun|m|xoves}}
+# [[Thursday]]
+#* '''c1300''', R. Martínez López (ed.), ''General Estoria. Versión gallega del siglo XIV'', page 94:
+#*: ''Os outros dias da semana teuerom et téém et am os antigóós [nomes] quelles os [gentijs] poserõ das planetas: o lues da lũa, o martes de Mars, o mercoles de Mercurio, o '''joues''' de Jupyter, o vernes de Venus''
+#*:: the other days of the week had and have the old names which the pagans gave to them, from the planets: Monday of the Moon, Tuesday of Mars, Wednesday of Mercury, '''Thursday''' of Jupiter, Friday of Venus
+#: {{syn|gl|quinta feira}}
+=====See also=====
+* {{list:days of the week/gl}}
+===Etymology 2===
+====Adjective====
+{{head|gl|adjective form|g=m-p|g2=f-p}}
+# {{inflection of|gl|xove||p}}
+===References===
+* {{R:gl:DDGM|joues}}
+* “[http://sli.uvigo.es/xelmirez/xelmirez.php?pescuda=+%5Bijxy%5Do%5Bvu%5De&amp;corpus=xelmirez joves]” in Xavier Varela Barreiro &amp; Xavier Gómez Guinovart: ''Corpus Xelmírez - Corpus lingüístico da Galicia medieval''. SLI / Grupo TALG / ILG, 2006-2016.
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+[[Category:gl:Days of the week]]</text>
+<sha1>667o2kx4ahe8bzw0qj2x9szxfw1vol4</sha1>
+</revision>
+</page>

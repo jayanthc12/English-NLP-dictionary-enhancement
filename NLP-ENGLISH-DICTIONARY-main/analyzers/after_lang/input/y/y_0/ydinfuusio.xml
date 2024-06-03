@@ -1,0 +1,28 @@
+<page>
+<title>ydinfuusio</title>
+<ns>0</ns>
+<id>861830</id>
+<revision>
+<id>69318150</id>
+<parentid>69255662</parentid>
+<timestamp>2022-09-18T17:03:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="191" xml:space="preserve">==Finnish==
+===Etymology===
+{{com|fi|ydin|fuusio}}
+===Pronunciation===
+{{fi-p|ydin-fuusio}}
+===Noun===
+{{fi-noun}}
+# [[nuclear fusion]]
+====Declension====
+{{fi-decl-valtio|ydinfuusio|a}}</text>
+<sha1>1f52b3kcovaghb9phfvwj9vtotsbyxl</sha1>
+</revision>
+</page>

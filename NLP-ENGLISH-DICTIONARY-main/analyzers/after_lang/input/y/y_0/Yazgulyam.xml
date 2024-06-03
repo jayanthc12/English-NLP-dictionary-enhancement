@@ -1,0 +1,39 @@
+<page>
+<title>Yazgulyam</title>
+<ns>0</ns>
+<id>2591831</id>
+<revision>
+<id>67293951</id>
+<parentid>50232413</parentid>
+<timestamp>2022-06-06T11:01:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>swap {{etyl|...}} into {{uder|en|tg}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="519" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|Yazghulami}}
+* {{l|en|Yazgulyami}}
+* {{l|en|Iazgulem}}
+* {{l|en|Yazgulam}}
+===Etymology===
+{{uder|en|tg|-}}
+===Proper noun===
+{{en-proper noun}}
+# A [[Pamir]] [[language]] of [[Tajikistan]].
+====Translations====
+{{trans-top|language}}
+* Armenian: {{t+|hy|յազգուլամի}}, {{t|hy|յազգուլամերեն}}
+* Finnish: {{t|fi|jazguljam}}
+{{trans-mid}}
+* Russian: {{t|ru|язгуля́мский|sc=Cyrl}}
+{{trans-bottom}}
+[[Category:en:Languages]]</text>
+<sha1>lyvbr74gwxun5ds6zmj5sg5jkkljkwa</sha1>
+</revision>
+</page>

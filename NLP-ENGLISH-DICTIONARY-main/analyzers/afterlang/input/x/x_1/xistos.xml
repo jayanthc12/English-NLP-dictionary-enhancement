@@ -1,0 +1,28 @@
+<page>
+<title>xistos</title>
+<ns>0</ns>
+<id>1589746</id>
+<revision>
+<id>62899361</id>
+<parentid>62879808</parentid>
+<timestamp>2021-06-18T03:42:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Galician plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="154" xml:space="preserve">==Galician==
+===Noun===
+{{head|gl|noun form}}
+# {{plural of|gl|xisto}}
+----
+==Portuguese==
+===Noun===
+{{head|pt|noun form}}
+# {{plural of|pt|xisto}}</text>
+<sha1>3agflt1mbdp9bdmz2q91a5hte85d3w8</sha1>
+</revision>
+</page>

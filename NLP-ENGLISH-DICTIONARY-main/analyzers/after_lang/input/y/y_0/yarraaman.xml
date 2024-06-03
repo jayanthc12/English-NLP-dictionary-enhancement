@@ -1,0 +1,42 @@
+<page>
+<title>yarraaman</title>
+<ns>0</ns>
+<id>57704</id>
+<revision>
+<id>55321448</id>
+<parentid>47686945</parentid>
+<timestamp>2019-10-14T09:59:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1249" xml:space="preserve">{{also|yarraman|yaraman}}
+==Gamilaraay==
+===Alternative forms===
+* {{l|kld|yaraman}}, {{l|kld|yārāman}}, {{l|kld|yáráman}}, {{l|kld|yārămăn}}
+===Pronunciation===
+* {{IPA|kld|/jaraːman/}}
+===Noun===
+{{head|kld|nouns}}
+# [[horse]]
+#* '''1856''', William Ridley, ''On the Kamilaroi Tribe of Australians and Their Dialect,'' in ''Journal of the Ethnological Society of London'', vol. 4
+#*: To the horse the blacks, by general consent, have given the name “'''yārămăn'''.” Of course, as no such animal was known here till the colonists introduced them, we cannot give yārămăn as an Australian word. I know not its origin.
+#* '''1856''', William Ridley, ''gurre kamilaroi, or Kamilaroi Sayings''
+#*: baiame gīr '''yārāman''', būrumo, bundar, mūte, dūli, dīnoun, buralga, biloela, millimumul, gulamboli, kobado, mullion, guiya, nūrai, ŋundoba, burulu, muŋin, kānuŋo di gimobi
+#*: God verily horse, dog, kangaroo, opossum, goanna, emu, native companion, cockatoo, swallow, pelican, parrot, eagle, fish, brown-snake, deadly-black-snake, flies, mosquitoes, all animals made.
+===References===
+* {{R:kld:Austin}}
+[[Category:kld:Horses]]
+----
+==Ngiyambaa==
+===Noun===
+{{head|wyb|noun}}
+# [[horse]]
+[[Category:wyb:Horses]]</text>
+<sha1>li995z7iisxewn6p7hxkim2geth9ghl</sha1>
+</revision>
+</page>

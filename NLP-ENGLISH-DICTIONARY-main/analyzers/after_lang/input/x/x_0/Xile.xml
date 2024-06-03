@@ -1,0 +1,30 @@
+<page>
+<title>Xile</title>
+<ns>0</ns>
+<id>2570244</id>
+<revision>
+<id>59590337</id>
+<parentid>59335295</parentid>
+<timestamp>2020-06-23T01:51:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>use {{place}} for South American countries, fix use of 'r' instead of 'cont' (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="279" xml:space="preserve">{{also|xilè}}
+==Catalan==
+{{wikipedia|lang=ca}}
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Millars-Xile.wav|Audio (Valencian)}}
+===Proper noun===
+{{ca-proper noun|m}}
+# {{place|ca|country|cont/South America|t1=Chile}}
+====Related terms====
+* {{l|ca|xilè}}</text>
+<sha1>3hmrtar34p0r1x6i37ea82p8melecxg</sha1>
+</revision>
+</page>

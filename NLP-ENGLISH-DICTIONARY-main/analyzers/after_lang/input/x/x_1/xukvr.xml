@@ -1,0 +1,24 @@
+<page>
+<title>xukvr</title>
+<ns>0</ns>
+<id>1485420</id>
+<revision>
+<id>63426980</id>
+<parentid>44991524</parentid>
+<timestamp>2021-07-26T03:20:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[fog]]
+[[Category:arn:Weather]]</text>
+<sha1>ffibetfo9qwne0a7q14owb0f4bu8d4b</sha1>
+</revision>
+</page>

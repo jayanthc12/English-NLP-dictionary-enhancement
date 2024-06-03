@@ -1,0 +1,28 @@
+<page>
+<title>yhteiskunnallisin</title>
+<ns>0</ns>
+<id>7114709</id>
+<revision>
+<id>54662704</id>
+<parentid>51589875</parentid>
+<timestamp>2019-10-04T04:29:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{superlative of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="276" xml:space="preserve">==Finnish==
+===Adjective===
+{{head|fi|superlative adjective}}
+# {{superlative of|fi|yhteiskunnallinen}}
+====Declension====
+{{fi-decl-sisin|pos=adj|yhteiskunnallis|a}}
+===Adjective===
+{{head|fi|adjective form}}
+# {{fi-form of|yhteiskunnallinen|case=instructive|pl=plural}}</text>
+<sha1>f7laxzc5baloxzx2gh0sr4zyk5jxuoh</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yaraman</title>
+<ns>0</ns>
+<id>321772</id>
+<revision>
+<id>55199897</id>
+<parentid>44873329</parentid>
+<timestamp>2019-10-14T03:42:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative spelling of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="247" xml:space="preserve">{{also|yarraman|yarraaman}}
+==Bandjalang==
+===Noun===
+{{head|bdy|noun}}
+# [[horse]]
+====Synonyms====
+* {{l|bdy|yaramaŋ}}
+[[Category:bdy:Mammals]]
+----
+==Gamilaraay==
+===Noun===
+{{head|kld|noun}}
+# {{alternative spelling of|kld|yarraaman}}</text>
+<sha1>kmt6atymxb5vbzo9dz0ham1k0gz4wok</sha1>
+</revision>
+</page>

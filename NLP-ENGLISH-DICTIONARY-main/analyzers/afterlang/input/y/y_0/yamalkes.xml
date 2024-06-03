@@ -1,0 +1,25 @@
+<page>
+<title>yamalkes</title>
+<ns>0</ns>
+<id>4816876</id>
+<revision>
+<id>55741757</id>
+<parentid>53092650</parentid>
+<timestamp>2019-10-15T14:47:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="127" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yamalke}}
+===Anagrams===
+* {{anagrams|en|a=aaeklmsy|yamelkas}}</text>
+<sha1>7m0fd0wkw8upse293k108a4sfujd4nm</sha1>
+</revision>
+</page>

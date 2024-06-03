@@ -1,0 +1,25 @@
+<page>
+<title>Yanity</title>
+<ns>0</ns>
+<id>6084574</id>
+<revision>
+<id>67797881</id>
+<parentid>67676790</parentid>
+<timestamp>2022-07-09T19:48:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">==English==
+===Etymology===
+{{rfe|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en}}.</text>
+<sha1>cd5qn72gmy9hetvl1xj6jdt1k60uuap</sha1>
+</revision>
+</page>

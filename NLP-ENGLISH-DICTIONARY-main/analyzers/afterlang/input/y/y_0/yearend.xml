@@ -1,0 +1,29 @@
+<page>
+<title>yearend</title>
+<ns>0</ns>
+<id>4154170</id>
+<revision>
+<id>62356857</id>
+<parentid>52031072</parentid>
+<timestamp>2021-04-11T18:20:05Z</timestamp>
+<contributor>
+<username>Leasnam</username>
+<id>220495</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="370" xml:space="preserve">{{also|year-end}}
+==English==
+===Alternative forms===
+* {{alter|en|year-end|year's end}}
+===Etymology===
+Likely altered from {{m|en||year's end}}, from {{der|en|enm|yeres ende}}, equivalent to {{com|en|year|end}}.
+===Noun===
+{{en-noun}}
+# The end of a year, especially a [[financial year]].
+===Anagrams===
+* {{anagrams|en|a=adeenry|deanery|renayed|yandere|yearned}}</text>
+<sha1>0mtqoz0mfrusje8podorvzeoia04doj</sha1>
+</revision>
+</page>

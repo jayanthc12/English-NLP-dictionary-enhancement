@@ -1,0 +1,25 @@
+<page>
+<title>yarled</title>
+<ns>0</ns>
+<id>3624170</id>
+<revision>
+<id>59083958</id>
+<parentid>50874906</parentid>
+<timestamp>2020-04-05T05:03:45Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="139" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|yarl}}
+===Anagrams===
+* {{anagrams|en|a=adelry|Ardley|Darley|Radley|dearly}}</text>
+<sha1>t0w1jw7mvqm5h68s6z36t8xd3sdmbkb</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>yhdysvaikutus</title>
+<ns>0</ns>
+<id>7206850</id>
+<revision>
+<id>58593425</id>
+<parentid>52622361</parentid>
+<timestamp>2020-01-30T12:19:07Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="211" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdys|vaikutus}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-vaikutus}}
+===Noun===
+{{fi-noun}}
+# [[interaction]]
+====Declension====
+{{fi-decl-vastaus|yhdysvaikutu|a}}</text>
+<sha1>o5ourvheb3s2ahky65kqikfp1avdz2m</sha1>
+</revision>
+</page>

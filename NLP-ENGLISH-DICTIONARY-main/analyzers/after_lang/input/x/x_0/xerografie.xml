@@ -1,0 +1,32 @@
+<page>
+<title>xerografie</title>
+<ns>0</ns>
+<id>1625370</id>
+<revision>
+<id>64162776</id>
+<parentid>62822240</parentid>
+<timestamp>2021-10-11T18:59:23Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="314" xml:space="preserve">{{also|xerografié|xerografíe}}
+==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xerografia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|de|Xerographie}} or {{bor|ro|fr|xérographie}}.
+===Noun===
+{{ro-noun|f|xerografii}}
+# [[xerography]]
+====Declension====
+{{ro-noun-f-ie|xerografi}}</text>
+<sha1>dm612t3t43hypfynw52e13esyfzw9dw</sha1>
+</revision>
+</page>

@@ -1,0 +1,32 @@
+<page>
+<title>yaac</title>
+<ns>0</ns>
+<id>4324279</id>
+<revision>
+<id>68822664</id>
+<parentid>61190170</parentid>
+<timestamp>2022-08-27T21:41:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==Iu Mien==
+===Etymology===
+From {{bor|ium|zh|-}} {{ltc-l|也}}.
+===Adverb===
+{{head|ium|adverb}}
+# [[also]]
+----
+==Quiripi==
+===Noun===
+{{head|qyp|noun}}
+# {{lb|qyp|Unquachog}} [[sand]]
+===References===
+* '''1791''', {{w|Thomas Jefferson}}, ''A vocabulary of the Language of the Unquachog Indians''</text>
+<sha1>chrxhcic806k2kmqxfi5rgp5bnu1d4b</sha1>
+</revision>
+</page>

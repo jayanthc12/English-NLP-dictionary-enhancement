@@ -1,0 +1,55 @@
+<page>
+<title>yennep</title>
+<ns>0</ns>
+<id>6071392</id>
+<revision>
+<id>54371271</id>
+<parentid>51578539</parentid>
+<timestamp>2019-09-28T22:56:00Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-book}} (3)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1322" xml:space="preserve">==English==
+===Etymology===
+[[backslang|Backslang]] for {{m|en|penny}}, with additional ''e''.
+===Noun===
+{{en-noun}}
+# {{lb|en|obsolete|costers}} A [[penny]].
+#* {{quote-book
+|en
+|year=1851
+|first=Henry|last=Mayhew|authorlink=Henry Mayhew
+|title={{w|London Labour and the London Poor}}
+|volume=1
+|page=41
+|section=Of the &quot;Penny Gaff&quot;
+|passage=To discover the kind of entertainment, a lad near me and my companion was asked &quot;if there was any flash dancing.&quot; With a knowing wink the boy answered &quot;Lots! show their legs and all, prime!&quot; and immediately the boy followed up this information by a request for a &quot;'''yennep'''&quot; to get a &quot;tib of occabot.&quot;
+}}
+#* {{quote-book
+|en
+|year=1882
+|first=George|last=MacDonald|authorlink=George MacDonald
+|chapter=If I Had a Father
+|title=[[gutenberg:9191|Stephen Archer and Other Strange Tales]]
+|section=act 2
+|passage=Now what are you two squabblin' over? Oh! Jack's got a '''yennep''', and Jim's iookin' shirty.
+}}
+#* {{quote-book
+|en
+|year=1978
+|first=Rose|last=Ayers
+|title=The Street Sparrows
+|passage=&quot;Give me two gen, then, and take the whole bloody tol. I've walked me teef orf afore rouf this mornin', and wot 'ave I got? Two bloody '''yenneps'''! I ask yer.&quot;
+}}
+===Anagrams===
+* {{anagrams|en|a=eennpy|Penney}}
+[[Category:English 2-syllable words]]
+[[Category:en:Coins]]</text>
+<sha1>f1hcfpbyzv7afmncli16hj96k7tqyaj</sha1>
+</revision>
+</page>

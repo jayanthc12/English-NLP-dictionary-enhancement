@@ -1,0 +1,46 @@
+<page>
+<title>xalam</title>
+<ns>0</ns>
+<id>1607449</id>
+<revision>
+<id>65293920</id>
+<parentid>65230564</parentid>
+<timestamp>2022-01-10T18:46:59Z</timestamp>
+<contributor>
+<username>DTLHS</username>
+<id>794618</id>
+</contributor>
+<comment>/* Wolof */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="564" xml:space="preserve">==English==
+===Etymology===
+From {{bor|en|wo}}.
+===Noun===
+{{en-noun}}
+{{wikipedia}}
+# A [[traditional]] [[lutelike]] [[string instrument]] of [[West Africa]].
+====Alternative forms====
+* {{l|en|khalam}}
+===Anagrams===
+* {{anagrams|en|a=aalmx|Malax|malax}}
+----
+==Wolof==
+===Verb===
+{{head|wo|verb}}
+# to play the [[xalam]]
+===Noun===
+{{wo-noun|bi}}
+# A [[Wolof]] [[banjo]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=258
+|isbn=978-1-59703-017-5}}</text>
+<sha1>c5ldvjnbngh67jzmbrww1uxbqnftpq9</sha1>
+</revision>
+</page>

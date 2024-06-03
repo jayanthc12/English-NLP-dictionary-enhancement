@@ -1,0 +1,25 @@
+<page>
+<title>yidams</title>
+<ns>0</ns>
+<id>5779807</id>
+<revision>
+<id>55929671</id>
+<parentid>53093149</parentid>
+<timestamp>2019-10-16T09:55:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="121" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yidam}}
+===Anagrams===
+* {{anagrams|en|a=adimsy|dismay}}</text>
+<sha1>63lsi26soyjzcyi1697vh3e3kd9y61z</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xylosylated</title>
+<ns>0</ns>
+<id>4912357</id>
+<revision>
+<id>54395998</id>
+<parentid>51578423</parentid>
+<timestamp>2019-09-29T06:35:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="571" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|xylosylate}}
+#* {{quote-journal|en|date=July 21, 2015|author=|title=Nitrogen Limitation Alters Biomass Production but Enhances Steviol Glycoside Concentration in Stevia rebaudiana Bertoni|journal=PLOS ONE|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133067|doi=10.1371/journal.pone.0133067|volume=|issue=|pages=
+|passage=SV is then glucosylated, rhamnosylated, or '''xylosylated''' through the action of UDP-dependent glycosyltransferases (UGTs), to form the various SVglys (Fig 1).}}</text>
+<sha1>tgmfscuiplq93hprr7ozkx58llh80us</sha1>
+</revision>
+</page>

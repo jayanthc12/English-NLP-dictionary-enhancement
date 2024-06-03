@@ -1,0 +1,45 @@
+<page>
+<title>xash</title>
+<ns>0</ns>
+<id>4608269</id>
+<revision>
+<id>65362258</id>
+<parentid>59373731</parentid>
+<timestamp>2022-01-16T23:38:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Unami: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="614" xml:space="preserve">==Unami==
+{{cardinalbox|unm|7|8|9|nishash|pèshkunk|adv=xash [[txën]]}}
+===Pronunciation===
+* {{IPA|unm|/xaʃ/}}
+===Numeral===
+{{head|unm|numeral}}
+# [[eight]]
+====Derived terms====
+{{der-top}}
+* {{l|unm|xash txën}}
+* {{l|unm|xash txënu}}
+* {{l|unm|xash txuwàk}}
+* {{l|unm|xash txënunka}}
+* {{l|unm|xash txènaohki}}
+* {{l|unm|xash txënte}}
+{{der-mid}}
+* {{l|unm|xash txukwëne}}
+* {{l|unm|xash txukwënàkhàke}}
+* {{l|unm|xash txukwënàk}}
+* {{l|unm|xash txukwënàkàt}}
+* {{l|unm|xash txikàna}}
+* {{l|unm|xash txinxke}}
+* {{l|unm|xash txapxki}}
+{{der-bottom}}
+===References===
+* {{R:unm:LTD|xash}}</text>
+<sha1>2nb1hlli91md5ewnjwrk9dv6q3hlben</sha1>
+</revision>
+</page>

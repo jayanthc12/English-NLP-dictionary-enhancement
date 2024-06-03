@@ -1,0 +1,25 @@
+<page>
+<title>xafardegeu</title>
+<ns>0</ns>
+<id>2900806</id>
+<revision>
+<id>43506079</id>
+<parentid>42045639</parentid>
+<timestamp>2017-05-24T13:46:41Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="205" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=pl|t=pres|m=ind|xafardejar}}
+# {{ca-verb form of|p=2|n=pl|t=pres|m=sub|xafardejar}}
+# {{ca-verb form of|p=2|n=pl|m=impr|xafardejar}}</text>
+<sha1>pka521rtofl5mbli0447scqm3u5s8nd</sha1>
+</revision>
+</page>

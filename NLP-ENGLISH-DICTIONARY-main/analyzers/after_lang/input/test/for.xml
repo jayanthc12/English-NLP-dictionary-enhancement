@@ -1,0 +1,776 @@
+<page>
+<title>for</title>
+<ns>0</ns>
+<id>3970</id>
+<revision>
+<id>69224408</id>
+<parentid>69209246</parentid>
+<timestamp>2022-09-11T09:02:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (replace lemma-containing term 'fors' with '#s')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="33109" xml:space="preserve">{{also|Appendix:Variations of &quot;for&quot;}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{root|en|ine-pro|*preh₂-}}
+From {{inh|en|enm|for}}, from {{inh|en|ang|for||for, because of}}, from {{inh|en|gem-pro|*furi||for}}, from {{der|en|ine-pro|*preh₂-}}.
+Cognate with {{cog|fy|foar||for}}, {{cog|nl|voor||for}}, {{cog|de|für||for}}, {{cog|da|for||for}}, {{cog|sv|för||for}}, {{cog|no|for||for}}, {{cog|is|fyrir||for}}, {{cog|la|per||by, through, for, by means of}} and Romance language successors (e.g. {{cog|es|para||for}}), {{cog|grc|περί||for, about, toward}}, {{cog|lt|per||by, through, during}}, {{cog|sa|परि||over, around|tr=pári}}.
+===Pronunciation===
+* {{qualifier|stressed}} {{enPR|fôr}}
+** {{a|UK}} {{IPA|en|/fɔː(ɹ)/}}
+** {{a|US|CA}} {{IPA|en|/fɔɹ/}}
+** {{a|AuE|NZ}} {{IPA|en|/foː(ɹ)/}}
+** {{audio|en|en-us-for.ogg|Audio (US)}}
+** {{audio|en|en-au-for.ogg|Audio (AU)}}
+** {{rhymes|en|ɔː(ɹ)|s=1}}
+* {{qualifier|unstressed}} {{enPR|fər}}
+** {{a|UK|AuE}} {{IPA|en|/fə(ɹ)/}}
+** {{a|NZ}} {{IPA|en|/fɘ(ɹ)/}}
+** {{a|US|CA}} {{IPA|en|/fɚ/|/fə/}}
+** {{audio|en|en-us-for-unstressed.ogg|Audio (US), unstressed,&lt;br&gt; in the phrase &quot;Wait for me&quot;.}}
+* {{homophones|en|fore|q1=with [[horse-hoarse merger]]|four|q2=with horse-hoarse merger}}
+&lt;!-- 1 syllable words !--&gt;
+===Conjunction===
+{{en-con}}
+# {{lb|en|literary|archaic}} [[because|Because]], [[as]], [[since]].
+#: {{ux|en|I had to stay with my wicked stepmother, '''for''' I had nowhere else to go.}}
+#* {{quote-book|en|year=c. 1601|authorlink=William Shakespeare|first=William|last=Shakespeare|title={{w|Twelfth Night}}|others=act 3, scene 4|url=http://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=12night|passage={{...}}Dismount thy tuck, be yare in thy preparation, '''for''' thy assailant is quick, skillful and deadly.}}
+#* {{quote-book|en|year=1885|authorlink=Richard Francis Burton|first=Richard Francis|last=Burton|title={{w|The Book of the Thousand Nights and a Night}}|passage={{...}}nor is there found, in sea or on land, a sweeter or pleasanter of gifts than she; '''for''' she is prime in comeliness and seemlihead of face and symmetrical shape of perfect grace; her check is ruddy dight, her brow flower white, her teeth gem-bright, her eyes blackest black and whitest white, her hips of heavy weight, her waist slight and her favour exquisite.}}
+#* {{quote-book|en|year=1900|authorlink=L. Frank Baum|first=L[yman] Frank|last=Baum|title={{w|The Wonderful Wizard of Oz}}|chapter=23|passage=&quot;By means of the Golden Cap I shall command the Winged Monkeys to carry you to the gates of the Emerald City,&quot; said Glinda, &quot;'''for''' it would be a shame to deprive the people of so wonderful a ruler.&quot;}}
+====Synonyms====
+* {{l|en|given that}}, {{l|en|seeing that}}; see also [[Thesaurus:because]]
+====Translations====
+{{see translation subpage|Conjunction}}
+===Preposition===
+{{en-prep}}
+# [[towards|Towards]]; in the [[direction]] of.
+#: {{ux|en|The astronauts headed '''for''' the moon.}}
+#: {{ux|en|Run [[for]] the hills!}}
+#: {{ux|en|He was headed '''for''' the door when he remembered.}}
+#* {{RQ:Bacon New Atlantis|page=1|passage=Wee ſailed from ''Peru'', (where wee had continued by the ſpace of one whole yeare,) '''for''' ''China'' and ''Iapan'', by the South Sea; [...]}}
+# Directed at; [[intended]] to [[belong]] to.
+#: {{ux|en|I have something '''for''' you.}}
+# In order to help, benefit, gratify, honor etc. (someone or something).
+#: {{ux|en|Everything I do, I do '''for''' you.}}
+#: {{ux|en|We're having a birthday party '''for''' Janet.}}
+#: {{ux|en|The mayor gave a speech '''for''' the charity gala.}}
+#* {{quote-song|en|year=1976|author={{w|Michael McDonald (musician)|Michael McDonald}}|artist={{w|The Doobie Brothers}}|title={{w|Takin' It to the Streets (song)|Takin' It to the Streets}}|passage=You, telling me the things you're gonna do '''for''' me.}}
+# To be used or treated in a stated way, or with a stated purpose.
+#: {{ux|en|This is a new bell '''for''' my bicycle.}}
+#: {{ux|en|The cake is '''for''' Tom and Helen's anniversary.}}
+#: {{ux|en|These apples here are '''for''' eating. The rest are '''for''' throwing away.}}
+# [[support|Supporting]], in [[favour]] of.
+#: {{ant|en|against}}
+#: {{ux|en|All those '''for''' the motion, raise your hands.
+}}
+#: {{ux|en|Who's '''for''' ice-cream?}}
+#: {{ux|en|I'm '''for''' going by train}}
+#: {{ux|en|Ten voted '''for''', and three against.|q=with implied object}}
+# [[because of|Because of]].
+#: {{ux|en|He wouldn't apologize; and just '''for''' that, she refused to help him.}}
+#: {{ux|en|He looks better '''for''' having lost weight.|q=UK usage}}
+#: {{ux|en|She was the worse '''for''' drink.}}
+#: {{ux|en|I like her '''for''' lots of reasons.}}
+#* {{RQ:Shakespeare Henry 6-3|II|v|passage=with fiery eyes sparkling '''for''' very wrath}}
+#* {{quote-book|en|year=1867|author=Frederick Metcalfe|title=The Oxonian in Iceland|page=202|passage=&quot;A summerly day for you,&quot; said my host; &quot;You ought to be here in winter. It is impossible then to get out of the doors '''for''' the snow and wind. Ugh! dreadful weather!&quot;}}
+#* '''1864''', George Etell Sargent, ''The Story of a City Arab'' (page 313)
+#*: I could not see his hands, '''for''' the thick gloves he wore, and his face was partially concealed by a red woollen comforter; but his entire appearance and manners tallied with what I had seen of Yorkshire farmerhood.
+# [[intend|Intended]] to [[cure]], [[remove]] or [[counteract]]; [[in order to]] cure, remove or counteract.
+#: {{ux|en|This medicine is '''for''' your cough.}}
+#: {{ux|en|I need to spray my house '''for''' termites.}}
+# Over (a period of time).
+#: {{ux|en|I've lived here '''for''' three years.}}
+#: {{ux|en|They fought '''for''' days over a silly pencil.}}
+#* {{RQ:Addison Meta}}
+#*: To guide the sun's bright chariot '''for''' a day.
+# Throughout or across (a distance in space).
+#: {{ux|en|I can see '''for''' miles.}}
+#* {{RQ:Shakespeare King Lear|II|iv|passage='''For''' many miles about / There's scarce a bush.}}
+# {{n-g|Used to introduce a subject within a [[to-infinitive]] clause.}}
+#: {{ux|en|It is unreasonable '''for''' our boss to withhold our wages.}}
+#: {{ux|en|All I want is '''for''' you to be happy.}}
+# On behalf of.
+#: {{ux|en|I will stand in '''for''' him.}}
+#: {{ux|en|I speak '''for''' the Prime Minister.}}
+# In the role or capacity of; instead of; in place of.
+#: {{ux|en|I used a hay bale '''for''' a bed.}}
+#: {{ux|en|He's got a turnip '''for''' a brain.}}
+# In exchange for; in correspondence or equivalence with.
+#: {{ux|en|I got five hundred pounds '''for''' that old car!}}
+#: {{ux|en|He matched me blow '''for''' blow.}}
+#* {{RQ:King James Version|Exodus|21|23-24|passage=And if any mischief follow, then thou shalt give life '''for''' life, eye '''for''' eye, tooth '''for''' tooth, hand '''for''' hand, foot '''for''' foot.}}
+# In order to [[obtain]] or [[acquire]].
+#: {{ux|en|I am aiming '''for''' completion by the end of business Thursday.}}
+#: {{ux|en|He's going '''for''' his doctorate.}}
+#: {{ux|en|Do you want to go '''for''' coffee?}}
+#: {{ux|en|People all over Greece looked to Delphi '''for''' answers.}}
+#: {{ux|en|Can you go to the store '''for''' some eggs?}}
+#: {{ux|en|I'm saving up '''for''' a car.}}
+#: {{ux|en|Don't wait '''for''' an answer.}}
+#: {{ux|en|What did he ask you '''for'''?}}
+#* {{RQ:Denham Sophy|chapter=Prologue|passage=For we would have you know it, / The loſs will fall on us, not on the Poet: / For he writes not '''for''' money, nor '''for''' praiſe, / Nor to be call'd a Wit, nor to wear Bayes: {{...}}}}
+# By the [[standard]]s of, usually with the implication that those standards are lower than one might otherwise expect.
+#: {{ux|en|Fair '''for''' its day.}}
+#: {{ux|en|She's spry '''for''' an old lady.}}
+# To [[be]], or [[as]] being.
+#: {{ux|en|Don't take me '''for''' a fool.}}
+#* '''17th century''' {{w|Abraham Cowley}}, ''[[s:Of Wit|Of Wit]]''
+#*: We take a falling meteor '''for''' a star.
+#* {{RQ:Locke Conduct}}
+#*: if a man can be persuaded and fully assured of anything '''for''' a truth without having examined, what is there that he may not embrace for truth ?
+#* '''c. 1690''', {{w|John Dryden}}, ''Translations'' (Preface)
+#*: Most of our ingenious young men take up some cry'd-up English poet '''for''' their model.
+#* '''1712''', {{w|Ambrose Philips}}, ''The Distrest Mother''
+#*: But let her go '''for''' an ungrateful woman.
+#* '''1976''', {{w|Louis L’Amour}}, ''The Rider of Lost Creek'', Bantam Dell ({{ISBN|978-0-553-89964-1}}), Chapter 2:
+#*: They knew him '''for''' a stranger.
+# {{lb|en|usually in the phrase '[[for all]]'}} [[despite|Despite]], [[in spite of]].
+#: {{ux|en|'''For''' all his expensive education, he didn't seem very bright.}}
+#* {{quote-book|1=en|year=1898|author=H.G. Wells|authorlink=H.G. Wells|title={{w|The War of the Worlds}}|publisher=William Heinemann|location=London|page=113|passage=&quot;You must keep your head. There is still hope.&quot; &quot;Hope!&quot; &quot;Yes; plentiful hope -- '''for''' all this destruction!&quot;}}
+#* '''1892''' August 6, &quot;The Unbidden Guest&quot;, in {{w|Charles Dickens, Jr.}} (editor), ''{{w|All the Year Round}}'',&lt;sup &gt;[http://books.google.com/books?id=XNwRAAAAYAAJ ]&lt;/sup&gt; [http://books.google.com/books?id=XNwRAAAAYAAJ&amp;amp;pg=PA133&amp;amp;dq=%22but+for%22 page 133],
+#*: Mr. Joseph Blenkinshaw was perhaps not worth quite so much as was reported; but '''for''' all that he was a very wealthy man {{...}}
+#* {{quote-book|en|year=1968|author=J. J. Scarisbrick|title=Henry VIII|page=240|passage='''For''' all his faults, there had been something lofty and great about him - as a judge, as a patron of education, as a builder, as an international figure.}}
+# {{senseid|en|desired}} {{n-g|Indicating something desired or anticipated.}}
+#: {{ux|en|O '''for''' the wings of a dove.}}
+#: {{ux|en|Ah! '''for''' wings to soar&amp;nbsp;…}}
+#: {{ux|en|And now '''for''' a slap-up meal!}}
+#* {{RQ:Shakespeare Henry 5|Prologue|text=O '''For''' a Muſe of Fire, that would aſcend / The brighteſt Heauen of Inuention :}}
+#* '''1858''' March 27, &quot;The Lay of the Brief&quot;, in ''Punch, Or, The London Charivari'', page 129:
+#*: Oh! but to breathe the air / By their side under summer skies! To watch the blush on their cheeks, / The light in their liquid eyes. / Oh! but '''for''' one short hour, / To whisper a word of love; {{...}}
+# {{lb|en|in expressions such as '[[for a start]]'}} {{n-g|Introducing the first item(s) in a potential sequence.}}
+#: {{ux|en|Go scuba diving? '''For''' one thing, I can't even swim.}}
+# {{lb|en|with names|chiefly|US}} In [[honor]] of; after.
+#: {{ux|en|He is named '''for''' his grandfather.}}
+# Due or facing (a certain outcome or fate).
+#: {{ux|en|He totally screwed up that project. Now he's surely '''for''' the sack.}}
+# {{lb|en|chiefly|US}} [[out of|Out of]]; {{non-gloss definition|used to indicate a fraction, a ratio}}
+#: {{ux|en|In term of base hits, Jones was three '''for''' four on the day}}
+# {{lb|en|cricket}} {{non-gloss definition|Used as part of a score to indicate the number of wickets that have fallen.}}
+#: {{ux|en|At close of play, England were 305 '''for''' 3.}}
+# {{lb|en|obsolete}} {{n-g|Indicating that in prevention of which, or through fear of which, anything is done.}}
+#* {{RQ:Beaumont Fletcher Comedies and Tragedies|title=The Captain|act=III|scene=v|passage=We'll have a bib, '''for''' spoiling of thy doublet.}}
+# {{n-g|Used in various more-or-less idiomatic ways to construe individual verbs, indicating various semantic relationships such as target, purpose, result, etc.; see also the entries for individual phrasal verbs, e.g. [[ask for]], [[look for]], [[stand for]], etc.}}
+#: {{ux|en|to account '''for''' one's whereabouts&amp;emsp;&amp;emsp;&amp;emsp; to care '''for''' a relative&amp;emsp;&amp;emsp;&amp;emsp; to settle '''for''' second best&amp;emsp;&amp;emsp;&amp;emsp; to allow '''for''' mistakes}}
+# {{lb|en|nonstandard}} [[So]] ([[that]]), [[in order to]]
+#: {{uxi|en|He took the swing shift [[for]] he could get more overtime.}}
+====Alternative forms====
+* {{q|eye dialects}}: {{l|en|fo}}, {{l|en|fo'}}, {{l|en|fur}}, {{l|en|fuh}}, {{l|en|fer}}
+====Antonyms====
+* {{l|en|against}}
+====Derived terms====
+{{der-top}}
+* {{l|en|for all}}
+* {{l|en|for good and all}}
+* {{l|en|for good measure}}
+* {{l|en|for good}}
+* {{l|en|for it}}
+{{der-mid}}
+* {{l|en|for kicks}}
+* {{l|en|for real}}
+* {{l|en|for the record}}
+* {{l|en|once and for all}}
+{{der-bottom}}
+====Translations====
+{{see translation subpage|Preposition}}
+===Particle===
+{{en-part}}
+# {{lb|en|nonstandard|in representations of dialectal speech, especially that of black speakers}} [[to|To]], {{non-gloss definition|the particle for marking the following verb as an [[infinitive]].}}
+#* '''1896''', ''McClure's magazine'', page 270:
+#*: “&amp;#39;Ugh—I&amp;#39;ll not be able '''for''' get up. Send for M&amp;#39;sieu le Curé—I&amp;#39;ll be goin&amp;#39; '''for''' die for  sure.&amp;#39;
+#* {{quote-journal|en|date=December 17, 1898|work=Forest and Stream |title=Mr. Owens' Experience|author=|volume=51|page=485|passage=[It was a] firs rate place '''for''' shoot a woodcocks, I tell you. [...] I say [it] wass no use '''for''' spen money. [...] An I say in &quot;So wass I. I see lot of sy-pokes fly up an twist off like screw-cork an spit whistle, but I wass'nt able '''for''' get aim on him.&quot; }}
+#* '''2007''', H. Nigel Thomas, ''Return to Arcadia: A Novel'' (Tsar Publications):
+#*: &quot;She say that when nigger people step out o&amp;#39; they place and start '''for''' rub shoulders with Bacra, trouble just &amp;#39;round the corner.&quot;
+====Related terms====
+* {{l|en|for to}}
+===References===
+* Andrea Tyler and Vyvyan Evans, &quot;Spatial particles of orientation&quot;, in ''The Semantics of English Prepositions: Spatial Scenes, Embodied Meaning and Cognition'', Cambridge University Press, 2003, 0-521-81430 8
+* {{R:OneLook}}
+* {{R:Century 1911}}
+===Anagrams===
+* {{anagrams|en|a=for|'fro|ORF|fro|orf}}
+[[Category:English coordinating conjunctions]]
+----
+==Abinomn==
+===Noun===
+{{head|bsa|noun}}
+# a [[kind]] of [[fish]]
+[[Category:bsa:Fish]]
+----
+==Cameroon Pidgin==
+===Alternative forms===
+* {{alter|wes|foe|fo}}
+===Etymology===
+From {{der|wes|en|for}}.
+===Pronunciation===
+* {{IPA|wes|/fɔ/}}
+===Preposition===
+{{head|wes|preposition}}
+# {{l|en|for}}
+----
+==Catalan==
+===Noun===
+{{ca-noun|m}}
+# [[prize]], [[worth]]
+# {{l|en|forum}}
+----
+==Chinese==
+===Etymology===
+From {{bor|yue|en|for}}.
+===Pronunciation===
+{{zh-pron
+|c=fo6
+|cat=v
+}}
+===Verb===
+{{head|zh|verb}}
+# {{lb|zh|Hong Kong Cantonese}} to be used for; to serve the purpose of
+#: {{zh-x|隻{zek3} 叉{caa1} 係{hai6} '''f{}o{}r{fo6}''' 食{sik6} 蛋{daan6}糕{gou1} 嘅{ge3}|the fork is '''used for''' eating the cake|C}}
+# {{lb|zh|Hong Kong Cantonese}} to be for the sake (of someone); to be used by someone
+#: {{zh-x|呢{ni1}個{go3} 位{wai6-2} 係{hai6} '''f{}o{}r{fo6}''' 長{zoeng2}者{ze2} 坐{co5} 㗎{gaa3}|this seat is '''meant to be used''' by the elderly|C}}
+#: {{zh-x|個{go3} s{}e{}t{set1} 如{jyu4}果{gwo2} '''f{}o{}r{fo6}''' 三{saam1} 個{go3} 人{jan4-2} 食{sik6} 會{wui5} 唔{m4} 會{wui5} 太{taai3} 細{sai3} 份{fan6}？|Wouldn't this meal set be too little if it '''was for''' three people to consume?|C}}
+[[Category:Chinese terms written in foreign scripts]]
+----
+==Cornish==
+===Noun===
+{{head|kw|mutated noun}}
+# {{mixed mutation of|kw|mor}}
+----
+==Danish==
+===Etymology 1===
+From {{der|da|non|fóðr}}, from {{der|da|gml|vōder||linen, sheath}}, from {{der|da|gem-pro|*fōdrą||sheath}}.
+====Alternative forms====
+* {{l|da|fór}}
+====Pronunciation====
+* {{IPA|da|[ˈfoˀɐ̯]|[ˈfoɐ̯ˀ]}}
+* {{rhymes|da|oːɐ̯|s=1}}
+====Noun====
+{{da-noun|et}}
+# [[lining]] {{gloss|covering for the inside of something}}
+# [[lining]] {{gloss|material used for inside covering}}
+=====Inflection=====
+{{da-noun-infl|et}}
+====References====
+{{R:DDO|for,1}}
+===Etymology 2===
+From {{inh|da|gmq-oda|for}}, from {{inh|da|gem-pro|*furai}} (in Western Old Norse replaced by the variant {{inh|da|non|fyrr}}, from {{inh|da|gem-pro|*furiz}}, {{m|gem-pro|*furi}}, = {{cog|da|før|before}}).
+====Pronunciation====
+* {{IPA|da|[fʌ]}}
+====Preposition====
+{{head|da|preposition}}
+# {{l|en|for}}
+# [[of]]
+# [[to]]
+# [[on]]
+# [[at]]
+# [[before]], [[in front of]]
+# [[by]]
+====Adverb====
+{{da-adv}}
+# [[too]] {{gloss|more than enough; as too much}}
+# [[in front]]
+# [[forward]]
+====Conjunction====
+{{head|da|conjunction}}
+# [[for#English|for]], [[because]]
+===Etymology 3===
+See {{m|da|fare||to rush, run}}.
+====Pronunciation====
+* {{IPA|da|[ˈfoˀɐ̯]|[ˈfoɐ̯ˀ]}}
+====Verb====
+{{head|da|verb form|head=for, fór ''or'' [[farede]]}}
+# {{past tense of|da|fare}}.
+----
+==Esperanto==
+===Etymology===
+Compare {{cog|la|[[forās]], [[foris#Etymology 2|forīs]]||outside}}.
+===Pronunciation===
+{{eo-IPA|a=LL-Q143 (epo)-Lepticed7-for.wav}}
+===Adverb===
+{{eo-head}}
+# [[away]], [[far]], [[gone]]
+#* '''1998''', Henrik Ibsen, trans. Odd Tangerud ''Puphejmo : Dramo en tri aktoj'', [http://www.gutenberg.org/etext/19030]
+#*: NORA (komencas elpreni el la skatolo, sed baldaŭ '''for'''ĵetas ĉion). Ho, se mi kuraĝus eliri. Se nur neniu venus. Se nur ne dume okazus io hejme. Stulta babilaĵo; neniu venos. Nur ne pensi. Brosi la mufon. Delikataj gantoj, delikataj gantoj. '''For''' el la pensoj! '''For, for!''' Unu, du, tri, kvar, kvin, ses — (krias) Jen, tie ili venas —
+#*:: NORA (begins to unpack the box, but soon pushes it all '''away'''). Oh, if I dared go out. If only no one would come. If only I could be sure nothing would happen here in the meantime. Stupid nonsense; no one will come. Only I mustn't think about it. I will brush my muff. What lovely, lovely gloves. '''Out''' of my thoughts, '''Away, away!''' One, two, three, four, five, six— (Screams) There, someone's coming—
+====Derived terms====
+{{der-top}}
+* {{l|eo|foresti}}
+* {{l|eo|foriri}}
+* {{l|eo|forĵeti}}
+* {{l|eo|forlasi}}
+{{der-mid}}
+* {{l|eo|formeti}}
+* {{l|eo|forpuŝi}}
+* {{l|eo|fore}}
+{{der-bottom}}
+{{eo BRO|1}}
+----
+==French==
+===Etymology===
+{{root|fr|ine-pro|*dʰwer-}}
+From {{inh|fr|la|forum}}; {{doublet|fr|fur|forum|nocap=1}}. Unrelated to {{noncog|fr|fort}}.
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-LoquaxFR-for.wav|Audio}}
+===Noun===
+{{fr-noun|m|!}}
+# {{lb|fr|obsolete}} {{only used in|fr|for intérieur|}}
+===Further reading===
+* {{R:TLFi}}
+----
+==Galician==
+===Etymology 1===
+Inflected form of {{m|gl|ir||to go}}.
+====Verb====
+{{gl-verb-form}}
+# {{inflection of|gl|ir||1//3|s|futr|subj}}
+===Etymology 2===
+Inflected form of {{m|gl|ser||to be}}.
+====Verb====
+{{gl-verb-form}}
+# {{inflection of|gl|ser||1//3|s|futr|subj}}
+----
+==Icelandic==
+===Pronunciation===
+* {{IPA|is|/fɔːr/}}
+* {{rhymes|is|ɔːr|s=1}}
+===Noun===
+{{is-noun|f|forar|forir}}
+# [[mud]]
+#: {{syn|is|drulla}}
+# [[bog]]
+====Declension====
+{{is-decl-noun-f-s2|f|o|r}}
+====Derived terms====
+* {{l|is|forarpittur}}
+----
+==Ido==
+===Etymology===
+Borrowing from {{bor|io|en|far from|far (from)}}. Compare {{cog|eo|for}}.
+===Pronunciation===
+* {{IPA|io|/fɔr/}}
+===Preposition===
+{{head|io|preposition}}
+# [[far from]], [[away]] [[from]]
+====Derived terms====
+{{der2|io
+| {{l|io|fore||(far) away}}
+| {{l|io|fora||distant, remote, far distant}}
+| {{l|io|forajo||a distant object; distance (prospect)}}
+| {{l|io|de fore||from afar, at afar, distance}}
+| {{l|io|foresar||to be away}}
+| {{l|io|forigar||to remove, send away}}
+| {{l|io|for de hike||a great way off (from here)}}
+| {{l|io|foreso||remoteness}}
+| {{l|io|fora komerco||foreign trade}}
+| {{l|io|fora navigado||foreign navigation}}
+| for-
+}}
+----
+==Latin==
+{{attention|la|please expand}}
+===Etymology===
+{{root|la|ine-pro|*bʰeh₂-|id=speak}}
+From {{inh|la|itc-pro|*fāōr}}, from {{inh|la|ine-pro|*bʰéh₂ti||to speak}}. It's unclear why the verb is [[deponent]].
+===Pronunciation===
+* {{la-IPA|for}}
+===Verb===
+{{la-verb|1+.p3inf|for}}, ''defective''
+# I [[speak]], [[talk]], [[say]].
+#: {{syn|la|effor|inquam|oro|aio|dico|alloquor|loquor}}
+====Conjugation====
+Certain forms were not used in Classical Latin.
+{{la-conj|1+.p3inf|for}}
+====Derived terms====
+{{der3
+|la|affor
+|effor
+|fācundus
+|fandus
+|fāns
+|fātum
+|interfor
+|praefor
+|profor
+}}
+====Related terms====
+* {{l|la|fābula}}
+* {{l|la|fāma}}
+* {{l|la|fās}}
+===References===
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=for for] in {{cite-book|author=Charlton T. Lewis and Charles Short|title=[[w:A Latin Dictionary|A Latin Dictionary]]|publisher=Clarendon Press|location=Oxford|year=1879}}
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=for for] in {{cite-book|author=Charlton T. Lewis|title=An Elementary Latin Dictionary|publisher=Harper &amp; Brothers|location=New York|year=1891}}
+* {{R:du Cange}}&lt;!--
+* {{R:M&amp;A}}--&gt;
+* Karl Gottlob Zumpt, 1846, ''A school-grammar of the Latin language'', p146
+----
+==Middle English==
+===Alternative forms===
+* {{alter|enm|vor|ver|fer|fur}}
+===Etymology===
+From {{inh|enm|ang|for}}, from {{der|enm|gem-pro|*fura}}, {{m|gem-pro|*furi}}.
+===Preposition===
+{{head|enm|preposition}}
+# [[#English|for]]
+===Conjunction===
+{{head|enm|conjunction}}
+# [[#English|for]]
+===Descendants===
+* {{desc|en|for}}
+* {{desc|sco|for}}
+* {{desc|yol|vor|alts=1}}
+===References===
+* {{R:MED Online|for|prep|MED16645}}
+* {{R:MED Online|for|conj|MED16646}}
+----
+==Middle Irish==
+===Etymology===
+From {{inh|mga|sga|for}}, from {{inh|mga|cel-pro|*uɸor}}, from {{inh|mga|ine-pro|*uper}}.
+===Pronunciation===
+* {{IPA|mga|/for/}}
+===Preposition===
+{{head|mga|preposition|with accusative or dative}}
+# [[on]], [[over]]
+#* {{RQ:mga-SMMD|1}}
+#*: {{quote|mga|Boí rí amra '''for''' Laignib, .i. Mac Dathó a ainm.|There was a wonderful king over the Leinstermen; Mac Dathó was his name.}}
+===Further reading===
+* {{R:DIL|head=1 for|23272}}
+----
+==Norwegian Bokmål==
+===Pronunciation===
+* {{IPA|nb|/ˈfɔrː/}} {{qualifier|unstressed}}
+* {{IPA|nb|/fɔ/}} {{qualifier|unstressed}}
+* {{audio|nb|No-for.ogg|Audio}}
+===Etymology 1===
+====Adverb====
+{{head|nb|adverb}}
+# [[too]]
+#: {{ux|nb|'''for''' ung|too young|inline=1}}
+#: {{ux|nb|'''for''' langt|too far|inline=1}}
+=====Synonyms=====
+* {{l|nb|altfor}}
+===Etymology 2===
+====Conjunction====
+{{head|nb|conjunction}}
+# [[#Conjunction 1|for]]
+=====Synonyms=====
+* {{l|nb|fordi}}
+===Etymology 3===
+From {{der|nb|non|fóðr}}.
+====Noun====
+{{nb-noun-n1}}
+# {{alternative form of|nb|fôr|nocap=1}}
+=====Derived terms=====
+* {{l|nb|dyrefor}}
+* {{l|nb|fiskefor}}
+===Etymology 4===
+====Preposition====
+{{head|nb|preposition}}
+# [[#Preposition 1|for]]
+=====Derived terms=====
+* {{l|nb|vestenfor}}
+===Etymology 5===
+====Verb====
+{{nb-verb-form}}
+# {{past tense of|nb|fare}}.
+===References===
+* {{R:The Bokmål Dictionary}}
+----
+==Norwegian Nynorsk==
+===Etymology 1===
+====Pronunciation====
+* {{IPA|nn|/fɔrː/}}
+* {{audio|nn|No-for.ogg|Audio}}
+====Conjunction====
+{{head|nn|conjunction}}
+# [[#Conjunction 1|for]], [[because]]
+#: {{ux|nn|Eg joggar kvar dag, '''for''' eg vil ikkje bli feit.|I jog every day, '''because''' I don't want to get fat.}}
+===Etymology 2===
+{{root|nn|ine-pro|*per-}}
+From {{inh|nn|non|fǫr}}, from {{inh|nn|gem-pro|*farō}}. Related to {{m|nn|fara}}.
+====Pronunciation====
+* {{IPA|no|/foːr/}}
+====Alternative forms====
+* {{l|nn|fòr}}
+====Noun====
+{{nn-noun-f1}}
+# {{senseid|nn|travel}} [[travel]]
+# [[footprint]]s
+===Etymology 3===
+From {{inh|nn|non|for}}, probably derived from earlier {{der|nn|gem-pro|*furhs}}.
+====Alternative forms====
+* {{alter|nn|fore|fòr|fòre}}
+====Noun====
+{{nn-noun-f1}}
+# {{senseid|nn|furrow}} {{lb|nn|agriculture}} [[furrow]]
+=====Derived terms=====
+* {{l|nn|plogfòr}}
+=====See also=====
+* {{l|nb|får}} (Norwegian Bokmål)
+===Etymology 4===
+====Pronunciation====
+* {{IPA|no|/fuːr/}}
+====Alternative forms====
+* {{l|nn|fór}}
+====Adjective====
+{{nn-adj-1}}
+# [[fast]]
+#: ''gå '''fórare'''!''
+#:: Go faster!
+===Etymology 5===
+From {{inh|nn|non|fóðr}}, from {{inh|nn|gem-pro|*fōdrą|id=fodder||fodder}}.
+====Pronunciation====
+* {{IPA|no|/fuːr/}}
+====Noun====
+{{nn-noun-n1}}
+# {{alternative form of|nn|fôr|id=fodder|nocap=1|t=fodder}}
+=====Derived terms=====
+* {{l|nn|dyrefor}}
+* {{l|nn|fiskefor}}
+===Etymology 6===
+From {{inh|nn|non|fóðr}}, borrowed from {{der|nn|gml|vōder||sheath, linen}}, from {{der|nn|gem-pro|*fōdrą|id=sheath}}.
+====Pronunciation====
+* {{IPA|no|/fuːr/}}
+====Noun====
+{{nn-noun-n1}}
+# {{alternative form of|nn|fôr|id=lining|nocap=1|t=lining}}
+===Etymology 7===
+From {{der|nn|non|fyrir}}.
+====Pronunciation====
+* {{IPA|no|/fɔrː/}}
+* {{audio|nn|No-for.ogg|Audio}}
+====Preposition====
+{{head|nn|preposition}}
+# [[#Preposition 1|for]]
+#: {{ux|nn|Pass deg '''for''' snøskred!|Look out '''for''' avalanches!}}
+# {{l|en|of}}
+#: {{ux|nn|Eg bur sør '''for''' byen.|I live south '''of''' the city.}}
+====Adverb====
+{{head|nn|adverb}}
+# {{l|en|too}}
+#: {{ux|nn|Det er '''for''' langt å gå.|It is '''too''' far to walk.}}
+# in favour of
+#: {{ux|nn|Eg var '''for''' å bli med i FN.|I was '''in favour of''' joining the UN.}}
+=====Derived terms=====
+* {{l|nn|innanfor}}
+* {{l|nn|utanfor}}
+* {{l|nn|utfor}}
+===Etymology 8===
+====Verb====
+{{head|nn|misspelling}}
+# {{misspelling of|nn|fór|nocap=1|nodot=1}}, {{nn-verb-form of|present tense|far}}
+{{head|nn|verb form}}
+# {{nn-verb-form of|imperative|fòr}}
+# {{nn-verb-form of|imperative|fôr}}
+===References===
+* {{R:The Nynorsk Dictionary}}
+----
+==Old English==
+===Etymology 1===
+{{dercat|ang|gem-pro|ine-pro|inh=1}}
+From {{inh|ang|gmw-pro|*furi}}.
+====Alternative forms====
+* {{alter|ang|fore}}
+====Pronunciation====
+* {{ang-IPA|for}}
+====Preposition====
+{{ang-prep}}
+# [[because of]] ''(+ dative)''
+# {{l|en|for}} (for the [[sake]] of) ''(+ dative)''
+#* '''c. 990''', ''{{w|Wessex Gospels}}'', [https://archive.org/stream/dahalgangodspelo00thor#page/n145/mode/2up Luke 9:24]
+#*: {{quote|ang|''Sē þe his sāwle '''for''' mē forspilþ, hē hīe ġehǣlþ.''|Whoever destroys their soul '''for''' me will save it.}}
+# {{l|en|for}} (on behalf of, instead of) ''(+ accusative)''
+#* '''c. 992''', [[w:Ælfric of Eynsham|Ælfric]], &quot;[https://en.wikisource.org/wiki/The_Homilies_of_the_Anglo-Saxon_Church/XXVII The Nativity of St. Paul the Apostle]&quot;
+#*: {{quote|ang|''Petrus āna spræc '''for''' ealne þone hēap.''|Paul by himself spoke '''for''' the whole group.}}
+# [[ago]] ''(+ dative)''
+#* '''c. 995''', [[w:Ælfric of Eynsham|Ælfric]], [https://archive.org/stream/grammatik00aelfuoft#page/n12/mode/2up ''Extracts on Grammar in English'']
+#*: {{quote|ang|''Is nū for þȳ Godes þēowum and mynstermannum ġeorne tō wearnienne þæt sēo hālġe lār on ūrum dagum ne ācōliġe oþþe ātēoriġe swā swā hit wæs ġedōn on Angelcynne nū '''for''' ānum fēawum gēarum, swā þæt nān Englisċ prēost ne cūðe dihtan oþþe āsmēaġan ānne pistol on Lǣden, oþ þæt Dūnstān ærċebiscop and Æðelwold bisċop eft þā lāre on munuclīfum ārǣrdon.''|That's why God's servants and monks should be very careful not to let this sacred learning cool or fade in our time, the way it did in England a few years '''ago''', when none of our priests could compose or interpret a letter in Latin, until archbishop Dunstan and bishop Æthelwold revived learning in monastic life.}}
+=====Descendants=====
+* {{desc|enm|for}}
+** {{desc|en|for}}
+** {{desc|sco|for}}
+** {{desc|yol|vor|alts=1}}
+===Etymology 2===
+see {{m|ang|faran}}
+====Pronunciation====
+* {{ang-IPA|fōr}}
+====Verb====
+{{head|ang|verb form|head=fōr}}
+# {{inflection of|ang|faran||1//3|s|pret}}
+===Etymology 3===
+From {{inh|ang|gem-pro|*fōrō|t=trip; wagon}}.
+====Pronunciation====
+* {{ang-IPA|fōr}}
+====Noun====
+{{ang-noun|head=fōr|f|fōra}}
+# [[journey]], [[going]], [[course]], [[expedition]], [[approach]]; [[passage]], [[lifestyle]], way of life
+=====Declension=====
+{{ang-decl-noun-o-f|fōr}}
+===Etymology 4===
+{{dercat|ang|gem-pro|inh=1}}
+Variant of {{m|ang|fearh}}. From {{inh|ang|gmw-pro|*farh|t=pig}}. Cognate with {{cog|gml|vōr|t=lean young pig}}.
+====Pronunciation====
+* {{ang-IPA|fōr}}
+====Noun====
+{{ang-noun|head=fōr|m}}
+# [[hog]], [[pig]]
+=====Declension=====
+{{ang-decl-noun-a-m|fōr}}
+=====Descendants=====
+* {{desc|enm|*farow|*fargh}} {{q|attested only in plural form {{m|enm|faren}}}}
+** {{desc|en|farrow}}
+** {{desc|sco|ferrae|ferry|farry}}
+----
+==Old Irish==
+===Pronunciation===
+* {{IPA|sga|/for/}}
+===Etymology 1===
+From {{inh|sga|cel-pro|*sweseros}}, from {{m|cel-pro|*swīs||you (pl.)}}; compare {{cog|la|vester}}.
+====Alternative forms====
+* {{alter|sga|far|bar}}
+====Determiner====
+{{head|sga|determiner|triggers eclipsis|cat2=possessive determiners}}
+# [[your]] {{qualifier|plural}}
+# [[you]] {{qualifier|plural; as the object of a preposition that takes the genitive}}
+{{seeCites|sga}}
+=====Synonyms=====
+* {{l|sga|sethar}}
+=====Descendants=====
+* {{desc|ga|bhur}}
+* {{desc|gd|ur}}
+===Etymology 2===
+From {{inh|sga|cel-pro|*uɸor}}, from {{inh|sga|ine-pro|*upér}}.
+====Alternative forms====
+* {{alter|sga|far}}
+====Preposition====
+{{head|sga|preposition|with accusative or dative}}
+# [[on]], [[over]]
+{{seeCites|sga}}
+=====Inflection=====
+{{sga-prep-infl
+|1sg         = form
+|1sg-em      = [[formsa|for]]([[forumsa|u]])[[formsa|msa]]
+|2sg         = fort
+|2sg-em      = fortsu
+|3sgm-dat    = for
+|3sgm-dat-em =
+|3sgm-acc    = [[foir]], [[fair]]
+|3sgm-acc-em = [[foirsom]], [[foirsem]]
+|3sgf-dat    = [[furi|fu]]([[fuiri|i]])[[furi|ri]]
+|3sgf-dat-em =
+|3sgf-acc    = forrae
+|3sgf-acc-em =
+|1pl         = [[fornn]], [[furnn]]
+|1pl-em      = [[fornni|for]]([[forunni|u]])[[fornni|nni]]
+|2pl         = [[furib|fu]]([[fuirib|i]])[[furib|rib]], [[forib|fo]]([[foirib|i]])[[forib|rib]]
+|2pl-em      = [[furibsi|fu]]([[fuiribsi|i]])[[furibsi|ribsi]]
+|3pl-dat     = [[forib|for]]([[foraib|a]])[[forib|ib]]
+|3pl-dat-em  = [[foribsom|for]]([[foraibsom|a]])[[foribsom|ibsom]]
+|3pl-acc     = forru
+|3pl-acc-em  = forrusom
+}}
+=====Derived terms=====
+Combinations with definite articles:
+* {{l|sga|[[forsin]]([[forsind|d]])}} {{q|masculine and feminine accusative singular, all genders dative singular}}
+* {{l|sga|forsa}} {{q|neuter accusative singular}}
+* {{l|sga|[[forna|for]]([[forsna|s]])[[forna|na]]}} {{q|accusative plural}}
+* {{l|sga|[[fornaib|for]]([[forsnaib|s]])[[fornaib|naib]]}} {{q|dative plural}}
+Combinations with possessive determiners:
+* {{l|sga|form|t=on my}}
+* {{l|sga|fort|t=on your {{g|s}}}}
+* {{l|sga|fora|t=on his/her/its/their}}
+Combinations with relative pronouns:
+* {{l|sga|[[fora|for]]([[forsa|s]])[[fora|a]]|t=on whom, on which}}
+===Further reading===
+* {{R:DIL|head=1 for (‘on, over’)|23272}}
+* {{R:DIL|head=2 for, far, bar, uar (‘your’)|23273}}
+----
+==Old Norse==
+===Etymology===
+Probably derived from {{der|non|gem-pro|*furhs}}.
+===Noun===
+{{non-noun|f}}
+# [[furrow]]
+====Descendants====
+* {{desc|nn|for|alts=1|id=furrow}}
+* {{desc|nb|får|id=furrow}}
+* {{desc|gmq-osw|for}}
+** {{desc|sv|fåra}}
+===References===
+* &quot;[http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2003.02.0002:entry=for for]&quot;, in {{cite-book|author=Geir T. Zoëga|title=A Concise Dictionary of Old Icelandic|publisher=Clarendon Press|location=Oxford|year=1910}}
+----
+==Old Saxon==
+===Noun===
+{{osx-prep}}
+# {{alternative form of|osx|fora}}
+----
+==Portuguese==
+===Etymology 1===
+{{nonlemma}}
+====Pronunciation====
+{{pt-IPA|fôr}}
+* {{rhymes|pt|oɾ|q1=Portugal, São Paulo|oʁ|q2=Brazil|s=1}}
+* {{hyph|pt|for}}
+====Verb====
+{{head|pt|verb form}}
+# {{pt-verb-form-of|ir|fts|1|s}}
+# {{pt-verb-form-of|ir|fts|3|s}}
+#: {{ux|pt|Quando ele '''for''', avisa-me.|When he '''goes''', let me know.}}
+# {{pt-verb-form-of|ser|fts|1|s}}
+# {{pt-verb-form-of|ser|fts|3|s}}
+#: {{ux|pt|Enquanto ela '''for''' viva, merece todo o nosso respeito.|As long as she '''is''' alive, she deserves all our respect.}}
+===Etymology 2===
+Borrowed from {{bor|pt|en|for}}.
+====Pronunciation====
+{{pt-IPA|fór}}
+====Noun====
+{{pt-noun|m|#s}}
+# {{lb|pt|programming}} [[for loop]] {{gloss|a loop that uses a counter}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|la|forum}}.
+===Noun===
+{{ro-noun|n|foruri}}
+# [[forum]]
+====Declension====
+{{ro-noun-n-uri}}
+----
+==Swedish==
+===Verb===
+{{head|sv|verb form}}
+# {{sv-verb-form-past|fara}}
+----
+==Walloon==
+===Etymology===
+From {{inh|wa|fro|forn}}, from {{inh|wa|la|furnus}}.
+===Noun===
+{{wa-noun|m}}
+# [[oven]]
+----
+==West Makian==
+===Pronunciation===
+* {{IPA|mqs|/ɸor/}}
+===Verb===
+{{head|mqs|verb}}
+# {{lb|mqs|transitive}} to [[hit]] repeatedly with a [[stick]] or other object
+====Conjugation====
+{{mqs-conj|1}}
+===References===
+* {{R:mqs:Voorhoeve:1982}}
+----
+==Yola==
+===Preposition===
+{{head|yol|preposition}}
+# {{alt form|yol|vor}}
+#* {{quote-book|yol|year=1867|chapter=CASTEALE CUDDE'S LAMENTATION|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage='''FOR''' LOSS O' HIS CUCK AT WAS EE-TOOK BE A VOX.|translation='''FOR''' LOSS OF HIS COCK THAT WAS TAKEN BY A FOX.}}
+===References===
+* {{R:Poole 1867|page=102}}</text>
+<sha1>p9gmtyixogndtxnxeuc2uodr2omlwcg</sha1>
+</revision>
+</page>

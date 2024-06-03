@@ -1,0 +1,33 @@
+<page>
+<title>yanaq</title>
+<ns>0</ns>
+<id>7043709</id>
+<revision>
+<id>67245372</id>
+<parentid>67209003</parentid>
+<timestamp>2022-06-04T22:07:51Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="680" xml:space="preserve">==Azerbaijani==
+{{az-variant|c=јанаг|a=یاناق}}
+===Etymology===
+From {{inh|az|trk-cmn|-}}. According to Dybo, the {{inh|az|trk-pro|*yạyŋak}} is reconstructable &lt;ref&gt;{{R:tut-pro:SDM|*jạjŋak|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+948&amp;root=config}}&lt;/ref&gt;. Cognate with {{cog|tr|yanak}}, etc.
+===Pronunciation===
+* {{IPA|az|[jɑˈnɑχ]}}
+* {{hyph|az|ya|naq}}
+===Noun===
+{{az-noun}}
+# {{lb|az|anatomy}} [[cheek]] {{gloss|soft part of a face}}
+#: {{uxi|az|kimisə '''yanağından''' öpmək|to kiss somebody '''on the cheek'''}}
+====Declension====
+{{az-decl-noun|a|q}}
+===References===
+&lt;references/&gt;</text>
+<sha1>sujn2hdkqfonwpjvoncuuydfpce2u4n</sha1>
+</revision>
+</page>

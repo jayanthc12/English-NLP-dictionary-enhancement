@@ -1,0 +1,25 @@
+<page>
+<title>yaisi</title>
+<ns>0</ns>
+<id>5308354</id>
+<revision>
+<id>61117624</id>
+<parentid>47204711</parentid>
+<timestamp>2020-11-14T08:23:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant Unicode bidi marks</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="228" xml:space="preserve">==Northern Paiute==
+===Particle===
+{{head|pao|particle}}
+# [[then]] (temporal sequence)
+===References===
+* Sven Liljeblad, Catherine S Fowler, Glenda Powell, ''Northern Paiute–Bannock Dictionary'' (2012, {{ISBN|1607819686}}</text>
+<sha1>elhrrndm7mzoj3gkb0m7jjfgq4b129y</sha1>
+</revision>
+</page>

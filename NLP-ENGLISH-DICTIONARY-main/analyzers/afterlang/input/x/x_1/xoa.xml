@@ -1,0 +1,49 @@
+<page>
+<title>xoa</title>
+<ns>0</ns>
+<id>6354526</id>
+<revision>
+<id>63599549</id>
+<parentid>59776781</parentid>
+<timestamp>2021-08-08T05:55:29Z</timestamp>
+<contributor>
+<username>BabesLooker</username>
+<id>3811675</id>
+</contributor>
+<minor />
+<comment>/* Etymology 1 */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1981" xml:space="preserve">{{also|Xoa|xòa|xoà|xóa|xoá|xõa|xoã|Xô-a}}
+==Vietnamese==
+{{was fwotd|vi|2020|August|2}}
+===Pronunciation===
+{{vi-pron}}
+===Etymology 1===
+{{rfe|vi}}
+====Verb====
+{{vi-verb|{{vi-l|扠}}, {{vi-l|捘}}}}
+# to [[rub]], to [[pat]]. {{gloss|to move one object while maintaining contact with another object over some area}}
+#* {{quote-book|vi|title=Ba ngày luân lạc|author=Lê Văn Trương|year=1943|url={{fullurle:s:vi:Ba ngày luân lạc/Chương 11}}|passage=[[bu#Vietnamese|Bu]] nó '''xoa''' đầu nó.|translation=His mother '''rubbed''' his head.}}
+#* {{quote-song|vi|title=Ghen Cô Vy|lyricist=Khắc Hưng|artist=MIN, Erik|publisher=National Institute of Occupational and Environmental Health|date=2020-02-23|accessdate=2020-03-21|url=https://www.youtube.com/watch?v=BtulL3oArQw|passage=Cùng rửa tay '''xoa''' '''xoa''' '''xoa''' '''xoa''' đều|translation=And wash your hands, '''rub''' '''rub''' '''rub''' '''rub''' evenly}}
+# to [[apply]], to [[put]], to [[smear]], to [[rub]]. {{syn|vi|thoa|bôi|xức}}
+#* {{quote-book|vi|title=Ai làm được|author=Hồ Biểu Chánh|year=1922|url={{fullurle:s:vi:Ai làm được/Chương II}}|passage=Gia đinh với lính tráng chộn rộn không biết thuốc chi mà cứu, đứa chạy ra, đứa chạy vào, đứa rót nước trà, đứa '''xoa''' [[dầu gió]].|translation=Attendants and soldier were flustered, not knowing what medicine could save him. One ran out, another ran in, another poured tea, and still another '''rubbed''' medicated ointment.}}
+=====Derived terms=====
+{{vi-der|vừa đấm vừa xoa|xoa bóp|xoa đầu|xoa dịu|xoa xoa|xoa xuýt}}
+===Etymology 2===
+{{bor|vi|fr|soie}}.
+====Noun====
+{{vi-noun}}
+# [[silk]] [[fabric]]
+#: {{ux|vi|mua tấm vải '''xoa'''|to buy a length of '''silk'''}}
+=====Synonyms=====
+* {{sense|silk fabric}} {{vi-l|lụa}}
+===See also===
+* {{vi-l|mu-xoa}}
+* {{vi-l|xuýt xoa}}
+===References===
+* {{R:FVDP}}
+* {{R:WinVNKey:Lê Sơn Thanh}}</text>
+<sha1>92zteia1wv7ozp6uhxsopy9ph951zvi</sha1>
+</revision>
+</page>

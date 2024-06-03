@@ -1,0 +1,29 @@
+<page>
+<title>xilofonja</title>
+<ns>0</ns>
+<id>1791340</id>
+<revision>
+<id>52613517</id>
+<parentid>25652012</parentid>
+<timestamp>2019-05-02T22:19:18Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="295" xml:space="preserve">==Hungarian==
+===Etymology===
+{{af|hu|xilofon|-ja|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xi|lo|fon|ja}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||3|s|spos|poss}}
+====Declension====
+{{hu-infl-nom|xilofonjá|o|n=sg|esm_sg=1}}</text>
+<sha1>oalrmym3ftfn59m5wwh5l6eoje079u2</sha1>
+</revision>
+</page>

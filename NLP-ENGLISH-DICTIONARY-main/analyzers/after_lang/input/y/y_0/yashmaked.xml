@@ -1,0 +1,25 @@
+<page>
+<title>yashmaked</title>
+<ns>0</ns>
+<id>2471954</id>
+<revision>
+<id>51887420</id>
+<parentid>26929970</parentid>
+<timestamp>2019-03-15T11:04:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="109" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yashmak|ed}}
+===Adjective===
+{{en-adj|-}}
+# Wearing a [[yashmak]].</text>
+<sha1>sf91b8ixzjdlmkghea34a975d1xcihm</sha1>
+</revision>
+</page>

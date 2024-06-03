@@ -1,0 +1,54 @@
+<page>
+<title>yawning</title>
+<ns>0</ns>
+<id>85251</id>
+<revision>
+<id>67229237</id>
+<parentid>65351158</parentid>
+<timestamp>2022-06-02T09:06:46Z</timestamp>
+<contributor>
+<username>Zumbacool</username>
+<id>3930515</id>
+</contributor>
+<comment>/* Adjective */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2349" xml:space="preserve">==English==
+===Pronunciation===
+* {{IPA|en|/ˈjɔːnɪŋ/}}
+* {{rhymes|en|ɔːnɪŋ|s=2}}
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yawn|nocat=1}}
+===Noun===
+{{en-noun|~}}
+# The action of the verb [[yawn]].
+#* {{quote-book|en|year=1831|author={{w|Letitia Elizabeth Landon}}|title=Romance and Reality|volume=3|page=189|text=Her vivacity appeared as graceful as it was buoyant; her gay spirit seemed the musical overflowings of youth and happiness; her eye and cheek brightened together; and her sweet glad laugh was as catching as '''yawning'''.}}
+===Adjective===
+{{en-adj}}
+# That yawns or yawn.
+#: {{ux|en|'''yawning''' commuters}}
+# {{lb|en|figuratively}} Wide open.
+#: {{ux|en|a '''yawning''' chasm;&amp;nbsp; the shark's '''yawning''' jaws}}
+#* {{quote-journal|en|year=2007|month=November|author=Gil Schwartz|title=Escape from the job monster|journal={{w|Men's Health}}|volume=22|issue=9|issn=1054-4836|page={{gbooks|AsgDAAAAMBAJ|122|yawning}}|passage=That experience really taught me something. That deep down inside, I am broken, and that I'm using work to plaster over some '''yawning''' gap within myself.}}
+#* {{quote-journal|en|date=2013-08-03|volume=408|issue=8847|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/science-and-technology/21582495-computers-will-help-people-understand-brains-better-and-understanding-brains The machine of a new soul]
+|passage=The '''yawning''' gap in neuroscientists’ understanding of their topic is in the intermediate scale of the brain’s anatomy. Science has a passable knowledge of how individual nerve cells, known as neurons, work. It also knows which visible lobes and ganglia of the brain do what.}}
+#* {{quote-journal|1=en|year=2019|author=Li Huang|author2=James Lambert|title=Another Arrow for the Quiver: A New Methodology for Multilingual Researchers|journal=Journal of Multilingual and Multicultural Development|doi=10.1080/01434632.2019.1596115|page=1|text=But always and ever there is a '''yawning''' chasm below[.]}}
+====Derived terms====
+* {{l|en|yawningly}}
+* {{l|en|yawningness}}
+====Translations====
+{{trans-top|that yawns or yawn}}
+* Russian: {{t+|ru|зевающий}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|wide open}}
+* Greek:
+*: Ancient: {{t|grc|ἀχανής}}
+{{trans-mid}}
+* Russian: {{t+|ru|зияющий}}
+{{trans-bottom}}</text>
+<sha1>ps75kn7o7foixblu6le4wqj4ahxkpba</sha1>
+</revision>
+</page>

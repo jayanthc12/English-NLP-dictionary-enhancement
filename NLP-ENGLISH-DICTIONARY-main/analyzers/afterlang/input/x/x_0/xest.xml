@@ -1,0 +1,29 @@
+<page>
+<title>xest</title>
+<ns>0</ns>
+<id>6834981</id>
+<revision>
+<id>60775879</id>
+<parentid>50105690</parentid>
+<timestamp>2020-10-09T03:11:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up Northern Kurdish lemmas (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==Northern Kurdish==
+===Etymology===
+Compare {{cog|hy|հաստ}}.
+===Noun===
+{{ku-regional|ckb=خەست}}
+{{kmr-adj}}&lt;ref&gt;{{R:kmr:Amirxan|page=746a}}&lt;/ref&gt;
+# [[dense]], [[viscous]], [[consistent]]
+#: {{syn|kmr|tîr}}
+===References===
+&lt;references/&gt;</text>
+<sha1>os1mfb7osrp6srl5navj0r3bwz1mhbw</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>xariwe</title>
+<ns>0</ns>
+<id>1474980</id>
+<revision>
+<id>63426937</id>
+<parentid>44984402</parentid>
+<timestamp>2021-07-26T03:19:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="138" xml:space="preserve">==Mapudungun==
+===Noun===
+{{head|arn|noun}} {{arn-sp|r}}
+# [[belt]]
+===References===
+* {{R:Wixaleyiñ 2008}}
+[[Category:arn:Clothing]]</text>
+<sha1>a6cisj63m6g2vynnovos7py57whovtd</sha1>
+</revision>
+</page>

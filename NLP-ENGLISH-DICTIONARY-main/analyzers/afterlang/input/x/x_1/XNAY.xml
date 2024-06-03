@@ -1,0 +1,28 @@
+<page>
+<title>XNAY</title>
+<ns>0</ns>
+<id>51046</id>
+<revision>
+<id>66533069</id>
+<parentid>59856546</parentid>
+<timestamp>2022-04-29T06:57:34Z</timestamp>
+<contributor>
+<username>Binarystep</username>
+<id>1186500</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="527" xml:space="preserve">==English==
+===Etymology===
+{{initialism of|en|[[X]]-[[no|No]]-[[archive|Archive]]: [[yes]]}}, a [[Usenet]] message header that indicates the message should not be retained on the [[server]] after delivery. Probably also influenced by {{m|en|ixnay}}.
+===Phrase===
+{{en-phrase}}
+# {{lb|en|Internet slang}} Indicates the poster’s request for a message not to be stored in [[Usenet]] archives.
+====Related terms====
+* {{l|en|XNA|gloss=X-No-Archive}}
+====See also====
+* {{pedia|lang=en|X-No-Archive}}
+[[Category:en:Usenet]]</text>
+<sha1>3eeyihzdeu2fz5fc8cn5apue2h22i0z</sha1>
+</revision>
+</page>

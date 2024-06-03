@@ -1,0 +1,91 @@
+<page>
+<title>yammer</title>
+<ns>0</ns>
+<id>61121</id>
+<revision>
+<id>67279701</id>
+<parentid>66673252</parentid>
+<timestamp>2022-06-06T06:49:32Z</timestamp>
+<contributor>
+<ip>77.85.35.187</ip>
+</contributor>
+<comment>t+bg:[[вайкам се]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3809" xml:space="preserve">==English==
+{{was wotd|2008|June|14}}
+===Etymology===
+From {{inh|en|enm|ȝameren}}, {{m|enm|ȝaumeren}}, {{m|enm|yemeren}}, {{m|enm|ȝomeren}}, from {{inh|en|ang|ġeōmrian|t=to lament}}, from {{inh|en|gmw-pro|*jāmarōn}}, from {{inh|en|gem-pro|*jēmarōną|t=to show misery or sadness}}, from {{der|en|gem-pro|*jēmaraz|t=miserable, sorrowful, sad}}, from {{der|en|ine-pro|*yem-|t=to hold, match, defeat}}. Reinforced by cognate {{der|en|dum|jammeren}} (modern {{cog|nl|jammeren}}), from the same ultimate origin. Cognate also with {{cog|sco|yammer}}, {{cog|stq|jammerje}}, {{cog|fy|jammerje}}, {{cog|nds-de|jammern}}, {{cog|de|jammern}}, {{cog|da|jamre}}, {{cog|no|jamre}}. Compare also {{cog|non|amra|t=to howl, wail, yammer}}.
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈjæm.ə/}}
+* {{a|GA}} {{IPA|en|/ˈjæm.ɚ/}}
+* {{audio|en|en-us-yammer.ogg|Audio (US)}}
+* {{audio|en|en-au-yammer.ogg|Audio (AU)}}
+* {{rhymes|en|æmə(ɹ)|s=2}}
+===Verb===
+{{en-verb}}
+# {{lb|en|intransitive}} To [[complain]] [[peevishly]].
+# {{lb|en|intransitive}} To talk [[loudly]] and persistently.
+# {{lb|en|transitive}} To [[repeat]] on and on, usually loudly or in [[complaint]].
+# {{lb|en|intransitive|rare}} To make an [[outcry]]; to [[clamor]].
+#* {{quote-book|en|1951|[[w:Isaac Asimov|Isaac Asimov]]|[[w:Foundation (novel)|Foundation]]|edition=1974|publisher=[[w:Panther Books|Panther Books Ltd]]|part=V|chapter=“The Merchant Princes”, chapter 17|page=182|text=It was a ship, but a whale to the ''Dark Nebula''’s minnow; and on its side was the Spaceship-and-Sun of the Empire. Every alarm on the ship '''yammered''' hysterically.}}
+====Synonyms====
+* {{sense|complain}} {{l|en|whine}}, {{l|en|grumble}}
+* {{sense|repeat}} {{l|en|prattle}}, {{l|en|babble}}, {{l|en|yak}}
+* See also [[Thesaurus:complain]]
+====Translations====
+{{trans-top|to complain peevishly}}
+* Bulgarian: {{t|bg|вайкам се}}
+* German: {{t+|de|jammern}}
+* Hungarian: {{t+|hu|nyafog}}, {{t+|hu|nyavalyog}}
+* Russian: {{t+|ru|ныть}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|to talk loudly and persistently}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|to repeat on and on, usually loudly or in complaint}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|to make an outcry; to clamor}}
+{{trans-mid}}
+{{trans-bottom}}
+===Noun===
+{{en-noun|-}}
+# The act or noise of [[yammering]].
+#* '''1999''', {{w|J. M. Coetzee}}, ''{{w|Disgrace}}'', Penguin, 2000, Chapter Eight, pp. 72-73,
+#*: The house is just as he had imagined it would be: rubbishy furniture, a clutter of ornaments (porcelain shepherdesses, cowbells, an ostrich-feather flywhisk), the '''yammer''' of the radio, the cheeping of birds in cages, cats everywhere underfoot.
+# A loud [[noise]].
+#* '''1943''', [[w:Robert Sidney Bowen|R. Sidney Bown]], ''Dave Dawson with the Flying Tigers'', Akron, Ohio: Saalfield Publishing Company, Chapter Twelve,&lt;sup&gt;[https://www.gutenberg.org/files/50259/50259-h/50259-h.htm]&lt;/sup&gt;
+#*: The ungodly scream of Jap wings in the wind, and the blood-chilling snarl and '''yammer''' of their aerial machine gun and aerial cannon fire was enough to make the very ground shake and tremble.
+# One who [[yammers]].
+====Translations====
+{{trans-top|The act or noise of yammering}}
+* German: {{t+|de|Jammer}}
+* Russian: {{t+|ru|нытьё|n}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|A loud noise}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|One who yammers}}
+* Russian: {{t+|ru|нытик|m}}
+{{trans-mid}}
+{{trans-bottom}}
+===References===
+* {{R:Online Etymology Dictionary}}
+* {{R:Dictionary.com}}
+{{c|en|Sounds|Talking}}
+----
+==Scots==
+===Verb===
+{{sco-verb}}
+# {{lb|sco|intransitive}} to [[lament]]
+# {{lb|sco|intransitive}} to [[yearn]] for something
+===Noun===
+{{sco-noun|-}}
+# a [[cry]] of [[lamentation]]
+# the act of [[yammering]]</text>
+<sha1>ekkhbye8x9cjhbwu77jsc88rsidhl75</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>xilofonod</title>
+<ns>0</ns>
+<id>1791338</id>
+<revision>
+<id>58286575</id>
+<parentid>54798221</parentid>
+<timestamp>2020-01-02T21:19:40Z</timestamp>
+<contributor>
+<username>Panda10</username>
+<id>50598</id>
+</contributor>
+<comment>/* Hungarian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="298" xml:space="preserve">==Hungarian==
+===Etymology===
+{{affix|hu|xilofon|-od|pos2=possessive suffix|nocat=y}}
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|xi|lo|fo|nod}}
+===Noun===
+{{head|hu|noun form}}
+# {{inflection of|hu|xilofon||2|s|spos|poss}}
+====Declension====
+{{hu-infl-nom|xilofonoda|o|n=sg|esm_sg=1}}</text>
+<sha1>aeeys2b28dge2ctsvjt3t8r0whoywuu</sha1>
+</revision>
+</page>

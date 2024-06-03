@@ -1,0 +1,25 @@
+<page>
+<title>Xhosaness</title>
+<ns>0</ns>
+<id>4766938</id>
+<revision>
+<id>51954635</id>
+<parentid>32435246</parentid>
+<timestamp>2019-03-17T13:28:06Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="123" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Xhosa|ness}}
+===Noun===
+{{en-noun|-}}
+# The quality or state of being [[Xhosa]].</text>
+<sha1>aubrdwduazt0jq9ucip8ad7l90u0l54</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>yearends</title>
+<ns>0</ns>
+<id>4154171</id>
+<revision>
+<id>56292910</id>
+<parentid>53092850</parentid>
+<timestamp>2019-10-17T11:51:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yearend}}
+===Anagrams===
+* {{anagrams|en|a=adeenrsy|Daenerys|yanderes}}</text>
+<sha1>b5qro7u5ydx3lu4jhl5nqhxoculhoap</sha1>
+</revision>
+</page>

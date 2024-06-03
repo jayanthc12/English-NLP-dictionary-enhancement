@@ -1,0 +1,33 @@
+<page>
+<title>Yefrem</title>
+<ns>0</ns>
+<id>4239860</id>
+<revision>
+<id>67299089</id>
+<parentid>59329458</parentid>
+<timestamp>2022-06-06T12:32:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|ru}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="369" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|ru|Ефре́м}}. {{doublet|en|Ephraim}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|A=A Russian|from=Russian}}
+====Related terms====
+* {{l|en|Ephraim}}
+====Translations====
+{{trans-top|given name}}
+* Armenian: {{t|hy|Եֆրեմ|sc=Armn}}
+{{trans-mid}}
+* Russian: {{t+|ru|Ефре́м}}
+{{trans-bottom}}</text>
+<sha1>e139nc6f9mjvwf4tzo32z92adwr1tt8</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>xantocromie</title>
+<ns>0</ns>
+<id>1921360</id>
+<revision>
+<id>64360587</id>
+<parentid>62822046</parentid>
+<timestamp>2021-10-22T19:13:00Z</timestamp>
+<contributor>
+<username>Bogdan</username>
+<id>4306</id>
+</contributor>
+<comment>added Romanian definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="285" xml:space="preserve">==Italian==
+===Noun===
+{{head|it|noun form|g=f}}
+# {{plural of|it|xantocromia}}
+----
+==Romanian==
+===Etymology===
+From {{bor|ro|de|Xanthochromie}} or {{bor|ro|fr|xanthochromie}}.
+===Noun===
+{{ro-noun|f|-}}
+# [[xanthochromia]]
+====Declension====
+{{ro-noun-f-ie|xantocromi|n=sg}}</text>
+<sha1>tugliwy7310p7pfoa0ryw4tv2ceg6ls</sha1>
+</revision>
+</page>

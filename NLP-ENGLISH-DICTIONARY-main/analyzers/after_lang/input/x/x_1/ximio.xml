@@ -1,0 +1,36 @@
+<page>
+<title>ximio</title>
+<ns>0</ns>
+<id>4811973</id>
+<revision>
+<id>65007894</id>
+<parentid>56354048</parentid>
+<timestamp>2021-12-21T06:56:13Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<minor />
+<comment>/* Old Spanish */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="721" xml:space="preserve">{{also|ximío|ximió}}
+==Old Spanish==
+===Etymology===
+From {{inh|osp|la|sīmius}}, from {{m|la|sīmia||ape, monkey}}, from {{m|la|sīmus||flat-nosed}}, from {{der|osp|grc|σῑμός}}.
+===Pronunciation===
+* {{IPA|osp|/ˈʃimjo/}}
+===Noun===
+{{osp-noun|m}}
+# [[ape]], [[monkey]]
+#* '''c. 1250''', [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 98v.
+#*: Et que deſcenda ſobreſta piedra la uertud de figura de oḿe que lieua dos uacas. ¬ un '''ximio''' ¬ un oſſo ante ſi.
+#*:: And when over this stone descends the virtue of the figure of the man who has two cows, a '''monkey''' and a bear before him.
+====Related terms====
+* {{l|osp|ximia}}
+====Descendants====
+* {{desc|es|jimio}}
+[[Category:osp:Primates]]</text>
+<sha1>85f7p7isyp371blj5q3qufspe3fe2at</sha1>
+</revision>
+</page>

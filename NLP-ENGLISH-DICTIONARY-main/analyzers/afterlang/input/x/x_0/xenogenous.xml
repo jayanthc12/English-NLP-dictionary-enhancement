@@ -1,0 +1,32 @@
+<page>
+<title>xenogenous</title>
+<ns>0</ns>
+<id>1743301</id>
+<revision>
+<id>55712603</id>
+<parentid>51979846</parentid>
+<timestamp>2019-10-15T13:25:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="865" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|genous}}
+===Pronunciation===
+* {{a|RP}} {{enPR|zĕnŏʹjənəs}}, {{IPA|en|/zɛˈnɒd͡ʒənəs/}}
+===Adjective===
+{{en-adj|-}}
+# Of foreign [[origin]]; [[xenogenic]].
+# {{lb|en|pathology}} Caused by a [[foreign body]]; [[originate|originating]] outside the [[organism]].&lt;ref name=&quot;IMD&quot;&gt;''The Illustrated Medical Dictionary'' by William Alexander Newman Dorland (2&lt;sup&gt;nd&lt;/sup&gt; Ed.; 1901)&lt;br/&gt; '''Xenogenous''' caused by a foreign body, or originating outside the organism.&lt;/ref&gt;
+===References===
+* “&lt;span class=&quot;plainlinks&quot;&gt;[http://dictionary.oed.com/cgi/entry/50288470/50288470?se23&amp;hilite=50288470se23 xeˈnogenous]” defined as a derived term of “[http://dictionary.oed.com/cgi/entry/50288470 xeno-]&lt;/span&gt;”, listed in the '''Oxford English Dictionary''' [2&lt;sup&gt;nd&lt;/sup&gt; Ed.; 1989]
+* Notes:
+&lt;references/&gt;</text>
+<sha1>dia98ffbn9nigexwbz4nmd9setybkjd</sha1>
+</revision>
+</page>

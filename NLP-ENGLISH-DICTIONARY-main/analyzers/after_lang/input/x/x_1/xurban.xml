@@ -1,0 +1,28 @@
+<page>
+<title>xurban</title>
+<ns>0</ns>
+<id>6228132</id>
+<revision>
+<id>61409814</id>
+<parentid>61257660</parentid>
+<timestamp>2020-12-28T18:30:20Z</timestamp>
+<contributor>
+<username>ToilBot</username>
+<id>3640067</id>
+</contributor>
+<minor />
+<comment>replaced {{[[T:mt-rootbox|mt-rootbox]]}} with {{[[T:mt-root|mt-root]]}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="276" xml:space="preserve">==Maltese==
+{{mt-root|x-r-b}}
+===Etymology===
+From {{m|mt|xorob|t=to drink}}. Compare {{cog|apc|شربان|tr=šarbān, širbān}}.
+===Pronunciation===
+* {{IPA|mt|/ʃurˈbaːn/}}
+===Adjective===
+{{mt-adjective|f=xurbana|p=xurbana|p2=xurbanin}}
+# [[drunk]], [[intoxicated]]</text>
+<sha1>rz7p0dd5ptl34saux5vksdafh64540u</sha1>
+</revision>
+</page>

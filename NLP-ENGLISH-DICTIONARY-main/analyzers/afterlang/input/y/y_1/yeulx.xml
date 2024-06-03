@@ -1,0 +1,25 @@
+<page>
+<title>yeulx</title>
+<ns>0</ns>
+<id>2496632</id>
+<revision>
+<id>62952352</id>
+<parentid>55892110</parentid>
+<timestamp>2021-06-25T07:09:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Middle French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="122" xml:space="preserve">==Middle French==
+===Noun===
+{{head|frm|noun form|g=m}}
+# {{plural of|frm|œil}}
+====Descendants====
+* {{desc|fr|yeux}}</text>
+<sha1>a22ss9ozlfq5qwvsznfg4x9uvay2a14</sha1>
+</revision>
+</page>

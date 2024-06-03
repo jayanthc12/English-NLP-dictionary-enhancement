@@ -1,0 +1,62 @@
+<page>
+<title>Xinzhou</title>
+<ns>0</ns>
+<id>6528813</id>
+<revision>
+<id>67889910</id>
+<parentid>67656653</parentid>
+<timestamp>2022-07-12T01:42:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1568" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsin-chou}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-l|忻州}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Shanxi|c/China}}.
+=====Translations=====
+{{trans-top|city in Shanxi, China}}
+* Chinese:
+*: Cantonese: {{t|yue|忻州|tr=jan1 zau1}}
+*: Mandarin: {{t+|cmn|忻州|tr=Xīnzhōu}}
+{{trans-mid}}
+{{trans-bottom}}
+===Etymology 2===
+{{wikipedia|Xinzhou District, Wuhan}}
+From the {{bor|en|cmn-pinyin|-}} romanization of {{bor|en|cmn|-}} {{zh-l|新洲}}.
+====Alternative forms====
+* {{l|en|Sinchow}}
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|district|sub-provincial city/Wuhan|p/Hubei|c/China}}.
+#* {{quote-web
+|en
+|date=2022-01-25
+|title=Photographing China: Farmers busy harvesting lotus roots in Wuhan
+|editor=huaxia
+|archiveurl=https://web.archive.org/web/20220125060953/http://www.xinhuanet.com/english/20220125/a27f2941086c44eaa775906dd65b3524/c.html
+|archivedate=2022-01-25
+|work={{w|Xinhua News Agency}}
+|text=Deep in winter, farmers of a specialized cooperative are busy uprooting and gathering lotus roots in muddy water covering some 500 acres in Zhangduhu Street, '''Xinzhou''' District, Wuhan, central China’s Hubei Province.}}
+=====Translations=====
+{{trans-top|district in Hubei, China}}
+* Chinese:
+*: Cantonese: {{t|yue|新洲|tr=san1 zau1}}
+*: Mandarin: {{t+|cmn|新洲|tr=Xīnzhōu}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>rmoumfw5w51sd28vzcz74jipvssed3s</sha1>
+</revision>
+</page>

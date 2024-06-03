@@ -1,0 +1,33 @@
+<page>
+<title>yams</title>
+<ns>0</ns>
+<id>284132</id>
+<revision>
+<id>63212723</id>
+<parentid>63015044</parentid>
+<timestamp>2021-07-19T18:50:43Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="289" xml:space="preserve">{{also|Yams}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yam}}
+===Anagrams===
+* {{anagrams|en|a=amsy|Amys|Mays|Smay|SyAM|mays|syma|yas'm}}
+----
+==Dutch==
+===Pronunciation===
+* {{audio|nl|Nl-yams.ogg|Audio}}
+===Noun===
+{{head|nl|noun form}}
+# {{plural of|nl|yam}}</text>
+<sha1>4iykvb55kc0wr7omdy7vnimlzhzr5p1</sha1>
+</revision>
+</page>

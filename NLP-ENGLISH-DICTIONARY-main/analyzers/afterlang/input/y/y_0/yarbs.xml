@@ -1,0 +1,25 @@
+<page>
+<title>yarbs</title>
+<ns>0</ns>
+<id>5786322</id>
+<revision>
+<id>58524588</id>
+<parentid>55931394</parentid>
+<timestamp>2020-01-24T05:07:22Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yarb}}
+===Anagrams===
+* {{anagrams|en|a=abrsy|Barys|Rabys|Rybas|brays}}</text>
+<sha1>mjdb2ow08i78v1ysbm4j7bk6vjnpoyu</sha1>
+</revision>
+</page>

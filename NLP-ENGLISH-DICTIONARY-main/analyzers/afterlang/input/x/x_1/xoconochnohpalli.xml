@@ -1,0 +1,29 @@
+<page>
+<title>xoconochnohpalli</title>
+<ns>0</ns>
+<id>3762102</id>
+<revision>
+<id>61235270</id>
+<parentid>56186608</parentid>
+<timestamp>2020-12-02T09:05:30Z</timestamp>
+<contributor>
+<username>Koszmonaut</username>
+<id>346168</id>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="478" xml:space="preserve">==Classical Nahuatl==
+===Etymology===
+From {{compound|nci|xoconōchtli|nohpalli|t1=sour prickly pear|t2=nopal; cactus}}.
+===Pronunciation===
+* {{IPA|nci|[ʃókonóːt͡ʃ.noʔˈpálːi]}}
+===Noun===
+{{head|head=xoconōchnohpalli|nci|noun|g=in|plural|xoconōchnohpalli}}
+# {{gloss|it is}} a type of [[fruit-bearing]] [[cactus]], a [[cholla]]; ''[[species:Cylindropuntia imbricata|Cylindropuntia imbricata]]''.
+====Synonyms====
+* {{l|nci|tenohpalli}}
+[[Category:nci:Plants]]</text>
+<sha1>lj5c5xesmhvln8lzwmf7ygwvbwursmg</sha1>
+</revision>
+</page>

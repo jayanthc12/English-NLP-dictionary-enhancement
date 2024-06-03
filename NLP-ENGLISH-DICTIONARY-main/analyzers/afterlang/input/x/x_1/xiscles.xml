@@ -1,0 +1,23 @@
+<page>
+<title>xiscles</title>
+<ns>0</ns>
+<id>7061178</id>
+<revision>
+<id>56416734</id>
+<parentid>51252448</parentid>
+<timestamp>2019-10-18T01:42:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xiscle}}</text>
+<sha1>264t0fad7asohytswfdh9w4wk4fwhwi</sha1>
+</revision>
+</page>

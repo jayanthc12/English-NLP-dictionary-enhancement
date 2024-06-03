@@ -1,0 +1,28 @@
+<page>
+<title>yhteishuoltaja</title>
+<ns>0</ns>
+<id>5117155</id>
+<revision>
+<id>69318432</id>
+<parentid>59682852</parentid>
+<timestamp>2022-09-18T17:17:58Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="274" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteinen|alt1=yhteis-|huoltaja}}
+===Pronunciation===
+{{fi-p|yhteis-huoltaja}}
+===Noun===
+{{fi-noun}}
+# [[joint]] [[custodian]] {{gloss|one of the partners in a joint custody}}
+====Declension====
+{{fi-decl-koira|yhteishuoltaj|||a}}</text>
+<sha1>crh7pd76y85s6v2yzeqvb6vfqbn3km1</sha1>
+</revision>
+</page>

@@ -1,0 +1,40 @@
+<page>
+<title>yaymaq</title>
+<ns>0</ns>
+<id>7284759</id>
+<revision>
+<id>60078317</id>
+<parentid>60078315</parentid>
+<timestamp>2020-08-14T23:36:27Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Verb */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="843" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|*yād-||to spread}}.&lt;ref&gt;{{R:trk-pro:SDM|*jĀd-|1340}}&lt;/ref&gt;
+===Verb===
+{{az-verb}}
+# {{lb|az|transitive}} to [[spread]]
+#: {{uxi|az|[[qorxu]] '''yaymaq'''|to '''spread''' fear}}
+#: {{uxi|az|[[xəstəlik]] '''yaymaq'''|to '''spread''' disease}}
+#: {{uxi|az|[[din]]i '''yaymaq'''|to '''spread''' the religion}}
+# {{lb|az|transitive}} to [[broadcast]]
+#: {{syn|az|yayımlamaq}}
+# {{lb|az|transitive}} to [[dissipate]], to [[disseminate]], to [[scatter]], to [[disperse]]
+====Conjugation====
+{{az-conj|a}}
+====Derived terms====
+* {{l|az|yayınmaq||to become diverted; to evade}}
+** {{l|az|yayındırmaq||to divert, distract}}
+* {{l|az|yayılmaq||to spread|pos=intransitive}}
+* {{l|az|yayım||broadcast, transmission}}
+** {{l|az|yayımlamaq||to broadcast}}
+===References===
+&lt;references/&gt;</text>
+<sha1>byegg1wudvw5paz7il8luhtdq381fdp</sha1>
+</revision>
+</page>

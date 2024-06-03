@@ -1,0 +1,25 @@
+<page>
+<title>xeromorfa</title>
+<ns>0</ns>
+<id>1921372</id>
+<revision>
+<id>64693865</id>
+<parentid>64460183</parentid>
+<timestamp>2021-11-20T05:00:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove existing {{rhymes|it}}; insert {{it-pr|xeromòrfa}} into existing Pronunciation section (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="138" xml:space="preserve">==Italian==
+===Pronunciation===
+{{it-pr|xeromòrfa}}
+===Adjective===
+{{head|it|adjective form}}
+# {{feminine singular of|it|xeromorfo}}</text>
+<sha1>pmgj616ewa8ag3bwo3bbt6c7qpgio2k</sha1>
+</revision>
+</page>

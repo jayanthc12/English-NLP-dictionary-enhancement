@@ -1,0 +1,50 @@
+<page>
+<title>xenarthran</title>
+<ns>0</ns>
+<id>1625338</id>
+<revision>
+<id>67304959</id>
+<parentid>67292348</parentid>
+<timestamp>2022-06-06T21:41:11Z</timestamp>
+<contributor>
+<username>Hergilei</username>
+<id>602440</id>
+</contributor>
+<comment>t+pl:[[szczerbak]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3147" xml:space="preserve">==English==
+[[File:Southern Three Banded Armadillo 001-2.jpg|right|thumb|A southern three-banded armadillo (''Tolypeutes matacus''), a xenarthran]]
+{{wikipedia|Xenarthra}}
+===Etymology===
+From {{uder|en|grc|ξένος||strange}} + {{m|grc|ἄρθρον||joint}}.
+===Noun===
+{{en-noun}}
+# {{lb|en|zoology}} Any mammal of the of superorder [[Xenarthra]], of the Americas; an [[anteater]], [[armadillo]] or [[sloth]].
+#* '''1978''', Terry A. Vaughan, James M. Ryan, Nicholas J. Czaplewski, ''Mammalogy'', [https://books.google.com.au/books?id=96HuAAAAMAAJ&amp;q=%22xenarthran%22%7C%22xenarthrans%22&amp;dq=%22xenarthran%22%7C%22xenarthrans%22&amp;hl=en&amp;sa=X&amp;ei=12VQVan6EMLBmAXtzIHYDg&amp;ved=0CKgDEOgBMEw page 355],
+#*: Elephant-shrews, '''xenarthrans''', hystricognathous rodents, cetaceans, some pinnipeds, and primates depart sharply from this trend, however.
+#* '''2000''', John F. Eisenberg, Kent H. Redford, ''Mammals of the Neotropics'', Volume 3: Ecuador, Bolivia, Brazil, [https://books.google.com.au/books?id=p2MDAzCeQQoC&amp;pg=PA90&amp;dq=%22xenarthran%22%7C%22xenarthrans%22&amp;hl=en&amp;sa=X&amp;ei=12VQVan6EMLBmAXtzIHYDg&amp;ved=0CHkQ6AEwEw#v=onepage&amp;q=%22xenarthran%22%7C%22xenarthrans%22&amp;f=false page 90],
+#*: '''Xenarthrans''' appear to have originated in South America and to have undergone their major adaptive radiation there (Reig 1981).
+#* '''2008''', Christine Argot, ''3: Changing Views in Paleontology: The Story of a Giant (Megatherium, Xenarthra)'', Eric J. Sargis, Marian Dagosto (editors), ''Mammalian Evolutionary Morphology: A Tribute to Frederick S. Szalay'', [https://books.google.com.au/books?id=6_n2Sr7kIO8C&amp;pg=PA37&amp;dq=%22xenarthran%22%7C%22xenarthrans%22&amp;hl=en&amp;sa=X&amp;ei=12VQVan6EMLBmAXtzIHYDg&amp;ved=0CIACEOgBMCs#v=onepage&amp;q=%22xenarthran%22%7C%22xenarthrans%22&amp;f=false page 37],
+#*: Only four '''xenarthran''' families are extant today, providing little indication of the past richness of the order.
+#* '''2010''', Ana Maria Jansen, André Luiz Rodrigues Roque, ''11: Domestic and Wild Mammalian Reservoirs'', Jenny Telleria, Michel Tibayrenc, ''American Trypanosomiasis: Chagas Disease: One Hundred Years of Research'', [https://books.google.com.au/books?id=sXL_ESJ_Zl4C&amp;pg=PA249&amp;dq=%22xenarthran%22%7C%22xenarthrans%22&amp;hl=en&amp;sa=X&amp;ei=12VQVan6EMLBmAXtzIHYDg&amp;ved=0CIABEOgBMBQ#v=onepage&amp;q=%22xenarthran%22%7C%22xenarthrans%22&amp;f=false page 249],
+#*: Marsupials and '''xenarthrans''', which represented the autochthonous mammalian fauna, were ''T.&lt;sup&gt;[Trypanosoma]&lt;/sup&gt; cruzi''’s first hosts.
+====Usage notes====
+The '''xenarthrans''' were previously included within now obsolete ([[polyphyletic]]) order [[Edentata]], along with [[aardvark]]s and [[pangolin]]s.
+====Hypernyms====
+* {{sense|any species of Xenarthra}} {{l|en|edentate}} {{qualifier|obsolete classification}}
+====Hyponyms====
+* {{sense|any species of Xenarthra}} {{l|en|anteater}}, {{l|en|armadillo}}, {{l|en|glyptodont}}, [[pampathere]], [[sloth]]
+====Derived terms====
+* [[xenarthrous]]
+====Translations====
+{{trans-top|mammal}}
+* French: {{t+|fr|xénarthre|m}}
+{{trans-mid}}
+* Italian: {{t+|it|xenartro|m}}
+* Polish: {{t|pl|szczerbak|m}}
+{{trans-bottom}}
+[[Category:en:Mammals]]</text>
+<sha1>o6fznr6h0r7rqxpepjx7nu0kvra9yu2</sha1>
+</revision>
+</page>

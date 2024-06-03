@@ -1,0 +1,78 @@
+<page>
+<title>Xihe</title>
+<ns>0</ns>
+<id>7103329</id>
+<revision>
+<id>68470643</id>
+<parentid>67916963</parentid>
+<timestamp>2022-07-26T08:19:17Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Etymology 3 */ 2011 newspaper</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2060" xml:space="preserve">{{also|xīhé|Xīhé}}
+==English==
+{{wikipedia}}
+===Pronunciation===
+{{rfp|en}}
+===Etymology 1===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|羲和}}.
+====Proper noun====
+{{en-proper noun}}
+# a [[solar]] [[deity]] in [[Chinese]] [[mythology]]
+=====Translations=====
+{{trans-top|deity}}
+* Chinese:
+*: Mandarin: {{t+|cmn|羲和|tr=Xīhé|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 2===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|西河}}.
+====Alternative forms====
+* {{q|{{w|postal romanization}}}} {{l|en|Siho}}
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsi-ho}}
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|town|district/Xiaonan|prefecture-level city/Xiaogan|p/Hubei|c/China}}.
+=====Translations=====
+{{trans-top|town in central China}}
+* Chinese:
+*: Mandarin: {{t|cmn|西河|tr=Xīhé|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 3===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} Chinese pronunciation for {{zh-l|西和}}.
+====Proper noun====
+{{en-proper noun}}
+# {{place|en|county|prefecture-level city/Longnan|p/Gansu|c/China}}.
+#* {{quote-journal
+|en
+|date=May 13, 2011
+|last=Li
+|first=Zhixin
+|title=Ministry-UNICEF quake qork an impressive success
+|journal={{w|Beijing Today}}
+|url=https://archive.org/details/BeijingTodayCN20110513/
+|issue=518
+|issn=2095-9591
+|oclc=958634538
+|page=2
+|section=News
+|pageurl=https://archive.org/details/BeijingTodayCN20110513/page/n1/
+|column=5
+|text=In the second grade classroom of Shili Zhongxin Primary School, '''Xihe''' County, Gansu Province, 8-year-old Ren Xiang always comes early for morning reading.{{...}}&lt;br&gt;The Wenchuan quake of 2008 damaged or destroyed 334 schools and kindergartens in '''Xihe''' County.}}
+=====Translations=====
+{{trans-top|county}}
+* Chinese:
+*: Mandarin: {{t+|cmn|西和|tr=Xīhé|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>nd4ec0j7uvha49nz2310gezu31z15eu</sha1>
+</revision>
+</page>

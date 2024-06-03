@@ -1,0 +1,24 @@
+<page>
+<title>yaude</title>
+<ns>0</ns>
+<id>6362013</id>
+<revision>
+<id>67257904</id>
+<parentid>67195493</parentid>
+<timestamp>2022-06-05T08:44:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove redundant 1=mf in {{fr-adj}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">{{also|Yaude}}
+==French==
+===Adjective===
+{{fr-adj}}
+# {{lb|fr|relational}} of [[Amanzé]]</text>
+<sha1>1ko9xx8s5ss8pz4t03emho6jovkyerj</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>xuntariades</title>
+<ns>0</ns>
+<id>1213418</id>
+<revision>
+<id>56582619</id>
+<parentid>34989393</parentid>
+<timestamp>2019-10-18T08:09:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Galician==
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xuntar||2|p|cond|indc}}</text>
+<sha1>9flnh157jhmg1ozi55blex5qlzz9u1g</sha1>
+</revision>
+</page>

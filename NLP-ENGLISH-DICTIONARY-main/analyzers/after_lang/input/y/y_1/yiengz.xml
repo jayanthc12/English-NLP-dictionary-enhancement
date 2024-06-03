@@ -1,0 +1,41 @@
+<page>
+<title>yiengz</title>
+<ns>0</ns>
+<id>6629099</id>
+<revision>
+<id>61605519</id>
+<parentid>58669640</parentid>
+<timestamp>2021-01-19T13:30:04Z</timestamp>
+<contributor>
+<username>350bot</username>
+<id>3359239</id>
+</contributor>
+<minor />
+<comment>update {{za-head}} syntax</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="526" xml:space="preserve">==Zhuang==
+===Pronunciation===
+* {{za-pron}}
+===Etymology 1===
+From {{bor|za|zh|-}} {{ltc-l|羊}}.
+====Noun====
+{{za-head|noun|𦍕}}
+# [[caprid]]; [[sheep]]; [[goat]]
+#: {{syn|za|mbej}}
+=====Derived terms=====
+{{der3|za|yiengzbya|yiengznyoengq|bwnyiengz|faengxgaeuyiengz}}
+===Etymology 2===
+From {{bor|za|zh|-}} {{ltc-l|陽}}.
+====Noun====
+{{za-head|noun}}
+# {{lb|za|philosophy}} [[yang]]
+#: {{ant|za|yaem}}
+====Adjective====
+{{za-head|adjective}}
+# [[embossed]]; in [[relief]]
+#: {{ant|za|yaem}}
+{{C|za|Caprines}}</text>
+<sha1>6l5gdr27x8wmcm3wt41wag7g2rmrxhh</sha1>
+</revision>
+</page>

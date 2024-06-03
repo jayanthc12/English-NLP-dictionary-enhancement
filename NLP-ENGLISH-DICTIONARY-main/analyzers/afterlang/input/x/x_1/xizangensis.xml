@@ -1,0 +1,25 @@
+<page>
+<title>xizangensis</title>
+<ns>0</ns>
+<id>3401486</id>
+<revision>
+<id>58354914</id>
+<parentid>53730853</parentid>
+<timestamp>2020-01-11T08:09:15Z</timestamp>
+<contributor>
+<username>B-Fahrer</username>
+<id>3632281</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Latin==
+===Etymology===
+From {{der|la|cmn|西藏||Tibet|tr=Xīzàng}} + Latin {{m|la|-ēnsis||from a place}}.
+===Adjective===
+{{la-adj|xizangēnsis}}
+# [[Tibetan]]
+====Declension====
+{{la-adecl|xizangēnsis}}</text>
+<sha1>91d60qz4ghif3nhstarw1th9xzmtj3u</sha1>
+</revision>
+</page>

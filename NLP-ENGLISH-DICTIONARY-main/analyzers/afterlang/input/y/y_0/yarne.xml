@@ -1,0 +1,30 @@
+<page>
+<title>yarne</title>
+<ns>0</ns>
+<id>1215411</id>
+<revision>
+<id>66323674</id>
+<parentid>61793082</parentid>
+<timestamp>2022-04-01T11:38:18Z</timestamp>
+<contributor>
+<username>Hazarasp</username>
+<id>3219301</id>
+</contributor>
+<minor />
+<comment>/* Middle English */ Moving headword</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="260" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{obsolete spelling of|en|yarn}}
+===Anagrams===
+* {{anagrams|en|a=aenry|Aeryn|Arney|Neary|Neyra|Raney|Rayne|Yaren|aryne|rayne|renay|yearn}}
+----
+==Middle English==
+===Noun===
+{{head|enm|noun}}
+# {{alt form|enm|yarn}}</text>
+<sha1>gouplosavnljgcj94mrpn7sdzjfhimq</sha1>
+</revision>
+</page>

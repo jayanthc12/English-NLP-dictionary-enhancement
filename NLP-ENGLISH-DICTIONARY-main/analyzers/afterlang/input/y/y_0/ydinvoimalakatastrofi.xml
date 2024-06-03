@@ -1,0 +1,28 @@
+<page>
+<title>ydinvoimalakatastrofi</title>
+<ns>0</ns>
+<id>4405108</id>
+<revision>
+<id>69318296</id>
+<parentid>52035605</parentid>
+<timestamp>2022-09-18T17:10:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="292" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydinvoimala|t1=nuclear power plant|katastrofi|t2=catastrophe}}
+===Pronunciation===
+{{fi-p|ydin-voimala/katas(.)trofi}}
+===Noun===
+{{fi-noun}}
+# [[nuclear power plant]] [[catastrophe]]
+====Declension====
+{{fi-decl-risti|ydinvoimalakatastrof|||a}}</text>
+<sha1>bszc10npyjxk7j3qeop6d0p1ajkz8dq</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xueves</title>
+<ns>0</ns>
+<id>2463873</id>
+<revision>
+<id>68501604</id>
+<parentid>47663835</parentid>
+<timestamp>2022-07-31T16:07:33Z</timestamp>
+<contributor>
+<username>Rodrigo5260</username>
+<id>3579806</id>
+</contributor>
+<comment>/* Asturian */Added {{ast-IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="229" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la||Iovis dīēs}}, variant of {{m|la|dīēs Iovis}}.
+===Pronunciation===
+{{ast-IPA}}
+===Noun===
+{{ast-noun|m|xueves}}
+# [[Thursday]]
+===See also===
+* {{list:days of the week/ast}}</text>
+<sha1>sh0anshy2g51riiksf9hpz0aqjfrcgp</sha1>
+</revision>
+</page>

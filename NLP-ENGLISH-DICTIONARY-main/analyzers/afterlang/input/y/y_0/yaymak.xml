@@ -1,0 +1,43 @@
+<page>
+<title>yaymak</title>
+<ns>0</ns>
+<id>5360879</id>
+<revision>
+<id>69345016</id>
+<parentid>69343919</parentid>
+<timestamp>2022-09-21T19:42:49Z</timestamp>
+<contributor>
+<username>Rd1978</username>
+<id>3663272</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="949" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|ota|یایمق|tr=yaymak|t=to spread}}, from  {{inh|tr|trk-pro|*yād-||to spread}}.&lt;ref&gt;{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2faltet&amp;text_number=2584&amp;root=config “*ǯādV”]&lt;/ref&gt;. Cognate with {{cog|otk||tr=yād-|t=to spread}}, {{cog|ky|жаюу||to spread}}, {{cog|uz|yoymoq||to spread}}. Compare {{cog|mn|задлах||to unleash}}.
+===Verb===
+{{tr-verb|yayar}}
+# {{lb|tr|transitive}} to [[scatter]]; to [[spread]]
+# {{lb|tr|transitive}} to [[spread]], [[broadcast]], [[disseminate]]
+====Conjugation====
+{{tr-conj|yay|ı|yayar|a|d}}
+====Synonyms====
+* {{l|tr|dağıtmak}}
+* {{l|tr|saçmak}}
+====Derived terms====
+* {{l|tr|yayma}}
+* {{l|tr|yaygın}}
+* {{l|tr|yayım}}
+* {{l|tr|yayın}}
+* {{l|tr|yaygı}}
+* {{l|tr|yayılmak}}
+* {{l|tr|yaydırmak}}
+====Related terms====
+* {{l|tr|yaya}}
+* {{l|tr|yayık}}
+===References===
+&lt;references/&gt;</text>
+<sha1>j9usznqj6ue7f0dl4qk9do860pym91z</sha1>
+</revision>
+</page>

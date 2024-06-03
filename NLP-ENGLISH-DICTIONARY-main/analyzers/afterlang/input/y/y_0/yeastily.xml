@@ -1,0 +1,25 @@
+<page>
+<title>yeastily</title>
+<ns>0</ns>
+<id>1788724</id>
+<revision>
+<id>51870528</id>
+<parentid>45995581</parentid>
+<timestamp>2019-03-15T06:10:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="104" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yeasty|ly}}
+===Adverb===
+{{en-adv}}
+# In a [[yeasty]] manner.</text>
+<sha1>rqsc3t8esj2uod42isp4hphlfu98fs4</sha1>
+</revision>
+</page>

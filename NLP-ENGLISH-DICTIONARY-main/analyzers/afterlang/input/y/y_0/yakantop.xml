@@ -1,0 +1,27 @@
+<page>
+<title>yakantop</title>
+<ns>0</ns>
+<id>4563376</id>
+<revision>
+<id>48457426</id>
+<parentid>48452946</parentid>
+<timestamp>2018-01-22T00:55:46Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed 2= from tr-infl-noun-c</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="145" xml:space="preserve">==Turkish==
+{{wikipedia|lang=tr}}
+===Noun===
+{{tr-noun|u|lar}}
+# [[dodgeball]]
+====Declension====
+{{tr-infl-noun-c|o}}
+[[Category:tr:Sports]]</text>
+<sha1>c1yrmfczjbuy6ser8sq5deukayw0350</sha1>
+</revision>
+</page>

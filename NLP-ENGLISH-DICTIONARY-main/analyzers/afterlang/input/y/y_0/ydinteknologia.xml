@@ -1,0 +1,28 @@
+<page>
+<title>ydinteknologia</title>
+<ns>0</ns>
+<id>540575</id>
+<revision>
+<id>69318279</id>
+<parentid>51992216</parentid>
+<timestamp>2022-09-18T17:09:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="216" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|teknologia}}
+===Pronunciation===
+{{fi-p|ydin-teknologia}}
+===Noun===
+{{fi-noun}}
+# [[nuclear]] [[technology]]
+====Declension====
+{{fi-decl-kulkija|ydinteknologi|a}}</text>
+<sha1>g8ieyt5bqdahwo06bu863i3vpi0je8k</sha1>
+</revision>
+</page>

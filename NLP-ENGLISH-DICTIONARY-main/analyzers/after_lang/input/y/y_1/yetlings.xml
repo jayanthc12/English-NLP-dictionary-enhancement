@@ -1,0 +1,25 @@
+<page>
+<title>yetlings</title>
+<ns>0</ns>
+<id>6017790</id>
+<revision>
+<id>62033153</id>
+<parentid>56087448</parentid>
+<timestamp>2021-03-12T01:34:46Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yetling}}
+===Anagrams===
+* {{anagrams|en|a=egilnsty|Stingley|Tingleys|glisteny|lyingest|yeltings}}</text>
+<sha1>2zq1i9u528rmqghchksac15in4xvm28</sha1>
+</revision>
+</page>

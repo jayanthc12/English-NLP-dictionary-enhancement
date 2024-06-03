@@ -1,0 +1,23 @@
+<page>
+<title>Yanomamis</title>
+<ns>0</ns>
+<id>5875457</id>
+<revision>
+<id>55965521</id>
+<parentid>53092701</parentid>
+<timestamp>2019-10-16T11:36:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="74" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yanomamo}}</text>
+<sha1>7k7o0gtu8qsbd0u392941o6dqqhorha</sha1>
+</revision>
+</page>

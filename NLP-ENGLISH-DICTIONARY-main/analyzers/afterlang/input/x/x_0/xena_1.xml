@@ -1,0 +1,50 @@
+<page>
+<title>xena</title>
+<ns>0</ns>
+<id>2156005</id>
+<revision>
+<id>66995140</id>
+<parentid>64993979</parentid>
+<timestamp>2022-05-15T09:46:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>combine adjacent calls to {{inflection of|la|xenon}} (2); combine {{inflection of|la|xenon}} tag sets nom|p and acc|p into nom//acc|p; combine {{inflection of|la|xenon}} tag sets nom//acc|p and voc|p into nom//acc//voc|p</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="817" xml:space="preserve">{{also|Xena}}
+==Galician==
+===Noun===
+{{gl-noun|f}}
+# [[goat]]
+[[Category:gl:Mammals]]
+----
+==Latin==
+===Noun===
+{{la-noun-form|xena}}
+# {{inflection of|la|xenon||nom//acc//voc|p}}
+----
+==Maltese==
+===Etymology 1===
+From {{bor|mt|it|scena}}.
+====Pronunciation====
+* {{IPA|mt|/ˈʃɛː.na/}}
+====Noun====
+{{mt-noun|g=f|p=xeni}}
+# [[scene]], [[set]]
+# [[scene]], [[view]]
+=====Related terms=====
+{{col5|mt|[[xenata]] ([[xinata]])|xeniku|xenjuż|xenarju|xenarista|xeneġġjar|xeneġġjatur|xeneġġjatura|xenografija|xenografu|xenografiku|xenografikament|xxenja}}
+===Etymology 2===
+{{mt-root|x-n-j}}
+From {{inh|mt|ar|شَنَأَ}}, {{m|ar|شَنِئَ}}.
+====Pronunciation====
+* {{IPA|mt|/ˈʃɛ.na/}}
+====Verb====
+{{mt-verb|jixni|mixni||xini}}
+# to [[hate]], to [[bear]] [[ill-will]] towards someone</text>
+<sha1>a3z325nb994weemxwnyd70aziho3a8v</sha1>
+</revision>
+</page>

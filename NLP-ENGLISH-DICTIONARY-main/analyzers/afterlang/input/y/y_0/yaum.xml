@@ -1,0 +1,33 @@
+<page>
+<title>yaum</title>
+<ns>0</ns>
+<id>3603777</id>
+<revision>
+<id>59899725</id>
+<parentid>54725297</parentid>
+<timestamp>2020-08-02T19:29:30Z</timestamp>
+<contributor>
+<username>Malayo2000</username>
+<id>3730214</id>
+</contributor>
+<comment>/* Malay */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="447" xml:space="preserve">==Malay==
+===Etymology===
+From {{bor|ms|ar|يَوْم}}.
+===Pronunciation===
+* {{IPA|ms|[jaom]}}
+* {{rhymes|ms|aom|om}}
+===Noun===
+{{ms-noun|j=يوم}}
+# [[day]] {{gloss|period of 24 hours}}
+# [[day]] {{gloss|period from midnight to the following midnight}}
+# [[day]] {{gloss|rotational period of a planet}}
+# [[day]] {{gloss|part of a day period which one spends at one’s job, school, etc.}}
+====Synonyms====
+* {{l|ms|hari}}
+{{C|ms|Time}}</text>
+<sha1>af28ig0wbtg85o3fvnln591uhw6ob80</sha1>
+</revision>
+</page>

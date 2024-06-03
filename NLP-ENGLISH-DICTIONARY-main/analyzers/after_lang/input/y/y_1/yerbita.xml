@@ -1,0 +1,29 @@
+<page>
+<title>yerbita</title>
+<ns>0</ns>
+<id>6670421</id>
+<revision>
+<id>65189456</id>
+<parentid>63911410</parentid>
+<timestamp>2022-01-05T05:03:11Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="619" xml:space="preserve">==Spanish==
+===Etymology===
+{{af|es|yerba|-ita}}
+===Pronunciation===
+{{es-IPA}}
+* {{rhymes|es|ita|s=3}}
+===Noun===
+{{es-noun|f}}
+# {{diminutive of|es|yerba}}
+#*{{quote-journal|es|year=|date=July 2017|author=|title=Madrugadas de intenso ajetreo marcan la vida en Montebello|work=El Universo|url=http://www.eluniverso.com/noticias/2017/07/11/nota/6274711/madrugadas-intenso-ajetreo-marcan-vida-montebello
+|passage=Verde (plátano) está caro, a veces sale a $ 8”, cuenta el hombre, que lleva una docena de papayas, '''yerbita''', saco de arroz, de papas y otros, para ofertar en su tienda, en la J y 43, suroeste.}}</text>
+<sha1>m07nr8q6c06mwjdhi6q6jvn1qa0tmjn</sha1>
+</revision>
+</page>

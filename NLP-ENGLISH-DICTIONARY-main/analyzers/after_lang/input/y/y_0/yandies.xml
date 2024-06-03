@@ -1,0 +1,29 @@
+<page>
+<title>yandies</title>
+<ns>0</ns>
+<id>3066017</id>
+<revision>
+<id>55954420</id>
+<parentid>53092678</parentid>
+<timestamp>2019-10-16T11:05:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="245" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-third-person singular of|yandy}}
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yandy}}
+===Anagrams===
+* {{anagrams|en|a=adeinsy|Ndiayes}}
+[[Category:English plurals ending in &quot;-ies&quot;]]</text>
+<sha1>3axdepsw8hv0uazn70xzu3wufw748a2</sha1>
+</revision>
+</page>

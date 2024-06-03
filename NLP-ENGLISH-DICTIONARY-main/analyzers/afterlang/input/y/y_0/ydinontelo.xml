@@ -1,0 +1,28 @@
+<page>
+<title>ydinontelo</title>
+<ns>0</ns>
+<id>1151676</id>
+<revision>
+<id>69318218</id>
+<parentid>59682790</parentid>
+<timestamp>2022-09-18T17:06:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="224" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|ontelo}}
+===Pronunciation===
+{{fi-p|ydin-ontelo}}
+===Noun===
+{{head|fi|noun}}
+# {{lb|fi|anatomy}} [[medulla]] (''of bone'')
+====Declension====
+{{fi-decl-palvelu|ydinontelo|a}}</text>
+<sha1>lc42cfzp5my5vy6wd9sd2pblltsrfw2</sha1>
+</revision>
+</page>

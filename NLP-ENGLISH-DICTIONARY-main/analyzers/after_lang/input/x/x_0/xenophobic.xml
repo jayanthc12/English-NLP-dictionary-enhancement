@@ -1,0 +1,65 @@
+<page>
+<title>xenophobic</title>
+<ns>0</ns>
+<id>43920</id>
+<revision>
+<id>69518478</id>
+<parentid>69407610</parentid>
+<timestamp>2022-10-15T13:34:13Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2795" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|phobic}}, from {{uder|en|grc|ξένος||foreign, strange}} + {{m|grc|φόβος||fear}}
+===Adjective===
+{{en-adj}}
+# Exhibiting or characterised by [[xenophobia]], a fear or hatred of [[stranger]]s or [[foreigner]]s.
+#* {{quote-journal|en|date=May 13, 2006|passage=Residents of Plettenberg Bay this week launched violent '''xenophobic''' attacks on foreign Africans living in informal settlements, beating them and ransacking their houses|work=Weekend Argus}}
+#* {{quote-web|en|url=http://www.theguardian.com/commentisfree/2019/may/17/the-guardian-view-on-the-venice-biennale-migrant-boat-pushing-the-limits-of-art|title=The Guardian view on the Venice Biennale’s migrant boat: pushing the limits of art|date=2019-05-17|work=The Guardian|passage=It has not yet promised much in the way of serious debate about the migrant crisis or the EU’s failure to tackle it in a humane and coordinated manner, in the context of the Italian government’s increasingly '''xenophobic''' policies.}}
+#: {{syn|en|xenophobous|Thesaurus:xenophobic}}
+====Related terms====
+* {{l|en|xenophobia}}
+* {{l|en|xenophobe}}
+====Translations====
+{{trans-top|exhibiting or characterised by xenophobia}}
+* Armenian: {{t+|hy|այլատյաց}}
+* Belarusian: {{t|be|ксенафо́бскі}}
+* Bulgarian: {{t|bg|ксенофо́бски}}
+* Catalan: {{t+|ca|xenòfob|m}}, {{t+|ca|xenòfoba|f}}
+* Czech: {{t+|cs|xenofobní}}
+* Dutch: {{t+|nl|xenofobisch}}, {{t+|nl|xenofoob}}
+* Esperanto: {{t|eo|ksenofobia}}
+* Finnish: {{t|fi|muukalaisvihamielinen}}, {{t+|fi|ksenofobinen}}
+* French: {{t+|fr|xénophobe}}
+* German: {{t+|de|fremdenfeindlich}}, {{t+|de|xenophob}}, {{t|de|xenophobisch}}, {{t+|de|ausländerfeindlich}}
+* Greek: {{t+|el|ξενοφοβικός}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|xenofób}}
+* Irish: {{t|ga|seineafóbach}}
+* Italian: {{t+|it|xenofobo}}
+* Polish: {{t+|pl|ksenofobiczny}}
+* Portuguese: {{t+|pt|xenófobo}}, {{t+|pt|xenofóbico}}
+* Russian: {{t+|ru|ксенофо́бский}}
+* Slovak: {{t|sk|xénofóbický}}
+* Spanish: {{t+|es|xenófobo}}
+* Swedish: {{t+|sv|främlingsfientlig}}, {{t+|sv|xenofobisk}}
+* Turkish: {{t+|tr|zenofobi}}
+* Ukrainian: {{t|uk|ксенофо́бський}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# A [[xenophobe]].
+#* {{quote-journal|en|author=Martin J. Brown|date=April 16, 2008|title=Don’t Give Up on the Games, or Olympic Ideals|work=New York Times|url=http://www.nytimes.com/2008/04/16/opinion/l16olympics.html|passage=So Buzz Bissinger sees fit that we give up on the ideal of Olympism and give in to '''xenophobics''', terrorists, drug abusers, profiteers and human rights abusers?}}
+====Translations====
+{{trans-see|xenophobe}}
+===See also===
+* {{l|en|racist}}
+[[Category:en:Forms of discrimination]]</text>
+<sha1>fip01htqtg1u1dlicf1lqbtjpmi1gyq</sha1>
+</revision>
+</page>

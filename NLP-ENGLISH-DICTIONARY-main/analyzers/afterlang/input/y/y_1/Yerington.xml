@@ -1,0 +1,25 @@
+<page>
+<title>Yerington</title>
+<ns>0</ns>
+<id>4392619</id>
+<revision>
+<id>67865001</id>
+<parentid>67775671</parentid>
+<timestamp>2022-07-11T01:38:43Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move qualifier 'uncommon' in A=An uncommon in {{surname}} to 2=; remove redundant article A=An in {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="186" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{surname|en|uncommon}}.
+# {{place|en|city/county seat|co/Lyon County|s/Nevada|c/USA}}. Named after Henry M. Yerington.</text>
+<sha1>52x77dqytaz52bf6pcvv7b9xtynsvq3</sha1>
+</revision>
+</page>

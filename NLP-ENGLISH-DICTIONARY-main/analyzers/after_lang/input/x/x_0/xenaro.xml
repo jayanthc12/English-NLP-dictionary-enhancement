@@ -1,0 +1,28 @@
+<page>
+<title>xenaro</title>
+<ns>0</ns>
+<id>2976410</id>
+<revision>
+<id>65343852</id>
+<parentid>58190197</parentid>
+<timestamp>2022-01-15T03:05:31Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Venetian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="312" xml:space="preserve">==Venetian==
+===Etymology===
+From {{inh|vec|VL.|ienuārius}}, from {{inh|vec|la|iānuārius||of January}}. Compare {{cog|it|gennaio}}, {{cog|fur|Zenâr}}.
+===Noun===
+{{wikipedia|lang=vec}}
+{{vec-noun|xenar|m|o|i}}
+# [[January]]
+====Descendants====
+* {{desc|cim|djenaro|bor=1|alts=1}}
+[[Category:vec:Months]]</text>
+<sha1>2hqc60fctfcwtn3apx3wn4ze5pnryn9</sha1>
+</revision>
+</page>

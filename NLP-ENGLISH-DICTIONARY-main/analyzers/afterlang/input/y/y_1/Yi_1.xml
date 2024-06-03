@@ -1,0 +1,83 @@
+<page>
+<title>Yi</title>
+<ns>0</ns>
+<id>170891</id>
+<revision>
+<id>67863511</id>
+<parentid>67796008</parentid>
+<timestamp>2022-07-11T00:54:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move qualifier 'Korean' in A=A Korean in {{surname}} to 2=; remove redundant article A=A in {{surname}}; remove 2=Korean in {{surname}} that duplicates from=</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2198" xml:space="preserve">{{also|yi|yī|yí|yǐ|yì}}
+==Translingual==
+[[File:Yi qi restoration.jpg|thumb]]
+===Etymology===
+From {{der|mul|cmn|-}} {{zh-l|翼||wing}}.
+===Proper noun===
+†{{taxoninfl|i=1|g=?}}
+# {{taxon|genus|family|{{taxlink|Scansoriopterygidae|family|ver=190530}}|a gliding, possibly [[arboreal]] [[dinosaur]] from the [[Jurassic]] of [[China]]}}
+===References===
+* {{pedia|Yi (dinosaur)|''Yi'' (dinosaur)}}
+* {{specieslite|Yi (dinosaur)|''Yi'' (dinosaur)}}
+* {{comcatlite|Yi (dinosaur)|''Yi'' (dinosaur)}}
+* {{R:PaleoDB|i=1|319908}}
+----
+==English==
+{{wikipedia}}
+===Etymology 1===
+From {{uder|en|cmn|彝|tr=yí}}.
+====Noun====
+{{en-plural noun}}
+# An [[ethnic]] [[group]] who live primarily in [[mountainous]] areas of southwest [[China]].
+=====Translations=====
+{{trans-top|ethnic group}}
+* Chinese:
+*: Mandarin: {{t+|cmn|彝族|tr=Yízú|sc=Hani}}
+* Esperanto: ([[la#Esperanto|la]]) [[jioj]]
+{{trans-mid}}
+* Naxi: {{t|nxq|Lo'lo}}
+* Russian: {{t+|ru|и|m}}
+* Sichuan Yi: {{t|ii|ꆈꌠ|tr=nuo su}}
+* Vietnamese: {{t|vi|Lô Lô}}, {{t|vi|Di}}
+* Zhuang: {{t|za|Yizcuz}}
+{{trans-bottom}}
+====Proper noun====
+{{en-proper noun}}
+# Any of a family of [[Tibeto-Burman]] [[language]]s spoken by this people.
+=====Translations=====
+{{trans-top|any of a family of languages}}
+* Chinese:
+*: Mandarin: {{t+|cmn|彝語}}, {{t+|cmn|彝语|tr=Yíyǔ}}
+{{trans-mid}}
+{{trans-bottom}}
+===Etymology 2===
+Borrowed from {{bor|en|ko|^이}} {{i|based on the South Korean spelling}}, ''[[hanja]]'': {{m|ko|李}}, also spelled {{m|ko|^리}}, especially in [[North Korea]].
+====Alternative forms====
+* [[Li]], [[Ri]], and [[Rhee]]
+====Proper noun====
+{{en-proper noun}}
+# {{surname|en|from=Korean}}. Equivalent to Chinese {{zh-l|李|tr=Lǐ}}
+=====Translations=====
+{{trans-top|Korean surname}}
+* Chinese:
+*: Mandarin: {{t+|cmn|李|tr=Lǐ}}
+* Japanese: {{t+|ja|イ|tr=I}}, {{t+|ja|リ|tr=Ri}}
+{{trans-mid}}
+* Korean: {{t+|ko|^이(李)}}, {{t+|ko|^리}} {{qualifier|especially in North Korea}}
+* Russian: {{t+|ru|Ли}}, {{t+|ru|И}}, {{t+|ru|Ри}}
+{{trans-bottom}}
+===Etymology 3===
+Borrowed from {{bor|en|cmn|易|tr=yì}}.
+====Proper noun====
+{{en-proper noun}}
+# {{surname|en}}.
+[[Category:en:Languages]]</text>
+<sha1>1idd65okp00h35nbn87n0xaaz849q1z</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yesquero</title>
+<ns>0</ns>
+<id>5575044</id>
+<revision>
+<id>68963790</id>
+<parentid>62085216</parentid>
+<timestamp>2022-08-29T00:06:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="266" xml:space="preserve">==Spanish==
+===Etymology===
+{{suffix|es|yesca|ero|t1=tinder}}. Compare {{cog|pt|isqueiro}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|m}}
+# [[tinderbox]]
+# {{lb|es|Latin America}} [[lighter]]
+#: {{syn|es|mechero}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>qun09m6cq8rfghdxwtq03r2nxy61keu</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>xocomecatl</title>
+<ns>0</ns>
+<id>7005313</id>
+<revision>
+<id>63075964</id>
+<parentid>62718132</parentid>
+<timestamp>2021-07-04T20:16:35Z</timestamp>
+<contributor>
+<ip>2806:105E:F:50DF:787D:B6D5:ED93:975E</ip>
+</contributor>
+<comment>/* Central Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="531" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{nhn-noun|i}}
+# [[grapes|Grapes]].
+[[Category:Amecameca Central Nahuatl]]
+{{c|nhn|Fruits}}
+----
+==Classical Nahuatl==
+===Pronunciation===
+{{rfp|nci}}
+===Noun===
+{{head|nci|nouns}}
+# [[grapes]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comiença vn vocabulario enla lengua Castellana y Mexicana''
+#*: Vid parra o cepa. xocomecatl.
+===References===
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press.
+[[Category:nci:Fruits]]</text>
+<sha1>24y6880dytbf4fqyewb8219yvtsn476</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>Yemenli</title>
+<ns>0</ns>
+<id>1872358</id>
+<revision>
+<id>55749190</id>
+<parentid>51872651</parentid>
+<timestamp>2019-10-15T15:07:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="278" xml:space="preserve">==Turkish==
+===Etymology===
+From {{suffix|tr|Yemen|li|gloss1=Yemen}}.
+===Pronunciation===
+* {{IPA|tr|/jɛmenli/}}
+===Proper noun===
+{{tr-proper noun}}
+# [[Yemeni]], a person from [[Yemen]]
+====Declension====
+{{tr-infl-noun-v|i|poss=1|pred=1}}
+[[Category:tr:Nationalities]]</text>
+<sha1>ep8y3chz2wkladg4qb96s7vufk1zhim</sha1>
+</revision>
+</page>

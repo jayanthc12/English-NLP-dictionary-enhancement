@@ -1,0 +1,20 @@
+###############################################
+# FILE: kbinit.nlp
+# SUBJ: Call the DumpKB function
+# AUTH: Your Name
+# CREATED: 2020-11-19 8:40:53
+# MODIFIED:
+###############################################
+
+@CODE
+
+L("debugpath") = G("$kbpath") + "debug.txt";
+G("debug") = openfile(L("debugpath"),"app");
+
+G("words") = getconcept(findroot(),"words");
+rmchildren(G("words"));
+G("stats") = getconcept(findroot(),"stats");
+rmchildren(G("stats"));
+# G("word")=G("$inputhead");
+G("word")=getconcept(findroot(),"amaze");
+@@CODE

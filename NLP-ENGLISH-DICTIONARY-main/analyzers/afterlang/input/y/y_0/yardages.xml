@@ -1,0 +1,25 @@
+<page>
+<title>yardages</title>
+<ns>0</ns>
+<id>985677</id>
+<revision>
+<id>55482419</id>
+<parentid>53992689</parentid>
+<timestamp>2019-10-15T03:08:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="137" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yardage}}
+===Anagrams===
+* {{anagrams|en|a=aadegrsy|day-agers|drayages}}</text>
+<sha1>nozpc70g02feq3bylx6jzvg54uauq7k</sha1>
+</revision>
+</page>

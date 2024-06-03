@@ -1,0 +1,29 @@
+<page>
+<title>xapuriensis</title>
+<ns>0</ns>
+<id>4596376</id>
+<revision>
+<id>53730849</id>
+<parentid>53676205</parentid>
+<timestamp>2019-07-21T22:03:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-adj-3rd-2E}} to {{la-adj}} with new params</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="253" xml:space="preserve">==Latin==
+===Etymology===
+From {{suffix|la|Xapuri|ēnsis|}}.
+===Adjective===
+{{la-adj|xapuriēnsis}}
+# {{lb|la|New Latin}} of or from [[Xapuri]]
+====Declension====
+{{la-adecl|xapuriēnsis}}
+====Derived terms====
+* {{l|la|Dendropsophus xapuriensis}}</text>
+<sha1>4ops21onev501vh5ylircmfjb7ke0y8</sha1>
+</revision>
+</page>

@@ -1,0 +1,56 @@
+<page>
+<title>xato</title>
+<ns>0</ns>
+<id>2667620</id>
+<revision>
+<id>68862850</id>
+<parentid>68855053</parentid>
+<timestamp>2022-08-28T05:17:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="899" xml:space="preserve">{{also|x-ato|xató}}
+==Catalan==
+===Etymology===
+From {{bor|ca|es|chato}}, from {{der|ca|VL.|plattus||flattened}}, from {{der|ca|grc|πλατύς}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Adjective===
+{{ca-adj}}
+# [[curt]], [[short]]
+#: {{syn|ca|camús}}
+# [[pug-nosed]]
+====Derived terms====
+* {{l|ca|nas xato}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+----
+==Galician==
+[[File:Xato.JPG|thumb|''Xato'']]
+[[File:Ancares 14III2013 3.JPG|thumb|''Xato'']]
+===Etymology===
+Attested since circa 1750 ({{m|gl||jato}}). Probably {{onomatopoeic|gl|nocap=1}}. Compare {{cog|es|choto}}.&lt;ref&gt;{{R:es:DCECH|choto}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|gl|/ˈʃato̝/}}
+===Noun===
+{{gl-noun|m|f=xata}}
+# male [[calf]]
+#: {{syn|gl|becerro|cucho|cuxo|pucho}}
+# [[bull]]
+#: {{syn|gl|almallo|colludo}}
+===References===
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+&lt;references/&gt;</text>
+<sha1>sf4c4w67jkxd9jmwztm49n8m0sk8fzb</sha1>
+</revision>
+</page>

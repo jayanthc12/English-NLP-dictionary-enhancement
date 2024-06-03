@@ -1,0 +1,28 @@
+<page>
+<title>Yalli</title>
+<ns>0</ns>
+<id>516260</id>
+<revision>
+<id>63708296</id>
+<parentid>45591256</parentid>
+<timestamp>2021-08-20T21:27:15Z</timestamp>
+<contributor>
+<username>Thadh</username>
+<id>3494157</id>
+</contributor>
+<comment>/* Afar */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="264" xml:space="preserve">{{also|yalli}}
+==Afar==
+===Pronunciation===
+* {{aa-IPA|Yallí}}
+===Proper noun===
+{{head|aa|proper noun form|head=Yallí}}
+# {{inflection of|aa|Yálla||subjective}}
+# {{inflection of|aa|Yálla||genitive}}
+===References===
+* {{R:aa:Hassan Kamil:2015|page=333}}</text>
+<sha1>jbwji4knda8pkfsvb1bvoeeol1qnap8</sha1>
+</revision>
+</page>

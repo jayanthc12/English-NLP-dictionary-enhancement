@@ -1,0 +1,35 @@
+<page>
+<title>yhdysviiva</title>
+<ns>0</ns>
+<id>613626</id>
+<revision>
+<id>69318405</id>
+<parentid>51740631</parentid>
+<timestamp>2022-09-18T17:16:38Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="491" xml:space="preserve">==Finnish==
+===Etymology===
+{{prefix|fi|yhdys|viiva}}
+===Pronunciation===
+{{fi-p|yhdys-viiva}}
+===Noun===
+{{fi-noun}}
+# A [[hyphen]] used in compounds with colliding vowels (e.g. ''linja'''-'''auto'').
+====Usage notes====
+* Not to be confused with ''[[tavuviiva]]'' which is the term describing the division of words between two lines.
+====Declension====
+{{fi-decl-kala|yhdysviiv|||a}}
+====Synonyms====
+* {{l|fi|väliviiva}}
+* {{l|fi|yhdysmerkki}}
+===See also===
+* {{l|fi|tavuviiva}}</text>
+<sha1>7hu1p1dhq23bczqa61ix964mewtsrvf</sha1>
+</revision>
+</page>

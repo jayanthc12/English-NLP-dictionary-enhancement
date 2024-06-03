@@ -1,0 +1,47 @@
+<page>
+<title>yhdyssana</title>
+<ns>0</ns>
+<id>316122</id>
+<revision>
+<id>68674714</id>
+<parentid>68674710</parentid>
+<timestamp>2022-08-19T21:41:02Z</timestamp>
+<contributor>
+<username>Surjection</username>
+<id>3370302</id>
+</contributor>
+<comment>/* Usage notes */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1129" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|yhdys-|sana|t1=connected, combined, united|t2=word}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-sana}}
+===Noun===
+{{wikipedia|lang=fi}}
+{{fi-noun}}
+# {{lb|fi|grammar}} [[compound word]], [[compound]], often: [[compound noun]]
+====Usage notes====
+* In Finnish spelling, all compounds are spelled as [[closed compound]]s or [[hyphenated compounds]], so the term yhdyssana is often erroneously used to only refer to closed or hyphenated compounds in English, and the term {{m|fi|sanaliitto}} (whose correct meaning is [[phrase]], [[set phrase]], or [[fixed phrase]]) is often erroneously used to refer to English [[open compound]]s.
+* In Finnish spelling, compounds will be hyphenated under certain conditions (see [[-#Finnish|the rules described here]]).
+====Declension====
+{{fi-decl-kala|yhdyssan|||a}}
+====Compounds====
+{{der3|fi
+|bahuvriihiyhdyssana
+|määritysyhdyssana
+|summayhdyssana
+|toistoyhdyssana
+|yhdyssanahirviö
+|yhdyssanamuodoste
+|yhdyssanamuoto
+|yhdyssanavirhe
+}}
+====See also====
+* {{l|fi|määriteosa}}
+* {{l|fi|perusosa}}
+[[Category:Finnish autological terms]]</text>
+<sha1>4mmol1ikzyx9i1k3x5k2cbk9hufmudj</sha1>
+</revision>
+</page>

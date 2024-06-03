@@ -1,0 +1,50 @@
+<page>
+<title>xou</title>
+<ns>0</ns>
+<id>5369683</id>
+<revision>
+<id>69232543</id>
+<parentid>69217361</parentid>
+<timestamp>2022-09-11T11:48:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun}} with new syntax (remove redundant plural 's')</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1166" xml:space="preserve">==Arapaho==
+===Etymology===
+From {{inh|arp|alg-pro|*šeka·kwa}}, from {{m|alg-pro|*šek-||to urinate}}.
+===Noun===
+{{head|arp|nouns}}
+# [[skunk]]
+----
+==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|en|show}}.
+===Pronunciation===
+* {{ca-IPA|ò}}
+===Noun===
+{{ca-noun|m}}
+# [[#English|show]], [[spectacle]]
+#: {{syn|ca|espectacle}}
+# {{lb|ca|informal}} a [[scene]], i.e. an exhibition of passionate or strong feeling before others, creating embarrassment or disruption.
+#: {{syn|ca|escena}}
+#* {{quote-journal|ca|date=November 1 2016|title=Ana Maria Dae, miss i romanesa, a la portada d'Interviú|work=El Periódico|url=http://www.elperiodico.cat/ca/noticias/extra/ana-maria-dae-portada-interviu-5582421|passage=Ha fet de l'entreteniment el seu art i protagonitza un '''xou''' que és reclamat als quatre punts cardinals.|translation=She has made entertainment her art and she stars in a '''show''' that is in demand at the four cardinal points.}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|m}}
+# {{rare spelling of|pt|show}}
+===Adjective===
+{{pt-adj|inv=1}}
+# {{rare spelling of|pt|show}}</text>
+<sha1>oab8rfzo62nqvizn4fvxuted5fm1eo8</sha1>
+</revision>
+</page>

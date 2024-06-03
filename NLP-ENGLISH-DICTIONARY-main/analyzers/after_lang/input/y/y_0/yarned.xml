@@ -1,0 +1,25 @@
+<page>
+<title>yarned</title>
+<ns>0</ns>
+<id>1214560</id>
+<revision>
+<id>58637044</id>
+<parentid>50822960</parentid>
+<timestamp>2020-02-05T04:27:15Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="153" xml:space="preserve">==English==
+===Verb===
+{{head|en|verb form}}
+# {{en-past of|yarn}}
+===Anagrams===
+* {{anagrams|en|a=adenry|Draney|Radney|Rayden|Yarden|denary|yander}}</text>
+<sha1>6jah9jlofcoltxyxmyk1vc2v837hvbt</sha1>
+</revision>
+</page>

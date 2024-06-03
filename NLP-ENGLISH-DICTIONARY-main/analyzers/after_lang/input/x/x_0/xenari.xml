@@ -1,0 +1,24 @@
+<page>
+<title>xenari</title>
+<ns>0</ns>
+<id>2976435</id>
+<revision>
+<id>62904446</id>
+<parentid>55940127</parentid>
+<timestamp>2021-06-18T04:04:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Venetian plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="92" xml:space="preserve">{{also|xènari}}
+==Venetian==
+===Noun===
+{{head|vec|noun form}}
+# {{plural of|vec|xenaro}}</text>
+<sha1>c2d3c79azrvvqct5ruhw5w7hu0d4ff3</sha1>
+</revision>
+</page>

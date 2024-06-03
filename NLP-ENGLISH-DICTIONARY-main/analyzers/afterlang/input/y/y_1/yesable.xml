@@ -1,0 +1,30 @@
+<page>
+<title>yesable</title>
+<ns>0</ns>
+<id>1994633</id>
+<revision>
+<id>51878448</id>
+<parentid>50843903</parentid>
+<timestamp>2019-03-15T08:28:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="432" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|yes|able}}
+===Adjective===
+{{en-adj}}
+# That can be agreed to.
+#* '''1995''', Matthew McKay, Martha Davis, Patrick Fanning, ''How to communicate'' (page 161)
+#*: A '''yesable''' proposal is one of your acceptable options stated as a direct question to which &quot;yes&quot; is an easy answer.
+===Anagrams===
+* {{anagrams|en|a=abeelsy|Beasley|Belyeas|besayle}}
+[[Category:English 3-syllable words]]</text>
+<sha1>bfk2lpsgwuttir3pjujvqhukyzwd4ck</sha1>
+</revision>
+</page>

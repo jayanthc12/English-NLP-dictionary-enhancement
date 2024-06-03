@@ -1,0 +1,35 @@
+<page>
+<title>xylobalsamum</title>
+<ns>0</ns>
+<id>252530</id>
+<revision>
+<id>53816480</id>
+<parentid>53646664</parentid>
+<timestamp>2019-08-04T12:09:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{la-noun}}/{{la-proper noun}} params to new style</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="342" xml:space="preserve">==English==
+===Noun===
+{{en-noun|-}}
+# the dried twigs or fragrant wood of [[balm of Gilead]] (or [[balsam of Mecca]])
+----
+==Latin==
+===Pronunciation===
+* {{la-IPA|xylobalsamum}}
+===Noun===
+{{la-noun|xylobalsamum&lt;2&gt;}}
+# [[balsam]]-[[wood]]
+====Declension====
+{{la-ndecl|xylobalsamum&lt;2&gt;}}
+===References===
+* {{R:L&amp;S}}
+* {{R:Gaffiot}}</text>
+<sha1>mw29ccgdp40uxbi59709p923ejlsas6</sha1>
+</revision>
+</page>

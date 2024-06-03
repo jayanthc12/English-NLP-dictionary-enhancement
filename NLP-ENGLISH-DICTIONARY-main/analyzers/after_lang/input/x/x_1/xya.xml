@@ -1,0 +1,28 @@
+<page>
+<title>xya</title>
+<ns>0</ns>
+<id>4231643</id>
+<revision>
+<id>50039250</id>
+<parentid>49920016</parentid>
+<timestamp>2018-07-29T16:51:52Z</timestamp>
+<contributor>
+<username>AvenidaK</username>
+<id>3424237</id>
+</contributor>
+<minor />
+<comment>/* White Hmong */ fix Pronunciation heading</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==White Hmong==
+{{cardinalbox|mww|6|7|8|rau|yim|ord=}}
+===Pronunciation===
+{{mww-pron}}
+===Numeral===
+{{head|mww|numeral}}
+# [[seven]]
+===References===
+* Ernest E. Heimbach, ''White Hmong - English Dictionary'' (1979, SEAP Publications)</text>
+<sha1>qy9w0mzztngvxqqvgjm49obr85xynij</sha1>
+</revision>
+</page>

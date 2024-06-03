@@ -1,0 +1,56 @@
+<page>
+<title>xonacatl</title>
+<ns>0</ns>
+<id>1135679</id>
+<revision>
+<id>65318874</id>
+<parentid>63336464</parentid>
+<timestamp>2022-01-12T03:12:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Central Nahuatl: correct whitespace of section 0</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="987" xml:space="preserve">==Central Nahuatl==
+===Alternative forms===
+* {{sense|Tlaxcala}} {{l|nhn|xonakatl}}
+===Noun===
+{{head|nhn|noun}}
+# [[onion]].
+[[Category:Amecameca Central Nahuatl]]
+[[Category:Cholula Central Nahuatl]]
+{{c|nhn|Vegetables}}
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃonakatɬ/}}
+===Noun===
+{{head|nci|nouns}}
+# [[onion]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aqui comienca un vocabulario en la lengua castellana y mexicana|Aqui comienca un vocabulario en la lengua castellana y mexicana]]'', f. 61r.
+#*: Cebolla. '''xonacatl'''.
+[[Category:nci:Vegetables]]
+----
+==Eastern Huasteca Nahuatl==
+===Etymology===
+Cognate to {{cog|nci|xonacatl}}
+===Noun===
+{{head|nhe|noun}}
+# [[onion]].
+----
+==Tetelcingo Nahuatl==
+===Etymology===
+Cf. {{cog|nci|xonacatl}}.
+===Pronunciation===
+* {{IPA|nhg|[ʃoˈnakat͜ɬ]}}
+===Noun===
+{{head|nhg|noun|plural|xonacame}}
+# {{l|en|onion}}
+===References===
+* {{R:Brewer &amp; Brewer 1971|pages=22, 247}}</text>
+<sha1>qsejmmwvbmpkbwc27fgczvqgjgbbkbe</sha1>
+</revision>
+</page>

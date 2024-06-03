@@ -1,0 +1,29 @@
+<page>
+<title>yedirtmek</title>
+<ns>0</ns>
+<id>3893155</id>
+<revision>
+<id>67134887</id>
+<parentid>54844372</parentid>
+<timestamp>2022-05-23T08:04:35Z</timestamp>
+<contributor>
+<username>MhmtÖ</username>
+<id>3714419</id>
+</contributor>
+<comment>/* Etymology */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="327" xml:space="preserve">==Turkish==
+===Etymology===
+{{suf|tr|yedirmek|t|mek|alt1=yedir-}}.
+===Pronunciation===
+* {{IPA|tr|[jɛdiɾtmɛk]}}
+* {{hyphenation|tr|ye|dirt|mek}}
+===Verb===
+{{tr-verb|yedirtir}}
+# {{lb|tr|rare}} To find someone who finds somebody else who [[feat]]s another person(s)
+====Conjugation====
+{{tr-conj|yedirt|i|yedirtir|i|t}}</text>
+<sha1>pa7jsreqlfmbb7frly73eemxos7bmv6</sha1>
+</revision>
+</page>

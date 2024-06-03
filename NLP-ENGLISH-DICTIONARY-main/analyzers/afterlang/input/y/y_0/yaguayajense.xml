@@ -1,0 +1,26 @@
+<page>
+<title>yaguayajense</title>
+<ns>0</ns>
+<id>6827972</id>
+<revision>
+<id>62191774</id>
+<parentid>62167834</parentid>
+<timestamp>2021-03-19T09:11:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{es-adj-old}} to new {{es-adj}} format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="142" xml:space="preserve">==Spanish==
+===Adjective===
+{{es-adj}}
+# {{misspelling of|es|yaguajayense}}
+===Noun===
+{{es-noun|mf}}
+# {{misspelling of|es|yaguajayense}}</text>
+<sha1>bp9uwivm4vfip9x8bh9b4pj2ss43z9z</sha1>
+</revision>
+</page>

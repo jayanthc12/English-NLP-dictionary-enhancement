@@ -1,0 +1,26 @@
+<page>
+<title>xiphopagic</title>
+<ns>0</ns>
+<id>4503460</id>
+<revision>
+<id>54325315</id>
+<parentid>51578393</parentid>
+<timestamp>2019-09-28T07:17:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{synonym of}}; move lang= to 1= in {{quote-book}} (2); move lang= to 1= in {{quote-journal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1157" xml:space="preserve">==English==
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|rare}} {{synonym of|en|xiphopagus}}
+#* {{quote-book|en|title=A Reference Handbook of the Medical Sciences|year=1904|passage=In this connection it may he of interest to note the operation undertaken by Prevost for the separation of the Brazilian '''xiphopagic''' sisters, “Rosalina” and “Maria.”|url=https://books.google.com/books?id=hSI4AQAAMAAJ&amp;dq=%22xiphopagic%22&amp;pg=PA686#v=onepage&amp;q=%22xiphopagic%22&amp;f=false|page=686}}
+#* {{quote-book|en|title=A Clinical manual of the malformations and congenital diseases of the foetus|author=Richard Birnbaum|year=1912|passage=A '''xiphopagic''' parasite of some degree of development was attached at the ensiform process; it consisted of a head, thorax, left upper extremity, and two club hands with three fingers.}}
+#* {{quote-journal|en|journal=Transactions of the American Clinical and Climatological Association|volume=73|page=57|title=An account of the life, death, and postmortem examination of Chang and Eng Bunker|year=1961|author=Worth Daniels|passage=It appears to me that the diagnosis in Change's case were: (1) '''Xiphopagic''' twin {{...}}}}</text>
+<sha1>jh4doa4z6xs1t4hwm8pcfebirzsuem3</sha1>
+</revision>
+</page>

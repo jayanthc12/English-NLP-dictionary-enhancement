@@ -1,0 +1,25 @@
+<page>
+<title>xerophytism</title>
+<ns>0</ns>
+<id>4831253</id>
+<revision>
+<id>51956975</id>
+<parentid>44220797</parentid>
+<timestamp>2019-03-17T14:11:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="182" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xerophyte|ism}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|botany}} The [[adaptation]] of [[plant]]s to [[habitat]]s where [[water]] is [[scarce]].</text>
+<sha1>rsq2b4ombyn1dl6vjvmntyro9assmnt</sha1>
+</revision>
+</page>

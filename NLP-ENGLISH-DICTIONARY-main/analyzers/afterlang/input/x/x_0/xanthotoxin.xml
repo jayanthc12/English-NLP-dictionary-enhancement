@@ -1,0 +1,25 @@
+<page>
+<title>xanthotoxin</title>
+<ns>0</ns>
+<id>3852506</id>
+<revision>
+<id>51799247</id>
+<parentid>41393664</parentid>
+<timestamp>2019-03-14T05:31:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">==English==
+===Etymology===
+{{prefix|en|xantho|toxin}}
+===Noun===
+{{en-noun|-}}
+# [[methoxsalen]]</text>
+<sha1>5tybz48r947ug8pag3n7vxh6ckxz1kn</sha1>
+</revision>
+</page>

@@ -1,0 +1,35 @@
+<page>
+<title>Yelverton</title>
+<ns>0</ns>
+<id>6151403</id>
+<revision>
+<id>67833688</id>
+<parentid>67710133</parentid>
+<timestamp>2022-07-09T21:57:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1013" xml:space="preserve">==English==
+{{wp}}
+===Etymology===
+Probably from the {{der|en|ang|-}} personal name {{m|ang|Geldfriþ}} + {{m|ang|tūn||enclosure; settlement, town}}.
+===Proper noun===
+{{en-proper noun|~|Yelvertons}}
+# {{place|en|village|par/Buckland Monachorum|dist/West Devon|co/Devon|cc/England}} {{q|[[OS]] grid ref SX5267}}.
+# {{place|en|village/and/civil parish|in|dist/South Norfolk|co/Norfolk|cc/England}} {{q|OS grid ref TG2902}}.
+# {{place|en|unincorporated community|co/Hardin County|s/Ohio|c/USA}}.
+# {{place|en|community|in {{w|Kawartha Lakes}},|p/Ontario|c/Canada}}.
+# {{place|en|locality|in the {{w|City of Busselton}},|s/Western Australia}}.
+# {{surname|en|[[habitational]]|from=Old English}}.
+====Statistics====
+* According to the 2010 United States Census, ''Yelverton'' is the 13186&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 2318 individuals. ''Yelverton'' is most common among White (64.37%) and Black/African American (31.23%) individuals.
+===Further reading===
+* {{R:en:DAFN}}</text>
+<sha1>1fqohapdnxm5e96odjvdvz65k8wwhd7</sha1>
+</revision>
+</page>

@@ -1,0 +1,26 @@
+<page>
+<title>Xixianykus</title>
+<ns>0</ns>
+<id>7347231</id>
+<revision>
+<id>60313483</id>
+<parentid>54094204</parentid>
+<timestamp>2020-09-06T21:21:05Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="301" xml:space="preserve">==Translingual==
+{{wikipedia}}
+===Etymology===
+From {{der|mul|cmn|-}} {{zh-l|西峽||{{w|Xixia County}}, Henan}} + {{der|mul|grc|ὄνυξ||claw}}.
+===Proper noun===
+{{taxoninfl|g=m|i=1}}
+# {{taxon|genus|family|Alvarezsauridae|a [[theropod]] [[dinosaur]] from the Late [[Cretaceous]] of [[China]]}}</text>
+<sha1>knfm8inxfepbgvj6pvegk0vctu0sim3</sha1>
+</revision>
+</page>

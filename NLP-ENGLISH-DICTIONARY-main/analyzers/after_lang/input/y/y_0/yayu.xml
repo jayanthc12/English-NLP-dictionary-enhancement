@@ -1,0 +1,42 @@
+<page>
+<title>yayu</title>
+<ns>0</ns>
+<id>7051677</id>
+<revision>
+<id>66684640</id>
+<parentid>61264442</parentid>
+<timestamp>2022-05-13T01:17:42Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>correct language code in {{lb}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="509" xml:space="preserve">==Laboya==
+===Etymology===
+Compare {{cog|id|kayu}}.
+===Noun===
+{{head|lmy|noun}}
+# [[wood]]
+====Derived terms====
+* {{l|lmy|yayu latti}}
+===References===
+* {{r:lmy:rina|page=103}}
+* [http://www.trussel2.com/ACD/acd-l_l.htm#Lamboya '''Laboya''' in ''Austronesian Comparative Dictionary'']
+----
+==Taroko==
+===Noun===
+{{head|trv|noun}}
+# blade
+# {{lb|trv|Taroko|Toda|Truku}} food knife
+# {{lb|trv|Taroko}} pocket knife
+====Synonyms====
+* [[pucing]] / [[puting]]
+* [[hlmadac]]
+* [[hocyo]]
+* [[hrngudux]]</text>
+<sha1>7sfnwqhbm4amq17vfqam59usu4lfgru</sha1>
+</revision>
+</page>

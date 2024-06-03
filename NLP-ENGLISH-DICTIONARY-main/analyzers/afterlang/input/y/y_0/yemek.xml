@@ -1,0 +1,66 @@
+<page>
+<title>yemek</title>
+<ns>0</ns>
+<id>1073473</id>
+<revision>
+<id>67662050</id>
+<parentid>66177294</parentid>
+<timestamp>2022-07-06T20:22:27Z</timestamp>
+<contributor>
+<username>LinguisticMystic</username>
+<id>3695558</id>
+</contributor>
+<comment>/* References */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2649" xml:space="preserve">==Turkish==
+===Pronunciation===
+* {{IPA|tr|[jɛˈmɛc]}}
+* {{hyphenation|tr|ye|mek}}
+===Etymology 1===
+From {{inh|tr|ota|یمك|tr=yemek|gloss=to eat, consume}}, from {{inh|tr|trk-pro|*yē-||to eat}}.&lt;ref&gt;{{R:tut-pro:SDM|*jē-|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=++25&amp;root=config}}&lt;/ref&gt;
+{{rel-top|cognates}}
+Cognate with {{cog|otk|𐰘𐰃𐰘𐰇|tr=yéyü|t=eating}}, {{cog|oui||tr=ye-||to eat}}, {{cog|xqa||tr=yḗmēk||to eat, destroy}}, {{cog|az|yemək||to eat}}, {{cog|cv|ҫиме||to eat}}, {{cog|kk|жеу||to eat}}, {{cog|kjh|чирге||to eat}}, {{cog|ky|жөө||to eat}}, {{cog|alt|јиир||to eat}}, {{cog|tk|iýmek||to eat}}, {{cog|tyv|чиир||to eat}}, {{cog|ug|يىمەك||to eat}}, {{cog|uz|yemoq||to eat}}, {{cog|sah|сиэ||to eat}}.
+{{rel-bottom}}
+====Verb====
+{{tr-verb|yer}}
+# {{lb|tr|transitive}} to [[eat]]
+#: {{ux|tr|Her gün iki öğün haşlanmış patates '''yemekten''' bıktım.|I'm tired of '''eating''' boiled potatoes twice every day.}}
+# {{lb|tr|transitive}} to [[require]], [[use up]], [[consume]]
+# {{lb|tr|transitive|of an insect}} to [[bite]], [[eat]] someone up
+# {{lb|tr|transitive}} to [[drain]], [[wear]] someone down, take a lot out of someone
+# {{lb|tr|transitive|slang}} to [[kill]]
+# {{lb|tr|transitive|slang}} to [[lay]], [[have sex]] with, [[kiss]], [[lick]], [[suck]]
+# {{lb|tr|transitive}} to [[capture]] (as in [[chess]])
+#: {{ux|tr|Piyon düz ve ileri doğru hareket etse de karşı oyuncunun taşlarını çapraz olarak '''yer'''.|Even though the pawn moves straight and forward, it '''captures''' the opponent pieces diagonally.}}
+# {{lb|tr|transitive}} to [[break]] (usually a [[low-cost]] household item)
+#: {{ux|tr|Kumandayı '''yemişsiniz''' yine.|So you '''broke''' the TV remote again.}}
+=====Conjugation=====
+{{tr-demek-yemek|y}}
+=====Derived terms=====
+{{der3|tr|yeme|yiyiş|yememek|yiyememek|yiyebilmek|yeme de yanında yat|yedirmek|yiyişmek|yenmek|yemiş}}
+=====Related terms=====
+{{rel2|tr||yem|çilek}}
+===Etymology 2===
+From {{inh|tr|ota|یمك|tr=yemek|gloss=food, meal}}. Cognate to {{cog|qwm||tr=yemek|t=food|sc=Arab}}, ultimately derived from {{der|tr|trk-pro|*jē-||to eat}}, see etymology 1 above.
+====Noun====
+{{tr-noun|yemeği|ler}}
+# [[meal]], [[food]]
+# [[repast]]
+# [[dish]], particular kind of food
+=====Declension=====
+{{tr-infl-noun-c|e|stem=yemeğ|poss=1}}
+=====Derived terms=====
+* {{l|tr|akşam yemeği}}
+====See also====
+* {{l|tr|aş}}
+* {{l|tr|yiyecek}}
+* {{l|tr|öğün}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:tr:Reverso}}
+[[Category:tr:Food and drink]]</text>
+<sha1>nc53f1hy767ntex09mskg9r33tdza10</sha1>
+</revision>
+</page>

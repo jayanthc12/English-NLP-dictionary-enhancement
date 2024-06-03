@@ -1,0 +1,27 @@
+<page>
+<title>yerself</title>
+<ns>0</ns>
+<id>796192</id>
+<revision>
+<id>54351609</id>
+<parentid>51578550</parentid>
+<timestamp>2019-09-28T17:10:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative form of}}; move lang= to 1= in {{quote-book}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="438" xml:space="preserve">==English==
+===Pronoun===
+{{en-pron}}
+# {{lb|en|nonstandard|or|dialectal}} {{alternative form of|en|yourself}}
+#* {{quote-book|en|author=Kerry Greenwood|authorlink=Kerry Greenwood|title=Murder and Mendelssohn|location=Sydney|publisher=Allen and Unwin|year=2016|page=303|passage='You daft great gowk, puttin' '''yerself''' in the way of harm after all this time out of a war.'}}
+====Related terms====
+* {{l|en|yer}}
+* {{l|en|yerselves}}</text>
+<sha1>jutehvrdnvc7b30lw4gk9p4gjtn6qps</sha1>
+</revision>
+</page>

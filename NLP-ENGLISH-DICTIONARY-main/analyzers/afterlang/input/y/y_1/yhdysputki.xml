@@ -1,0 +1,29 @@
+<page>
+<title>yhdysputki</title>
+<ns>0</ns>
+<id>7110921</id>
+<revision>
+<id>58620578</id>
+<parentid>58593421</parentid>
+<timestamp>2020-02-01T14:20:11Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) do not use {{l|en|...}} in definition lines</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="209" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdys-|putki}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-putki}}
+===Noun===
+{{fi-noun}}
+# [[connecting]] [[pipe]]
+====Declension====
+{{fi-decl-ovi|yhdysputk|||a}}</text>
+<sha1>298icwnyic59axkgw65j8gn84hxkazr</sha1>
+</revision>
+</page>

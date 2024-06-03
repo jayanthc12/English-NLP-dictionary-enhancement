@@ -1,0 +1,23 @@
+<page>
+<title>xamis</title>
+<ns>0</ns>
+<id>2616577</id>
+<revision>
+<id>56751532</id>
+<parentid>43319997</parentid>
+<timestamp>2019-10-18T14:39:28Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Volapük==
+===Noun===
+{{head|vo|noun form}}
+# {{inflection of|vo|xam||acc|p}}</text>
+<sha1>9if0hku40i5oe99lpbv358fi4gfko0l</sha1>
+</revision>
+</page>

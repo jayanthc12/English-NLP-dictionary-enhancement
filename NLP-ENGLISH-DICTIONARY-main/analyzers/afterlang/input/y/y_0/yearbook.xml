@@ -1,0 +1,89 @@
+<page>
+<title>yearbook</title>
+<ns>0</ns>
+<id>85252</id>
+<revision>
+<id>68778727</id>
+<parentid>66259209</parentid>
+<timestamp>2022-08-27T09:17:43Z</timestamp>
+<contributor>
+<username>Vininn126</username>
+<id>2826696</id>
+</contributor>
+<comment>t+pl:[[rocznik]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2748" xml:space="preserve">{{also|year-book}}
+==English==
+{{wikipedia|yearbook (disambiguation)}}
+===Alternative forms===
+* {{alter|en|year-book}}
+===Etymology===
+From {{af|en|year|book}}. Compare {{cog|fy|jierboek|t=yearbook}}, {{cog|nl|jaarboek|t=yearbook}}, {{cog|de|Jahrbuch|t=yearbook}}, {{cog|sv|årsbok|t=yearbook}}, {{cog|fo|árbók|t=annal, record}}.
+===Pronunciation===
+* {{audio|en|LL-Q1860 (eng)-Vininn126-yearbook.wav|Audio (US)}}
+===Noun===
+{{en-noun|~}}
+# {{lb|en|countable}} A [[reference]] [[book]], [[published]] [[annually]].
+# {{lb|en|countable|US|education}} A [[publication]] [[compiled]] by the [[graduating]] [[class]] of a [[high school]] or [[college]], [[recording]] the [[year]]'s [[events]] and [[containing]] [[photograph]]s of [[student]]s and [[faculty]].
+# {{lb|en|uncountable|US|education}} A [[school]] [[subject]] in which students learn [[journalistic]] skills by compiling a yearbook.
+====Derived terms====
+{{der4|en
+|yearbooker
+|yearbookish
+|yearbooklike
+|yearbooky}}
+====Translations====
+{{trans-top|reference book, published annually}}
+* Armenian: {{t+|hy|տարեգիրք}}
+* Bulgarian: {{t+|bg|годишник|m}}
+* Catalan: {{t|ca|anuari}}
+* Chinese:
+*: Mandarin: {{t+|cmn|年鑑}}, {{t+|cmn|年鑒}}, {{t+|cmn|年鉴|tr=niánjiàn}}
+* Czech: {{t+|cs|ročenka|f}}
+* Danish: {{t|da|årbog|c}}
+* Esperanto: {{t|eo|jarlibro}}
+* Finnish: {{t+|fi|vuosikirja}}
+* French: {{t+|fr|annuaire|m}}
+* Galician: {{t+|gl|anuario|m}}
+* Georgian: {{t|ka|წელიწდეული}}
+* German: {{t+|de|Jahrbuch|n}}
+* Hungarian: {{t+|hu|évkönyv}}
+* Italian: {{t+|it|annuario|m}}
+* Japanese: {{t|ja|年鑑|tr=ねんかん, nenkan}}
+* Macedonian: {{t|mk|го́дишник|m}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|årbok|m|f}}
+*: Nynorsk: {{t|nn|årbok|f}}
+* Polish: {{t+|pl|rocznik|m}}
+* Portuguese: {{t|pt|anuário|m}}
+* Russian: {{t+|ru|ежего́дник|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|го̀дишња̄к|m}}
+*: Roman: {{t+|sh|gòdišnjāk|m}}
+* Spanish: {{t+|es|anuario|m}}
+* Swedish: {{t+|sv|årsbok|c}}, {{t+|sv|årsskrift|c}}, {{t+|sv|kalender|c}}
+* Tagalog: {{t|tl|taunang aklat}}
+* Vietnamese: {{t+|vi|niên giám}} ({{t|vi|年鑑}}) ({{t|vi|年鑒}})
+* Welsh: {{t|cy|blwyddiadur|m}}
+{{trans-bottom}}
+{{trans-top|publication compiled by the graduating class}}
+* Czech: {{t+|cs|ročenka|f}}
+* Danish: {{t|da|blå bog|c}}, {{t|da|årbog|c}}
+* Finnish: {{t+|fi|vuosikirja}}
+* German: {{t+|de|Jahrbuch|n}}
+{{trans-mid}}
+* Italian: {{t+|it|annuario|m}}
+* Macedonian: {{t|mk|а́лманах|m}}
+* Spanish: {{t+|es|anuario|m}}
+* Swedish: {{t+|sv|skolkatalog|c}}
+{{trans-bottom}}
+{{checktrans-top}}
+* Hebrew: {{t|he|ספר מחזור|tr=sefer machzor}}
+{{trans-mid}}
+{{trans-bottom}}
+{{c|en|Reference works}}</text>
+<sha1>0od157kppv96e1krf7itxgeheziui8y</sha1>
+</revision>
+</page>

@@ -1,0 +1,30 @@
+<page>
+<title>ydinvastuu</title>
+<ns>0</ns>
+<id>4616916</id>
+<revision>
+<id>69318291</id>
+<parentid>52039406</parentid>
+<timestamp>2022-09-18T17:10:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="420" xml:space="preserve">==Finnish==
+===Etymology===
+{{compound|fi|ydin|vastuu|alt1=ydin|t1=nuclear|t2=liability}}
+===Pronunciation===
+{{fi-p|ydin-vastuu}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|legal}} [[nuclear]] [[liability]] {{gloss|liability of the operator of a nuclear facility in case of an accident}}
+====Declension====
+{{fi-decl-vapaa|ydinvastu|a}}
+====References====
+* ''ydinvastuulaki'' (&quot;Nuclear Liability Act&quot;), decree nr. 484/1972</text>
+<sha1>f87bikf9vamidt8ue8x609d9x6zcozm</sha1>
+</revision>
+</page>

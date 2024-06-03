@@ -1,0 +1,27 @@
+<page>
+<title>xanthochroic</title>
+<ns>0</ns>
+<id>267590</id>
+<revision>
+<id>55379211</id>
+<parentid>54082369</parentid>
+<timestamp>2019-10-14T13:11:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="322" xml:space="preserve">==English==
+===Etymology===
+From New {{m+|la|Xanthochroi}} (from {{m|grc|ξανθός||fair&quot;, &quot;yellow&quot;, &quot;golden&quot;, &quot;blond}} + {{m|grc|χρώς||skin}}) + {{m|en|-ic}}.
+===Pronunciation===
+* {{IPA|en|/zænθəˈkɹəʊɪk/}}
+===Adjective===
+{{en-adj}}
+# pertaining to people or races with light hair and pale complexions</text>
+<sha1>90nfuk0dyy2op6hud906nfifnj6235m</sha1>
+</revision>
+</page>

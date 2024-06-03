@@ -1,0 +1,27 @@
+<page>
+<title>yexpa</title>
+<ns>0</ns>
+<id>6860736</id>
+<revision>
+<id>59502139</id>
+<parentid>50223432</parentid>
+<timestamp>2020-06-09T10:51:23Z</timestamp>
+<contributor>
+<username>Lvovmauro</username>
+<id>3369365</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="289" xml:space="preserve">==Tetelcingo Nahuatl==
+===Etymology===
+Equivalent to {{suffix|nhg|yeyi̱|t1=three|-pa|t2=times}}. Cf. {{cog|nci|ēxpa}}.
+===Pronunciation===
+* {{IPA|nhg|[ˈjeʃpa]}}
+===Adverb===
+{{head|nhg|adverb}}
+# [[thrice|Thrice]].
+===References===
+* {{R:Brewer &amp; Brewer 1971|pages=99, 103, 250}}</text>
+<sha1>py94o36tfxq07agk4ifuawxs502d6bl</sha1>
+</revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+<title>yardarm</title>
+<ns>0</ns>
+<id>85250</id>
+<revision>
+<id>64810702</id>
+<parentid>62134028</parentid>
+<timestamp>2021-11-29T23:34:47Z</timestamp>
+<contributor>
+<username>Rudi Laschenkohl</username>
+<id>3398941</id>
+</contributor>
+<comment>/* Translations */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="963" xml:space="preserve">{{also|yard-arm}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{l|en|yard-arm}}
+* {{l|en|yard arm}}
+===Etymology===
+{{compound|en|yard|arm}}
+===Noun===
+{{en-noun}}
+# {{lb|en|nautical}} The outer end of a [[yard#Etymology_2|yard]], often equipped with [[block]]s for [[reeve|reeving]] [[signal]] [[halyard]]s.
+====Derived terms====
+{{der-top|}}
+* {{l|en|when the sun is over the yardarm}}
+* {{l|en|yardarm and yardarm}}, {{l|en|yardarm to yardarm}}
+* {{l|en|yardarm it}}
+* {{l|en|yardarm to}}, {{l|en|yardarm with}}
+{{der-mid}}
+{{der-bottom}}
+====Translations====
+{{trans-top|outer end of a yard}}
+* Finnish: {{t|fi|raa’annokka}}
+* Greek:
+*: Ancient: {{t|grc|κεραία|f}}
+* Hebrew: {{t+|he|זְרוֹעַ הַסְּקַרְיָה|f|tr=zroa haskarya}}
+{{trans-mid}}
+* Latin: {{t|la|antenna|f}}
+* Norman: {{t|nrf|but d'vérgue|m}}
+* Russian: {{t|ru|нок-ре́я|f}}
+* Spanish: {{t+|es|penol|m}}
+{{trans-bottom}}
+===See also===
+* {{l|en|yard}}</text>
+<sha1>a6mx3bhiv9t3oslrasttr86qxepy5rl</sha1>
+</revision>
+</page>

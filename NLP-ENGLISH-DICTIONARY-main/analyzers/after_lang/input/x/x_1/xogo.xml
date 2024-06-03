@@ -1,0 +1,65 @@
+<page>
+<title>xogo</title>
+<ns>0</ns>
+<id>1232196</id>
+<revision>
+<id>68861627</id>
+<parentid>68860656</parentid>
+<timestamp>2022-08-28T05:09:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDGM}} to {{R:gl:DDGM}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2157" xml:space="preserve">{{also|xógo}}
+==Galician==
+[[File:Medieval baseball (El juego de la Pelota) in the Cantigas de Santa Maria.jpg|thumb|Xogo da pelota: ''Como iogauã a pelota os mancebos en un prado'', 13th century, ''{{w|Cantigas de Santa Maria}}'']]
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jogo}}, from {{inh|gl|la|jocus}}, {{m|la|iocus}}. Compare {{cog|pt|jogo}}, {{cog|es|juego}}.
+===Pronunciation===
+* {{IPA|gl|/ˈʃɔɣo̝/}}
+===Noun===
+{{gl-noun|m}}
+# [[game]]
+# [[jest]], [[amusement]]
+#* '''1441''', X. Ferro Couselo (ed.), ''A vida e a fala dos devanceiros. Escolma de documentos en galego dos séculos XIII ao XVI''. Vigo: Galaxia, page 145:
+#*: ''que ordenaba e mandaba que andase logo a dita confraría de Santa Oufémea depúus a confraría de Santa María a Madre con sua danza de espadas e çirios e outros '''jogos''' algúus, se os tebesen, saluo que o '''jogo''' da qoqa que andase aalende das confrarías de San Sebastián e de San Migeel, junto con a confraría dos carniçeyros, por que a dita coqa he escandallosa''
+#*:: they ordered and commanded that the guild of Saint Euphemia be the firt [in the parade], then the guild of Saint Mary Mother, with its sword dance and candles and other '''amusements''', if they have any, with the exception of the '''game''' of the cockatrice, which should go after the guilds of Saint Sebastian and Saint Michael, with the butcher's guild, because said cockatrice is scandalous
+# [[sport]]
+#: {{syn|gl|deporte}}
+# [[joint]]
+#: {{syn|gl|xoga}}
+====Derived terms====
+* {{l|gl|Xogo da Bóla}}
+* {{l|gl|Xogo dos Bolos}}
+====Related terms====
+* {{l|gl|xogador}}
+* {{l|gl|xoga}}
+* {{l|gl|xogar}}
+===Verb===
+{{gl-verb-form}}
+# {{inflection of|gl|xogar||1|s|pres|indc}}
+===References===
+* {{R:gl:DDGM|jogo}}
+* {{R:gl:CX|jog}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+----
+==Venetian==
+===Alternative forms===
+* {{l|vec|xógo}}, {{l|vec|xugo}}, {{l|vec|zugo}}
+===Etymology===
+From {{inh|vec|la|jocus}}, {{m|la|iocus}}. Compare {{cog|it|gioco}}.
+===Noun===
+{{vec-noun|xog|m|o|hi}}
+# [[game]]
+====Related terms====
+* {{l|vec|xogar}}, {{l|vec|xugar}}, {{l|vec|zogar}}
+* {{l|vec|xugadore}}</text>
+<sha1>90tioehvbcyzdvgcqko3crx8dcoa16u</sha1>
+</revision>
+</page>

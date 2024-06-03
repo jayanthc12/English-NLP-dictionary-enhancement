@@ -1,0 +1,22 @@
+<page>
+<title>xatejava</title>
+<ns>0</ns>
+<id>5991107</id>
+<revision>
+<id>41924350</id>
+<timestamp>2016-12-25T05:06:39Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<comment>Catalan inflected forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=1|n=sg|t=impf|m=ind|xatejar}}
+# {{ca-verb form of|p=3|n=sg|t=impf|m=ind|xatejar}}</text>
+<sha1>0yy9hathr2tzutyzvbg96renmagzjf3</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>xeobloqueo</title>
+<ns>0</ns>
+<id>7247796</id>
+<revision>
+<id>68875938</id>
+<parentid>60310456</parentid>
+<timestamp>2022-08-28T06:29:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="237" xml:space="preserve">==Galician==
+===Etymology===
+From {{prefix|gl|xeo|bloqueo}}.
+===Noun===
+{{gl-noun|m}}
+# {{lb|gl|computing|internet}} {{l|en|geoblocking}}, {{l|en|geo-blocking}}
+====Related terms====
+* {{l|gl|xeobloquear}}
+* {{l|gl|xeolocalización}}</text>
+<sha1>m3kkzlx7ioc0304fjc75486rn49b5cf</sha1>
+</revision>
+</page>

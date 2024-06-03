@@ -1,0 +1,36 @@
+<page>
+<title>yaranmaq</title>
+<ns>0</ns>
+<id>7240524</id>
+<revision>
+<id>62247185</id>
+<parentid>60336073</parentid>
+<timestamp>2021-03-26T00:54:04Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Etymology */ edited using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1260" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{suf|az|yaramaq|alt2=n|in|id2=reflexive}}.
+===Pronunciation===
+* {{IPA|az|[jɑrɑnˈmɑχ]}}
+* {{hyph|az|ya|ran|maq}}
+===Verb===
+{{az-verb}}
+# {{lb|az|intransitive}} to [[arise]], [[appear]],  [[emerge]]
+#*  {{quote-web|date=November 24, 2018|az|work=BBC|url=https://www.bbc.com/azeri/international-45965258|passage=İngilis demokratiyasının yaranması: parlament necə '''yarandı''' (və dağıldı)?|translation=The emergence of the English democracy: How did the parliament '''emerge''' (and fall)?}}
+#* {{quote-web|work=Şərq.az|url=http://www.sherg.az/site/id-66708/Sosial_%3Cfont_color=red%3E_%C5%9F%C9%99b%C9%99k%C9%99l%C9%99r_%C3%A7%C3%B6kd%C3%BC:%3C/font%3E_%E2%80%9CFacebook%E2%80%9D,_%22Whatsapp%22_v%C9%99_%E2%80%9C%C4%B0nstagram%E2%80%9Dda_probleml%C9%99r_yarand%C4%B1#.XPDk9YgzY2w|date=April 14, 2019|az|passage=Sosial şəbəkələr çökdü: “Facebook”, &quot;Whatsapp&quot; və “İnstagram”da problemlər '''yarandı'''.|translation=Social media collapsed: Facebook, WhatsApp and Instagram run into issues.|lit=issues '''emerged''' in...}}
+====Conjugation====
+{{az-conj|a}}
+====Synonyms====
+* {{l|az|peyda olmaq}}
+* {{l|az|meydana gəlmək}}
+* {{l|az|əmələ gəlmək}}
+* {{l|az|ortaya çıxmaq}}</text>
+<sha1>d7m5wj14935lt10n09peemxj153eftb</sha1>
+</revision>
+</page>

@@ -1,0 +1,98 @@
+<page>
+<title>yere</title>
+<ns>0</ns>
+<id>1113239</id>
+<revision>
+<id>68788079</id>
+<parentid>68091328</parentid>
+<timestamp>2022-08-27T12:33:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line; add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3516" xml:space="preserve">{{also|ȝere|y'ere|ye're}}
+==English==
+===Etymology 1===
+From {{m|en|ye}} analogous to {{m|en|your}}&lt;{{m|en|you}}.
+====Pronunciation====
+* Strong form: {{IPA|en|/jiəɹ/}}, {{IPA|en|/iəɹ/}}; Weak form: {{IPA|en|/jɪɹ/}}
+* {{rhymes|en|ɪə(ɹ)|s=1}}
+====Pronoun====
+{{en-pron|desc=possessive}}
+# {{lb|en|Irish}} [[your]] (plural); of [[ye]], belonging to ye
+#* '''2001''' Martin McDonagh ''The Lieutenant of Inishmore'', Scene 8:
+#*: What I want ye to remember, as the bullets come out through '''yere''' foreheads, is {{...}}
+#* '''2012''' Kerry O'Shea [http://www.irishcentral.com/ent/Edinburghs-Fringe-festival-thinks-The-Rubberbandits-are-English---VIDEO-163999576.html Edinburgh’s Fringe festival thinks The Rubberbandits are English] ''IrishCentral'' 27 July 2012:
+#*: The Rubberbandits took to their Twitter (@Rubberbandits) on Tuesday in the wake of the Fringe fest’s apparent typo saying that, “@edfringe As much as we'd love to swear allegiance to Lizzie. Could ye change our country of origin from &quot;England&quot; to Ireland on '''yere''' site?” (sic)
+#* '''2012''' Christy O'Connor &quot;[http://www.independent.ie/sport/hurling/the-first-great-rivalry-of-the-21st-century-3182204.html The first great rivalry of the 21st century]&quot; ''Irish Independent'', 28 July 2012:
+#*: &quot;I've been listening to '''yere''' s**** there all day about how great ye are,&quot; he told them. &quot;Who the hell do ye think ye are with '''yere''' two All-Irelands and one ambush?&quot;
+=====Usage notes=====
+Especially in the south and west of Ireland. The yod-dropping pronunciation is more dialectal.
+===Etymology 2===
+====Noun====
+{{en-noun}}
+# {{obsolete spelling of|en|year}}
+===Anagrams===
+* {{anagrams|en|a=eery|Eyer|Eyre|Reye|eery|eyer|eyre|yeer}}
+----
+==Middle English==
+===Etymology 1===
+====Noun====
+{{head|enm|noun}}
+# {{alternative form of|enm|ere|id=ear|t=ear}}
+===Etymology 2===
+====Noun====
+{{head|enm|noun}}
+# {{alternative form of|enm|yeer|t=year}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|yerar}}
+----
+==Sranan Tongo==
+===Etymology===
+From {{der|srn|en|hear}}.
+===Verb===
+{{head|srn|verb}}
+# To [[hear]]
+----
+==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yer||dat|s}}
+----
+==Yoruba==
+====Alternative forms====
+*{{alter|yo|jèrè||Ào}}
+===Etymology===
+Compare with {{cog|bin|yee|t=to remember}}
+===Pronunciation===
+*{{yo-IPA|yèrè}}
+===Verb===
+{{yo-verb|yèrè}}
+# {{lb|yo|chiefly CY and SEY}} to [[remember]]
+#: {{syn|yo|rántí}}
+#: {{uxi|yo|Mo ti '''yèrè''' sí báyìí!|I have '''remembered''' it!}}
+# {{lb|yo|chiefly CY and SEY|transitive}} to [[remind]]
+#: {{syn|yo|yèlérè|rán létí}}
+====Derived terms====
+*{{l|yo|ùyèrè|t=remembrance}}
+===References===
+* Adetugbọ, Abidoun. '' The Yoruba language in Western Nigeria: Its major dialect areas'' [http://www.ai.mit.edu/projects/dm/featgeom/adetugbo67-diss.pdf], 1967
+* Ogen, Olukoya. ''The Akoko-Ikale: A Revision of Colonial Historiography on the Construction of Ethnic Identity in Southeastern Yorubaland'' [https://www.cambridge.org/core/journals/history-in-africa/article/abs/akokoikale-a-revision-of-colonial-historiography-on-the-construction-of-ethnic-identity-in-southeastern-yorubaland/8807700864B096BFD8CE6DD03A80EA2D], 2014
+[[Category:Ekiti Yoruba]]
+[[Category:Western Akoko Yoruba]]
+[[Category:Eastern Akoko Yoruba]]
+[[Category:Ikalẹ Yoruba]]
+[[Category:Ilajẹ Yoruba]]
+[[Category:Rẹmọ Yoruba]]
+[[Category:Ọwọ Yoruba]]
+[[Category:Idanre Yoruba]]</text>
+<sha1>syw4xax3bv7hl4r9wn1ws5w13owakiv</sha1>
+</revision>
+</page>

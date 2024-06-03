@@ -1,0 +1,29 @@
+<page>
+<title>ydinfunktio</title>
+<ns>0</ns>
+<id>7206841</id>
+<revision>
+<id>58593338</id>
+<parentid>52622339</parentid>
+<timestamp>2020-01-30T12:09:26Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) convert {{fi-IPA}} to {{fi-pronunciation}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="240" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|ydin|funktio}}
+===Pronunciation===
+{{fi-pronunciation|ydin-funktio}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|statistical analysis}} [[kernel function]]
+====Declension====
+{{fi-decl-valtio|ydinfunktio|a}}</text>
+<sha1>k1oodgfwwmm1qu6ccnvzklf1v5jz1gq</sha1>
+</revision>
+</page>

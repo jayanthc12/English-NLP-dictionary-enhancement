@@ -1,0 +1,26 @@
+<page>
+<title>xeretar</title>
+<ns>0</ns>
+<id>4589115</id>
+<revision>
+<id>69114393</id>
+<parentid>61331550</parentid>
+<timestamp>2022-09-04T16:53:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="202" xml:space="preserve">==Portuguese==
+===Verb===
+{{pt-verb|xeret|ar}}
+# {{lb|pt|Brazil}} to [[pry]] {{gloss|to look where one is not welcome; to be nosey}}
+#: {{syn|pt|bisbilhotar}}
+====Conjugation====
+{{pt-conj|xeret|ar}}</text>
+<sha1>3ogv696d5nzrfwyx9tywkz79mn8vtx9</sha1>
+</revision>
+</page>

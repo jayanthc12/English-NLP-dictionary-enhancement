@@ -1,0 +1,61 @@
+<page>
+<title>Yazdegerd</title>
+<ns>0</ns>
+<id>4239779</id>
+<revision>
+<id>67299084</id>
+<parentid>60194972</parentid>
+<timestamp>2022-06-06T12:31:58Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|pal}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1398" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* [[Yazdgerd]]
+* [[Yazdigird]]
+* [[Yazdagerd]]
+* [[Yazdagird]]
+* [[Yazdegird]]
+* [[Yazdekert]]
+* [[Yazdikert]]
+* [[Yazdakert]]
+* [[Yazdkert]]
+* [[Yazdekirt]]
+* [[Yazdikirt]]
+* [[Yazdakirt]]
+* [[Yazdkirt]]
+* [[Yezdegerd]]
+* [[Yezdegird]]
+* [[Yezdekert]]
+* [[Yezdekirt]]
+===Etymology===
+From {{uder|en|pal|𐭩𐭦𐭣𐭪𐭥𐭲𐭩|tr=Yazdegerd, Yazdgird|lit=made by God}}, from {{m|pal|𐭩𐭦𐭣|tr=Yazd}} + {{m|pal|𐭪𐭥𐭲𐭩|tr=-gird, -kirt}}.
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|A=An Iranian|from=Middle Persian}}, notably borne by several [[Sassanid]] kings
+====Translations====
+{{trans-top|given name}}
+* Arabic: {{t|ar|يَزْدَجِرْد}}
+* Aramaic:
+*: Classical Syriac: {{t|syc|ܝܙܕܓܪܕ|tr=Yazdgerd}}
+* Armenian: {{t|hy|Հազկերտ|sc=Armn}}
+*: Old Armenian: {{t|xcl|Յազկերտ|sc=Armn}}
+* Georgian: {{t|ka|იეზდიგერდ|sc=Geor}}
+* Greek: {{t|el|Ισδιγέρδης|sc=Grek}}
+*: Ancient: {{t|grc|Ἰσδιγέρδης|sc=polytonic}}
+{{trans-mid}}
+* Hebrew: {{t|he|יַזְדְגֶרְד|tr=Yazdgerd}}
+* Latin: {{t|la|Isdegerdes}}, {{t|la|Isdegerdus}}
+* Middle Persian: {{t|pal|𐭩𐭦𐭣𐭪𐭥𐭲𐭩|tr=Yazdegerd, Yazdgird|sc=Phli}}
+* Persian: {{t+|fa|یزدگرد|tr=yazdgerd}}
+* Russian: {{t|ru|Йездегерд}}, {{t|ru|Йездигерд}}
+{{trans-bottom}}</text>
+<sha1>a73gjias5nwkl8ipcvw5bwkkkp7rbm1</sha1>
+</revision>
+</page>

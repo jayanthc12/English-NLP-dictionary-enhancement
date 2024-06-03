@@ -1,0 +1,25 @@
+<page>
+<title>xerographischen</title>
+<ns>0</ns>
+<id>6345506</id>
+<revision>
+<id>60597328</id>
+<parentid>58423970</parentid>
+<timestamp>2020-09-27T13:19:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="155" xml:space="preserve">==German==
+===Pronunciation===
+* {{audio|de|De-xerographischen.ogg|Audio}}
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xerographisch}}</text>
+<sha1>1zx0isd639ok121f92krxpirkhaopo0</sha1>
+</revision>
+</page>

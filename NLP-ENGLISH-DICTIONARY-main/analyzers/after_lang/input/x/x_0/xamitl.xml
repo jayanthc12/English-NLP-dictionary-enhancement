@@ -1,0 +1,43 @@
+<page>
+<title>xamitl</title>
+<ns>0</ns>
+<id>1125344</id>
+<revision>
+<id>65249436</id>
+<parentid>65249433</parentid>
+<timestamp>2022-01-09T04:27:40Z</timestamp>
+<contributor>
+<ip>2806:105E:F:4140:859C:19ED:3B04:9BE1</ip>
+</contributor>
+<comment>/* Central Huasteca Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="711" xml:space="preserve">==Central Huasteca Nahuatl==
+===Pronunciation===
+* {{IPA|nch|/ʃaːmitl/}}
+===Noun===
+{{head|nch|noun}}
+# [[sweet corn]] tamale.
+{{c|nch|Foods}}
+----
+==Central Nahuatl==
+===Pronunciation===
+* {{IPA|nhn|/ʃaːmitl/}}
+===Noun===
+{{head|nhn|noun}}
+# [[adobe]].
+[[Category:Tlaxcala Central Nahuatl]]
+----
+==Classical Nahuatl==
+===Pronunciation===
+* {{IPA|nci|/ʃaːmitl/}}
+===Noun===
+{{head|nci|noun|head=xamitl}}
+# [[adobe]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''[[w:Aqui comienca un vocabulario en la lengua castellana y mexicana|Aqui comienca un vocabulario en la lengua castellana y mexicana]]'', f. 8r.
+#*: Adobe de barro. '''xamitl'''.
+====Derived terms====
+* [[xanchihua]]</text>
+<sha1>oq0a1zu0fnmxaw0xaimdlbj0r6stq28</sha1>
+</revision>
+</page>

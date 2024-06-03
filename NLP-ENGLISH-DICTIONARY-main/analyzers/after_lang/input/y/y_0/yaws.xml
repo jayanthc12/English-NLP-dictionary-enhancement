@@ -1,0 +1,58 @@
+<page>
+<title>yaws</title>
+<ns>0</ns>
+<id>61123</id>
+<revision>
+<id>69501468</id>
+<parentid>69501465</parentid>
+<timestamp>2022-10-12T15:03:32Z</timestamp>
+<contributor>
+<username>Rich Farmbrough</username>
+<id>2068</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1636" xml:space="preserve">{{also|Yaws}}
+==English==
+{{wikipedia}}
+===Pronunciation===
+* {{IPA|en|/ˈjɔːz/}}
+* {{rhymes|en|ɔːz|s=1}}
+* {{homophone|en|yours}} {{q|some non-rhotic accents}}
+===Etymology 1===
+Origin uncertain.
+====Noun====
+{{en-noun|-}}
+# {{lb|en|disease}} A [[contagious]] [[tropical disease]], caused by the [[spirochete]] {{taxlink|Treponema pertenue|species}}, characterized by yellowish or reddish [[tumor]]s, which often resemble berries.
+#* '''1997''', {{w|Roy Porter}}, ''The Greatest Benefit to Mankind'', Folio Society 2016, p. 16:
+#*: Other threats came from organisms co-evolving with humans, including tapeworms and such spirochaetes as ''Treponema'', the agent of syphilis, and the similar skin infection, '''yaws'''.
+=====Synonyms=====
+* {{l|en|parangi}}
+=====Translations=====
+{{trans-top|a contagious tropical disease caused by the spirochete ''Treponema pertenue''}}
+* Cebuano: {{t|ceb|puko}}
+* Hindi: {{t|hi|गोंडी रोग}}, {{t|hi|माड़िया रोग}}
+* Indonesian: {{t+|id|puru}}, {{t+|id|patek}}
+* Japanese: {{t|ja|森林梅毒|tr=shinrinbaidoku}}
+* Javanese: {{t|jv|ꦥꦛꦺꦏ꧀}}, {{t|jv|ꦥꦸꦫꦸ}}
+{{trans-mid}}
+* Malay: {{t+|ms|puru}}
+* Pohnpeian: {{t|pon|kens}}
+* Polish: {{t+|pl|malinica|f}}, {{t|pl|jagodzica|f}}, {{t+|pl|frambezja|f}}
+* Portuguese: {{t+|pt|bouba|f}}
+* Swahili: {{t|sw|buba}}
+{{trans-bottom}}
+===Etymology 2===
+Inflected forms.
+====Verb====
+{{head|en|verb form}}
+# {{en-third-person singular of|yaw}}
+====Noun====
+{{head|en|noun form}}
+# {{plural of|en|yaw}}
+===Anagrams===
+* {{anagrams|en|a=aswy|-ways|Sway|sway|ways}}
+[[Category:en:Bacterial diseases]]</text>
+<sha1>f6s1qekoos5newjw0bo8bhhxfkgbk2r</sha1>
+</revision>
+</page>

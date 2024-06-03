@@ -1,0 +1,24 @@
+<page>
+<title>xenobionte</title>
+<ns>0</ns>
+<id>1625340</id>
+<revision>
+<id>62731372</id>
+<parentid>39339340</parentid>
+<timestamp>2021-06-12T07:44:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Convert synonyms in Italian subsection 3 to inline synonyms in subsection 2 based on synonyms with only one definition</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="94" xml:space="preserve">==Italian==
+===Noun===
+{{it-noun|m}}
+# {{lb|it|biology}} [[xenobiont]]
+#: {{syn|it|xenobio}}</text>
+<sha1>02jy557m2ezd6pbq9vj4rp9gf11oaxu</sha1>
+</revision>
+</page>

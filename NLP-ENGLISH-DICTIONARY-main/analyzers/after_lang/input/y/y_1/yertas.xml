@@ -1,0 +1,23 @@
+<page>
+<title>yertas</title>
+<ns>0</ns>
+<id>4586321</id>
+<revision>
+<id>55410987</id>
+<parentid>44134841</parentid>
+<timestamp>2019-10-14T15:02:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{feminine plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="90" xml:space="preserve">==Spanish==
+===Adjective===
+{{head|es|adjective form}}
+# {{feminine plural of|es|yerto}}</text>
+<sha1>1f8enu935zpka6ad0hp1vyq6r04u53i</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>xylitones</title>
+<ns>0</ns>
+<id>3035791</id>
+<revision>
+<id>55946387</id>
+<parentid>53092453</parentid>
+<timestamp>2019-10-16T10:42:48Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="140" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xylitone}}
+===Anagrams===
+* {{anagrams|en|a=eilnostxy|xylonites|xylostein}}</text>
+<sha1>me72zzqscl45ivzddybee005xd7h00z</sha1>
+</revision>
+</page>

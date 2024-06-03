@@ -1,0 +1,30 @@
+<page>
+<title>ximengite</title>
+<ns>0</ns>
+<id>1906866</id>
+<revision>
+<id>50315726</id>
+<parentid>49620642</parentid>
+<timestamp>2018-09-14T17:33:50Z</timestamp>
+<contributor>
+<username>Gazamp</username>
+<id>3442730</id>
+</contributor>
+<comment>/* Etymology */ Added etymology</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="590" xml:space="preserve">==English==
+===Etymology===
+Named after the discovery locality: Ximeng tin mining district, [[w:Yunnan Province|Yunnan Province]], China
+Ximeng + {{af|en|-ite}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|mineral}} A [[trigonal]] [[mineral]] with [[chemical formula]] BiPO&lt;sub&gt;4&lt;/sub&gt;.
+#* '''1989''', ''Chinese Journal of Geochemistry'' (volume 8, page 386)
+#*: '''Ximengite''' was analyzed for chemical composition on a JSM-35CF scanning electron microscope and an ED AX PV 9100 energy spectrometer using the following standards: {{...}}
+===Further reading===
+* {{R:WebMineral}}
+* {{R:mindat}}</text>
+<sha1>01f6aq37ufvui5gdoiueukpxu56ortg</sha1>
+</revision>
+</page>

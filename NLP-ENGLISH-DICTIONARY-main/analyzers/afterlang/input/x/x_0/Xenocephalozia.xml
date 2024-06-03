@@ -1,0 +1,31 @@
+<page>
+<title>Xenocephalozia</title>
+<ns>0</ns>
+<id>1198523</id>
+<revision>
+<id>68426208</id>
+<parentid>66239578</parentid>
+<timestamp>2022-07-21T15:55:56Z</timestamp>
+<contributor>
+<username>DCDuring</username>
+<id>43828</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="530" xml:space="preserve">==Translingual==
+{{rfi|mul}}
+===Etymology===
+{{prefix|mul|xeno|Cephalozia}}
+===Proper noun===
+{{taxoninfl|i=1|g=f}}
+# {{taxon|genus|family|Lophocoleaceae|a group of [[leafy liverwort]]s, now in ''[[Chiloscyphus]]''}}
+====Hyponyms====
+* {{sense|genus}} {{taxlink|Lophocolea navicularis|species|ver=220326}} (now {{taxlink|Chiloscyphus navicularis|species|ver=220326}})&amp;nbsp;- type species
+===References===
+* {{pedia|Lophocoleaceae}}
+* {{specieslite|Lophocoleaceae}}
+* {{comcatlite|Lophocoleaceae}}
+* {{R:Tropicos|i=1|35002510}}</text>
+<sha1>kl2lu0bvksd5zojoqtscz50561n6l23</sha1>
+</revision>
+</page>

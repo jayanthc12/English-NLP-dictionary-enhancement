@@ -1,0 +1,23 @@
+<page>
+<title>xabeques</title>
+<ns>0</ns>
+<id>6265009</id>
+<revision>
+<id>62205778</id>
+<parentid>57615968</parentid>
+<timestamp>2021-03-20T15:52:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Spanish 'noun plural form' -&gt; 'noun form' (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="86" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{inflection of|es|xabeque||p}}</text>
+<sha1>68znx7534zdyo16p7w2gnq61sn5vfo4</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>yhdestoista</title>
+<ns>0</ns>
+<id>522901</id>
+<revision>
+<id>69318369</id>
+<parentid>68553966</parentid>
+<timestamp>2022-09-18T17:14:43Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="440" xml:space="preserve">==Finnish==
+{{number box|fi}}
+===Etymology===
+{{com|fi|yhdes|-toista}}
+===Pronunciation===
+{{fi-p|yhdes-toista}}
+===Adjective===
+{{fi-adj}}
+# {{cln|fi|ordinal numbers}} [[eleventh]]
+====Declension====
+{{fi-decl-kahdeksas|pos=adj|yhde|ä|suffix=toista}}
+====Derived terms====
+* {{l|fi|yhdestoista hetki}}
+* {{l|fi|yhdestoistaosa}}
+====Related terms====
+* {{l|fi|yksitoista}}
+===Anagrams===
+* {{anagrams|fi|a=adehiosstty|atsoyhdiste}}</text>
+<sha1>ap1bea5pgbiqgp2j6q24balqwej2e4s</sha1>
+</revision>
+</page>

@@ -1,0 +1,23 @@
+<page>
+<title>yerbales</title>
+<ns>0</ns>
+<id>6797570</id>
+<revision>
+<id>56359121</id>
+<parentid>49967805</parentid>
+<timestamp>2019-10-17T14:35:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="78" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{plural of|es|yerbal}}</text>
+<sha1>dsjukcfb692c6zc9lp3he3ey5utjucu</sha1>
+</revision>
+</page>

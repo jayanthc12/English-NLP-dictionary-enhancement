@@ -1,0 +1,40 @@
+<page>
+<title>Yiddishism</title>
+<ns>0</ns>
+<id>4099139</id>
+<revision>
+<id>62712998</id>
+<parentid>62712864</parentid>
+<timestamp>2021-06-11T04:59:38Z</timestamp>
+<contributor>
+<username>Hans-Friedrich Tamke</username>
+<id>13400</id>
+</contributor>
+<comment>t+de:[[Jiddischismus]] t+de:[[Jiddismus]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="560" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|Yiddish|ism}}
+===Proper noun===
+{{en-prop}}
+# The [[Yiddishist]] movement.
+====Translations====
+{{trans-top|Yiddishist movement}}
+{{trans-mid}}
+* German: {{t+|de|Jiddischismus|m}}
+{{trans-bottom}}
+===Noun===
+{{en-noun}}
+# A word or phrase that is characteristically [[Yiddish]] but used in another language.
+====Coordinate terms====
+* {{list:foreignisms/en}}
+====Translations====
+{{trans-top|word or phrase}}
+{{trans-mid}}
+* German: {{t+|de|Jiddismus|m}}
+* Ukrainian: {{t|uk|їдиши́зм|m}}
+{{trans-bottom}}</text>
+<sha1>hyoztrzpdb4846ws7y6htwhluamu0q8</sha1>
+</revision>
+</page>

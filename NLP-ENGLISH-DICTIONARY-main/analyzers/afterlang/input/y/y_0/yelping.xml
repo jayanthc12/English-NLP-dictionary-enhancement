@@ -1,0 +1,34 @@
+<page>
+<title>yelping</title>
+<ns>0</ns>
+<id>726808</id>
+<revision>
+<id>69631147</id>
+<parentid>59642328</parentid>
+<timestamp>2022-10-31T23:57:06Z</timestamp>
+<contributor>
+<username>ExcarnateSojourner</username>
+<id>3854170</id>
+</contributor>
+<minor />
+<comment>/* Pronunciation */ + en rhyme (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="847" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|yelpinge}}, from {{inh|en|ang|ġilping}}; equivalent to {{af|en|yelp|-ing}}.
+===Pronunciation===
+* {{IPA|en|/ˈjɛlpɪŋ/}}
+* {{rhymes|en|ɛlpɪŋ|s=2}}
+===Verb===
+{{head|en|verb form}}
+# {{present participle of|en|yelp|nocat=1}}
+===Noun===
+{{en-noun}}
+# The act of producing a [[yelp]].
+#* '''1969''', Louis Johnson, “The Way to Train a Dog” (poem), reprinted in Louis Johnson (poet), Terry Sturm (editor), ''Selected Poems'', Victoria University Press (2000), {{ISBN|978-0-86473-350-4}}, [http://books.google.com/books?id=DG571ZNkI6wC&amp;pg=PA101&amp;dq=houseboi page 101]:
+#*: {{...}} While still a pup, / You put him in a sack, then beat it / With a stick. When howls and '''yelpings''' die, / You send the houseboi out to set him free.
+#: ''the frenzied '''yelpings''' of the huntsman's dogs''</text>
+<sha1>thafvz4gs07mzvgexuadreazywaya7f</sha1>
+</revision>
+</page>

@@ -1,0 +1,62 @@
+<page>
+<title>Xianning</title>
+<ns>0</ns>
+<id>6758725</id>
+<revision>
+<id>68493910</id>
+<parentid>67633903</parentid>
+<timestamp>2022-07-30T11:59:57Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>/* Proper noun */ 1978 book</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2134" xml:space="preserve">==English==
+{{wikipedia}}
+{{commonscat|Xianning}}
+===Alternative forms===
+* {{l|en|Sienning}}
+* {{q|from {{w|Wade–Giles}}}} {{l|en|Hsien-ning}}, {{l|en|Hsienning}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} {{zh-l|咸寧/咸甯/咸宁}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|prefecture-level city|p/Hubei|c/China}}.
+#* {{quote-book
+|en
+|year=1978
+|month=April
+|chapter=A Series of Chaos and Uprisings
+|title=China's Struggle with Red Peril
+|url=https://archive.org/details/chinasstrugglewi0000chuw/
+|publisher={{w|World Anti-Communist League}}, China Chapter
+|OCLC=886519391
+|pages=96-97
+|pageurl=https://archive.org/details/chinasstrugglewi0000chuw/page/97/
+|text=In Hupeh province, the peasants of Tungcheng (in southern Hupeh) began to revolt at the end of August and the uprising spread to Tungshan and Chungyang counties. Later, these peasants joined forces with the peasants of Puchi and '''Hsienning''' and bribed with huge amounts of money the bandits under Chang Chao-feng’s command to cut off, on September 9, the Wuchang-Changsha Railway for more than 10 days and attack '''Hsienning''' city.
+|brackets=on}}
+#* {{quote-web
+|en
+|date=MARCH 24, 2020
+|last=Goh
+|first=Brenda
+|title=Locked-down no longer, China's Hubei begins return to normal
+|archiveurl=https://web.archive.org/web/20220428100254/https://www.reuters.com/article/uk-health-coronavirus-china-toll-idUKKBN21C016
+|archivedate=28 April 2022
+|work={{w|Reuters}}
+|section=World News
+|text=“I booked my ticket this morning after hearing the news,” said Chen Ting, who was accompanied by her three-year-old son among about 40 people getting off a train in Hubei’s '''Xianning''' city.&lt;br&gt;The 28-year-old had travelled from Qingyuan city in the southern province of Guangdong, where she runs a wholesale business.}}
+====Translations====
+{{trans-top|prefecture-level city in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|咸寧|sc=Hani}}, {{t|cmn|咸甯|sc=Hani}}, {{t+|cmn|咸宁|tr=Xiánníng|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>cccg4mm8gikvm318b70t6awvti5l18t</sha1>
+</revision>
+</page>

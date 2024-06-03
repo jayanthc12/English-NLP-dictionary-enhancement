@@ -1,0 +1,25 @@
+<page>
+<title>xopeu</title>
+<ns>0</ns>
+<id>3657925</id>
+<revision>
+<id>34746182</id>
+<parentid>17582334</parentid>
+<timestamp>2015-10-19T17:01:51Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Applied [[WT:NORM]] rules</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="190" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=pl|t=pres|m=ind|xopar}}
+# {{ca-verb form of|p=2|n=pl|t=pres|m=sub|xopar}}
+# {{ca-verb form of|p=2|n=pl|m=impr|xopar}}</text>
+<sha1>gp3n2vohun8qpoiazu1k4fue7o92ohu</sha1>
+</revision>
+</page>

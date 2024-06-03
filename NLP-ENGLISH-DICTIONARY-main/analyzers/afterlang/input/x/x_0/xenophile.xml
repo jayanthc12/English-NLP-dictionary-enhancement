@@ -1,0 +1,42 @@
+<page>
+<title>xenophile</title>
+<ns>0</ns>
+<id>71088</id>
+<revision>
+<id>69546783</id>
+<parentid>67230079</parentid>
+<timestamp>2022-10-19T12:46:08Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* English */ +thes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="560" xml:space="preserve">{{also|xénophile}}
+==English==
+===Etymology===
+{{confix|en|xeno|phile}}
+===Noun===
+{{en-noun}}
+# A person who has a love of foreign people and culture.
+#: {{hyponyms|en|Thesaurus:xenophile}}
+# A person with an interest in celebrating people's differences. {{rfex|en}}
+====Antonyms====
+* {{l|en|xenophobe}}, {{l|en|racist}}
+====Related terms====
+{{col4|en
+|xenophilia
+|xenophilic
+}}
+===Anagrams===
+* {{anagrams|en|a=eehilnopx|lexiphone}}
+[[Category:en:People]]
+----
+==German==
+===Adjective===
+{{head|de|adjective form}}
+# {{de-adj form of|xenophil}}</text>
+<sha1>i1z3r6k39n80funuycmx04s7eh7zrw7</sha1>
+</revision>
+</page>

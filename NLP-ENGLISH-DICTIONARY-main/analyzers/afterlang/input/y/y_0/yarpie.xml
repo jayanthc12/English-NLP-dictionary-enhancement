@@ -1,0 +1,32 @@
+<page>
+<title>yarpie</title>
+<ns>0</ns>
+<id>247663</id>
+<revision>
+<id>67288151</id>
+<parentid>64554290</parentid>
+<timestamp>2022-06-06T09:05:05Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|af}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="537" xml:space="preserve">==English==
+===Alternative forms===
+* {{l|en|japie}}
+===Etymology===
+From {{uder|en|af|japie}}, short for {{m|af|plaasjapie||farm-boy}}, referring to any person who grew up on a farm and is unfamiliar with city life, and hence naive and unsophisticated.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ˈjɑɹpi/}}
+* {{a|RP}} {{IPA|en|/ˈjɑːpi/}}
+* {{rhymes|en|ɑː(ɹ)pi}}
+* {{audio|en|En-au-yarpie.ogg|Audio (AU)}}
+===Noun===
+{{en-noun}}
+# {{lb|en|South African English|pejorative|slang|ethnic slur}} A [[white]] [[South African]] man.</text>
+<sha1>l5mxzdm43f2h0riss06mwryefifrq1m</sha1>
+</revision>
+</page>

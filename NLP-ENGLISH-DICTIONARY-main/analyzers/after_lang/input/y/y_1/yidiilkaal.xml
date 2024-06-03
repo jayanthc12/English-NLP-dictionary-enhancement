@@ -1,0 +1,35 @@
+<page>
+<title>yidiilkaal</title>
+<ns>0</ns>
+<id>6019730</id>
+<revision>
+<id>46407810</id>
+<parentid>42164119</parentid>
+<timestamp>2017-06-16T20:36:08Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, remove interwikis, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="658" xml:space="preserve">==Navajo==
+{{nv-prefixes|b|di-them|yi-trans|3s|l}} {{nv-link-to-stem|-kaal|perfective}} {{nv-link-to-root|-KAAL|press}}.
+===Verb===
+{{head|nv|verb}}
+# he/she [[lean]]s on it
+# he/she [[brace]]s him/herself against it
+# he/she [[exert]]s pressure on it
+# he/she is [[apply oneself#Verb|applying himself/herself]], putting effort into it
+# he/she [[nag]]s someone, is after someone to
+# he/she [[give]]s his/her full attention to it (a task)
+====Conjugation====
+{{nv-paradigm|neuter perfective|yii}}.
+{{nv-verbtable|PERFECTIVE
+|bidiishkaal|bidiilkaal|bidadiilkaal
+|bidinilkaal|bidoołkaal|bidadoołkaal
+|yidiilkaal|yidadiilkaal|bizhdiilkaal|bidazhdiilkaal}}</text>
+<sha1>1sh4xpqavy93udl2lhpx7fy19or3c5j</sha1>
+</revision>
+</page>

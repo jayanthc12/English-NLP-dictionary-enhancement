@@ -1,0 +1,26 @@
+<page>
+<title>xiismo</title>
+<ns>0</ns>
+<id>4577241</id>
+<revision>
+<id>69114405</id>
+<parentid>66575823</parentid>
+<timestamp>2022-09-04T16:54:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace templated link to English term(s) in defns with raw link(s) (3); misc cleanup esp. of 'Literally' and extraneous final periods (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="181" xml:space="preserve">==Portuguese==
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|xi|is|mo}}
+===Noun===
+{{pt-noun|m}}
+# {{lb|pt|Islam}} [[Shi'a]]; [[Shi'ism]]; [[Shia Islam]] {{gloss|a branch of Islam}}</text>
+<sha1>c0w0p4apwq6wbqrxothm59kdfffyuq0</sha1>
+</revision>
+</page>

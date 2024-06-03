@@ -1,0 +1,27 @@
+<page>
+<title>xusteza</title>
+<ns>0</ns>
+<id>4352185</id>
+<revision>
+<id>51943639</id>
+<parentid>47737802</parentid>
+<timestamp>2019-03-17T00:15:46Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="441" xml:space="preserve">==Asturian==
+===Etymology===
+{{suffix|ast|xusto|eza}}; cf. also Latin {{m|la|iustitia|iūstitia, jūstitia}}. Compare Portuguese and Spanish {{m|es|justeza}}, Catalan and Occitan {{m|ca|justesa}}, French {{m|fr|justesse}}, Italian {{m|it|giustezza}}, Friulian {{m|fur|justece}}. See also {{m|ast|xusticia}}.
+===Noun===
+{{ast-noun|f|xusteces}}
+# {{l|en|justice}} {{gloss|state of being just or fair}}
+====Synonyms====
+* {{l|ast|xusticia}}</text>
+<sha1>eeaucirm60f4s9j01wn2yb99o3ajxrp</sha1>
+</revision>
+</page>

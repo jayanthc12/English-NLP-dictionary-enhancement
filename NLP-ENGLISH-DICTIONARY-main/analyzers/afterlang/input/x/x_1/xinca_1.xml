@@ -1,0 +1,28 @@
+<page>
+<title>xinca</title>
+<ns>0</ns>
+<id>6858575</id>
+<revision>
+<id>68971837</id>
+<parentid>64220538</parentid>
+<timestamp>2022-08-29T02:33:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Spanish==
+===Adjective===
+{{es-adj}}
+# [[Xinca]]
+===Noun===
+{{es-noun|mf}}
+# [[Xinca]]
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>jmgosu03nd7y25eu7gqpirn4xit0y8l</sha1>
+</revision>
+</page>

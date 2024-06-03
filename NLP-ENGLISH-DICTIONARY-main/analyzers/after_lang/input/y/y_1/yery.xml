@@ -1,0 +1,38 @@
+<page>
+<title>yery</title>
+<ns>0</ns>
+<id>4211599</id>
+<revision>
+<id>68534712</id>
+<parentid>67298921</parentid>
+<timestamp>2022-08-04T12:15:15Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="606" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{uder|en|ru|еры́}}.
+===Noun===
+[[File:Cyrillic Y.png|thumb|right|Cyrillic letter '''Ы ы''']]
+{{en-noun|?}}
+# A letter of the Cyrillic alphabet: {{m|ru|ы}}, now usually simply called &quot;ы&quot;
+====Translations====
+{{trans-top|a letter of the Cyrillic alphabet &quot;Ы/ы&quot;}}
+* Belarusian: {{t|be|ы|n|sc=Cyrl}}
+* Kazakh: {{t+|kk|ы|sc=Cyrl}}
+{{trans-mid}}
+* Kyrgyz: {{t|ky|ы|sc=Cyrl}}
+* Russian: {{t+|ru|ы|n}}, {{t+|ru|еры́|n}} {{qualifier|obsolete}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=eryy|eyry}}
+[[Category:en:Cyrillic letter names]]</text>
+<sha1>dsabunfqgj61new9iar467wlmq4s8nx</sha1>
+</revision>
+</page>

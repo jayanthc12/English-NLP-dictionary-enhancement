@@ -1,0 +1,36 @@
+<page>
+<title>xuda</title>
+<ns>0</ns>
+<id>7315715</id>
+<revision>
+<id>64615190</id>
+<parentid>61911681</parentid>
+<timestamp>2021-11-09T20:17:55Z</timestamp>
+<contributor>
+<username>Allahverdi Verdizade</username>
+<id>2117864</id>
+</contributor>
+<comment>/* Noun */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="322" xml:space="preserve">==Azerbaijani==
+===Etymology===
+From {{bor|az|fa|خدا}}.
+===Noun===
+{{az-head-noun|a}}
+# [[God]], [[god]]
+#: {{syn|az|Thesaurus:Allah}}
+====Declension====
+{{az-decl-noun|a}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Northern Kurdish==
+===Pronunciation===
+* {{kmr-IPA}}
+===Noun===
+{{kmr-noun|m}}
+# [[God]]</text>
+<sha1>bgcanbdf6aek6kd4kead4rkb1uhe952</sha1>
+</revision>
+</page>

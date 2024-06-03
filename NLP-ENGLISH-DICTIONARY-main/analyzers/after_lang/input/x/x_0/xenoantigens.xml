@@ -1,0 +1,23 @@
+<page>
+<title>xenoantigens</title>
+<ns>0</ns>
+<id>3443476</id>
+<revision>
+<id>56033746</id>
+<parentid>53092207</parentid>
+<timestamp>2019-10-17T00:31:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="77" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenoantigen}}</text>
+<sha1>dp3uw0766of68h4zjawgwunzvs27qyy</sha1>
+</revision>
+</page>

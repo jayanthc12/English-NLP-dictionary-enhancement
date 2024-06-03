@@ -1,0 +1,28 @@
+<page>
+<title>yhdenmukaisuus</title>
+<ns>0</ns>
+<id>6423377</id>
+<revision>
+<id>69318357</id>
+<parentid>47905005</parentid>
+<timestamp>2022-09-18T17:14:08Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="273" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdenmukainen|uus}}
+===Pronunciation===
+{{fi-p|yhden-mukaisuus}}
+===Noun===
+{{fi-noun}}
+# [[conformity]], [[uniformity]] {{gloss|state of things being similar or identical}}
+====Declension====
+{{fi-decl-kalleus|yhdenmukaisuu|a}}</text>
+<sha1>nfjm1tp1cl08ydr80ar5xwkx0bab3pc</sha1>
+</revision>
+</page>

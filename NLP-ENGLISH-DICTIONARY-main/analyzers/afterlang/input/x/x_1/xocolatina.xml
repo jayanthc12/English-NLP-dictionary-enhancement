@@ -1,0 +1,43 @@
+<page>
+<title>xocolatina</title>
+<ns>0</ns>
+<id>3907409</id>
+<revision>
+<id>68816581</id>
+<parentid>67978044</parentid>
+<timestamp>2022-08-27T20:43:30Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove extraneous spaces at end of line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="473" xml:space="preserve">==Catalan==
+{{multiple images
+|direction = vertical
+| image1 = Snickers-broken.JPG
+| caption1 =
+| image2 = Kinderchocolate.jpg
+| caption2 =
+}}
+===Etymology===
+From {{bor|ca|fr|chocolatine}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ina|s=5}}
+===Noun===
+{{ca-noun|f}}
+# [[chocolate]], [[chocolate bar]], [[candy bar]]
+====Related terms====
+*{{l|ca|rajola de xocolata}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+{{c|ca|Sweets}}</text>
+<sha1>rijb4iy6frj2xn7msrcxzsq7xd44yim</sha1>
+</revision>
+</page>

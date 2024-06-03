@@ -1,0 +1,31 @@
+<page>
+<title>yarnwindle</title>
+<ns>0</ns>
+<id>763258</id>
+<revision>
+<id>58263551</id>
+<parentid>58157766</parentid>
+<timestamp>2019-12-31T06:13:38Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>updating {{t}}/{{t+}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="315" xml:space="preserve">==English==
+===Etymology===
+From {{m|en|yarn}} and {{m|en|wind}}.
+===Noun===
+{{en-noun}}
+# A [[device]] for [[wind]]ing [[yarn]] into a [[ball]].
+====Translations====
+{{trans-top|device for winding yarn into a ball}}
+* Albanian: {{t+|sq|qerthull|m}}
+* German: {{t|de|Garnwinde|f}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>lz3yxxru2ty0kiv2mf7upiuzpkxqwf3</sha1>
+</revision>
+</page>

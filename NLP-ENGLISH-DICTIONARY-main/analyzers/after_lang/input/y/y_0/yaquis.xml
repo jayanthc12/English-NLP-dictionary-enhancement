@@ -1,0 +1,26 @@
+<page>
+<title>yaquis</title>
+<ns>0</ns>
+<id>6521483</id>
+<revision>
+<id>56299072</id>
+<parentid>51717048</parentid>
+<timestamp>2019-10-17T12:05:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}} (2)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="167" xml:space="preserve">==Spanish==
+===Adjective===
+{{head|es|adjective form|g=m-p|g2=f-p}}
+# {{plural of|es|yaqui}}
+===Noun===
+{{head|es|noun form|g=m-p|g2=f-p}}
+# {{plural of|es|yaqui}}</text>
+<sha1>17ulyeg59k9yheell4hlfhn2neb8f4d</sha1>
+</revision>
+</page>

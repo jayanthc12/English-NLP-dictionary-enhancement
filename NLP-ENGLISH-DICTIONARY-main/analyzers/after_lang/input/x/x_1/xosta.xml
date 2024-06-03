@@ -1,0 +1,27 @@
+<page>
+<title>xosta</title>
+<ns>0</ns>
+<id>7356916</id>
+<revision>
+<id>56730323</id>
+<parentid>54266918</parentid>
+<timestamp>2019-10-18T13:43:08Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="193" xml:space="preserve">==Ulch==
+===Pronunciation===
+* {{IPA|ulc|[χɔsta]}}
+===Noun===
+{{head|ulc|noun}}
+# [[star]]
+====References====
+* J.A. Alonso de la Fuente, ''Vowel Epenthesis in Orok Ulisä 'Meat''', 2011.</text>
+<sha1>2p9ugcjrdxqki39hmxvtv8gcmfmoqr7</sha1>
+</revision>
+</page>

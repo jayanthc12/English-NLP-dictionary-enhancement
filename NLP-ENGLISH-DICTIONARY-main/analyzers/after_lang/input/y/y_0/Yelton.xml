@@ -1,0 +1,27 @@
+<page>
+<title>Yelton</title>
+<ns>0</ns>
+<id>6148390</id>
+<revision>
+<id>67829438</id>
+<parentid>67706154</parentid>
+<timestamp>2022-07-09T21:42:49Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="360" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yeltons}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yelton'' is the 11783&lt;sup&gt;rd&lt;/sup&gt; most common surname in the United States, belonging to 2659 individuals. ''Yelton'' is most common among White (93.42%) individuals.
+===Anagrams===
+* {{anagrams|en|a=elnoty|Leyton}}</text>
+<sha1>t521yoihgd0n0tl5vwocimacc4a7sjf</sha1>
+</revision>
+</page>

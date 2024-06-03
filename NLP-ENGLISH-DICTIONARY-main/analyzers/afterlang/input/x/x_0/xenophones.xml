@@ -1,0 +1,23 @@
+<page>
+<title>xenophones</title>
+<ns>0</ns>
+<id>1345175</id>
+<revision>
+<id>55570623</id>
+<parentid>53092265</parentid>
+<timestamp>2019-10-15T07:05:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|xenophone}}</text>
+<sha1>6kbf6u41an8jq51jww77iw8uvdhsexy</sha1>
+</revision>
+</page>

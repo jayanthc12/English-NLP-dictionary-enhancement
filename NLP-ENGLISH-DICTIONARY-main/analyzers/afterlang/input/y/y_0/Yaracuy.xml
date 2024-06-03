@@ -1,0 +1,29 @@
+<page>
+<title>Yaracuy</title>
+<ns>0</ns>
+<id>5594975</id>
+<revision>
+<id>62085153</id>
+<parentid>61998063</parentid>
+<timestamp>2021-03-14T03:07:09Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="208" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{head|es|proper noun}}
+# {{place|es|state|c/Venezuela}}
+====Derived terms====
+* {{l|es|yaracuyano}}
+===Further reading===
+* {{pedia|lang=es}}</text>
+<sha1>huhp1l3thviyz0q8yrubulrgjzc0i83</sha1>
+</revision>
+</page>

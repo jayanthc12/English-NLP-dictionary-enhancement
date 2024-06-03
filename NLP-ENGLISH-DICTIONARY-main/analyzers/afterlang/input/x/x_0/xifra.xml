@@ -1,0 +1,43 @@
+<page>
+<title>xifra</title>
+<ns>0</ns>
+<id>2644210</id>
+<revision>
+<id>69502493</id>
+<parentid>69502451</parentid>
+<timestamp>2022-10-12T18:04:11Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<comment>/* Catalan */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1341" xml:space="preserve">==Catalan==
+===Etymology===
+From {{bor|ca|ar|صِفْر||empty}}, attested from the 14th century.&lt;ref&gt;{{R:GDLC}}&lt;/ref&gt; {{root|ca|ar|ص ف ر}}
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Unjoanqualsevol-xifra.wav|Audio}}
+===Noun===
+{{ca-noun|f}}
+# [[numeral]] {{gloss|a symbol that is not a word and represents a number}}
+#: {{syn|ca|guarisme}}
+# {{lb|ca|by extension}} [[number]]; [[amount]]
+# {{syn|ca|nombre|número|suma}}
+#* {{quote-journal|ca|journal=Ara|title=El colonialisme va fer el món modern: refem-lo [Colonialism made the modern world: let's remake it|author=Adom Getachew|date=August 8 2020
+|passage=Entre el 1945 i el 1975, a mesura que es van guanyar les lluites per la independència a l’Àfrica i l’Àsia, la '''xifra''' de membres de les Nacions Unides va passar de 51 països a 144.
+|t=Between 1945 and 1975, as the fights for independence in Africa and Asia were being won, the '''number''' of United Nations members when from 51 countries to 144.
+|url=https://www.ara.cat/opinio/colonialisme-mon-modern-refem-lo_0_2505349457.html}}
+# [[cipher]] {{gloss|a method of transforming a text in order to conceal its meaning}}
+====Derived terms====
+{{der3|ca|contraxifra|xifra aràbiga|xifra romana|xifrar}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>aqh3owg6ornr7o0pxjc6sfxahyc5zj6</sha1>
+</revision>
+</page>

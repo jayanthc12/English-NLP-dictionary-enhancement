@@ -1,0 +1,29 @@
+<page>
+<title>Yasuhiro</title>
+<ns>0</ns>
+<id>3065804</id>
+<revision>
+<id>67827165</id>
+<parentid>67734428</parentid>
+<timestamp>2022-07-09T21:34:52Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="227" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{given name|en|male|A=A Japanese|from=Japanese}}
+# {{surname|en|from=Japanese}}.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やすひろ}}</text>
+<sha1>hmtcvy3eynsh2g9q65pab29114r6ony</sha1>
+</revision>
+</page>

@@ -1,0 +1,51 @@
+<page>
+<title>yakitori</title>
+<ns>0</ns>
+<id>4551</id>
+<revision>
+<id>64359630</id>
+<parentid>61935102</parentid>
+<timestamp>2021-10-22T18:11:24Z</timestamp>
+<contributor>
+<username>QuickPhyxa</username>
+<id>3869656</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1611" xml:space="preserve">==English==
+[[File:Typical yakitori 001.jpg|thumb|A dish of '''yakitori''']]
+===Etymology===
+Borrowed from {{bor|en|ja|焼き鳥}} ({{m|ja|やきとり}}), from {{m|ja|焼き|tr=yaki|t=grilled, toasted}} + {{m|ja|鳥|tr=tori|t=bird}}.
+===Pronunciation===
+* {{IPA|en|/jækɪˈtɔəɹi/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-yakitori.wav|Audio (Berkshire)}}
+===Noun===
+{{en-noun|~|yakitori|s}}
+# A Japanese [[shish kebab]]-type dish made with small pieces of chicken or other ingredients cooked on skewers, often marinated in soy sauce or seasoned with salt.
+#* {{RQ:Gibson Neuromancer|page=10|passage=Friday night on Ninsei. He passed '''yakitori''' stands and massage parlors, a franchised coffee shop called Beautiful Girl, the electronic thunder of an arcade.}}
+#* '''2006''', Thomas Pynchon, ''Against the Day'', Vintage 2007, p. 851:
+#*: We should have the bazaars full of '''yakitori''' pitches and geishas in bamboo cages.
+===See also===
+* {{l|en|kushiyaki}}
+----
+==Indonesian==
+{{wikipedia|lang=id}}
+===Etymology===
+Borrowed from {{bor|id|ja|焼き鳥|tr=[[やきとり]], yakitori|}}, from {{m|ja|焼き|tr=yaki|t=grilled, toasted}} + {{m|ja|鳥|tr=tori|t=bird}}.
+===Pronunciation===
+* {{IPA|id|/ja.ki.to.ri/}}
+* {{hyphenation|id|ya|ki|to|ri}}
+===Noun===
+{{id-noun|}}
+# {{lang|en|yakitori}}, a Japanese [[shish kebab]]-type dish made with small pieces of chicken, fish, vegetables or beef which have been marinated in soy sauce and then cooked on skewers.
+===Further reading===
+* {{R:KBBI Daring}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やきとり}}</text>
+<sha1>56gt0wx9nsg3weq13mb5btmebp5cewv</sha1>
+</revision>
+</page>

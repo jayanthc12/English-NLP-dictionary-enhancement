@@ -1,0 +1,63 @@
+<page>
+<title>xilografia</title>
+<ns>0</ns>
+<id>1612782</id>
+<revision>
+<id>69440208</id>
+<parentid>69114416</parentid>
+<timestamp>2022-10-03T19:29:52Z</timestamp>
+<contributor>
+<username>Linguoboy</username>
+<id>116731</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1293" xml:space="preserve">{{also|xilografía}}
+==Catalan==
+===Etymology===
+{{confix|ca|xilo|grafia}}
+===Pronunciation===
+* {{ca-IPA|ksilografia}}
+===Noun===
+{{ca-noun|f}}
+# {{lb|ca|uncountable}} [[xylography]], [[woodcut]] {{gl|art of wood engraving}}
+# {{lb|ca|countable}} [[xylograph]], [[woodcut]], [[woodblock]] {{gl|engraving in wood}}
+# {{lb|ca|countable}} [[xylograph]], [[woodcut]], [[woodblock]] {{gl|print taken from such an engraving}}
+====Derived terms====
+* {{l|it|xilogràfic}}
+====Related terms====
+* {{l|it|xilògraf}}
+===Further reading===
+* {{R:IEC2}}
+{{C|ca|Printing}}
+----
+==Italian==
+===Alternative forms===
+* {{alter|it|silografia}}
+===Etymology===
+{{confix|it|xilo|grafia}}
+===Pronunciation===
+{{it-pr|xì̱lografìa}}
+===Noun===
+{{it-noun|f}}
+# {{lb|it|uncountable}} {{l|en|xylography}} {{gl|art of wood engraving}}
+# {{l|en|xylograph}} {{gl|engraving in wood; print taken from such an engraving}}
+====Derived terms====
+* {{l|it|xilografico}}
+====Related terms====
+* {{l|it|xilografo}}
+===Further reading===
+* {{pedia|lang=it}}
+===References===
+* {{R:it:Trec}}
+----
+==Portuguese==
+===Noun===
+{{pt-noun|f}}
+# {{lb|pt|uncountable}} [[xylography]] {{gloss|art of making engravings in wood}}
+# [[xylograph]] {{gloss|engraving in wood}}
+====Synonyms====
+* {{l|pt|xilogravura}}</text>
+<sha1>8y7shgzvgy75dqh2ya4eq487x8635x6</sha1>
+</revision>
+</page>

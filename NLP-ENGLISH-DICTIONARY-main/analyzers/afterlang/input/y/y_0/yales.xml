@@ -1,0 +1,25 @@
+<page>
+<title>yales</title>
+<ns>0</ns>
+<id>4134130</id>
+<revision>
+<id>63219899</id>
+<parentid>56289787</parentid>
+<timestamp>2021-07-19T21:32:23Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>updating anagrams</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="148" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yale}}
+===Anagrams===
+* {{anagrams|en|a=aelsy|Ealys|Layes|Sealy|layes|leasy|lyase}}</text>
+<sha1>rsjjcw5xetrq2bqbcatrqwqilfsddld</sha1>
+</revision>
+</page>

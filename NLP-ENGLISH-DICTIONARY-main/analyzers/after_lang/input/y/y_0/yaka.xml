@@ -1,0 +1,139 @@
+<page>
+<title>yaka</title>
+<ns>0</ns>
+<id>1551048</id>
+<revision>
+<id>69644789</id>
+<parentid>69644777</parentid>
+<timestamp>2022-11-02T20:00:25Z</timestamp>
+<contributor>
+<username>Oníhùmọ̀</username>
+<id>3811856</id>
+</contributor>
+<minor />
+<comment>/* Nupe */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="4851" xml:space="preserve">{{also|Yaka|þaka|ya'ka}}
+==Chinook Jargon==
+===Pronoun===
+{{head|chn|pronoun}}
+# [[he]], [[she]], [[it]], [[him]], [[her]]
+# [[his]], her, [[its]]
+====See also====
+* {{l|chn|klaska}}
+----
+==Jamamadí==
+===Verb===
+{{head|jaa|verb}}
+# {{lb|jaa|Banawá}} to [[walk]]
+===References===
+* 2007. [http://archive.phonetics.ucla.edu/Language/BNH/bnh.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
+{{C|jaa|Gaits}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やか}}
+----
+==Maquiritari==
+===Alternative forms===
+* {{q|De'kwana}} {{l|mch|ya'ka}}
+===Pronunciation===
+* {{mch-IPA}}
+===Verb===
+{{head|mch|verb}} {{lb|mch|Ye'kwana|transitive}}
+# to [[assart]], to clear ([[tree]]s and [[plant]]s) from a [[field]] or [[garden]] in [[slash-and-burn]] [[agriculture]]
+===References===
+* {{R:mch:Cáceres|head=yaka}}
+* {{R:mch:IDS|yaʔka-dɨ|217}}
+* {{R:mch:IDS|ukā-dɨ|24}}
+----
+==Nupe==
+[[File:Capsicum frutescens 'Hidalgo' 004.JPG|Capsicum_frutescens_'Hidalgo'_004|thumb|'''Yakázhì''']]
+===Pronunciation===
+* {{IPA|nup|/jā.ká/}}
+===Noun===
+{{nup-noun|yaká|yakázhì}}
+# [[Capsicum frutescens]] ([[chili pepper]])
+#: {{syn|nup|yakági}}
+====Derived terms====
+{{der2|nup
+|yakági
+|yakákó
+}}
+{{c|nup|Fruits|Peppers}}
+----
+==Ometepec Nahuatl==
+===Noun===
+{{head|nht|nouns}}
+# [[nose]]
+[[Category:nht:Anatomy]]
+----
+==Tocharian B==
+===Adverb===
+{{head|txb|adverb}}
+# [[nevertheless]]
+# [[furthermore]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یاقه|tr=yaka}}, from {{inh|tr|trk-pro|*jaka|t=collar; edge}} (compare {{cog|hu|-}} borrowing {{m|hu|nyak}}). Cognate with {{cog|oui||tr=jaqa|t=collar}}, {{cog|kk|жаға|t=collar}}, {{cog|ky|жака|t=collar; shore, bank}},{{cog|uz|yoqa|t=collar; side; shore, bank}}, {{cog|kjh|чаға|t=trousers/pants' belt; edge}}, {{cog|sah|саҕа|t=collar; edge}}, etc.
+===Noun===
+{{tr-noun|yı|lar}}
+# [[collar]]
+#: {{uxi|tr|gömleğimin yakası|the collar of my shirt}}
+# [[side]] (of a district or geographical feature)
+#: {{uxi|tr|Avrupa Yakası|European Side}}
+# {{lb|tr|nautical}} edge of a [[sail]]
+====Declension====
+{{tr-infl-noun-v|a|poss=1}}
+====Derived terms====
+* {{l|tr|yakalamak|t=to collar, seize, apprehend}}
+===References===
+* {{R:tr:Nishanyan|yaka}}
+* {{R:ota:Redhouse|یاقه|page=2189}}
+* {{R:tr:NewRedhouse}}
+[[Category:tr:Clothing]]
+----
+==Wauja==
+===Pronunciation===
+* {{IPA|wau|/jaˈka/}}
+===Noun===
+{{head|wau|noun}}
+# spectacled (White or common) caiman, caimans, ''Caiman crocodilus''.
+#: '''''Yaka''' WEke. Ah, kawikaapapai ka jouhan! ... '''Yakakuma''' jano han!''
+#:: [He was a] gigantic caiman. Ah, [he] was terrifying indeed, that one! ....[The] Caiman Spirit, he was!
+#: ''Iye ejekujata ipitsi, ayakatapai umapai. EjekuJAtapai tonejunaun. Ipitsi ja umapai: ayakatawi.''
+#: ''Kamani iya '''yaka''' okaho?''
+#: ''Itsa ejekuJAtapai, ententsapai kupato. Ipitsi inyaun wi, kata inyaun, kata enojanaun, iya ayakata, umakonapai yiu whun, iya ententsapai papisulu.''
+#:: [Mayanu:] When someone goes to await [someone] — that's what '''''ayakatapai''''' means. [When men] wait [patiently] a long time for women. That's what we call '''''ayakatapai'''''.
+#:: [Anthropologist asks why the word mentions the caiman.]
+#:: [Kaomo:] That's how [caimans] wait, motionless — they're on the lookout for fish. So [you say the] same thing about those people, those men, who go to await their lovers, [who stand alert and motionless], waiting for [the] women [to come out of their houses].
+====Derived terms====
+* {{l|wau|ayakata||awaits a lover}}
+* {{l|wau|Yakaojokuma||Great Caiman Spirit}}
+===References===
+* ''Species identification from E. Ireland field notes, confirmed with Piitsa, Muri, and other elders (all experienced hunters) in 1982 using José Cândido de Melo Carvalho's ''Atlas da Fauna Brasileira'', Edições Melhoramentos, São Paulo, 1981.''
+* &quot;Yaka WEke&quot; ''(transcript, pp. 18-19), and ''&quot;Aminya yikiyantawi!&quot;'' (p. 31) uttered by Arutatumpa, storyteller and elder, and members of his audience, as he recounted the traditional tale, the &quot;Caiman Spirit&quot; ''(Yakaojokuma)''. Recorded in Piyulaga village in the presence of assembled elders and others, November 1989. Recorded in BBC film, &quot;The Storyteller.&quot;''
+* &quot;Iye ejekujata&quot; ''(transcript p. 84), uttered by Mayano and his father Kaomo, upon listening to a recording of Arutatumpa's performance of the ''Yakaojokuma'' story.''
+[[Category:wau:Animals]]
+[[Category:wau:Reptiles]]
+----
+==Zacatepec Chatino==
+===Etymology===
+From {{inh|ctz|omq-cha-pro|*yaka}}, from {{inh|ctz|omq-zap-pro|*yaka}}.
+===Pronunciation===
+* {{IPA|ctz|/ja.ka/}}
+===Noun===
+{{head|ctz|noun}}
+# [[tree]]
+# [[wood]]
+====Derived terms====
+{{col4|ctz
+|yaka naʔan|yaka yoo}}
+===References===
+* {{R:ctz:Villard:2015|page=53}}</text>
+<sha1>botixpqknzgc0l35sc0a7aqu7f7osu4</sha1>
+</revision>
+</page>

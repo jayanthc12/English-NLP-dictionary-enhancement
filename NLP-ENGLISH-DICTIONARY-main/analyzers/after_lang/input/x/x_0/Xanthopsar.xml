@@ -1,0 +1,33 @@
+<page>
+<title>Xanthopsar</title>
+<ns>0</ns>
+<id>3075351</id>
+<revision>
+<id>58058842</id>
+<parentid>51226325</parentid>
+<timestamp>2019-11-24T22:13:10Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{rfelite}} to {{rfe}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="301" xml:space="preserve">==Translingual==
+===Etymology===
+{{rfe|mul}}
+===Proper noun===
+{{taxoninfl|i=1|g=m}}
+# {{taxon|genus|family|Icteridae}}
+====Hypernyms====
+* {{sense|genus}} {{Icteridae Hypernyms}}
+===References===
+* {{pedia|i=1}}
+* {{specieslite|i=1}}
+* {{comcatlite|i=1}}
+* {{R:Gill2006}}
+[[Category:mul:Birds]]</text>
+<sha1>a07751jnzxpevgj40s13so95egb1dfa</sha1>
+</revision>
+</page>

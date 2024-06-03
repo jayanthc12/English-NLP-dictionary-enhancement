@@ -1,0 +1,28 @@
+<page>
+<title>yhdenmukaistua</title>
+<ns>0</ns>
+<id>1819658</id>
+<revision>
+<id>69318356</id>
+<parentid>59682834</parentid>
+<timestamp>2022-09-18T17:14:03Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="254" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdenmukaistaa|-ua}}
+===Pronunciation===
+{{fi-p|yhden-mukaistua*}}
+===Verb===
+{{fi-verb}}
+# {{lb|fi|intransitive}} To be [[standardize]]d, [[equalize]]d.
+====Conjugation====
+{{fi-conj-sanoa|yhdenmukaist|||u|a}}</text>
+<sha1>8ykpv9d40m4h2vefx9lrt36bnv6b0jk</sha1>
+</revision>
+</page>

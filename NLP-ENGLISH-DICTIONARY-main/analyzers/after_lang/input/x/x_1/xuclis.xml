@@ -1,0 +1,23 @@
+<page>
+<title>xuclis</title>
+<ns>0</ns>
+<id>2522473</id>
+<revision>
+<id>15872650</id>
+<parentid>14663441</parentid>
+<timestamp>2012-01-10T15:51:15Z</timestamp>
+<contributor>
+<username>MglovesfunBot</username>
+<id>264304</id>
+</contributor>
+<minor />
+<comment>bot: bypassing template redirects, minor spacing</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=sg|t=pres|m=sub|xuclar}}</text>
+<sha1>0p1ey7w4m6r6l30d0co0lm3ptmn0ebp</sha1>
+</revision>
+</page>

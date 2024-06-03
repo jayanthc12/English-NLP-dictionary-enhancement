@@ -1,0 +1,27 @@
+<page>
+<title>xiphodon</title>
+<ns>0</ns>
+<id>3726506</id>
+<revision>
+<id>67298150</id>
+<parentid>45943509</parentid>
+<timestamp>2022-06-06T12:14:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|grc}}; swap {{etyl|...}} into {{uder|en|la}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="243" xml:space="preserve">{{also|Xiphodon}}
+==English==
+{{wikipedia}}
+===Etymology===
+{{uder|en|la|-}}, from {{uder|en|grc|ξίφος||sword}} + {{m|grc|δόντι||tooth}}.
+===Noun===
+{{en-noun}}
+# An [[extinct]] [[camel]]-like animal of the genus ''[[Xiphodon]]''.</text>
+<sha1>c16dqe4cvvblxfotpfcjr4wpv70bdwj</sha1>
+</revision>
+</page>

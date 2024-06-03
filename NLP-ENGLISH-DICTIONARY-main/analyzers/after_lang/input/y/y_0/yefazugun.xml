@@ -1,0 +1,28 @@
+<page>
+<title>yefazugun</title>
+<ns>0</ns>
+<id>1527601</id>
+<revision>
+<id>63426997</id>
+<parentid>53444293</parentid>
+<timestamp>2021-07-26T03:20:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add {{arn-sp}}, clean up Mapudungun entries (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Mapudungun==
+===Verb===
+{{head|arn|verb}} {{arn-sp|r}}
+# To [[take a message]].
+# {{inflection of|arn|yefazugun||1|s|realis|form}}
+====See also====
+* {{l|arn|yezugun}}
+===References===
+* {{R:Wixaleyiñ 2008}}</text>
+<sha1>c6md7406othyiwkpvir6zm2ndg7kqcc</sha1>
+</revision>
+</page>

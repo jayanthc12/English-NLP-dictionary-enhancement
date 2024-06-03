@@ -1,0 +1,24 @@
+<page>
+<title>xeransis</title>
+<ns>0</ns>
+<id>3779925</id>
+<revision>
+<id>69053668</id>
+<parentid>49602881</parentid>
+<timestamp>2022-09-03T05:59:25Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename 'words' -&gt; 'terms' in manually-specified affix categories (see [[Wiktionary:Beer parlour/2022/August]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">==English==
+===Noun===
+{{en-noun|~|xeranses}}
+# {{lb|en|pathology}} A [[drying]] of the [[tissue]]s.
+[[Category:English terms prefixed with xero-]]</text>
+<sha1>7zb1ol2ti6roft37sppu9werk7xt60n</sha1>
+</revision>
+</page>

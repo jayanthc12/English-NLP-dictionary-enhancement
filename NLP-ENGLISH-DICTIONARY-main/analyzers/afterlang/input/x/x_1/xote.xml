@@ -1,0 +1,52 @@
+<page>
+<title>xote</title>
+<ns>0</ns>
+<id>4716580</id>
+<revision>
+<id>69486609</id>
+<parentid>69114436</parentid>
+<timestamp>2022-10-10T00:03:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Portuguese: major cleanup of pronuns, etyms, deverbals, etc. (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="932" xml:space="preserve">==Mecayapan Nahuatl==
+===Etymology===
+{{etystub|nhx}}
+===Pronunciation===
+* {{IPA|nhx|/ˈʃote/}}
+===Noun===
+{{head|nhx|noun}}
+# a kind of edible freshwater snail {{rfclarify|nhx}}
+====Derived terms====
+* {{l|nhx|xotebo̱rroj}}
+===References===
+* {{R:Wolgemuth et al. 2002|page=204}}
+{{topics|nhx|Snails}}
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA|xóte}}
+* {{hyph|pt|xo|te}}
+===Etymology 1===
+Borrowed from {{bor|pt|de|schottisch||Scottish}}.
+====Alternative forms====
+* {{alt|pt|xótis||dated}}
+====Noun====
+{{pt-noun|m}}
+# a Brazilian [[dance]] and [[music]] subgenre associated with {{l|pt|forró}}
+# {{lb|pt|South Brazil}} a dance and music genre of South Brazil
+# {{lb|pt|dated}} [[schottische]]; [[schottisch]] {{gloss|a lively dance similar to polka}}
+#: {{syn|pt|escocesa|schottisch}}
+===Etymology 2===
+====Verb====
+{{head|pt|verb form}}
+# {{pt-verb-form-of|xotar|e}}
+{{C|pt|Musical genres|Dances}}</text>
+<sha1>outfwe05694n9dvx1t8jqpocey672z1</sha1>
+</revision>
+</page>

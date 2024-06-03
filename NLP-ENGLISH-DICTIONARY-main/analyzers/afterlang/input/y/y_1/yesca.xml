@@ -1,0 +1,40 @@
+<page>
+<title>yesca</title>
+<ns>0</ns>
+<id>92064</id>
+<revision>
+<id>69419523</id>
+<parentid>68889362</parentid>
+<timestamp>2022-10-02T18:22:08Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Sorted L3 sections per WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="564" xml:space="preserve">==Asturian==
+===Noun===
+{{ast-noun|f|yesques}}
+# {{alternative form of|ast|esca}}
+----
+==Spanish==
+{{wikipedia|yesca (desambiguación)|lang=es}}
+===Etymology===
+From {{inh|es|osp|yesca}}, {{m|osp|iesca}}, from {{inh|es|la|ēsca}}. {{doublet|es|esca}}. Compare {{cog|pt|isca}}.
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|f}}
+# [[tinder]]
+#: {{uxi|es|arder como si fuera '''yesca'''|to burn like '''tinder'''}}
+====Related terms====
+* {{l|es|esca}}
+===Further reading===
+* {{R:es:DRAE}}
+===Anagrams===
+* {{anagrams|es|a=acesy|yacés|yaces|yecas}}</text>
+<sha1>swf307oevfvcn4pd2qgv79tvmn1l5dv</sha1>
+</revision>
+</page>

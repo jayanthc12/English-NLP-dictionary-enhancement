@@ -1,0 +1,23 @@
+<page>
+<title>Yahudinin</title>
+<ns>0</ns>
+<id>6274344</id>
+<revision>
+<id>57616684</id>
+<parentid>46935949</parentid>
+<timestamp>2019-10-20T06:22:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="87" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|Yahudi||def|gen|s}}</text>
+<sha1>q9fshhwu81sthsg0jiphppjsp7jb31w</sha1>
+</revision>
+</page>

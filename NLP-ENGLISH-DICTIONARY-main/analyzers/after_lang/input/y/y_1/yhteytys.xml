@@ -1,0 +1,28 @@
+<page>
+<title>yhteytys</title>
+<ns>0</ns>
+<id>1409767</id>
+<revision>
+<id>69318509</id>
+<parentid>60306143</parentid>
+<timestamp>2022-09-18T17:22:29Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="218" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhteyttää|-us|alt2=-ys|id2=action or event}}
+===Pronunciation===
+{{fi-p}}
+===Noun===
+{{head|fi|noun}}
+# [[photosynthesis]]
+====Declension====
+{{fi-decl-vastaus|yhteyty|ä}}</text>
+<sha1>5njtnq5ronocuv7b26ba5lum5t2ow8k</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>Yasothon</title>
+<ns>0</ns>
+<id>6402399</id>
+<revision>
+<id>65326217</id>
+<parentid>58366939</parentid>
+<timestamp>2022-01-12T19:40:50Z</timestamp>
+<contributor>
+<username>Ffffrr</username>
+<id>3832888</id>
+</contributor>
+<comment>/* English */Wikipedia</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="440" xml:space="preserve">==English==
+{{wikipedia|Yasothon Province}}
+{{wikipedia}}
+===Etymology===
+From {{bor|en|th|ยโสธร}}.
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|province|c/Thailand}}.
+# {{place|en|city|c/Thailand}}.
+====Translations====
+{{trans-top|a province of Thailand}}
+* Thai: {{t+|th|ยโสธร}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|a city in Thailand}}
+* Thai: {{t+|th|ยโสธร}}
+{{trans-mid}}
+{{trans-bottom}}</text>
+<sha1>rmjs4zdosetpq3tyuhj7hl15stbs9rn</sha1>
+</revision>
+</page>

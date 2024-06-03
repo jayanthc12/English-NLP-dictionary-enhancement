@@ -1,0 +1,23 @@
+<page>
+<title>yhdentyi</title>
+<ns>0</ns>
+<id>861371</id>
+<revision>
+<id>32949554</id>
+<parentid>27645851</parentid>
+<timestamp>2015-06-09T20:46:12Z</timestamp>
+<contributor>
+<username>MewBot</username>
+<id>345682</id>
+</contributor>
+<minor />
+<comment>Removed unnecessary type= parameter</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="128" xml:space="preserve">==Finnish==
+===Verb===
+{{head|fi|verb form}}
+# {{fi-form of|pr=third-person|pl=singular|mood=indicative|tense=past|yhdentyä}}</text>
+<sha1>5ku2ndja2cpjm9g8fowpfd4lwa9coaf</sha1>
+</revision>
+</page>

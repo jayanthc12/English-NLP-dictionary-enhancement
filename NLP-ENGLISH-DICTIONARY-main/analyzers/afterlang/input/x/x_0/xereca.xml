@@ -1,0 +1,44 @@
+<page>
+<title>xereca</title>
+<ns>0</ns>
+<id>6823671</id>
+<revision>
+<id>69476494</id>
+<parentid>67170555</parentid>
+<timestamp>2022-10-09T19:18:26Z</timestamp>
+<contributor>
+<username>Dan Polansky</username>
+<id>27270</id>
+</contributor>
+<comment>/* Portuguese */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="547" xml:space="preserve">==Catalan==
+===Etymology===
+From {{bor|ca|ary|شَرِيحَة||dried fig}}.
+===Pronunciation===
+* {{ca-IPA|è}}
+===Noun===
+{{ca-noun|f}}
+# dried [[fig]]
+====Derived terms====
+* {{l|ca|xerec}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{feminine singular of|ca|xerec}}
+===Further reading===
+* {{R:IEC2}}
+* {{R:DCVB}}
+{{C|ca|Fruits}}
+----
+==Portuguese==
+===Pronunciation===
+{{pt-IPA|br=xeréca}}
+* {{hyphenation|pt|xe|re|ca}}
+===Noun===
+{{pt-noun|f}}
+# {{lb|pt|Brazil|slang}} the [[vulva]]
+#: {{syn|pt|Thesaurus:vagina#Portuguese}}</text>
+<sha1>rng4ed3lbks86trzjiu57ucbzou4wzs</sha1>
+</revision>
+</page>

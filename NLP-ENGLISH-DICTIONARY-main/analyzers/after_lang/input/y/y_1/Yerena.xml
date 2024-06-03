@@ -1,0 +1,27 @@
+<page>
+<title>Yerena</title>
+<ns>0</ns>
+<id>6281043</id>
+<revision>
+<id>67785811</id>
+<parentid>67676864</parentid>
+<timestamp>2022-07-09T19:00:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove nodot= from {{surname}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yerenas}}
+# {{surname|en}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yerena'' is the 26772&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 909 individuals. ''Yerena'' is most common among Hispanic/Latino (96.59%) individuals.
+===Anagrams===
+* {{anagrams|en|a=aeenry|Eyrean|yearne}}</text>
+<sha1>4cnnfw45jxed39cmttmu5py4mtj74t9</sha1>
+</revision>
+</page>

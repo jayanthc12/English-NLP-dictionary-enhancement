@@ -1,0 +1,43 @@
+###############################################
+# FILE: XMLOutput
+# SUBJ: comment
+# AUTH: Adarsh
+# CREATED: 2023-9-1 21:26:26
+# MODIFIED:
+###############################################
+
+@CODE
+DisplayKB(G("words"),2);
+G("out") = cbuf();
+# G("out") = "words.xml";
+L("word") = down(G("words"));
+while (L("word")) {
+    L("wordid")++;
+    G("out") << "<word>\n";
+    G("out") << "\t<wordid>" << L("wordid") << "</wordid>\n";
+    G("out") << "\t<word>" << conceptname(L("word")) << "</word>\n";
+    G("out") << "</word>\n";
+
+    
+    L("child") = down(L("word"));
+    while (L("child")) {
+        L("name") = conceptname(L("child"));
+
+
+        if (strstartswith(L("name"),"pos")) {
+            L("posid")++;
+            L("pos") = strval(L("child"),"pos");
+            
+            G("out") << "<pos>\n";
+            G("out") << "\t<wordid>" << L("wordid") << "</wordid>\n";
+            G("out") << "\t<posid>" << L("posid") << "</posid>\n";
+            G("out") << "\t<pos>" << L("pos") << "</pos>\n";
+            G("out") << "</pos>\n";
+
+            }
+        L("child") = next(L("child"));
+    }
+    L("word") = next(L("word"));
+}
+
+@@CODE

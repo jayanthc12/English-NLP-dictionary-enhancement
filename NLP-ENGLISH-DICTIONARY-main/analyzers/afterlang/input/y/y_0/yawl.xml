@@ -1,0 +1,85 @@
+<page>
+<title>yawl</title>
+<ns>0</ns>
+<id>61122</id>
+<revision>
+<id>64484572</id>
+<parentid>64460334</parentid>
+<timestamp>2021-10-29T03:36:12Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>French: Added &quot;Further reading&quot; section with TLFi link (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2592" xml:space="preserve">{{also|y'awl}}
+==English==
+===Pronunciation===
+* {{IPA|en|/jɔːl/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yawl.wav|Audio (Southern England)}}
+* {{homophones|en|y'all}}
+* {{rhymes|en|ɔːl|s=1}}
+===Etymology 1===
+Apparently from {{der|en|nds|-}} and {{der|en|gml|jolle}}, or {{der|en|nl|jol}}, possibly ultimately from a {{der|en|gem-pro|-}} derivative of {{der|en|ine-pro|*h₂ewlos||tube}}, see also {{cog|lt|aulas}}, {{cog|no|aul}}, {{cog|hit|||tube-shaped organ in the neck|tr=auli-}}, {{cog|sq|hollë}}, {{cog|la|alvus}}.&lt;ref&gt;{{R:ine:IEW|205}}&lt;/ref&gt;
+====Noun====
+{{en-noun}}
+# A small ship's boat, usually rowed by four or six oars.
+# A [[fore-and-aft]] [[rig|rigged]] [[sailing vessel]] with two masts, main and [[mizzen]], the mizzen [[stepped]] [[abaft]] the [[rudder]] post.
+#* {{quote-journal|1=en|year=1899|month=Feb|author=Joseph Conrad|authorlink=Joseph Conrad|title=The Heart of Darkness|journal=Blackwood's Edinburgh Magazine|page=193|passage=
+The &amp;ldquo;Nellie,&amp;rdquo; a cruising '''yawl''', swung to her anchor without a flutter of the sails, and was at rest.}}
+=====Translations=====
+{{trans-top|sailing vessel}}
+* Bulgarian: {{t+|bg|шлю́пка|f|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|划子|tr=huázi|sc=Hani}}, {{t+|cmn|舢板|tr=shānbǎn|sc=Hani}}
+* Finnish: {{t+|fi|jooli}}
+* French: {{t+|fr|yole|m}}
+* Georgian: {{t|ka|კარჭაპი}}, {{t|ka|ორჩხომელი}}
+* German: {{t+|de|Jolle|f}}, {{t+|de|Beiboot|n}}
+* Irish: {{t|ga|geolta|m}}
+* Italian: {{t|it|iolla|f}}
+* Japanese: {{t|ja|ヨール|tr=yōru|sc=Jpan}}
+{{trans-mid}}
+* Macedonian: {{t|mk|јо́ла|f}}, {{t|mk|едри́лица|f}}
+* Manx: {{t|gv|yawl|m}}
+* Plautdietsch: {{t+|pdt|Boot|n}}
+* Portuguese: {{t|pt|iole|f}}
+* Russian: {{t+|ru|ял|m}}, {{t+|ru|йол|m}}, {{t+|ru|шлю́пка|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|шојка|f}}, {{t|sh|шљупка|f}}
+*: Roman: {{t+|sh|šojka|f}}, {{t+|sh|šljupka|f}}
+* Spanish: {{t+|es|yola|f}}
+{{trans-bottom}}
+===Etymology 2===
+{{onomatopoeic|en|title=Imitative}}.
+====Verb====
+{{en-verb}}
+# To cry out; to howl.
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=alwy|waly|wyla}}
+[[Category:en:Watercraft]]
+----
+==French==
+===Pronunciation===
+* {{fr-IPA|yôl}}
+* {{audio|fr|LL-Q150 (fra)-DSwissK-yawl.wav|Audio (Switzerland)}}
+===Noun===
+{{fr-noun|m}}
+# [[yawl#English|yawl]] {{gloss|type of boat}}
+===Further reading===
+* {{R:TLFi}}
+----
+==Manx==
+===Etymology===
+Borrowed from {{bor|gv|en|yawl}}.
+===Noun===
+{{gv-noun|m|yawlyn|yawl}}
+# [[#English|yawl]]
+[[Category:gv:Watercraft]]</text>
+<sha1>ttrdw9i43584k6a1xa8jhp6jzdyprxf</sha1>
+</revision>
+</page>

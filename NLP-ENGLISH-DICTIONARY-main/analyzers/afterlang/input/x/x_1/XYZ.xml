@@ -1,0 +1,38 @@
+<page>
+<title>XYZ</title>
+<ns>0</ns>
+<id>527683</id>
+<revision>
+<id>68546037</id>
+<parentid>68545974</parentid>
+<timestamp>2022-08-06T04:21:38Z</timestamp>
+<contributor>
+<username>Fish bowl</username>
+<id>522410</id>
+</contributor>
+<comment>Æ /* Noun */ link</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1040" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun}}
+# The [[color space]] of the [[tristimulus]] [[value]]s [[X]], [[Y]], and [[Z]].
+# A [[generic]] [[placeholder]] representing a [[specific]] [[name]] or [[thing]].
+# {{lb|en|web design|cartography}} {{n-g|Describing an URL scheme for providing map [[tile]]s, where X and Y refer to coordinates, while Z refers to zoom level.}}
+====See also====
+* {{l|en|for XYZ reasons}}
+===Phrase===
+{{head|en|phrase}}
+# {{initialism of|en|[[examine]] your [[zipper]]|nodot=1}}: a discreet warning that one’s [[trouser]] [[fly]] is undone.
+#: {{synonyms|en|star in the east}}
+===Anagrams===
+* {{anagrams|en|a=xyz|Zyx}}
+----
+==German==
+===Proper noun===
+{{head|de|proper noun}}
+# {{n-g|used to replace a random personal name when describing a possible situation or when having forgotten the name in question}}
+#: {{ux|de|Wenn jemand kommt und sagt: 'Hallo, ich bin Herr XYZ', dann schreibst Du sofort den Namen auf.|If somebody comes and says: 'Hello, I'm Mr. XYZ', then you write down the name at once.}}</text>
+<sha1>gro87n4m78yf63xbf1dt9pg1muek5ni</sha1>
+</revision>
+</page>

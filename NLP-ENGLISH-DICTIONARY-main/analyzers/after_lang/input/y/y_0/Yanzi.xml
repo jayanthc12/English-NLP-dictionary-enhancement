@@ -1,0 +1,45 @@
+<page>
+<title>Yanzi</title>
+<ns>0</ns>
+<id>4219921</id>
+<revision>
+<id>67888660</id>
+<parentid>67605554</parentid>
+<timestamp>2022-07-12T01:33:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{Wikipedia}} to {{wikipedia}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="892" xml:space="preserve">{{also|yànzi}}
+==English==
+{{wikipedia|Yanzi River}}
+===Etymology 1===
+The [[atonal]] {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation of {{bor|en|zh|燕子|tr=Yànzǐ}}, meaning &quot;[[swallow]]&quot; (the bird).
+====Pronunciation====
+{{rfp|en}}
+====Proper noun====
+{{en-proper noun}}
+# A [[river]] or [[creek]] of [[Gansu]], [[part]] of the [[Yangtze]] [[watershed]].
+# {{place|en|town|county/Hefeng|autonomous prefecture/Enshi|p/Hubei|c/China|formerly a township}}.
+=====Alternative forms=====
+* {{l|en|Yen-tzu}}, {{l|en|Yen-tse}}, {{l|en|Yen-tze}}
+=====Translations=====
+{{trans-top|town in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|燕子|tr=Yànzi|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}
+===Etymology 2===
+====Proper noun====
+{{en-proper noun}}
+# {{misspelling of|en|Yangzi}}
+===Anagrams===
+* {{anagrams|en|a=ainyz|zayin}}</text>
+<sha1>fs67nm7d6mikpvagm53z0kod7yu5hun</sha1>
+</revision>
+</page>

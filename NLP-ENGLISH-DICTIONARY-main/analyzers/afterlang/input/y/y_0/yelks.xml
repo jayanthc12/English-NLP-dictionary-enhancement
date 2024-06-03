@@ -1,0 +1,25 @@
+<page>
+<title>yelks</title>
+<ns>0</ns>
+<id>2149471</id>
+<revision>
+<id>55848733</id>
+<parentid>53092904</parentid>
+<timestamp>2019-10-16T06:02:33Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="136" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yelk}}
+===Anagrams===
+* {{anagrams|en|a=eklsy|Kyles|Lykes|kyles|lykes}}</text>
+<sha1>rbyvkqm79rfswjxymag4fet43gvh8hp</sha1>
+</revision>
+</page>

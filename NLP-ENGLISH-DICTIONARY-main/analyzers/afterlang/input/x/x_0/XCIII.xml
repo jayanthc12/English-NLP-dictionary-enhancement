@@ -1,0 +1,29 @@
+<page>
+<title>XCIII</title>
+<ns>0</ns>
+<id>5550350</id>
+<revision>
+<id>44465904</id>
+<parentid>41113884</parentid>
+<timestamp>2017-05-25T03:17:47Z</timestamp>
+<contributor>
+<username>TheDaveBot</username>
+<id>20393</id>
+</contributor>
+<minor />
+<comment>Removing interwiki links ([[Wiktionary:Grease_pit/2017/April#Getting_rid_of_interwikis|discussion]]).</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="307" xml:space="preserve">==Translingual==
+===Alternative forms===
+* {{sense|roman numeral}} {{l|mul|xciii}}
+===Number===
+{{mul-number}}
+# A Roman numeral representing [[ninety-three]] ([[93]]).
+====See also====
+* Previous: [[XCII]] ([[ninety-two]], [[92]])
+* Next: [[XCIV]] ([[ninety-four]], [[94]])
+[[Category:Roman numerals]]</text>
+<sha1>pbiu44g47xp3vb4d5tmppcpojfwawsk</sha1>
+</revision>
+</page>

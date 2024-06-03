@@ -1,0 +1,30 @@
+<page>
+<title>xylocarpous</title>
+<ns>0</ns>
+<id>293265</id>
+<revision>
+<id>55377698</id>
+<parentid>51975649</parentid>
+<timestamp>2019-10-14T13:06:15Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{audio}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xylo|carpous}}
+===Pronunciation===
+* zī-lō-kár-pus
+* {{audio|en|en-uk-xylocarpous.ogg|Audio (UK)}}
+===Adjective===
+{{en-adj|-}}
+# Bearing [[fruit]] that becomes [[hard]] or [[woody]].
+===References===
+* {{R:Webster 1913}}</text>
+<sha1>g6vxzxx31px8cxmz1cyxowhz1mztsdy</sha1>
+</revision>
+</page>

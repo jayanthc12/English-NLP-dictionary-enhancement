@@ -1,0 +1,27 @@
+<page>
+<title>ximelu</title>
+<ns>0</ns>
+<id>1728407</id>
+<revision>
+<id>49977898</id>
+<parentid>45181866</parentid>
+<timestamp>2018-07-19T20:17:59Z</timestamp>
+<contributor>
+<username>Word dewd544</username>
+<id>533603</id>
+</contributor>
+<minor />
+<comment>/* Asturian */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==Asturian==
+===Etymology===
+From {{der|ast|la|gemellus}}, from {{m|la|geminus}}. Cf. Spanish {{m|es|gemelo}}.
+===Noun===
+{{ast-noun|m|ximelos}}
+# [[twin]]
+====Related terms====
+* {{l|ast|ximielgu}} / {{l|ast|xemelgu}}</text>
+<sha1>nkonixcg87k919t77yaad1dmkri45pw</sha1>
+</revision>
+</page>

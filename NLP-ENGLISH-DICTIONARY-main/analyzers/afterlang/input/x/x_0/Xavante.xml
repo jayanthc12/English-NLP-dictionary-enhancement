@@ -1,0 +1,27 @@
+<page>
+<title>Xavante</title>
+<ns>0</ns>
+<id>1464489</id>
+<revision>
+<id>60449893</id>
+<parentid>55235054</parentid>
+<timestamp>2020-09-21T05:57:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="200" xml:space="preserve">{{also|xavante|Xavánte}}
+==English==
+===Noun===
+{{en-noun|Xavante|s}}
+# {{alternative spelling of|en|Xavánte}}
+===Proper noun===
+{{head|en|proper noun}}
+# {{alternative spelling of|en|Xavánte}}</text>
+<sha1>oin90z4uscli6u4esql0yemfjg5yomx</sha1>
+</revision>
+</page>

@@ -1,0 +1,24 @@
+<page>
+<title>Yemenites</title>
+<ns>0</ns>
+<id>985534</id>
+<revision>
+<id>55482084</id>
+<parentid>53093056</parentid>
+<timestamp>2019-10-15T03:07:40Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="107" xml:space="preserve">{{also|yéménites|Yéménites}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Yemenite}}</text>
+<sha1>fws2hq0xmdw4q6z79a70w4h1rwdcwx2</sha1>
+</revision>
+</page>

@@ -1,0 +1,52 @@
+<page>
+<title>yalan</title>
+<ns>0</ns>
+<id>1575513</id>
+<revision>
+<id>67245368</id>
+<parentid>67224504</parentid>
+<timestamp>2022-06-04T22:07:48Z</timestamp>
+<contributor>
+<username>Fenakhay</username>
+<id>3603023</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="941" xml:space="preserve">{{also|ýalan}}
+==Azerbaijani==
+===Etymology===
+Ultimately from {{inh|az|trk-pro|*jAla}}.
+===Pronunciation===
+* {{IPA|az|[jaˈɫan]}}
+===Noun===
+{{az-noun}}
+# [[lie]]
+#: {{uxi|az|yalan [[danışmaq]]|to lie}}
+#: {{uxi|az|Hamısı yalandır.|It's all a lie.}}
+====Declension====
+{{az-decl-noun|a|c}}
+====Derived terms====
+* {{l|az|yalançı||liar}}
+* {{l|az|yalandan||for show, for appearances}}
+----
+==Tatar==
+===Noun===
+{{head|tt|noun}}
+# [[field]], [[steppe]]
+----
+==Turkish==
+===Etymology===
+From {{inh|tr|ota|یالان|tr=yalan}}, from a derivation of {{der|tr|trk-pro|*jala||suspicion, lie}}.&lt;ref&gt;{{R:tut-pro:SDM|*jAla|url=https://starling.rinet.ru/cgi-bin/response.cgi?single=1&amp;basename=%2fdata%2falt%2fturcet&amp;text_number=+952&amp;root=config}}&lt;/ref&gt;
+===Pronunciation===
+* {{IPA|tr|[jaˈɫan]}}
+===Noun===
+{{tr-noun|ı|lar}}
+# [[lie]]
+====Declension====
+{{tr-infl-noun-c|a|poss=1|pred=1}}
+===References===
+&lt;references/&gt;</text>
+<sha1>56xyt3vifcfjxvc6mp947t93ny1cary</sha1>
+</revision>
+</page>

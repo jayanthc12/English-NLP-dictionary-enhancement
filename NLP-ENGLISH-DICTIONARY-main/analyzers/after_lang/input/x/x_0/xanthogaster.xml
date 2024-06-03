@@ -1,0 +1,33 @@
+<page>
+<title>xanthogaster</title>
+<ns>0</ns>
+<id>3370900</id>
+<revision>
+<id>53997519</id>
+<parentid>53730844</parentid>
+<timestamp>2019-08-26T04:25:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Manually fix up Latin specific-epithet adjectives</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="387" xml:space="preserve">==Latin==
+===Etymology===
+From {{der|la|grc|ξανθός|t=yellow}} + {{m|la|gaster|t=belly}}.
+===Pronunciation===
+* {{la-IPA|xanthogaster}}
+===Adjective===
+{{la-adj|xanthogaster/xanthogastr}}
+# {{lb|la|New Latin}} having a [[yellow]] [[belly]]
+====Usage notes====
+* {{la-epithet}}
+====Declension====
+{{la-adecl|xanthogaster/xanthogastr}}
+====Synonyms====
+* {{l|la|flāviventris}}</text>
+<sha1>mmf4jlyxg0if598jy40s5n9eaclxwhn</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xenofoba</title>
+<ns>0</ns>
+<id>1189078</id>
+<revision>
+<id>68562548</id>
+<parentid>67939996</parentid>
+<timestamp>2022-08-08T06:45:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>clean up broken Italian adjective form headwords (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="379" xml:space="preserve">{{also|xenófoba}}
+==Czech==
+===Pronunciation===
+* {{cs-IPA}}
+* {{rhymes|cs|oba|s=4}}
+* {{hyphenation|cs|xe|no|fo|ba}}
+===Noun===
+{{head|cs|noun form}}
+# {{inflection of|cs|xenofob||gen//acc|s}}
+----
+==Italian==
+===Adjective===
+{{head|it|adjective form|g=f-s}}
+# {{adj form of|it|xenofobo||f|s}}
+===Noun===
+{{it-noun|f|m=xenofobo}}
+# {{female equivalent of|it|xenofobo}}</text>
+<sha1>0st83avuquocucj10se8ehrrolvdk8j</sha1>
+</revision>
+</page>

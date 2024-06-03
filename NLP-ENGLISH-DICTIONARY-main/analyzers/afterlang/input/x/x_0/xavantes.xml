@@ -1,0 +1,26 @@
+<page>
+<title>xavantes</title>
+<ns>0</ns>
+<id>4583939</id>
+<revision>
+<id>60712482</id>
+<parentid>60670669</parentid>
+<timestamp>2020-10-01T06:09:20Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{pt-noun form of}} with {{plural of|pt}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="165" xml:space="preserve">==Portuguese==
+===Noun===
+{{head|pt|noun form|g=m|g2=f}}
+# {{plural of|pt|xavante}}
+===Adjective===
+{{head|pt|adjective form}}
+# {{adj form of|pt|xavante||mf|p}}</text>
+<sha1>4musx0mompxjubt9w1j5cjwr5cnuj6g</sha1>
+</revision>
+</page>

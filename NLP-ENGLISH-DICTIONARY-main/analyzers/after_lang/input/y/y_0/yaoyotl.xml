@@ -1,0 +1,45 @@
+<page>
+<title>yaoyotl</title>
+<ns>0</ns>
+<id>471766</id>
+<revision>
+<id>62970722</id>
+<parentid>55412694</parentid>
+<timestamp>2021-06-27T19:37:59Z</timestamp>
+<contributor>
+<ip>2806:105E:F:C455:B13C:DA34:5BAD:8C96</ip>
+</contributor>
+<comment>/* Classical Nahuatl */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1166" xml:space="preserve">==Central Nahuatl==
+===Noun===
+{{head|nhn|noun}}
+# [[war]]
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|yaoyutl}}
+===Etymology===
+From {{suffix|nci|yāōtl|t1=enemy|yōtl}}.
+===Pronunciation===
+* {{IPA|nci|/jaːoːjoːt͡ɬ/}}
+* {{IPA|nci|[jaː.ˈóː.joːt͡ɬ]}}
+===Noun===
+{{head|nci|noun|head=yāōyōtl}}
+# [[war|War]]; [[warfare]].
+#* '''1547:''' Andrés de Olmos, ''Arte para aprender la lengua mexicana'', ed. by Rémi Siméon (1875)
+#*: '''''Taoyutl''''' [sic], guerra.
+#* '''1555:''' [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Guerra. '''yaoyotl'''.necaliliztli.tlayecoliztli.&amp; per metapho.
+#*: mitl.chimalli.atl.tlachinolli.vel,teuatl,tlachinolli.
+====Synonyms====
+* {{l|nci|mitl chimalli}}
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'' University of Oklahoma Press, p. 266.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'' University of Texas Press, p. 335.
+* Lockhart, James. (2001) ''Nahuatl as Written'' Stanford University Press, p. 242.
+[[Category:nci:Military]]</text>
+<sha1>ejzv4yje3dlgfb74s9hpea1kbt60954</sha1>
+</revision>
+</page>

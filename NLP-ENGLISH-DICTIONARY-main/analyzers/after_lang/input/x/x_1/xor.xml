@@ -1,0 +1,79 @@
+<page>
+<title>xor</title>
+<ns>0</ns>
+<id>43427</id>
+<revision>
+<id>69565436</id>
+<parentid>69565434</parentid>
+<timestamp>2022-10-22T02:30:07Z</timestamp>
+<contributor>
+<username>Whoop whoop pull up</username>
+<id>493719</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1728" xml:space="preserve">{{also|хог|XOR|-xor}}
+==English==
+{{wikipedia}}
+===Pronunciation===
+* {{IPA|en|/ɛksˈo(ɹ)/|/ˈzo(ɹ)/|/ˈkso(ɹ)/|/ˈkszo(ɹ)/}}
+* {{rhymes|en|ɔː(ɹ)|s=1,2}}
+===Noun===
+{{en-noun}}
+# The logic function [[exclusive or|exclusive OR]] (as opposed to inclusive [[OR]]), whose output is true only when exactly one of its inputs is true.
+====Translations====
+{{trans-top|exclusive OR}}
+* Finnish: {{t|fi|ehdoton tai}}
+* French: {{t+|fr|ou exclusif}}
+* German: {{t|de|Exklusiv oder}}
+* Hungarian: {{t+|hu|kizáró vagy}}
+* Latin: {{t+|la|aut}}
+{{trans-mid}}
+* Polish: {{t+|pl|albo}}
+* Portuguese: {{t+|pt|xor|m}}, {{t|pt|ou exclusivo|m}}
+* Spanish: {{t|es|o exclusivo}}
+* Swedish: {{t|sv|exklusivt eller}}
+{{trans-bottom}}
+===Conjunction===
+{{en-con}}
+# {{lb|en|rare}} [[or|Or]] (but not both).
+#* '''2002''', &quot;Rob Janssen&quot;, ''The rock argument'' (on Internet newsgroup ''alt.atheism'')
+#*: The argument leads to the conclusion that an omnipotent being could rationally be able to do one '''xor''' the other and still be omnipotent.
+===Synonyms===
+* either ... or
+* {{l|en|eor}}
+===See also===
+* {{l|en|and}}
+* {{l|en|or}}
+* {{l|en|nand}}
+* {{l|en|nor}}
+* {{l|en|not}}
+* {{l|en|xnor}}
+===Anagrams===
+* {{anagrams|en|a=orx|rox}}
+----
+==Portuguese==
+===Alternative forms===
+* {{alt|pt|XOR}}
+===Noun===
+{{pt-noun|m|#s}}
+# {{lb|pt|logic}} {{l|en|xor}}; [[exclusive or]] {{gloss|logical operation that outputs true only when both inputs differ}}
+#: {{syn|pt|ou exclusivo}}
+----
+==Wolof==
+===Noun===
+{{wo-noun|wi}}
+# [[empty]] [[shell]]
+===References===
+{{cite-book
+|author=Omar Ka
+|chapter=
+|title=Nanu Dégg Wolof
+|publisher=National African Language Resource Center
+|year=2018
+|page=259
+|isbn=978-1-59703-017-5}}</text>
+<sha1>g54axaityv33ggcn1ji04vdi81e7z4z</sha1>
+</revision>
+</page>

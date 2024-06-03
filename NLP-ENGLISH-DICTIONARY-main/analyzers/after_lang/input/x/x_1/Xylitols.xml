@@ -1,0 +1,26 @@
+<page>
+<title>Xylitols</title>
+<ns>0</ns>
+<id>3810438</id>
+<revision>
+<id>59732732</id>
+<parentid>57382401</parentid>
+<timestamp>2020-07-12T08:28:29Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio De-Xylitols.ogg; added missing pron. section</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="159" xml:space="preserve">{{also|xylitols}}
+==German==
+===Pronunciation===
+* {{audio|de|De-Xylitols.ogg|Audio}}
+===Noun===
+{{head|de|noun form}}
+# {{inflection of|de|Xylitol||gen|s}}</text>
+<sha1>n6x3d4nd7am4r7r920a407t4wh1ct9k</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yhteismitallisuus</title>
+<ns>0</ns>
+<id>5170917</id>
+<revision>
+<id>69318456</id>
+<parentid>51963060</parentid>
+<timestamp>2022-09-18T17:19:09Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="350" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhteismitallinen|uus|t1=commensurable, commensurate|t2=-ness}}
+===Pronunciation===
+{{fi-p|yhteis-mitallisuus}}
+===Noun===
+{{fi-noun}}
+# [[commensurability]]
+# [[commensurateness]], [[proportionality]]
+====Declension====
+{{fi-decl-kalleus|yhteismitallisuu|a}}
+====Antonyms====
+* {{l|fi|yhteismitattomuus}}</text>
+<sha1>6s7w0i0w4n6cs6rofoggavco4k5ush2</sha1>
+</revision>
+</page>

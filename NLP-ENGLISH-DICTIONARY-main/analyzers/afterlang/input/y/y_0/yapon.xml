@@ -1,0 +1,42 @@
+<page>
+<title>yapon</title>
+<ns>0</ns>
+<id>1106690</id>
+<revision>
+<id>61149382</id>
+<parentid>60406799</parentid>
+<timestamp>2020-11-18T07:51:09Z</timestamp>
+<contributor>
+<username>Mar vin kaiser</username>
+<id>1141130</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="565" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|now|_|less common than &quot;yaupon&quot;}} {{alternative form of|en|yaupon}}
+----
+==Aukan==
+===Etymology===
+From {{der|djk|nl|japon}}.
+===Noun===
+{{head|djk|noun}}
+# [[robe]] {{gloss|clothing}}
+===References===
+* [//www-01.sil.org/americas/suriname/Aukan/English/AukanEngDictIndex.html Aukan-English Dictionary] (SIL)
+----
+==Sambali==
+===Adjective===
+{{head|xsb|adjective|head=yapón}}
+# [[first]]
+----
+==Sranan Tongo==
+===Etymology===
+Borrowed from {{bor|srn|nl|japon}}.
+===Noun===
+{{head|srn|noun}}
+# [[dress]]</text>
+<sha1>0lphynhayyg0ztwpwfeo6ynyhegythy</sha1>
+</revision>
+</page>

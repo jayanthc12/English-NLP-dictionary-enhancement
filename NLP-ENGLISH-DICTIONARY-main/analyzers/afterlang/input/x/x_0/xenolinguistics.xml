@@ -1,0 +1,27 @@
+<page>
+<title>xenolinguistics</title>
+<ns>0</ns>
+<id>1049696</id>
+<revision>
+<id>67633051</id>
+<parentid>67633010</parentid>
+<timestamp>2022-07-03T23:58:08Z</timestamp>
+<contributor>
+<username>Equinox</username>
+<id>84390</id>
+</contributor>
+<comment>see style guide</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+{{prefix|en|xeno|linguistics}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|linguistics}} Study of a [[language]] originating from [[alien]] species.
+====Synonyms====
+* {{l|en|astrolinguistics}}</text>
+<sha1>c16g45gez3723a6nbkwtkf5yd2vzw0a</sha1>
+</revision>
+</page>

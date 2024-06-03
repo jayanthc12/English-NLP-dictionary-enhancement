@@ -1,0 +1,28 @@
+<page>
+<title>xales</title>
+<ns>0</ns>
+<id>4020252</id>
+<revision>
+<id>62879782</id>
+<parentid>56257355</parentid>
+<timestamp>2021-06-17T11:18:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for Portuguese plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="177" xml:space="preserve">==Catalan==
+===Verb===
+{{head|ca|verb form}}
+# {{ca-verb form of|p=2|n=sg|m=ind|t=pres|xalar}}
+----
+==Portuguese==
+===Noun===
+{{head|pt|noun form}}
+# {{plural of|pt|xale}}</text>
+<sha1>9d0j89mh5eghqezbrdvrekeoii1f7fj</sha1>
+</revision>
+</page>

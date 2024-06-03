@@ -1,0 +1,78 @@
+<page>
+<title>xantar</title>
+<ns>0</ns>
+<id>4280836</id>
+<revision>
+<id>68864896</id>
+<parentid>68863941</parentid>
+<timestamp>2022-08-28T05:31:16Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DDLG}} to {{R:gl:DDLG}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2947" xml:space="preserve">==Asturian==
+===Verb===
+{{ast-verb-ar|xant}}
+# {{alternative form of|ast|xintar}}
+====Conjugation====
+{{ast-conj-ar|xant}}
+----
+==Galician==
+[[File:Silvio Fernández Rodríguez-Bastos, O xantar, 1890, Museo de Pontevedra.jpg|thumb|Silvio Fernandez's ''O Xantar'' (&quot;the lunch&quot;), 1890]]
+[[File:Letreiro e cableado. Santiago de Compostela.jpg |thumb|''Casa de Xantar'' (~ &quot;house of eating&quot; / &quot;restaurant&quot;)]]
+===Alternative forms===
+* {{alter|gl|jantar||Reintegrationist}}
+* {{alter|gl|xentar}}
+===Etymology===
+From Old Galician and {{inh|gl|roa-opt|jantar}}, from {{inh|gl|la|ientāre}}, present active infinitive of {{m|la|ientō}}. Cognate with {{cog|pt|jantar}}, {{cog|ast|xintar}} and {{cog|es|yantar}}.
+===Pronunciation===
+* {{IPA|gl|/ʃanˈtaɾ/}}
+===Noun===
+{{gl-noun|m|xantares}}
+# [[dinner]] {{gloss|midday main meal}}
+#: {{uxi|gl|q=proverb|O que ben almorza escusa o xantar|He who eats a good breakfast does not need dinner.}}
+# [[lunch]]
+#* '''1671''', Gabriel Feijoo, ''Contenda dos labradores de Caldelas'':
+#*: ''bou correndo pola posta, s'acho '''jantar''' que comer, qu'ainda a tarde ei de esparjer unha gran pilla de bosta''
+#*:: I'm running for the loaf, if I find '''lunch''' to eat, because yet this afternoon I ought to spread a large pile of dung
+# {{lb|gl|historical}} a food contribution or tax paid to a visiting lord or lord's representative
+#* '''1287''', E. Duro Peña (ed.), &quot;El monasterio de San Salvador de Sobrado de Trives&quot;, ''Archivos Leoneses'', 21, 49, page 72:
+#*: ''dardes cada ano abbadesa do sobredito moesteyro un '''jantar''' neste guisa sosu[dita dar]desnos dous carneyros boos e tres cabritos e V galinnas e pan de centeo que auonde a nosa conpana e V teegas de çeuada por teega [dereita e] se for en inuerno dardesnos para este '''''jantar''''' un porco boo que ualea un mr. de boa moeda e tres cabritos e V galinnas''
+#*:: you'll give this monastery's abbess a &quot;dinner&quot; each year in this way: two good rams and three kids and five hens and rye bread enough for our retinue and 5 bushels of barley, correctly measured; and if it happens to be winter you'll give us for this &quot;dinner&quot; a good pig, valued in three maravedis of good coinage, and three kids and five hens
+===Verb===
+{{gl-verb|xant|ar}}
+# to [[dinner]] {{gloss|afternoon main meal}}
+#* '''1842''', Juan Manuel Pintos, ''Meu querido pai'':
+#*: ''Polas tres da tarde''
+#*: '''''Xantei''' à desexo''
+#*: ''C’o à miña muller,''
+#*: ''Aurora, è a nena''
+#*: ''Que a tiña a nai''
+#*: ''Garimada ao peito''
+#*:: Around three in the afternoon
+#*:: I '''dinnered''' to my liking
+#*:: with my wife,
+#*:: Aurora, and the girl
+#*:: that the mother had
+#*:: close to her bosom
+# to [[lunch]]
+# to [[eat]]
+#: {{syn|gl|comer}}
+====Conjugation====
+{{gl-conj-ar|xant}}
+====Derived terms====
+* {{l|gl|casa de xantar}}
+===References===
+* {{R:gl:DDGM|jantar}}
+* {{R:gl:CX|jantar}}
+* {{R:gl:DDLG}}
+* {{R:gl:TILG}}
+* {{R:TLPGP}}
+{{c|gl|Meals}}</text>
+<sha1>hi8vryk4y4l3g435y7sorkmtjl3bqrk</sha1>
+</revision>
+</page>

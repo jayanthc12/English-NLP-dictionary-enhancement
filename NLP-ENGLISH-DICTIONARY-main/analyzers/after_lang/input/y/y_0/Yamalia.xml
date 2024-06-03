@@ -1,0 +1,37 @@
+<page>
+<title>Yamalia</title>
+<ns>0</ns>
+<id>1537252</id>
+<revision>
+<id>58413406</id>
+<parentid>58360132</parentid>
+<timestamp>2020-01-14T16:18:10Z</timestamp>
+<contributor>
+<username>Benwing2</username>
+<id>2754475</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="495" xml:space="preserve">==English==
+{{wikipedia}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|autonomous okrug|c/Russia}}, located in [[Tyumen]] [[oblast]], with capital [[Salekhard]].
+====Synonyms====
+* {{l|en|Yugra}}
+* Yamalo-Nenets Autonomous Okrug
+====Related terms====
+* {{l|en|Yamal}} (peninsula)
+* {{l|en|Nenets}}
+====Translations====
+{{trans-top|a federal subject of Russia}}
+* Russian: {{t|ru|Яма́лия|f}}
+{{trans-mid}}
+{{trans-bottom}}
+====See also====
+* {{l|en|Salekhard}}
+* {{l|en|Tyumen}}</text>
+<sha1>g1onzdacmz4hucnhd3ymo73zdd78kzt</sha1>
+</revision>
+</page>

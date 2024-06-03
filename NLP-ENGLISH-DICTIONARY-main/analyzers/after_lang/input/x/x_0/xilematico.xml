@@ -1,0 +1,26 @@
+<page>
+<title>xilematico</title>
+<ns>0</ns>
+<id>1625387</id>
+<revision>
+<id>62769351</id>
+<parentid>62743248</parentid>
+<timestamp>2021-06-16T09:37:24Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="150" xml:space="preserve">{{also|xilemático}}
+==Italian==
+===Adjective===
+{{it-adj}}
+# {{lb|it|relational}} [[xylem]]; [[xylematic]]
+====Related terms====
+* {{l|it|xilema}}</text>
+<sha1>ly6mmeuixnalgrb00boqvyemi4iw0xj</sha1>
+</revision>
+</page>

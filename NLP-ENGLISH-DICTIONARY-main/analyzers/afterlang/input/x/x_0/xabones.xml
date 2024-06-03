@@ -1,0 +1,28 @@
+<page>
+<title>xabones</title>
+<ns>0</ns>
+<id>2455942</id>
+<revision>
+<id>64470018</id>
+<parentid>62895897</parentid>
+<timestamp>2021-10-28T23:04:42Z</timestamp>
+<contributor>
+<username>AutoDooz</username>
+<id>3732454</id>
+</contributor>
+<minor />
+<comment>Spanish: Added forms (bot edit)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="166" xml:space="preserve">==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xabón}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{noun form of|es|xabon||p}}</text>
+<sha1>njaek4ux8u0m0wmln4rn88llhokwdup</sha1>
+</revision>
+</page>

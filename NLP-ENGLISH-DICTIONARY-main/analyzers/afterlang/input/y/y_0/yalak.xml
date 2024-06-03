@@ -1,0 +1,28 @@
+<page>
+<title>yalak</title>
+<ns>0</ns>
+<id>1707064</id>
+<revision>
+<id>68794733</id>
+<parentid>66570809</parentid>
+<timestamp>2022-08-27T14:41:02Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="214" xml:space="preserve">==Turkish==
+===Etymology===
+From {{inh|tr|trk-pro|}}.
+===Noun===
+{{tr-noun|yalağı|lar}}
+# [[trough]] (a long, narrow, open container for feeding animals)
+===Further reading===
+* {{R:TDK}}
+{{c|tr|Containers}}</text>
+<sha1>by7cp340u3w9c47d3c6bi47c3b565rd</sha1>
+</revision>
+</page>

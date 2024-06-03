@@ -1,0 +1,46 @@
+<page>
+<title>yedi</title>
+<ns>0</ns>
+<id>190179</id>
+<revision>
+<id>67660327</id>
+<parentid>67659124</parentid>
+<timestamp>2022-07-06T17:15:23Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>/* Verb */Turkish: convert past forms to [[Template:tr-verb form of]] using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="857" xml:space="preserve">{{also|yeᶁi|ýedi}}
+==Crimean Tatar==
+{{cardinalbox|crh|6|7|8}}
+===Etymology===
+From {{inh|crh|trk-pro|*yẹt(t)i|t=seven}}.
+===Numeral===
+{{head|crh|numeral}}
+# {{cln|crh|cardinal numbers}} [[seven]]
+[[Category:Crimean Tatar cardinal numbers|7]]
+[[Category:Crimean Tatar nouns]]
+----
+==Turkish==
+===Pronunciation===
+* {{IPA|tr|/je.di/}}
+* {{audio|tr|LL-Q256 (tur)-ToprakM-yedi.wav|Audio}}
+===Etymology 1===
+{{cardinalbox|tr|6|7|8|altı|sekiz|ord=yedinci|dis=yedişer|wplink=7 (sayı)}}
+From {{inh|tr|ota|یدی|tr=yedi}}, {{inh|tr|trk-pro|*yẹt(t)i||seven}}. Cognate with {{cog|otk|𐰘𐰃𐱅𐰃|tr=yeti|t=seven}}&lt;ref&gt;{{R:otk:Bitig|jiti|110}}&lt;/ref&gt;.
+====Numeral====
+{{head|tr|numeral}}
+# {{cln|tr|cardinal numbers}} [[seven]]
+===Etymology 2===
+====Verb====
+{{head|tr|verb form}}
+# {{tr-verb form of|yemek}}
+===References===
+&lt;references/&gt;</text>
+<sha1>4ypt0gymoi4g2j3o05bmdnpkp55kmau</sha1>
+</revision>
+</page>

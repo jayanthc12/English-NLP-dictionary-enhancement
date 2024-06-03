@@ -1,0 +1,25 @@
+<page>
+<title>yakusas</title>
+<ns>0</ns>
+<id>1833467</id>
+<revision>
+<id>62863369</id>
+<parentid>55767011</parentid>
+<timestamp>2021-06-17T07:24:18Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>noun plural form -&gt; noun form for French plurals</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="116" xml:space="preserve">==French==
+===Pronunciation===
+* {{fr-IPA|yakusa}}
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|yakusa}}</text>
+<sha1>24bd2oyc0h4n3me9slpoveoono53a28</sha1>
+</revision>
+</page>

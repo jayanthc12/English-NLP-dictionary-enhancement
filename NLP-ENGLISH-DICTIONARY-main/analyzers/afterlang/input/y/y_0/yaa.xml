@@ -1,0 +1,92 @@
+<page>
+<title>yaa</title>
+<ns>0</ns>
+<id>3231068</id>
+<revision>
+<id>65553627</id>
+<parentid>65553611</parentid>
+<timestamp>2022-01-28T23:50:59Z</timestamp>
+<contributor>
+<username>Hergilei</username>
+<id>602440</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1859" xml:space="preserve">{{also|yaaʼ|yaá|yáá|yâá|yāā|-yaa|-YAA|-yą́ą́ʼ|-YĄ́Ą́ʼ}}
+==English==
+===Noun===
+{{en-noun}}
+# The letter {{l|ar|ي}} in the [[Arabic script]].
+====Translations====
+{{trans-top|Arabic letter}}
+* Arabic: {{t|ar|يَاء|m}}, {{t+|ar|ي}} {{qualifier|letter}}
+{{trans-mid}}
+* Russian: {{t+|ru|йа|n}}
+{{trans-bottom}}
+====Usage notes====
+* Some Arabic-based languages use variations of the letter, e.g. Persian uses {{l|fa|ی}} (ye).
+===Anagrams===
+* {{anagrams|en|a=aay|AYA|Aya|aya}}
+[[Category:en:Arabic letter names]]
+----
+==Afar==
+===Pronunciation===
+* {{aa-IPA|yáa}}
+===Noun===
+{{aa-noun|yáa|g=f}}
+# {{apocopic form of|aa|yayya}}
+====References====
+* {{R:aa:Hassan Kamil:2015|page=143}}
+----
+==Chichicapan Zapotec==
+===Noun===
+{{head|zpv|noun}}
+# [[temazcal]], a type of [[sweat lodge]], usually built with [[adobe]] bricks
+----
+==Navajo==
+===Postposition===
+{{head|nv|postposition}}
+# [[to]] [[him]]/[[her]]/[[it]]
+# [[about]] [[him]]/[[her]]/[[it]]
+====Inflection====
+{{nv-postpositions|aa}}
+===Adverb===
+{{head|nv|adverb}}
+# [[down]], [[downward]]
+----
+==Tataltepec Chatino==
+===Noun===
+{{head|cta|noun}}
+# [[nopal]]
+----
+==Tlingit==
+===Noun===
+{{head|tli|noun}}
+#[[sea trout]]
+{{topic|tli|Animals}}
+{{topic|tli|Fish}}
+----
+==Yosondúa Mixtec==
+===Etymology 1===
+Cognate with {{cog|xta|yâá}}, {{cog|mih|yaa}}, {{cog|mjc|yaa}}, {{cog|mig|yáa}}.
+====Noun====
+{{head|mpm|noun}}
+# {{l|en|tongue}}
+# {{l|en|flame}}
+===Etymology 2===
+Cognate with {{cog|xta|yaa}}, {{cog|mih|yaa}}, {{cog|mjc|yaa|yáa}}, {{cog|mig|yaā}}.
+====Noun====
+{{head|mpm|noun}}
+# {{l|en|song}}
+# {{l|en|music}}
+===Etymology 3===
+Cognate with {{cog|mih|ñiyaa}}, {{cog|mjc|nyaa|nyaà}}, {{cog|mig|yaā}}.
+====Noun====
+{{head|mpm|noun}}
+# {{l|en|ash}}
+# {{l|en|hominy}}
+===References===
+* {{R:Farris et al. 2012|page=89}}</text>
+<sha1>ggukl56exqh52kw28j8if7gyyrb789i</sha1>
+</revision>
+</page>

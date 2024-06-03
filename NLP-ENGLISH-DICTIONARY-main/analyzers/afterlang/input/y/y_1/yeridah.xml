@@ -1,0 +1,25 @@
+<page>
+<title>yeridah</title>
+<ns>0</ns>
+<id>5016000</id>
+<revision>
+<id>60458476</id>
+<parentid>55277148</parentid>
+<timestamp>2020-09-21T08:31:50Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{en-noun}} to new form with smarter default plural algorithm</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="154" xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{alternative spelling of|en|yerida}}
+===Anagrams===
+* {{anagrams|en|a=adehiry|hair dye|hay ride|hayride|hydriae}}</text>
+<sha1>31cqjezufka8tdiya8n74cntiv1bprn</sha1>
+</revision>
+</page>

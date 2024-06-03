@@ -1,0 +1,39 @@
+<page>
+<title>xerocopiare</title>
+<ns>0</ns>
+<id>453764</id>
+<revision>
+<id>68031354</id>
+<parentid>67371436</parentid>
+<timestamp>2022-07-18T01:41:26Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replace {{es-verb form of}} conjugation(s) for infinitive [[xerocopiar]] with 'xerocopiar'</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="464" xml:space="preserve">{{also|xerocopiaré}}
+==Italian==
+===Etymology===
+{{prefix|it|xero|copiare}}
+===Pronunciation===
+{{it-pr|xerocopiàre,xèrocopiàre&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}}
+===Verb===
+{{it-verb|a/ò}}
+# {{lb|it|transitive}} to [[photocopy]], [[xerox]]
+====Conjugation====
+{{it-conj|a/ò}}
+===References===
+&lt;references /&gt;
+===Anagrams===
+* {{anagrams|it|a=aceeiooprrx|xerocopierà}}
+----
+==Spanish==
+===Verb===
+{{head|es|verb form}}
+# {{es-verb form of|xerocopiar}}</text>
+<sha1>mwtv577zg2y5g3jf6uutcdtjumzf433</sha1>
+</revision>
+</page>

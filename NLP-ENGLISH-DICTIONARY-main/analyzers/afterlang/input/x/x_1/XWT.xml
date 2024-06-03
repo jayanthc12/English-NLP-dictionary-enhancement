@@ -1,0 +1,26 @@
+<page>
+<title>XWT</title>
+<ns>0</ns>
+<id>3776328</id>
+<revision>
+<id>54613190</id>
+<parentid>50988286</parentid>
+<timestamp>2019-10-03T07:40:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{initialism of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="251" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun}}
+# {{lb|en|software|object-oriented}} {{initialism of|en|w:XML Windowing Toolkit|XML Windowing Toolkit}} {{gloss|old name for the [[w:Vexi|Vexi]] project}}
+===See also===
+* {{l|en|GWT}}
+* {{l|en|SWT}}</text>
+<sha1>ttpu8kmatyh3qgluaxs14ffrmhtm2vw</sha1>
+</revision>
+</page>

@@ -1,0 +1,28 @@
+<page>
+<title>yhdensuuntaistus</title>
+<ns>0</ns>
+<id>3630070</id>
+<revision>
+<id>69318363</id>
+<parentid>60306137</parentid>
+<timestamp>2022-09-18T17:14:23Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="235" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhdensuuntaistaa|us|id2=action or event}}
+===Pronunciation===
+{{fi-p|yhden-suuntaistus}}
+===Noun===
+{{fi-noun}}
+# [[parallelization]]
+====Declension====
+{{fi-decl-vastaus|yhdensuuntaistu|a}}</text>
+<sha1>npnpa3uq351nobajv5zijov1bzxdn4w</sha1>
+</revision>
+</page>

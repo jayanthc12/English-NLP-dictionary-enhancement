@@ -1,0 +1,39 @@
+<page>
+<title>xopar</title>
+<ns>0</ns>
+<id>3655400</id>
+<revision>
+<id>69184943</id>
+<parentid>65017920</parentid>
+<timestamp>2022-09-09T02:19:18Z</timestamp>
+<contributor>
+<username>Ultimateria</username>
+<id>123938</id>
+</contributor>
+<comment>/* Catalan */ date</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="573" xml:space="preserve">==Catalan==
+===Etymology===
+Probably from a {{inh|ca|VL.||*exsuppāre}}, from {{inh|ca|LL.|suppa}}, of {{der|ca|gem}} origin. {{etydate|1617}}&lt;ref&gt;{{R:GDLC}}&lt;/ref&gt;
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=2}}
+===Verb===
+{{ca-verb}}
+# {{lb|ca|transitive}} to [[soak]], [[drench]]
+#: {{syn|ca|mullar}}
+# {{lb|ca|transitive}} to [[wet]], [[moisten]]
+====Conjugation====
+{{ca-conj-ar|xop}}
+====Derived terms====
+{{der3|ca|xapotejar|xop|xopada|xopet|xopina|xopoll}}
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}</text>
+<sha1>tg9p8uzv5j4scn26v8sa9v8ra5f280p</sha1>
+</revision>
+</page>

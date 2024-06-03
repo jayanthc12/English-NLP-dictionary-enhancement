@@ -1,0 +1,58 @@
+<page>
+<title>xicohtli</title>
+<ns>0</ns>
+<id>477433</id>
+<revision>
+<id>63845448</id>
+<parentid>63345523</parentid>
+<timestamp>2021-09-05T00:40:13Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>Lang section formatting (wrong order, missing dividers, category placement)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1331" xml:space="preserve">==Central Nahuatl==
+===Pronunciation===
+* {{IPA|nhn|/ʃiːkoʔtɬi/}}
+===Noun===
+{{head|nhn|noun}}
+# [[bumblebee]]
+====Derived terms====
+* {{l|nhn|xicohcuitlatl}}
+[[Category:Amecameca Central Nahuatl]]
+[[Category:nhn:Insects]]
+----
+==Classical Nahuatl==
+===Alternative forms===
+* {{l|nci|xicotli}}, {{l|nci|xīcohtli}} {{qualifier|obsolete spelling}}
+===Pronunciation===
+* {{IPA|nci|/ʃiːkoʔt͡ɬi/}}
+===Noun===
+{{head|nci|noun|head=xicohtli}}
+# a kind of large [[bee]]
+#* '''1555''', [[w:Alonso de Molina|Alonso de Molina]], ''Aqui comienca vn vocabulario en la lengua Castellana y Mexicana''
+#*: Abeja grande de miel que horada los arboles. '''xicotli'''.
+====Derived terms====
+* {{l|nci|xicohcuitlatl}}
+====Descendants====
+* {{desc|pt|chicote}} {{qualifier|possibly}}
+* {{desc|es|jicote}}
+===References===
+* Andrews, J. Richard. (2003) ''Workbook for Introduction to Classical Nahuatl, Revised Edition'', University of Oklahoma Press, p. 264.
+* Karttunen, Frances. (1983) ''An Analytical Dictionary of Nahuatl'', University of Texas Press, p. 324.
+* Lockhart, James. (2001) ''Nahuatl as Written'', Stanford University Press, p. 241.
+[[Category:nci:Insects]]
+----
+==Orizaba Nahuatl==
+===Pronunciation===
+* {{IPA|nlv|/ʃiːkoʔt͡ɬi/}}
+===Noun===
+{{head|nlv|noun}}
+# [[bumblebee]]
+[[Category:nlv:Insects]]</text>
+<sha1>hmcq1h3v5xf6qrmicqvqvj7fr2es2vp</sha1>
+</revision>
+</page>

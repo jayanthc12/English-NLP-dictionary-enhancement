@@ -1,0 +1,23 @@
+<page>
+<title>xampinyons</title>
+<ns>0</ns>
+<id>4237146</id>
+<revision>
+<id>56319258</id>
+<parentid>25182566</parentid>
+<timestamp>2019-10-17T12:52:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Catalan==
+===Noun===
+{{head|ca|noun form}}
+# {{plural of|ca|xampinyó}}</text>
+<sha1>9d5fjaakprgg00bsz15bthuup7yfx03</sha1>
+</revision>
+</page>

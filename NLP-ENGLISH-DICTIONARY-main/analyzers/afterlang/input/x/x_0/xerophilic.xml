@@ -1,0 +1,27 @@
+<page>
+<title>xerophilic</title>
+<ns>0</ns>
+<id>2151502</id>
+<revision>
+<id>51981147</id>
+<parentid>38411403</parentid>
+<timestamp>2019-03-18T00:20:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{confix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="238" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xero|philic}}
+===Adjective===
+{{en-adj}}
+# Capable of [[grow]]ing and [[reproduce|reproducing]] in conditions with a low [[availability]] of [[water]].
+====Related terms====
+* {{l|en|xerophile}}</text>
+<sha1>lrcuajlhov20c09sqrukex7uxxop2az</sha1>
+</revision>
+</page>

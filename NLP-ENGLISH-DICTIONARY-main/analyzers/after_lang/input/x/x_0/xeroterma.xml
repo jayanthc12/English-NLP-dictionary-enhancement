@@ -1,0 +1,25 @@
+<page>
+<title>xeroterma</title>
+<ns>0</ns>
+<id>1625375</id>
+<revision>
+<id>63106272</id>
+<parentid>39339375</parentid>
+<timestamp>2021-07-07T11:26:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add pronuns, uncapitalize defns (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="131" xml:space="preserve">==Italian==
+===Noun===
+{{it-noun|f}}
+# {{lb|it|botany}} any [[xerothermic]] [[plant]]
+====Related terms====
+* {{l|it|xerotermo}}</text>
+<sha1>7ispjg41ky9ncx6icad89wc37zgp9yq</sha1>
+</revision>
+</page>

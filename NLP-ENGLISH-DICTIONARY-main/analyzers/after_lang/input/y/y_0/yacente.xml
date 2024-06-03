@@ -1,0 +1,35 @@
+<page>
+<title>yacente</title>
+<ns>0</ns>
+<id>5595215</id>
+<revision>
+<id>68963848</id>
+<parentid>64220544</parentid>
+<timestamp>2022-08-29T00:08:01Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="602" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Adjective===
+{{es-adj}}
+# [[lying]], [[recumbent]]
+#* {{quote-journal|es|year=2016|month=March|author=|title=Agricultura de autoconsumo|work=Prensa Libre|url=http://www.prensalibre.com/economia/agricultura-de-autoconsumo
+|passage=Niños están listos para llevar en hombros procesión infantil de Cristo '''yacente''' del Calvario Dos textos clásicos de Moneda y Banca de Guatemala, y otro sobre café, se incluyeron en el libro Economía de.}}
+====Related terms====
+{{rel3
+|es|subyacente
+|suprayacente
+|yacer
+}}
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>f8rxupv6thn1nbv389zesiosnf15yt3</sha1>
+</revision>
+</page>

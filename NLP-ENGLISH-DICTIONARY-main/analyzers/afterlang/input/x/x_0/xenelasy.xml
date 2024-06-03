@@ -1,0 +1,44 @@
+<page>
+<title>xenelasy</title>
+<ns>0</ns>
+<id>1242484</id>
+<revision>
+<id>64061774</id>
+<parentid>64047961</parentid>
+<timestamp>2021-09-29T10:22:05Z</timestamp>
+<contributor>
+<username>CrowleyBot</username>
+<id>3811957</id>
+</contributor>
+<minor />
+<comment>fix L4 after L2: Alternative forms</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="991" xml:space="preserve">==English==
+{{wikipedia|xenelasia}}
+===Alternative forms===
+* {{alter|en|xenelasia}}
+===Etymology===
+{{lbor|en|grc|ξενηλασία||expulsion of [[barbarian]]s}}.
+===Pronunciation===
+* {{IPA|en|/zɪˈnɛləsi/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-xenelasy.wav |Audio (Southern England)}}
+===Noun===
+{{en-noun|-}}
+# The [[expulsion]] of [[foreigners]].
+#* '''1846''', George Grote, ''A History of Greece''
+#*: {{...}} a numerous body of strangers or non-citizens (the old '''xenelasy''', or prohibition of resident strangers, being long discontinued) domiciled in the town, and forming a powerful moneyed interest {{...}}
+====Translations====
+{{trans-top}}
+* Finnish: {{t|fi|[[ulkomaalainen|ulkomaalaisten]] [[karkottaminen]]}}
+* French: {{t+|fr|xénélasie|f}}
+* German: {{t|de|Xenelasie|f}}
+{{trans-mid}}
+* Greek: {{t+|el|ξενηλασία|f}}
+*: Ancient: {{t|grc|ξενηλασία|f}}
+* Italian: {{t|it|xenelasia|f}}
+* Russian: {{t|ru|ксенеласия|f}}
+{{trans-bottom}}</text>
+<sha1>15x0wd0fsrc1jx19zby7rstweisrdfh</sha1>
+</revision>
+</page>

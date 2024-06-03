@@ -1,0 +1,23 @@
+<page>
+<title>yazmaz</title>
+<ns>0</ns>
+<id>3850290</id>
+<revision>
+<id>67659289</id>
+<parentid>67651591</parentid>
+<timestamp>2022-07-06T15:59:08Z</timestamp>
+<contributor>
+<username>Fytcha</username>
+<id>1718343</id>
+</contributor>
+<minor />
+<comment>Turkish: convert aorist forms to [[Template:tr-verb form of]] and remove nonsense nyms/derived/related terms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="75" xml:space="preserve">==Turkish==
+===Verb===
+{{head|tr|verb form}}
+# {{tr-verb form of|yazmak}}</text>
+<sha1>ohxeijnpa74l17u1jywnt28sl5zw9mz</sha1>
+</revision>
+</page>

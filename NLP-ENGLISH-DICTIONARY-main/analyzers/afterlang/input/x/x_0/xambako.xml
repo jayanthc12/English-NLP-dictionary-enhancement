@@ -1,0 +1,27 @@
+<page>
+<title>xambako</title>
+<ns>0</ns>
+<id>7323580</id>
+<revision>
+<id>62736790</id>
+<parentid>61614029</parentid>
+<timestamp>2021-06-13T05:45:06Z</timestamp>
+<contributor>
+<username>Kwamikagami</username>
+<id>52912</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="239" xml:space="preserve">==Hadza==
+===Pronunciation===
+* {{IPA|hts|/k͜ǁanpako/}}
+===Noun===
+{{hts-noun|g=f}} (''Note: the form after a determiner is '''''{{l|hts|xamba}}''')
+# stomach (organ)
+====Related terms====
+* {{l|hts|xambabii}}
+[[Category:hts:Organs]]</text>
+<sha1>l22ps2dh1lgj6zgoknzlpe97zgmk9qx</sha1>
+</revision>
+</page>

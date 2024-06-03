@@ -1,0 +1,41 @@
+<page>
+<title>Ybarra</title>
+<ns>0</ns>
+<id>6103920</id>
+<revision>
+<id>68734814</id>
+<parentid>67802467</parentid>
+<timestamp>2022-08-26T06:55:51Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|es}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="797" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+From {{bor|en|es|Ybarra}}, variant of the {{der|en|eu|-}} surname {{m|eu|Ibarra}}.
+===Proper noun===
+{{en-proper noun|Ybarras}}
+# {{surname|en}}.
+====Statistics====
+* According to the 2010 United States Census, ''Ybarra'' is the 1619&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 22211 individuals. ''Ybarra'' is most common among Hispanic/Latino (88.06%) and White (10.33%) individuals.
+===Further reading===
+* {{R:en:DAFN}}
+[[Category:English surnames from Basque]]
+[[Category:English surnames from Spanish]]
+----
+==Spanish==
+===Etymology===
+Originally an alternative spelling of {{m|es|Ibarra}}, from {{der|es|eu|ibar||hill}}.
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{es-proper noun|f|g2=m}}
+# {{surname|es}}</text>
+<sha1>b8sqz4sezk4c7puuynpon20lxia5bjv</sha1>
+</revision>
+</page>

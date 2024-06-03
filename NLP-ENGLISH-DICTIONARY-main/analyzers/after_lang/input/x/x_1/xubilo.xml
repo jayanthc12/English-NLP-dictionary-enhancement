@@ -1,0 +1,24 @@
+<page>
+<title>xubilo</title>
+<ns>0</ns>
+<id>4351980</id>
+<revision>
+<id>53120029</id>
+<parentid>25807504</parentid>
+<timestamp>2019-05-19T06:04:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>replaced {{form of}} containing inflection tags with {{inflection of}}; canonicalized multiword inflection tag 'first-person singular present indicative' to 1|s|pres|ind</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="106" xml:space="preserve">{{also|xubiló}}
+==Asturian==
+===Verb===
+{{ast-verb form}}
+# {{inflection of|ast|xubilar||1|s|pres|ind}}</text>
+<sha1>aw9ol9bs1jkfp0nivp8c8ua25okxl7g</sha1>
+</revision>
+</page>

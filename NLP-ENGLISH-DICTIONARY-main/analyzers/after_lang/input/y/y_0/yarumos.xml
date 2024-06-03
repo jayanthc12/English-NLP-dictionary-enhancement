@@ -1,0 +1,23 @@
+<page>
+<title>yarumos</title>
+<ns>0</ns>
+<id>5107742</id>
+<revision>
+<id>55843487</id>
+<parentid>44353951</parentid>
+<timestamp>2019-10-16T05:46:38Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="72" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form}}
+# {{plural of|es|yarumo}}</text>
+<sha1>7sa571p0nwm9v8wu1ggg99pxprs8e8l</sha1>
+</revision>
+</page>

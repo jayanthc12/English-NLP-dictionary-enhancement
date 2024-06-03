@@ -1,0 +1,34 @@
+<page>
+<title>yarely</title>
+<ns>0</ns>
+<id>3066011</id>
+<revision>
+<id>65878221</id>
+<parentid>65230624</parentid>
+<timestamp>2022-02-20T23:14:22Z</timestamp>
+<contributor>
+<username>VealSociedad</username>
+<id>3885921</id>
+</contributor>
+<comment>/* Adverb */  (using [[MediaWiki:Gadget-AjaxEdit.js|AjaxEdit]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="686" xml:space="preserve">==English==
+===Etymology===
+From {{inh|en|enm|ȝarly}}, {{m|enm|ȝarely}}, from {{inh|en|ang|ġearlīċe}}, {{m|ang|ġearolīċe}}; equivalent to {{suffix|en|yare|ly}}.
+===Adverb===
+{{en-adv}}
+# {{lb|en|archaic}} In a [[yare]] way.
+#* {{RQ:Shakespeare Antony and Cleopatra|II|ii|text={{...}}The silken tackle / Swell with the touches of those flower-soft hands / That '''yarely''' frame the office.}}
+#* {{RQ:Shakespeare Tempest|I|i|text={{...}}Fall to't '''yarely''', or we run ourselves aground. Bestir, [[bestir]]!}}
+====Synonyms====
+* {{l|en|lithely}}
+* {{l|en|lively}}
+* {{l|en|quickly}}
+* {{l|en|readily}}
+* {{l|en|willingly}}
+===Anagrams===
+* {{anagrams|en|a=aelryy|yearly}}</text>
+<sha1>qb49m8cuhzpohijnceimqgfyam7955m</sha1>
+</revision>
+</page>

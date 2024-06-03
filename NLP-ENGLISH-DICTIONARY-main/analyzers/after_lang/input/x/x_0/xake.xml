@@ -1,0 +1,35 @@
+<page>
+<title>xake</title>
+<ns>0</ns>
+<id>4603193</id>
+<revision>
+<id>64964415</id>
+<parentid>63507028</parentid>
+<timestamp>2021-12-15T13:59:13Z</timestamp>
+<contributor>
+<username>Santi2222</username>
+<id>2319339</id>
+</contributor>
+<comment>/* Declension */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="358" xml:space="preserve">{{also|xa kê}}
+==Basque==
+===Etymology===
+From {{der|eu|ar|شَاه||king in chess}}, from {{der|eu|fa|شاه|tr=šâh|t=king}}.
+===Pronunciation===
+{{eu-IPA}}
+===Noun===
+{{eu-noun|in}}
+# [[chess]]
+# {{lb|eu|chess}} [[check]]
+====Declension====
+{{eu-decl-inanim}}
+====Derived terms====
+* {{l|eu|xakelari}}
+===Further reading===
+* {{R:EH}}
+* {{R:OEH}}</text>
+<sha1>5t64n11hs53iyjsah00v7cn8uytf4ff</sha1>
+</revision>
+</page>

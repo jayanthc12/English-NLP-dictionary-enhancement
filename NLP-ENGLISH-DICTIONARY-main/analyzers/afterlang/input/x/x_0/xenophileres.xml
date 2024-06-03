@@ -1,0 +1,23 @@
+<page>
+<title>xenophileres</title>
+<ns>0</ns>
+<id>6345400</id>
+<revision>
+<id>60515998</id>
+<parentid>52699439</parentid>
+<timestamp>2020-09-26T12:32:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{inflection of|de|...}} to {{de-adj form of}}; convert {{head|de|adjective form}} to {{head|de|comparative adjective form}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==German==
+===Adjective===
+{{head|de|comparative adjective form}}
+# {{de-adj form of|xenophil}}</text>
+<sha1>k1lr2bs4pgu3d4g2jb41g2h50fybifl</sha1>
+</revision>
+</page>

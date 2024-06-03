@@ -1,0 +1,29 @@
+<page>
+<title>yakne</title>
+<ns>0</ns>
+<id>7030944</id>
+<revision>
+<id>69076978</id>
+<parentid>63661489</parentid>
+<timestamp>2022-09-04T03:37:53Z</timestamp>
+<contributor>
+<username>GabeMoore</username>
+<id>3462630</id>
+</contributor>
+<comment>/* Tocharian B */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="222" xml:space="preserve">==Tocharian B==
+===Etymology===
+{{rfe|txb}}
+===Noun===
+{{txb-noun||m}}
+# [[way]], [[manner]]
+# [[custom]], [[habit]]
+====Derived terms====
+* {{l|txb|akne||duty}}
+===Further reading===
+* {{R:txb:Adams 2013|head=yakne}}</text>
+<sha1>7cw5yv8dv95918ikz0fprbbidg76njo</sha1>
+</revision>
+</page>

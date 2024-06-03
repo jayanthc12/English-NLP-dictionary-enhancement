@@ -1,0 +1,25 @@
+<page>
+<title>xantenico</title>
+<ns>0</ns>
+<id>1625325</id>
+<revision>
+<id>62769339</id>
+<parentid>45993063</parentid>
+<timestamp>2021-06-16T09:37:03Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>convert {{it-adj}} to new format</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="98" xml:space="preserve">==Italian==
+===Adjective===
+{{it-adj}}
+# [[xanthenic]]
+====Related terms====
+* {{l|it|xantene}}</text>
+<sha1>oejih2gk3f3lu4h8j52hc7l34pb10dd</sha1>
+</revision>
+</page>

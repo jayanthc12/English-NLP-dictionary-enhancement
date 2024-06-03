@@ -1,0 +1,60 @@
+<page>
+<title>Xiangzhou</title>
+<ns>0</ns>
+<id>6889818</id>
+<revision>
+<id>68494643</id>
+<parentid>67890547</parentid>
+<timestamp>2022-07-30T14:23:46Z</timestamp>
+<contributor>
+<username>Geographyinitiative</username>
+<id>285772</id>
+</contributor>
+<comment>2016 article</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1900" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* {{q|from [[Wade–Giles]]}} {{l|en|Hsiang-chou}}
+===Etymology===
+From the {{bor|en|cmn-pinyin|-}} romanization of the {{bor|en|cmn|-}} pronunciation for {{zh-l|襄州}}.
+===Pronunciation===
+{{rfp|en}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|district|prefecture-level city/Xiangyang|p/Hubei|c/China}}.
+#* {{quote-web
+|en
+|date=01/29/2016
+|author=Editorial Office
+|title=Chenghe Wickerwork
+|archiveurl=https://web.archive.org/web/20220730142212/https://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fen.hubei.gov.cn%2Fculture%2Fintangible%2F201601%2Ft20160129_1412132.shtml
+|archivedate=30 July 2022
+|work=Hubei Provincial People's Government Official Web Portal
+|url=http://en.hubei.gov.cn/culture/intangible/201601/t20160129_1412132.shtml
+|text=Chenghe wickerwork, also known as Xiangyang wickerwork, is a specialty of Chenghe town&lt;!--程河镇--&gt;, '''Xiangzhou''' district, Xiangyang city, and a product with protected geographical indication in China. Chenghe is one of the top three wickerwork export bases in China.}}
+#* {{quote-book
+|en
+|year=2021
+|last=Ge
+|first=Jianxiong
+|last2=Hu
+|first2=Yunsheng
+|title=A Historical Survey of the Yellow River and the River Civilizations
+|url=https://books.google.com/books?id=iiASEAAAQBAJ
+|ISBN=978-981-33-4480-8
+|ISSN=2196-3134
+|OCLC=1201384776
+|page=184
+|text=Northern Hubei was centered around '''Xiangzhou''', Xiangyang (modern Xiangfan of Hubei), the seat of local government of '''Xiangzhou''', was a major gathering point for southward emigration out of the Central Plains due to its location at the intersection between the Han River and the trunk road from Nanyang to Jiangling.}}
+====Translations====
+{{trans-top|district in central China}}
+* Chinese:
+*: Mandarin: {{t+|cmn|襄州|tr=Xiāngzhōu|sc=Hani}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+{{trans-bottom}}</text>
+<sha1>e2cq47urfrehkiydtqbzuo810mj7lh9</sha1>
+</revision>
+</page>

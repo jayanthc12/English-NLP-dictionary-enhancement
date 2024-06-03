@@ -1,0 +1,48 @@
+<page>
+<title>yapok</title>
+<ns>0</ns>
+<id>1213907</id>
+<revision>
+<id>67280838</id>
+<parentid>65827738</parentid>
+<timestamp>2022-06-06T06:53:47Z</timestamp>
+<contributor>
+<ip>77.85.35.187</ip>
+</contributor>
+<comment>t+bg:[[япок]] ([[WT:EDIT|Assisted]])</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="851" xml:space="preserve">==English==
+{{wikipedia}}
+===Alternative forms===
+* [[yapock]]
+===Etymology===
+Probably from the [[w:Oyapock|Oyapok River]] in [[French Guyana]].
+===Pronunciation===
+* {{IPA|en|/ˈjæpɒk/}}
+===Noun===
+{{en-noun}}
+# The [[water opossum]] ({{taxlink|Chironectes minimus|species|noshow=1|ver=161029}})
+====Translations====
+{{trans-top|''Chironectes minimus''}}
+* Bulgarian: {{t|bg|япок|m}}
+* Finnish: {{t|fi|pussisaukko}}
+* German: {{t+|de|Schwimmbeutler|m}}, {{t|de|Wasseropossum|n}}, {{t+|de|Yapok|m}}
+{{trans-mid}}
+* Hungarian: {{t|hu|yapok}}, {{t|hu|vízioposszum}}
+* Italian: {{t|it|yapok|m}}
+* Polish: {{t+|pl|japok|m}}
+{{trans-bottom}}
+[[Category:en:Marsupials]]
+----
+==Finnish==
+===Noun===
+{{fi-noun}}
+# {{lb|fi|rare}} [[#English|yapok]]
+====Declension====
+{{fi-decl-risti|yapok|||a|i=0}}
+====Synonyms====
+* {{l|fi|pussisaukko}}</text>
+<sha1>p7x9q8a94nbak782wqew8hemt4yg36v</sha1>
+</revision>
+</page>

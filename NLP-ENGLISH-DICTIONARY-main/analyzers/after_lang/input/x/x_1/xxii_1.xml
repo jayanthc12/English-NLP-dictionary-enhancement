@@ -1,0 +1,24 @@
+<page>
+<title>xxii</title>
+<ns>0</ns>
+<id>4987247</id>
+<revision>
+<id>54471742</id>
+<parentid>46642505</parentid>
+<timestamp>2019-09-30T13:32:27Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{alternative case form of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="100" xml:space="preserve">{{also|XXII}}
+==Translingual==
+===Number===
+{{mul-number}}
+# {{alternative case form of|mul|XXII}}</text>
+<sha1>e5h6mhhkcmw6m8ubg3o9qyj3upco43x</sha1>
+</revision>
+</page>

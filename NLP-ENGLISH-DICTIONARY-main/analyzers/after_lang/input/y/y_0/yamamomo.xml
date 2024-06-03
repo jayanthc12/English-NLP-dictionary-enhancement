@@ -1,0 +1,27 @@
+<page>
+<title>yamamomo</title>
+<ns>0</ns>
+<id>3804821</id>
+<revision>
+<id>67298365</id>
+<parentid>64350142</parentid>
+<timestamp>2022-06-06T12:18:35Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>absorb {{etyl|...}} {{m|...}} into {{uder|en|ja}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==English==
+===Etymology===
+From {{uder|en|ja|山桃|tr=ヤマモモ, yamamomo}}, from {{m|ja|山||mountain|tr=yama}} + {{m|ja|桃||peach|tr=momo}}.
+===Noun===
+{{en-noun|yamamomo}}
+# [[yangmei]]
+[[Category:en:Fagales order plants]]
+[[Category:en:Fruits]]</text>
+<sha1>7wkkgpghp3n2wpv82wnb136lweukgbe</sha1>
+</revision>
+</page>

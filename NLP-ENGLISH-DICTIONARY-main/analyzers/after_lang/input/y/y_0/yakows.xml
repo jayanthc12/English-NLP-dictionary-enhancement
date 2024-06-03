@@ -1,0 +1,23 @@
+<page>
+<title>yakows</title>
+<ns>0</ns>
+<id>4503503</id>
+<revision>
+<id>55643257</id>
+<parentid>53092631</parentid>
+<timestamp>2019-10-15T10:23:45Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="71" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yakow}}</text>
+<sha1>4ru984damo65tuue5sqji2tedanxonn</sha1>
+</revision>
+</page>

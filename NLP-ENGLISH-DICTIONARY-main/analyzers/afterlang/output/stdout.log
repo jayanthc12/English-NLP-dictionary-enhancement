@@ -1,0 +1,22 @@
+[command arg: -ANA]
+[command arg: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/]
+[command arg: -WORK]
+[command arg: /home/adarsh/.vscode/extensions/dehilster.nlp-2.36.3/nlp-engine]
+[command arg: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/input/test/amaze.xml]
+[command arg: -DEV]
+[logfile: /home/adarsh/.vscode/extensions/dehilster.nlp-2.36.3/nlp-engine/vtrun_logfile.out]
+[rfbdir: /home/adarsh/.vscode/extensions/dehilster.nlp-2.36.3/nlp-engine/data/rfb/spec]
+[analyzer directory: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/]
+[analyzer name: ]
+[rfb file: /home/adarsh/.vscode/extensions/dehilster.nlp-2.36.3/nlp-engine/data/rfb/spec]
+[log file: ./tmp/visualtext.log]
+[spec directory: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang//spec]
+[spec file: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang//spec/analyzer.seq]
+[output directory: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang//output]
+Concept Table
+-------------
+[infile path: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/input/test/amaze.xml]
+[outfile path: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang//outfile.txt]
+[outdir path: /home/adarsh/Desktop/NLP-ENGLISH-DICTIONARY/analyzers/afterlang/input/test/amaze.xml_log]
+[AFTER VTRUN DELETE: ]
+Active Algo count=1

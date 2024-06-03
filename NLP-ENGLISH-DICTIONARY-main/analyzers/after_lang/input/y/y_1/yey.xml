@@ -1,0 +1,60 @@
+<page>
+<title>yey</title>
+<ns>0</ns>
+<id>1173426</id>
+<revision>
+<id>66455585</id>
+<parentid>62013005</parentid>
+<timestamp>2022-04-17T14:21:22Z</timestamp>
+<contributor>
+<username>Mahagaja</username>
+<id>4237</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1499" xml:space="preserve">{{also|þey}}
+==English==
+===Interjection===
+{{en-interj}}
+# {{alternative spelling of|en|yay}}
+----
+==Azerbaijani==
+===Etymology===
+From {{inh|az|trk-pro|*yeg}}, cognate with {{cog|otk|𐰘𐰃𐰏}}, {{cog|tk|ýeg}}, {{cog|tr|yey}}, {{m|tr|yeğ}}, possibly with {{cog|cv|ҫи|t=up, upper}}.
+===Pronunciation===
+* {{IPA|az|[jej]}} {{lb|az|Cəbrayıl|Gədəbəy|Göyçay|Xanlar|İmişli|Meğri|Şamaxı|Tərtər}}
+* {{IPA|az|[jeɡ]}} {{lb|az|Quba|Ordubad}}
+===Adjective===
+{{head|az|adjective}} {{lb|az|obsolete|_|or|_|dialectal}}
+# [[good]], [[better]]
+#: {{syn|az|eyi|yaxşı|yaxşıraq}}
+===Further reading===
+* {{R:az:Obastan}}
+----
+==Classical Nahuatl==
+===Numeral===
+{{head|nci|numeral}}
+# {{obsolete spelling of|nci|ēyi}}
+----
+==Cornish==
+===Etymology===
+From {{inh|kw|cel-bry-pro|*jaɣ}}, itself from {{inh|kw|cel-pro|*yegis}}. Cognate with {{cog|ga|oighear}}, {{cog|gd|eigh}}, and {{cog|cy|iâ}}.
+===Noun===
+{{kw-noun|m}}
+# [[ice]]
+===References===
+* http://www.cornishdictionary.org.uk/
+----
+==Pipil==
+{{cardinalbox|ppl|2|3|4|ūme|nāwi|alt=yēy|adv=yēshpa|frac=yēshtakutun}}
+===Etymology===
+From {{inh|ppl|azc-nah-pro|*eːyɨ}}, from {{inh|ppl|azc-pro|*pahi}}. Compare {{cog|nci|ēyi||three}}. Cognate with {{cog|yaq|baji||three}} and {{cog|hop|pàayo'||three}}.
+===Pronunciation===
+* {{IPA|ppl|/jeːj/}}
+===Numeral===
+{{head|head=yēy|ppl|numeral|cat2=cardinal numbers}}
+# [[three]]
+#: {{ux|ppl|Nitaketza '''yey''' taketzalis.|I speak '''three''' languages.}}</text>
+<sha1>4ph7rj5use75oyiu9q3sa411kmvjrwp</sha1>
+</revision>
+</page>

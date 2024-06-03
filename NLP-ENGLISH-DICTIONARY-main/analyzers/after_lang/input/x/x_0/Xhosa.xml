@@ -1,0 +1,83 @@
+<page>
+<title>Xhosa</title>
+<ns>0</ns>
+<id>41630</id>
+<revision>
+<id>68766801</id>
+<parentid>68470464</parentid>
+<timestamp>2022-08-27T03:15:56Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add missing final period (full stop) in 'From ...' line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2899" xml:space="preserve">{{also|xhosa}}
+==English==
+===Etymology===
+Borrowed from {{bor|en|xh|ísíXhosa|(ísí)Xhosa|t=Xhosa language}} and {{m|xh|úḿXhosa|(úḿ)Xhosa|t=Xhosa person}}, where the sequence ''xh'' denotes a click ({{IPAchar|/ˈǁʰoːsa/}}): {{audio-pron|xh|Xhosa.ogg|nocat=1}}.
+===Pronunciation===
+* {{a|GenAm}} {{IPA|en|/ˈkoʊ.sə/}},&lt;ref name=&quot;OADL&quot;&gt;[http://www.oxfordlearnersdictionaries.com/definition/english/xhosa Oxford Advanced learner's Dictionary]&lt;/ref&gt;&lt;ref name=&quot;MacM&quot;&gt;{{R:Macmillan}}&lt;/ref&gt;&lt;ref name=&quot;Dictcom&quot;&gt;{{R:Dictionary.com}}&lt;/ref&gt; {{IPAchar|/ˈkɔ.sə/}}&lt;ref name=&quot;MacM&quot;/&gt;&lt;ref name=&quot;Dictcom&quot;/&gt;
+* {{a|RP}} {{IPA|en|/ˈkəʊ.sə/}},&lt;ref name=&quot;MacM&quot;/&gt; {{IPAchar|/ˈkɔː.sə/|lang=en}}&lt;ref name=&quot;OADL&quot;/&gt;&lt;ref name=&quot;MacM&quot;/&gt;
+===Noun===
+{{wikipedia}}
+{{en-noun|~|s|Xhosa}}
+# {{lb|en|countable}} Any member of a [[Bantu]] [[people]] from [[South Africa]], most of whom live in the [[Eastern Cape]].
+# {{lb|en|uncountable}} The [[language]] of these people, a [[Bantu]] language related to [[Zulu]].
+====Translations====
+{{trans-top|Xhosa language}}
+* Afrikaans: {{t+|af|Xhosa}}
+* Albanian: {{t|sq|[[gjuha]] [[Xhosa]]}}
+* Arabic: {{t|ar|الْكُوسِيَّة|f}}
+* Breton: {{t|br|Xhosaeg}}
+* Bulgarian: {{t|bg|кхоса}}
+* Chinese:
+*: Mandarin: {{t+|cmn|科萨语|tr=Kēsà yǔ}}
+* Chuvash: {{t|cv|коса чӗлхи}}
+* Dutch: {{t+|nl|Xhosa}}
+* Esperanto: {{t|eo|[[kosa]] [[lingvo]]}}
+* Finnish: {{t+|fi|xhosa}}
+* French: {{t+|fr|xhosa}}
+* Galician: {{t|gl|xhosa|m}}
+* Ido: {{t|io|Xosa-linguo}}
+{{trans-mid}}
+* Irish: {{t|ga|Cóisis|f}}
+* Italian: {{t+|it|xhosa|m}}
+* Japanese: {{t+|ja|コサ語|tr=kosa-go}}
+* Limburgish: {{t+|li|Xhosa}}
+* Navajo: {{t|nv|Xhosa Dineʼé bizaad|sc=Latn}}
+* Polish: {{t|pl|xhosa}}
+* Portuguese: {{t|pt|[[língua]] [[xhosa]]|f}}, {{t+|pt|xhosa|m}}
+* Russian: {{t+|ru|ко́са}}
+* Spanish: {{t+|es|xhosa|m}}
+* Swahili: {{t|sw|Kixhosa}}
+* Swedish: {{t+|sv|xhosa}}
+* Xhosa: {{t|xh|isiXhosa}}
+* Zulu: {{t|zu|isiXhosa}}
+{{trans-bottom}}
+{{trans-top|Xhosa people}}
+* Afrikaans: {{t+|af|Xhosa}}
+* Arabic: {{t|ar|كُوسِيُّون|m}}
+* Bengali: {{t|bn|কোসা}}
+* Esperanto: {{t+|eo|koso}} {{qualifier|man or woman}}, {{t|eo|kosino}} {{qualifier|woman}}
+* French: {{t+|fr|Xhosa|m|f}}
+{{trans-mid}}
+* Swahili: {{t|sw|Mxhosa}}
+* Swedish: {{t+|sv|xhosa}}
+* Xhosa: {{t|xh|amaXhosa}}
+{{trans-bottom}}
+===See also===
+{{langcat|xh}}
+* [https://web.archive.org/web/20040413042205/http://www.websters-online-dictionary.org/definition/Xhosa-english/ Xhosa - English Dictionary]: from [https://web.archive.org/web/20120223164907/http://www.websters-online-dictionary.org/ Webster's Dictionary] - the Rosetta Edition.
+* [http://mokennon2.albion.edu/xhosa.htm Xhosa - English &amp; English - Xhosa Translator at Albion College]
+===References===
+&lt;references/&gt;
+===Further reading===
+* {{ISO 639|ref=1|xh||xho}}
+* {{ethnologue|xho|Xhosa}}
+[[Category:en:Languages]]</text>
+<sha1>gfktfybzmmcz0y7nnilwic8zimxer2g</sha1>
+</revision>
+</page>

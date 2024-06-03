@@ -1,0 +1,23 @@
+<page>
+<title>xustas</title>
+<ns>0</ns>
+<id>1584847</id>
+<revision>
+<id>56946083</id>
+<parentid>39076659</parentid>
+<timestamp>2019-10-19T05:40:04Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="97" xml:space="preserve">==Galician==
+===Adjective===
+{{head|gl|adjective form|g=f-p}}
+# {{inflection of|gl|xusto||f|p}}</text>
+<sha1>148km6008rgcsmeqitnbxvxcl1vdcwv</sha1>
+</revision>
+</page>

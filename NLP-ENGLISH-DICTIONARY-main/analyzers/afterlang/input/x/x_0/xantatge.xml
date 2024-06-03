@@ -1,0 +1,31 @@
+<page>
+<title>xantatge</title>
+<ns>0</ns>
+<id>4613621</id>
+<revision>
+<id>49640062</id>
+<parentid>48016706</parentid>
+<timestamp>2018-06-04T04:38:42Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>Remove withtext= from {{bor}}/{{borrowed}}/{{borrowing}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="230" xml:space="preserve">==Catalan==
+===Etymology===
+Borrowed from {{bor|ca|fr|chantage}}.
+===Pronunciation===
+* {{ca-IPA}}
+===Noun===
+{{ca-noun|m}}
+# {{l|en|blackmail}}
+====Derived terms====
+* {{l|ca|xantatgista}}
+===Further reading===
+* {{R:IEC2}}</text>
+<sha1>8pb6yaj06v0hhbhj3z9di71rbv6xze4</sha1>
+</revision>
+</page>

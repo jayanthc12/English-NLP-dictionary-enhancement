@@ -1,0 +1,73 @@
+<page>
+<title>yahoo</title>
+<ns>0</ns>
+<id>101754</id>
+<revision>
+<id>66427904</id>
+<parentid>65261285</parentid>
+<timestamp>2022-04-15T01:20:51Z</timestamp>
+<contributor>
+<username>Card Zero</username>
+<id>479862</id>
+</contributor>
+<minor />
+<comment>/* Noun */ replacing bracket erroneously removed by JackBot some years ago</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="2630" xml:space="preserve">{{also|Yahoo|Yahoo!}}
+==English==
+===Etymology 1===
+From ''{{w|Gulliver's Travels}}'' by {{w|Jonathan Swift}}, where {{m|en|Yahoo}} is the name of a race of [[brute]]s.&lt;ref&gt;{{R:Dictionary.com}}&lt;/ref&gt;
+====Pronunciation====
+* {{IPA|en|/ˈjɑːhuː/}}
+====Noun====
+{{en-noun}}
+# {{lb|en|pejorative}} A [[rough]], [[coarse]], [[loud]] or [[uncouth]] person
+# {{lb|en|cryptozoology}} A humanoid [[cryptid]] said to exist in parts of eastern Australia, and also reported in the Bahamas.
+#* '''1835''', James Holman, ''Travels'', quoted by Malcolm Smith, ''Bunyips and Bigfoots'' (Millennium Books, 1996, {{ISBN|1-86429-081-1}}), who notes that the Australian sense almost certainly derives from ''Gulliver's Travels'', despite Holman's report
+#*: ''The natives are greatly terrrified by the sight of a person in a mask calling him &quot;devil&quot; or Yah-hoo, which signifies evil spirit.''
+#* '''1985''', Michael Raynal, '''''Yahoos''' in the Bahamas'', ''Cryptozoology'', volume 4:
+=====Synonyms=====
+* {{sense|a rough, coarse, or uncouth person}} {{l|en|yokel}}, {{l|en|lout}}
+=====Translations=====
+{{trans-top|rough person}}
+* German: {{t+|de|Rüpel|m}}, {{t+|de|Rohling|m}}
+{{trans-bottom}}
+===Etymology 2===
+Expressive.
+====Pronunciation====
+* {{IPA|en|/jəˈhuː/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-yahoo2.wav|Audio (UK)}}
+====Interjection====
+{{en-interj}}
+# An exclamation of [[joy]] or [[enjoyment]].
+#* {{quote-book|1=en|year=1959|year_published=1972|author=Anthony Burgess|authorlink=Anthony Burgess|title=Beds in the East|series=The Malayan Trilogy|page=521|passage=&quot;'''Yahoooooo'''! Give her some stick!&quot; }}
+# A battle cry.
+=====Translations=====
+{{trans-top|exlamation of joy}}
+* German: {{t+|de|juhu}}
+{{trans-bottom}}
+====Verb====
+{{en-verb}}
+# To give a cry of &quot;yahoo&quot;.
+===Etymology 3===
+From {{m|en|Yahoo%21|Yahoo!}}.
+====Alternative forms====
+* {{alter|en|Yahoo}}
+====Verb====
+{{en-verb}}
+# {{lb|en|internet|informal}} To [[search]] using the {{w|Yahoo!}} [[search engine]].
+#* '''2007''', ''Tell''
+#*: Ah! You mean you have been &amp;#39;'''yahooing'''&amp;#39;? I&amp;#39;m dead!
+#* '''2008''', Frederick Thomas, ''Buddha's Bones'', Buddha's Bones ({{ISBN|9780981455419}}), page 46:
+#*: I searched, '''Yahooed''', Googled and everything else I could.
+#* '''2017''', Rajendra Pillai, ''Unearthed: Discover Life as God's Masterpiece'', New Hope Publishers ({{ISBN|9781596699755}})
+#*: In other words, none of our googling and '''yahooing''' is private (you knew that, right ?).
+===References===
+&lt;references/&gt;
+===Anagrams===
+* {{anagrams|en|a=ahooy|ooyah}}
+{{catlangname|en|heteronyms|terms derived from fiction}}</text>
+<sha1>r4x5f8op8boov2h3afkgdeg1y8u7zu0</sha1>
+</revision>
+</page>

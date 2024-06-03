@@ -1,0 +1,47 @@
+<page>
+<title>Yaghnobi</title>
+<ns>0</ns>
+<id>3647723</id>
+<revision>
+<id>67414710</id>
+<parentid>67412840</parentid>
+<timestamp>2022-06-19T19:01:10Z</timestamp>
+<contributor>
+<username>Theknightwho</username>
+<id>3139980</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="966" xml:space="preserve">{{also|yaghnobi}}
+==English==
+{{wikipedia}}
+===Alternative forms===
+* {{alt|en|Yaghnob|Yagnob|Yagnobi}}
+===Etymology===
+From {{bor|en|tg|яғнобиҳо}}, from {{der|en|yai|yaγnōbī́t}}, {{m|yai|яғнобӣ}}.
+===Noun===
+{{en-noun|s|Yaghnobi}}
+# A member of an [[ethnic minority]] in [[Tajikistan]], inhabiting the Sughd province in the valleys of the Yaghnob, Qul and Varzob rivers.
+===Proper noun===
+{{en-proper noun}}
+# An Eastern Iranian language spoken in Tajikistan by the Yaghnobi people.
+====Synonyms====
+* {{l|en|Neo-Sogdian}}
+====Translations====
+{{trans-top|language}}
+* Armenian: {{t+|hy|յաղնոբերեն}}
+* Finnish: {{t|fi|jagnobi}}
+* Persian: {{t|fa|یغنابی|tr=yağnâbi}}
+{{trans-mid}}
+* Russian: {{t+|ru|ягнобский}}
+* Tajik: {{t|tg|яғнобӣ|sc=Cyrl}}
+* Yaghnobi: {{t|yai|яғнобӣ|tr=yaġnobī|sc=Cyrl}}
+{{trans-bottom}}
+===See also===
+* {{ISO 639|ref=1|3=yai}}
+* {{ethnologue|yai}}
+[[Category:en:Languages]]</text>
+<sha1>a4nwys94ldlif9j2c44d3p6ffuy6waw</sha1>
+</revision>
+</page>

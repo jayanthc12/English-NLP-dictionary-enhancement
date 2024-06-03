@@ -1,0 +1,27 @@
+<page>
+<title>yfirkoma</title>
+<ns>0</ns>
+<id>6944252</id>
+<revision>
+<id>50532149</id>
+<timestamp>2018-10-20T14:59:13Z</timestamp>
+<contributor>
+<username>Ofkosinn</username>
+<id>3419535</id>
+</contributor>
+<comment>Created page with &quot;==Old Norse==  ===Etymology=== From {{prefix|non|yfir|koma}}.  ===Verb=== {{non-verb|yfirkom|yfirkómu|yfirkominn}}  # [[overcome]]  ====Conjugation==== {{non-conj-strong|clas...&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="268" xml:space="preserve">==Old Norse==
+===Etymology===
+From {{prefix|non|yfir|koma}}.
+===Verb===
+{{non-verb|yfirkom|yfirkómu|yfirkominn}}
+# [[overcome]]
+====Conjugation====
+{{non-conj-strong|class=4|yfirkom|1i=yfirkem|yfirkom|yfirkóm|3i=yfirkœm|yfirkom}}
+===References===
+* {{R:Zoega}}</text>
+<sha1>k2ow319vrj54fb4x1q9iojungzs7uui</sha1>
+</revision>
+</page>

@@ -1,0 +1,92 @@
+<page>
+<title>Yangon</title>
+<ns>0</ns>
+<id>39040</id>
+<revision>
+<id>69621339</id>
+<parentid>68583895</parentid>
+<timestamp>2022-10-30T11:46:51Z</timestamp>
+<contributor>
+<username>Rodher617</username>
+<id>3203781</id>
+</contributor>
+<comment>/* English */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="3327" xml:space="preserve">==English==
+{{wikipedia}}
+===Etymology===
+Borrowed from {{bor|en|my|ရန်ကုန်}}, pronounced {{IPAchar|/jàɴɡòʊɴ/}} in standard Burmese.
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/jɑŋˈɡɑn/|/jɑŋˈɡoʊn/}}
+* {{a|RP}} {{IPA|en|/jæŋˈɡɒn/|/jæŋˈɡəʊn/}}
+* {{rhymes|en|ɑn|q1=General American|oʊn|q2=General American|ɒn|q3=Received Pronunciation|əʊn|q4=Received Pronunciation|s=2}}
+===Proper noun===
+{{en-proper noun}}
+# {{place|en|The largest &lt;&lt;city&gt;&gt; and &lt;&lt;former capital&gt;&gt; of &lt;&lt;c/Myanmar&gt;&gt; ([[Burma]]).}}
+#: {{syn|en|Dagon|q1=former name|Dagoon|q2=former name|Rangoon|q3=former name}}
+====Translations====
+{{trans-top|largest city in Myanmar}}
+* Amharic: {{t|am|ራንጉን}}
+* Arabic: {{t|ar|يَانْغُون|m}}, {{t|ar|يَانْجُون|m}}
+* Armenian: {{t|hy|Ռանգուն}}
+* Belarusian: {{t|be|Рангу́н|m}}, {{t|be|Янго́н|m}}
+* Bengali: {{t|bn|রেঙ্গুন}}
+* Bulgarian: {{t|bg|Янго́н|m}}
+* Burmese: {{t|my|[[ရန်ကုန်]][[မြို့]]}}, {{t|my|ရန်ကုန်}}
+* Chinese:
+*: Cantonese: {{t|yue|仰光|tr=joeng5 gwong1}}
+*: Mandarin: {{t+|cmn|仰光|tr=Yǎngguāng}}
+* Czech: {{t|cs|Rangún|m}}
+* Danish: {{t|da|Rangoon}}
+* Esperanto: {{t|eo|Jangono}}, {{t|eo|Ranguno}}
+* Finnish: {{t|fi|Rangoon}}, {{t|fi|Yangon}}
+* French: {{t+|fr|Rangoun|m}}, {{t+|fr|Rangoon|m}}
+* Georgian: {{t|ka|რანგუნი}}
+* German: {{t|de|Rangun|n}}, {{t|de|Yangon}}
+* Greek: {{t|el|Ρανγκούν|f}}, {{t|el|Ραγγούν|f}}
+* Hebrew: {{t|he|יאנגון|tr=yangon}}
+* Hindi: {{t|hi|यांगून}}, {{t|hi|रंगून}}, {{t|hi|यंगून}}
+* Hungarian: {{t+|hu|Rangun}}
+* Japanese: {{t|ja|ヤンゴン|tr=Yangon}}, {{t|ja|ラングーン|tr=ranguun}}
+* Khmer: {{t|km|[[ក្រុង]][[យ៉ានកុង]]}}, {{t|km|រង្គុន}}, {{t|km|រ៉ង់ហ្គូន}}, {{t|km|យ៉ានកុង}}
+* Korean: {{t|ko|^양곤}}
+{{trans-mid}}
+* Lao: {{t|lo|ຢ່າງກຸ້ງ}}
+* Latin: {{t|la|Yangon}}
+* Latvian: {{t|lv|Jangona|f}}
+* Lithuanian: {{t|lt|Rangūnas|m}}
+* Lü: {{t|khb|ᦶᦊᧃᧈᦂᦳᧃᧈ}}
+* Macedonian: {{t|mk|Јангон|m}}
+* Malayalam: {{t|ml|രങ്കൂണ}}
+* Mon: {{t|mnw|လ္ဂုၚ်}}, {{t|mnw|ဍုၚ်လ္ဂုၚ်}}
+* Pashto: {{t|ps|رنګون|tr=rangūn}}
+* Persian: {{t|fa|یانگون|tr=yângon}}
+* Polish: {{t+|pl|Rangun|m}}
+* Portuguese: {{t|pt|Yangon|f}}, {{t|pt|Rangum|f}}
+* Punjabi: {{t|pa|رنګون|tr=rangūn}}
+* Russian: {{t|ru|Янго́н|m}}, {{t|ru|Рангу́н|m}}
+* S'gaw Karen: {{t|ksw|ဝ့ၢ်တကူၣ်}}
+* Shan: {{t|shn|ယၼ်ႇၵုင်ႇ}}
+* Slovak: {{t|sk|Rangún|m}}
+* Slovene: {{t|sl|Rangun|m}}
+* Spanish: {{t+|es|Rangún|m}}
+* Tagalog: {{t|tl|Rangyún}}, {{t|tl|Ranggún}}
+* Tamil: {{t|ta|ரெங்கூன்}}, {{t|ta|ரங்கூன்}}
+* Thai: {{t+|th|ย่างกุ้ง}}
+* Ukrainian: {{t|uk|Рангу́н}}, {{t|uk|Янго́н|m}}
+* Urdu: {{t|ur|ینگون|tr=yāngūn}}
+* Vietnamese: {{t|vi|Răng Gun}}, {{t|vi|I-an-gun}}, {{t|vi|Ngưỡng Quang}}
+{{trans-bottom}}
+===Anagrams===
+* {{anagrams|en|a=agnnoy|Yong'an|nongay}}
+[[Category:en:Cities in Burma]]
+----
+==Portuguese==
+===Proper noun===
+{{pt-proper noun|f}}
+# {{place|pt|city|c/Myanmar|t1=Yangon}}
+#: {{syn|pt|Rangum}}</text>
+<sha1>dkwvf1e20x6uvsbydw6g26vpkbfwdlk</sha1>
+</revision>
+</page>

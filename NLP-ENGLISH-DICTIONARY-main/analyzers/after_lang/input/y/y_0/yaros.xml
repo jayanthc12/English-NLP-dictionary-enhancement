@@ -1,0 +1,28 @@
+<page>
+<title>yaros</title>
+<ns>0</ns>
+<id>6134741</id>
+<revision>
+<id>56120052</id>
+<parentid>47271434</parentid>
+<timestamp>2019-10-17T04:35:19Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="162" xml:space="preserve">==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{plural of|es|yaro}}
+----
+==Tagalog==
+===Noun===
+{{tl-noun}}
+# [[sudden]], [[impatient]] [[departure]]</text>
+<sha1>6wizf5w6rtosv32v21xbyzdqol919vf</sha1>
+</revision>
+</page>

@@ -1,0 +1,36 @@
+<page>
+<title>xban</title>
+<ns>0</ns>
+<id>7265445</id>
+<revision>
+<id>54289325</id>
+<parentid>53467914</parentid>
+<timestamp>2019-09-25T06:20:14Z</timestamp>
+<contributor>
+<username>Embryomystic</username>
+<id>200407</id>
+</contributor>
+<comment>/* Zoogocho Zapotec */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="428" xml:space="preserve">==Zoogocho Zapotec==
+===Etymology===
+From {{inh|zpq|omq-zpc-pro|*xu-kwaaʔna}} ~ {{m|omq-zpc-pro|*xxi-kwaaʔna}}.
+===Pronunciation===
+* {{IPA|zpq|/ʐban˩/}}
+===Noun===
+{{head|zpq|noun}}
+# {{lb|zpq|possessed}} {{l|en|tail}}
+# {{lb|zpq|possessed}} {{l|en|stalk}}
+====Derived terms====
+{{der3|zpq
+|chlaꞌa xbambaꞌ
+|chta xbambaꞌ
+|xban chog
+|xban c̱hog
+|yag xbambaꞌ}}
+===References===
+* {{R:Long &amp; Cruz 2000|page=286}}</text>
+<sha1>fa5o0ol8eworpidq93aoolgobu7cjqs</sha1>
+</revision>
+</page>

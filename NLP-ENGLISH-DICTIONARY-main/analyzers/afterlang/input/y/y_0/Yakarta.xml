@@ -1,0 +1,27 @@
+<page>
+<title>Yakarta</title>
+<ns>0</ns>
+<id>4242114</id>
+<revision>
+<id>62085132</id>
+<parentid>61998052</parentid>
+<timestamp>2021-03-14T03:06:34Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="175" xml:space="preserve">==Spanish==
+{{wikipedia|lang=es}}
+===Pronunciation===
+{{es-IPA}}
+===Proper noun===
+{{es-proper noun|f}}
+# {{place|es|capital city|c/Indonesia|t1=Jakarta}}
+{{C|es|Exonyms}}</text>
+<sha1>6b8wpk5mwdxcsu4x942fmgg3eg66pha</sha1>
+</revision>
+</page>

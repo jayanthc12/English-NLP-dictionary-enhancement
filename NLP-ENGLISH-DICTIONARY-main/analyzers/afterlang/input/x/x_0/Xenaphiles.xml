@@ -1,0 +1,25 @@
+<page>
+<title>Xenaphiles</title>
+<ns>0</ns>
+<id>3082420</id>
+<revision>
+<id>55959283</id>
+<parentid>53092195</parentid>
+<timestamp>2019-10-16T11:19:23Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="133" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|Xenaphile}}
+===Anagrams===
+* {{anagrams|en|a=aeehilnpsx|lexiphanes}}</text>
+<sha1>02g8vit3tu3q11g2liqlzq6ngk3jv7q</sha1>
+</revision>
+</page>

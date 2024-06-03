@@ -1,0 +1,47 @@
+<page>
+<title>xerophyte</title>
+<ns>0</ns>
+<id>253087</id>
+<revision>
+<id>55374029</id>
+<parentid>51975426</parentid>
+<timestamp>2019-10-14T12:54:22Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{IPA}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="957" xml:space="preserve">{{also|xérophyte}}
+==English==
+===Etymology===
+{{confix|en|xero|phyte|t1=dry|t2=plant}}
+===Pronunciation===
+* {{IPA|en|/ˈzɪəɹəʊfaɪt/}}
+===Noun===
+{{en-noun}}
+# {{lb|en|botany}} Any [[plant]] suited for life in a [[habitat]] where [[water]] is [[scarce]], such as in a [[desert]] or [[chaparral]]. Such plants may be [[succulent]], have small or [[reduce]]d [[leaves]], or [[spine]]s.
+# A [[desert]] [[plant]]
+====Synonyms====
+* {{l|en|xeric}} [[plant]]
+====Derived terms====
+* {{l|en|euxerophyte}}
+* {{l|en|mesoxerophyte}}
+* {{l|en|xerophytic}}
+====Translations====
+{{trans-top|botany: a plant suited for life in a habitat where water is scarce}}
+* Finnish: {{t|fi|kuivakkokasvi}}, {{t+|fi|kserofyytti}}
+* Irish: {{t|ga|xéirifít|f}}
+* Italian: {{t|it|xerobio|m}}, {{t|it|xerofita|f}}
+{{trans-mid}}
+* Swedish: {{t+|sv|xerofyt}}
+* Tagalog: {{t|tl|halamang tuyuin}}
+{{trans-bottom}}
+===See also===
+* {{l|en|xeromorphic}}
+* {{l|en|xerophytic}}</text>
+<sha1>1m2ijl0v4dktml2hg66at457ab2ukvy</sha1>
+</revision>
+</page>

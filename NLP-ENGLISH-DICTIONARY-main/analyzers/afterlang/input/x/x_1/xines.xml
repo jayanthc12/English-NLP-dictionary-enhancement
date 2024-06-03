@@ -1,0 +1,24 @@
+<page>
+<title>xines</title>
+<ns>0</ns>
+<id>4686692</id>
+<revision>
+<id>55700118</id>
+<parentid>47349451</parentid>
+<timestamp>2019-10-15T12:53:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="96" xml:space="preserve">{{also|xinés|xinès}}
+==Asturian==
+===Noun===
+{{head|ast|noun form}}
+# {{plural of|ast|xina}}</text>
+<sha1>gpael4r201d4jcgzhe1xf0e4i9fh1k8</sha1>
+</revision>
+</page>

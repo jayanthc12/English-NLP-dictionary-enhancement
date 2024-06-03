@@ -1,0 +1,24 @@
+<page>
+<title>yestermorrows</title>
+<ns>0</ns>
+<id>5100117</id>
+<revision>
+<id>55841172</id>
+<parentid>53093123</parentid>
+<timestamp>2019-10-16T05:40:17Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{plural of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">{{also|yester-morrows}}
+==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yestermorrow}}</text>
+<sha1>o8can2yow6hewgs9zy68qqnligv5vgu</sha1>
+</revision>
+</page>

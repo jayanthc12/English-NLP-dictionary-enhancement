@@ -1,0 +1,32 @@
+<page>
+<title>yelpere</title>
+<ns>0</ns>
+<id>6904459</id>
+<revision>
+<id>61793171</id>
+<parentid>56594155</parentid>
+<timestamp>2021-02-10T08:28:18Z</timestamp>
+<contributor>
+<username>Citrarta</username>
+<id>3787915</id>
+</contributor>
+<minor />
+<comment>/* References */Adding POS to [[Template:R:MED Online]] and cleaning up alt forms using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="376" xml:space="preserve">==Middle English==
+===Etymology===
+From {{af|enm|ȝelpen|-er}}.
+===Pronunciation===
+* {{IPA|enm|/ˈjɛlpər(ə)/}}
+===Noun===
+{{head|enm|noun}} {{tlb|enm|rare}}
+# One who brags or engages in self-aggrandisement.
+====Descendants====
+* {{desc|en|yelper}}
+====References====
+* {{R:MED Online|entry=yelpere |pos=n|id=MED53813|accessdate=2018-09-26}}
+[[Category:enm:People]]</text>
+<sha1>dzp3zkc9hh2li50tl7ubq1mf7t8huwp</sha1>
+</revision>
+</page>

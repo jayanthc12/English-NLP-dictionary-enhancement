@@ -1,0 +1,36 @@
+<page>
+<title>yanacona</title>
+<ns>0</ns>
+<id>6583584</id>
+<revision>
+<id>68969766</id>
+<parentid>64220560</parentid>
+<timestamp>2022-08-29T01:55:57Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>rename {{R:DRAE}} to {{R:es:DRAE}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="373" xml:space="preserve">==English==
+{{wikipedia|Yanakuna}}
+===Alternative forms===
+* {{l|en|yanakuna}}
+===Noun===
+{{en-noun}}
+# {{lb|en|historical}} An [[Indian]] in the service of a [[Spaniard]].
+----
+==Spanish==
+===Pronunciation===
+* {{audio|es|LL-Q1321 (spa)-MiguelAlanCS-yanacona.wav|Audio (Peru)}}
+{{es-IPA}}
+===Noun===
+{{es-noun|mf}}
+# yanacona
+===Further reading===
+* {{R:es:DRAE}}</text>
+<sha1>8b8b3mmxrd2b935gndawnf9akje0vxz</sha1>
+</revision>
+</page>

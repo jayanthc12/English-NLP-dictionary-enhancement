@@ -1,0 +1,29 @@
+<page>
+<title>yeared</title>
+<ns>0</ns>
+<id>3061083</id>
+<revision>
+<id>64460363</id>
+<parentid>54722177</parentid>
+<timestamp>2021-10-28T12:25:28Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="519" xml:space="preserve">==English==
+===Etymology===
+From {{suffix|en|year|ed}}.
+===Pronunciation===
+* {{rhymes|en|ɪə(ɹ)d|s=1}}
+===Adjective===
+{{en-adj|-}}
+# {{lb|en|in combination}} Of a specified number of [[year]]s.
+# {{lb|en|poetic}} That has lasted many years; [[old]].
+#* '''1982''', {{w|Lawrence Durrell}}, ''Constance'', Faber &amp; Faber 2004 (''Avignon Quintet''), p. 701:
+#*: Ironically, too, the wine was a '''yeared''' Bollinger of almost carnal subtlety and while Sutcliffe's stomach quailed his palate hungered for the treat.</text>
+<sha1>iramrc454dwl061b2jsv1jf8gzes4jx</sha1>
+</revision>
+</page>

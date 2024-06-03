@@ -1,0 +1,30 @@
+<page>
+<title>xanthogenate</title>
+<ns>0</ns>
+<id>1625331</id>
+<revision>
+<id>40483491</id>
+<parentid>35622788</parentid>
+<timestamp>2016-09-12T23:22:03Z</timestamp>
+<contributor>
+<username>OrphicBot</username>
+<id>3186543</id>
+</contributor>
+<minor />
+<comment>{also|...} template updated; 1 item added.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="217" xml:space="preserve">{{also|Xanthogenate}}
+==English==
+===Noun===
+{{en-noun}}
+# [[xanthate]]
+====Translations====
+{{trans-top|xanthate}}
+* German: {{t+|de|Xanthogenat|n}}
+{{trans-mid}}
+* Italian: {{t|it|xantogenato|m}}
+{{trans-bottom}}</text>
+<sha1>h7c6xove5m9hacxfxloahdyyne7umf9</sha1>
+</revision>
+</page>

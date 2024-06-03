@@ -1,0 +1,32 @@
+<page>
+<title>xerocopiate</title>
+<ns>0</ns>
+<id>758056</id>
+<revision>
+<id>64976872</id>
+<parentid>64795125</parentid>
+<timestamp>2021-12-17T01:24:55Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>add top-level Italian pron {{it-pr|xerocopiàte,xèrocopiàte&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}} (manually assisted); add new ===References=== section for pron footnotes</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="371" xml:space="preserve">==Italian==
+===Pronunciation===
+{{it-pr|xerocopiàte,xèrocopiàte&lt;ref:{{R:it:DiPI|xerocopia}}&gt;}}
+===Etymology 1===
+====Verb====
+{{head|it|verb form}}
+# {{inflection of|it|xerocopiare||2|p|pres|ind//sub|;|2|p|impr}}
+===Etymology 2===
+====Participle====
+{{head|it|past participle form|g=f-p}}
+# {{feminine plural of|it|xerocopiato}}
+===References===
+&lt;references /&gt;</text>
+<sha1>e3yph0bytkh8vt4hruswpoedrio6z7c</sha1>
+</revision>
+</page>

@@ -1,0 +1,29 @@
+<page>
+<title>xinesos</title>
+<ns>0</ns>
+<id>1789856</id>
+<revision>
+<id>66143433</id>
+<parentid>61037879</parentid>
+<timestamp>2022-03-14T08:06:33Z</timestamp>
+<contributor>
+<username>DerbethBot</username>
+<id>48857</id>
+</contributor>
+<minor />
+<comment>added audio LL-Q7026 (cat)-Millars-xinesos.wav</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="269" xml:space="preserve">==Catalan==
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Millars-xinesos.wav|Audio (Valencian)}}
+===Adjective===
+{{head|ca|adjective form}}
+# {{ca-form of|mp|xinès|val=xinés}}
+===Noun===
+{{head|ca|noun form}}
+# {{ca-form of|mp|xinès|val=xinés}}</text>
+<sha1>fl0ulav69eist0agjgv2aht6zlxdo6q</sha1>
+</revision>
+</page>

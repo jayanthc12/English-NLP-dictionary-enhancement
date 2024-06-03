@@ -1,0 +1,29 @@
+<page>
+<title>xenography</title>
+<ns>0</ns>
+<id>1084488</id>
+<revision>
+<id>64460162</id>
+<parentid>60423343</parentid>
+<timestamp>2021-10-28T12:15:33Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="899" xml:space="preserve">==English==
+===Etymology===
+{{confix|en|xeno|graphy}}
+===Pronunciation===
+* {{rhymes|en|ɒɡɹəfi|s=4}}
+===Noun===
+{{en-noun|-}}
+# {{lb|en|medicine}} The process of [[surgically]] [[transplant]]ing [[organ]]s or [[tissue]] between different [[species]].
+#* {{quote-book|en|year=2006|author=Lesley A. Sharp|title=Strange Harvest: Organ Transplants, Denatured Bodies, and the Transformed Self|location=Berkeley, CA|publisher={{w|University of California Press}}|isbn=0520247841|page={{gbooks|BApgNof0OqkC|218|xenography}}|passage=As Tanya Ryder explained, for example, “We are all for it, anything that will keep you alive. But we've known about '''xenography''' for a long time. There is now a special kind of pig that is being bred for its kidneys.”}}
+#: {{syn|en|xenotransplantation}}
+# {{lb|en|linguistics}} The ability to write in a [[language]] which the individual has not [[learn]]ed.</text>
+<sha1>m0poconvccbippfmi57eyb4t5c4fubb</sha1>
+</revision>
+</page>

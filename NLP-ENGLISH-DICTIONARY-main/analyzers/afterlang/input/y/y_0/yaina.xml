@@ -1,0 +1,25 @@
+<page>
+<title>yaina</title>
+<ns>0</ns>
+<id>6978440</id>
+<revision>
+<id>62085130</id>
+<parentid>50687336</parentid>
+<timestamp>2021-03-14T03:06:29Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove bullet before {{es-IPA}}, incorporate pre/post {{es-IPA}} text into pre=/post=; clean up 'literally', use {{cog}}, delete unrelated 'see also' in pronun sections, use {{es-adj-inv}}, misc cleanup (manually assisted)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="82" xml:space="preserve">==Spanish==
+===Pronunciation===
+{{es-IPA}}
+===Noun===
+{{es-noun|mf}}
+# [[Jain]]</text>
+<sha1>4tnzvjwxg44x8c4qo4tpytu9ravdjpn</sha1>
+</revision>
+</page>

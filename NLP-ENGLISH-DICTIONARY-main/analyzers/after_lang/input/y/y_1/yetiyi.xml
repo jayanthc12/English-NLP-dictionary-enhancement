@@ -1,0 +1,23 @@
+<page>
+<title>yetiyi</title>
+<ns>0</ns>
+<id>3977583</id>
+<revision>
+<id>57548099</id>
+<parentid>33452353</parentid>
+<timestamp>2019-10-20T03:30:21Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="81" xml:space="preserve">==Turkish==
+===Noun===
+{{head|tr|noun form}}
+# {{inflection of|tr|yeti||acc|s}}</text>
+<sha1>b7i9stua3h4cs1m7gmye2jbntnqicl0</sha1>
+</revision>
+</page>

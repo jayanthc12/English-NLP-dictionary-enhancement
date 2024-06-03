@@ -1,0 +1,53 @@
+<page>
+<title>Yamamoto</title>
+<ns>0</ns>
+<id>5183698</id>
+<revision>
+<id>68732357</id>
+<parentid>68714016</parentid>
+<timestamp>2022-08-26T06:33:37Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|pt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1501" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|山本|tr=Yamamoto}}, meaning &quot;(one who lives at) the [[base]] of the [[mountain]](s)&quot; or &quot;(one from) Yamamoto District&quot;.
+===Proper noun===
+{{en-proper noun|Yamamotos}}
+# {{surname|en|from=Japanese}}, ''one of the 10 most common in Japan''.
+#* '''2008 November 21''', Graham Linehan, ''{{w|The IT Crowd}}'', Season 3, Episode 1:
+#*: ''Nolan:'' You do know [[Japan]] have expressed concern?&lt;br&gt;''Douglas:'' What, the whole country?&lt;br&gt;''Nolan:'' No, not the whole... Mr '''Yamamoto'''.&lt;br&gt;''Douglas:'' He's important, isn't he?&lt;br&gt;''Nolan:'' He's the major [[shareholder]].
+# A [[district]] of [[Akita]] [[prefecture|Prefecture]] in [[northwestern]] [[Honshu]], [[Japan]].
+# A [[Japanese]] [[battleship]] [[class]].
+===Statistics===
+* According to the 2010 United States Census, ''Yamamoto'' is the 4,702&lt;sup&gt;nd&lt;/sup&gt; most common surname in the United States, belonging to 7,547 individuals. ''Yamamoto'' is most common among Asian/Pacific Islander (79.82%) individuals.
+[[Category:en:World War II]]
+----
+==French==
+===Etymology===
+Borrowed from {{bor|fr|ja|山本|tr=Yamamoto}}.
+===Pronunciation===
+* {{fr-IPA}}
+===Proper noun===
+{{fr-proper noun}}
+# {{surname|fr|from=Japanese}}
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまもと}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|山本|tr=Yamamoto}}.
+===Proper noun===
+{{pt-proper noun|m|g2=f}}
+# {{surname|pt|from=Japanese}}</text>
+<sha1>h6tcemn212szkrn9tnmn08suaeteoc8</sha1>
+</revision>
+</page>

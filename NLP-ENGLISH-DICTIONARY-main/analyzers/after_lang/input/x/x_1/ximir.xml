@@ -1,0 +1,29 @@
+<page>
+<title>ximir</title>
+<ns>0</ns>
+<id>1179652</id>
+<revision>
+<id>63108322</id>
+<parentid>54778838</parentid>
+<timestamp>2021-07-07T16:19:31Z</timestamp>
+<contributor>
+<username>Santi2222</username>
+<id>2319339</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="258" xml:space="preserve">==Asturian==
+===Etymology===
+From {{inh|ast|la|gemere}}, present active infinitive of {{m|la|gemō}}.
+===Pronunciation===
+{{ast-IPA}}
+* {{hyphenation|ast|xi|mir}}
+===Verb===
+{{ast-verb-ir|xim}}
+# To {{l|en|moan}}.
+====Conjugation====
+{{ast-conj-ir|xim}}</text>
+<sha1>d9k7ru04b7olzf8q9165pkexi2b2mao</sha1>
+</revision>
+</page>

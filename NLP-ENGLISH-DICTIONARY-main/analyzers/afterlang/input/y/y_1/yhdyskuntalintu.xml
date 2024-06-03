@@ -1,0 +1,29 @@
+<page>
+<title>yhdyskuntalintu</title>
+<ns>0</ns>
+<id>7170743</id>
+<revision>
+<id>58603435</id>
+<parentid>58593416</parentid>
+<timestamp>2020-01-31T11:44:50Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<minor />
+<comment>(bot:fi) use slashes in fi-p to split main components that themselves are compounds</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="227" xml:space="preserve">==Finnish==
+===Etymology===
+{{affix|fi|yhdyskunta|lintu}}
+===Pronunciation===
+{{fi-pronunciation|yhdys-kunta/lintu}}
+===Noun===
+{{fi-noun}}
+# [[colonial]] [[bird]]
+====Declension====
+{{fi-decl-valo|yhdyskuntali|nt|nn|u|a}}</text>
+<sha1>af4b3gc32ypn3aklg47v0cs9ce8efaj</sha1>
+</revision>
+</page>

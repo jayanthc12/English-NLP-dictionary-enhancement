@@ -1,0 +1,25 @@
+<page>
+<title>ybathed</title>
+<ns>0</ns>
+<id>1214699</id>
+<revision>
+<id>66593927</id>
+<parentid>58554314</parentid>
+<timestamp>2022-05-07T10:45:24Z</timestamp>
+<contributor>
+<username>This, that and the other</username>
+<id>36412</id>
+</contributor>
+<minor />
+<comment>correct language code en -&gt; enm using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="143" xml:space="preserve">==Middle English==
+===Etymology===
+{{prefix|enm|y|bathed}}
+===Verb===
+{{head|enm|verb form}}
+# {{past participle of|enm|bathen}}: [[bathed]]</text>
+<sha1>q6b4z7eg2r8th6lqjqu14g8kuczjcfw</sha1>
+</revision>
+</page>

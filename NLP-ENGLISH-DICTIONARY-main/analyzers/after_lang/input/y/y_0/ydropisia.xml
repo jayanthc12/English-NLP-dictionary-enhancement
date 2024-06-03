@@ -1,0 +1,32 @@
+<page>
+<title>ydropisia</title>
+<ns>0</ns>
+<id>5868094</id>
+<revision>
+<id>69127134</id>
+<parentid>65007896</parentid>
+<timestamp>2022-09-05T03:41:06Z</timestamp>
+<contributor>
+<username>Nicodene</username>
+<id>442331</id>
+</contributor>
+<comment>/* Pronunciation */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="914" xml:space="preserve">==Old Spanish==
+===Etymology===
+From {{bor|osp|LL.|hydropisia}}, from {{der|osp|la|hydropisis}}, from {{der|osp|grc|ὕδρωψ||edema}}, from {{m|grc|ὕδωρ||water}}. Compare with {{cog|en|dropsy}}.  The word may have been borrowed through {{bor|osp|fro|ydropisie}}.
+===Pronunciation===
+* {{IPA|osp|/idɾopiˈsia/}}
+===Noun===
+{{osp-noun|f|-}}
+# [[dropsy]]; [[edema]]
+#* '''c. 1250:''' [[w:Alfonso X|Alfonso X]], ''Lapidario'', f. 118v.
+#*: Et dixieron los ſabios en el libro de las piedras que la uerde atal uirtut. que quien la engaſtonare en ſortija. la traxiere conſigo. nõ aura la enfermedat a que dizen '''ydropiſia'''.
+#*:: And in the ''Book of Stones'' the wise men claimed that the green stone possesses such virtue that he who mounts it on a ring and has it with him will not suffer from the illness they call '''dropsy'''.
+====Descendants====
+* {{desc|es|hidropesía}}
+{{c|osp|Diseases}}</text>
+<sha1>c9f7e6u5ahhn8brxh9afv5nzfmtivvm</sha1>
+</revision>
+</page>

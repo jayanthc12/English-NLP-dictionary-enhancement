@@ -1,0 +1,23 @@
+<page>
+<title>xeranticarum</title>
+<ns>0</ns>
+<id>4151217</id>
+<revision>
+<id>56273771</id>
+<parentid>23178992</parentid>
+<timestamp>2019-10-17T11:06:39Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{inflection of}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="102" xml:space="preserve">==Latin==
+===Adjective===
+{{la-adj-form|xēranticārum}}
+# {{inflection of|la|xēranticus||gen|f|p}}</text>
+<sha1>a6aqvr72ppopukm4w59dd32hqxiblun</sha1>
+</revision>
+</page>

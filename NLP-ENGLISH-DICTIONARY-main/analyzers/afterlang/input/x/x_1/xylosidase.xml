@@ -1,0 +1,25 @@
+<page>
+<title>xylosidase</title>
+<ns>0</ns>
+<id>2098166</id>
+<revision>
+<id>51880873</id>
+<parentid>39399611</parentid>
+<timestamp>2019-03-15T09:09:11Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{suffix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="163" xml:space="preserve">==English==
+===Etymology===
+{{suffix|en|xyloside|ase}}
+===Noun===
+{{en-noun}}
+# {{lb|en|enzyme}} Any [[enzyme]] that catalyses the hydrolysis of a [[xyloside]].</text>
+<sha1>revcj3gq7fp9tr8gr1yo1glsjob1syq</sha1>
+</revision>
+</page>

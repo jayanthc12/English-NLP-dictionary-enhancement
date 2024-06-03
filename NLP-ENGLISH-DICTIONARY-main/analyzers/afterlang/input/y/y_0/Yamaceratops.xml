@@ -1,0 +1,26 @@
+<page>
+<title>Yamaceratops</title>
+<ns>0</ns>
+<id>7347235</id>
+<revision>
+<id>60313486</id>
+<parentid>54094216</parentid>
+<timestamp>2020-09-06T21:21:09Z</timestamp>
+<contributor>
+<username>Rukhabot</username>
+<id>45268</id>
+</contributor>
+<minor />
+<comment>per [[WT:NORM]], ensure &quot;One blank line before all headings&quot; (except the first)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="322" xml:space="preserve">==Translingual==
+{{wikipedia}}
+===Etymology===
+From {{der|mul|sa|यम||{{w|Yama}}, god of death}} + {{der|mul|grc|κέρας||horn}} + {{m|grc|ὤψ||face}}.
+===Proper noun===
+{{taxoninfl|g=m|i=1}}
+# {{taxon|genus|family|Auroraceratopsidae|a [[ceratopsian]] [[dinosaur]] from the Late [[Cretaceous]] of [[Mongolia]]}}</text>
+<sha1>qaa3id74iata9wfh814allvy93zi4un</sha1>
+</revision>
+</page>

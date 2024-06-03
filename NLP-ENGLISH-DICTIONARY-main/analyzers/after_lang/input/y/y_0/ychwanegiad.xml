@@ -1,0 +1,29 @@
+<page>
+<title>ychwanegiad</title>
+<ns>0</ns>
+<id>2418272</id>
+<revision>
+<id>60819592</id>
+<parentid>55989448</parentid>
+<timestamp>2020-10-11T07:39:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>{{cy-mut-auto}} -&gt; {{cy-mut}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="265" xml:space="preserve">==Welsh==
+===Etymology===
+From {{af|cy|ychwanegu|-iad}}.
+===Pronunciation===
+* {{IPA|cy|/ˌəχwaˈnɛɡjad/}}
+===Noun===
+{{cy-noun|m|ychwanegiadau}}
+# [[addition]], [[adjunct]], [[attachment]], [[appendix]], [[increment]], [[add-on]]
+===Mutation===
+{{cy-mut}}</text>
+<sha1>rrz2k696hjcbvdeaewvzepp7nfnc3mo</sha1>
+</revision>
+</page>

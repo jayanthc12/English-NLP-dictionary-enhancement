@@ -1,0 +1,37 @@
+<page>
+<title>Yamnaya</title>
+<ns>0</ns>
+<id>4943543</id>
+<revision>
+<id>65532922</id>
+<parentid>65532920</parentid>
+<timestamp>2022-01-27T20:53:34Z</timestamp>
+<contributor>
+<username>Mellohi!</username>
+<id>650847</id>
+</contributor>
+<comment>/* Etymology */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="1570" xml:space="preserve">==English==
+{{wikipedia|Yamnaya culture}}
+===Etymology===
+From {{bor|en|ru|Ямная}}, an adjective formed from {{m|ru|яма|t=pit}}, referring to the culture's burial practices.
+===Alternative forms===
+* {{l|en|Yamna}}
+===Proper noun===
+{{en-proper noun}}
+# A late Copper Age to early Bronze Age archaeological culture of the region between the Southern Bug, Dniester, and Ural rivers (the Pontic steppe), dating to 3300–2600 BC.
+#* '''2015''', Nature, Allentoft et al., ''Population genomics of Bronze Age Eurasia'':
+#*: Although European Late Neolithic and Bronze Age cultures such as Corded Ware, Bell Beakers, Unetice, and the Scandinavian cultures are genetically very similar to each other (Fig. 2), they still display a cline of genetic affinity with '''Yamnaya''', with highest levels in Corded Ware, lowest in Hungary, and central European Bell Beakers being intermediate (Fig. 2b and Extended Data Table 1).
+===Noun===
+{{en-plural noun}}
+# The people of the Yamnaya culture.
+#* '''2015''', Nature 522 (7555), Haak, W. et al, ''[http://arxiv.org/ftp/arxiv/papers/1502/1502.02783.pdf Massive migration from the steppe was a source for Indo-European languages in Europe]'':
+#*: This pattern is also seen in ADMIXTURE analysis (Fig. 2b, SI6 ), which implies that the '''Yamnaya''' have ancestry from populations related to the Caucasus and South Asia that is largely absent in 38 Early or Middle Neolithic farmer s but present in all 25 Late Neolithic or Bronze Age individuals .
+===Adjective===
+{{en-adj}}
+# Of or relating to this people or culture.</text>
+<sha1>ic900dn2s88uqdokkuka5g6swzwrps1</sha1>
+</revision>
+</page>

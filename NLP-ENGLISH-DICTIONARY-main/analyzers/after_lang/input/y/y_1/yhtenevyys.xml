@@ -1,0 +1,28 @@
+<page>
+<title>yhtenevyys</title>
+<ns>0</ns>
+<id>3629833</id>
+<revision>
+<id>69318496</id>
+<parentid>61004972</parentid>
+<timestamp>2022-09-18T17:21:29Z</timestamp>
+<contributor>
+<username>SurjectionBot</username>
+<id>3456416</id>
+</contributor>
+<comment>(bot:fi) add pronunciation from automatically generated but manually curated list</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">==Finnish==
+===Etymology===
+{{suffix|fi|yhtenevä|gloss1=congruent|uus|alt2=yys}}
+===Pronunciation===
+{{fi-p}}
+===Noun===
+{{fi-noun}}
+# {{lb|fi|geometry}} [[congruence]]
+====Declension====
+{{fi-decl-kalleus|yhtenevyy|ä}}</text>
+<sha1>bfvvj37fy84ne0kdep3h0pigv3ey4hg</sha1>
+</revision>
+</page>

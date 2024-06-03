@@ -1,0 +1,35 @@
+<page>
+<title>yakuzas</title>
+<ns>0</ns>
+<id>1833331</id>
+<revision>
+<id>65241388</id>
+<parentid>64470028</parentid>
+<timestamp>2022-01-08T08:29:53Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>English: correct misformatted language section divider at end</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="331" xml:space="preserve">==English==
+===Noun===
+{{head|en|noun form}}
+# {{plural of|en|yakuza}} {{qualifier|a member of a yakuza}}
+----
+==French==
+===Pronunciation===
+* {{fr-IPA|yakuza|yakouza}}
+===Noun===
+{{head|fr|noun form|g=m}}
+# {{plural of|fr|yakuza}}
+----
+==Spanish==
+===Noun===
+{{head|es|noun form|g=m-p}}
+# {{noun form of|es|yakuza||p}}</text>
+<sha1>0rzmi7b2mwfmwdnr6z5re29j7xtjw3d</sha1>
+</revision>
+</page>

@@ -1,0 +1,31 @@
+<page>
+<title>yesterseason</title>
+<ns>0</ns>
+<id>2624525</id>
+<revision>
+<id>51773637</id>
+<parentid>41163678</parentid>
+<timestamp>2019-03-13T13:35:14Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>move lang= to 1= in {{prefix}}</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="569" xml:space="preserve">==English==
+===Etymology===
+From {{prefix|en|yester|season}}.
+===Noun===
+{{en-noun|-}}
+# A past or prior [[season]], last season; an earlier or [[previous]] [[period]] of time.
+#* '''2009''', Carlton Thurman, ''Caddie Esoterica'':
+#*: Dared try fly, we, these impassible trees, whose drive-capturing crests communicate failed shots to '''yesterseason's''' leafy cache [...]
+#* '''1980''', Vincent Gaston Dethier, ''The world of the tent-makers'':
+#*: The dried umbles of the Queen Anne's lace of '''yesterseason''', [...]
+====Related terms====
+* {{l|en|yestertide}}</text>
+<sha1>gnjooakg2ydl18idqhnf7gg8rj0mp9h</sha1>
+</revision>
+</page>

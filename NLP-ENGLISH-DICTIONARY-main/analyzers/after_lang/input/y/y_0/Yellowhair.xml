@@ -1,0 +1,25 @@
+<page>
+<title>Yellowhair</title>
+<ns>0</ns>
+<id>6324220</id>
+<revision>
+<id>67865648</id>
+<parentid>67805814</parentid>
+<timestamp>2022-07-11T01:49:31Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove 2=Navajo in {{surname}} that duplicates from=</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="357" xml:space="preserve">==English==
+===Proper noun===
+{{en-proper noun|Yellowhairs}}
+# {{surname|en|from=Navajo}}.
+===Statistics===
+* According to the 2010 United States Census, ''Yellowhair'' is the 30735&lt;sup&gt;th&lt;/sup&gt; most common surname in the United States, belonging to 758 individuals. ''Yellowhair'' is most common among American Indian/Alaska Native (94.46%) individuals.</text>
+<sha1>guvgfxxfwmhy11m6pnstszgd5ri40ww</sha1>
+</revision>
+</page>

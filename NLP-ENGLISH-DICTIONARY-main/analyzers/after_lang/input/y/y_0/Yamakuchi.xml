@@ -1,0 +1,37 @@
+<page>
+<title>Yamakuchi</title>
+<ns>0</ns>
+<id>7272590</id>
+<revision>
+<id>68742825</id>
+<parentid>67797248</parentid>
+<timestamp>2022-08-26T08:36:41Z</timestamp>
+<contributor>
+<username>WingerBot</username>
+<id>2024159</id>
+</contributor>
+<minor />
+<comment>remove final dot from non-English {{surname|pt}} line</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="417" xml:space="preserve">==English==
+===Etymology===
+Borrowed from {{bor|en|ja|山口|tr=Yamakuchi}}.
+===Proper noun===
+{{en-proper noun|Yamakuchis}}
+# {{surname|en|from=Japanese}}.
+----
+==Japanese==
+===Romanization===
+{{ja-romaji}}
+# {{ja-romanization of|やまくち}}
+----
+==Portuguese==
+===Etymology===
+Borrowed from {{bor|pt|ja|山口|tr=Yamakuchi}}.
+===Proper noun===
+{{pt-proper noun|m|g2=f}}
+# {{surname|pt|from=Japanese}}</text>
+<sha1>7wid9y2z54t6ku83g2xlgtyk0e5y8qx</sha1>
+</revision>
+</page>

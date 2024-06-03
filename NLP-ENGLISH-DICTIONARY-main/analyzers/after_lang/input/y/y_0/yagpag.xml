@@ -1,0 +1,31 @@
+<page>
+<title>yagpag</title>
+<ns>0</ns>
+<id>6349405</id>
+<revision>
+<id>47788340</id>
+<parentid>47272231</parentid>
+<timestamp>2017-10-15T00:51:37Z</timestamp>
+<contributor>
+<username>NadandoBot</username>
+<id>394541</id>
+</contributor>
+<minor />
+<comment>reorder headers according to WT:ELE</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="259" xml:space="preserve">==Tagalog==
+===Noun===
+{{tl-noun|yagpág}}
+# [[flap]]ping or [[flutter]]ing of [[wing]]s
+====Synonyms====
+* {{l|tl|pagpag}}
+* {{l|tl|paligpig}}
+* {{l|tl|pamamagpag}}
+* {{l|tl|pamamaligpig}}
+====Derived terms====
+* {{l|tl|pamamayagpag}}
+* {{l|tl|payagpag}}</text>
+<sha1>rzitgc2hvzor7gk7v2b3zfyoszehirs</sha1>
+</revision>
+</page>
